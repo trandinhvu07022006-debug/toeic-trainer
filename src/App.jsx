@@ -226,11 +226,8 @@ export default function App() {
       </aside>
 
       {/* ===== HEADER cho điện thoại (ẩn trên máy tính) ===== */}
-      <header className="lg:hidden sticky top-0 z-20 border-b backdrop-blur-xl"
-        style={{
-          background: dark ? "rgba(20,32,29,0.82)" : "rgba(250,247,240,0.85)",
-          borderColor: dark ? "#2c3e39" : "#e7e0d3"
-        }}>
+      <header className={"lg:hidden sticky top-0 z-20 border-b backdrop-blur-2xl " + T.app + " " + T.line}
+        style={{ background: dark ? "rgba(5, 5, 5, 0.75)" : "rgba(248, 250, 252, 0.85)" }}>
         <div className="mx-auto w-full max-w-2xl px-4 py-3 flex items-center justify-between">
           <Wordmark T={T} compact />
           <div className="flex items-center gap-2">
@@ -247,18 +244,18 @@ export default function App() {
         </div>
       </div>
 
-      {/* ===== BOTTOM NAV cho điện thoại (ẩn trên máy tính) ===== */}
+      {/* ===== BOTTOM NAV cho điện thoại (Glassmorphism Floating Bar) ===== */}
       <nav aria-label="Điều hướng chính" className="lg:hidden fixed bottom-0 left-0 right-0 z-20 px-4"
         style={{ paddingBottom: "calc(env(safe-area-inset-bottom) + 16px)", paddingTop: 8 }}>
-        <div className={"mx-auto max-w-[360px] rounded-xl border-4 grid grid-cols-6 p-1.5 " + (dark ? "bg-black border-gray-800" : "bg-white border-black")}
-          style={{ boxShadow: dark ? "0 10px 40px rgba(0,0,0,0.8)" : "4px 4px 0 rgba(0,0,0,1)" }}>
+        <div className={"mx-auto max-w-[360px] rounded-[24px] grid grid-cols-6 p-1.5 backdrop-blur-xl border shadow-xl " + (dark ? "bg-white/5 border-white/10" : "bg-white/80 border-gray-200")}
+          style={{ boxShadow: dark ? "0 10px 40px rgba(0,0,0,0.8)" : "0 10px 30px rgba(0,0,0,0.1)" }}>
           {TABS.map((t) => {
             const active = tab === t.key;
             const Icon = t.Icon;
             return (
               <button key={t.key} onClick={() => setTab(t.key)} aria-current={active ? "page" : undefined} aria-label={t.label} style={{ minHeight: 56 }}
-                className={"relative flex flex-col items-center justify-center gap-1 py-1 px-1 rounded-lg transition-colors " + (active ? (dark ? "bg-[#333]" : "bg-black text-white") : "hover:bg-gray-100")}>
-                <Icon size={24} className={active ? (dark ? T.accentText : "text-white") : T.sub} strokeWidth={active ? 3 : 2} />
+                className={"relative flex flex-col items-center justify-center gap-1 py-1 px-1 rounded-[20px] transition-all " + (active ? (dark ? "bg-white/15 drop-shadow-[0_0_10px_rgba(255,255,255,0.1)]" : "bg-black text-white") : "hover:bg-white/5")}>
+                <Icon size={24} className={active ? (dark ? T.accentText : "text-white") : T.sub} strokeWidth={active ? 2.5 : 2} />
                 <span className={"text-[9px] font-display mt-0.5 leading-none " + (active ? (dark ? T.accentText : "text-white") : T.sub)}>{t.label}</span>
               </button>
             );
@@ -269,15 +266,15 @@ export default function App() {
   );
 }
 
-/* Chữ hiệu (wordmark): Tùy biến KMG Club Logo */
+/* Chữ hiệu (wordmark): Tùy biến KMG Club Logo chuẩn Premium */
 function Wordmark({ T, compact }) {
   return (
     <div className="flex items-center gap-3">
-      <img src="/kmg_logo.jpg" alt="KMG Club" className="rounded-lg object-contain bg-white"
-        style={{ width: compact ? 42 : 56, height: compact ? 42 : 56, border: "3px solid #000" }} />
+      <img src="/kmg_logo.jpg" alt="KMG Club" className="rounded-xl object-contain shadow-lg bg-black"
+        style={{ width: compact ? 42 : 54, height: compact ? 42 : 54, border: "1px solid rgba(255,255,255,0.1)" }} />
       <div className="leading-tight">
-        <p className={"font-display " + (compact ? "text-[18px]" : "text-[22px]")}>KMG CLUB</p>
-        <p className={"text-[11px] font-extrabold uppercase tracking-widest " + T.sub}>English Training</p>
+        <p className={"font-display tracking-wide " + (compact ? "text-[18px]" : "text-[22px]")}>KMG CLUB</p>
+        <p className={"text-[11px] font-bold uppercase tracking-widest " + T.sub}>English Training</p>
       </div>
     </div>
   );

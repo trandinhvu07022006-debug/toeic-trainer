@@ -1,24 +1,21 @@
 @import "tailwindcss";
 
 /* ============================================================
-   KMG CLUB — Giao diện Music / Rock Brutalist
-   Hướng thiết kế: Sắc cạnh, Khỏe khoắn, Đen/Trắng nhấn Đỏ (Crimson).
+   KMG CLUB — Giao diện Premium Web (Spotify x Parroto)
+   Hướng thiết kế: Dark Space, Glassmorphism, Neon Glow.
    ============================================================ */
 
 :root {
-  /* Đỏ Rock & Đen */
-  --accent: #dc2626;
-  /* Đỏ rực */
-  --accent-strong: #991b1b;
-  /* Đỏ đô */
-  --accent-soft: #ef4444;
+  /* Neon Red cho KMG */
+  --accent: #ef4444;
+  --accent-strong: #dc2626;
+  --accent-soft: #f87171;
 
-  /* Lửa cam streak */
-  --amber: #f97316;
+  --amber: #f59e0b;
 
-  /* Font cực đậm, góc cạnh, mạnh mẽ (Roboto/Oswald/Impact vibe) */
-  --font-display: "Montserrat", "Arial Black", "Segoe UI Black", Roboto, sans-serif;
-  --font-body: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  /* Typography hiện đại siêu mượt */
+  --font-display: "Montserrat", "Outfit", system-ui, sans-serif;
+  --font-body: "Inter", "Roboto", system-ui, sans-serif;
 }
 
 html,
@@ -32,54 +29,44 @@ body {
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
   font-family: var(--font-body);
+  transition: background-color 0.4s ease, color 0.3s ease;
 }
 
 .font-display {
   font-family: var(--font-display);
-  font-weight: 900;
-  /* Dày nhất có thể */
-  letter-spacing: -0.02em;
-  text-transform: uppercase;
+  font-weight: 800;
+  letter-spacing: -0.01em;
 }
 
 .tnum {
   font-variant-numeric: tabular-nums;
 }
 
-/* Nền bụi bặm hơn - Trắng xám hoặc Đen nhám */
-.paper-grain {
-  background-color: #f3f4f6;
-}
-
-.paper-grain-dark {
-  background-color: #0d0d0d;
-  color: #fff;
-}
-
 /* ============================================================
-   Chuyển động — Nảy, nổi popup 
+   Chuyển động (Motion & Micro-interactions)
    ============================================================ */
 @keyframes toeicFade {
   from {
     opacity: 0;
     transform: translateY(12px);
+    filter: blur(4px);
   }
 
   to {
     opacity: 1;
     transform: none;
+    filter: blur(0);
   }
 }
 
-/* Easing siêu đàn hồi (bouncy) cho cảm giác kẹo, đồ chơi */
 .animate-fade {
-  animation: toeicFade 0.4s cubic-bezier(0.34, 1.56, 0.64, 1) both;
+  animation: toeicFade 0.5s cubic-bezier(0.2, 0.8, 0.2, 1) both;
 }
 
 @keyframes toeicPop {
   from {
     opacity: 0;
-    transform: scale(0.9);
+    transform: scale(0.95);
   }
 
   to {
@@ -89,7 +76,7 @@ body {
 }
 
 .animate-pop {
-  animation: toeicPop 0.3s cubic-bezier(0.34, 1.56, 0.64, 1) both;
+  animation: toeicPop 0.3s cubic-bezier(0.2, 0.8, 0.2, 1) both;
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -105,39 +92,39 @@ body {
   }
 }
 
-body {
-  transition: background-color 0.3s ease, color 0.2s ease;
-}
-
-/* Bấm nút: Cảm giác lún 3D của App Game */
+/* Tối ưu hiệu ứng hover/active cho cảm giác Premium */
 button {
-  transition: transform 0.1s cubic-bezier(0.34, 1.56, 0.64, 1), box-shadow 0.1s ease, filter 0.1s ease, opacity 0.1s ease;
+  transition: transform 0.15s cubic-bezier(0.2, 0.8, 0.2, 1), box-shadow 0.2s ease, opacity 0.2s ease, filter 0.2s ease;
 }
 
 button:active {
-  transform: translateY(2px);
-  box-shadow: 0 0px 0 transparent !important;
-  filter: brightness(0.95);
+  transform: scale(0.96);
+  filter: brightness(0.85);
 }
 
 :focus-visible {
   outline: 2px solid var(--accent);
-  outline-offset: 2px;
-  border-radius: 12px;
+  outline-offset: 4px;
+  border-radius: 99px;
 }
 
+/* Thanh cuộn tàng hình thanh lịch */
 ::-webkit-scrollbar {
-  width: 8px;
-  height: 8px;
+  width: 6px;
+  height: 6px;
 }
 
 ::-webkit-scrollbar-thumb {
-  background: rgba(160, 160, 160, 0.3);
-  border-radius: 999px;
+  background: rgba(120, 120, 120, 0.3);
+  border-radius: 99px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(120, 120, 120, 0.5);
 }
 
 /* ============================================================
-   Tiện ích thiết kế 
+   Tiện ích thiết kế (Design Utilities)
    ============================================================ */
 .bg-accent {
   background-color: var(--accent) !important;
@@ -158,20 +145,26 @@ button:active {
 }
 
 .bg-accent-tint {
-  background-color: #e5fbee;
-  border: 2px solid var(--accent);
-  border-bottom: 4px solid var(--accent);
+  background: linear-gradient(135deg, rgba(239, 68, 68, 0.1) 0%, rgba(239, 68, 68, 0.02) 100%);
+  border: 1px solid rgba(239, 68, 68, 0.3);
+  box-shadow: 0 4px 20px rgba(239, 68, 68, 0.1);
 }
 
-.bg-accent-chip {
-  background-color: #e5fbee;
-  color: var(--accent-strong);
-  font-weight: 800;
+.glow-btn {
+  background: linear-gradient(135deg, #ef4444 0%, #b91c1c 100%);
+  box-shadow: 0 4px 15px rgba(239, 68, 68, 0.4);
+  color: white;
+  border: none;
+}
+
+.glow-btn:hover {
+  box-shadow: 0 6px 20px rgba(239, 68, 68, 0.6);
+  filter: brightness(1.1);
 }
 
 /* Lưới thẻ bay bổng Stagger */
 .stagger>* {
-  animation: toeicFade 0.5s cubic-bezier(0.34, 1.56, 0.64, 1) both;
+  animation: toeicFade 0.6s cubic-bezier(0.2, 0.8, 0.2, 1) both;
 }
 
 .stagger>*:nth-child(1) {
@@ -179,27 +172,21 @@ button:active {
 }
 
 .stagger>*:nth-child(2) {
-  animation-delay: .08s
+  animation-delay: .06s
 }
 
 .stagger>*:nth-child(3) {
-  animation-delay: .15s
+  animation-delay: .10s
 }
 
 .stagger>*:nth-child(4) {
-  animation-delay: .22s
+  animation-delay: .14s
 }
 
 .stagger>*:nth-child(5) {
-  animation-delay: .29s
+  animation-delay: .18s
 }
 
 .stagger>*:nth-child(6) {
-  animation-delay: .36s
-}
-
-@media (prefers-reduced-motion: reduce) {
-  .stagger>* {
-    animation: none
-  }
+  animation-delay: .22s
 }

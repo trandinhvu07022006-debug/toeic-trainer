@@ -549,13 +549,13 @@ export function VocabScreen({ T, dark, tts, srs, onGrade }) {
 
   const learned = VOCAB.filter((v) => isLearned(srs[v.id])).length;
 
-  /* Thanh chuyển đổi giữa hai chế độ học (KMG Club Style) */
+  /* Thanh chuyển đổi giữa hai chế độ học (Premium Glow Toggle) */
   const ModeToggle = () => (
-    <div className={"flex gap-2 p-1.5 rounded-lg border-4 border-black mb-6 " + (dark ? "bg-[#111]" : "bg-gray-100")}>
+    <div className={"flex gap-2 p-1.5 rounded-xl border backdrop-blur-md mb-6 shadow-inner " + (dark ? "bg-white/5 border-white/10" : "bg-gray-100 border-gray-200")}>
       {[["srs", "Ôn luyện SRS"], ["topic", "Học theo Chủ Đề"]].map(([k, label]) => (
         <button key={k} onClick={() => setLearnMode(k)} style={{ minHeight: 44 }}
-          className={"flex-1 font-display tracking-widest text-[14px] uppercase transition-colors border-2 " +
-            (learnMode === k ? "bg-accent text-white border-black shadow-[2px_2px_0_0_#000]" : "bg-transparent border-transparent text-gray-500 hover:text-black hover:border-black")}>
+          className={"flex-1 font-display tracking-widest text-[14px] uppercase transition-all rounded-lg " +
+            (learnMode === k ? "bg-white/20 text-white shadow-lg drop-shadow-[0_0_8px_rgba(255,255,255,0.4)]" : "bg-transparent text-gray-500 hover:text-white hover:bg-white/5")}>
           {label}
         </button>
       ))}
