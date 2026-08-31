@@ -1,22 +1,22 @@
 @import "tailwindcss";
 
 /* ============================================================
-   TOEIC Trainer — nền tảng thị giác
-   Hướng thiết kế: "phòng đọc / sách luyện đề" thay vì app game hoá.
-   - Chữ: Fraunces (serif có cá tính) cho đầu đề & con số; Inter cho thân bài.
-   - Màu nhấn: xanh thông (pine) trầm, gợi sự tập trung và "đúng".
-     Đưa vào biến CSS để không rải mã màu cứng khắp nơi.
+   TOEIC Trainer — Giao diện Gamification (Mô phỏng Parroto/Duolingo)
+   Hướng thiết kế: Vui nhộn, nổi khối 3D, trong trẻo, rực rỡ.
    ============================================================ */
 
 :root {
-  /* Xanh thông — màu nhấn chủ đạo (thay cho tím-indigo cũ) */
-  --accent: #1f6b57;
-  --accent-strong: #175544;
-  --accent-soft: #2f8b72;
-  /* Hổ phách — tín hiệu phụ (streak, nhấn nhá), lấy từ trạng thái chấm đúng */
-  --amber: #c8791f;
-  --font-display: "Fraunces", ui-serif, Georgia, "Times New Roman", serif;
-  --font-body: "Inter", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  /* Xanh Neon Duolingo/Parroto */
+  --accent: #58cc02;
+  --accent-strong: #58a700;
+  --accent-soft: #89e219;
+  
+  /* Lửa đỏ streak và sai lầm */
+  --amber: #ff9600; 
+
+  /* Thay đổi bộ mặt Font thành Form tròn trịa, vui tươi (Nunito/Quicksand/Rounded) */
+  --font-display: "Nunito", "Quicksand", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-body: "Nunito", "Quicksand", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
 }
 
 html, body, #root { height: 100%; }
@@ -27,90 +27,73 @@ body {
   font-family: var(--font-body);
 }
 
-/* Đầu đề & con số dùng font hiển thị. Áp qua tiện ích .font-display. */
 .font-display {
   font-family: var(--font-display);
-  font-optical-sizing: auto;
-  letter-spacing: -0.01em;
+  font-weight: 800; /* Dày và tròn béo */
+  letter-spacing: -0.015em;
 }
-/* Con số căn đều bề rộng để bảng điểm/đồng hồ không nhảy chữ */
+
 .tnum { font-variant-numeric: tabular-nums; }
 
-/* ---- Kết cấu "giấy" cho nền sáng: chấm mảnh rất nhạt, tạo cảm giác trang sách.
-        Bật bằng class .paper-grain trên khung ngoài cùng. ---- */
+/* Huỷ bỏ nhám giấy cũ — Chuyển sang Flat Design tươi sáng trong trẻo */
 .paper-grain {
-  background-image: radial-gradient(rgba(31, 107, 87, 0.05) 0.5px, transparent 0.5px);
-  background-size: 22px 22px;
+  background-color: #f7f9fa; /* Trắng xám sạch của bảng điều khiển Parroto */
 }
 .paper-grain-dark {
-  background-image: radial-gradient(rgba(255, 255, 255, 0.035) 0.5px, transparent 0.5px);
-  background-size: 22px 22px;
+  background-color: #131f24; /* Tối phẳng của Dark Mode */
+  color: #fff;
 }
 
 /* ============================================================
-   Hoạt ảnh — tiết chế, phục vụ cảm giác "lật trang" mượt.
+   Chuyển động — Nảy, nổi popup 
    ============================================================ */
 @keyframes toeicFade {
-  from { opacity: 0; transform: translateY(8px); }
+  from { opacity: 0; transform: translateY(12px); }
   to   { opacity: 1; transform: none; }
 }
-.animate-fade { animation: toeicFade 0.34s cubic-bezier(0.22, 1, 0.36, 1) both; }
+/* Easing siêu đàn hồi (bouncy) cho cảm giác kẹo, đồ chơi */
+.animate-fade { animation: toeicFade 0.4s cubic-bezier(0.34, 1.56, 0.64, 1) both; }
 
 @keyframes toeicPop {
-  from { opacity: 0; transform: scale(0.97); }
-  to   { opacity: 1; transform: none; }
+  from { opacity: 0; transform: scale(0.9); }
+  to   { opacity: 1; transform: scale(1); }
 }
-.animate-pop { animation: toeicPop 0.22s ease-out both; }
-
-/* Vẽ nét cho thanh tiến độ dạng "thước đo" (signature) khi xuất hiện */
-@keyframes toeicRise {
-  from { transform: scaleY(0); }
-  to   { transform: scaleY(1); }
-}
+.animate-pop { animation: toeicPop 0.3s cubic-bezier(0.34, 1.56, 0.64, 1) both; }
 
 @media (prefers-reduced-motion: reduce) {
   .animate-fade, .animate-pop { animation: none; }
   * { animation-duration: 0.001ms !important; transition-duration: 0.001ms !important; }
 }
 
-/* Chuyển màu mượt khi đổi nền sáng/tối, nhưng không làm chậm transform */
 body { transition: background-color 0.3s ease, color 0.2s ease; }
 
-/* Nút bấm: phản hồi nhấn nhẹ, thống nhất toàn app */
-button { transition: transform 0.08s ease, opacity 0.15s ease, background-color 0.15s ease, border-color 0.15s ease; }
-button:active { transform: scale(0.97); }
+/* Bấm nút: Cảm giác lún 3D của App Game */
+button { transition: transform 0.1s cubic-bezier(0.34, 1.56, 0.64, 1), box-shadow 0.1s ease, filter 0.1s ease, opacity 0.1s ease; }
+button:active { transform: translateY(2px); box-shadow: 0 0px 0 transparent !important; filter: brightness(0.95); }
 
-/* Ổ khóa lấy nét bàn phím rõ ràng (chuẩn tối thiểu về khả năng tiếp cận) */
-:focus-visible { outline: 2px solid var(--accent-soft); outline-offset: 2px; border-radius: 4px; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 12px; }
 
-/* Thanh cuộn mảnh, hợp tông (WebKit) */
-::-webkit-scrollbar { width: 10px; height: 10px; }
-::-webkit-scrollbar-thumb { background: rgba(120,120,120,0.28); border-radius: 999px; border: 2px solid transparent; background-clip: content-box; }
-::-webkit-scrollbar-thumb:hover { background: rgba(120,120,120,0.45); background-clip: content-box; }
+::-webkit-scrollbar { width: 8px; height: 8px; }
+::-webkit-scrollbar-thumb { background: rgba(160,160,160,0.3); border-radius: 999px; }
 
 /* ============================================================
-   Tiện ích màu nhấn — dùng thay các lớp violet cứng của bản cũ.
-   Nhờ vậy toàn app đổi màu nhấn chỉ bằng biến --accent.
+   Tiện ích thiết kế 
    ============================================================ */
 .bg-accent { background-color: var(--accent) !important; }
-.bg-accent:active { filter: brightness(0.95); }
-.text-on-accent { color: #fff; }
+.text-on-accent { color: #fff; font-weight: bold; }
 .border-accent { border-color: var(--accent) !important; }
-.text-accent { color: var(--accent); }
-/* Nền nhấn rất nhạt cho ô đáp án đang chọn / mục được tô */
-.bg-accent-tint { background-color: color-mix(in srgb, var(--accent) 12%, transparent); }
-.bg-accent-chip { background-color: color-mix(in srgb, var(--accent) 14%, transparent); color: var(--accent); }
+.text-accent { color: var(--accent) !important; font-weight: 800; }
 
-/* Nút chính: nhấc nhẹ khi rê chuột trên máy tính (không ảnh hưởng cảm ứng) */
-@media (hover: hover) {
-  button:hover { }
-}
-/* Xuất hiện lần lượt cho lưới thẻ (nhẹ, chỉ trên trang chủ) */
-.stagger > * { animation: toeicFade 0.4s cubic-bezier(0.22,1,0.36,1) both; }
+.bg-accent-tint { background-color: #e5fbee; border: 2px solid var(--accent); border-bottom: 4px solid var(--accent); }
+.bg-accent-chip { background-color: #e5fbee; color: var(--accent-strong); font-weight: 800;}
+
+/* Lưới thẻ bay bổng Stagger */
+.stagger > * { animation: toeicFade 0.5s cubic-bezier(0.34,1.56,0.64,1) both; }
 .stagger > *:nth-child(1){animation-delay:.02s}
-.stagger > *:nth-child(2){animation-delay:.06s}
-.stagger > *:nth-child(3){animation-delay:.10s}
-.stagger > *:nth-child(4){animation-delay:.14s}
-.stagger > *:nth-child(5){animation-delay:.18s}
-.stagger > *:nth-child(6){animation-delay:.22s}
+.stagger > *:nth-child(2){animation-delay:.08s}
+.stagger > *:nth-child(3){animation-delay:.15s}
+.stagger > *:nth-child(4){animation-delay:.22s}
+.stagger > *:nth-child(5){animation-delay:.29s}
+.stagger > *:nth-child(6){animation-delay:.36s}
 @media (prefers-reduced-motion: reduce){ .stagger > *{animation:none} }
+

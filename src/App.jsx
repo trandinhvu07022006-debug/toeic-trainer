@@ -130,7 +130,7 @@ export default function App() {
         stats: { ...s.stats, listening, reading },
         lastResults: { ...s.lastResults, LC: r.lc, RC: r.rc, ALL: r },
         history: [...s.history,
-          { at: Date.now(), skill: "ALL", score: r.score, correct: r.correct, total: r.total, format: r.formatName }
+        { at: Date.now(), skill: "ALL", score: r.score, correct: r.correct, total: r.total, format: r.formatName }
         ].slice(-50),
       };
     }
@@ -227,8 +227,10 @@ export default function App() {
 
       {/* ===== HEADER cho điện thoại (ẩn trên máy tính) ===== */}
       <header className="lg:hidden sticky top-0 z-20 border-b backdrop-blur-xl"
-        style={{ background: dark ? "rgba(20,32,29,0.82)" : "rgba(250,247,240,0.85)",
-          borderColor: dark ? "#2c3e39" : "#e7e0d3" }}>
+        style={{
+          background: dark ? "rgba(20,32,29,0.82)" : "rgba(250,247,240,0.85)",
+          borderColor: dark ? "#2c3e39" : "#e7e0d3"
+        }}>
         <div className="mx-auto w-full max-w-2xl px-4 py-3 flex items-center justify-between">
           <Wordmark T={T} compact />
           <div className="flex items-center gap-2">
@@ -246,19 +248,18 @@ export default function App() {
       </div>
 
       {/* ===== BOTTOM NAV cho điện thoại (ẩn trên máy tính) ===== */}
-      <nav aria-label="Điều hướng chính" className="lg:hidden fixed bottom-0 left-0 right-0 z-20 px-3"
-           style={{ paddingBottom: "calc(env(safe-area-inset-bottom) + 8px)", paddingTop: 6 }}>
-        <div className={"mx-auto max-w-md rounded-2xl border grid grid-cols-6 " + T.bar + " " + T.line}
-             style={{ boxShadow: dark ? "0 6px 28px rgba(0,0,0,0.45)" : "0 6px 24px rgba(26,43,38,0.14)" }}>
+      <nav aria-label="Điều hướng chính" className="lg:hidden fixed bottom-0 left-0 right-0 z-20 px-4"
+        style={{ paddingBottom: "calc(env(safe-area-inset-bottom) + 16px)", paddingTop: 8 }}>
+        <div className={"mx-auto max-w-[360px] rounded-[28px] border-2 grid grid-cols-6 p-1.5 " + (dark ? "bg-gray-800 border-gray-900" : "bg-white border-gray-100")}
+          style={{ boxShadow: dark ? "0 16px 40px rgba(0,0,0,0.5)" : "0 16px 40px rgba(88,204,2,0.18)" }}>
           {TABS.map((t) => {
             const active = tab === t.key;
             const Icon = t.Icon;
             return (
-              <button key={t.key} onClick={() => setTab(t.key)} aria-current={active ? "page" : undefined} aria-label={t.label} style={{ minHeight: 60 }}
-                className="relative flex flex-col items-center justify-center gap-1 py-2 px-0.5">
-                {active && <span className="absolute top-0 h-0.5 w-7 rounded-full" style={{ background: "var(--accent)" }} />}
-                <Icon size={20} className={active ? T.accentText : T.sub} strokeWidth={active ? 2.3 : 1.8} />
-                <span className={"text-[10px] font-semibold leading-none " + (active ? T.accentText : T.sub)}>{t.label}</span>
+              <button key={t.key} onClick={() => setTab(t.key)} aria-current={active ? "page" : undefined} aria-label={t.label} style={{ minHeight: 56 }}
+                className={"relative flex flex-col items-center justify-center gap-1 py-1 px-1 rounded-2xl transition-colors " + (active ? "bg-accent-tint" : "")}>
+                <Icon size={22} className={active ? T.accentText : T.sub} strokeWidth={active ? 2.5 : 2} />
+                <span className={"text-[10px] font-bold leading-none " + (active ? T.accentText : T.sub)}>{t.label}</span>
               </button>
             );
           })}
@@ -274,8 +275,10 @@ function Wordmark({ T, compact }) {
   return (
     <div className="flex items-center gap-2.5">
       <span className="inline-flex items-center justify-center rounded-lg font-display font-semibold text-white shrink-0"
-        style={{ width: compact ? 32 : 38, height: compact ? 32 : 38, background: "var(--accent)",
-          fontSize: compact ? 18 : 21, boxShadow: "inset 0 -2px 0 rgba(0,0,0,0.18)" }}>T</span>
+        style={{
+          width: compact ? 32 : 38, height: compact ? 32 : 38, background: "var(--accent)",
+          fontSize: compact ? 18 : 21, boxShadow: "inset 0 -2px 0 rgba(0,0,0,0.18)"
+        }}>T</span>
       <div className="leading-tight">
         <p className={"font-display font-semibold " + (compact ? "text-[15px]" : "text-lg")}>TOEIC Trainer</p>
         <p className={"text-[11px] " + T.sub}>Bạn đồng hành luyện thi</p>

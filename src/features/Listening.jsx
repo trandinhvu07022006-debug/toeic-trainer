@@ -152,9 +152,19 @@ export function ListenP1({ T, dark, tts, onBack, onAnswer }) {
       <NoVoiceNote T={T} tts={tts} />
 
       <div key={item.id} className="animate-fade">
-        <div className={"rounded-2xl border p-4 mb-4 " + T.card + " " + T.line}>
-          <SceneArt name={item.scene} dark={dark} />
-          <p className={"text-sm text-center mt-2 " + T.sub}>{item.caption}</p>
+        <div className={"rounded-3xl border-2 p-1.5 mb-4 shadow-sm " + T.card + " " + T.line}>
+          <div className="w-full relative rounded-2xl overflow-hidden shadow-inner bg-stone-100" style={{ paddingBottom: '60%' }}>
+            <img
+              src={`https://source.unsplash.com/random/800x500/?${item.scene}`}
+              onError={(e) => {
+                e.target.onerror = null;
+                e.target.src = `https://picsum.photos/seed/${item.scene}/800/500`;
+              }}
+              alt={item.caption}
+              className="absolute inset-0 w-full h-full object-cover rounded-2xl"
+            />
+          </div>
+          <p className={"text-[15px] text-center mt-3 mb-1 font-semibold " + T.sub}>{item.caption}</p>
         </div>
 
         <div className="mb-4">

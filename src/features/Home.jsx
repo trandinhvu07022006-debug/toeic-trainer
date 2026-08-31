@@ -51,52 +51,53 @@ export function HomeScreen({ T, dark, streak, history, lastResults, onGo, srs, s
         <span className={"text-[15px] " + T.sub}>Tra nghĩa một từ…</span>
       </button>
 
-      {/* ===== HERO: thẻ "buổi học hôm nay" kiểu trang sổ, KHÔNG gradient loè =====
-          Bên trái là lời dẫn + tiến độ; bên phải (máy tính) là thước điểm 7 phần. */}
-      <section className={"rounded-2xl border overflow-hidden mb-6 " + T.card + " " + T.line}>
+      {/* ===== HERO: Giao diện Gamified nổi bật ====== */}
+      <section className={"animate-pop rounded-[32px] border-2 border-b-[6px] mb-6 overflow-hidden " + (dark ? "bg-gray-800 border-gray-900" : "bg-white border-gray-200")}>
         <div className="grid lg:grid-cols-[1.3fr_1fr]">
           {/* Cột trái */}
-          <div className="p-5 lg:p-6 lg:border-r" style={{ borderColor: dark ? "#2c3e39" : "#e7e0d3" }}>
+          <div className="p-6 lg:p-8 lg:border-r" style={{ borderColor: dark ? "#111" : "#eee" }}>
             <div className="flex items-center gap-2 mb-3">
-              <span className="h-2 w-2 rounded-full" style={{ background: "var(--accent)" }} />
-              <Eyebrow T={T}>Buổi học · {new Date().toLocaleDateString("vi-VN", { weekday: "long", day: "numeric", month: "numeric" })}</Eyebrow>
+              <span className="h-3 w-3 rounded-full animate-bounce" style={{ background: "var(--accent)" }} />
+              <span className={"font-bold uppercase tracking-wider text-[13px] " + T.sub}>Mục tiêu hôm nay</span>
             </div>
-            <h1 className="font-display text-[26px] lg:text-[30px] font-semibold leading-tight mb-1">
-              {plan.allDone ? "Xong buổi hôm nay." : "Sẵn sàng luyện thi?"}
+            <h1 className="font-display text-[28px] lg:text-[34px] font-extrabold leading-tight mb-2">
+              {plan.allDone ? "Tuyệt vời, xong hết! 🎉" : "Lên cấp cùng bài luyện!"}
             </h1>
-            <p className={"text-[15px] mb-5 " + T.sub}>
+            <p className={"text-[16px] mb-6 font-semibold " + T.sub}>
               {plan.allDone
-                ? "Quay lại ngày mai để giữ chuỗi ngày. Muốn học thêm thì chọn phần bên dưới."
-                : "Hoàn thành các mục dưới đây để giữ nhịp học đều mỗi ngày."}
+                ? "Giữ chuỗi ngày cực đỉnh. Muốn rèn thêm phản xạ thì cứ chiến tiếp nhé."
+                : "Hoàn thành các nhiệm vụ dưới đây để thăng hạng và giữ Streak rực vinh quang."}
             </p>
 
             <div className="flex items-end justify-between mb-2">
               <div className="flex items-baseline gap-2">
-                <span className="font-display text-3xl font-semibold tnum" style={{ color: "var(--accent)" }}>{plan.doneCount}</span>
-                <span className={"text-sm " + T.sub}>/ {plan.total} nhiệm vụ</span>
+                <span className="font-display text-4xl font-extrabold tnum text-accent">{plan.doneCount}</span>
+                <span className={"text-base font-bold " + T.sub}>/ {plan.total} nhiệm vụ</span>
               </div>
-              <span className="font-display text-lg font-semibold tnum">{pct}%</span>
             </div>
-            <Bar value={pct} T={T} />
+            {/* Thanh tiến độ siêu béo mượt */}
+            <div className={"w-full h-5 rounded-full overflow-hidden shadow-inner " + (dark ? "bg-gray-900" : "bg-gray-100")}>
+              <div className="h-full rounded-full transition-all duration-1000 ease-out bg-accent" style={{ width: pct + "%" }} />
+            </div>
 
-            <div className="flex flex-wrap items-center gap-2 mt-5">
+            <div className="flex flex-wrap items-center gap-2 mt-6">
               {lastFull && (
-                <div className={"flex items-center gap-1.5 rounded-lg px-2.5 py-1.5 " + T.soft}>
-                  <Target size={14} className={T.accentText} />
-                  <span className="text-[13px] font-semibold">{lastFull.score} điểm gần nhất</span>
+                <div className={"flex items-center gap-1.5 rounded-xl px-3 py-2 " + T.soft}>
+                  <Target size={16} className={T.accentText} strokeWidth={2.5} />
+                  <span className="text-[14px] font-bold">{lastFull.score} điểm gần nhất</span>
                 </div>
               )}
-              <div className={"flex items-center gap-1.5 rounded-lg px-2.5 py-1.5 " + T.soft}>
-                <span className="text-[13px] font-semibold tnum">{streak}</span>
-                <span className={"text-[13px] " + T.sub}>ngày liên tục</span>
+              <div className={"flex items-center gap-1.5 rounded-xl px-3 py-2 " + T.soft}>
+                <span className="text-[14px] font-extrabold tnum">{streak}</span>
+                <span className={"text-[13px] font-semibold " + T.sub}>ngày bốc lửa</span>
               </div>
             </div>
           </div>
 
-          {/* Cột phải: THƯỚC ĐIỂM 7 PHẦN (signature) — ẩn trên điện thoại hẹp */}
-          <div className={"hidden lg:block p-6 " + (dark ? "bg-white/[0.02]" : "bg-[#fbf9f4]")}>
-            <Eyebrow T={T} className="mb-4">Độ thành thạo theo phần</Eyebrow>
-            <SkillSpine stats={stats} T={T} dark={dark} onGo={onGo} />
+          {/* Cột phải: THƯỚC ĐIỂM 7 PHẦN */}
+          <div className={"hidden lg:block p-8 " + (dark ? "bg-white/[0.02]" : "bg-gray-50")}>
+            <span className={"font-bold uppercase tracking-wider text-[13px] " + T.sub}>Thống kê cá nhân</span>
+            <div className="mt-4"><SkillSpine stats={stats} T={T} dark={dark} onGo={onGo} /></div>
           </div>
         </div>
       </section>
@@ -114,25 +115,27 @@ export function HomeScreen({ T, dark, streak, history, lastResults, onGo, srs, s
         </div>
       )}
 
-      <div className="grid grid-cols-1 lg:grid-cols-2 gap-2.5 mb-8">
+      <div className="flex flex-col gap-3.5 mb-8">
         {plan.tasks.map((task) => {
           const Icon = ICONS[task.icon] || BookOpen;
           const done = !!(doneToday && doneToday[task.id]);
           return (
-            <button key={task.id} onClick={() => onStartTask(task.id, task.tab)} style={{ minHeight: 68 }}
-              className={"group rounded-xl border p-3 flex items-center gap-3 text-left transition-all active:scale-[0.99] " +
-                (done ? (dark ? "bg-white/[0.02] border-white/5" : "bg-[#f6f3ec] border-[#ece5d8]") : T.card + " " + T.line + " hover:shadow-sm")}>
-              <div className="shrink-0 rounded-lg flex items-center justify-center" style={{ width: 42, height: 42,
-                background: done ? (dark ? "rgba(255,255,255,0.05)" : "#ece5d8") : (dark ? "rgba(92,174,149,0.14)" : "rgba(31,107,87,0.1)") }}>
-                <Icon size={20} className={done ? T.sub : T.accentText} strokeWidth={2} />
+            <button key={task.id} onClick={() => onStartTask(task.id, task.tab)} style={{ minHeight: 76 }}
+              className={"group rounded-[24px] border-2 p-3.5 flex items-center gap-4 text-left transition-all active:scale-[0.98] " +
+                (done ? (dark ? "bg-gray-800 border-gray-900 border-b-2 opacity-60" : "bg-gray-50 border-gray-200 border-b-2") : "border-b-[5px] bg-white border-gray-200 hover:border-green-400 hover:bg-green-50 dark:bg-gray-800 dark:border-gray-700")}>
+              <div className="shrink-0 rounded-[16px] flex items-center justify-center shadow-sm" style={{
+                width: 50, height: 50,
+                background: done ? (dark ? "rgba(255,255,255,0.05)" : "#e5e7eb") : (dark ? "rgba(92,174,149,0.3)" : "#e5fbee")
+              }}>
+                <Icon size={24} className={done ? T.sub : T.accentText} strokeWidth={2.5} />
               </div>
               <div className="flex-1 min-w-0">
-                <p className={"font-semibold " + (done ? "line-through " + T.sub : "")}>{task.label}</p>
-                <p className={"text-[13px] " + T.sub}>{task.desc}</p>
+                <p className={"font-extrabold text-[16px] " + (done ? "line-through " + T.sub : "")}>{task.label}</p>
+                <p className={"text-[14px] font-semibold mt-0.5 " + T.sub}>{task.desc}</p>
               </div>
               {done
-                ? <CheckCircle2 size={20} className={"shrink-0 " + (dark ? "text-emerald-400" : "text-emerald-600")} />
-                : <ArrowRight size={18} className={"shrink-0 transition-transform group-hover:translate-x-0.5 " + T.sub} />}
+                ? <div className="h-8 w-8 rounded-full bg-emerald-100 flex items-center justify-center shrink-0"><CheckCircle2 size={20} className={"text-emerald-500"} strokeWidth={3} /></div>
+                : <div className="h-8 w-8 rounded-full bg-gray-100 flex items-center justify-center shrink-0 group-hover:bg-green-100 group-hover:text-green-600 transition-colors"><ArrowRight size={20} className={"text-gray-400 group-hover:text-green-500"} strokeWidth={2.5} /></div>}
             </button>
           );
         })}
@@ -171,16 +174,19 @@ export function HomeScreen({ T, dark, streak, history, lastResults, onGo, srs, s
       )}
 
       {/* Tất cả nội dung */}
-      <Eyebrow T={T} className="mb-3">Tất cả nội dung</Eyebrow>
-      <div className="grid grid-cols-2 gap-2.5 pb-4 stagger">
+      <div className="flex items-center gap-2 mb-4 mt-8">
+        <span className={"font-bold uppercase tracking-wider text-[14px] " + T.sub}>🚀 Sân tập vô hạn</span>
+      </div>
+      <div className="grid grid-cols-2 gap-3 pb-8 stagger">
         {shortcuts.map((s) => {
           const Icon = s.Icon;
           return (
-            <button key={s.key} onClick={() => onGo(s.key)} style={{ minHeight: 84 }}
-              className={"group rounded-xl border p-3.5 flex flex-col text-left transition-all active:scale-[0.99] hover:shadow-sm " + T.card + " " + T.line}>
-              <Icon size={22} className={"mb-2 " + T.accentText} strokeWidth={1.9} />
-              <p className="font-semibold text-[15px] leading-tight">{s.label}</p>
-              <p className={"text-[12px] mt-0.5 " + T.sub}>{s.desc}</p>
+            <button key={s.key} onClick={() => onGo(s.key)} style={{ minHeight: 96 }}
+              className={"group rounded-3xl border-2 border-b-[6px] p-4 flex flex-col text-left transition-all active:scale-[0.97] " +
+                (dark ? "bg-gray-800 border-gray-900 hover:border-gray-700" : "bg-white border-gray-200 hover:border-green-400 hover:bg-green-50")}>
+              <Icon size={28} className={"mb-3 " + T.accentText} strokeWidth={2.5} />
+              <p className={"font-extrabold text-[16px] leading-tight " + (dark ? "text-white" : "text-gray-800")}>{s.label}</p>
+              <p className={"text-[13px] font-semibold mt-1 opacity-70 " + (dark ? "text-gray-300" : "text-gray-500")}>{s.desc}</p>
             </button>
           );
         })}
