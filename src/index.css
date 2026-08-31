@@ -1,25 +1,32 @@
 @import "tailwindcss";
 
 /* ============================================================
-   TOEIC Trainer — Giao diện Gamification (Mô phỏng Parroto/Duolingo)
-   Hướng thiết kế: Vui nhộn, nổi khối 3D, trong trẻo, rực rỡ.
+   KMG CLUB — Giao diện Music / Rock Brutalist
+   Hướng thiết kế: Sắc cạnh, Khỏe khoắn, Đen/Trắng nhấn Đỏ (Crimson).
    ============================================================ */
 
 :root {
-  /* Xanh Neon Duolingo/Parroto */
-  --accent: #58cc02;
-  --accent-strong: #58a700;
-  --accent-soft: #89e219;
-  
-  /* Lửa đỏ streak và sai lầm */
-  --amber: #ff9600; 
+  /* Đỏ Rock & Đen */
+  --accent: #dc2626;
+  /* Đỏ rực */
+  --accent-strong: #991b1b;
+  /* Đỏ đô */
+  --accent-soft: #ef4444;
 
-  /* Thay đổi bộ mặt Font thành Form tròn trịa, vui tươi (Nunito/Quicksand/Rounded) */
-  --font-display: "Nunito", "Quicksand", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-  --font-body: "Nunito", "Quicksand", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  /* Lửa cam streak */
+  --amber: #f97316;
+
+  /* Font cực đậm, góc cạnh, mạnh mẽ (Roboto/Oswald/Impact vibe) */
+  --font-display: "Montserrat", "Arial Black", "Segoe UI Black", Roboto, sans-serif;
+  --font-body: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
 }
 
-html, body, #root { height: 100%; }
+html,
+body,
+#root {
+  height: 100%;
+}
+
 body {
   margin: 0;
   -webkit-font-smoothing: antialiased;
@@ -29,18 +36,23 @@ body {
 
 .font-display {
   font-family: var(--font-display);
-  font-weight: 800; /* Dày và tròn béo */
-  letter-spacing: -0.015em;
+  font-weight: 900;
+  /* Dày nhất có thể */
+  letter-spacing: -0.02em;
+  text-transform: uppercase;
 }
 
-.tnum { font-variant-numeric: tabular-nums; }
+.tnum {
+  font-variant-numeric: tabular-nums;
+}
 
-/* Huỷ bỏ nhám giấy cũ — Chuyển sang Flat Design tươi sáng trong trẻo */
+/* Nền bụi bặm hơn - Trắng xám hoặc Đen nhám */
 .paper-grain {
-  background-color: #f7f9fa; /* Trắng xám sạch của bảng điều khiển Parroto */
+  background-color: #f3f4f6;
 }
+
 .paper-grain-dark {
-  background-color: #131f24; /* Tối phẳng của Dark Mode */
+  background-color: #0d0d0d;
   color: #fff;
 }
 
@@ -48,52 +60,146 @@ body {
    Chuyển động — Nảy, nổi popup 
    ============================================================ */
 @keyframes toeicFade {
-  from { opacity: 0; transform: translateY(12px); }
-  to   { opacity: 1; transform: none; }
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+
+  to {
+    opacity: 1;
+    transform: none;
+  }
 }
+
 /* Easing siêu đàn hồi (bouncy) cho cảm giác kẹo, đồ chơi */
-.animate-fade { animation: toeicFade 0.4s cubic-bezier(0.34, 1.56, 0.64, 1) both; }
+.animate-fade {
+  animation: toeicFade 0.4s cubic-bezier(0.34, 1.56, 0.64, 1) both;
+}
 
 @keyframes toeicPop {
-  from { opacity: 0; transform: scale(0.9); }
-  to   { opacity: 1; transform: scale(1); }
+  from {
+    opacity: 0;
+    transform: scale(0.9);
+  }
+
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
 }
-.animate-pop { animation: toeicPop 0.3s cubic-bezier(0.34, 1.56, 0.64, 1) both; }
+
+.animate-pop {
+  animation: toeicPop 0.3s cubic-bezier(0.34, 1.56, 0.64, 1) both;
+}
 
 @media (prefers-reduced-motion: reduce) {
-  .animate-fade, .animate-pop { animation: none; }
-  * { animation-duration: 0.001ms !important; transition-duration: 0.001ms !important; }
+
+  .animate-fade,
+  .animate-pop {
+    animation: none;
+  }
+
+  * {
+    animation-duration: 0.001ms !important;
+    transition-duration: 0.001ms !important;
+  }
 }
 
-body { transition: background-color 0.3s ease, color 0.2s ease; }
+body {
+  transition: background-color 0.3s ease, color 0.2s ease;
+}
 
 /* Bấm nút: Cảm giác lún 3D của App Game */
-button { transition: transform 0.1s cubic-bezier(0.34, 1.56, 0.64, 1), box-shadow 0.1s ease, filter 0.1s ease, opacity 0.1s ease; }
-button:active { transform: translateY(2px); box-shadow: 0 0px 0 transparent !important; filter: brightness(0.95); }
+button {
+  transition: transform 0.1s cubic-bezier(0.34, 1.56, 0.64, 1), box-shadow 0.1s ease, filter 0.1s ease, opacity 0.1s ease;
+}
 
-:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 12px; }
+button:active {
+  transform: translateY(2px);
+  box-shadow: 0 0px 0 transparent !important;
+  filter: brightness(0.95);
+}
 
-::-webkit-scrollbar { width: 8px; height: 8px; }
-::-webkit-scrollbar-thumb { background: rgba(160,160,160,0.3); border-radius: 999px; }
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+  border-radius: 12px;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(160, 160, 160, 0.3);
+  border-radius: 999px;
+}
 
 /* ============================================================
    Tiện ích thiết kế 
    ============================================================ */
-.bg-accent { background-color: var(--accent) !important; }
-.text-on-accent { color: #fff; font-weight: bold; }
-.border-accent { border-color: var(--accent) !important; }
-.text-accent { color: var(--accent) !important; font-weight: 800; }
+.bg-accent {
+  background-color: var(--accent) !important;
+}
 
-.bg-accent-tint { background-color: #e5fbee; border: 2px solid var(--accent); border-bottom: 4px solid var(--accent); }
-.bg-accent-chip { background-color: #e5fbee; color: var(--accent-strong); font-weight: 800;}
+.text-on-accent {
+  color: #fff;
+  font-weight: bold;
+}
+
+.border-accent {
+  border-color: var(--accent) !important;
+}
+
+.text-accent {
+  color: var(--accent) !important;
+  font-weight: 800;
+}
+
+.bg-accent-tint {
+  background-color: #e5fbee;
+  border: 2px solid var(--accent);
+  border-bottom: 4px solid var(--accent);
+}
+
+.bg-accent-chip {
+  background-color: #e5fbee;
+  color: var(--accent-strong);
+  font-weight: 800;
+}
 
 /* Lưới thẻ bay bổng Stagger */
-.stagger > * { animation: toeicFade 0.5s cubic-bezier(0.34,1.56,0.64,1) both; }
-.stagger > *:nth-child(1){animation-delay:.02s}
-.stagger > *:nth-child(2){animation-delay:.08s}
-.stagger > *:nth-child(3){animation-delay:.15s}
-.stagger > *:nth-child(4){animation-delay:.22s}
-.stagger > *:nth-child(5){animation-delay:.29s}
-.stagger > *:nth-child(6){animation-delay:.36s}
-@media (prefers-reduced-motion: reduce){ .stagger > *{animation:none} }
+.stagger>* {
+  animation: toeicFade 0.5s cubic-bezier(0.34, 1.56, 0.64, 1) both;
+}
 
+.stagger>*:nth-child(1) {
+  animation-delay: .02s
+}
+
+.stagger>*:nth-child(2) {
+  animation-delay: .08s
+}
+
+.stagger>*:nth-child(3) {
+  animation-delay: .15s
+}
+
+.stagger>*:nth-child(4) {
+  animation-delay: .22s
+}
+
+.stagger>*:nth-child(5) {
+  animation-delay: .29s
+}
+
+.stagger>*:nth-child(6) {
+  animation-delay: .36s
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .stagger>* {
+    animation: none
+  }
+}

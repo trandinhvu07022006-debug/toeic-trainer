@@ -51,22 +51,22 @@ export function HomeScreen({ T, dark, streak, history, lastResults, onGo, srs, s
         <span className={"text-[15px] " + T.sub}>Tra nghĩa một từ…</span>
       </button>
 
-      {/* ===== HERO: Giao diện Gamified nổi bật ====== */}
-      <section className={"animate-pop rounded-[32px] border-2 border-b-[6px] mb-6 overflow-hidden " + (dark ? "bg-gray-800 border-gray-900" : "bg-white border-gray-200")}>
+      {/* ===== HERO: KMG Club Rock Brutalist ====== */}
+      <section className={"animate-pop rounded-xl border-4 border-b-[8px] mb-6 overflow-hidden " + (dark ? "bg-[#111] border-red-600" : "bg-white border-black")}>
         <div className="grid lg:grid-cols-[1.3fr_1fr]">
           {/* Cột trái */}
-          <div className="p-6 lg:p-8 lg:border-r" style={{ borderColor: dark ? "#111" : "#eee" }}>
+          <div className="p-6 lg:p-8 lg:border-r-4" style={{ borderColor: dark ? "#333" : "#000" }}>
             <div className="flex items-center gap-2 mb-3">
-              <span className="h-3 w-3 rounded-full animate-bounce" style={{ background: "var(--accent)" }} />
-              <span className={"font-bold uppercase tracking-wider text-[13px] " + T.sub}>Mục tiêu hôm nay</span>
+              <span className="h-3 w-3 rounded-none animate-bounce" style={{ background: "var(--accent)" }} />
+              <span className={"font-bold uppercase tracking-wider text-[14px] " + T.sub}>Lịch Tập Luyện Hôm Nay</span>
             </div>
-            <h1 className="font-display text-[28px] lg:text-[34px] font-extrabold leading-tight mb-2">
-              {plan.allDone ? "Tuyệt vời, xong hết! 🎉" : "Lên cấp cùng bài luyện!"}
+            <h1 className="font-display text-[26px] lg:text-[34px] font-extrabold leading-tight mb-2">
+              {plan.allDone ? "CHÁY HẾT MÌNH! 🎸" : "LÊN DÂY ĐÀN NÀO, ROCKER!"}
             </h1>
-            <p className={"text-[16px] mb-6 font-semibold " + T.sub}>
+            <p className={"text-[15px] mb-6 font-bold " + T.sub}>
               {plan.allDone
-                ? "Giữ chuỗi ngày cực đỉnh. Muốn rèn thêm phản xạ thì cứ chiến tiếp nhé."
-                : "Hoàn thành các nhiệm vụ dưới đây để thăng hạng và giữ Streak rực vinh quang."}
+                ? "Thành quả Band đạt đỉnh. Nếu còn xung sức thì cứ vào Solo tiếp nhé!"
+                : "Hoàn thành các beat dưới đây để cháy hết mình trên sân khấu tiếng Anh."}
             </p>
 
             <div className="flex items-end justify-between mb-2">
@@ -109,33 +109,33 @@ export function HomeScreen({ T, dark, streak, history, lastResults, onGo, srs, s
       </div>
 
       {plan.allDone && (
-        <div className={"rounded-xl border p-4 mb-4 flex items-center gap-3 " + (dark ? "bg-emerald-500/10 border-emerald-500/40" : "bg-emerald-50 border-emerald-300")}>
+        <div className={"border-2 border-black p-4 mb-4 flex items-center gap-3 " + (dark ? "bg-emerald-500/10 border-emerald-500/40" : "bg-emerald-50 border-emerald-300")}>
           <CheckCircle2 className={dark ? "text-emerald-400" : "text-emerald-600"} size={24} />
           <p className="font-semibold">Hoàn thành cả buổi học hôm nay.</p>
         </div>
       )}
 
-      <div className="flex flex-col gap-3.5 mb-8">
+      <div className="flex flex-col gap-4 mb-8">
         {plan.tasks.map((task) => {
           const Icon = ICONS[task.icon] || BookOpen;
           const done = !!(doneToday && doneToday[task.id]);
           return (
             <button key={task.id} onClick={() => onStartTask(task.id, task.tab)} style={{ minHeight: 76 }}
-              className={"group rounded-[24px] border-2 p-3.5 flex items-center gap-4 text-left transition-all active:scale-[0.98] " +
-                (done ? (dark ? "bg-gray-800 border-gray-900 border-b-2 opacity-60" : "bg-gray-50 border-gray-200 border-b-2") : "border-b-[5px] bg-white border-gray-200 hover:border-green-400 hover:bg-green-50 dark:bg-gray-800 dark:border-gray-700")}>
-              <div className="shrink-0 rounded-[16px] flex items-center justify-center shadow-sm" style={{
+              className={"group border-4 p-3.5 flex items-center gap-4 text-left transition-all active:translate-y-1 active:border-b-4 " +
+                (done ? (dark ? "bg-gray-900 border-gray-800 opacity-60" : "bg-gray-200 border-gray-300") : "border-b-[6px] bg-white border-black hover:bg-red-50 dark:bg-gray-900 dark:border-gray-700")}>
+              <div className="shrink-0 flex items-center justify-center border-2 border-black" style={{
                 width: 50, height: 50,
-                background: done ? (dark ? "rgba(255,255,255,0.05)" : "#e5e7eb") : (dark ? "rgba(92,174,149,0.3)" : "#e5fbee")
+                background: done ? (dark ? "#222" : "#ccc") : (dark ? "#550000" : "#ffcccc")
               }}>
-                <Icon size={24} className={done ? T.sub : T.accentText} strokeWidth={2.5} />
+                <Icon size={24} className={done ? T.sub : "text-red-700"} strokeWidth={3} />
               </div>
               <div className="flex-1 min-w-0">
-                <p className={"font-extrabold text-[16px] " + (done ? "line-through " + T.sub : "")}>{task.label}</p>
-                <p className={"text-[14px] font-semibold mt-0.5 " + T.sub}>{task.desc}</p>
+                <p className={"font-display tracking-tight text-[17px] " + (done ? "line-through " + T.sub : "")}>{task.label}</p>
+                <p className={"text-[13px] font-bold mt-0.5 " + T.sub}>{task.desc}</p>
               </div>
               {done
-                ? <div className="h-8 w-8 rounded-full bg-emerald-100 flex items-center justify-center shrink-0"><CheckCircle2 size={20} className={"text-emerald-500"} strokeWidth={3} /></div>
-                : <div className="h-8 w-8 rounded-full bg-gray-100 flex items-center justify-center shrink-0 group-hover:bg-green-100 group-hover:text-green-600 transition-colors"><ArrowRight size={20} className={"text-gray-400 group-hover:text-green-500"} strokeWidth={2.5} /></div>}
+                ? <div className="h-8 w-8 border-2 border-black bg-black flex items-center justify-center shrink-0"><CheckCircle2 size={24} className={"text-white"} strokeWidth={3} /></div>
+                : <div className="h-8 w-8 border-2 border-black bg-red-600 flex items-center justify-center shrink-0 group-hover:bg-black transition-colors"><ArrowRight size={24} className={"text-white"} strokeWidth={3} /></div>}
             </button>
           );
         })}
@@ -174,19 +174,19 @@ export function HomeScreen({ T, dark, streak, history, lastResults, onGo, srs, s
       )}
 
       {/* Tất cả nội dung */}
-      <div className="flex items-center gap-2 mb-4 mt-8">
-        <span className={"font-bold uppercase tracking-wider text-[14px] " + T.sub}>🚀 Sân tập vô hạn</span>
+      <div className="flex items-center gap-2 mb-4 mt-8 bg-black text-white p-2 px-4 rounded-lg self-start inline-block">
+        <span className="font-display text-[15px] tracking-widest">⚡ PHÒNG THU (STUDIO)</span>
       </div>
-      <div className="grid grid-cols-2 gap-3 pb-8 stagger">
+      <div className="grid grid-cols-2 gap-3 pb-8 stagger mt-2">
         {shortcuts.map((s) => {
           const Icon = s.Icon;
           return (
             <button key={s.key} onClick={() => onGo(s.key)} style={{ minHeight: 96 }}
-              className={"group rounded-3xl border-2 border-b-[6px] p-4 flex flex-col text-left transition-all active:scale-[0.97] " +
-                (dark ? "bg-gray-800 border-gray-900 hover:border-gray-700" : "bg-white border-gray-200 hover:border-green-400 hover:bg-green-50")}>
-              <Icon size={28} className={"mb-3 " + T.accentText} strokeWidth={2.5} />
-              <p className={"font-extrabold text-[16px] leading-tight " + (dark ? "text-white" : "text-gray-800")}>{s.label}</p>
-              <p className={"text-[13px] font-semibold mt-1 opacity-70 " + (dark ? "text-gray-300" : "text-gray-500")}>{s.desc}</p>
+              className={"group rounded-xl border-4 border-b-[6px] p-4 flex flex-col text-left transition-all active:translate-y-1 active:border-b-4 " +
+                (dark ? "bg-gray-900 border-gray-800 hover:border-red-600" : "bg-white border-black hover:border-red-600 hover:bg-gray-100")}>
+              <Icon size={32} className={"mb-3 " + T.accentText} strokeWidth={2.5} />
+              <p className={"font-display text-[17px] leading-tight " + (dark ? "text-white" : "text-black")}>{s.label}</p>
+              <p className={"text-[12px] font-bold mt-1 opacity-80 " + (dark ? "text-gray-400" : "text-gray-600")}>{s.desc}</p>
             </button>
           );
         })}

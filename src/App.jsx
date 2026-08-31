@@ -250,16 +250,16 @@ export default function App() {
       {/* ===== BOTTOM NAV cho điện thoại (ẩn trên máy tính) ===== */}
       <nav aria-label="Điều hướng chính" className="lg:hidden fixed bottom-0 left-0 right-0 z-20 px-4"
         style={{ paddingBottom: "calc(env(safe-area-inset-bottom) + 16px)", paddingTop: 8 }}>
-        <div className={"mx-auto max-w-[360px] rounded-[28px] border-2 grid grid-cols-6 p-1.5 " + (dark ? "bg-gray-800 border-gray-900" : "bg-white border-gray-100")}
-          style={{ boxShadow: dark ? "0 16px 40px rgba(0,0,0,0.5)" : "0 16px 40px rgba(88,204,2,0.18)" }}>
+        <div className={"mx-auto max-w-[360px] rounded-xl border-4 grid grid-cols-6 p-1.5 " + (dark ? "bg-black border-gray-800" : "bg-white border-black")}
+          style={{ boxShadow: dark ? "0 10px 40px rgba(0,0,0,0.8)" : "4px 4px 0 rgba(0,0,0,1)" }}>
           {TABS.map((t) => {
             const active = tab === t.key;
             const Icon = t.Icon;
             return (
               <button key={t.key} onClick={() => setTab(t.key)} aria-current={active ? "page" : undefined} aria-label={t.label} style={{ minHeight: 56 }}
-                className={"relative flex flex-col items-center justify-center gap-1 py-1 px-1 rounded-2xl transition-colors " + (active ? "bg-accent-tint" : "")}>
-                <Icon size={22} className={active ? T.accentText : T.sub} strokeWidth={active ? 2.5 : 2} />
-                <span className={"text-[10px] font-bold leading-none " + (active ? T.accentText : T.sub)}>{t.label}</span>
+                className={"relative flex flex-col items-center justify-center gap-1 py-1 px-1 rounded-lg transition-colors " + (active ? (dark ? "bg-[#333]" : "bg-black text-white") : "hover:bg-gray-100")}>
+                <Icon size={24} className={active ? (dark ? T.accentText : "text-white") : T.sub} strokeWidth={active ? 3 : 2} />
+                <span className={"text-[9px] font-display mt-0.5 leading-none " + (active ? (dark ? T.accentText : "text-white") : T.sub)}>{t.label}</span>
               </button>
             );
           })}
@@ -269,19 +269,15 @@ export default function App() {
   );
 }
 
-/* Chữ hiệu (wordmark): một ô vuông màu nhấn có chữ "T" serif + tên đặt bằng
-   font hiển thị. Thay cho icon Sparkles gradient của bản cũ. */
+/* Chữ hiệu (wordmark): Tùy biến KMG Club Logo */
 function Wordmark({ T, compact }) {
   return (
-    <div className="flex items-center gap-2.5">
-      <span className="inline-flex items-center justify-center rounded-lg font-display font-semibold text-white shrink-0"
-        style={{
-          width: compact ? 32 : 38, height: compact ? 32 : 38, background: "var(--accent)",
-          fontSize: compact ? 18 : 21, boxShadow: "inset 0 -2px 0 rgba(0,0,0,0.18)"
-        }}>T</span>
+    <div className="flex items-center gap-3">
+      <img src="/kmg_logo.jpg" alt="KMG Club" className="rounded-lg object-contain bg-white"
+        style={{ width: compact ? 42 : 56, height: compact ? 42 : 56, border: "3px solid #000" }} />
       <div className="leading-tight">
-        <p className={"font-display font-semibold " + (compact ? "text-[15px]" : "text-lg")}>TOEIC Trainer</p>
-        <p className={"text-[11px] " + T.sub}>Bạn đồng hành luyện thi</p>
+        <p className={"font-display " + (compact ? "text-[18px]" : "text-[22px]")}>KMG CLUB</p>
+        <p className={"text-[11px] font-extrabold uppercase tracking-widest " + T.sub}>English Training</p>
       </div>
     </div>
   );
