@@ -1,0 +1,1181 @@
+{
+ "topic": "Chiến lược & quản trị",
+ "words": [
+  {
+   "id": "st001",
+   "topic": "Chiến lược & quản trị",
+   "w": "strategy",
+   "ipa": "/ˈstrætədʒi/",
+   "pos": "n",
+   "vi": "chiến lược",
+   "ex": "The firm set a clear growth strategy.",
+   "exVi": "Công ty đặt một chiến lược tăng trưởng rõ ràng.",
+   "col": [
+    "a strategy",
+    "a growth strategy"
+   ]
+  },
+  {
+   "id": "st002",
+   "topic": "Chiến lược & quản trị",
+   "w": "objective",
+   "ipa": "/əbˈdʒektɪv/",
+   "pos": "n",
+   "vi": "mục tiêu",
+   "ex": "Each team has a clear yearly objective.",
+   "exVi": "Mỗi nhóm có một mục tiêu năm rõ ràng.",
+   "col": [
+    "an objective",
+    "a key objective"
+   ]
+  },
+  {
+   "id": "st003",
+   "topic": "Chiến lược & quản trị",
+   "w": "goal",
+   "ipa": "/ɡəʊl/",
+   "pos": "n",
+   "vi": "mục đích",
+   "ex": "The main goal is to double sales.",
+   "exVi": "Mục đích chính là tăng gấp đôi doanh số.",
+   "col": [
+    "a goal",
+    "a long-term goal"
+   ]
+  },
+  {
+   "id": "st004",
+   "topic": "Chiến lược & quản trị",
+   "w": "mission",
+   "ipa": "/ˈmɪʃn/",
+   "pos": "n",
+   "vi": "sứ mệnh",
+   "ex": "The mission guides every decision.",
+   "exVi": "Sứ mệnh dẫn dắt mọi quyết định.",
+   "col": [
+    "a mission",
+    "a mission statement"
+   ]
+  },
+  {
+   "id": "st005",
+   "topic": "Chiến lược & quản trị",
+   "w": "vision",
+   "ipa": "/ˈvɪʒn/",
+   "pos": "n",
+   "vi": "tầm nhìn",
+   "ex": "The leader shared a bold vision for growth.",
+   "exVi": "Lãnh đạo chia sẻ một tầm nhìn táo bạo cho tăng trưởng.",
+   "col": [
+    "a vision",
+    "a clear vision"
+   ]
+  },
+  {
+   "id": "st006",
+   "topic": "Chiến lược & quản trị",
+   "w": "initiative",
+   "ipa": "/ɪˈnɪʃətɪv/",
+   "pos": "n",
+   "vi": "sáng kiến",
+   "ex": "A new initiative cut waste sharply.",
+   "exVi": "Một sáng kiến mới giảm mạnh lãng phí.",
+   "col": [
+    "an initiative",
+    "launch an initiative"
+   ]
+  },
+  {
+   "id": "st007",
+   "topic": "Chiến lược & quản trị",
+   "w": "expansion",
+   "ipa": "/ɪkˈspænʃn/",
+   "pos": "n",
+   "vi": "mở rộng",
+   "ex": "The expansion added three new markets.",
+   "exVi": "Việc mở rộng thêm ba thị trường mới.",
+   "col": [
+    "expansion",
+    "rapid expansion"
+   ]
+  },
+  {
+   "id": "st008",
+   "topic": "Chiến lược & quản trị",
+   "w": "diversification",
+   "ipa": "/daɪˌvɜːsɪfɪˈkeɪʃn/",
+   "pos": "n",
+   "vi": "đa dạng hoá",
+   "ex": "Diversification reduced the firm's risk.",
+   "exVi": "Đa dạng hoá giảm rủi ro của công ty.",
+   "col": [
+    "diversification",
+    "product diversification"
+   ]
+  },
+  {
+   "id": "st009",
+   "topic": "Chiến lược & quản trị",
+   "w": "merger",
+   "ipa": "/ˈmɜːdʒə/",
+   "pos": "n",
+   "vi": "sáp nhập",
+   "ex": "The merger created a larger company.",
+   "exVi": "Việc sáp nhập tạo ra một công ty lớn hơn.",
+   "col": [
+    "a merger",
+    "a proposed merger"
+   ]
+  },
+  {
+   "id": "st010",
+   "topic": "Chiến lược & quản trị",
+   "w": "acquisition",
+   "ipa": "/ˌækwɪˈzɪʃn/",
+   "pos": "n",
+   "vi": "thâu tóm",
+   "ex": "The acquisition brought new technology.",
+   "exVi": "Việc thâu tóm mang lại công nghệ mới.",
+   "col": [
+    "an acquisition",
+    "a strategic acquisition"
+   ]
+  },
+  {
+   "id": "st011",
+   "topic": "Chiến lược & quản trị",
+   "w": "takeover",
+   "ipa": "/ˈteɪkəʊvə/",
+   "pos": "n",
+   "vi": "thâu tóm quyền kiểm soát",
+   "ex": "The takeover was approved by shareholders.",
+   "exVi": "Việc thâu tóm được cổ đông chấp thuận.",
+   "col": [
+    "a takeover",
+    "a hostile takeover"
+   ]
+  },
+  {
+   "id": "st012",
+   "topic": "Chiến lược & quản trị",
+   "w": "subsidiary",
+   "ipa": "/səbˈsɪdiəri/",
+   "pos": "n",
+   "vi": "công ty con",
+   "ex": "The subsidiary reports to the parent firm.",
+   "exVi": "Công ty con báo cáo cho công ty mẹ.",
+   "col": [
+    "a subsidiary",
+    "a wholly owned subsidiary"
+   ]
+  },
+  {
+   "id": "st013",
+   "topic": "Chiến lược & quản trị",
+   "w": "headquarters",
+   "ipa": "/ˈhedkwɔːtəz/",
+   "pos": "n",
+   "vi": "trụ sở chính",
+   "ex": "The headquarters moved to the city center.",
+   "exVi": "Trụ sở chính chuyển tới trung tâm thành phố.",
+   "col": [
+    "headquarters",
+    "the company headquarters"
+   ]
+  },
+  {
+   "id": "st014",
+   "topic": "Chiến lược & quản trị",
+   "w": "board",
+   "ipa": "/bɔːd/",
+   "pos": "n",
+   "vi": "hội đồng quản trị",
+   "ex": "The board meets every quarter.",
+   "exVi": "Hội đồng quản trị họp mỗi quý.",
+   "col": [
+    "the board",
+    "a board meeting"
+   ]
+  },
+  {
+   "id": "st015",
+   "topic": "Chiến lược & quản trị",
+   "w": "executive",
+   "ipa": "/ɪɡˈzekjətɪv/",
+   "pos": "n",
+   "vi": "lãnh đạo cấp cao",
+   "ex": "A senior executive led the project.",
+   "exVi": "Một lãnh đạo cấp cao dẫn dắt dự án.",
+   "col": [
+    "an executive",
+    "a senior executive"
+   ]
+  },
+  {
+   "id": "st016",
+   "topic": "Chiến lược & quản trị",
+   "w": "stakeholder",
+   "ipa": "/ˈsteɪkhəʊldə/",
+   "pos": "n",
+   "vi": "bên liên quan",
+   "ex": "Every stakeholder was consulted early.",
+   "exVi": "Mọi bên liên quan được tham vấn sớm.",
+   "col": [
+    "a stakeholder",
+    "a key stakeholder"
+   ]
+  },
+  {
+   "id": "st017",
+   "topic": "Chiến lược & quản trị",
+   "w": "shareholder",
+   "ipa": "/ˈʃeəhəʊldə/",
+   "pos": "n",
+   "vi": "cổ đông",
+   "ex": "Shareholders approved the annual report.",
+   "exVi": "Cổ đông thông qua báo cáo thường niên.",
+   "col": [
+    "a shareholder",
+    "a major shareholder"
+   ]
+  },
+  {
+   "id": "st018",
+   "topic": "Chiến lược & quản trị",
+   "w": "governance",
+   "ipa": "/ˈɡʌvənəns/",
+   "pos": "n",
+   "vi": "quản trị",
+   "ex": "Strong governance protects the company.",
+   "exVi": "Quản trị vững mạnh bảo vệ công ty.",
+   "col": [
+    "governance",
+    "corporate governance"
+   ]
+  },
+  {
+   "id": "st019",
+   "topic": "Chiến lược & quản trị",
+   "w": "accountability",
+   "ipa": "/əˌkaʊntəˈbɪləti/",
+   "pos": "n",
+   "vi": "trách nhiệm giải trình",
+   "ex": "Clear accountability improves decisions.",
+   "exVi": "Trách nhiệm giải trình rõ ràng cải thiện quyết định.",
+   "col": [
+    "accountability",
+    "clear accountability"
+   ]
+  },
+  {
+   "id": "st020",
+   "topic": "Chiến lược & quản trị",
+   "w": "transparency",
+   "ipa": "/trænsˈpærənsi/",
+   "pos": "n",
+   "vi": "sự minh bạch",
+   "ex": "Transparency builds investor trust.",
+   "exVi": "Sự minh bạch xây dựng niềm tin của nhà đầu tư.",
+   "col": [
+    "transparency",
+    "financial transparency"
+   ]
+  },
+  {
+   "id": "st021",
+   "topic": "Chiến lược & quản trị",
+   "w": "benchmark",
+   "ipa": "/ˈbentʃmɑːk/",
+   "pos": "n",
+   "vi": "chuẩn so sánh",
+   "ex": "The report set a benchmark for the industry.",
+   "exVi": "Báo cáo đặt một chuẩn so sánh cho ngành.",
+   "col": [
+    "a benchmark",
+    "an industry benchmark"
+   ]
+  },
+  {
+   "id": "st022",
+   "topic": "Chiến lược & quản trị",
+   "w": "milestone",
+   "ipa": "/ˈmaɪlstəʊn/",
+   "pos": "n",
+   "vi": "cột mốc",
+   "ex": "Reaching a million users was a milestone.",
+   "exVi": "Đạt một triệu người dùng là một cột mốc.",
+   "col": [
+    "a milestone",
+    "a key milestone"
+   ]
+  },
+  {
+   "id": "st023",
+   "topic": "Chiến lược & quản trị",
+   "w": "forecast",
+   "ipa": "/ˈfɔːkɑːst/",
+   "pos": "n",
+   "vi": "dự báo",
+   "ex": "The forecast points to steady growth.",
+   "exVi": "Dự báo chỉ ra tăng trưởng ổn định.",
+   "col": [
+    "a forecast",
+    "a sales forecast"
+   ]
+  },
+  {
+   "id": "st024",
+   "topic": "Chiến lược & quản trị",
+   "w": "projection",
+   "ipa": "/prəˈdʒekʃn/",
+   "pos": "n",
+   "vi": "dự phóng",
+   "ex": "The projection was revised upward.",
+   "exVi": "Dự phóng được điều chỉnh tăng.",
+   "col": [
+    "a projection",
+    "a revenue projection"
+   ]
+  },
+  {
+   "id": "st025",
+   "topic": "Chiến lược & quản trị",
+   "w": "performance",
+   "ipa": "/pəˈfɔːməns/",
+   "pos": "n",
+   "vi": "hiệu quả hoạt động",
+   "ex": "Strong performance lifted the share price.",
+   "exVi": "Hiệu quả hoạt động tốt nâng giá cổ phiếu.",
+   "col": [
+    "performance",
+    "financial performance"
+   ]
+  },
+  {
+   "id": "st026",
+   "topic": "Chiến lược & quản trị",
+   "w": "efficiency",
+   "ipa": "/ɪˈfɪʃnsi/",
+   "pos": "n",
+   "vi": "hiệu suất",
+   "ex": "Efficiency gains cut the running costs.",
+   "exVi": "Cải thiện hiệu suất giảm chi phí vận hành.",
+   "col": [
+    "efficiency",
+    "operational efficiency"
+   ]
+  },
+  {
+   "id": "st027",
+   "topic": "Chiến lược & quản trị",
+   "w": "productivity",
+   "ipa": "/ˌprɒdʌkˈtɪvəti/",
+   "pos": "n",
+   "vi": "năng suất",
+   "ex": "New tools raised staff productivity.",
+   "exVi": "Công cụ mới nâng năng suất nhân viên.",
+   "col": [
+    "productivity",
+    "staff productivity"
+   ]
+  },
+  {
+   "id": "st028",
+   "topic": "Chiến lược & quản trị",
+   "w": "competitiveness",
+   "ipa": "/kəmˈpetətɪvnəs/",
+   "pos": "n",
+   "vi": "khả năng cạnh tranh",
+   "ex": "Lower costs improved competitiveness.",
+   "exVi": "Chi phí thấp hơn cải thiện khả năng cạnh tranh.",
+   "col": [
+    "competitiveness",
+    "global competitiveness"
+   ]
+  },
+  {
+   "id": "st029",
+   "topic": "Chiến lược & quản trị",
+   "w": "restructure",
+   "ipa": "/ˌriːˈstrʌktʃə/",
+   "pos": "v",
+   "vi": "tái cơ cấu",
+   "ex": "The firm restructured to cut costs.",
+   "exVi": "Công ty tái cơ cấu để cắt giảm chi phí.",
+   "col": [
+    "restructure",
+    "restructure the company"
+   ]
+  },
+  {
+   "id": "st030",
+   "topic": "Chiến lược & quản trị",
+   "w": "consolidate",
+   "ipa": "/kənˈsɒlɪdeɪt/",
+   "pos": "v",
+   "vi": "hợp nhất",
+   "ex": "The company consolidated its three units.",
+   "exVi": "Công ty hợp nhất ba đơn vị của mình.",
+   "col": [
+    "consolidate",
+    "consolidate operations"
+   ]
+  },
+  {
+   "id": "st031",
+   "topic": "Chiến lược & quản trị",
+   "w": "downsize",
+   "ipa": "/ˈdaʊnsaɪz/",
+   "pos": "v",
+   "vi": "thu hẹp quy mô",
+   "ex": "The firm downsized during the downturn.",
+   "exVi": "Công ty thu hẹp quy mô trong thời kỳ suy giảm.",
+   "col": [
+    "downsize",
+    "downsize the workforce"
+   ]
+  },
+  {
+   "id": "st032",
+   "topic": "Chiến lược & quản trị",
+   "w": "outsource",
+   "ipa": "/ˌaʊtˈsɔːs/",
+   "pos": "v",
+   "vi": "thuê ngoài",
+   "ex": "The firm outsourced its IT support.",
+   "exVi": "Công ty thuê ngoài dịch vụ hỗ trợ IT.",
+   "col": [
+    "outsource",
+    "outsource a service"
+   ]
+  },
+  {
+   "id": "st033",
+   "topic": "Chiến lược & quản trị",
+   "w": "diversify",
+   "ipa": "/daɪˈvɜːsɪfaɪ/",
+   "pos": "v",
+   "vi": "đa dạng hoá",
+   "ex": "The company diversified into new markets.",
+   "exVi": "Công ty đa dạng hoá sang các thị trường mới.",
+   "col": [
+    "diversify",
+    "diversify a portfolio"
+   ]
+  },
+  {
+   "id": "st034",
+   "topic": "Chiến lược & quản trị",
+   "w": "implement",
+   "ipa": "/ˈɪmplɪment/",
+   "pos": "v",
+   "vi": "triển khai",
+   "ex": "The board implemented the new plan.",
+   "exVi": "Hội đồng triển khai kế hoạch mới.",
+   "col": [
+    "implement",
+    "implement a strategy"
+   ]
+  },
+  {
+   "id": "st035",
+   "topic": "Chiến lược & quản trị",
+   "w": "prioritize",
+   "ipa": "/praɪˈɒrətaɪz/",
+   "pos": "v",
+   "vi": "ưu tiên",
+   "ex": "Leaders prioritize the biggest risks first.",
+   "exVi": "Lãnh đạo ưu tiên các rủi ro lớn nhất trước.",
+   "col": [
+    "prioritize",
+    "prioritize goals"
+   ]
+  },
+  {
+   "id": "st036",
+   "topic": "Chiến lược & quản trị",
+   "w": "delegate",
+   "ipa": "/ˈdelɪɡeɪt/",
+   "pos": "v",
+   "vi": "uỷ quyền",
+   "ex": "Senior staff delegate routine decisions.",
+   "exVi": "Nhân viên cấp cao uỷ quyền các quyết định thường ngày.",
+   "col": [
+    "delegate",
+    "delegate authority"
+   ]
+  },
+  {
+   "id": "st037",
+   "topic": "Chiến lược & quản trị",
+   "w": "scale",
+   "ipa": "/skeɪl/",
+   "pos": "v",
+   "vi": "mở rộng quy mô",
+   "ex": "The firm scaled quickly after the funding.",
+   "exVi": "Công ty mở rộng quy mô nhanh sau khi được cấp vốn.",
+   "col": [
+    "scale",
+    "scale a business"
+   ]
+  },
+  {
+   "id": "st038",
+   "topic": "Chiến lược & quản trị",
+   "w": "oversee",
+   "ipa": "/ˌəʊvəˈsiː/",
+   "pos": "v",
+   "vi": "giám sát",
+   "ex": "The director oversees all major projects.",
+   "exVi": "Giám đốc giám sát mọi dự án lớn.",
+   "col": [
+    "oversee",
+    "oversee a project"
+   ]
+  },
+  {
+   "id": "st039",
+   "topic": "Chiến lược & quản trị",
+   "w": "strategic",
+   "ipa": "/strəˈtiːdʒɪk/",
+   "pos": "adj",
+   "vi": "mang tính chiến lược",
+   "ex": "The move was a strategic choice.",
+   "exVi": "Động thái này là một lựa chọn chiến lược.",
+   "col": [
+    "strategic",
+    "a strategic decision"
+   ]
+  },
+  {
+   "id": "st040",
+   "topic": "Chiến lược & quản trị",
+   "w": "sustainable",
+   "ipa": "/səˈsteɪnəbl/",
+   "pos": "adj",
+   "vi": "bền vững",
+   "ex": "The plan supports sustainable growth.",
+   "exVi": "Kế hoạch hỗ trợ tăng trưởng bền vững.",
+   "col": [
+    "sustainable",
+    "sustainable growth"
+   ]
+  },
+  {
+   "id": "st041",
+   "topic": "Chiến lược & quản trị",
+   "w": "scalable",
+   "ipa": "/ˈskeɪləbl/",
+   "pos": "adj",
+   "vi": "có thể mở rộng",
+   "ex": "The model is scalable across markets.",
+   "exVi": "Mô hình có thể mở rộng qua các thị trường.",
+   "col": [
+    "scalable",
+    "a scalable model"
+   ]
+  },
+  {
+   "id": "st042",
+   "topic": "Chiến lược & quản trị",
+   "w": "innovative",
+   "ipa": "/ˈɪnəveɪtɪv/",
+   "pos": "adj",
+   "vi": "đổi mới",
+   "ex": "An innovative strategy set the firm apart.",
+   "exVi": "Một chiến lược đổi mới giúp công ty khác biệt.",
+   "col": [
+    "innovative",
+    "an innovative approach"
+   ]
+  },
+  {
+   "id": "st043",
+   "topic": "Chiến lược & quản trị",
+   "w": "lucrative",
+   "ipa": "/ˈluːkrətɪv/",
+   "pos": "adj",
+   "vi": "sinh lời cao",
+   "ex": "The new market proved lucrative.",
+   "exVi": "Thị trường mới tỏ ra sinh lời cao.",
+   "col": [
+    "lucrative",
+    "a lucrative deal"
+   ]
+  },
+  {
+   "id": "st044",
+   "topic": "Chiến lược & quản trị",
+   "w": "venture",
+   "ipa": "/ˈventʃə/",
+   "pos": "n",
+   "vi": "liên doanh, dự án mạo hiểm",
+   "ex": "The joint venture entered a new market.",
+   "exVi": "Liên doanh gia nhập một thị trường mới.",
+   "col": [
+    "a venture",
+    "a joint venture"
+   ]
+  },
+  {
+   "id": "st045",
+   "topic": "Chiến lược & quản trị",
+   "w": "startup",
+   "ipa": "/ˈstɑːtʌp/",
+   "pos": "n",
+   "vi": "công ty khởi nghiệp",
+   "ex": "The startup grew fast after the funding round.",
+   "exVi": "Công ty khởi nghiệp tăng nhanh sau vòng gọi vốn.",
+   "col": [
+    "a startup",
+    "a tech startup"
+   ]
+  },
+  {
+   "id": "st046",
+   "topic": "Chiến lược & quản trị",
+   "w": "enterprise",
+   "ipa": "/ˈentəpraɪz/",
+   "pos": "n",
+   "vi": "doanh nghiệp",
+   "ex": "The enterprise employs thousands worldwide.",
+   "exVi": "Doanh nghiệp tuyển hàng nghìn người trên toàn cầu.",
+   "col": [
+    "an enterprise",
+    "a large enterprise"
+   ]
+  },
+  {
+   "id": "st047",
+   "topic": "Chiến lược & quản trị",
+   "w": "conglomerate",
+   "ipa": "/kənˈɡlɒmərət/",
+   "pos": "n",
+   "vi": "tập đoàn đa ngành",
+   "ex": "The conglomerate owns firms in five sectors.",
+   "exVi": "Tập đoàn đa ngành sở hữu các công ty trong năm lĩnh vực.",
+   "col": [
+    "a conglomerate",
+    "a large conglomerate"
+   ]
+  },
+  {
+   "id": "st048",
+   "topic": "Chiến lược & quản trị",
+   "w": "portfolio",
+   "ipa": "/pɔːtˈfəʊliəʊ/",
+   "pos": "n",
+   "vi": "danh mục",
+   "ex": "The firm's portfolio spans several products.",
+   "exVi": "Danh mục của công ty trải qua vài sản phẩm.",
+   "col": [
+    "a portfolio",
+    "a product portfolio"
+   ]
+  },
+  {
+   "id": "st049",
+   "topic": "Chiến lược & quản trị",
+   "w": "division",
+   "ipa": "/dɪˈvɪʒn/",
+   "pos": "n",
+   "vi": "bộ phận",
+   "ex": "The overseas division led the growth.",
+   "exVi": "Bộ phận nước ngoài dẫn dắt sự tăng trưởng.",
+   "col": [
+    "a division",
+    "a business division"
+   ]
+  },
+  {
+   "id": "st050",
+   "topic": "Chiến lược & quản trị",
+   "w": "department",
+   "ipa": "/dɪˈpɑːtmənt/",
+   "pos": "n",
+   "vi": "phòng ban",
+   "ex": "Each department set its own budget.",
+   "exVi": "Mỗi phòng ban đặt ngân sách riêng.",
+   "col": [
+    "a department",
+    "a sales department"
+   ]
+  },
+  {
+   "id": "st051",
+   "topic": "Chiến lược & quản trị",
+   "w": "hierarchy",
+   "ipa": "/ˈhaɪərɑːki/",
+   "pos": "n",
+   "vi": "cấp bậc",
+   "ex": "A flat hierarchy speeds up decisions.",
+   "exVi": "Một cấp bậc phẳng tăng tốc các quyết định.",
+   "col": [
+    "a hierarchy",
+    "a flat hierarchy"
+   ]
+  },
+  {
+   "id": "st052",
+   "topic": "Chiến lược & quản trị",
+   "w": "autonomy",
+   "ipa": "/ɔːˈtɒnəmi/",
+   "pos": "n",
+   "vi": "quyền tự chủ",
+   "ex": "Each team was given more autonomy.",
+   "exVi": "Mỗi nhóm được trao thêm quyền tự chủ.",
+   "col": [
+    "autonomy",
+    "greater autonomy"
+   ]
+  },
+  {
+   "id": "st053",
+   "topic": "Chiến lược & quản trị",
+   "w": "mandate",
+   "ipa": "/ˈmændeɪt/",
+   "pos": "n",
+   "vi": "nhiệm vụ được giao",
+   "ex": "The new leader had a clear mandate for change.",
+   "exVi": "Lãnh đạo mới có một nhiệm vụ rõ ràng cho việc thay đổi.",
+   "col": [
+    "a mandate",
+    "a clear mandate"
+   ]
+  },
+  {
+   "id": "st054",
+   "topic": "Chiến lược & quản trị",
+   "w": "policy",
+   "ipa": "/ˈpɒləsi/",
+   "pos": "n",
+   "vi": "chính sách",
+   "ex": "A new policy guides how staff travel.",
+   "exVi": "Một chính sách mới hướng dẫn cách nhân viên đi công tác.",
+   "col": [
+    "a policy",
+    "a company policy"
+   ]
+  },
+  {
+   "id": "st055",
+   "topic": "Chiến lược & quản trị",
+   "w": "protocol",
+   "ipa": "/ˈprəʊtəkɒl/",
+   "pos": "n",
+   "vi": "quy trình chuẩn",
+   "ex": "A strict protocol governs data handling.",
+   "exVi": "Một quy trình chuẩn nghiêm ngặt điều chỉnh việc xử lý dữ liệu.",
+   "col": [
+    "a protocol",
+    "a safety protocol"
+   ]
+  },
+  {
+   "id": "st056",
+   "topic": "Chiến lược & quản trị",
+   "w": "framework",
+   "ipa": "/ˈfreɪmwɜːk/",
+   "pos": "n",
+   "vi": "khung hành động",
+   "ex": "The plan follows a clear framework.",
+   "exVi": "Kế hoạch theo một khung rõ ràng.",
+   "col": [
+    "a framework",
+    "a strategic framework"
+   ]
+  },
+  {
+   "id": "st057",
+   "topic": "Chiến lược & quản trị",
+   "w": "roadmap",
+   "ipa": "/ˈrəʊdmæp/",
+   "pos": "n",
+   "vi": "lộ trình",
+   "ex": "The roadmap sets goals for three years.",
+   "exVi": "Lộ trình đặt các mục tiêu cho ba năm.",
+   "col": [
+    "a roadmap",
+    "a product roadmap"
+   ]
+  },
+  {
+   "id": "st058",
+   "topic": "Chiến lược & quản trị",
+   "w": "blueprint",
+   "ipa": "/ˈbluːprɪnt/",
+   "pos": "n",
+   "vi": "bản kế hoạch chi tiết",
+   "ex": "The blueprint guides the whole expansion.",
+   "exVi": "Bản kế hoạch chi tiết dẫn dắt cả việc mở rộng.",
+   "col": [
+    "a blueprint",
+    "a detailed blueprint"
+   ]
+  },
+  {
+   "id": "st059",
+   "topic": "Chiến lược & quản trị",
+   "w": "alignment",
+   "ipa": "/əˈlaɪnmənt/",
+   "pos": "n",
+   "vi": "sự đồng bộ mục tiêu",
+   "ex": "Alignment across teams sped up the launch.",
+   "exVi": "Sự đồng bộ giữa các nhóm tăng tốc việc ra mắt.",
+   "col": [
+    "alignment",
+    "strategic alignment"
+   ]
+  },
+  {
+   "id": "st060",
+   "topic": "Chiến lược & quản trị",
+   "w": "synergy",
+   "ipa": "/ˈsɪnədʒi/",
+   "pos": "n",
+   "vi": "sự cộng hưởng",
+   "ex": "The merger created real synergy.",
+   "exVi": "Việc sáp nhập tạo ra sự cộng hưởng thực sự.",
+   "col": [
+    "synergy",
+    "create synergy"
+   ]
+  },
+  {
+   "id": "st061",
+   "topic": "Chiến lược & quản trị",
+   "w": "leverage",
+   "ipa": "/ˈliːvərɪdʒ/",
+   "pos": "n, v",
+   "vi": "đòn bẩy, tận dụng",
+   "ex": "The firm leveraged its brand to enter new markets.",
+   "exVi": "Công ty tận dụng thương hiệu để vào thị trường mới.",
+   "col": [
+    "leverage",
+    "leverage a strength"
+   ]
+  },
+  {
+   "id": "st062",
+   "topic": "Chiến lược & quản trị",
+   "w": "capitalize",
+   "ipa": "/ˈkæpɪtəlaɪz/",
+   "pos": "v",
+   "vi": "tận dụng lợi thế",
+   "ex": "The firm capitalized on the rising demand.",
+   "exVi": "Công ty tận dụng nhu cầu đang tăng.",
+   "col": [
+    "capitalize on",
+    "capitalize on an opportunity"
+   ]
+  },
+  {
+   "id": "st063",
+   "topic": "Chiến lược & quản trị",
+   "w": "streamline",
+   "ipa": "/ˈstriːmlaɪn/",
+   "pos": "v",
+   "vi": "tinh gọn",
+   "ex": "The plan streamlined the whole process.",
+   "exVi": "Kế hoạch tinh gọn toàn bộ quy trình.",
+   "col": [
+    "streamline",
+    "streamline operations"
+   ]
+  },
+  {
+   "id": "st064",
+   "topic": "Chiến lược & quản trị",
+   "w": "optimize",
+   "ipa": "/ˈɒptɪmaɪz/",
+   "pos": "v",
+   "vi": "tối ưu hoá",
+   "ex": "The team optimized the supply chain.",
+   "exVi": "Nhóm tối ưu hoá chuỗi cung ứng.",
+   "col": [
+    "optimize",
+    "optimize a process"
+   ]
+  },
+  {
+   "id": "st065",
+   "topic": "Chiến lược & quản trị",
+   "w": "integrate",
+   "ipa": "/ˈɪntɪɡreɪt/",
+   "pos": "v",
+   "vi": "tích hợp",
+   "ex": "The two systems were integrated smoothly.",
+   "exVi": "Hai hệ thống được tích hợp êm ả.",
+   "col": [
+    "integrate",
+    "integrate a system"
+   ]
+  },
+  {
+   "id": "st066",
+   "topic": "Chiến lược & quản trị",
+   "w": "realign",
+   "ipa": "/ˌriːəˈlaɪn/",
+   "pos": "v",
+   "vi": "điều chỉnh lại",
+   "ex": "The firm realigned its goals for the year.",
+   "exVi": "Công ty điều chỉnh lại các mục tiêu cho năm.",
+   "col": [
+    "realign",
+    "realign priorities"
+   ]
+  },
+  {
+   "id": "st067",
+   "topic": "Chiến lược & quản trị",
+   "w": "spearhead",
+   "ipa": "/ˈspɪəhed/",
+   "pos": "v",
+   "vi": "đi đầu, dẫn dắt",
+   "ex": "She spearheaded the digital project.",
+   "exVi": "Bà dẫn dắt dự án số hoá.",
+   "col": [
+    "spearhead",
+    "spearhead a project"
+   ]
+  },
+  {
+   "id": "st068",
+   "topic": "Chiến lược & quản trị",
+   "w": "pioneer",
+   "ipa": "/ˌpaɪəˈnɪə/",
+   "pos": "v",
+   "vi": "tiên phong",
+   "ex": "The firm pioneered a new payment method.",
+   "exVi": "Công ty tiên phong một phương thức thanh toán mới.",
+   "col": [
+    "pioneer",
+    "pioneer a method"
+   ]
+  },
+  {
+   "id": "st069",
+   "topic": "Chiến lược & quản trị",
+   "w": "underpin",
+   "ipa": "/ˌʌndəˈpɪn/",
+   "pos": "v",
+   "vi": "làm nền tảng",
+   "ex": "Strong values underpin the strategy.",
+   "exVi": "Các giá trị vững mạnh làm nền tảng cho chiến lược.",
+   "col": [
+    "underpin",
+    "underpin a plan"
+   ]
+  },
+  {
+   "id": "st070",
+   "topic": "Chiến lược & quản trị",
+   "w": "sustain",
+   "ipa": "/səˈsteɪn/",
+   "pos": "v",
+   "vi": "duy trì",
+   "ex": "The firm sustained its growth for a decade.",
+   "exVi": "Công ty duy trì sự tăng trưởng suốt một thập kỷ.",
+   "col": [
+    "sustain",
+    "sustain growth"
+   ]
+  },
+  {
+   "id": "st071",
+   "topic": "Chiến lược & quản trị",
+   "w": "outperform",
+   "ipa": "/ˌaʊtpəˈfɔːm/",
+   "pos": "v",
+   "vi": "vượt trội hơn",
+   "ex": "The division outperformed its rivals.",
+   "exVi": "Bộ phận vượt trội hơn các đối thủ.",
+   "col": [
+    "outperform",
+    "outperform the market"
+   ]
+  },
+  {
+   "id": "st072",
+   "topic": "Chiến lược & quản trị",
+   "w": "consolidated",
+   "ipa": "/kənˈsɒlɪdeɪtɪd/",
+   "pos": "adj",
+   "vi": "hợp nhất",
+   "ex": "The consolidated results looked strong.",
+   "exVi": "Kết quả hợp nhất trông vững chắc.",
+   "col": [
+    "consolidated",
+    "consolidated accounts"
+   ]
+  },
+  {
+   "id": "st073",
+   "topic": "Chiến lược & quản trị",
+   "w": "corporate",
+   "ipa": "/ˈkɔːpərət/",
+   "pos": "adj",
+   "vi": "thuộc doanh nghiệp",
+   "ex": "Corporate policy sets the travel rules.",
+   "exVi": "Chính sách doanh nghiệp đặt các quy tắc đi công tác.",
+   "col": [
+    "corporate",
+    "corporate strategy"
+   ]
+  },
+  {
+   "id": "st074",
+   "topic": "Chiến lược & quản trị",
+   "w": "strategic priority",
+   "ipa": "/strəˈtiːdʒɪk praɪˈɒrəti/",
+   "pos": "n",
+   "vi": "ưu tiên chiến lược",
+   "ex": "Growth is the firm's top strategic priority.",
+   "exVi": "Tăng trưởng là ưu tiên chiến lược hàng đầu của công ty.",
+   "col": [
+    "a strategic priority",
+    "a key strategic priority"
+   ]
+  },
+  {
+   "id": "st075",
+   "topic": "Chiến lược & quản trị",
+   "w": "long-term",
+   "ipa": "/ˌlɒŋ ˈtɜːm/",
+   "pos": "adj",
+   "vi": "dài hạn",
+   "ex": "The board took a long-term view.",
+   "exVi": "Hội đồng có một cái nhìn dài hạn.",
+   "col": [
+    "long-term",
+    "a long-term plan"
+   ]
+  },
+  {
+   "id": "st076",
+   "topic": "Chiến lược & quản trị",
+   "w": "short-term",
+   "ipa": "/ˌʃɔːt ˈtɜːm/",
+   "pos": "adj",
+   "vi": "ngắn hạn",
+   "ex": "Short-term gains were set aside for growth.",
+   "exVi": "Lợi ích ngắn hạn được gác lại vì tăng trưởng.",
+   "col": [
+    "short-term",
+    "a short-term goal"
+   ]
+  },
+  {
+   "id": "st077",
+   "topic": "Chiến lược & quản trị",
+   "w": "proactive",
+   "ipa": "/prəʊˈæktɪv/",
+   "pos": "adj",
+   "vi": "chủ động",
+   "ex": "A proactive approach avoided the problem.",
+   "exVi": "Một cách tiếp cận chủ động tránh được vấn đề.",
+   "col": [
+    "proactive",
+    "a proactive approach"
+   ]
+  },
+  {
+   "id": "st078",
+   "topic": "Chiến lược & quản trị",
+   "w": "resilient",
+   "ipa": "/rɪˈzɪliənt/",
+   "pos": "adj",
+   "vi": "có sức chống chịu",
+   "ex": "The business proved resilient in the downturn.",
+   "exVi": "Doanh nghiệp chứng tỏ có sức chống chịu trong suy giảm.",
+   "col": [
+    "resilient",
+    "a resilient business"
+   ]
+  },
+  {
+   "id": "st079",
+   "topic": "Chiến lược & quản trị",
+   "w": "agile",
+   "ipa": "/ˈædʒaɪl/",
+   "pos": "adj",
+   "vi": "linh hoạt nhanh nhạy",
+   "ex": "An agile firm adapts quickly to change.",
+   "exVi": "Một công ty linh hoạt thích ứng nhanh với thay đổi.",
+   "col": [
+    "agile",
+    "an agile team"
+   ]
+  },
+  {
+   "id": "st080",
+   "topic": "Chiến lược & quản trị",
+   "w": "robust",
+   "ipa": "/rəʊˈbʌst/",
+   "pos": "adj",
+   "vi": "vững chắc",
+   "ex": "The plan is built on robust data.",
+   "exVi": "Kế hoạch được xây trên dữ liệu vững chắc.",
+   "col": [
+    "robust",
+    "robust growth"
+   ]
+  },
+  {
+   "id": "st081",
+   "topic": "Chiến lược & quản trị",
+   "w": "viable",
+   "ipa": "/ˈvaɪəbl/",
+   "pos": "adj",
+   "vi": "khả thi",
+   "ex": "The idea proved commercially viable.",
+   "exVi": "Ý tưởng chứng tỏ khả thi về thương mại.",
+   "col": [
+    "viable",
+    "a viable option"
+   ]
+  },
+  {
+   "id": "st082",
+   "topic": "Chiến lược & quản trị",
+   "w": "strategically",
+   "ipa": "/strəˈtiːdʒɪkli/",
+   "pos": "adv",
+   "vi": "một cách chiến lược",
+   "ex": "The firm invested strategically in research.",
+   "exVi": "Công ty đầu tư một cách chiến lược vào nghiên cứu.",
+   "col": [
+    "strategically placed",
+    "invest strategically"
+   ]
+  },
+  {
+   "id": "st083",
+   "topic": "Chiến lược & quản trị",
+   "w": "overarching",
+   "ipa": "/ˌəʊvərˈɑːtʃɪŋ/",
+   "pos": "adj",
+   "vi": "bao trùm",
+   "ex": "An overarching goal guides all the teams.",
+   "exVi": "Một mục tiêu bao trùm dẫn dắt mọi nhóm.",
+   "col": [
+    "overarching",
+    "an overarching aim"
+   ]
+  },
+  {
+   "id": "st084",
+   "topic": "Chiến lược & quản trị",
+   "w": "holistic",
+   "ipa": "/həˈlɪstɪk/",
+   "pos": "adj",
+   "vi": "toàn diện, tổng thể",
+   "ex": "The firm took a holistic view of growth.",
+   "exVi": "Công ty có một cái nhìn tổng thể về tăng trưởng.",
+   "col": [
+    "holistic",
+    "a holistic approach"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1181 @@
+{
+ "topic": "Xây dựng & kỹ thuật công trình",
+ "words": [
+  {
+   "id": "cn001",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "construction",
+   "ipa": "/kənˈstrʌkʃn/",
+   "pos": "n",
+   "vi": "xây dựng",
+   "ex": "Construction of the bridge began in spring.",
+   "exVi": "Việc xây dựng cây cầu bắt đầu vào mùa xuân.",
+   "col": [
+    "construction",
+    "a construction site"
+   ]
+  },
+  {
+   "id": "cn002",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "engineering",
+   "ipa": "/ˌendʒɪˈnɪərɪŋ/",
+   "pos": "n",
+   "vi": "kỹ thuật công trình",
+   "ex": "The firm specializes in civil engineering.",
+   "exVi": "Công ty chuyên về kỹ thuật xây dựng dân dụng.",
+   "col": [
+    "engineering",
+    "civil engineering"
+   ]
+  },
+  {
+   "id": "cn003",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "contractor",
+   "ipa": "/kənˈtræktə/",
+   "pos": "n",
+   "vi": "nhà thầu",
+   "ex": "The contractor finished ahead of schedule.",
+   "exVi": "Nhà thầu hoàn thành trước lịch.",
+   "col": [
+    "a contractor",
+    "a main contractor"
+   ]
+  },
+  {
+   "id": "cn004",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "subcontractor",
+   "ipa": "/ˌsʌbkənˈtræktə/",
+   "pos": "n",
+   "vi": "nhà thầu phụ",
+   "ex": "A subcontractor handled the wiring.",
+   "exVi": "Một nhà thầu phụ lo phần đi dây điện.",
+   "col": [
+    "a subcontractor",
+    "an approved subcontractor"
+   ]
+  },
+  {
+   "id": "cn005",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "architect",
+   "ipa": "/ˈɑːkɪtekt/",
+   "pos": "n",
+   "vi": "kiến trúc sư",
+   "ex": "The architect revised the plan twice.",
+   "exVi": "Kiến trúc sư sửa bản vẽ hai lần.",
+   "col": [
+    "an architect",
+    "a lead architect"
+   ]
+  },
+  {
+   "id": "cn006",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "surveyor",
+   "ipa": "/səˈveɪə/",
+   "pos": "n",
+   "vi": "người khảo sát",
+   "ex": "A surveyor checked the land before building.",
+   "exVi": "Một người khảo sát kiểm tra đất trước khi xây.",
+   "col": [
+    "a surveyor",
+    "a land surveyor"
+   ]
+  },
+  {
+   "id": "cn007",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "blueprint",
+   "ipa": "/ˈbluːprɪnt/",
+   "pos": "n",
+   "vi": "bản vẽ thiết kế",
+   "ex": "The blueprint showed every room.",
+   "exVi": "Bản vẽ thiết kế cho thấy mọi phòng.",
+   "col": [
+    "a blueprint",
+    "a detailed blueprint"
+   ]
+  },
+  {
+   "id": "cn008",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "specification",
+   "ipa": "/ˌspesɪfɪˈkeɪʃn/",
+   "pos": "n",
+   "vi": "thông số kỹ thuật",
+   "ex": "The build must meet the specification.",
+   "exVi": "Công trình phải đạt thông số kỹ thuật.",
+   "col": [
+    "a specification",
+    "a technical specification"
+   ]
+  },
+  {
+   "id": "cn009",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "foundation",
+   "ipa": "/faʊnˈdeɪʃn/",
+   "pos": "n",
+   "vi": "nền móng",
+   "ex": "The foundation was laid in one week.",
+   "exVi": "Nền móng được đổ trong một tuần.",
+   "col": [
+    "a foundation",
+    "lay a foundation"
+   ]
+  },
+  {
+   "id": "cn010",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "scaffold",
+   "ipa": "/ˈskæfəld/",
+   "pos": "n",
+   "vi": "giàn giáo",
+   "ex": "Workers climbed the scaffold to the roof.",
+   "exVi": "Công nhân trèo giàn giáo lên mái.",
+   "col": [
+    "a scaffold",
+    "a metal scaffold"
+   ]
+  },
+  {
+   "id": "cn011",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "crane",
+   "ipa": "/kreɪn/",
+   "pos": "n",
+   "vi": "cần cẩu",
+   "ex": "A tall crane lifted the steel beams.",
+   "exVi": "Một cần cẩu cao nâng các dầm thép.",
+   "col": [
+    "a crane",
+    "a tower crane"
+   ]
+  },
+  {
+   "id": "cn012",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "excavation",
+   "ipa": "/ˌekskəˈveɪʃn/",
+   "pos": "n",
+   "vi": "đào móng",
+   "ex": "The excavation reached ten meters down.",
+   "exVi": "Việc đào móng sâu tới mười mét.",
+   "col": [
+    "excavation",
+    "site excavation"
+   ]
+  },
+  {
+   "id": "cn013",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "girder",
+   "ipa": "/ˈɡɜːdə/",
+   "pos": "n",
+   "vi": "dầm thép",
+   "ex": "Steel girders support the whole floor.",
+   "exVi": "Dầm thép đỡ cả sàn.",
+   "col": [
+    "a girder",
+    "a steel girder"
+   ]
+  },
+  {
+   "id": "cn014",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "beam",
+   "ipa": "/biːm/",
+   "pos": "n",
+   "vi": "dầm",
+   "ex": "A wooden beam runs along the ceiling.",
+   "exVi": "Một cây dầm gỗ chạy dọc trần.",
+   "col": [
+    "a beam",
+    "a support beam"
+   ]
+  },
+  {
+   "id": "cn015",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "reinforcement",
+   "ipa": "/ˌriːɪnˈfɔːsmənt/",
+   "pos": "n",
+   "vi": "cốt thép gia cường",
+   "ex": "Steel reinforcement strengthens the concrete.",
+   "exVi": "Cốt thép gia cường làm cứng bê tông.",
+   "col": [
+    "reinforcement",
+    "steel reinforcement"
+   ]
+  },
+  {
+   "id": "cn016",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "concrete",
+   "ipa": "/ˈkɒŋkriːt/",
+   "pos": "n",
+   "vi": "bê tông",
+   "ex": "The concrete was poured before the rain.",
+   "exVi": "Bê tông được đổ trước cơn mưa.",
+   "col": [
+    "concrete",
+    "reinforced concrete"
+   ]
+  },
+  {
+   "id": "cn017",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "insulation",
+   "ipa": "/ˌɪnsjuˈleɪʃn/",
+   "pos": "n",
+   "vi": "vật liệu cách nhiệt",
+   "ex": "Good insulation lowers the energy bill.",
+   "exVi": "Vật liệu cách nhiệt tốt giảm hoá đơn năng lượng.",
+   "col": [
+    "insulation",
+    "thermal insulation"
+   ]
+  },
+  {
+   "id": "cn018",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "plumbing",
+   "ipa": "/ˈplʌmɪŋ/",
+   "pos": "n",
+   "vi": "hệ thống ống nước",
+   "ex": "The plumbing was fitted last week.",
+   "exVi": "Hệ thống ống nước được lắp tuần trước.",
+   "col": [
+    "plumbing",
+    "check the plumbing"
+   ]
+  },
+  {
+   "id": "cn019",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "wiring",
+   "ipa": "/ˈwaɪərɪŋ/",
+   "pos": "n",
+   "vi": "hệ thống dây điện",
+   "ex": "Faulty wiring delayed the inspection.",
+   "exVi": "Hệ thống dây điện lỗi làm chậm việc kiểm định.",
+   "col": [
+    "wiring",
+    "electrical wiring"
+   ]
+  },
+  {
+   "id": "cn020",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "ventilation",
+   "ipa": "/ˌventɪˈleɪʃn/",
+   "pos": "n",
+   "vi": "thông gió",
+   "ex": "Proper ventilation keeps the site safe.",
+   "exVi": "Thông gió tốt giữ công trường an toàn.",
+   "col": [
+    "ventilation",
+    "a ventilation system"
+   ]
+  },
+  {
+   "id": "cn021",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "permit",
+   "ipa": "/ˈpɜːmɪt/",
+   "pos": "n",
+   "vi": "giấy phép",
+   "ex": "A building permit is required first.",
+   "exVi": "Cần một giấy phép xây dựng trước tiên.",
+   "col": [
+    "a permit",
+    "a building permit"
+   ]
+  },
+  {
+   "id": "cn022",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "zoning",
+   "ipa": "/ˈzəʊnɪŋ/",
+   "pos": "n",
+   "vi": "quy hoạch phân khu",
+   "ex": "Zoning rules limit the building's height.",
+   "exVi": "Quy định phân khu giới hạn chiều cao công trình.",
+   "col": [
+    "zoning",
+    "zoning rules"
+   ]
+  },
+  {
+   "id": "cn023",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "inspection",
+   "ipa": "/ɪnˈspekʃn/",
+   "pos": "n",
+   "vi": "kiểm định",
+   "ex": "A safety inspection is done each stage.",
+   "exVi": "Một cuộc kiểm định an toàn được làm mỗi giai đoạn.",
+   "col": [
+    "inspection",
+    "a safety inspection"
+   ]
+  },
+  {
+   "id": "cn024",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "compliance",
+   "ipa": "/kəmˈplaɪəns/",
+   "pos": "n",
+   "vi": "tuân thủ",
+   "ex": "The site passed its safety compliance check.",
+   "exVi": "Công trường vượt qua kiểm tra tuân thủ an toàn.",
+   "col": [
+    "compliance",
+    "safety compliance"
+   ]
+  },
+  {
+   "id": "cn025",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "demolition",
+   "ipa": "/ˌdeməˈlɪʃn/",
+   "pos": "n",
+   "vi": "phá dỡ",
+   "ex": "Demolition of the old block took two days.",
+   "exVi": "Việc phá dỡ khối nhà cũ mất hai ngày.",
+   "col": [
+    "demolition",
+    "a demolition crew"
+   ]
+  },
+  {
+   "id": "cn026",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "renovation",
+   "ipa": "/ˌrenəˈveɪʃn/",
+   "pos": "n",
+   "vi": "cải tạo",
+   "ex": "The renovation added a second floor.",
+   "exVi": "Việc cải tạo thêm một tầng hai.",
+   "col": [
+    "renovation",
+    "a major renovation"
+   ]
+  },
+  {
+   "id": "cn027",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "retrofit",
+   "ipa": "/ˈretrəʊfɪt/",
+   "pos": "n, v",
+   "vi": "cải tiến trang bị",
+   "ex": "The retrofit improved the building's safety.",
+   "exVi": "Việc cải tiến trang bị nâng cao an toàn của toà nhà.",
+   "col": [
+    "retrofit",
+    "a seismic retrofit"
+   ]
+  },
+  {
+   "id": "cn028",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "survey",
+   "ipa": "/ˈsɜːveɪ/",
+   "pos": "n",
+   "vi": "khảo sát công trình",
+   "ex": "A survey found no structural problems.",
+   "exVi": "Một cuộc khảo sát không thấy vấn đề kết cấu.",
+   "col": [
+    "a survey",
+    "a structural survey"
+   ]
+  },
+  {
+   "id": "cn029",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "estimate",
+   "ipa": "/ˈestɪmət/",
+   "pos": "n",
+   "vi": "dự toán",
+   "ex": "The estimate covered labour and materials.",
+   "exVi": "Dự toán bao gồm công và vật liệu.",
+   "col": [
+    "an estimate",
+    "a cost estimate"
+   ]
+  },
+  {
+   "id": "cn030",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "tender",
+   "ipa": "/ˈtendə/",
+   "pos": "n",
+   "vi": "hồ sơ dự thầu",
+   "ex": "Three firms submitted a tender for the job.",
+   "exVi": "Ba công ty nộp hồ sơ dự thầu cho công việc.",
+   "col": [
+    "a tender",
+    "submit a tender"
+   ]
+  },
+  {
+   "id": "cn031",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "excavate",
+   "ipa": "/ˈekskəveɪt/",
+   "pos": "v",
+   "vi": "đào",
+   "ex": "The crew excavated the site for the foundation.",
+   "exVi": "Đội đào khu đất để làm móng.",
+   "col": [
+    "excavate",
+    "excavate a site"
+   ]
+  },
+  {
+   "id": "cn032",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "assemble",
+   "ipa": "/əˈsembl/",
+   "pos": "v",
+   "vi": "lắp ráp",
+   "ex": "Workers assembled the steel frame on site.",
+   "exVi": "Công nhân lắp ráp khung thép tại chỗ.",
+   "col": [
+    "assemble",
+    "assemble a frame"
+   ]
+  },
+  {
+   "id": "cn033",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "install",
+   "ipa": "/ɪnˈstɔːl/",
+   "pos": "v",
+   "vi": "lắp đặt",
+   "ex": "Electricians install the wiring last.",
+   "exVi": "Thợ điện lắp đặt hệ thống dây cuối cùng.",
+   "col": [
+    "install",
+    "install equipment"
+   ]
+  },
+  {
+   "id": "cn034",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "reinforce",
+   "ipa": "/ˌriːɪnˈfɔːs/",
+   "pos": "v",
+   "vi": "gia cường",
+   "ex": "Steel bars reinforce the concrete slab.",
+   "exVi": "Các thanh thép gia cường tấm bê tông.",
+   "col": [
+    "reinforce",
+    "reinforce a structure"
+   ]
+  },
+  {
+   "id": "cn035",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "survey the site",
+   "ipa": "/ˈsɜːveɪ ðə saɪt/",
+   "pos": "v",
+   "vi": "khảo sát mặt bằng",
+   "ex": "Engineers survey the site before design.",
+   "exVi": "Các kỹ sư khảo sát mặt bằng trước khi thiết kế.",
+   "col": [
+    "survey the site",
+    "survey the site carefully"
+   ]
+  },
+  {
+   "id": "cn036",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "commission",
+   "ipa": "/kəˈmɪʃn/",
+   "pos": "v",
+   "vi": "đưa vào vận hành",
+   "ex": "The plant was commissioned last month.",
+   "exVi": "Nhà máy được đưa vào vận hành tháng trước.",
+   "col": [
+    "commission",
+    "commission a building"
+   ]
+  },
+  {
+   "id": "cn037",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "prefabricate",
+   "ipa": "/ˌpriːˈfæbrɪkeɪt/",
+   "pos": "v",
+   "vi": "đúc sẵn",
+   "ex": "The panels were prefabricated off site.",
+   "exVi": "Các tấm được đúc sẵn ngoài công trường.",
+   "col": [
+    "prefabricate",
+    "a prefabricated panel"
+   ]
+  },
+  {
+   "id": "cn038",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "structural",
+   "ipa": "/ˈstrʌktʃərəl/",
+   "pos": "adj",
+   "vi": "thuộc kết cấu",
+   "ex": "A structural fault delayed the opening.",
+   "exVi": "Một lỗi kết cấu làm chậm việc mở cửa.",
+   "col": [
+    "structural",
+    "structural damage"
+   ]
+  },
+  {
+   "id": "cn039",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "load-bearing",
+   "ipa": "/ˈləʊd beərɪŋ/",
+   "pos": "adj",
+   "vi": "chịu lực",
+   "ex": "Do not remove a load-bearing wall.",
+   "exVi": "Không dỡ một bức tường chịu lực.",
+   "col": [
+    "load-bearing",
+    "a load-bearing wall"
+   ]
+  },
+  {
+   "id": "cn040",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "durable",
+   "ipa": "/ˈdjʊərəbl/",
+   "pos": "adj",
+   "vi": "bền",
+   "ex": "The material is durable and weatherproof.",
+   "exVi": "Vật liệu bền và chống chịu thời tiết.",
+   "col": [
+    "durable",
+    "a durable material"
+   ]
+  },
+  {
+   "id": "cn041",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "sturdy",
+   "ipa": "/ˈstɜːdi/",
+   "pos": "adj",
+   "vi": "chắc chắn",
+   "ex": "The frame is sturdy enough for the load.",
+   "exVi": "Khung đủ chắc chắn cho tải trọng.",
+   "col": [
+    "sturdy",
+    "a sturdy structure"
+   ]
+  },
+  {
+   "id": "cn042",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "watertight",
+   "ipa": "/ˈwɔːtətaɪt/",
+   "pos": "adj",
+   "vi": "kín nước",
+   "ex": "The roof must be fully watertight.",
+   "exVi": "Mái phải hoàn toàn kín nước.",
+   "col": [
+    "watertight",
+    "a watertight seal"
+   ]
+  },
+  {
+   "id": "cn043",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "masonry",
+   "ipa": "/ˈmeɪsənri/",
+   "pos": "n",
+   "vi": "nề, xây gạch đá",
+   "ex": "The masonry work took a full month.",
+   "exVi": "Công việc xây gạch đá mất trọn một tháng.",
+   "col": [
+    "masonry",
+    "stone masonry"
+   ]
+  },
+  {
+   "id": "cn044",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "mortar",
+   "ipa": "/ˈmɔːtə/",
+   "pos": "n",
+   "vi": "vữa",
+   "ex": "Fresh mortar holds the bricks together.",
+   "exVi": "Vữa tươi kết dính các viên gạch.",
+   "col": [
+    "mortar",
+    "mix mortar"
+   ]
+  },
+  {
+   "id": "cn045",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "joist",
+   "ipa": "/dʒɔɪst/",
+   "pos": "n",
+   "vi": "xà đỡ sàn",
+   "ex": "Wooden joists support the upper floor.",
+   "exVi": "Các xà gỗ đỡ sàn tầng trên.",
+   "col": [
+    "a joist",
+    "a floor joist"
+   ]
+  },
+  {
+   "id": "cn046",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "rafter",
+   "ipa": "/ˈrɑːftə/",
+   "pos": "n",
+   "vi": "rui, kèo mái",
+   "ex": "The rafters carry the weight of the roof.",
+   "exVi": "Các kèo mái chịu trọng lượng của mái.",
+   "col": [
+    "a rafter",
+    "a roof rafter"
+   ]
+  },
+  {
+   "id": "cn047",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "cladding",
+   "ipa": "/ˈklædɪŋ/",
+   "pos": "n",
+   "vi": "lớp ốp ngoài",
+   "ex": "New cladding improved the building's look.",
+   "exVi": "Lớp ốp mới cải thiện vẻ ngoài của toà nhà.",
+   "col": [
+    "cladding",
+    "exterior cladding"
+   ]
+  },
+  {
+   "id": "cn048",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "drywall",
+   "ipa": "/ˈdraɪwɔːl/",
+   "pos": "n",
+   "vi": "tấm thạch cao",
+   "ex": "The crew fitted the drywall in a day.",
+   "exVi": "Đội lắp tấm thạch cao trong một ngày.",
+   "col": [
+    "drywall",
+    "install drywall"
+   ]
+  },
+  {
+   "id": "cn049",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "framework",
+   "ipa": "/ˈfreɪmwɜːk/",
+   "pos": "n",
+   "vi": "khung sườn",
+   "ex": "The steel framework went up quickly.",
+   "exVi": "Khung sườn thép được dựng nhanh.",
+   "col": [
+    "a framework",
+    "a steel framework"
+   ]
+  },
+  {
+   "id": "cn050",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "formwork",
+   "ipa": "/ˈfɔːmwɜːk/",
+   "pos": "n",
+   "vi": "ván khuôn",
+   "ex": "Formwork holds the concrete until it sets.",
+   "exVi": "Ván khuôn giữ bê tông cho tới khi đông cứng.",
+   "col": [
+    "formwork",
+    "remove the formwork"
+   ]
+  },
+  {
+   "id": "cn051",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "rebar",
+   "ipa": "/ˈriːbɑː/",
+   "pos": "n",
+   "vi": "thép thanh",
+   "ex": "Rebar strengthens the concrete beams.",
+   "exVi": "Thép thanh làm cứng các dầm bê tông.",
+   "col": [
+    "rebar",
+    "steel rebar"
+   ]
+  },
+  {
+   "id": "cn052",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "aggregate",
+   "ipa": "/ˈæɡrɪɡət/",
+   "pos": "n",
+   "vi": "cốt liệu",
+   "ex": "Sand and gravel form the aggregate.",
+   "exVi": "Cát và sỏi tạo thành cốt liệu.",
+   "col": [
+    "aggregate",
+    "coarse aggregate"
+   ]
+  },
+  {
+   "id": "cn053",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "gravel",
+   "ipa": "/ˈɡrævl/",
+   "pos": "n",
+   "vi": "sỏi",
+   "ex": "A layer of gravel drains the water.",
+   "exVi": "Một lớp sỏi thoát nước.",
+   "col": [
+    "gravel",
+    "a gravel layer"
+   ]
+  },
+  {
+   "id": "cn054",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "cement",
+   "ipa": "/sɪˈment/",
+   "pos": "n",
+   "vi": "xi măng",
+   "ex": "The workers mixed the cement on site.",
+   "exVi": "Công nhân trộn xi măng tại chỗ.",
+   "col": [
+    "cement",
+    "wet cement"
+   ]
+  },
+  {
+   "id": "cn055",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "curing",
+   "ipa": "/ˈkjʊərɪŋ/",
+   "pos": "n",
+   "vi": "dưỡng hộ bê tông",
+   "ex": "Curing makes the concrete stronger.",
+   "exVi": "Việc dưỡng hộ làm bê tông cứng hơn.",
+   "col": [
+    "curing",
+    "concrete curing"
+   ]
+  },
+  {
+   "id": "cn056",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "waterproofing",
+   "ipa": "/ˈwɔːtəpruːfɪŋ/",
+   "pos": "n",
+   "vi": "chống thấm",
+   "ex": "Waterproofing protects the basement walls.",
+   "exVi": "Chống thấm bảo vệ tường tầng hầm.",
+   "col": [
+    "waterproofing",
+    "roof waterproofing"
+   ]
+  },
+  {
+   "id": "cn057",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "ductwork",
+   "ipa": "/ˈdʌktwɜːk/",
+   "pos": "n",
+   "vi": "hệ thống ống dẫn khí",
+   "ex": "The ductwork carries air to every room.",
+   "exVi": "Hệ thống ống dẫn đưa khí tới mọi phòng.",
+   "col": [
+    "ductwork",
+    "install ductwork"
+   ]
+  },
+  {
+   "id": "cn058",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "conduit",
+   "ipa": "/ˈkɒndjuɪt/",
+   "pos": "n",
+   "vi": "ống luồn dây",
+   "ex": "The cables run inside a conduit.",
+   "exVi": "Các dây cáp chạy trong một ống luồn.",
+   "col": [
+    "a conduit",
+    "a cable conduit"
+   ]
+  },
+  {
+   "id": "cn059",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "hoist",
+   "ipa": "/hɔɪst/",
+   "pos": "n",
+   "vi": "máy nâng",
+   "ex": "A hoist lifts materials to the top floor.",
+   "exVi": "Một máy nâng đưa vật liệu lên tầng trên cùng.",
+   "col": [
+    "a hoist",
+    "a material hoist"
+   ]
+  },
+  {
+   "id": "cn060",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "jackhammer",
+   "ipa": "/ˈdʒækhæmə/",
+   "pos": "n",
+   "vi": "búa khoan",
+   "ex": "A jackhammer broke up the old concrete.",
+   "exVi": "Một búa khoan phá vỡ bê tông cũ.",
+   "col": [
+    "a jackhammer",
+    "use a jackhammer"
+   ]
+  },
+  {
+   "id": "cn061",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "welding",
+   "ipa": "/ˈweldɪŋ/",
+   "pos": "n",
+   "vi": "hàn",
+   "ex": "The welding joined the steel sections.",
+   "exVi": "Việc hàn nối các đoạn thép.",
+   "col": [
+    "welding",
+    "arc welding"
+   ]
+  },
+  {
+   "id": "cn062",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "surveying",
+   "ipa": "/səˈveɪɪŋ/",
+   "pos": "n",
+   "vi": "khảo sát đo đạc",
+   "ex": "Surveying set out the exact boundaries.",
+   "exVi": "Khảo sát đo đạc xác định ranh giới chính xác.",
+   "col": [
+    "surveying",
+    "land surveying"
+   ]
+  },
+  {
+   "id": "cn063",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "gradient",
+   "ipa": "/ˈɡreɪdiənt/",
+   "pos": "n",
+   "vi": "độ dốc",
+   "ex": "The gradient helps the water drain away.",
+   "exVi": "Độ dốc giúp nước thoát đi.",
+   "col": [
+    "a gradient",
+    "a steep gradient"
+   ]
+  },
+  {
+   "id": "cn064",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "subsidence",
+   "ipa": "/səbˈsaɪdəns/",
+   "pos": "n",
+   "vi": "lún đất",
+   "ex": "Subsidence caused cracks in the wall.",
+   "exVi": "Lún đất gây nứt tường.",
+   "col": [
+    "subsidence",
+    "ground subsidence"
+   ]
+  },
+  {
+   "id": "cn065",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "span",
+   "ipa": "/spæn/",
+   "pos": "n",
+   "vi": "nhịp, khoảng vượt",
+   "ex": "The bridge has a span of fifty meters.",
+   "exVi": "Cây cầu có nhịp năm mươi mét.",
+   "col": [
+    "a span",
+    "a long span"
+   ]
+  },
+  {
+   "id": "cn066",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "cantilever",
+   "ipa": "/ˈkæntɪliːvə/",
+   "pos": "n",
+   "vi": "dầm công-xôn",
+   "ex": "The balcony rests on a cantilever.",
+   "exVi": "Ban công tựa trên một dầm công-xôn.",
+   "col": [
+    "a cantilever",
+    "a cantilever beam"
+   ]
+  },
+  {
+   "id": "cn067",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "precast",
+   "ipa": "/ˈpriːkɑːst/",
+   "pos": "adj",
+   "vi": "đúc sẵn",
+   "ex": "Precast panels speed up the build.",
+   "exVi": "Các tấm đúc sẵn tăng tốc việc xây.",
+   "col": [
+    "precast",
+    "a precast panel"
+   ]
+  },
+  {
+   "id": "cn068",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "slab",
+   "ipa": "/slæb/",
+   "pos": "n",
+   "vi": "tấm sàn bê tông",
+   "ex": "The concrete slab forms the ground floor.",
+   "exVi": "Tấm sàn bê tông tạo thành tầng trệt.",
+   "col": [
+    "a slab",
+    "a concrete slab"
+   ]
+  },
+  {
+   "id": "cn069",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "partition",
+   "ipa": "/pɑːˈtɪʃn/",
+   "pos": "n",
+   "vi": "vách ngăn",
+   "ex": "A partition divides the large room.",
+   "exVi": "Một vách ngăn chia căn phòng lớn.",
+   "col": [
+    "a partition",
+    "a partition wall"
+   ]
+  },
+  {
+   "id": "cn070",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "facade",
+   "ipa": "/fəˈsɑːd/",
+   "pos": "n",
+   "vi": "mặt tiền",
+   "ex": "The glass facade reflects the sky.",
+   "exVi": "Mặt tiền kính phản chiếu bầu trời.",
+   "col": [
+    "a facade",
+    "a glass facade"
+   ]
+  },
+  {
+   "id": "cn071",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "excavator",
+   "ipa": "/ˈekskəveɪtə/",
+   "pos": "n",
+   "vi": "máy đào",
+   "ex": "An excavator cleared the site quickly.",
+   "exVi": "Một máy đào dọn khu đất nhanh chóng.",
+   "col": [
+    "an excavator",
+    "a large excavator"
+   ]
+  },
+  {
+   "id": "cn072",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "bulldozer",
+   "ipa": "/ˈbʊldəʊzə/",
+   "pos": "n",
+   "vi": "máy ủi",
+   "ex": "A bulldozer levelled the ground.",
+   "exVi": "Một máy ủi san phẳng mặt đất.",
+   "col": [
+    "a bulldozer",
+    "a heavy bulldozer"
+   ]
+  },
+  {
+   "id": "cn073",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "scaffolding",
+   "ipa": "/ˈskæfəldɪŋ/",
+   "pos": "n",
+   "vi": "hệ giàn giáo",
+   "ex": "The scaffolding surrounds the whole building.",
+   "exVi": "Hệ giàn giáo bao quanh cả toà nhà.",
+   "col": [
+    "scaffolding",
+    "erect scaffolding"
+   ]
+  },
+  {
+   "id": "cn074",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "survey report",
+   "ipa": "/ˈsɜːveɪ rɪˈpɔːt/",
+   "pos": "n",
+   "vi": "báo cáo khảo sát",
+   "ex": "The survey report noted a minor fault.",
+   "exVi": "Báo cáo khảo sát ghi nhận một lỗi nhỏ.",
+   "col": [
+    "a survey report",
+    "a detailed survey report"
+   ]
+  },
+  {
+   "id": "cn075",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "load",
+   "ipa": "/ləʊd/",
+   "pos": "n",
+   "vi": "tải trọng",
+   "ex": "The beam carries a heavy load.",
+   "exVi": "Dầm chịu một tải trọng nặng.",
+   "col": [
+    "a load",
+    "a heavy load"
+   ]
+  },
+  {
+   "id": "cn076",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "sealant",
+   "ipa": "/ˈsiːlənt/",
+   "pos": "n",
+   "vi": "chất trám",
+   "ex": "A sealant closes the gaps around the window.",
+   "exVi": "Một chất trám bịt các khe quanh cửa sổ.",
+   "col": [
+    "sealant",
+    "apply sealant"
+   ]
+  },
+  {
+   "id": "cn077",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "grout",
+   "ipa": "/ɡraʊt/",
+   "pos": "n",
+   "vi": "vữa chèn mạch",
+   "ex": "Grout fills the joints between the tiles.",
+   "exVi": "Vữa chèn mạch lấp các khe giữa các viên gạch.",
+   "col": [
+    "grout",
+    "apply grout"
+   ]
+  },
+  {
+   "id": "cn078",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "seismic",
+   "ipa": "/ˈsaɪzmɪk/",
+   "pos": "adj",
+   "vi": "thuộc động đất",
+   "ex": "The building meets seismic safety rules.",
+   "exVi": "Toà nhà đáp ứng các quy tắc an toàn động đất.",
+   "col": [
+    "seismic",
+    "seismic design"
+   ]
+  },
+  {
+   "id": "cn079",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "modular",
+   "ipa": "/ˈmɒdjələ/",
+   "pos": "adj",
+   "vi": "lắp ghép mô-đun",
+   "ex": "Modular units speed up the whole build.",
+   "exVi": "Các đơn vị lắp ghép mô-đun tăng tốc cả việc xây.",
+   "col": [
+    "modular",
+    "a modular design"
+   ]
+  },
+  {
+   "id": "cn080",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "robust",
+   "ipa": "/rəʊˈbʌst/",
+   "pos": "adj",
+   "vi": "vững chắc",
+   "ex": "The structure is robust and long-lasting.",
+   "exVi": "Kết cấu vững chắc và bền lâu.",
+   "col": [
+    "robust",
+    "a robust structure"
+   ]
+  },
+  {
+   "id": "cn081",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "weatherproof",
+   "ipa": "/ˈweðəpruːf/",
+   "pos": "adj",
+   "vi": "chống chịu thời tiết",
+   "ex": "The coating is fully weatherproof.",
+   "exVi": "Lớp phủ hoàn toàn chống chịu thời tiết.",
+   "col": [
+    "weatherproof",
+    "a weatherproof coating"
+   ]
+  },
+  {
+   "id": "cn082",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "fireproof",
+   "ipa": "/ˈfaɪəpruːf/",
+   "pos": "adj",
+   "vi": "chống cháy",
+   "ex": "The doors are made of fireproof material.",
+   "exVi": "Các cửa được làm từ vật liệu chống cháy.",
+   "col": [
+    "fireproof",
+    "a fireproof door"
+   ]
+  },
+  {
+   "id": "cn083",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "prefabricated",
+   "ipa": "/ˌpriːˈfæbrɪkeɪtɪd/",
+   "pos": "adj",
+   "vi": "đúc lắp sẵn",
+   "ex": "Prefabricated parts cut the build time.",
+   "exVi": "Các bộ phận đúc lắp sẵn giảm thời gian xây.",
+   "col": [
+    "prefabricated",
+    "a prefabricated unit"
+   ]
+  },
+  {
+   "id": "cn084",
+   "topic": "Xây dựng & kỹ thuật công trình",
+   "w": "survey team",
+   "ipa": "/ˈsɜːveɪ tiːm/",
+   "pos": "n",
+   "vi": "đội khảo sát",
+   "ex": "The survey team marked the boundaries.",
+   "exVi": "Đội khảo sát đánh dấu ranh giới.",
+   "col": [
+    "a survey team",
+    "a site survey team"
+   ]
+  }
+ ]
+}

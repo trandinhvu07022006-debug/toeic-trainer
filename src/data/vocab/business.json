@@ -1,0 +1,78 @@
+{
+ "topic": "Business",
+ "words": [
+  {
+   "id": "v06",
+   "topic": "Business",
+   "w": "merger",
+   "ipa": "/ˈmɜːdʒə/",
+   "pos": "n",
+   "vi": "sự sáp nhập (hai công ty)",
+   "ex": "The merger will create the largest logistics firm in the region.",
+   "exVi": "Vụ sáp nhập sẽ tạo ra công ty hậu cần lớn nhất khu vực.",
+   "col": [
+    "announce a merger",
+    "a proposed merger",
+    "mergers and acquisitions"
+   ]
+  },
+  {
+   "id": "v07",
+   "topic": "Business",
+   "w": "subsidiary",
+   "ipa": "/səbˈsɪdiəri/",
+   "pos": "n",
+   "vi": "công ty con",
+   "ex": "Our Singapore subsidiary handles all Asian distribution.",
+   "exVi": "Công ty con ở Singapore phụ trách toàn bộ khâu phân phối ở châu Á.",
+   "col": [
+    "a wholly owned subsidiary",
+    "an overseas subsidiary"
+   ]
+  },
+  {
+   "id": "v08",
+   "topic": "Business",
+   "w": "expand",
+   "ipa": "/ɪkˈspænd/",
+   "pos": "v",
+   "vi": "mở rộng (quy mô, thị trường)",
+   "ex": "The company plans to expand into three new markets next year.",
+   "exVi": "Công ty dự định mở rộng sang ba thị trường mới vào năm tới.",
+   "col": [
+    "expand operations",
+    "expand into a market",
+    "rapidly expanding"
+   ]
+  },
+  {
+   "id": "v09",
+   "topic": "Business",
+   "w": "competitor",
+   "ipa": "/kəmˈpetɪtə/",
+   "pos": "n",
+   "vi": "đối thủ cạnh tranh",
+   "ex": "Our main competitor lowered its prices last quarter.",
+   "exVi": "Đối thủ chính của chúng ta đã giảm giá vào quý trước.",
+   "col": [
+    "a leading competitor",
+    "outperform competitors"
+   ]
+  },
+  {
+   "id": "v10",
+   "topic": "Business",
+   "w": "negotiate",
+   "ipa": "/nɪˈɡəʊʃieɪt/",
+   "pos": "v",
+   "vi": "đàm phán, thương lượng",
+   "ex": "Both sides negotiated the terms for nearly six hours.",
+   "exVi": "Hai bên đã đàm phán các điều khoản trong gần sáu tiếng.",
+   "col": [
+    "negotiate a contract",
+    "negotiate terms",
+    "negotiate with a supplier"
+   ]
+  }
+ ]
+}

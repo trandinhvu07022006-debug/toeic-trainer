@@ -1,0 +1,1181 @@
+{
+ "topic": "Xuất nhập khẩu & hải quan",
+ "words": [
+  {
+   "id": "ie001",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "export",
+   "ipa": "/ˈekspɔːt/",
+   "pos": "n, v",
+   "vi": "xuất khẩu",
+   "ex": "The country's exports rose sharply this year.",
+   "exVi": "Kim ngạch xuất khẩu của nước này tăng mạnh năm nay.",
+   "col": [
+    "exports",
+    "an export market"
+   ]
+  },
+  {
+   "id": "ie002",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "import",
+   "ipa": "/ˈɪmpɔːt/",
+   "pos": "n, v",
+   "vi": "nhập khẩu",
+   "ex": "The firm relies on imports for raw materials.",
+   "exVi": "Công ty dựa vào hàng nhập khẩu cho nguyên liệu.",
+   "col": [
+    "imports",
+    "an import license"
+   ]
+  },
+  {
+   "id": "ie003",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "customs",
+   "ipa": "/ˈkʌstəmz/",
+   "pos": "n",
+   "vi": "hải quan",
+   "ex": "The goods were held at customs for a day.",
+   "exVi": "Hàng bị giữ ở hải quan một ngày.",
+   "col": [
+    "customs",
+    "customs clearance"
+   ]
+  },
+  {
+   "id": "ie004",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "tariff",
+   "ipa": "/ˈtærɪf/",
+   "pos": "n",
+   "vi": "thuế quan",
+   "ex": "A new tariff raised the cost of steel.",
+   "exVi": "Một mức thuế quan mới làm tăng chi phí thép.",
+   "col": [
+    "a tariff",
+    "an import tariff"
+   ]
+  },
+  {
+   "id": "ie005",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "duty",
+   "ipa": "/ˈdjuːti/",
+   "pos": "n",
+   "vi": "thuế nhập khẩu",
+   "ex": "Import duty is added to the invoice.",
+   "exVi": "Thuế nhập khẩu được cộng vào hoá đơn.",
+   "col": [
+    "duty",
+    "import duty"
+   ]
+  },
+  {
+   "id": "ie006",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "quota",
+   "ipa": "/ˈkwəʊtə/",
+   "pos": "n",
+   "vi": "hạn ngạch",
+   "ex": "An import quota limits the yearly amount.",
+   "exVi": "Một hạn ngạch nhập khẩu giới hạn số lượng hằng năm.",
+   "col": [
+    "a quota",
+    "an import quota"
+   ]
+  },
+  {
+   "id": "ie007",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "embargo",
+   "ipa": "/ɪmˈbɑːɡəʊ/",
+   "pos": "n",
+   "vi": "lệnh cấm vận",
+   "ex": "An embargo blocked all trade with the region.",
+   "exVi": "Một lệnh cấm vận chặn mọi giao thương với khu vực.",
+   "col": [
+    "an embargo",
+    "a trade embargo"
+   ]
+  },
+  {
+   "id": "ie008",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "clearance",
+   "ipa": "/ˈklɪərəns/",
+   "pos": "n",
+   "vi": "thông quan",
+   "ex": "Customs clearance took two extra days.",
+   "exVi": "Việc thông quan mất thêm hai ngày.",
+   "col": [
+    "clearance",
+    "customs clearance"
+   ]
+  },
+  {
+   "id": "ie009",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "declaration",
+   "ipa": "/ˌdekləˈreɪʃn/",
+   "pos": "n",
+   "vi": "tờ khai",
+   "ex": "A customs declaration lists every item.",
+   "exVi": "Một tờ khai hải quan liệt kê mọi mặt hàng.",
+   "col": [
+    "a declaration",
+    "a customs declaration"
+   ]
+  },
+  {
+   "id": "ie010",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "manifest",
+   "ipa": "/ˈmænɪfest/",
+   "pos": "n",
+   "vi": "bản kê hàng hoá",
+   "ex": "The manifest records the whole cargo.",
+   "exVi": "Bản kê hàng ghi lại toàn bộ lô hàng.",
+   "col": [
+    "a manifest",
+    "a cargo manifest"
+   ]
+  },
+  {
+   "id": "ie011",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "consignment",
+   "ipa": "/kənˈsaɪnmənt/",
+   "pos": "n",
+   "vi": "lô hàng gửi",
+   "ex": "The consignment cleared customs on Friday.",
+   "exVi": "Lô hàng gửi được thông quan vào thứ Sáu.",
+   "col": [
+    "a consignment",
+    "a large consignment"
+   ]
+  },
+  {
+   "id": "ie012",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "shipment",
+   "ipa": "/ˈʃɪpmənt/",
+   "pos": "n",
+   "vi": "lô hàng vận chuyển",
+   "ex": "The shipment left the port on time.",
+   "exVi": "Lô hàng rời cảng đúng giờ.",
+   "col": [
+    "a shipment",
+    "track a shipment"
+   ]
+  },
+  {
+   "id": "ie013",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "freight",
+   "ipa": "/freɪt/",
+   "pos": "n",
+   "vi": "hàng vận chuyển",
+   "ex": "Air freight is faster but costs more.",
+   "exVi": "Vận chuyển bằng đường không nhanh hơn nhưng đắt hơn.",
+   "col": [
+    "freight",
+    "air freight"
+   ]
+  },
+  {
+   "id": "ie014",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "cargo",
+   "ipa": "/ˈkɑːɡəʊ/",
+   "pos": "n",
+   "vi": "hàng hoá chở",
+   "ex": "The cargo was inspected at the border.",
+   "exVi": "Hàng hoá được kiểm tra tại biên giới.",
+   "col": [
+    "cargo",
+    "a cargo ship"
+   ]
+  },
+  {
+   "id": "ie015",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "container",
+   "ipa": "/kənˈteɪnə/",
+   "pos": "n",
+   "vi": "công-ten-nơ",
+   "ex": "The goods filled three shipping containers.",
+   "exVi": "Hàng lấp đầy ba công-ten-nơ vận chuyển.",
+   "col": [
+    "a container",
+    "a shipping container"
+   ]
+  },
+  {
+   "id": "ie016",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "port of entry",
+   "ipa": "/pɔːt əv ˈentri/",
+   "pos": "n",
+   "vi": "cửa khẩu",
+   "ex": "The goods arrived at the port of entry.",
+   "exVi": "Hàng tới cửa khẩu.",
+   "col": [
+    "a port of entry",
+    "the main port of entry"
+   ]
+  },
+  {
+   "id": "ie017",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "broker",
+   "ipa": "/ˈbrəʊkə/",
+   "pos": "n",
+   "vi": "người môi giới hải quan",
+   "ex": "A customs broker handled the paperwork.",
+   "exVi": "Một người môi giới hải quan lo giấy tờ.",
+   "col": [
+    "a broker",
+    "a customs broker"
+   ]
+  },
+  {
+   "id": "ie018",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "forwarder",
+   "ipa": "/ˈfɔːwədə/",
+   "pos": "n",
+   "vi": "đơn vị giao nhận",
+   "ex": "The freight forwarder arranged the shipping.",
+   "exVi": "Đơn vị giao nhận sắp xếp việc vận chuyển.",
+   "col": [
+    "a forwarder",
+    "a freight forwarder"
+   ]
+  },
+  {
+   "id": "ie019",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "bill of lading",
+   "ipa": "/bɪl əv ˈleɪdɪŋ/",
+   "pos": "n",
+   "vi": "vận đơn",
+   "ex": "The bill of lading proves the goods were shipped.",
+   "exVi": "Vận đơn chứng minh hàng đã được gửi.",
+   "col": [
+    "a bill of lading",
+    "sign a bill of lading"
+   ]
+  },
+  {
+   "id": "ie020",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "invoice",
+   "ipa": "/ˈɪnvɔɪs/",
+   "pos": "n",
+   "vi": "hoá đơn thương mại",
+   "ex": "A commercial invoice accompanies each shipment.",
+   "exVi": "Một hoá đơn thương mại đi kèm mỗi lô hàng.",
+   "col": [
+    "an invoice",
+    "a commercial invoice"
+   ]
+  },
+  {
+   "id": "ie021",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "inspection",
+   "ipa": "/ɪnˈspekʃn/",
+   "pos": "n",
+   "vi": "kiểm tra",
+   "ex": "A customs inspection delayed the delivery.",
+   "exVi": "Một cuộc kiểm tra hải quan làm chậm việc giao hàng.",
+   "col": [
+    "an inspection",
+    "a customs inspection"
+   ]
+  },
+  {
+   "id": "ie022",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "compliance",
+   "ipa": "/kəmˈplaɪəns/",
+   "pos": "n",
+   "vi": "tuân thủ",
+   "ex": "Trade compliance avoids costly fines.",
+   "exVi": "Tuân thủ thương mại tránh các khoản phạt tốn kém.",
+   "col": [
+    "compliance",
+    "trade compliance"
+   ]
+  },
+  {
+   "id": "ie023",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "origin",
+   "ipa": "/ˈɒrɪdʒɪn/",
+   "pos": "n",
+   "vi": "xuất xứ",
+   "ex": "The label states the country of origin.",
+   "exVi": "Nhãn ghi rõ nước xuất xứ.",
+   "col": [
+    "origin",
+    "country of origin"
+   ]
+  },
+  {
+   "id": "ie024",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "destination",
+   "ipa": "/ˌdestɪˈneɪʃn/",
+   "pos": "n",
+   "vi": "điểm đến",
+   "ex": "The final destination is a port in Asia.",
+   "exVi": "Điểm đến cuối là một cảng ở châu Á.",
+   "col": [
+    "a destination",
+    "a final destination"
+   ]
+  },
+  {
+   "id": "ie025",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "logistics",
+   "ipa": "/ləˈdʒɪstɪks/",
+   "pos": "n",
+   "vi": "hậu cần",
+   "ex": "Good logistics keep the goods moving.",
+   "exVi": "Hậu cần tốt giữ hàng luôn được luân chuyển.",
+   "col": [
+    "logistics",
+    "trade logistics"
+   ]
+  },
+  {
+   "id": "ie026",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "warehouse",
+   "ipa": "/ˈweəhaʊs/",
+   "pos": "n",
+   "vi": "nhà kho",
+   "ex": "Goods are stored in a bonded warehouse.",
+   "exVi": "Hàng được trữ trong một nhà kho ngoại quan.",
+   "col": [
+    "a warehouse",
+    "a bonded warehouse"
+   ]
+  },
+  {
+   "id": "ie027",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "bonded",
+   "ipa": "/ˈbɒndɪd/",
+   "pos": "adj",
+   "vi": "ngoại quan (chưa nộp thuế)",
+   "ex": "Bonded goods stay untaxed until release.",
+   "exVi": "Hàng ngoại quan chưa chịu thuế cho tới khi xuất kho.",
+   "col": [
+    "bonded",
+    "a bonded warehouse"
+   ]
+  },
+  {
+   "id": "ie028",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "dutiable",
+   "ipa": "/ˈdjuːtiəbl/",
+   "pos": "adj",
+   "vi": "phải chịu thuế",
+   "ex": "Dutiable goods are declared at the border.",
+   "exVi": "Hàng phải chịu thuế được khai tại biên giới.",
+   "col": [
+    "dutiable",
+    "dutiable goods"
+   ]
+  },
+  {
+   "id": "ie029",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "importer",
+   "ipa": "/ɪmˈpɔːtə/",
+   "pos": "n",
+   "vi": "nhà nhập khẩu",
+   "ex": "The importer paid the duty on arrival.",
+   "exVi": "Nhà nhập khẩu nộp thuế khi hàng tới.",
+   "col": [
+    "an importer",
+    "a major importer"
+   ]
+  },
+  {
+   "id": "ie030",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "exporter",
+   "ipa": "/ɪkˈspɔːtə/",
+   "pos": "n",
+   "vi": "nhà xuất khẩu",
+   "ex": "The exporter shipped the goods overseas.",
+   "exVi": "Nhà xuất khẩu gửi hàng ra nước ngoài.",
+   "col": [
+    "an exporter",
+    "a leading exporter"
+   ]
+  },
+  {
+   "id": "ie031",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "levy",
+   "ipa": "/ˈlevi/",
+   "pos": "n, v",
+   "vi": "khoản thu, đánh thuế",
+   "ex": "A levy was placed on imported cars.",
+   "exVi": "Một khoản thu được áp lên xe nhập khẩu.",
+   "col": [
+    "a levy",
+    "an import levy"
+   ]
+  },
+  {
+   "id": "ie032",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "surcharge",
+   "ipa": "/ˈsɜːtʃɑːdʒ/",
+   "pos": "n",
+   "vi": "phụ phí",
+   "ex": "A fuel surcharge was added to the cost.",
+   "exVi": "Một phụ phí nhiên liệu được cộng vào chi phí.",
+   "col": [
+    "a surcharge",
+    "a fuel surcharge"
+   ]
+  },
+  {
+   "id": "ie033",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "duty-free",
+   "ipa": "/ˌdjuːti ˈfriː/",
+   "pos": "adj",
+   "vi": "miễn thuế",
+   "ex": "Duty-free goods are sold at the airport.",
+   "exVi": "Hàng miễn thuế được bán ở sân bay.",
+   "col": [
+    "duty-free",
+    "a duty-free shop"
+   ]
+  },
+  {
+   "id": "ie034",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "transit",
+   "ipa": "/ˈtrænzɪt/",
+   "pos": "n",
+   "vi": "quá cảnh",
+   "ex": "The goods passed through a transit port.",
+   "exVi": "Hàng đi qua một cảng quá cảnh.",
+   "col": [
+    "transit",
+    "a transit port"
+   ]
+  },
+  {
+   "id": "ie035",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "clear customs",
+   "ipa": "/klɪə ˈkʌstəmz/",
+   "pos": "v",
+   "vi": "thông quan",
+   "ex": "The shipment cleared customs quickly.",
+   "exVi": "Lô hàng thông quan nhanh chóng.",
+   "col": [
+    "clear customs",
+    "clear customs on arrival"
+   ]
+  },
+  {
+   "id": "ie036",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "declare",
+   "ipa": "/dɪˈkleə/",
+   "pos": "v",
+   "vi": "khai báo",
+   "ex": "Travellers must declare goods over the limit.",
+   "exVi": "Khách du lịch phải khai báo hàng vượt hạn mức.",
+   "col": [
+    "declare",
+    "declare goods"
+   ]
+  },
+  {
+   "id": "ie037",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "inspect",
+   "ipa": "/ɪnˈspekt/",
+   "pos": "v",
+   "vi": "kiểm tra",
+   "ex": "Officers inspect every container at random.",
+   "exVi": "Cán bộ kiểm tra ngẫu nhiên mọi công-ten-nơ.",
+   "col": [
+    "inspect",
+    "inspect cargo"
+   ]
+  },
+  {
+   "id": "ie038",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "detain",
+   "ipa": "/dɪˈteɪn/",
+   "pos": "v",
+   "vi": "tạm giữ",
+   "ex": "Customs detained the goods for checking.",
+   "exVi": "Hải quan tạm giữ hàng để kiểm tra.",
+   "col": [
+    "detain",
+    "detain a shipment"
+   ]
+  },
+  {
+   "id": "ie039",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "seize",
+   "ipa": "/siːz/",
+   "pos": "v",
+   "vi": "tịch thu",
+   "ex": "Officers seized the undeclared goods.",
+   "exVi": "Cán bộ tịch thu hàng không khai báo.",
+   "col": [
+    "seize",
+    "seize goods"
+   ]
+  },
+  {
+   "id": "ie040",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "expedite",
+   "ipa": "/ˈekspədaɪt/",
+   "pos": "v",
+   "vi": "đẩy nhanh",
+   "ex": "The broker expedited the clearance.",
+   "exVi": "Người môi giới đẩy nhanh việc thông quan.",
+   "col": [
+    "expedite",
+    "expedite clearance"
+   ]
+  },
+  {
+   "id": "ie041",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "prohibited",
+   "ipa": "/prəˈhɪbɪtɪd/",
+   "pos": "adj",
+   "vi": "bị cấm",
+   "ex": "Prohibited items are removed at the border.",
+   "exVi": "Các mặt hàng bị cấm được loại tại biên giới.",
+   "col": [
+    "prohibited",
+    "prohibited goods"
+   ]
+  },
+  {
+   "id": "ie042",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "restricted",
+   "ipa": "/rɪˈstrɪktɪd/",
+   "pos": "adj",
+   "vi": "hạn chế",
+   "ex": "Restricted goods need a special permit.",
+   "exVi": "Hàng hạn chế cần một giấy phép đặc biệt.",
+   "col": [
+    "restricted",
+    "restricted goods"
+   ]
+  },
+  {
+   "id": "ie043",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "trade",
+   "ipa": "/treɪd/",
+   "pos": "n",
+   "vi": "thương mại",
+   "ex": "Trade between the two countries grew fast.",
+   "exVi": "Thương mại giữa hai nước tăng nhanh.",
+   "col": [
+    "trade",
+    "free trade"
+   ]
+  },
+  {
+   "id": "ie044",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "commerce",
+   "ipa": "/ˈkɒmɜːs/",
+   "pos": "n",
+   "vi": "giao thương",
+   "ex": "International commerce drives the port's growth.",
+   "exVi": "Giao thương quốc tế thúc đẩy sự phát triển của cảng.",
+   "col": [
+    "commerce",
+    "international commerce"
+   ]
+  },
+  {
+   "id": "ie045",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "agreement",
+   "ipa": "/əˈɡriːmənt/",
+   "pos": "n",
+   "vi": "hiệp định",
+   "ex": "A trade agreement lowered the tariffs.",
+   "exVi": "Một hiệp định thương mại hạ các mức thuế quan.",
+   "col": [
+    "an agreement",
+    "a trade agreement"
+   ]
+  },
+  {
+   "id": "ie046",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "sanction",
+   "ipa": "/ˈsæŋkʃn/",
+   "pos": "n",
+   "vi": "lệnh trừng phạt",
+   "ex": "Sanctions limited the firm's exports.",
+   "exVi": "Các lệnh trừng phạt hạn chế xuất khẩu của công ty.",
+   "col": [
+    "a sanction",
+    "trade sanctions"
+   ]
+  },
+  {
+   "id": "ie047",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "compliance officer",
+   "ipa": "/kəmˈplaɪəns ˈɒfɪsə/",
+   "pos": "n",
+   "vi": "cán bộ tuân thủ",
+   "ex": "A compliance officer checks every export.",
+   "exVi": "Một cán bộ tuân thủ kiểm tra mọi lô xuất khẩu.",
+   "col": [
+    "a compliance officer",
+    "a senior compliance officer"
+   ]
+  },
+  {
+   "id": "ie048",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "documentation",
+   "ipa": "/ˌdɒkjumenˈteɪʃn/",
+   "pos": "n",
+   "vi": "hồ sơ chứng từ",
+   "ex": "Complete documentation speeds up clearance.",
+   "exVi": "Hồ sơ chứng từ đầy đủ tăng tốc thông quan.",
+   "col": [
+    "documentation",
+    "export documentation"
+   ]
+  },
+  {
+   "id": "ie049",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "certificate",
+   "ipa": "/səˈtɪfɪkət/",
+   "pos": "n",
+   "vi": "giấy chứng nhận",
+   "ex": "A certificate of origin was attached.",
+   "exVi": "Một giấy chứng nhận xuất xứ được đính kèm.",
+   "col": [
+    "a certificate",
+    "a certificate of origin"
+   ]
+  },
+  {
+   "id": "ie050",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "license",
+   "ipa": "/ˈlaɪsns/",
+   "pos": "n",
+   "vi": "giấy phép",
+   "ex": "An export license is required for these goods.",
+   "exVi": "Cần một giấy phép xuất khẩu cho những mặt hàng này.",
+   "col": [
+    "a license",
+    "an export license"
+   ]
+  },
+  {
+   "id": "ie051",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "permit",
+   "ipa": "/ˈpɜːmɪt/",
+   "pos": "n",
+   "vi": "giấy phép",
+   "ex": "A permit is needed to ship the chemicals.",
+   "exVi": "Cần một giấy phép để gửi hoá chất.",
+   "col": [
+    "a permit",
+    "an import permit"
+   ]
+  },
+  {
+   "id": "ie052",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "valuation",
+   "ipa": "/ˌvæljuˈeɪʃn/",
+   "pos": "n",
+   "vi": "định giá hải quan",
+   "ex": "The customs valuation sets the duty owed.",
+   "exVi": "Định giá hải quan xác định thuế phải nộp.",
+   "col": [
+    "valuation",
+    "customs valuation"
+   ]
+  },
+  {
+   "id": "ie053",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "classification",
+   "ipa": "/ˌklæsɪfɪˈkeɪʃn/",
+   "pos": "n",
+   "vi": "phân loại hàng hoá",
+   "ex": "Correct classification avoids extra duty.",
+   "exVi": "Phân loại đúng tránh thuế thêm.",
+   "col": [
+    "classification",
+    "tariff classification"
+   ]
+  },
+  {
+   "id": "ie054",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "harmonized code",
+   "ipa": "/ˈhɑːmənaɪzd kəʊd/",
+   "pos": "n",
+   "vi": "mã HS",
+   "ex": "The harmonized code identifies each product.",
+   "exVi": "Mã HS nhận diện mỗi sản phẩm.",
+   "col": [
+    "a harmonized code",
+    "the harmonized code system"
+   ]
+  },
+  {
+   "id": "ie055",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "duty rate",
+   "ipa": "/ˈdjuːti reɪt/",
+   "pos": "n",
+   "vi": "mức thuế suất",
+   "ex": "The duty rate depends on the product type.",
+   "exVi": "Mức thuế suất tuỳ theo loại sản phẩm.",
+   "col": [
+    "a duty rate",
+    "a low duty rate"
+   ]
+  },
+  {
+   "id": "ie056",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "customs officer",
+   "ipa": "/ˈkʌstəmz ˈɒfɪsə/",
+   "pos": "n",
+   "vi": "cán bộ hải quan",
+   "ex": "A customs officer checked the paperwork.",
+   "exVi": "Một cán bộ hải quan kiểm tra giấy tờ.",
+   "col": [
+    "a customs officer",
+    "a senior customs officer"
+   ]
+  },
+  {
+   "id": "ie057",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "inspection fee",
+   "ipa": "/ɪnˈspekʃn fiː/",
+   "pos": "n",
+   "vi": "phí kiểm tra",
+   "ex": "An inspection fee applies to each container.",
+   "exVi": "Một phí kiểm tra áp cho mỗi công-ten-nơ.",
+   "col": [
+    "an inspection fee",
+    "a customs inspection fee"
+   ]
+  },
+  {
+   "id": "ie058",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "warehousing",
+   "ipa": "/ˈweəhaʊzɪŋ/",
+   "pos": "n",
+   "vi": "lưu kho",
+   "ex": "Warehousing costs rose during the delay.",
+   "exVi": "Chi phí lưu kho tăng trong thời gian chậm trễ.",
+   "col": [
+    "warehousing",
+    "warehousing costs"
+   ]
+  },
+  {
+   "id": "ie059",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "haulage",
+   "ipa": "/ˈhɔːlɪdʒ/",
+   "pos": "n",
+   "vi": "vận tải đường bộ",
+   "ex": "Local haulage moved the goods inland.",
+   "exVi": "Vận tải đường bộ địa phương chuyển hàng vào nội địa.",
+   "col": [
+    "haulage",
+    "road haulage"
+   ]
+  },
+  {
+   "id": "ie060",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "carrier",
+   "ipa": "/ˈkæriə/",
+   "pos": "n",
+   "vi": "hãng vận chuyển",
+   "ex": "The carrier delivered the cargo on schedule.",
+   "exVi": "Hãng vận chuyển giao hàng đúng lịch.",
+   "col": [
+    "a carrier",
+    "a shipping carrier"
+   ]
+  },
+  {
+   "id": "ie061",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "freight forwarding",
+   "ipa": "/freɪt ˈfɔːwədɪŋ/",
+   "pos": "n",
+   "vi": "giao nhận vận tải",
+   "ex": "The firm offers freight forwarding worldwide.",
+   "exVi": "Công ty cung cấp giao nhận vận tải toàn cầu.",
+   "col": [
+    "freight forwarding",
+    "a freight forwarding service"
+   ]
+  },
+  {
+   "id": "ie062",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "transshipment",
+   "ipa": "/trænzˈʃɪpmənt/",
+   "pos": "n",
+   "vi": "chuyển tải",
+   "ex": "Transshipment added a day to the journey.",
+   "exVi": "Chuyển tải thêm một ngày vào hành trình.",
+   "col": [
+    "transshipment",
+    "a transshipment port"
+   ]
+  },
+  {
+   "id": "ie063",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "re-export",
+   "ipa": "/ˌriː ˈekspɔːt/",
+   "pos": "n",
+   "vi": "tái xuất",
+   "ex": "The goods were held for re-export.",
+   "exVi": "Hàng được giữ để tái xuất.",
+   "col": [
+    "re-export",
+    "a re-export license"
+   ]
+  },
+  {
+   "id": "ie064",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "importation",
+   "ipa": "/ˌɪmpɔːˈteɪʃn/",
+   "pos": "n",
+   "vi": "việc nhập khẩu",
+   "ex": "Importation of the goods needs a permit.",
+   "exVi": "Việc nhập khẩu hàng cần một giấy phép.",
+   "col": [
+    "importation",
+    "the importation of goods"
+   ]
+  },
+  {
+   "id": "ie065",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "exportation",
+   "ipa": "/ˌekspɔːˈteɪʃn/",
+   "pos": "n",
+   "vi": "việc xuất khẩu",
+   "ex": "Exportation rose after the new deal.",
+   "exVi": "Việc xuất khẩu tăng sau thoả thuận mới.",
+   "col": [
+    "exportation",
+    "the exportation of goods"
+   ]
+  },
+  {
+   "id": "ie066",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "processing",
+   "ipa": "/ˈprəʊsesɪŋ/",
+   "pos": "n",
+   "vi": "xử lý thủ tục",
+   "ex": "Document processing took three days.",
+   "exVi": "Xử lý chứng từ mất ba ngày.",
+   "col": [
+    "processing",
+    "document processing"
+   ]
+  },
+  {
+   "id": "ie067",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "lodge",
+   "ipa": "/lɒdʒ/",
+   "pos": "v",
+   "vi": "nộp",
+   "ex": "The broker lodged the declaration early.",
+   "exVi": "Người môi giới nộp tờ khai sớm.",
+   "col": [
+    "lodge",
+    "lodge a declaration"
+   ]
+  },
+  {
+   "id": "ie068",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "comply",
+   "ipa": "/kəmˈplaɪ/",
+   "pos": "v",
+   "vi": "tuân thủ",
+   "ex": "Firms must comply with export rules.",
+   "exVi": "Các công ty phải tuân thủ quy tắc xuất khẩu.",
+   "col": [
+    "comply",
+    "comply with"
+   ]
+  },
+  {
+   "id": "ie069",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "transport",
+   "ipa": "/trænsˈpɔːt/",
+   "pos": "v",
+   "vi": "vận chuyển",
+   "ex": "The goods are transported by sea.",
+   "exVi": "Hàng được vận chuyển bằng đường biển.",
+   "col": [
+    "transport",
+    "transport goods"
+   ]
+  },
+  {
+   "id": "ie070",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "consolidate",
+   "ipa": "/kənˈsɒlɪdeɪt/",
+   "pos": "v",
+   "vi": "gom hàng",
+   "ex": "The forwarder consolidated several orders.",
+   "exVi": "Đơn vị giao nhận gom vài đơn hàng.",
+   "col": [
+    "consolidate",
+    "consolidate cargo"
+   ]
+  },
+  {
+   "id": "ie071",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "palletize",
+   "ipa": "/ˈpælətaɪz/",
+   "pos": "v",
+   "vi": "xếp lên kệ hàng",
+   "ex": "The goods were palletized for shipping.",
+   "exVi": "Hàng được xếp lên kệ để vận chuyển.",
+   "col": [
+    "palletize",
+    "palletize goods"
+   ]
+  },
+  {
+   "id": "ie072",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "stamp",
+   "ipa": "/stæmp/",
+   "pos": "v",
+   "vi": "đóng dấu",
+   "ex": "An officer stamped the export papers.",
+   "exVi": "Một cán bộ đóng dấu giấy tờ xuất khẩu.",
+   "col": [
+    "stamp",
+    "stamp a document"
+   ]
+  },
+  {
+   "id": "ie073",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "clear",
+   "ipa": "/klɪə/",
+   "pos": "v",
+   "vi": "thông quan, giải phóng hàng",
+   "ex": "The agent cleared the goods in a day.",
+   "exVi": "Đại lý thông quan hàng trong một ngày.",
+   "col": [
+    "clear",
+    "clear goods"
+   ]
+  },
+  {
+   "id": "ie074",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "duty-paid",
+   "ipa": "/ˈdjuːti peɪd/",
+   "pos": "adj",
+   "vi": "đã nộp thuế",
+   "ex": "Duty-paid goods can leave the warehouse.",
+   "exVi": "Hàng đã nộp thuế có thể rời kho.",
+   "col": [
+    "duty-paid",
+    "duty-paid goods"
+   ]
+  },
+  {
+   "id": "ie075",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "customs-cleared",
+   "ipa": "/ˈkʌstəmz klɪəd/",
+   "pos": "adj",
+   "vi": "đã thông quan",
+   "ex": "The customs-cleared cargo left the port.",
+   "exVi": "Lô hàng đã thông quan rời cảng.",
+   "col": [
+    "customs-cleared",
+    "customs-cleared goods"
+   ]
+  },
+  {
+   "id": "ie076",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "imported",
+   "ipa": "/ɪmˈpɔːtɪd/",
+   "pos": "adj",
+   "vi": "nhập khẩu",
+   "ex": "Imported parts cost more this year.",
+   "exVi": "Linh kiện nhập khẩu đắt hơn năm nay.",
+   "col": [
+    "imported",
+    "imported goods"
+   ]
+  },
+  {
+   "id": "ie077",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "exported",
+   "ipa": "/ɪkˈspɔːtɪd/",
+   "pos": "adj",
+   "vi": "xuất khẩu",
+   "ex": "Exported goods must meet the rules.",
+   "exVi": "Hàng xuất khẩu phải đáp ứng các quy tắc.",
+   "col": [
+    "exported",
+    "exported goods"
+   ]
+  },
+  {
+   "id": "ie078",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "overseas",
+   "ipa": "/ˌəʊvəˈsiːz/",
+   "pos": "adj",
+   "vi": "ở nước ngoài",
+   "ex": "The firm found new overseas markets.",
+   "exVi": "Công ty tìm được các thị trường nước ngoài mới.",
+   "col": [
+    "overseas",
+    "overseas markets"
+   ]
+  },
+  {
+   "id": "ie079",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "domestic",
+   "ipa": "/dəˈmestɪk/",
+   "pos": "adj",
+   "vi": "nội địa",
+   "ex": "Domestic demand supported the exports.",
+   "exVi": "Nhu cầu nội địa hỗ trợ xuất khẩu.",
+   "col": [
+    "domestic",
+    "the domestic market"
+   ]
+  },
+  {
+   "id": "ie080",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "compliant",
+   "ipa": "/kəmˈplaɪənt/",
+   "pos": "adj",
+   "vi": "tuân thủ",
+   "ex": "The shipment was fully compliant with the rules.",
+   "exVi": "Lô hàng hoàn toàn tuân thủ các quy tắc.",
+   "col": [
+    "compliant",
+    "fully compliant"
+   ]
+  },
+  {
+   "id": "ie081",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "inbound",
+   "ipa": "/ˈɪnbaʊnd/",
+   "pos": "adj",
+   "vi": "hàng nhập",
+   "ex": "Inbound cargo is inspected on arrival.",
+   "exVi": "Hàng nhập được kiểm tra khi tới.",
+   "col": [
+    "inbound",
+    "inbound cargo"
+   ]
+  },
+  {
+   "id": "ie082",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "outbound",
+   "ipa": "/ˈaʊtbaʊnd/",
+   "pos": "adj",
+   "vi": "hàng xuất",
+   "ex": "Outbound shipments leave every morning.",
+   "exVi": "Các lô hàng xuất rời đi mỗi sáng.",
+   "col": [
+    "outbound",
+    "outbound shipments"
+   ]
+  },
+  {
+   "id": "ie083",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "expedited",
+   "ipa": "/ˈekspədaɪtɪd/",
+   "pos": "adj",
+   "vi": "được đẩy nhanh",
+   "ex": "Expedited clearance costs a little more.",
+   "exVi": "Thông quan được đẩy nhanh tốn thêm một chút.",
+   "col": [
+    "expedited",
+    "expedited shipping"
+   ]
+  },
+  {
+   "id": "ie084",
+   "topic": "Xuất nhập khẩu & hải quan",
+   "w": "levied",
+   "ipa": "/ˈlevid/",
+   "pos": "adj",
+   "vi": "được đánh thuế",
+   "ex": "A duty is levied on all imported wine.",
+   "exVi": "Một khoản thuế được đánh lên mọi rượu nhập khẩu.",
+   "col": [
+    "levied",
+    "a duty levied on"
+   ]
+  }
+ ]
+}

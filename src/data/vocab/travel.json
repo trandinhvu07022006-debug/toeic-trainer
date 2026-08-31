@@ -1,0 +1,1379 @@
+{
+ "topic": "Du lịch & khách sạn",
+ "words": [
+  {
+   "id": "v11",
+   "topic": "Du lịch & khách sạn",
+   "w": "itinerary",
+   "ipa": "/aɪˈtɪnərəri/",
+   "pos": "n",
+   "vi": "lịch trình chuyến đi",
+   "ex": "Your travel itinerary is attached to this message.",
+   "exVi": "Lịch trình chuyến đi của bạn được đính kèm trong tin nhắn này.",
+   "col": [
+    "a travel itinerary",
+    "revise the itinerary",
+    "a detailed itinerary"
+   ]
+  },
+  {
+   "id": "v12",
+   "topic": "Du lịch & khách sạn",
+   "w": "boarding pass",
+   "ipa": "/ˈbɔːdɪŋ pɑːs/",
+   "pos": "n",
+   "vi": "thẻ lên máy bay",
+   "ex": "Passengers must present a boarding pass at the gate.",
+   "exVi": "Hành khách phải xuất trình thẻ lên máy bay tại cửa ra.",
+   "col": [
+    "print a boarding pass",
+    "scan your boarding pass"
+   ]
+  },
+  {
+   "id": "v13",
+   "topic": "Du lịch & khách sạn",
+   "w": "accommodation",
+   "ipa": "/əˌkɒməˈdeɪʃn/",
+   "pos": "n",
+   "vi": "chỗ ở, nơi lưu trú",
+   "ex": "Accommodation for all conference speakers will be arranged.",
+   "exVi": "Chỗ ở cho toàn bộ diễn giả hội thảo sẽ được sắp xếp.",
+   "col": [
+    "arrange accommodation",
+    "overnight accommodation"
+   ]
+  },
+  {
+   "id": "v14",
+   "topic": "Du lịch & khách sạn",
+   "w": "delay",
+   "ipa": "/dɪˈleɪ/",
+   "pos": "n, v",
+   "vi": "sự trì hoãn; làm chậm trễ",
+   "ex": "Flight 402 has been delayed because of severe weather.",
+   "exVi": "Chuyến bay 402 bị hoãn do thời tiết xấu.",
+   "col": [
+    "a slight delay",
+    "be delayed by",
+    "without delay"
+   ]
+  },
+  {
+   "id": "v15",
+   "topic": "Du lịch & khách sạn",
+   "w": "reimburse",
+   "ipa": "/ˌriːɪmˈbɜːs/",
+   "pos": "v",
+   "vi": "hoàn trả (tiền đã chi)",
+   "ex": "The company will reimburse employees for all travel expenses.",
+   "exVi": "Công ty sẽ hoàn trả cho nhân viên toàn bộ chi phí đi lại.",
+   "col": [
+    "reimburse sb for sth",
+    "be fully reimbursed"
+   ]
+  },
+  {
+   "id": "tr006",
+   "topic": "Du lịch & khách sạn",
+   "w": "reservation",
+   "ipa": "/ˌrezəˈveɪʃn/",
+   "pos": "n",
+   "vi": "việc đặt chỗ",
+   "ex": "I would like to make a reservation for two nights.",
+   "exVi": "Tôi muốn đặt phòng hai đêm.",
+   "col": [
+    "make a reservation",
+    "cancel a reservation"
+   ]
+  },
+  {
+   "id": "tr007",
+   "topic": "Du lịch & khách sạn",
+   "w": "booking",
+   "ipa": "/ˈbʊkɪŋ/",
+   "pos": "n",
+   "vi": "việc đặt chỗ",
+   "ex": "Your booking is confirmed for the fourteenth.",
+   "exVi": "Việc đặt chỗ của bạn đã được xác nhận cho ngày mười bốn.",
+   "col": [
+    "confirm a booking",
+    "a hotel booking"
+   ]
+  },
+  {
+   "id": "tr008",
+   "topic": "Du lịch & khách sạn",
+   "w": "confirmation",
+   "ipa": "/ˌkɒnfəˈmeɪʃn/",
+   "pos": "n",
+   "vi": "xác nhận",
+   "ex": "You will receive a confirmation email shortly.",
+   "exVi": "Bạn sẽ sớm nhận được email xác nhận.",
+   "col": [
+    "a booking confirmation",
+    "await confirmation"
+   ]
+  },
+  {
+   "id": "tr009",
+   "topic": "Du lịch & khách sạn",
+   "w": "lodging",
+   "ipa": "/ˈlɒdʒɪŋ/",
+   "pos": "n",
+   "vi": "nơi trọ",
+   "ex": "The company covers lodging during business trips.",
+   "exVi": "Công ty chi trả nơi trọ trong các chuyến công tác.",
+   "col": [
+    "provide lodging",
+    "lodging expenses"
+   ]
+  },
+  {
+   "id": "tr010",
+   "topic": "Du lịch & khách sạn",
+   "w": "vacancy",
+   "ipa": "/ˈveɪkənsi/",
+   "pos": "n",
+   "vi": "phòng trống",
+   "ex": "The hotel has no vacancies during the festival.",
+   "exVi": "Khách sạn không còn phòng trống trong dịp lễ hội.",
+   "col": [
+    "no vacancy",
+    "check for vacancies"
+   ]
+  },
+  {
+   "id": "tr011",
+   "topic": "Du lịch & khách sạn",
+   "w": "suite",
+   "ipa": "/swiːt/",
+   "pos": "n",
+   "vi": "phòng hạng sang",
+   "ex": "The executive suite has a separate meeting area.",
+   "exVi": "Phòng hạng sang cấp quản lý có khu họp riêng.",
+   "col": [
+    "a hotel suite",
+    "book a suite"
+   ]
+  },
+  {
+   "id": "tr012",
+   "topic": "Du lịch & khách sạn",
+   "w": "amenities",
+   "ipa": "/əˈmiːnətiz/",
+   "pos": "n",
+   "vi": "tiện nghi",
+   "ex": "Room amenities include a safe and a minibar.",
+   "exVi": "Tiện nghi phòng gồm két sắt và minibar.",
+   "col": [
+    "hotel amenities",
+    "in-room amenities"
+   ]
+  },
+  {
+   "id": "tr013",
+   "topic": "Du lịch & khách sạn",
+   "w": "concierge",
+   "ipa": "/ˌkɒnsiˈeəʒ/",
+   "pos": "n",
+   "vi": "nhân viên hỗ trợ khách",
+   "ex": "The concierge can book a taxi for you.",
+   "exVi": "Nhân viên hỗ trợ khách có thể đặt taxi cho bạn.",
+   "col": [
+    "the hotel concierge",
+    "ask the concierge"
+   ]
+  },
+  {
+   "id": "tr014",
+   "topic": "Du lịch & khách sạn",
+   "w": "check-in",
+   "ipa": "/ˈtʃek ɪn/",
+   "pos": "n",
+   "vi": "việc nhận phòng",
+   "ex": "Check-in begins at two o'clock in the afternoon.",
+   "exVi": "Việc nhận phòng bắt đầu lúc hai giờ chiều.",
+   "col": [
+    "check-in time",
+    "online check-in"
+   ]
+  },
+  {
+   "id": "tr015",
+   "topic": "Du lịch & khách sạn",
+   "w": "checkout",
+   "ipa": "/ˈtʃekaʊt/",
+   "pos": "n",
+   "vi": "việc trả phòng",
+   "ex": "Checkout is at eleven, but late checkout is available.",
+   "exVi": "Việc trả phòng lúc mười một, nhưng có thể trả muộn.",
+   "col": [
+    "checkout time",
+    "express checkout"
+   ]
+  },
+  {
+   "id": "tr016",
+   "topic": "Du lịch & khách sạn",
+   "w": "front desk",
+   "ipa": "/frʌnt desk/",
+   "pos": "n",
+   "vi": "quầy tiếp tân",
+   "ex": "Leave your key at the front desk when you leave.",
+   "exVi": "Để lại chìa khoá ở quầy tiếp tân khi rời đi.",
+   "col": [
+    "the front desk",
+    "call the front desk"
+   ]
+  },
+  {
+   "id": "tr017",
+   "topic": "Du lịch & khách sạn",
+   "w": "occupancy",
+   "ipa": "/ˈɒkjupənsi/",
+   "pos": "n",
+   "vi": "công suất phòng, số khách",
+   "ex": "The hotel reached full occupancy during the conference.",
+   "exVi": "Khách sạn đạt công suất tối đa trong hội thảo.",
+   "col": [
+    "full occupancy",
+    "single occupancy"
+   ]
+  },
+  {
+   "id": "tr018",
+   "topic": "Du lịch & khách sạn",
+   "w": "complimentary",
+   "ipa": "/ˌkɒmplɪˈmentri/",
+   "pos": "adj",
+   "vi": "miễn phí kèm theo",
+   "ex": "Guests receive a complimentary breakfast each morning.",
+   "exVi": "Khách được phục vụ bữa sáng miễn phí mỗi buổi sáng.",
+   "col": [
+    "a complimentary breakfast",
+    "complimentary parking"
+   ]
+  },
+  {
+   "id": "tr019",
+   "topic": "Du lịch & khách sạn",
+   "w": "departure",
+   "ipa": "/dɪˈpɑːtʃə/",
+   "pos": "n",
+   "vi": "sự khởi hành",
+   "ex": "The departure gate has changed to B twelve.",
+   "exVi": "Cửa khởi hành đã đổi sang B12.",
+   "col": [
+    "a departure gate",
+    "the departure time"
+   ]
+  },
+  {
+   "id": "tr020",
+   "topic": "Du lịch & khách sạn",
+   "w": "arrival",
+   "ipa": "/əˈraɪvl/",
+   "pos": "n",
+   "vi": "sự đến nơi",
+   "ex": "Please note the new arrival time on your ticket.",
+   "exVi": "Vui lòng để ý giờ đến mới trên vé.",
+   "col": [
+    "the arrival hall",
+    "on arrival"
+   ]
+  },
+  {
+   "id": "tr021",
+   "topic": "Du lịch & khách sạn",
+   "w": "terminal",
+   "ipa": "/ˈtɜːmɪnl/",
+   "pos": "n",
+   "vi": "nhà ga sân bay",
+   "ex": "International flights leave from Terminal Two.",
+   "exVi": "Chuyến bay quốc tế khởi hành từ nhà ga số hai.",
+   "col": [
+    "an airport terminal",
+    "the departure terminal"
+   ]
+  },
+  {
+   "id": "tr022",
+   "topic": "Du lịch & khách sạn",
+   "w": "gate",
+   "ipa": "/ɡeɪt/",
+   "pos": "n",
+   "vi": "cửa ra máy bay",
+   "ex": "Boarding will begin at gate fourteen shortly.",
+   "exVi": "Việc lên máy bay sẽ bắt đầu tại cửa mười bốn.",
+   "col": [
+    "a departure gate",
+    "a gate change"
+   ]
+  },
+  {
+   "id": "tr023",
+   "topic": "Du lịch & khách sạn",
+   "w": "layover",
+   "ipa": "/ˈleɪəʊvə/",
+   "pos": "n",
+   "vi": "thời gian chờ nối chuyến",
+   "ex": "We have a two-hour layover in Singapore.",
+   "exVi": "Chúng tôi có hai tiếng chờ nối chuyến ở Singapore.",
+   "col": [
+    "a short layover",
+    "a long layover"
+   ]
+  },
+  {
+   "id": "tr024",
+   "topic": "Du lịch & khách sạn",
+   "w": "connecting flight",
+   "ipa": "/kəˈnektɪŋ flaɪt/",
+   "pos": "n",
+   "vi": "chuyến bay nối chuyến",
+   "ex": "The delay caused us to miss our connecting flight.",
+   "exVi": "Sự chậm trễ khiến chúng tôi lỡ chuyến bay nối chuyến.",
+   "col": [
+    "a connecting flight",
+    "miss a connecting flight"
+   ]
+  },
+  {
+   "id": "tr025",
+   "topic": "Du lịch & khách sạn",
+   "w": "carrier",
+   "ipa": "/ˈkæriə/",
+   "pos": "n",
+   "vi": "hãng vận chuyển",
+   "ex": "The carrier allows one free checked bag.",
+   "exVi": "Hãng vận chuyển cho phép một kiện ký gửi miễn phí.",
+   "col": [
+    "an airline carrier",
+    "a low-cost carrier"
+   ]
+  },
+  {
+   "id": "tr026",
+   "topic": "Du lịch & khách sạn",
+   "w": "aisle",
+   "ipa": "/aɪl/",
+   "pos": "n",
+   "vi": "lối đi giữa hàng ghế",
+   "ex": "I would prefer an aisle seat, please.",
+   "exVi": "Tôi muốn ngồi ghế cạnh lối đi.",
+   "col": [
+    "an aisle seat",
+    "along the aisle"
+   ]
+  },
+  {
+   "id": "tr027",
+   "topic": "Du lịch & khách sạn",
+   "w": "baggage",
+   "ipa": "/ˈbæɡɪdʒ/",
+   "pos": "n",
+   "vi": "hành lý",
+   "ex": "Baggage may be collected at carousel three.",
+   "exVi": "Hành lý có thể lấy tại băng chuyền số ba.",
+   "col": [
+    "checked baggage",
+    "baggage claim"
+   ]
+  },
+  {
+   "id": "tr028",
+   "topic": "Du lịch & khách sạn",
+   "w": "luggage",
+   "ipa": "/ˈlʌɡɪdʒ/",
+   "pos": "n",
+   "vi": "hành lý",
+   "ex": "Please keep your luggage with you at all times.",
+   "exVi": "Vui lòng luôn giữ hành lý bên mình.",
+   "col": [
+    "carry-on luggage",
+    "a piece of luggage"
+   ]
+  },
+  {
+   "id": "tr029",
+   "topic": "Du lịch & khách sạn",
+   "w": "carousel",
+   "ipa": "/ˌkærəˈsel/",
+   "pos": "n",
+   "vi": "băng chuyền hành lý",
+   "ex": "Flight 402's bags are on carousel five.",
+   "exVi": "Hành lý chuyến bay 402 ở băng chuyền số năm.",
+   "col": [
+    "a baggage carousel",
+    "the luggage carousel"
+   ]
+  },
+  {
+   "id": "tr030",
+   "topic": "Du lịch & khách sạn",
+   "w": "customs",
+   "ipa": "/ˈkʌstəmz/",
+   "pos": "n",
+   "vi": "hải quan",
+   "ex": "The shipment cleared customs on Tuesday morning.",
+   "exVi": "Lô hàng thông quan vào sáng thứ Ba.",
+   "col": [
+    "clear customs",
+    "a customs officer"
+   ]
+  },
+  {
+   "id": "tr031",
+   "topic": "Du lịch & khách sạn",
+   "w": "immigration",
+   "ipa": "/ˌɪmɪˈɡreɪʃn/",
+   "pos": "n",
+   "vi": "nhập cảnh",
+   "ex": "Have your passport ready at immigration.",
+   "exVi": "Chuẩn bị sẵn hộ chiếu tại khu nhập cảnh.",
+   "col": [
+    "immigration control",
+    "pass through immigration"
+   ]
+  },
+  {
+   "id": "tr032",
+   "topic": "Du lịch & khách sạn",
+   "w": "passport",
+   "ipa": "/ˈpɑːspɔːt/",
+   "pos": "n",
+   "vi": "hộ chiếu",
+   "ex": "Your passport must be valid for six months.",
+   "exVi": "Hộ chiếu của bạn phải còn hạn sáu tháng.",
+   "col": [
+    "a valid passport",
+    "renew a passport"
+   ]
+  },
+  {
+   "id": "tr033",
+   "topic": "Du lịch & khách sạn",
+   "w": "visa",
+   "ipa": "/ˈviːzə/",
+   "pos": "n",
+   "vi": "thị thực",
+   "ex": "A business visa is required for the trip.",
+   "exVi": "Chuyến đi cần một thị thực công tác.",
+   "col": [
+    "apply for a visa",
+    "a tourist visa"
+   ]
+  },
+  {
+   "id": "tr034",
+   "topic": "Du lịch & khách sạn",
+   "w": "cancellation",
+   "ipa": "/ˌkænsəˈleɪʃn/",
+   "pos": "n",
+   "vi": "việc huỷ chuyến",
+   "ex": "The cancellation was announced an hour before departure.",
+   "exVi": "Việc huỷ chuyến được thông báo một tiếng trước khởi hành.",
+   "col": [
+    "a flight cancellation",
+    "a cancellation fee"
+   ]
+  },
+  {
+   "id": "tr035",
+   "topic": "Du lịch & khách sạn",
+   "w": "transit",
+   "ipa": "/ˈtrænzɪt/",
+   "pos": "n",
+   "vi": "quá cảnh",
+   "ex": "Passengers in transit wait in the lounge on level two.",
+   "exVi": "Hành khách quá cảnh đợi ở phòng chờ tầng hai.",
+   "col": [
+    "in transit",
+    "a transit visa"
+   ]
+  },
+  {
+   "id": "tr036",
+   "topic": "Du lịch & khách sạn",
+   "w": "shuttle",
+   "ipa": "/ˈʃʌtl/",
+   "pos": "n",
+   "vi": "xe đưa đón",
+   "ex": "A free shuttle runs from the hotel to the airport.",
+   "exVi": "Có xe đưa đón miễn phí từ khách sạn ra sân bay.",
+   "col": [
+    "a shuttle bus",
+    "an airport shuttle"
+   ]
+  },
+  {
+   "id": "tr037",
+   "topic": "Du lịch & khách sạn",
+   "w": "fare",
+   "ipa": "/feə/",
+   "pos": "n",
+   "vi": "giá vé",
+   "ex": "The train fare rose by ten percent this year.",
+   "exVi": "Giá vé tàu tăng mười phần trăm năm nay.",
+   "col": [
+    "a return fare",
+    "a reduced fare"
+   ]
+  },
+  {
+   "id": "tr038",
+   "topic": "Du lịch & khách sạn",
+   "w": "one-way",
+   "ipa": "/ˌwʌn ˈweɪ/",
+   "pos": "adj",
+   "vi": "một chiều",
+   "ex": "A one-way ticket is cheaper than a return.",
+   "exVi": "Vé một chiều rẻ hơn vé khứ hồi.",
+   "col": [
+    "a one-way ticket",
+    "a one-way trip"
+   ]
+  },
+  {
+   "id": "tr039",
+   "topic": "Du lịch & khách sạn",
+   "w": "round-trip",
+   "ipa": "/ˌraʊnd ˈtrɪp/",
+   "pos": "n",
+   "vi": "khứ hồi",
+   "ex": "The round-trip fare includes a checked bag.",
+   "exVi": "Giá vé khứ hồi bao gồm một kiện ký gửi.",
+   "col": [
+    "a round-trip ticket",
+    "a round-trip fare"
+   ]
+  },
+  {
+   "id": "tr040",
+   "topic": "Du lịch & khách sạn",
+   "w": "excursion",
+   "ipa": "/ɪkˈskɜːʃn/",
+   "pos": "n",
+   "vi": "chuyến tham quan",
+   "ex": "An optional excursion to the old town is offered.",
+   "exVi": "Có chuyến tham quan tự chọn tới phố cổ.",
+   "col": [
+    "a day excursion",
+    "a guided excursion"
+   ]
+  },
+  {
+   "id": "tr041",
+   "topic": "Du lịch & khách sạn",
+   "w": "sightseeing",
+   "ipa": "/ˈsaɪtsiːɪŋ/",
+   "pos": "n",
+   "vi": "việc tham quan",
+   "ex": "We spent the afternoon sightseeing near the harbour.",
+   "exVi": "Chúng tôi dành buổi chiều tham quan gần cảng.",
+   "col": [
+    "go sightseeing",
+    "a sightseeing tour"
+   ]
+  },
+  {
+   "id": "tr042",
+   "topic": "Du lịch & khách sạn",
+   "w": "destination",
+   "ipa": "/ˌdestɪˈneɪʃn/",
+   "pos": "n",
+   "vi": "điểm đến",
+   "ex": "The resort is a popular destination for families.",
+   "exVi": "Khu nghỉ dưỡng là điểm đến ưa thích của các gia đình.",
+   "col": [
+    "a holiday destination",
+    "a final destination"
+   ]
+  },
+  {
+   "id": "tr043",
+   "topic": "Du lịch & khách sạn",
+   "w": "voucher",
+   "ipa": "/ˈvaʊtʃə/",
+   "pos": "n",
+   "vi": "phiếu, chứng từ",
+   "ex": "Present the voucher at the desk to claim your room.",
+   "exVi": "Xuất trình phiếu tại quầy để nhận phòng.",
+   "col": [
+    "a meal voucher",
+    "a gift voucher"
+   ]
+  },
+  {
+   "id": "tr044",
+   "topic": "Du lịch & khách sạn",
+   "w": "upgrade",
+   "ipa": "/ˈʌpɡreɪd/",
+   "pos": "n, v",
+   "vi": "nâng hạng",
+   "ex": "Members may request a free room upgrade.",
+   "exVi": "Thành viên có thể xin nâng hạng phòng miễn phí.",
+   "col": [
+    "a free upgrade",
+    "upgrade to"
+   ]
+  },
+  {
+   "id": "tr045",
+   "topic": "Du lịch & khách sạn",
+   "w": "depart",
+   "ipa": "/dɪˈpɑːt/",
+   "pos": "v",
+   "vi": "khởi hành",
+   "ex": "The bus departs from platform three at noon.",
+   "exVi": "Xe buýt khởi hành từ bến số ba lúc trưa.",
+   "col": [
+    "depart on time",
+    "depart from"
+   ]
+  },
+  {
+   "id": "tr046",
+   "topic": "Du lịch & khách sạn",
+   "w": "board",
+   "ipa": "/bɔːd/",
+   "pos": "v",
+   "vi": "lên tàu, lên máy bay",
+   "ex": "Passengers may board thirty minutes before departure.",
+   "exVi": "Hành khách có thể lên máy bay ba mươi phút trước giờ khởi hành.",
+   "col": [
+    "board a flight",
+    "begin boarding"
+   ]
+  },
+  {
+   "id": "tr047",
+   "topic": "Du lịch & khách sạn",
+   "w": "disembark",
+   "ipa": "/ˌdɪsɪmˈbɑːk/",
+   "pos": "v",
+   "vi": "xuống tàu, xuống máy bay",
+   "ex": "Please remain seated until the plane has fully stopped before you disembark.",
+   "exVi": "Vui lòng ngồi yên cho tới khi máy bay dừng hẳn trước khi xuống.",
+   "col": [
+    "disembark from",
+    "begin to disembark"
+   ]
+  },
+  {
+   "id": "tr048",
+   "topic": "Du lịch & khách sạn",
+   "w": "overbook",
+   "ipa": "/ˌəʊvəˈbʊk/",
+   "pos": "v",
+   "vi": "bán quá số chỗ",
+   "ex": "The flight was overbooked, so two passengers were rebooked.",
+   "exVi": "Chuyến bay bán quá số chỗ nên hai khách được đặt lại.",
+   "col": [
+    "an overbooked flight",
+    "overbook a hotel"
+   ]
+  },
+  {
+   "id": "tr049",
+   "topic": "Du lịch & khách sạn",
+   "w": "rebook",
+   "ipa": "/ˌriːˈbʊk/",
+   "pos": "v",
+   "vi": "đặt lại",
+   "ex": "We rebooked the guests on a later flight.",
+   "exVi": "Chúng tôi đặt lại cho khách sang chuyến muộn hơn.",
+   "col": [
+    "rebook a flight",
+    "rebook a room"
+   ]
+  },
+  {
+   "id": "tr050",
+   "topic": "Du lịch & khách sạn",
+   "w": "punctual",
+   "ipa": "/ˈpʌŋktʃuəl/",
+   "pos": "adj",
+   "vi": "đúng giờ",
+   "ex": "The ferry service is reliable and punctual.",
+   "exVi": "Dịch vụ phà đáng tin cậy và đúng giờ.",
+   "col": [
+    "a punctual departure",
+    "always punctual"
+   ]
+  },
+  {
+   "id": "tr051",
+   "topic": "Du lịch & khách sạn",
+   "w": "scenic",
+   "ipa": "/ˈsiːnɪk/",
+   "pos": "adj",
+   "vi": "có phong cảnh đẹp",
+   "ex": "The train takes a scenic route along the coast.",
+   "exVi": "Tàu đi theo tuyến đường có phong cảnh đẹp dọc bờ biển.",
+   "col": [
+    "a scenic route",
+    "a scenic view"
+   ]
+  },
+  {
+   "id": "tr052",
+   "topic": "Du lịch & khách sạn",
+   "w": "reimbursement",
+   "ipa": "/ˌriːɪmˈbɜːsmənt/",
+   "pos": "n",
+   "vi": "khoản hoàn trả",
+   "ex": "Submit receipts to claim reimbursement.",
+   "exVi": "Nộp hoá đơn để yêu cầu hoàn trả.",
+   "col": [
+    "claim reimbursement",
+    "expense reimbursement"
+   ]
+  },
+  {
+   "id": "tr053",
+   "topic": "Du lịch & khách sạn",
+   "w": "expense",
+   "ipa": "/ɪkˈspens/",
+   "pos": "n",
+   "vi": "chi phí",
+   "ex": "Keep every receipt for your travel expenses.",
+   "exVi": "Giữ mọi hoá đơn cho chi phí đi lại của bạn.",
+   "col": [
+    "travel expenses",
+    "an expense claim"
+   ]
+  },
+  {
+   "id": "tr054",
+   "topic": "Du lịch & khách sạn",
+   "w": "per diem",
+   "ipa": "/pə ˈdiːem/",
+   "pos": "n",
+   "vi": "phụ cấp mỗi ngày",
+   "ex": "Staff receive a per diem for meals while abroad.",
+   "exVi": "Nhân viên nhận phụ cấp mỗi ngày cho bữa ăn khi ở nước ngoài.",
+   "col": [
+    "a daily per diem",
+    "claim a per diem"
+   ]
+  },
+  {
+   "id": "tr055",
+   "topic": "Du lịch & khách sạn",
+   "w": "receipt",
+   "ipa": "/rɪˈsiːt/",
+   "pos": "n",
+   "vi": "biên lai",
+   "ex": "You need a receipt to claim the taxi fare.",
+   "exVi": "Bạn cần biên lai để đòi lại tiền taxi.",
+   "col": [
+    "keep a receipt",
+    "issue a receipt"
+   ]
+  },
+  {
+   "id": "tr056",
+   "topic": "Du lịch & khách sạn",
+   "w": "allowance",
+   "ipa": "/əˈlaʊəns/",
+   "pos": "n",
+   "vi": "khoản trợ cấp",
+   "ex": "The travel allowance covers up to two hundred dollars.",
+   "exVi": "Khoản trợ cấp đi lại chi trả tới hai trăm đô.",
+   "col": [
+    "a travel allowance",
+    "a daily allowance"
+   ]
+  },
+  {
+   "id": "tr057",
+   "topic": "Du lịch & khách sạn",
+   "w": "booking fee",
+   "ipa": "/ˈbʊkɪŋ fiː/",
+   "pos": "n",
+   "vi": "phí đặt chỗ",
+   "ex": "A small booking fee applies to online reservations.",
+   "exVi": "Một khoản phí đặt chỗ nhỏ áp cho đặt trực tuyến.",
+   "col": [
+    "a booking fee",
+    "waive the booking fee"
+   ]
+  },
+  {
+   "id": "tr058",
+   "topic": "Du lịch & khách sạn",
+   "w": "deposit",
+   "ipa": "/dɪˈpɒzɪt/",
+   "pos": "n",
+   "vi": "tiền đặt cọc",
+   "ex": "A deposit is required to hold the room.",
+   "exVi": "Cần đặt cọc để giữ phòng.",
+   "col": [
+    "pay a deposit",
+    "a refundable deposit"
+   ]
+  },
+  {
+   "id": "tr059",
+   "topic": "Du lịch & khách sạn",
+   "w": "refundable",
+   "ipa": "/rɪˈfʌndəbl/",
+   "pos": "adj",
+   "vi": "có thể hoàn tiền",
+   "ex": "The ticket is fully refundable up to a week before travel.",
+   "exVi": "Vé được hoàn tiền đầy đủ tới một tuần trước chuyến đi.",
+   "col": [
+    "a refundable ticket",
+    "fully refundable"
+   ]
+  },
+  {
+   "id": "tr060",
+   "topic": "Du lịch & khách sạn",
+   "w": "nonrefundable",
+   "ipa": "/ˌnɒnrɪˈfʌndəbl/",
+   "pos": "adj",
+   "vi": "không hoàn tiền",
+   "ex": "The discounted fare is nonrefundable.",
+   "exVi": "Giá vé giảm không được hoàn tiền.",
+   "col": [
+    "a nonrefundable deposit",
+    "nonrefundable fare"
+   ]
+  },
+  {
+   "id": "tr061",
+   "topic": "Du lịch & khách sạn",
+   "w": "valid",
+   "ipa": "/ˈvælɪd/",
+   "pos": "adj",
+   "vi": "còn hiệu lực",
+   "ex": "The pass is valid on all city buses for one week.",
+   "exVi": "Vé có hiệu lực trên mọi xe buýt thành phố trong một tuần.",
+   "col": [
+    "a valid ticket",
+    "remain valid"
+   ]
+  },
+  {
+   "id": "tr062",
+   "topic": "Du lịch & khách sạn",
+   "w": "extend",
+   "ipa": "/ɪkˈstend/",
+   "pos": "v",
+   "vi": "kéo dài, gia hạn",
+   "ex": "She extended her stay by two nights.",
+   "exVi": "Bà kéo dài kỳ lưu trú thêm hai đêm.",
+   "col": [
+    "extend a stay",
+    "extend a booking"
+   ]
+  },
+  {
+   "id": "tr063",
+   "topic": "Du lịch & khách sạn",
+   "w": "inbound",
+   "ipa": "/ˈɪnbaʊnd/",
+   "pos": "adj",
+   "vi": "chuyến đến",
+   "ex": "The inbound flight arrives at noon.",
+   "exVi": "Chuyến bay đến hạ cánh lúc trưa.",
+   "col": [
+    "an inbound flight",
+    "inbound passengers"
+   ]
+  },
+  {
+   "id": "tr064",
+   "topic": "Du lịch & khách sạn",
+   "w": "outbound",
+   "ipa": "/ˈaʊtbaʊnd/",
+   "pos": "adj",
+   "vi": "chuyến đi",
+   "ex": "The outbound train leaves at seven sharp.",
+   "exVi": "Chuyến tàu đi khởi hành đúng bảy giờ.",
+   "col": [
+    "an outbound flight",
+    "the outbound leg"
+   ]
+  },
+  {
+   "id": "tr065",
+   "topic": "Du lịch & khách sạn",
+   "w": "domestic",
+   "ipa": "/dəˈmestɪk/",
+   "pos": "adj",
+   "vi": "nội địa",
+   "ex": "Domestic flights use the older terminal.",
+   "exVi": "Chuyến bay nội địa dùng nhà ga cũ.",
+   "col": [
+    "a domestic flight",
+    "domestic travel"
+   ]
+  },
+  {
+   "id": "tr066",
+   "topic": "Du lịch & khách sạn",
+   "w": "overseas",
+   "ipa": "/ˌəʊvəˈsiːz/",
+   "pos": "adj, adv",
+   "vi": "ở nước ngoài",
+   "ex": "The manager travels overseas twice a month.",
+   "exVi": "Quản lý đi nước ngoài hai lần mỗi tháng.",
+   "col": [
+    "overseas travel",
+    "work overseas"
+   ]
+  },
+  {
+   "id": "tr067",
+   "topic": "Du lịch & khách sạn",
+   "w": "abroad",
+   "ipa": "/əˈbrɔːd/",
+   "pos": "adv",
+   "vi": "ra nước ngoài",
+   "ex": "Half the team is currently abroad for training.",
+   "exVi": "Một nửa nhóm hiện đang ở nước ngoài tập huấn.",
+   "col": [
+    "travel abroad",
+    "study abroad"
+   ]
+  },
+  {
+   "id": "tr068",
+   "topic": "Du lịch & khách sạn",
+   "w": "lounge",
+   "ipa": "/laʊndʒ/",
+   "pos": "n",
+   "vi": "phòng chờ",
+   "ex": "Business travellers may use the airport lounge.",
+   "exVi": "Khách công tác có thể dùng phòng chờ sân bay.",
+   "col": [
+    "an airport lounge",
+    "a departure lounge"
+   ]
+  },
+  {
+   "id": "tr069",
+   "topic": "Du lịch & khách sạn",
+   "w": "tariff",
+   "ipa": "/ˈtærɪf/",
+   "pos": "n",
+   "vi": "biểu giá",
+   "ex": "The hotel publishes its seasonal room tariffs online.",
+   "exVi": "Khách sạn công bố biểu giá phòng theo mùa trên mạng.",
+   "col": [
+    "a room tariff",
+    "a seasonal tariff"
+   ]
+  },
+  {
+   "id": "tr070",
+   "topic": "Du lịch & khách sạn",
+   "w": "surcharge",
+   "ipa": "/ˈsɜːtʃɑːdʒ/",
+   "pos": "n",
+   "vi": "phụ phí",
+   "ex": "A fuel surcharge is added to every ticket.",
+   "exVi": "Một khoản phụ phí nhiên liệu được cộng vào mỗi vé.",
+   "col": [
+    "a fuel surcharge",
+    "a peak surcharge"
+   ]
+  },
+  {
+   "id": "tr071",
+   "topic": "Du lịch & khách sạn",
+   "w": "peak season",
+   "ipa": "/piːk ˈsiːzn/",
+   "pos": "n",
+   "vi": "mùa cao điểm",
+   "ex": "Rooms cost far more during peak season.",
+   "exVi": "Phòng đắt hơn nhiều trong mùa cao điểm.",
+   "col": [
+    "during peak season",
+    "peak-season rates"
+   ]
+  },
+  {
+   "id": "tr072",
+   "topic": "Du lịch & khách sạn",
+   "w": "off-season",
+   "ipa": "/ˌɒf ˈsiːzn/",
+   "pos": "n",
+   "vi": "mùa thấp điểm",
+   "ex": "Off-season fares are almost half the peak price.",
+   "exVi": "Giá vé mùa thấp điểm gần bằng nửa giá cao điểm.",
+   "col": [
+    "in the off-season",
+    "off-season rates"
+   ]
+  },
+  {
+   "id": "tr073",
+   "topic": "Du lịch & khách sạn",
+   "w": "occupant",
+   "ipa": "/ˈɒkjupənt/",
+   "pos": "n",
+   "vi": "người ở, người thuê",
+   "ex": "Each room holds a maximum of two occupants.",
+   "exVi": "Mỗi phòng chứa tối đa hai người ở.",
+   "col": [
+    "the room occupant",
+    "the current occupant"
+   ]
+  },
+  {
+   "id": "tr074",
+   "topic": "Du lịch & khách sạn",
+   "w": "porter",
+   "ipa": "/ˈpɔːtə/",
+   "pos": "n",
+   "vi": "nhân viên khuân vác",
+   "ex": "A porter will carry your bags to the room.",
+   "exVi": "Một nhân viên khuân vác sẽ mang hành lý lên phòng.",
+   "col": [
+    "a hotel porter",
+    "tip the porter"
+   ]
+  },
+  {
+   "id": "tr075",
+   "topic": "Du lịch & khách sạn",
+   "w": "housekeeping",
+   "ipa": "/ˈhaʊskiːpɪŋ/",
+   "pos": "n",
+   "vi": "dịch vụ dọn phòng",
+   "ex": "Housekeeping cleans the rooms between ten and two.",
+   "exVi": "Dịch vụ dọn phòng làm phòng từ mười tới hai giờ.",
+   "col": [
+    "housekeeping staff",
+    "request housekeeping"
+   ]
+  },
+  {
+   "id": "tr076",
+   "topic": "Du lịch & khách sạn",
+   "w": "minibar",
+   "ipa": "/ˈmɪnibɑː/",
+   "pos": "n",
+   "vi": "tủ đồ uống nhỏ trong phòng",
+   "ex": "Items from the minibar are charged to your room.",
+   "exVi": "Đồ trong tủ đồ uống được tính vào phòng của bạn.",
+   "col": [
+    "use the minibar",
+    "restock the minibar"
+   ]
+  },
+  {
+   "id": "tr077",
+   "topic": "Du lịch & khách sạn",
+   "w": "room service",
+   "ipa": "/ruːm ˈsɜːvɪs/",
+   "pos": "n",
+   "vi": "dịch vụ phục vụ tại phòng",
+   "ex": "Room service is available until midnight.",
+   "exVi": "Dịch vụ phục vụ tại phòng có tới nửa đêm.",
+   "col": [
+    "order room service",
+    "room service menu"
+   ]
+  },
+  {
+   "id": "tr078",
+   "topic": "Du lịch & khách sạn",
+   "w": "banquet",
+   "ipa": "/ˈbæŋkwɪt/",
+   "pos": "n",
+   "vi": "tiệc lớn",
+   "ex": "The hotel's banquet hall seats three hundred guests.",
+   "exVi": "Phòng tiệc của khách sạn chứa được ba trăm khách.",
+   "col": [
+    "a banquet hall",
+    "host a banquet"
+   ]
+  },
+  {
+   "id": "tr079",
+   "topic": "Du lịch & khách sạn",
+   "w": "venue",
+   "ipa": "/ˈvenjuː/",
+   "pos": "n",
+   "vi": "địa điểm tổ chức",
+   "ex": "The conference venue is a short walk from the station.",
+   "exVi": "Địa điểm tổ chức hội thảo cách ga một quãng đi bộ ngắn.",
+   "col": [
+    "a conference venue",
+    "choose a venue"
+   ]
+  },
+  {
+   "id": "tr080",
+   "topic": "Du lịch & khách sạn",
+   "w": "resort",
+   "ipa": "/rɪˈzɔːt/",
+   "pos": "n",
+   "vi": "khu nghỉ dưỡng",
+   "ex": "The beach resort offers guided diving trips.",
+   "exVi": "Khu nghỉ dưỡng bên biển có các chuyến lặn có hướng dẫn.",
+   "col": [
+    "a beach resort",
+    "a ski resort"
+   ]
+  },
+  {
+   "id": "tr081",
+   "topic": "Du lịch & khách sạn",
+   "w": "hospitality",
+   "ipa": "/ˌhɒspɪˈtæləti/",
+   "pos": "n",
+   "vi": "ngành dịch vụ lưu trú",
+   "ex": "She has ten years' experience in the hospitality industry.",
+   "exVi": "Bà có mười năm kinh nghiệm trong ngành dịch vụ lưu trú.",
+   "col": [
+    "the hospitality industry",
+    "hospitality staff"
+   ]
+  },
+  {
+   "id": "tr082",
+   "topic": "Du lịch & khách sạn",
+   "w": "brochure",
+   "ipa": "/ˈbrəʊʃə/",
+   "pos": "n",
+   "vi": "tờ giới thiệu",
+   "ex": "The travel brochure lists all the day trips.",
+   "exVi": "Tờ giới thiệu du lịch liệt kê mọi chuyến trong ngày.",
+   "col": [
+    "a travel brochure",
+    "a glossy brochure"
+   ]
+  },
+  {
+   "id": "tr083",
+   "topic": "Du lịch & khách sạn",
+   "w": "depart from",
+   "ipa": "/dɪˈpɑːt frɒm/",
+   "pos": "v",
+   "vi": "xuất phát từ",
+   "ex": "The coach departs from the main entrance at eight.",
+   "exVi": "Xe khách xuất phát từ cổng chính lúc tám giờ.",
+   "col": [
+    "depart from a station",
+    "depart from the terminal"
+   ]
+  },
+  {
+   "id": "tr084",
+   "topic": "Du lịch & khách sạn",
+   "w": "check availability",
+   "ipa": "/tʃek əˌveɪləˈbɪləti/",
+   "pos": "v",
+   "vi": "kiểm tra chỗ trống",
+   "ex": "Please check availability before promising the client a room.",
+   "exVi": "Vui lòng kiểm tra chỗ trống trước khi hứa phòng cho khách.",
+   "col": [
+    "check availability online",
+    "check availability first"
+   ]
+  },
+  {
+   "id": "tr085",
+   "topic": "Du lịch & khách sạn",
+   "w": "in advance",
+   "ipa": "/ɪn ədˈvɑːns/",
+   "pos": "adv",
+   "vi": "trước, sớm",
+   "ex": "Book your seats in advance to avoid disappointment during holidays.",
+   "exVi": "Đặt chỗ trước để tránh hụt vé trong dịp lễ.",
+   "col": [
+    "book in advance",
+    "pay in advance"
+   ]
+  },
+  {
+   "id": "tr086",
+   "topic": "Du lịch & khách sạn",
+   "w": "frequent",
+   "ipa": "/ˈfriːkwənt/",
+   "pos": "adj",
+   "vi": "thường xuyên",
+   "ex": "Frequent travellers earn points on every trip.",
+   "exVi": "Khách đi thường xuyên tích điểm mỗi chuyến.",
+   "col": [
+    "a frequent flyer",
+    "frequent trips"
+   ]
+  },
+  {
+   "id": "tr087",
+   "topic": "Du lịch & khách sạn",
+   "w": "enclosed",
+   "ipa": "/ɪnˈkləʊzd/",
+   "pos": "adj",
+   "vi": "kèm theo",
+   "ex": "The enclosed voucher entitles you to a free night.",
+   "exVi": "Phiếu kèm theo cho bạn một đêm miễn phí.",
+   "col": [
+    "the enclosed brochure",
+    "an enclosed map"
+   ]
+  },
+  {
+   "id": "tr088",
+   "topic": "Du lịch & khách sạn",
+   "w": "detour",
+   "ipa": "/ˈdiːtʊə/",
+   "pos": "n",
+   "vi": "đường vòng",
+   "ex": "A detour added twenty minutes to the journey.",
+   "exVi": "Đường vòng khiến hành trình dài thêm hai mươi phút.",
+   "col": [
+    "take a detour",
+    "a short detour"
+   ]
+  },
+  {
+   "id": "tr089",
+   "topic": "Du lịch & khách sạn",
+   "w": "commute",
+   "ipa": "/kəˈmjuːt/",
+   "pos": "n, v",
+   "vi": "hành trình đi làm",
+   "ex": "Her daily commute takes almost an hour each way.",
+   "exVi": "Hành trình đi làm mỗi ngày của bà mất gần một tiếng mỗi chiều.",
+   "col": [
+    "a daily commute",
+    "commute to work"
+   ]
+  },
+  {
+   "id": "tr090",
+   "topic": "Du lịch & khách sạn",
+   "w": "motorist",
+   "ipa": "/ˈməʊtərɪst/",
+   "pos": "n",
+   "vi": "người lái xe",
+   "ex": "Motorists are advised to avoid the tunnel this weekend.",
+   "exVi": "Người lái xe được khuyến cáo tránh đường hầm cuối tuần này.",
+   "col": [
+    "advise motorists",
+    "a careful motorist"
+   ]
+  },
+  {
+   "id": "tr091",
+   "topic": "Du lịch & khách sạn",
+   "w": "pedestrian",
+   "ipa": "/pəˈdestriən/",
+   "pos": "n",
+   "vi": "người đi bộ",
+   "ex": "A new crossing was added for pedestrians near the station.",
+   "exVi": "Một lối qua đường mới được thêm cho người đi bộ gần ga.",
+   "col": [
+    "a pedestrian crossing",
+    "pedestrian access"
+   ]
+  },
+  {
+   "id": "tr092",
+   "topic": "Du lịch & khách sạn",
+   "w": "congestion",
+   "ipa": "/kənˈdʒestʃən/",
+   "pos": "n",
+   "vi": "ùn tắc giao thông",
+   "ex": "Traffic congestion is worst between five and seven.",
+   "exVi": "Ùn tắc giao thông tệ nhất từ năm tới bảy giờ.",
+   "col": [
+    "traffic congestion",
+    "ease congestion"
+   ]
+  },
+  {
+   "id": "tr093",
+   "topic": "Du lịch & khách sạn",
+   "w": "diversion",
+   "ipa": "/daɪˈvɜːʃn/",
+   "pos": "n",
+   "vi": "lối đi tạm thay thế",
+   "ex": "A diversion is in place while the bridge is repaired.",
+   "exVi": "Có lối đi tạm trong khi cầu được sửa.",
+   "col": [
+    "a traffic diversion",
+    "follow the diversion"
+   ]
+  },
+  {
+   "id": "tr094",
+   "topic": "Du lịch & khách sạn",
+   "w": "fleet",
+   "ipa": "/fliːt/",
+   "pos": "n",
+   "vi": "đội xe",
+   "ex": "The firm renewed its fleet of delivery vans.",
+   "exVi": "Công ty làm mới đội xe tải giao hàng.",
+   "col": [
+    "a fleet of vehicles",
+    "a delivery fleet"
+   ]
+  },
+  {
+   "id": "tr095",
+   "topic": "Du lịch & khách sạn",
+   "w": "mileage",
+   "ipa": "/ˈmaɪlɪdʒ/",
+   "pos": "n",
+   "vi": "quãng đường đi được",
+   "ex": "Staff claim mileage for using their own cars.",
+   "exVi": "Nhân viên đòi phụ cấp quãng đường khi dùng xe riêng.",
+   "col": [
+    "a mileage claim",
+    "low mileage"
+   ]
+  },
+  {
+   "id": "tr096",
+   "topic": "Du lịch & khách sạn",
+   "w": "excursionist",
+   "ipa": "/ɪkˈskɜːʃənɪst/",
+   "pos": "n",
+   "vi": "khách tham quan",
+   "ex": "Excursionists gathered at the pier before sunrise.",
+   "exVi": "Khách tham quan tụ tập ở bến tàu trước bình minh.",
+   "col": [
+    "a group of excursionists",
+    "guide the excursionists"
+   ]
+  },
+  {
+   "id": "tr097",
+   "topic": "Du lịch & khách sạn",
+   "w": "stopover",
+   "ipa": "/ˈstɒpəʊvə/",
+   "pos": "n",
+   "vi": "điểm dừng chân",
+   "ex": "We arranged a one-night stopover in Dubai.",
+   "exVi": "Chúng tôi sắp xếp một điểm dừng chân qua đêm ở Dubai.",
+   "col": [
+    "a stopover in",
+    "a short stopover"
+   ]
+  },
+  {
+   "id": "tr098",
+   "topic": "Du lịch & khách sạn",
+   "w": "proximity",
+   "ipa": "/prɒkˈsɪməti/",
+   "pos": "n",
+   "vi": "sự gần",
+   "ex": "The hotel was chosen for its proximity to the airport.",
+   "exVi": "Khách sạn được chọn vì gần sân bay.",
+   "col": [
+    "in close proximity",
+    "proximity to"
+   ]
+  }
+ ]
+}

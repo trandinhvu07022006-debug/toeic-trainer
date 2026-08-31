@@ -1,0 +1,1125 @@
+{
+ "topic": "Tính từ miêu tả & đánh giá",
+ "words": [
+  {
+   "id": "da001",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "outstanding",
+   "ipa": "/aʊtˈstændɪŋ/",
+   "pos": "adj",
+   "vi": "xuất sắc",
+   "ex": "The team gave an outstanding performance.",
+   "exVi": "Nhóm có một màn thể hiện xuất sắc.",
+   "col": [
+    "outstanding",
+    "an outstanding result"
+   ]
+  },
+  {
+   "id": "da002",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "exceptional",
+   "ipa": "/ɪkˈsepʃənl/",
+   "pos": "adj",
+   "vi": "đặc biệt xuất sắc",
+   "ex": "The service was exceptional throughout.",
+   "exVi": "Dịch vụ đặc biệt xuất sắc suốt buổi.",
+   "col": [
+    "exceptional",
+    "exceptional quality"
+   ]
+  },
+  {
+   "id": "da003",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "remarkable",
+   "ipa": "/rɪˈmɑːkəbl/",
+   "pos": "adj",
+   "vi": "đáng chú ý",
+   "ex": "The firm made remarkable progress.",
+   "exVi": "Công ty đạt tiến bộ đáng chú ý.",
+   "col": [
+    "remarkable",
+    "a remarkable achievement"
+   ]
+  },
+  {
+   "id": "da004",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "impressive",
+   "ipa": "/ɪmˈpresɪv/",
+   "pos": "adj",
+   "vi": "ấn tượng",
+   "ex": "The results were truly impressive.",
+   "exVi": "Kết quả thực sự ấn tượng.",
+   "col": [
+    "impressive",
+    "an impressive result"
+   ]
+  },
+  {
+   "id": "da005",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "notable",
+   "ipa": "/ˈnəʊtəbl/",
+   "pos": "adj",
+   "vi": "nổi bật",
+   "ex": "A notable rise in sales was recorded.",
+   "exVi": "Một sự tăng nổi bật trong doanh số được ghi nhận.",
+   "col": [
+    "notable",
+    "a notable change"
+   ]
+  },
+  {
+   "id": "da006",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "superb",
+   "ipa": "/suːˈpɜːb/",
+   "pos": "adj",
+   "vi": "tuyệt hảo",
+   "ex": "The hotel offered superb facilities.",
+   "exVi": "Khách sạn cung cấp các tiện nghi tuyệt hảo.",
+   "col": [
+    "superb",
+    "superb quality"
+   ]
+  },
+  {
+   "id": "da007",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "superior",
+   "ipa": "/suːˈpɪəriə/",
+   "pos": "adj",
+   "vi": "vượt trội",
+   "ex": "The product is superior to its rivals.",
+   "exVi": "Sản phẩm vượt trội hơn các đối thủ.",
+   "col": [
+    "superior",
+    "superior quality"
+   ]
+  },
+  {
+   "id": "da008",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "inferior",
+   "ipa": "/ɪnˈfɪəriə/",
+   "pos": "adj",
+   "vi": "kém hơn",
+   "ex": "The cheaper model felt inferior.",
+   "exVi": "Mẫu rẻ hơn có cảm giác kém hơn.",
+   "col": [
+    "inferior",
+    "inferior quality"
+   ]
+  },
+  {
+   "id": "da009",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "adequate",
+   "ipa": "/ˈædɪkwət/",
+   "pos": "adj",
+   "vi": "đủ dùng",
+   "ex": "The budget was adequate for the task.",
+   "exVi": "Ngân sách đủ dùng cho nhiệm vụ.",
+   "col": [
+    "adequate",
+    "adequate funding"
+   ]
+  },
+  {
+   "id": "da010",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "inadequate",
+   "ipa": "/ɪnˈædɪkwət/",
+   "pos": "adj",
+   "vi": "không đủ",
+   "ex": "The old system proved inadequate.",
+   "exVi": "Hệ thống cũ tỏ ra không đủ.",
+   "col": [
+    "inadequate",
+    "inadequate support"
+   ]
+  },
+  {
+   "id": "da011",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "satisfactory",
+   "ipa": "/ˌsætɪsˈfæktri/",
+   "pos": "adj",
+   "vi": "thoả đáng",
+   "ex": "The result was satisfactory to all.",
+   "exVi": "Kết quả thoả đáng với mọi người.",
+   "col": [
+    "satisfactory",
+    "a satisfactory outcome"
+   ]
+  },
+  {
+   "id": "da012",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "disappointing",
+   "ipa": "/ˌdɪsəˈpɔɪntɪŋ/",
+   "pos": "adj",
+   "vi": "đáng thất vọng",
+   "ex": "The sales figures were disappointing.",
+   "exVi": "Các con số doanh số đáng thất vọng.",
+   "col": [
+    "disappointing",
+    "a disappointing result"
+   ]
+  },
+  {
+   "id": "da013",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "promising",
+   "ipa": "/ˈprɒmɪsɪŋ/",
+   "pos": "adj",
+   "vi": "hứa hẹn",
+   "ex": "The early results look promising.",
+   "exVi": "Kết quả ban đầu trông hứa hẹn.",
+   "col": [
+    "promising",
+    "a promising start"
+   ]
+  },
+  {
+   "id": "da014",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "encouraging",
+   "ipa": "/ɪnˈkʌrɪdʒɪŋ/",
+   "pos": "adj",
+   "vi": "đáng khích lệ",
+   "ex": "The feedback was very encouraging.",
+   "exVi": "Phản hồi rất đáng khích lệ.",
+   "col": [
+    "encouraging",
+    "an encouraging sign"
+   ]
+  },
+  {
+   "id": "da015",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "favorable",
+   "ipa": "/ˈfeɪvərəbl/",
+   "pos": "adj",
+   "vi": "thuận lợi",
+   "ex": "The deal was made on favorable terms.",
+   "exVi": "Thoả thuận được thực hiện với điều khoản thuận lợi.",
+   "col": [
+    "favorable",
+    "favorable conditions"
+   ]
+  },
+  {
+   "id": "da016",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "unfavorable",
+   "ipa": "/ʌnˈfeɪvərəbl/",
+   "pos": "adj",
+   "vi": "bất lợi",
+   "ex": "The weather was unfavorable for the event.",
+   "exVi": "Thời tiết bất lợi cho sự kiện.",
+   "col": [
+    "unfavorable",
+    "unfavorable terms"
+   ]
+  },
+  {
+   "id": "da017",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "beneficial",
+   "ipa": "/ˌbenɪˈfɪʃl/",
+   "pos": "adj",
+   "vi": "có lợi",
+   "ex": "The change was beneficial to all staff.",
+   "exVi": "Sự thay đổi có lợi cho toàn bộ nhân viên.",
+   "col": [
+    "beneficial",
+    "mutually beneficial"
+   ]
+  },
+  {
+   "id": "da018",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "detrimental",
+   "ipa": "/ˌdetrɪˈmentl/",
+   "pos": "adj",
+   "vi": "có hại",
+   "ex": "Delays were detrimental to the plan.",
+   "exVi": "Chậm trễ có hại cho kế hoạch.",
+   "col": [
+    "detrimental",
+    "detrimental to"
+   ]
+  },
+  {
+   "id": "da019",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "significant",
+   "ipa": "/sɪɡˈnɪfɪkənt/",
+   "pos": "adj",
+   "vi": "đáng kể",
+   "ex": "There was a significant improvement.",
+   "exVi": "Có một sự cải thiện đáng kể.",
+   "col": [
+    "significant",
+    "a significant change"
+   ]
+  },
+  {
+   "id": "da020",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "negligible",
+   "ipa": "/ˈneɡlɪdʒəbl/",
+   "pos": "adj",
+   "vi": "không đáng kể",
+   "ex": "The cost increase was negligible.",
+   "exVi": "Mức tăng chi phí không đáng kể.",
+   "col": [
+    "negligible",
+    "a negligible amount"
+   ]
+  },
+  {
+   "id": "da021",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "substantial",
+   "ipa": "/səbˈstænʃl/",
+   "pos": "adj",
+   "vi": "lớn, đáng kể",
+   "ex": "The firm made a substantial profit.",
+   "exVi": "Công ty đạt một lợi nhuận đáng kể.",
+   "col": [
+    "substantial",
+    "a substantial gain"
+   ]
+  },
+  {
+   "id": "da022",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "minimal",
+   "ipa": "/ˈmɪnɪml/",
+   "pos": "adj",
+   "vi": "tối thiểu",
+   "ex": "The change caused minimal disruption.",
+   "exVi": "Sự thay đổi gây gián đoạn tối thiểu.",
+   "col": [
+    "minimal",
+    "minimal impact"
+   ]
+  },
+  {
+   "id": "da023",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "extensive",
+   "ipa": "/ɪkˈstensɪv/",
+   "pos": "adj",
+   "vi": "sâu rộng",
+   "ex": "The project required extensive research.",
+   "exVi": "Dự án đòi hỏi nghiên cứu sâu rộng.",
+   "col": [
+    "extensive",
+    "extensive experience"
+   ]
+  },
+  {
+   "id": "da024",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "limited",
+   "ipa": "/ˈlɪmɪtɪd/",
+   "pos": "adj",
+   "vi": "hạn chế",
+   "ex": "The offer is available for a limited time.",
+   "exVi": "Ưu đãi có sẵn trong thời gian hạn chế.",
+   "col": [
+    "limited",
+    "limited stock"
+   ]
+  },
+  {
+   "id": "da025",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "thorough",
+   "ipa": "/ˈθʌrə/",
+   "pos": "adj",
+   "vi": "kỹ lưỡng",
+   "ex": "A thorough review found the fault.",
+   "exVi": "Một cuộc rà soát kỹ lưỡng tìm ra lỗi.",
+   "col": [
+    "thorough",
+    "a thorough check"
+   ]
+  },
+  {
+   "id": "da026",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "superficial",
+   "ipa": "/ˌsuːpəˈfɪʃl/",
+   "pos": "adj",
+   "vi": "hời hợt",
+   "ex": "A superficial check missed the error.",
+   "exVi": "Một cuộc kiểm tra hời hợt bỏ sót lỗi.",
+   "col": [
+    "superficial",
+    "a superficial review"
+   ]
+  },
+  {
+   "id": "da027",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "meticulous",
+   "ipa": "/məˈtɪkjələs/",
+   "pos": "adj",
+   "vi": "tỉ mỉ",
+   "ex": "The report was meticulous in detail.",
+   "exVi": "Báo cáo tỉ mỉ trong chi tiết.",
+   "col": [
+    "meticulous",
+    "meticulous work"
+   ]
+  },
+  {
+   "id": "da028",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "precise",
+   "ipa": "/prɪˈsaɪs/",
+   "pos": "adj",
+   "vi": "chính xác",
+   "ex": "The figures must be precise.",
+   "exVi": "Các con số phải chính xác.",
+   "col": [
+    "precise",
+    "precise data"
+   ]
+  },
+  {
+   "id": "da029",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "vague",
+   "ipa": "/veɪɡ/",
+   "pos": "adj",
+   "vi": "mơ hồ",
+   "ex": "The instructions were too vague.",
+   "exVi": "Các hướng dẫn quá mơ hồ.",
+   "col": [
+    "vague",
+    "a vague answer"
+   ]
+  },
+  {
+   "id": "da030",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "ambiguous",
+   "ipa": "/æmˈbɪɡjuəs/",
+   "pos": "adj",
+   "vi": "nước đôi",
+   "ex": "The clause was ambiguous and unclear.",
+   "exVi": "Điều khoản nước đôi và không rõ ràng.",
+   "col": [
+    "ambiguous",
+    "an ambiguous term"
+   ]
+  },
+  {
+   "id": "da031",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "straightforward",
+   "ipa": "/ˌstreɪtˈfɔːwəd/",
+   "pos": "adj",
+   "vi": "đơn giản, rõ ràng",
+   "ex": "The process is quick and straightforward.",
+   "exVi": "Quy trình nhanh và đơn giản.",
+   "col": [
+    "straightforward",
+    "a straightforward task"
+   ]
+  },
+  {
+   "id": "da032",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "complex",
+   "ipa": "/ˈkɒmpleks/",
+   "pos": "adj",
+   "vi": "phức tạp",
+   "ex": "The deal was highly complex.",
+   "exVi": "Thoả thuận rất phức tạp.",
+   "col": [
+    "complex",
+    "a complex issue"
+   ]
+  },
+  {
+   "id": "da033",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "efficient",
+   "ipa": "/ɪˈfɪʃnt/",
+   "pos": "adj",
+   "vi": "hiệu quả",
+   "ex": "An efficient system saves time.",
+   "exVi": "Một hệ thống hiệu quả tiết kiệm thời gian.",
+   "col": [
+    "efficient",
+    "highly efficient"
+   ]
+  },
+  {
+   "id": "da034",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "cumbersome",
+   "ipa": "/ˈkʌmbəsəm/",
+   "pos": "adj",
+   "vi": "cồng kềnh",
+   "ex": "The old process was cumbersome.",
+   "exVi": "Quy trình cũ cồng kềnh.",
+   "col": [
+    "cumbersome",
+    "a cumbersome system"
+   ]
+  },
+  {
+   "id": "da035",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "versatile",
+   "ipa": "/ˈvɜːsətaɪl/",
+   "pos": "adj",
+   "vi": "đa năng",
+   "ex": "The tool is versatile and reliable.",
+   "exVi": "Công cụ đa năng và đáng tin.",
+   "col": [
+    "versatile",
+    "a versatile tool"
+   ]
+  },
+  {
+   "id": "da036",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "obsolete",
+   "ipa": "/ˈɒbsəliːt/",
+   "pos": "adj",
+   "vi": "lỗi thời",
+   "ex": "The system is now obsolete.",
+   "exVi": "Hệ thống nay đã lỗi thời.",
+   "col": [
+    "obsolete",
+    "obsolete equipment"
+   ]
+  },
+  {
+   "id": "da037",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "innovative",
+   "ipa": "/ˈɪnəveɪtɪv/",
+   "pos": "adj",
+   "vi": "đổi mới",
+   "ex": "The firm took an innovative approach.",
+   "exVi": "Công ty có một cách tiếp cận đổi mới.",
+   "col": [
+    "innovative",
+    "an innovative design"
+   ]
+  },
+  {
+   "id": "da038",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "conventional",
+   "ipa": "/kənˈvenʃənl/",
+   "pos": "adj",
+   "vi": "truyền thống",
+   "ex": "The plant uses a conventional method.",
+   "exVi": "Nhà máy dùng một phương pháp truyền thống.",
+   "col": [
+    "conventional",
+    "a conventional approach"
+   ]
+  },
+  {
+   "id": "da039",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "feasible",
+   "ipa": "/ˈfiːzəbl/",
+   "pos": "adj",
+   "vi": "khả thi",
+   "ex": "The plan is feasible within budget.",
+   "exVi": "Kế hoạch khả thi trong ngân sách.",
+   "col": [
+    "feasible",
+    "a feasible option"
+   ]
+  },
+  {
+   "id": "da040",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "impractical",
+   "ipa": "/ɪmˈpræktɪkl/",
+   "pos": "adj",
+   "vi": "không thực tế",
+   "ex": "The idea proved impractical.",
+   "exVi": "Ý tưởng tỏ ra không thực tế.",
+   "col": [
+    "impractical",
+    "an impractical plan"
+   ]
+  },
+  {
+   "id": "da041",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "reliable",
+   "ipa": "/rɪˈlaɪəbl/",
+   "pos": "adj",
+   "vi": "đáng tin cậy",
+   "ex": "The supplier is fast and reliable.",
+   "exVi": "Nhà cung cấp nhanh và đáng tin cậy.",
+   "col": [
+    "reliable",
+    "a reliable partner"
+   ]
+  },
+  {
+   "id": "da042",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "dependable",
+   "ipa": "/dɪˈpendəbl/",
+   "pos": "adj",
+   "vi": "có thể trông cậy",
+   "ex": "The team is dependable under pressure.",
+   "exVi": "Nhóm có thể trông cậy dưới áp lực.",
+   "col": [
+    "dependable",
+    "a dependable worker"
+   ]
+  },
+  {
+   "id": "da043",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "trustworthy",
+   "ipa": "/ˈtrʌstwɜːði/",
+   "pos": "adj",
+   "vi": "đáng tin",
+   "ex": "The data comes from a trustworthy source.",
+   "exVi": "Dữ liệu đến từ một nguồn đáng tin.",
+   "col": [
+    "trustworthy",
+    "a trustworthy source"
+   ]
+  },
+  {
+   "id": "da044",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "competent",
+   "ipa": "/ˈkɒmpɪtənt/",
+   "pos": "adj",
+   "vi": "có năng lực",
+   "ex": "The staff are competent and well trained.",
+   "exVi": "Nhân viên có năng lực và được đào tạo tốt.",
+   "col": [
+    "competent",
+    "highly competent"
+   ]
+  },
+  {
+   "id": "da045",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "capable",
+   "ipa": "/ˈkeɪpəbl/",
+   "pos": "adj",
+   "vi": "có khả năng",
+   "ex": "The team is capable of handling the task.",
+   "exVi": "Nhóm có khả năng xử lý nhiệm vụ.",
+   "col": [
+    "capable",
+    "a capable team"
+   ]
+  },
+  {
+   "id": "da046",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "proficient",
+   "ipa": "/prəˈfɪʃnt/",
+   "pos": "adj",
+   "vi": "thành thạo",
+   "ex": "She is proficient in three languages.",
+   "exVi": "Bà thành thạo ba thứ tiếng.",
+   "col": [
+    "proficient",
+    "proficient in"
+   ]
+  },
+  {
+   "id": "da047",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "skilled",
+   "ipa": "/skɪld/",
+   "pos": "adj",
+   "vi": "lành nghề",
+   "ex": "The firm hires skilled workers.",
+   "exVi": "Công ty tuyển công nhân lành nghề.",
+   "col": [
+    "skilled",
+    "a skilled worker"
+   ]
+  },
+  {
+   "id": "da048",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "experienced",
+   "ipa": "/ɪkˈspɪəriənst/",
+   "pos": "adj",
+   "vi": "có kinh nghiệm",
+   "ex": "An experienced guide led the tour.",
+   "exVi": "Một hướng dẫn viên có kinh nghiệm dẫn chuyến đi.",
+   "col": [
+    "experienced",
+    "an experienced staff"
+   ]
+  },
+  {
+   "id": "da049",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "diligent",
+   "ipa": "/ˈdɪlɪdʒənt/",
+   "pos": "adj",
+   "vi": "cần mẫn",
+   "ex": "A diligent worker meets every deadline.",
+   "exVi": "Một người cần mẫn kịp mọi hạn.",
+   "col": [
+    "diligent",
+    "a diligent worker"
+   ]
+  },
+  {
+   "id": "da050",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "conscientious",
+   "ipa": "/ˌkɒnʃiˈenʃəs/",
+   "pos": "adj",
+   "vi": "tận tâm",
+   "ex": "The staff are conscientious and careful.",
+   "exVi": "Nhân viên tận tâm và cẩn thận.",
+   "col": [
+    "conscientious",
+    "a conscientious worker"
+   ]
+  },
+  {
+   "id": "da051",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "punctual",
+   "ipa": "/ˈpʌŋktʃuəl/",
+   "pos": "adj",
+   "vi": "đúng giờ",
+   "ex": "The service is fast and punctual.",
+   "exVi": "Dịch vụ nhanh và đúng giờ.",
+   "col": [
+    "punctual",
+    "always punctual"
+   ]
+  },
+  {
+   "id": "da052",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "courteous",
+   "ipa": "/ˈkɜːtiəs/",
+   "pos": "adj",
+   "vi": "lịch sự",
+   "ex": "The staff were courteous and helpful.",
+   "exVi": "Nhân viên lịch sự và hữu ích.",
+   "col": [
+    "courteous",
+    "courteous service"
+   ]
+  },
+  {
+   "id": "da053",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "attentive",
+   "ipa": "/əˈtentɪv/",
+   "pos": "adj",
+   "vi": "chu đáo",
+   "ex": "The waiter was attentive all evening.",
+   "exVi": "Người bồi bàn chu đáo cả tối.",
+   "col": [
+    "attentive",
+    "attentive service"
+   ]
+  },
+  {
+   "id": "da054",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "prompt",
+   "ipa": "/prɒmpt/",
+   "pos": "adj",
+   "vi": "nhanh chóng",
+   "ex": "The reply was prompt and clear.",
+   "exVi": "Câu trả lời nhanh chóng và rõ ràng.",
+   "col": [
+    "prompt",
+    "a prompt reply"
+   ]
+  },
+  {
+   "id": "da055",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "responsive",
+   "ipa": "/rɪˈspɒnsɪv/",
+   "pos": "adj",
+   "vi": "phản hồi nhanh",
+   "ex": "The team is responsive to feedback.",
+   "exVi": "Nhóm phản hồi nhanh với góp ý.",
+   "col": [
+    "responsive",
+    "highly responsive"
+   ]
+  },
+  {
+   "id": "da056",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "accommodating",
+   "ipa": "/əˈkɒmədeɪtɪŋ/",
+   "pos": "adj",
+   "vi": "dễ chịu, sẵn lòng giúp",
+   "ex": "The staff were very accommodating.",
+   "exVi": "Nhân viên rất sẵn lòng giúp.",
+   "col": [
+    "accommodating",
+    "an accommodating host"
+   ]
+  },
+  {
+   "id": "da057",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "flexible",
+   "ipa": "/ˈfleksəbl/",
+   "pos": "adj",
+   "vi": "linh hoạt",
+   "ex": "The plan is flexible and easy to adjust.",
+   "exVi": "Kế hoạch linh hoạt và dễ điều chỉnh.",
+   "col": [
+    "flexible",
+    "flexible hours"
+   ]
+  },
+  {
+   "id": "da058",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "adaptable",
+   "ipa": "/əˈdæptəbl/",
+   "pos": "adj",
+   "vi": "dễ thích nghi",
+   "ex": "The team is adaptable to change.",
+   "exVi": "Nhóm dễ thích nghi với thay đổi.",
+   "col": [
+    "adaptable",
+    "an adaptable team"
+   ]
+  },
+  {
+   "id": "da059",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "resourceful",
+   "ipa": "/rɪˈsɔːsfl/",
+   "pos": "adj",
+   "vi": "tháo vát",
+   "ex": "A resourceful manager solved the issue.",
+   "exVi": "Một quản lý tháo vát giải quyết vấn đề.",
+   "col": [
+    "resourceful",
+    "a resourceful person"
+   ]
+  },
+  {
+   "id": "da060",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "prudent",
+   "ipa": "/ˈpruːdnt/",
+   "pos": "adj",
+   "vi": "thận trọng",
+   "ex": "A prudent plan avoided the risk.",
+   "exVi": "Một kế hoạch thận trọng tránh rủi ro.",
+   "col": [
+    "prudent",
+    "prudent management"
+   ]
+  },
+  {
+   "id": "da061",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "cautious",
+   "ipa": "/ˈkɔːʃəs/",
+   "pos": "adj",
+   "vi": "cẩn trọng",
+   "ex": "The firm took a cautious approach.",
+   "exVi": "Công ty có một cách tiếp cận cẩn trọng.",
+   "col": [
+    "cautious",
+    "a cautious approach"
+   ]
+  },
+  {
+   "id": "da062",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "decisive",
+   "ipa": "/dɪˈsaɪsɪv/",
+   "pos": "adj",
+   "vi": "quyết đoán",
+   "ex": "A decisive leader kept things moving.",
+   "exVi": "Một lãnh đạo quyết đoán giữ mọi thứ tiến triển.",
+   "col": [
+    "decisive",
+    "a decisive move"
+   ]
+  },
+  {
+   "id": "da063",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "proactive",
+   "ipa": "/prəʊˈæktɪv/",
+   "pos": "adj",
+   "vi": "chủ động",
+   "ex": "A proactive team spots risks early.",
+   "exVi": "Một nhóm chủ động phát hiện rủi ro sớm.",
+   "col": [
+    "proactive",
+    "a proactive approach"
+   ]
+  },
+  {
+   "id": "da064",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "reluctant",
+   "ipa": "/rɪˈlʌktənt/",
+   "pos": "adj",
+   "vi": "miễn cưỡng",
+   "ex": "Staff were reluctant to change tools.",
+   "exVi": "Nhân viên miễn cưỡng đổi công cụ.",
+   "col": [
+    "reluctant",
+    "reluctant to"
+   ]
+  },
+  {
+   "id": "da065",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "hesitant",
+   "ipa": "/ˈhezɪtənt/",
+   "pos": "adj",
+   "vi": "do dự",
+   "ex": "The board was hesitant about the cost.",
+   "exVi": "Hội đồng do dự về chi phí.",
+   "col": [
+    "hesitant",
+    "hesitant to act"
+   ]
+  },
+  {
+   "id": "da066",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "enthusiastic",
+   "ipa": "/ɪnˌθjuːziˈæstɪk/",
+   "pos": "adj",
+   "vi": "nhiệt tình",
+   "ex": "The team was enthusiastic about the plan.",
+   "exVi": "Nhóm nhiệt tình với kế hoạch.",
+   "col": [
+    "enthusiastic",
+    "enthusiastic support"
+   ]
+  },
+  {
+   "id": "da067",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "optimistic",
+   "ipa": "/ˌɒptɪˈmɪstɪk/",
+   "pos": "adj",
+   "vi": "lạc quan",
+   "ex": "Managers stayed optimistic about growth.",
+   "exVi": "Quản lý giữ lạc quan về tăng trưởng.",
+   "col": [
+    "optimistic",
+    "cautiously optimistic"
+   ]
+  },
+  {
+   "id": "da068",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "pessimistic",
+   "ipa": "/ˌpesɪˈmɪstɪk/",
+   "pos": "adj",
+   "vi": "bi quan",
+   "ex": "Some analysts were pessimistic about sales.",
+   "exVi": "Vài chuyên gia bi quan về doanh số.",
+   "col": [
+    "pessimistic",
+    "a pessimistic view"
+   ]
+  },
+  {
+   "id": "da069",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "confident",
+   "ipa": "/ˈkɒnfɪdənt/",
+   "pos": "adj",
+   "vi": "tự tin",
+   "ex": "The firm is confident of a strong year.",
+   "exVi": "Công ty tự tin về một năm tốt.",
+   "col": [
+    "confident",
+    "confident of"
+   ]
+  },
+  {
+   "id": "da070",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "skeptical",
+   "ipa": "/ˈskeptɪkl/",
+   "pos": "adj",
+   "vi": "hoài nghi",
+   "ex": "Investors were skeptical of the claim.",
+   "exVi": "Nhà đầu tư hoài nghi về tuyên bố.",
+   "col": [
+    "skeptical",
+    "skeptical about"
+   ]
+  },
+  {
+   "id": "da071",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "lucrative",
+   "ipa": "/ˈluːkrətɪv/",
+   "pos": "adj",
+   "vi": "sinh lời",
+   "ex": "The venture proved highly lucrative.",
+   "exVi": "Dự án tỏ ra sinh lời cao.",
+   "col": [
+    "lucrative",
+    "a lucrative deal"
+   ]
+  },
+  {
+   "id": "da072",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "costly",
+   "ipa": "/ˈkɒstli/",
+   "pos": "adj",
+   "vi": "tốn kém",
+   "ex": "The delay was a costly mistake.",
+   "exVi": "Sự chậm trễ là một sai lầm tốn kém.",
+   "col": [
+    "costly",
+    "a costly error"
+   ]
+  },
+  {
+   "id": "da073",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "economical",
+   "ipa": "/ˌiːkəˈnɒmɪkl/",
+   "pos": "adj",
+   "vi": "tiết kiệm",
+   "ex": "The new model is more economical.",
+   "exVi": "Mẫu mới tiết kiệm hơn.",
+   "col": [
+    "economical",
+    "economical to run"
+   ]
+  },
+  {
+   "id": "da074",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "affordable",
+   "ipa": "/əˈfɔːdəbl/",
+   "pos": "adj",
+   "vi": "phải chăng",
+   "ex": "The plan offers affordable options.",
+   "exVi": "Kế hoạch cung cấp các lựa chọn phải chăng.",
+   "col": [
+    "affordable",
+    "affordable prices"
+   ]
+  },
+  {
+   "id": "da075",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "worthwhile",
+   "ipa": "/ˌwɜːθˈwaɪl/",
+   "pos": "adj",
+   "vi": "đáng giá",
+   "ex": "The training proved worthwhile.",
+   "exVi": "Buổi tập huấn tỏ ra đáng giá.",
+   "col": [
+    "worthwhile",
+    "a worthwhile effort"
+   ]
+  },
+  {
+   "id": "da076",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "valuable",
+   "ipa": "/ˈvæljuəbl/",
+   "pos": "adj",
+   "vi": "có giá trị",
+   "ex": "The feedback was valuable to the team.",
+   "exVi": "Phản hồi có giá trị với nhóm.",
+   "col": [
+    "valuable",
+    "a valuable lesson"
+   ]
+  },
+  {
+   "id": "da077",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "crucial",
+   "ipa": "/ˈkruːʃl/",
+   "pos": "adj",
+   "vi": "then chốt",
+   "ex": "The next step is crucial to the plan.",
+   "exVi": "Bước tiếp theo then chốt cho kế hoạch.",
+   "col": [
+    "crucial",
+    "a crucial role"
+   ]
+  },
+  {
+   "id": "da078",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "vital",
+   "ipa": "/ˈvaɪtl/",
+   "pos": "adj",
+   "vi": "thiết yếu",
+   "ex": "Timely delivery is vital to the firm.",
+   "exVi": "Giao hàng kịp thời thiết yếu với công ty.",
+   "col": [
+    "vital",
+    "a vital role"
+   ]
+  },
+  {
+   "id": "da079",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "essential",
+   "ipa": "/ɪˈsenʃl/",
+   "pos": "adj",
+   "vi": "cốt yếu",
+   "ex": "Good planning is essential for success.",
+   "exVi": "Lập kế hoạch tốt cốt yếu cho thành công.",
+   "col": [
+    "essential",
+    "essential for"
+   ]
+  },
+  {
+   "id": "da080",
+   "topic": "Tính từ miêu tả & đánh giá",
+   "w": "indispensable",
+   "ipa": "/ˌɪndɪˈspensəbl/",
+   "pos": "adj",
+   "vi": "không thể thiếu",
+   "ex": "The tool is now indispensable to the team.",
+   "exVi": "Công cụ nay không thể thiếu với nhóm.",
+   "col": [
+    "indispensable",
+    "indispensable to"
+   ]
+  }
+ ]
+}

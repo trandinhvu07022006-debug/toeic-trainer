@@ -1,0 +1,1223 @@
+{
+ "topic": "Sự kiện & hội nghị",
+ "words": [
+  {
+   "id": "ev001",
+   "topic": "Sự kiện & hội nghị",
+   "w": "conference",
+   "ipa": "/ˈkɒnfərəns/",
+   "pos": "n",
+   "vi": "hội nghị",
+   "ex": "The annual conference drew five hundred delegates.",
+   "exVi": "Hội nghị thường niên thu hút năm trăm đại biểu.",
+   "col": [
+    "a conference",
+    "an annual conference"
+   ]
+  },
+  {
+   "id": "ev002",
+   "topic": "Sự kiện & hội nghị",
+   "w": "convention",
+   "ipa": "/kənˈvenʃn/",
+   "pos": "n",
+   "vi": "đại hội",
+   "ex": "The industry convention is held every autumn.",
+   "exVi": "Đại hội ngành được tổ chức mỗi mùa thu.",
+   "col": [
+    "a convention",
+    "a trade convention"
+   ]
+  },
+  {
+   "id": "ev003",
+   "topic": "Sự kiện & hội nghị",
+   "w": "summit",
+   "ipa": "/ˈsʌmɪt/",
+   "pos": "n",
+   "vi": "hội nghị thượng đỉnh",
+   "ex": "Leaders met at the business summit in June.",
+   "exVi": "Các lãnh đạo gặp tại hội nghị thượng đỉnh kinh doanh vào tháng Sáu.",
+   "col": [
+    "a summit",
+    "a business summit"
+   ]
+  },
+  {
+   "id": "ev004",
+   "topic": "Sự kiện & hội nghị",
+   "w": "symposium",
+   "ipa": "/sɪmˈpəʊziəm/",
+   "pos": "n",
+   "vi": "hội thảo khoa học",
+   "ex": "The symposium gathered experts from ten countries.",
+   "exVi": "Hội thảo tập hợp chuyên gia từ mười nước.",
+   "col": [
+    "a symposium",
+    "an academic symposium"
+   ]
+  },
+  {
+   "id": "ev005",
+   "topic": "Sự kiện & hội nghị",
+   "w": "exhibition",
+   "ipa": "/ˌeksɪˈbɪʃn/",
+   "pos": "n",
+   "vi": "triển lãm",
+   "ex": "The exhibition showcased new products.",
+   "exVi": "Triển lãm giới thiệu các sản phẩm mới.",
+   "col": [
+    "an exhibition",
+    "a trade exhibition"
+   ]
+  },
+  {
+   "id": "ev006",
+   "topic": "Sự kiện & hội nghị",
+   "w": "expo",
+   "ipa": "/ˈekspəʊ/",
+   "pos": "n",
+   "vi": "hội chợ triển lãm",
+   "ex": "The tech expo runs for three days.",
+   "exVi": "Hội chợ công nghệ diễn ra trong ba ngày.",
+   "col": [
+    "a tech expo",
+    "a trade expo"
+   ]
+  },
+  {
+   "id": "ev007",
+   "topic": "Sự kiện & hội nghị",
+   "w": "trade show",
+   "ipa": "/treɪd ʃəʊ/",
+   "pos": "n",
+   "vi": "hội chợ thương mại",
+   "ex": "The firm launched a product at the trade show.",
+   "exVi": "Công ty ra mắt một sản phẩm tại hội chợ thương mại.",
+   "col": [
+    "a trade show",
+    "attend a trade show"
+   ]
+  },
+  {
+   "id": "ev008",
+   "topic": "Sự kiện & hội nghị",
+   "w": "venue",
+   "ipa": "/ˈvenjuː/",
+   "pos": "n",
+   "vi": "địa điểm tổ chức",
+   "ex": "The venue holds up to a thousand people.",
+   "exVi": "Địa điểm chứa được tới một nghìn người.",
+   "col": [
+    "a conference venue",
+    "choose a venue"
+   ]
+  },
+  {
+   "id": "ev009",
+   "topic": "Sự kiện & hội nghị",
+   "w": "delegate",
+   "ipa": "/ˈdelɪɡət/",
+   "pos": "n",
+   "vi": "đại biểu",
+   "ex": "Each delegate received a printed programme.",
+   "exVi": "Mỗi đại biểu nhận một chương trình in.",
+   "col": [
+    "a delegate",
+    "a conference delegate"
+   ]
+  },
+  {
+   "id": "ev010",
+   "topic": "Sự kiện & hội nghị",
+   "w": "attendee",
+   "ipa": "/ˌætenˈdiː/",
+   "pos": "n",
+   "vi": "người tham dự",
+   "ex": "Attendees registered at the front desk.",
+   "exVi": "Người tham dự đăng ký tại quầy lễ tân.",
+   "col": [
+    "an attendee",
+    "register attendees"
+   ]
+  },
+  {
+   "id": "ev011",
+   "topic": "Sự kiện & hội nghị",
+   "w": "participant",
+   "ipa": "/pɑːˈtɪsɪpənt/",
+   "pos": "n",
+   "vi": "người tham gia",
+   "ex": "Participants joined the afternoon workshops.",
+   "exVi": "Người tham gia dự các buổi thực hành buổi chiều.",
+   "col": [
+    "a participant",
+    "an active participant"
+   ]
+  },
+  {
+   "id": "ev012",
+   "topic": "Sự kiện & hội nghị",
+   "w": "speaker",
+   "ipa": "/ˈspiːkə/",
+   "pos": "n",
+   "vi": "diễn giả",
+   "ex": "The keynote speaker opened the event.",
+   "exVi": "Diễn giả chính khai mạc sự kiện.",
+   "col": [
+    "a keynote speaker",
+    "a guest speaker"
+   ]
+  },
+  {
+   "id": "ev013",
+   "topic": "Sự kiện & hội nghị",
+   "w": "keynote",
+   "ipa": "/ˈkiːnəʊt/",
+   "pos": "n",
+   "vi": "bài phát biểu chính",
+   "ex": "The keynote set the theme for the day.",
+   "exVi": "Bài phát biểu chính đặt chủ đề cho cả ngày.",
+   "col": [
+    "a keynote",
+    "a keynote address"
+   ]
+  },
+  {
+   "id": "ev014",
+   "topic": "Sự kiện & hội nghị",
+   "w": "panel",
+   "ipa": "/ˈpænl/",
+   "pos": "n",
+   "vi": "ban thảo luận",
+   "ex": "A panel of experts answered questions.",
+   "exVi": "Một ban chuyên gia trả lời câu hỏi.",
+   "col": [
+    "a panel",
+    "a discussion panel"
+   ]
+  },
+  {
+   "id": "ev015",
+   "topic": "Sự kiện & hội nghị",
+   "w": "session",
+   "ipa": "/ˈseʃn/",
+   "pos": "n",
+   "vi": "phiên",
+   "ex": "The morning session covered new regulations.",
+   "exVi": "Phiên buổi sáng bàn về các quy định mới.",
+   "col": [
+    "a session",
+    "a breakout session"
+   ]
+  },
+  {
+   "id": "ev016",
+   "topic": "Sự kiện & hội nghị",
+   "w": "agenda",
+   "ipa": "/əˈdʒendə/",
+   "pos": "n",
+   "vi": "chương trình nghị sự",
+   "ex": "The agenda lists every talk and break.",
+   "exVi": "Chương trình nghị sự liệt kê mọi bài nói và giờ nghỉ.",
+   "col": [
+    "an agenda",
+    "a full agenda"
+   ]
+  },
+  {
+   "id": "ev017",
+   "topic": "Sự kiện & hội nghị",
+   "w": "program",
+   "ipa": "/ˈprəʊɡræm/",
+   "pos": "n",
+   "vi": "chương trình",
+   "ex": "The program runs from nine until five.",
+   "exVi": "Chương trình diễn ra từ chín tới năm giờ.",
+   "col": [
+    "an event program",
+    "a full program"
+   ]
+  },
+  {
+   "id": "ev018",
+   "topic": "Sự kiện & hội nghị",
+   "w": "schedule",
+   "ipa": "/ˈʃedjuːl/",
+   "pos": "n",
+   "vi": "lịch trình",
+   "ex": "The schedule was printed in the handbook.",
+   "exVi": "Lịch trình được in trong sổ tay.",
+   "col": [
+    "a schedule",
+    "a busy schedule"
+   ]
+  },
+  {
+   "id": "ev019",
+   "topic": "Sự kiện & hội nghị",
+   "w": "registration",
+   "ipa": "/ˌredʒɪˈstreɪʃn/",
+   "pos": "n",
+   "vi": "việc đăng ký",
+   "ex": "Registration opens two months in advance.",
+   "exVi": "Việc đăng ký mở trước hai tháng.",
+   "col": [
+    "registration",
+    "online registration"
+   ]
+  },
+  {
+   "id": "ev020",
+   "topic": "Sự kiện & hội nghị",
+   "w": "badge",
+   "ipa": "/bædʒ/",
+   "pos": "n",
+   "vi": "thẻ đeo",
+   "ex": "Every attendee wears a name badge.",
+   "exVi": "Mỗi người tham dự đeo một thẻ tên.",
+   "col": [
+    "a name badge",
+    "an event badge"
+   ]
+  },
+  {
+   "id": "ev021",
+   "topic": "Sự kiện & hội nghị",
+   "w": "lanyard",
+   "ipa": "/ˈlænjəd/",
+   "pos": "n",
+   "vi": "dây đeo thẻ",
+   "ex": "The badge hangs from a branded lanyard.",
+   "exVi": "Thẻ treo trên một dây đeo có in thương hiệu.",
+   "col": [
+    "a lanyard",
+    "a branded lanyard"
+   ]
+  },
+  {
+   "id": "ev022",
+   "topic": "Sự kiện & hội nghị",
+   "w": "booth",
+   "ipa": "/buːð/",
+   "pos": "n",
+   "vi": "gian hàng",
+   "ex": "The company set up a booth near the entrance.",
+   "exVi": "Công ty dựng một gian hàng gần lối vào.",
+   "col": [
+    "an exhibition booth",
+    "a display booth"
+   ]
+  },
+  {
+   "id": "ev023",
+   "topic": "Sự kiện & hội nghị",
+   "w": "stand",
+   "ipa": "/stænd/",
+   "pos": "n",
+   "vi": "quầy trưng bày",
+   "ex": "Visitors gathered around the new product stand.",
+   "exVi": "Khách tụ tập quanh quầy trưng bày sản phẩm mới.",
+   "col": [
+    "an exhibition stand",
+    "a display stand"
+   ]
+  },
+  {
+   "id": "ev024",
+   "topic": "Sự kiện & hội nghị",
+   "w": "exhibitor",
+   "ipa": "/ɪɡˈzɪbɪtə/",
+   "pos": "n",
+   "vi": "đơn vị triển lãm",
+   "ex": "Each exhibitor received a corner space.",
+   "exVi": "Mỗi đơn vị triển lãm nhận một khoảng góc.",
+   "col": [
+    "an exhibitor",
+    "a major exhibitor"
+   ]
+  },
+  {
+   "id": "ev025",
+   "topic": "Sự kiện & hội nghị",
+   "w": "sponsor",
+   "ipa": "/ˈspɒnsə/",
+   "pos": "n, v",
+   "vi": "nhà tài trợ",
+   "ex": "A bank sponsored the opening reception.",
+   "exVi": "Một ngân hàng tài trợ buổi tiệc khai mạc.",
+   "col": [
+    "a main sponsor",
+    "sponsor an event"
+   ]
+  },
+  {
+   "id": "ev026",
+   "topic": "Sự kiện & hội nghị",
+   "w": "sponsorship",
+   "ipa": "/ˈspɒnsəʃɪp/",
+   "pos": "n",
+   "vi": "sự tài trợ",
+   "ex": "Sponsorship covered most of the costs.",
+   "exVi": "Sự tài trợ chi trả phần lớn chi phí.",
+   "col": [
+    "sponsorship",
+    "seek sponsorship"
+   ]
+  },
+  {
+   "id": "ev027",
+   "topic": "Sự kiện & hội nghị",
+   "w": "networking",
+   "ipa": "/ˈnetwɜːkɪŋ/",
+   "pos": "n",
+   "vi": "việc kết nối, giao lưu",
+   "ex": "Networking sessions filled the lunch break.",
+   "exVi": "Các buổi giao lưu lấp đầy giờ nghỉ trưa.",
+   "col": [
+    "networking",
+    "a networking event"
+   ]
+  },
+  {
+   "id": "ev028",
+   "topic": "Sự kiện & hội nghị",
+   "w": "reception",
+   "ipa": "/rɪˈsepʃn/",
+   "pos": "n",
+   "vi": "tiệc chiêu đãi",
+   "ex": "A welcome reception opened the conference.",
+   "exVi": "Một tiệc chào mừng khai mạc hội nghị.",
+   "col": [
+    "a welcome reception",
+    "an evening reception"
+   ]
+  },
+  {
+   "id": "ev029",
+   "topic": "Sự kiện & hội nghị",
+   "w": "banquet",
+   "ipa": "/ˈbæŋkwɪt/",
+   "pos": "n",
+   "vi": "tiệc lớn",
+   "ex": "A gala banquet closed the event.",
+   "exVi": "Một bữa tiệc gala kết thúc sự kiện.",
+   "col": [
+    "a gala banquet",
+    "host a banquet"
+   ]
+  },
+  {
+   "id": "ev030",
+   "topic": "Sự kiện & hội nghị",
+   "w": "catering",
+   "ipa": "/ˈkeɪtərɪŋ/",
+   "pos": "n",
+   "vi": "dịch vụ ăn uống",
+   "ex": "Catering for the event was arranged in advance.",
+   "exVi": "Dịch vụ ăn uống cho sự kiện được sắp xếp trước.",
+   "col": [
+    "catering",
+    "event catering"
+   ]
+  },
+  {
+   "id": "ev031",
+   "topic": "Sự kiện & hội nghị",
+   "w": "refreshments",
+   "ipa": "/rɪˈfreʃmənts/",
+   "pos": "n",
+   "vi": "đồ ăn nhẹ",
+   "ex": "Refreshments are served during the break.",
+   "exVi": "Đồ ăn nhẹ được phục vụ trong giờ nghỉ.",
+   "col": [
+    "light refreshments",
+    "serve refreshments"
+   ]
+  },
+  {
+   "id": "ev032",
+   "topic": "Sự kiện & hội nghị",
+   "w": "handout",
+   "ipa": "/ˈhændaʊt/",
+   "pos": "n",
+   "vi": "tài liệu phát",
+   "ex": "Speakers provided a handout for each talk.",
+   "exVi": "Diễn giả cung cấp một tài liệu phát cho mỗi bài nói.",
+   "col": [
+    "a handout",
+    "a conference handout"
+   ]
+  },
+  {
+   "id": "ev033",
+   "topic": "Sự kiện & hội nghị",
+   "w": "brochure",
+   "ipa": "/ˈbrəʊʃə/",
+   "pos": "n",
+   "vi": "tờ giới thiệu",
+   "ex": "The brochure describes every exhibitor.",
+   "exVi": "Tờ giới thiệu mô tả mọi đơn vị triển lãm.",
+   "col": [
+    "a brochure",
+    "a glossy brochure"
+   ]
+  },
+  {
+   "id": "ev034",
+   "topic": "Sự kiện & hội nghị",
+   "w": "projector",
+   "ipa": "/prəˈdʒektə/",
+   "pos": "n",
+   "vi": "máy chiếu",
+   "ex": "Each room has a projector and screen.",
+   "exVi": "Mỗi phòng có một máy chiếu và màn hình.",
+   "col": [
+    "a projector",
+    "set up a projector"
+   ]
+  },
+  {
+   "id": "ev035",
+   "topic": "Sự kiện & hội nghị",
+   "w": "microphone",
+   "ipa": "/ˈmaɪkrəfəʊn/",
+   "pos": "n",
+   "vi": "micro",
+   "ex": "The speaker adjusted the microphone before starting.",
+   "exVi": "Diễn giả chỉnh micro trước khi bắt đầu.",
+   "col": [
+    "a microphone",
+    "a wireless microphone"
+   ]
+  },
+  {
+   "id": "ev036",
+   "topic": "Sự kiện & hội nghị",
+   "w": "audiovisual",
+   "ipa": "/ˌɔːdiəʊˈvɪʒuəl/",
+   "pos": "adj",
+   "vi": "nghe nhìn",
+   "ex": "The audiovisual team handled the setup.",
+   "exVi": "Đội nghe nhìn lo việc lắp đặt.",
+   "col": [
+    "audiovisual equipment",
+    "audiovisual support"
+   ]
+  },
+  {
+   "id": "ev037",
+   "topic": "Sự kiện & hội nghị",
+   "w": "organizer",
+   "ipa": "/ˈɔːɡənaɪzə/",
+   "pos": "n",
+   "vi": "nhà tổ chức",
+   "ex": "The organizer confirmed the final numbers.",
+   "exVi": "Nhà tổ chức xác nhận số lượng cuối.",
+   "col": [
+    "an event organizer",
+    "the main organizer"
+   ]
+  },
+  {
+   "id": "ev038",
+   "topic": "Sự kiện & hội nghị",
+   "w": "coordinator",
+   "ipa": "/kəʊˈɔːdɪneɪtə/",
+   "pos": "n",
+   "vi": "điều phối viên",
+   "ex": "The coordinator managed the whole schedule.",
+   "exVi": "Điều phối viên quản lý toàn bộ lịch trình.",
+   "col": [
+    "an event coordinator",
+    "a project coordinator"
+   ]
+  },
+  {
+   "id": "ev039",
+   "topic": "Sự kiện & hội nghị",
+   "w": "host",
+   "ipa": "/həʊst/",
+   "pos": "n",
+   "vi": "đơn vị đăng cai",
+   "ex": "The city was the host of the annual summit.",
+   "exVi": "Thành phố là đơn vị đăng cai hội nghị thường niên.",
+   "col": [
+    "a host",
+    "the host city"
+   ]
+  },
+  {
+   "id": "ev040",
+   "topic": "Sự kiện & hội nghị",
+   "w": "attendance",
+   "ipa": "/əˈtendəns/",
+   "pos": "n",
+   "vi": "số lượng người dự",
+   "ex": "Attendance was higher than last year.",
+   "exVi": "Số lượng người dự cao hơn năm ngoái.",
+   "col": [
+    "attendance",
+    "record attendance"
+   ]
+  },
+  {
+   "id": "ev041",
+   "topic": "Sự kiện & hội nghị",
+   "w": "turnout",
+   "ipa": "/ˈtɜːnaʊt/",
+   "pos": "n",
+   "vi": "lượng người tham gia",
+   "ex": "The turnout exceeded all expectations.",
+   "exVi": "Lượng người tham gia vượt mọi kỳ vọng.",
+   "col": [
+    "a good turnout",
+    "a large turnout"
+   ]
+  },
+  {
+   "id": "ev042",
+   "topic": "Sự kiện & hội nghị",
+   "w": "keynote address",
+   "ipa": "/ˈkiːnəʊt əˈdres/",
+   "pos": "n",
+   "vi": "bài diễn văn khai mạc",
+   "ex": "The keynote address inspired the audience.",
+   "exVi": "Bài diễn văn khai mạc truyền cảm hứng cho khán giả.",
+   "col": [
+    "a keynote address",
+    "deliver a keynote address"
+   ]
+  },
+  {
+   "id": "ev043",
+   "topic": "Sự kiện & hội nghị",
+   "w": "RSVP",
+   "ipa": "/ˌɑːr es viː ˈpiː/",
+   "pos": "v",
+   "vi": "xác nhận tham dự",
+   "ex": "Please RSVP before the end of the week.",
+   "exVi": "Vui lòng xác nhận tham dự trước cuối tuần.",
+   "col": [
+    "RSVP",
+    "RSVP by email"
+   ]
+  },
+  {
+   "id": "ev044",
+   "topic": "Sự kiện & hội nghị",
+   "w": "itinerary",
+   "ipa": "/aɪˈtɪnərəri/",
+   "pos": "n",
+   "vi": "lịch trình chi tiết",
+   "ex": "The itinerary includes a tour of the city.",
+   "exVi": "Lịch trình chi tiết bao gồm một chuyến tham quan thành phố.",
+   "col": [
+    "an itinerary",
+    "a detailed itinerary"
+   ]
+  },
+  {
+   "id": "ev045",
+   "topic": "Sự kiện & hội nghị",
+   "w": "opening",
+   "ipa": "/ˈəʊpnɪŋ/",
+   "pos": "n",
+   "vi": "lễ khai mạc",
+   "ex": "The opening began with a short speech.",
+   "exVi": "Lễ khai mạc bắt đầu bằng một bài phát biểu ngắn.",
+   "col": [
+    "an opening",
+    "a grand opening"
+   ]
+  },
+  {
+   "id": "ev046",
+   "topic": "Sự kiện & hội nghị",
+   "w": "closing",
+   "ipa": "/ˈkləʊzɪŋ/",
+   "pos": "n",
+   "vi": "lễ bế mạc",
+   "ex": "The closing thanked all the sponsors.",
+   "exVi": "Lễ bế mạc cảm ơn mọi nhà tài trợ.",
+   "col": [
+    "a closing",
+    "a closing ceremony"
+   ]
+  },
+  {
+   "id": "ev047",
+   "topic": "Sự kiện & hội nghị",
+   "w": "ceremony",
+   "ipa": "/ˈserəməni/",
+   "pos": "n",
+   "vi": "nghi lễ",
+   "ex": "An award ceremony followed the dinner.",
+   "exVi": "Một nghi lễ trao giải theo sau bữa tối.",
+   "col": [
+    "a ceremony",
+    "an award ceremony"
+   ]
+  },
+  {
+   "id": "ev048",
+   "topic": "Sự kiện & hội nghị",
+   "w": "address",
+   "ipa": "/əˈdres/",
+   "pos": "n",
+   "vi": "bài diễn văn",
+   "ex": "The chairman gave a short address.",
+   "exVi": "Chủ tịch đọc một bài diễn văn ngắn.",
+   "col": [
+    "an address",
+    "a welcome address"
+   ]
+  },
+  {
+   "id": "ev049",
+   "topic": "Sự kiện & hội nghị",
+   "w": "presentation",
+   "ipa": "/ˌpreznˈteɪʃn/",
+   "pos": "n",
+   "vi": "bài thuyết trình",
+   "ex": "Her presentation used clear slides.",
+   "exVi": "Bài thuyết trình của bà dùng các slide rõ ràng.",
+   "col": [
+    "a presentation",
+    "give a presentation"
+   ]
+  },
+  {
+   "id": "ev050",
+   "topic": "Sự kiện & hội nghị",
+   "w": "demonstration",
+   "ipa": "/ˌdemənˈstreɪʃn/",
+   "pos": "n",
+   "vi": "buổi trình diễn",
+   "ex": "A live demonstration showed the product in use.",
+   "exVi": "Một buổi trình diễn trực tiếp cho thấy sản phẩm khi dùng.",
+   "col": [
+    "a demonstration",
+    "a live demonstration"
+   ]
+  },
+  {
+   "id": "ev051",
+   "topic": "Sự kiện & hội nghị",
+   "w": "breakout",
+   "ipa": "/ˈbreɪkaʊt/",
+   "pos": "n",
+   "vi": "nhóm thảo luận nhỏ",
+   "ex": "Breakout groups met in separate rooms.",
+   "exVi": "Các nhóm thảo luận nhỏ họp ở các phòng riêng.",
+   "col": [
+    "a breakout session",
+    "a breakout room"
+   ]
+  },
+  {
+   "id": "ev052",
+   "topic": "Sự kiện & hội nghị",
+   "w": "plenary",
+   "ipa": "/ˈpliːnəri/",
+   "pos": "adj",
+   "vi": "toàn thể",
+   "ex": "The plenary session opened the second day.",
+   "exVi": "Phiên toàn thể khai mạc ngày thứ hai.",
+   "col": [
+    "a plenary session",
+    "the plenary hall"
+   ]
+  },
+  {
+   "id": "ev053",
+   "topic": "Sự kiện & hội nghị",
+   "w": "roundtable",
+   "ipa": "/ˈraʊndteɪbl/",
+   "pos": "n",
+   "vi": "bàn tròn thảo luận",
+   "ex": "A roundtable discussed the new policy.",
+   "exVi": "Một bàn tròn thảo luận chính sách mới.",
+   "col": [
+    "a roundtable",
+    "a roundtable discussion"
+   ]
+  },
+  {
+   "id": "ev054",
+   "topic": "Sự kiện & hội nghị",
+   "w": "moderator",
+   "ipa": "/ˈmɒdəreɪtə/",
+   "pos": "n",
+   "vi": "người điều phối",
+   "ex": "The moderator kept the debate on time.",
+   "exVi": "Người điều phối giữ cuộc tranh luận đúng giờ.",
+   "col": [
+    "a moderator",
+    "a panel moderator"
+   ]
+  },
+  {
+   "id": "ev055",
+   "topic": "Sự kiện & hội nghị",
+   "w": "facilitator",
+   "ipa": "/fəˈsɪlɪteɪtə/",
+   "pos": "n",
+   "vi": "người dẫn dắt",
+   "ex": "A facilitator guided the group activity.",
+   "exVi": "Một người dẫn dắt hướng dẫn hoạt động nhóm.",
+   "col": [
+    "a facilitator",
+    "a workshop facilitator"
+   ]
+  },
+  {
+   "id": "ev056",
+   "topic": "Sự kiện & hội nghị",
+   "w": "attend",
+   "ipa": "/əˈtend/",
+   "pos": "v",
+   "vi": "tham dự",
+   "ex": "Over three hundred people attended the launch.",
+   "exVi": "Hơn ba trăm người tham dự buổi ra mắt.",
+   "col": [
+    "attend an event",
+    "attend a conference"
+   ]
+  },
+  {
+   "id": "ev057",
+   "topic": "Sự kiện & hội nghị",
+   "w": "register",
+   "ipa": "/ˈredʒɪstə/",
+   "pos": "v",
+   "vi": "đăng ký",
+   "ex": "Guests must register before the deadline.",
+   "exVi": "Khách phải đăng ký trước hạn chót.",
+   "col": [
+    "register for",
+    "register online"
+   ]
+  },
+  {
+   "id": "ev058",
+   "topic": "Sự kiện & hội nghị",
+   "w": "enroll",
+   "ipa": "/ɪnˈrəʊl/",
+   "pos": "v",
+   "vi": "ghi danh",
+   "ex": "Members can enroll for the workshop free.",
+   "exVi": "Thành viên có thể ghi danh buổi thực hành miễn phí.",
+   "col": [
+    "enroll in",
+    "enroll early"
+   ]
+  },
+  {
+   "id": "ev059",
+   "topic": "Sự kiện & hội nghị",
+   "w": "confirm",
+   "ipa": "/kənˈfɜːm/",
+   "pos": "v",
+   "vi": "xác nhận",
+   "ex": "Please confirm your seat by Friday.",
+   "exVi": "Vui lòng xác nhận chỗ của bạn trước thứ Sáu.",
+   "col": [
+    "confirm a booking",
+    "confirm attendance"
+   ]
+  },
+  {
+   "id": "ev060",
+   "topic": "Sự kiện & hội nghị",
+   "w": "host an event",
+   "ipa": "/həʊst ən ɪˈvent/",
+   "pos": "v",
+   "vi": "đăng cai sự kiện",
+   "ex": "The hotel will host an event next month.",
+   "exVi": "Khách sạn sẽ đăng cai một sự kiện tháng sau.",
+   "col": [
+    "host an event",
+    "host an event annually"
+   ]
+  },
+  {
+   "id": "ev061",
+   "topic": "Sự kiện & hội nghị",
+   "w": "convene",
+   "ipa": "/kənˈviːn/",
+   "pos": "v",
+   "vi": "triệu tập",
+   "ex": "The committee convened for the opening.",
+   "exVi": "Uỷ ban triệu tập cho lễ khai mạc.",
+   "col": [
+    "convene a meeting",
+    "convene a session"
+   ]
+  },
+  {
+   "id": "ev062",
+   "topic": "Sự kiện & hội nghị",
+   "w": "adjourn",
+   "ipa": "/əˈdʒɜːn/",
+   "pos": "v",
+   "vi": "tạm nghỉ",
+   "ex": "The session adjourned for lunch at noon.",
+   "exVi": "Phiên tạm nghỉ ăn trưa lúc trưa.",
+   "col": [
+    "adjourn a session",
+    "the meeting adjourned"
+   ]
+  },
+  {
+   "id": "ev063",
+   "topic": "Sự kiện & hội nghị",
+   "w": "reconvene",
+   "ipa": "/ˌriːkənˈviːn/",
+   "pos": "v",
+   "vi": "họp lại",
+   "ex": "The panel will reconvene after the break.",
+   "exVi": "Ban sẽ họp lại sau giờ nghỉ.",
+   "col": [
+    "reconvene after",
+    "reconvene later"
+   ]
+  },
+  {
+   "id": "ev064",
+   "topic": "Sự kiện & hội nghị",
+   "w": "showcase",
+   "ipa": "/ˈʃəʊkeɪs/",
+   "pos": "v",
+   "vi": "giới thiệu",
+   "ex": "The expo showcases new technology each year.",
+   "exVi": "Hội chợ giới thiệu công nghệ mới mỗi năm.",
+   "col": [
+    "showcase a product",
+    "showcase talent"
+   ]
+  },
+  {
+   "id": "ev065",
+   "topic": "Sự kiện & hội nghị",
+   "w": "unveil",
+   "ipa": "/ʌnˈveɪl/",
+   "pos": "v",
+   "vi": "công bố",
+   "ex": "The firm unveiled its latest model at the show.",
+   "exVi": "Công ty công bố mẫu mới nhất tại triển lãm.",
+   "col": [
+    "unveil a product",
+    "unveil a plan"
+   ]
+  },
+  {
+   "id": "ev066",
+   "topic": "Sự kiện & hội nghị",
+   "w": "distribute",
+   "ipa": "/dɪˈstrɪbjuːt/",
+   "pos": "v",
+   "vi": "phát",
+   "ex": "Volunteers distribute programmes at the door.",
+   "exVi": "Tình nguyện viên phát chương trình tại cửa.",
+   "col": [
+    "distribute materials",
+    "distribute handouts"
+   ]
+  },
+  {
+   "id": "ev067",
+   "topic": "Sự kiện & hội nghị",
+   "w": "liaise",
+   "ipa": "/liˈeɪz/",
+   "pos": "v",
+   "vi": "phối hợp",
+   "ex": "The team liaised with the venue staff.",
+   "exVi": "Nhóm phối hợp với nhân viên địa điểm.",
+   "col": [
+    "liaise with",
+    "liaise closely"
+   ]
+  },
+  {
+   "id": "ev068",
+   "topic": "Sự kiện & hội nghị",
+   "w": "oversee",
+   "ipa": "/ˌəʊvəˈsiː/",
+   "pos": "v",
+   "vi": "giám sát",
+   "ex": "A manager oversees the whole setup.",
+   "exVi": "Một quản lý giám sát toàn bộ việc lắp đặt.",
+   "col": [
+    "oversee a project",
+    "oversee the setup"
+   ]
+  },
+  {
+   "id": "ev069",
+   "topic": "Sự kiện & hội nghị",
+   "w": "promotional",
+   "ipa": "/prəˈməʊʃənl/",
+   "pos": "adj",
+   "vi": "thuộc quảng bá",
+   "ex": "Promotional gifts were handed to every guest.",
+   "exVi": "Quà quảng bá được trao cho mỗi khách.",
+   "col": [
+    "promotional material",
+    "a promotional event"
+   ]
+  },
+  {
+   "id": "ev070",
+   "topic": "Sự kiện & hội nghị",
+   "w": "interactive",
+   "ipa": "/ˌɪntərˈæktɪv/",
+   "pos": "adj",
+   "vi": "tương tác",
+   "ex": "An interactive display drew a crowd.",
+   "exVi": "Một màn hình tương tác thu hút đám đông.",
+   "col": [
+    "an interactive display",
+    "interactive sessions"
+   ]
+  },
+  {
+   "id": "ev071",
+   "topic": "Sự kiện & hội nghị",
+   "w": "inaugural",
+   "ipa": "/ɪˈnɔːɡjərəl/",
+   "pos": "adj",
+   "vi": "khai mạc, đầu tiên",
+   "ex": "The inaugural event set a high standard.",
+   "exVi": "Sự kiện đầu tiên đặt một tiêu chuẩn cao.",
+   "col": [
+    "an inaugural event",
+    "the inaugural session"
+   ]
+  },
+  {
+   "id": "ev072",
+   "topic": "Sự kiện & hội nghị",
+   "w": "prestigious",
+   "ipa": "/preˈstɪdʒəs/",
+   "pos": "adj",
+   "vi": "danh giá",
+   "ex": "The prestigious award drew wide attention.",
+   "exVi": "Giải thưởng danh giá thu hút sự chú ý rộng rãi.",
+   "col": [
+    "a prestigious award",
+    "a prestigious event"
+   ]
+  },
+  {
+   "id": "ev073",
+   "topic": "Sự kiện & hội nghị",
+   "w": "well-attended",
+   "ipa": "/ˌwel əˈtendɪd/",
+   "pos": "adj",
+   "vi": "đông người dự",
+   "ex": "The seminar was well-attended this year.",
+   "exVi": "Hội thảo đông người dự năm nay.",
+   "col": [
+    "a well-attended event",
+    "well-attended sessions"
+   ]
+  },
+  {
+   "id": "ev074",
+   "topic": "Sự kiện & hội nghị",
+   "w": "complimentary",
+   "ipa": "/ˌkɒmplɪˈmentri/",
+   "pos": "adj",
+   "vi": "miễn phí",
+   "ex": "Complimentary drinks were served on arrival.",
+   "exVi": "Đồ uống miễn phí được phục vụ khi tới.",
+   "col": [
+    "a complimentary drink",
+    "complimentary access"
+   ]
+  },
+  {
+   "id": "ev075",
+   "topic": "Sự kiện & hội nghị",
+   "w": "scheduled",
+   "ipa": "/ˈʃedjuːld/",
+   "pos": "adj",
+   "vi": "đã lên lịch",
+   "ex": "The keynote is scheduled for ten o'clock.",
+   "exVi": "Bài phát biểu chính đã lên lịch lúc mười giờ.",
+   "col": [
+    "a scheduled talk",
+    "as scheduled"
+   ]
+  },
+  {
+   "id": "ev076",
+   "topic": "Sự kiện & hội nghị",
+   "w": "upcoming",
+   "ipa": "/ˈʌpkʌmɪŋ/",
+   "pos": "adj",
+   "vi": "sắp diễn ra",
+   "ex": "Details of the upcoming expo are online.",
+   "exVi": "Chi tiết về hội chợ sắp diễn ra có trên mạng.",
+   "col": [
+    "an upcoming event",
+    "the upcoming conference"
+   ]
+  },
+  {
+   "id": "ev077",
+   "topic": "Sự kiện & hội nghị",
+   "w": "delegation",
+   "ipa": "/ˌdelɪˈɡeɪʃn/",
+   "pos": "n",
+   "vi": "đoàn đại biểu",
+   "ex": "A delegation from three firms attended.",
+   "exVi": "Một đoàn đại biểu từ ba công ty tham dự.",
+   "col": [
+    "a delegation",
+    "a trade delegation"
+   ]
+  },
+  {
+   "id": "ev078",
+   "topic": "Sự kiện & hội nghị",
+   "w": "proceedings",
+   "ipa": "/prəˈsiːdɪŋz/",
+   "pos": "n",
+   "vi": "kỷ yếu, biên bản",
+   "ex": "The conference proceedings were published later.",
+   "exVi": "Kỷ yếu hội nghị được xuất bản sau đó.",
+   "col": [
+    "conference proceedings",
+    "publish the proceedings"
+   ]
+  },
+  {
+   "id": "ev079",
+   "topic": "Sự kiện & hội nghị",
+   "w": "setup",
+   "ipa": "/ˈsetʌp/",
+   "pos": "n",
+   "vi": "việc dàn dựng",
+   "ex": "The setup took the whole morning.",
+   "exVi": "Việc dàn dựng mất cả buổi sáng.",
+   "col": [
+    "the setup",
+    "event setup"
+   ]
+  },
+  {
+   "id": "ev080",
+   "topic": "Sự kiện & hội nghị",
+   "w": "teardown",
+   "ipa": "/ˈteədaʊn/",
+   "pos": "n",
+   "vi": "việc dỡ bỏ",
+   "ex": "Teardown began right after the closing.",
+   "exVi": "Việc dỡ bỏ bắt đầu ngay sau lễ bế mạc.",
+   "col": [
+    "teardown",
+    "the teardown crew"
+   ]
+  },
+  {
+   "id": "ev081",
+   "topic": "Sự kiện & hội nghị",
+   "w": "logistics",
+   "ipa": "/ləˈdʒɪstɪks/",
+   "pos": "n",
+   "vi": "hậu cần",
+   "ex": "Event logistics were handled by a specialist firm.",
+   "exVi": "Hậu cần sự kiện do một công ty chuyên môn lo.",
+   "col": [
+    "event logistics",
+    "handle logistics"
+   ]
+  },
+  {
+   "id": "ev082",
+   "topic": "Sự kiện & hội nghị",
+   "w": "capacity",
+   "ipa": "/kəˈpæsəti/",
+   "pos": "n",
+   "vi": "sức chứa",
+   "ex": "The hall reached full capacity by noon.",
+   "exVi": "Hội trường đạt sức chứa tối đa vào trưa.",
+   "col": [
+    "full capacity",
+    "seating capacity"
+   ]
+  },
+  {
+   "id": "ev083",
+   "topic": "Sự kiện & hội nghị",
+   "w": "livestream",
+   "ipa": "/ˈlaɪvstriːm/",
+   "pos": "n",
+   "vi": "phát trực tiếp",
+   "ex": "A livestream reached viewers who could not attend.",
+   "exVi": "Một buổi phát trực tiếp đến với người xem không thể dự.",
+   "col": [
+    "a livestream",
+    "watch a livestream"
+   ]
+  },
+  {
+   "id": "ev084",
+   "topic": "Sự kiện & hội nghị",
+   "w": "hybrid",
+   "ipa": "/ˈhaɪbrɪd/",
+   "pos": "adj",
+   "vi": "kết hợp trực tiếp và trực tuyến",
+   "ex": "The event ran in a hybrid format.",
+   "exVi": "Sự kiện diễn ra theo hình thức kết hợp.",
+   "col": [
+    "a hybrid event",
+    "a hybrid format"
+   ]
+  },
+  {
+   "id": "ev085",
+   "topic": "Sự kiện & hội nghị",
+   "w": "feedback form",
+   "ipa": "/ˈfiːdbæk fɔːm/",
+   "pos": "n",
+   "vi": "phiếu góp ý",
+   "ex": "A feedback form was sent after the event.",
+   "exVi": "Một phiếu góp ý được gửi sau sự kiện.",
+   "col": [
+    "a feedback form",
+    "complete a feedback form"
+   ]
+  },
+  {
+   "id": "ev086",
+   "topic": "Sự kiện & hội nghị",
+   "w": "raffle",
+   "ipa": "/ˈræfl/",
+   "pos": "n",
+   "vi": "xổ số vui",
+   "ex": "A raffle raised money for charity.",
+   "exVi": "Một buổi xổ số vui gây quỹ cho từ thiện.",
+   "col": [
+    "a raffle",
+    "a charity raffle"
+   ]
+  },
+  {
+   "id": "ev087",
+   "topic": "Sự kiện & hội nghị",
+   "w": "gala",
+   "ipa": "/ˈɡɑːlə/",
+   "pos": "n",
+   "vi": "dạ tiệc",
+   "ex": "The gala raised funds for the foundation.",
+   "exVi": "Dạ tiệc gây quỹ cho tổ chức.",
+   "col": [
+    "a gala",
+    "a charity gala"
+   ]
+  }
+ ]
+}

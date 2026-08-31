@@ -1,0 +1,929 @@
+{
+ "topic": "Cảm xúc & tính cách con người",
+ "words": [
+  {
+   "id": "ep001",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "cheerful",
+   "ipa": "/ˈtʃɪəfl/",
+   "pos": "adj",
+   "vi": "vui vẻ",
+   "ex": "A cheerful host welcomed the guests.",
+   "exVi": "Một chủ nhà vui vẻ chào đón khách.",
+   "col": [
+    "cheerful",
+    "a cheerful mood"
+   ]
+  },
+  {
+   "id": "ep002",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "gloomy",
+   "ipa": "/ˈɡluːmi/",
+   "pos": "adj",
+   "vi": "ủ rũ",
+   "ex": "He felt gloomy after the bad news.",
+   "exVi": "Ông cảm thấy ủ rũ sau tin xấu.",
+   "col": [
+    "gloomy",
+    "a gloomy mood"
+   ]
+  },
+  {
+   "id": "ep003",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "anxious",
+   "ipa": "/ˈæŋkʃəs/",
+   "pos": "adj",
+   "vi": "lo lắng",
+   "ex": "She felt anxious before the interview.",
+   "exVi": "Bà cảm thấy lo lắng trước buổi phỏng vấn.",
+   "col": [
+    "anxious",
+    "anxious about"
+   ]
+  },
+  {
+   "id": "ep004",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "relieved",
+   "ipa": "/rɪˈliːvd/",
+   "pos": "adj",
+   "vi": "nhẹ nhõm",
+   "ex": "He was relieved when the test ended.",
+   "exVi": "Ông nhẹ nhõm khi bài kiểm tra kết thúc.",
+   "col": [
+    "relieved",
+    "greatly relieved"
+   ]
+  },
+  {
+   "id": "ep005",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "content",
+   "ipa": "/kənˈtent/",
+   "pos": "adj",
+   "vi": "hài lòng",
+   "ex": "She felt content with the result.",
+   "exVi": "Bà cảm thấy hài lòng với kết quả.",
+   "col": [
+    "content",
+    "quite content"
+   ]
+  },
+  {
+   "id": "ep006",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "frustrated",
+   "ipa": "/frʌˈstreɪtɪd/",
+   "pos": "adj",
+   "vi": "bực bội",
+   "ex": "He grew frustrated with the delay.",
+   "exVi": "Ông trở nên bực bội với sự chậm trễ.",
+   "col": [
+    "frustrated",
+    "deeply frustrated"
+   ]
+  },
+  {
+   "id": "ep007",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "grateful",
+   "ipa": "/ˈɡreɪtfl/",
+   "pos": "adj",
+   "vi": "biết ơn",
+   "ex": "She was grateful for the help.",
+   "exVi": "Bà biết ơn vì sự giúp đỡ.",
+   "col": [
+    "grateful",
+    "deeply grateful"
+   ]
+  },
+  {
+   "id": "ep008",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "curious",
+   "ipa": "/ˈkjʊəriəs/",
+   "pos": "adj",
+   "vi": "tò mò",
+   "ex": "The child was curious about everything.",
+   "exVi": "Đứa trẻ tò mò về mọi thứ.",
+   "col": [
+    "curious",
+    "curious about"
+   ]
+  },
+  {
+   "id": "ep009",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "cautious",
+   "ipa": "/ˈkɔːʃəs/",
+   "pos": "adj",
+   "vi": "thận trọng",
+   "ex": "A cautious driver slows at the bend.",
+   "exVi": "Một tài xế thận trọng chậm lại ở khúc cua.",
+   "col": [
+    "cautious",
+    "a cautious person"
+   ]
+  },
+  {
+   "id": "ep010",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "generous",
+   "ipa": "/ˈdʒenərəs/",
+   "pos": "adj",
+   "vi": "hào phóng",
+   "ex": "A generous host shared the meal.",
+   "exVi": "Một chủ nhà hào phóng chia sẻ bữa ăn.",
+   "col": [
+    "generous",
+    "a generous gift"
+   ]
+  },
+  {
+   "id": "ep011",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "modest",
+   "ipa": "/ˈmɒdɪst/",
+   "pos": "adj",
+   "vi": "khiêm tốn",
+   "ex": "The winner stayed modest about it.",
+   "exVi": "Người thắng vẫn khiêm tốn về điều đó.",
+   "col": [
+    "modest",
+    "a modest person"
+   ]
+  },
+  {
+   "id": "ep012",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "sincere",
+   "ipa": "/sɪnˈsɪə/",
+   "pos": "adj",
+   "vi": "chân thành",
+   "ex": "A sincere apology mended the rift.",
+   "exVi": "Một lời xin lỗi chân thành hàn gắn rạn nứt.",
+   "col": [
+    "sincere",
+    "a sincere thank you"
+   ]
+  },
+  {
+   "id": "ep013",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "patient",
+   "ipa": "/ˈpeɪʃnt/",
+   "pos": "adj",
+   "vi": "kiên nhẫn",
+   "ex": "A patient teacher explained it twice.",
+   "exVi": "Một giáo viên kiên nhẫn giải thích hai lần.",
+   "col": [
+    "patient",
+    "a patient person"
+   ]
+  },
+  {
+   "id": "ep014",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "ambitious",
+   "ipa": "/æmˈbɪʃəs/",
+   "pos": "adj",
+   "vi": "đầy tham vọng",
+   "ex": "The ambitious student aimed high.",
+   "exVi": "Học sinh đầy tham vọng nhắm cao.",
+   "col": [
+    "ambitious",
+    "an ambitious plan"
+   ]
+  },
+  {
+   "id": "ep015",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "stubborn",
+   "ipa": "/ˈstʌbən/",
+   "pos": "adj",
+   "vi": "bướng bỉnh",
+   "ex": "The stubborn child refused to move.",
+   "exVi": "Đứa trẻ bướng bỉnh không chịu di chuyển.",
+   "col": [
+    "stubborn",
+    "a stubborn person"
+   ]
+  },
+  {
+   "id": "ep016",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "timid",
+   "ipa": "/ˈtɪmɪd/",
+   "pos": "adj",
+   "vi": "rụt rè",
+   "ex": "A timid speaker avoided the stage.",
+   "exVi": "Một diễn giả rụt rè tránh sân khấu.",
+   "col": [
+    "timid",
+    "a timid person"
+   ]
+  },
+  {
+   "id": "ep017",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "outgoing",
+   "ipa": "/ˌaʊtˈɡəʊɪŋ/",
+   "pos": "adj",
+   "vi": "hoà đồng",
+   "ex": "An outgoing host chatted with all.",
+   "exVi": "Một chủ nhà hoà đồng trò chuyện với tất cả.",
+   "col": [
+    "outgoing",
+    "an outgoing person"
+   ]
+  },
+  {
+   "id": "ep018",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "reserved",
+   "ipa": "/rɪˈzɜːvd/",
+   "pos": "adj",
+   "vi": "kín đáo",
+   "ex": "A reserved guest sat quietly.",
+   "exVi": "Một vị khách kín đáo ngồi lặng lẽ.",
+   "col": [
+    "reserved",
+    "a reserved manner"
+   ]
+  },
+  {
+   "id": "ep019",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "optimistic",
+   "ipa": "/ˌɒptɪˈmɪstɪk/",
+   "pos": "adj",
+   "vi": "lạc quan",
+   "ex": "She stayed optimistic about the future.",
+   "exVi": "Bà giữ lạc quan về tương lai.",
+   "col": [
+    "optimistic",
+    "an optimistic view"
+   ]
+  },
+  {
+   "id": "ep020",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "diligent",
+   "ipa": "/ˈdɪlɪdʒənt/",
+   "pos": "adj",
+   "vi": "siêng năng",
+   "ex": "A diligent worker never gives up.",
+   "exVi": "Một người siêng năng không bao giờ bỏ cuộc.",
+   "col": [
+    "diligent",
+    "a diligent student"
+   ]
+  },
+  {
+   "id": "ep021",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "compassionate",
+   "ipa": "/kəmˈpæʃənət/",
+   "pos": "adj",
+   "vi": "nhân ái",
+   "ex": "A compassionate nurse cared for all.",
+   "exVi": "Một y tá nhân ái chăm sóc mọi người.",
+   "col": [
+    "compassionate",
+    "a compassionate person"
+   ]
+  },
+  {
+   "id": "ep022",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "humble",
+   "ipa": "/ˈhʌmbl/",
+   "pos": "adj",
+   "vi": "khiêm nhường",
+   "ex": "The humble leader thanked the team.",
+   "exVi": "Lãnh đạo khiêm nhường cảm ơn nhóm.",
+   "col": [
+    "humble",
+    "a humble start"
+   ]
+  },
+  {
+   "id": "ep023",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "delighted",
+   "ipa": "/dɪˈlaɪtɪd/",
+   "pos": "adj",
+   "vi": "vui sướng",
+   "ex": "She was delighted with the surprise.",
+   "exVi": "Bà vui sướng với điều bất ngờ.",
+   "col": [
+    "delighted",
+    "delighted to help"
+   ]
+  },
+  {
+   "id": "ep024",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "nervous",
+   "ipa": "/ˈnɜːvəs/",
+   "pos": "adj",
+   "vi": "hồi hộp",
+   "ex": "He felt nervous before the speech.",
+   "exVi": "Ông cảm thấy hồi hộp trước bài phát biểu.",
+   "col": [
+    "nervous",
+    "a nervous smile"
+   ]
+  },
+  {
+   "id": "ep025",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "confident",
+   "ipa": "/ˈkɒnfɪdənt/",
+   "pos": "adj",
+   "vi": "tự tin",
+   "ex": "A confident speaker held the room.",
+   "exVi": "Một diễn giả tự tin giữ cả phòng.",
+   "col": [
+    "confident",
+    "a confident manner"
+   ]
+  },
+  {
+   "id": "ep026",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "enthusiastic",
+   "ipa": "/ɪnˌθjuːziˈæstɪk/",
+   "pos": "adj",
+   "vi": "hăng hái",
+   "ex": "The enthusiastic crowd cheered loudly.",
+   "exVi": "Đám đông hăng hái cổ vũ lớn.",
+   "col": [
+    "enthusiastic",
+    "an enthusiastic fan"
+   ]
+  },
+  {
+   "id": "ep027",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "courteous",
+   "ipa": "/ˈkɜːtiəs/",
+   "pos": "adj",
+   "vi": "nhã nhặn",
+   "ex": "A courteous reply pleased the client.",
+   "exVi": "Một câu trả lời nhã nhặn làm hài lòng khách.",
+   "col": [
+    "courteous",
+    "a courteous host"
+   ]
+  },
+  {
+   "id": "ep028",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "witty",
+   "ipa": "/ˈwɪti/",
+   "pos": "adj",
+   "vi": "hóm hỉnh",
+   "ex": "The witty host made everyone laugh.",
+   "exVi": "Người dẫn hóm hỉnh làm mọi người cười.",
+   "col": [
+    "witty",
+    "a witty remark"
+   ]
+  },
+  {
+   "id": "ep029",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "gracious",
+   "ipa": "/ˈɡreɪʃəs/",
+   "pos": "adj",
+   "vi": "lịch thiệp",
+   "ex": "A gracious host thanked each guest.",
+   "exVi": "Một chủ nhà lịch thiệp cảm ơn từng khách.",
+   "col": [
+    "gracious",
+    "a gracious host"
+   ]
+  },
+  {
+   "id": "ep030",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "tactful",
+   "ipa": "/ˈtæktfl/",
+   "pos": "adj",
+   "vi": "tế nhị",
+   "ex": "A tactful reply avoided the offense.",
+   "exVi": "Một câu trả lời tế nhị tránh sự xúc phạm.",
+   "col": [
+    "tactful",
+    "a tactful person"
+   ]
+  },
+  {
+   "id": "ep031",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "resentful",
+   "ipa": "/rɪˈzentfl/",
+   "pos": "adj",
+   "vi": "oán giận",
+   "ex": "He felt resentful about the change.",
+   "exVi": "Ông cảm thấy oán giận về sự thay đổi.",
+   "col": [
+    "resentful",
+    "resentful of"
+   ]
+  },
+  {
+   "id": "ep032",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "indifferent",
+   "ipa": "/ɪnˈdɪfrənt/",
+   "pos": "adj",
+   "vi": "thờ ơ",
+   "ex": "She seemed indifferent to the plan.",
+   "exVi": "Bà có vẻ thờ ơ với kế hoạch.",
+   "col": [
+    "indifferent",
+    "indifferent to"
+   ]
+  },
+  {
+   "id": "ep033",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "apprehensive",
+   "ipa": "/ˌæprɪˈhensɪv/",
+   "pos": "adj",
+   "vi": "e ngại",
+   "ex": "He was apprehensive about the move.",
+   "exVi": "Ông e ngại về việc chuyển đi.",
+   "col": [
+    "apprehensive",
+    "apprehensive about"
+   ]
+  },
+  {
+   "id": "ep034",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "weary",
+   "ipa": "/ˈwɪəri/",
+   "pos": "adj",
+   "vi": "mỏi mệt",
+   "ex": "She felt weary after the trip.",
+   "exVi": "Bà cảm thấy mỏi mệt sau chuyến đi.",
+   "col": [
+    "weary",
+    "weary of"
+   ]
+  },
+  {
+   "id": "ep035",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "elated",
+   "ipa": "/iˈleɪtɪd/",
+   "pos": "adj",
+   "vi": "hân hoan",
+   "ex": "The team was elated at the win.",
+   "exVi": "Cả nhóm hân hoan với chiến thắng.",
+   "col": [
+    "elated",
+    "elated by"
+   ]
+  },
+  {
+   "id": "ep036",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "composed",
+   "ipa": "/kəmˈpəʊzd/",
+   "pos": "adj",
+   "vi": "điềm tĩnh",
+   "ex": "She stayed composed under pressure.",
+   "exVi": "Bà giữ điềm tĩnh dưới áp lực.",
+   "col": [
+    "composed",
+    "calm and composed"
+   ]
+  },
+  {
+   "id": "ep037",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "irritable",
+   "ipa": "/ˈɪrɪtəbl/",
+   "pos": "adj",
+   "vi": "dễ cáu",
+   "ex": "He grew irritable when tired.",
+   "exVi": "Ông trở nên dễ cáu khi mệt.",
+   "col": [
+    "irritable",
+    "an irritable mood"
+   ]
+  },
+  {
+   "id": "ep038",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "affectionate",
+   "ipa": "/əˈfekʃənət/",
+   "pos": "adj",
+   "vi": "trìu mến",
+   "ex": "An affectionate greeting warmed the room.",
+   "exVi": "Một lời chào trìu mến làm ấm phòng.",
+   "col": [
+    "affectionate",
+    "an affectionate person"
+   ]
+  },
+  {
+   "id": "ep039",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "attentive",
+   "ipa": "/əˈtentɪv/",
+   "pos": "adj",
+   "vi": "chú tâm",
+   "ex": "An attentive listener nodded along.",
+   "exVi": "Một người nghe chú tâm gật gù.",
+   "col": [
+    "attentive",
+    "an attentive listener"
+   ]
+  },
+  {
+   "id": "ep040",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "hospitable",
+   "ipa": "/hɒˈspɪtəbl/",
+   "pos": "adj",
+   "vi": "hiếu khách",
+   "ex": "A hospitable family welcomed them warmly.",
+   "exVi": "Một gia đình hiếu khách chào đón họ nồng nhiệt.",
+   "col": [
+    "hospitable",
+    "a hospitable host"
+   ]
+  },
+  {
+   "id": "ep041",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "easygoing",
+   "ipa": "/ˌiːziˈɡəʊɪŋ/",
+   "pos": "adj",
+   "vi": "dễ tính",
+   "ex": "An easygoing manager rarely worries.",
+   "exVi": "Một quản lý dễ tính hiếm khi lo lắng.",
+   "col": [
+    "easygoing",
+    "an easygoing person"
+   ]
+  },
+  {
+   "id": "ep042",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "joyful",
+   "ipa": "/ˈdʒɔɪfl/",
+   "pos": "adj",
+   "vi": "hân hoan vui sướng",
+   "ex": "A joyful crowd filled the square.",
+   "exVi": "Một đám đông hân hoan lấp đầy quảng trường.",
+   "col": [
+    "joyful",
+    "a joyful occasion"
+   ]
+  },
+  {
+   "id": "ep043",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "sorrowful",
+   "ipa": "/ˈsɒrəʊfl/",
+   "pos": "adj",
+   "vi": "buồn bã",
+   "ex": "A sorrowful tune played softly.",
+   "exVi": "Một giai điệu buồn bã vang lên nhẹ nhàng.",
+   "col": [
+    "sorrowful",
+    "a sorrowful look"
+   ]
+  },
+  {
+   "id": "ep044",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "hopeful",
+   "ipa": "/ˈhəʊpfl/",
+   "pos": "adj",
+   "vi": "đầy hy vọng",
+   "ex": "The team felt hopeful about the plan.",
+   "exVi": "Cả nhóm cảm thấy đầy hy vọng về kế hoạch.",
+   "col": [
+    "hopeful",
+    "hopeful about"
+   ]
+  },
+  {
+   "id": "ep045",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "fearful",
+   "ipa": "/ˈfɪəfl/",
+   "pos": "adj",
+   "vi": "sợ hãi",
+   "ex": "A fearful look crossed her face.",
+   "exVi": "Một vẻ sợ hãi thoáng qua mặt bà.",
+   "col": [
+    "fearful",
+    "fearful of"
+   ]
+  },
+  {
+   "id": "ep046",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "peaceful",
+   "ipa": "/ˈpiːsfl/",
+   "pos": "adj",
+   "vi": "thanh thản",
+   "ex": "A peaceful mind rested at last.",
+   "exVi": "Một tâm trí thanh thản cuối cùng được nghỉ.",
+   "col": [
+    "peaceful",
+    "a peaceful feeling"
+   ]
+  },
+  {
+   "id": "ep047",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "restless",
+   "ipa": "/ˈrestləs/",
+   "pos": "adj",
+   "vi": "bồn chồn",
+   "ex": "He grew restless during the long wait.",
+   "exVi": "Ông trở nên bồn chồn trong lúc chờ lâu.",
+   "col": [
+    "restless",
+    "a restless night"
+   ]
+  },
+  {
+   "id": "ep048",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "thoughtful",
+   "ipa": "/ˈθɔːtfl/",
+   "pos": "adj",
+   "vi": "chu đáo",
+   "ex": "A thoughtful gift pleased her.",
+   "exVi": "Một món quà chu đáo làm bà hài lòng.",
+   "col": [
+    "thoughtful",
+    "a thoughtful gesture"
+   ]
+  },
+  {
+   "id": "ep049",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "considerate",
+   "ipa": "/kənˈsɪdərət/",
+   "pos": "adj",
+   "vi": "biết quan tâm",
+   "ex": "A considerate neighbor offered help.",
+   "exVi": "Một người hàng xóm biết quan tâm đề nghị giúp.",
+   "col": [
+    "considerate",
+    "a considerate person"
+   ]
+  },
+  {
+   "id": "ep050",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "loyal",
+   "ipa": "/ˈlɔɪəl/",
+   "pos": "adj",
+   "vi": "trung thành",
+   "ex": "A loyal friend stood by him.",
+   "exVi": "Một người bạn trung thành ở bên ông.",
+   "col": [
+    "loyal",
+    "a loyal friend"
+   ]
+  },
+  {
+   "id": "ep051",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "honest",
+   "ipa": "/ˈɒnɪst/",
+   "pos": "adj",
+   "vi": "trung thực",
+   "ex": "An honest reply cleared the doubt.",
+   "exVi": "Một câu trả lời trung thực xoá tan nghi ngờ.",
+   "col": [
+    "honest",
+    "an honest answer"
+   ]
+  },
+  {
+   "id": "ep052",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "polite",
+   "ipa": "/pəˈlaɪt/",
+   "pos": "adj",
+   "vi": "lịch sự",
+   "ex": "A polite guest thanked the host.",
+   "exVi": "Một vị khách lịch sự cảm ơn chủ nhà.",
+   "col": [
+    "polite",
+    "a polite reply"
+   ]
+  },
+  {
+   "id": "ep053",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "brave",
+   "ipa": "/breɪv/",
+   "pos": "adj",
+   "vi": "dũng cảm",
+   "ex": "A brave rescuer entered the fire.",
+   "exVi": "Một người cứu hộ dũng cảm lao vào đám cháy.",
+   "col": [
+    "brave",
+    "a brave act"
+   ]
+  },
+  {
+   "id": "ep054",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "calm",
+   "ipa": "/kɑːm/",
+   "pos": "adj",
+   "vi": "bình tĩnh",
+   "ex": "A calm voice settled the crowd.",
+   "exVi": "Một giọng nói bình tĩnh làm dịu đám đông.",
+   "col": [
+    "calm",
+    "stay calm"
+   ]
+  },
+  {
+   "id": "ep055",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "tense",
+   "ipa": "/tens/",
+   "pos": "adj",
+   "vi": "căng thẳng",
+   "ex": "The room felt tense before the result.",
+   "exVi": "Căn phòng căng thẳng trước kết quả.",
+   "col": [
+    "tense",
+    "a tense moment"
+   ]
+  },
+  {
+   "id": "ep056",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "warmhearted",
+   "ipa": "/ˌwɔːmˈhɑːtɪd/",
+   "pos": "adj",
+   "vi": "nhân hậu",
+   "ex": "A warmhearted teacher helped each child.",
+   "exVi": "Một giáo viên nhân hậu giúp từng em.",
+   "col": [
+    "warmhearted",
+    "a warmhearted person"
+   ]
+  },
+  {
+   "id": "ep057",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "lively",
+   "ipa": "/ˈlaɪvli/",
+   "pos": "adj",
+   "vi": "sôi nổi",
+   "ex": "A lively crowd filled the hall.",
+   "exVi": "Một đám đông sôi nổi lấp đầy hội trường.",
+   "col": [
+    "lively",
+    "a lively mood"
+   ]
+  },
+  {
+   "id": "ep058",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "serene",
+   "ipa": "/səˈriːn/",
+   "pos": "adj",
+   "vi": "thanh bình",
+   "ex": "A serene smile crossed her face.",
+   "exVi": "Một nụ cười thanh bình thoáng qua mặt bà.",
+   "col": [
+    "serene",
+    "a serene look"
+   ]
+  },
+  {
+   "id": "ep059",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "jealous",
+   "ipa": "/ˈdʒeləs/",
+   "pos": "adj",
+   "vi": "ghen tị",
+   "ex": "He felt jealous of her success.",
+   "exVi": "Ông cảm thấy ghen tị với thành công của bà.",
+   "col": [
+    "jealous",
+    "jealous of"
+   ]
+  },
+  {
+   "id": "ep060",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "sympathetic",
+   "ipa": "/ˌsɪmpəˈθetɪk/",
+   "pos": "adj",
+   "vi": "đồng cảm",
+   "ex": "A sympathetic friend listened quietly.",
+   "exVi": "Một người bạn đồng cảm lắng nghe lặng lẽ.",
+   "col": [
+    "sympathetic",
+    "a sympathetic ear"
+   ]
+  },
+  {
+   "id": "ep061",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "determined",
+   "ipa": "/dɪˈtɜːmɪnd/",
+   "pos": "adj",
+   "vi": "quyết tâm",
+   "ex": "A determined runner finished the race.",
+   "exVi": "Một vận động viên quyết tâm hoàn thành cuộc đua.",
+   "col": [
+    "determined",
+    "a determined effort"
+   ]
+  },
+  {
+   "id": "ep062",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "carefree",
+   "ipa": "/ˈkeəfriː/",
+   "pos": "adj",
+   "vi": "vô tư",
+   "ex": "A carefree child played in the park.",
+   "exVi": "Một đứa trẻ vô tư chơi trong công viên.",
+   "col": [
+    "carefree",
+    "a carefree day"
+   ]
+  },
+  {
+   "id": "ep063",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "melancholy",
+   "ipa": "/ˈmelənkəli/",
+   "pos": "adj",
+   "vi": "u sầu",
+   "ex": "A melancholy mood filled the room.",
+   "exVi": "Một tâm trạng u sầu tràn ngập căn phòng.",
+   "col": [
+    "melancholy",
+    "a melancholy tune"
+   ]
+  },
+  {
+   "id": "ep064",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "overjoyed",
+   "ipa": "/ˌəʊvəˈdʒɔɪd/",
+   "pos": "adj",
+   "vi": "vui mừng khôn xiết",
+   "ex": "She was overjoyed at the good news.",
+   "exVi": "Bà vui mừng khôn xiết với tin tốt.",
+   "col": [
+    "overjoyed",
+    "overjoyed at"
+   ]
+  },
+  {
+   "id": "ep065",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "disheartened",
+   "ipa": "/dɪsˈhɑːtnd/",
+   "pos": "adj",
+   "vi": "nản lòng",
+   "ex": "He felt disheartened by the loss.",
+   "exVi": "Ông cảm thấy nản lòng vì thất bại.",
+   "col": [
+    "disheartened",
+    "disheartened by"
+   ]
+  },
+  {
+   "id": "ep066",
+   "topic": "Cảm xúc & tính cách con người",
+   "w": "placid",
+   "ipa": "/ˈplæsɪd/",
+   "pos": "adj",
+   "vi": "điềm đạm",
+   "ex": "A placid manner kept the peace.",
+   "exVi": "Một thái độ điềm đạm giữ hoà khí.",
+   "col": [
+    "placid",
+    "a placid nature"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1125 @@
+{
+ "topic": "Danh từ trừu tượng học thuật",
+ "words": [
+  {
+   "id": "nn001",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "efficiency",
+   "ipa": "/ɪˈfɪʃnsi/",
+   "pos": "n",
+   "vi": "hiệu suất",
+   "ex": "The change brought a clear gain in efficiency.",
+   "exVi": "Sự thay đổi mang lại một lợi ích rõ về hiệu suất.",
+   "col": [
+    "efficiency",
+    "improve efficiency"
+   ]
+  },
+  {
+   "id": "nn002",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "productivity",
+   "ipa": "/ˌprɒdʌkˈtɪvəti/",
+   "pos": "n",
+   "vi": "năng suất",
+   "ex": "A calm office raised productivity.",
+   "exVi": "Một văn phòng yên tĩnh nâng năng suất.",
+   "col": [
+    "productivity",
+    "boost productivity"
+   ]
+  },
+  {
+   "id": "nn003",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "reliability",
+   "ipa": "/rɪˌlaɪəˈbɪləti/",
+   "pos": "n",
+   "vi": "độ tin cậy",
+   "ex": "The brand is known for its reliability.",
+   "exVi": "Thương hiệu nổi tiếng vì độ tin cậy.",
+   "col": [
+    "reliability",
+    "proven reliability"
+   ]
+  },
+  {
+   "id": "nn004",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "consistency",
+   "ipa": "/kənˈsɪstənsi/",
+   "pos": "n",
+   "vi": "tính nhất quán",
+   "ex": "Consistency in service builds trust.",
+   "exVi": "Tính nhất quán trong dịch vụ xây dựng niềm tin.",
+   "col": [
+    "consistency",
+    "maintain consistency"
+   ]
+  },
+  {
+   "id": "nn005",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "flexibility",
+   "ipa": "/ˌfleksəˈbɪləti/",
+   "pos": "n",
+   "vi": "tính linh hoạt",
+   "ex": "The plan allows real flexibility.",
+   "exVi": "Kế hoạch cho phép sự linh hoạt thực sự.",
+   "col": [
+    "flexibility",
+    "offer flexibility"
+   ]
+  },
+  {
+   "id": "nn006",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "accuracy",
+   "ipa": "/ˈækjərəsi/",
+   "pos": "n",
+   "vi": "độ chính xác",
+   "ex": "Accuracy matters in every report.",
+   "exVi": "Độ chính xác quan trọng trong mọi báo cáo.",
+   "col": [
+    "accuracy",
+    "check for accuracy"
+   ]
+  },
+  {
+   "id": "nn007",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "transparency",
+   "ipa": "/trænsˈpærənsi/",
+   "pos": "n",
+   "vi": "sự minh bạch",
+   "ex": "Transparency improves investor trust.",
+   "exVi": "Sự minh bạch cải thiện niềm tin của nhà đầu tư.",
+   "col": [
+    "transparency",
+    "financial transparency"
+   ]
+  },
+  {
+   "id": "nn008",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "accountability",
+   "ipa": "/əˌkaʊntəˈbɪləti/",
+   "pos": "n",
+   "vi": "trách nhiệm giải trình",
+   "ex": "Clear accountability speeds up decisions.",
+   "exVi": "Trách nhiệm giải trình rõ ràng tăng tốc quyết định.",
+   "col": [
+    "accountability",
+    "clear accountability"
+   ]
+  },
+  {
+   "id": "nn009",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "sustainability",
+   "ipa": "/səˌsteɪnəˈbɪləti/",
+   "pos": "n",
+   "vi": "tính bền vững",
+   "ex": "Sustainability guides the firm's strategy.",
+   "exVi": "Tính bền vững dẫn dắt chiến lược của công ty.",
+   "col": [
+    "sustainability",
+    "environmental sustainability"
+   ]
+  },
+  {
+   "id": "nn010",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "innovation",
+   "ipa": "/ˌɪnəˈveɪʃn/",
+   "pos": "n",
+   "vi": "sự đổi mới",
+   "ex": "Innovation keeps the firm ahead.",
+   "exVi": "Sự đổi mới giữ công ty dẫn đầu.",
+   "col": [
+    "innovation",
+    "drive innovation"
+   ]
+  },
+  {
+   "id": "nn011",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "initiative",
+   "ipa": "/ɪˈnɪʃətɪv/",
+   "pos": "n",
+   "vi": "sáng kiến, tính chủ động",
+   "ex": "She showed real initiative in the project.",
+   "exVi": "Bà thể hiện tính chủ động thực sự trong dự án.",
+   "col": [
+    "initiative",
+    "show initiative"
+   ]
+  },
+  {
+   "id": "nn012",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "diligence",
+   "ipa": "/ˈdɪlɪdʒəns/",
+   "pos": "n",
+   "vi": "sự cần mẫn",
+   "ex": "Her diligence earned wide praise.",
+   "exVi": "Sự cần mẫn của bà nhận nhiều lời khen.",
+   "col": [
+    "diligence",
+    "due diligence"
+   ]
+  },
+  {
+   "id": "nn013",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "integrity",
+   "ipa": "/ɪnˈteɡrəti/",
+   "pos": "n",
+   "vi": "sự chính trực",
+   "ex": "The firm values honesty and integrity.",
+   "exVi": "Công ty coi trọng sự trung thực và chính trực.",
+   "col": [
+    "integrity",
+    "personal integrity"
+   ]
+  },
+  {
+   "id": "nn014",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "credibility",
+   "ipa": "/ˌkredəˈbɪləti/",
+   "pos": "n",
+   "vi": "uy tín",
+   "ex": "Good results built the firm's credibility.",
+   "exVi": "Kết quả tốt xây dựng uy tín của công ty.",
+   "col": [
+    "credibility",
+    "gain credibility"
+   ]
+  },
+  {
+   "id": "nn015",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "feasibility",
+   "ipa": "/ˌfiːzəˈbɪləti/",
+   "pos": "n",
+   "vi": "tính khả thi",
+   "ex": "A study checked the feasibility of the plan.",
+   "exVi": "Một nghiên cứu kiểm tra tính khả thi của kế hoạch.",
+   "col": [
+    "feasibility",
+    "a feasibility study"
+   ]
+  },
+  {
+   "id": "nn016",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "viability",
+   "ipa": "/ˌvaɪəˈbɪləti/",
+   "pos": "n",
+   "vi": "khả năng tồn tại",
+   "ex": "The report questioned the project's viability.",
+   "exVi": "Báo cáo đặt câu hỏi về khả năng tồn tại của dự án.",
+   "col": [
+    "viability",
+    "commercial viability"
+   ]
+  },
+  {
+   "id": "nn017",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "capacity",
+   "ipa": "/kəˈpæsəti/",
+   "pos": "n",
+   "vi": "năng lực",
+   "ex": "The team lacked the capacity for extra work.",
+   "exVi": "Nhóm thiếu năng lực cho công việc thêm.",
+   "col": [
+    "capacity",
+    "full capacity"
+   ]
+  },
+  {
+   "id": "nn018",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "capability",
+   "ipa": "/ˌkeɪpəˈbɪləti/",
+   "pos": "n",
+   "vi": "khả năng",
+   "ex": "The tool has strong reporting capability.",
+   "exVi": "Công cụ có khả năng báo cáo mạnh.",
+   "col": [
+    "capability",
+    "a key capability"
+   ]
+  },
+  {
+   "id": "nn019",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "competence",
+   "ipa": "/ˈkɒmpɪtəns/",
+   "pos": "n",
+   "vi": "năng lực chuyên môn",
+   "ex": "The role requires technical competence.",
+   "exVi": "Vị trí đòi hỏi năng lực kỹ thuật.",
+   "col": [
+    "competence",
+    "technical competence"
+   ]
+  },
+  {
+   "id": "nn020",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "expertise",
+   "ipa": "/ˌekspɜːˈtiːz/",
+   "pos": "n",
+   "vi": "chuyên môn",
+   "ex": "The team brings deep expertise.",
+   "exVi": "Nhóm mang lại chuyên môn sâu.",
+   "col": [
+    "expertise",
+    "technical expertise"
+   ]
+  },
+  {
+   "id": "nn021",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "proficiency",
+   "ipa": "/prəˈfɪʃnsi/",
+   "pos": "n",
+   "vi": "sự thành thạo",
+   "ex": "Language proficiency is tested first.",
+   "exVi": "Sự thành thạo ngôn ngữ được kiểm tra trước.",
+   "col": [
+    "proficiency",
+    "language proficiency"
+   ]
+  },
+  {
+   "id": "nn022",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "awareness",
+   "ipa": "/əˈweənəs/",
+   "pos": "n",
+   "vi": "sự nhận thức",
+   "ex": "Safety awareness reduced the accidents.",
+   "exVi": "Nhận thức an toàn giảm tai nạn.",
+   "col": [
+    "awareness",
+    "raise awareness"
+   ]
+  },
+  {
+   "id": "nn023",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "perception",
+   "ipa": "/pəˈsepʃn/",
+   "pos": "n",
+   "vi": "nhận thức, cảm nhận",
+   "ex": "Public perception shaped the campaign.",
+   "exVi": "Cảm nhận của công chúng định hình chiến dịch.",
+   "col": [
+    "perception",
+    "public perception"
+   ]
+  },
+  {
+   "id": "nn024",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "assumption",
+   "ipa": "/əˈsʌmpʃn/",
+   "pos": "n",
+   "vi": "giả định",
+   "ex": "The plan rests on a key assumption.",
+   "exVi": "Kế hoạch dựa trên một giả định quan trọng.",
+   "col": [
+    "an assumption",
+    "a key assumption"
+   ]
+  },
+  {
+   "id": "nn025",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "implication",
+   "ipa": "/ˌɪmplɪˈkeɪʃn/",
+   "pos": "n",
+   "vi": "hệ quả",
+   "ex": "The change had wide implications.",
+   "exVi": "Sự thay đổi có những hệ quả rộng.",
+   "col": [
+    "an implication",
+    "a serious implication"
+   ]
+  },
+  {
+   "id": "nn026",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "consequence",
+   "ipa": "/ˈkɒnsɪkwəns/",
+   "pos": "n",
+   "vi": "hậu quả",
+   "ex": "The delay had a costly consequence.",
+   "exVi": "Sự chậm trễ có một hậu quả tốn kém.",
+   "col": [
+    "a consequence",
+    "a serious consequence"
+   ]
+  },
+  {
+   "id": "nn027",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "tendency",
+   "ipa": "/ˈtendənsi/",
+   "pos": "n",
+   "vi": "xu hướng",
+   "ex": "There is a tendency to overspend.",
+   "exVi": "Có một xu hướng chi tiêu vượt mức.",
+   "col": [
+    "a tendency",
+    "a growing tendency"
+   ]
+  },
+  {
+   "id": "nn028",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "discrepancy",
+   "ipa": "/dɪsˈkrepənsi/",
+   "pos": "n",
+   "vi": "sự sai lệch",
+   "ex": "The audit found a small discrepancy.",
+   "exVi": "Cuộc kiểm toán tìm ra một sai lệch nhỏ.",
+   "col": [
+    "a discrepancy",
+    "a minor discrepancy"
+   ]
+  },
+  {
+   "id": "nn029",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "disparity",
+   "ipa": "/dɪˈspærəti/",
+   "pos": "n",
+   "vi": "sự chênh lệch",
+   "ex": "A pay disparity worried the staff.",
+   "exVi": "Một chênh lệch lương khiến nhân viên lo.",
+   "col": [
+    "a disparity",
+    "a wide disparity"
+   ]
+  },
+  {
+   "id": "nn030",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "variance",
+   "ipa": "/ˈveəriəns/",
+   "pos": "n",
+   "vi": "sự biến thiên",
+   "ex": "The budget variance was small this month.",
+   "exVi": "Biến thiên ngân sách nhỏ tháng này.",
+   "col": [
+    "variance",
+    "budget variance"
+   ]
+  },
+  {
+   "id": "nn031",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "correlation",
+   "ipa": "/ˌkɒrəˈleɪʃn/",
+   "pos": "n",
+   "vi": "mối tương quan",
+   "ex": "The study showed a clear correlation.",
+   "exVi": "Nghiên cứu cho thấy một tương quan rõ.",
+   "col": [
+    "a correlation",
+    "a strong correlation"
+   ]
+  },
+  {
+   "id": "nn032",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "threshold",
+   "ipa": "/ˈθreʃhəʊld/",
+   "pos": "n",
+   "vi": "ngưỡng",
+   "ex": "Sales passed the target threshold.",
+   "exVi": "Doanh số vượt ngưỡng mục tiêu.",
+   "col": [
+    "a threshold",
+    "a minimum threshold"
+   ]
+  },
+  {
+   "id": "nn033",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "criterion",
+   "ipa": "/kraɪˈtɪəriən/",
+   "pos": "n",
+   "vi": "tiêu chí",
+   "ex": "Each criterion is scored out of ten.",
+   "exVi": "Mỗi tiêu chí được chấm trên mười.",
+   "col": [
+    "a criterion",
+    "a key criterion"
+   ]
+  },
+  {
+   "id": "nn034",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "parameter",
+   "ipa": "/pəˈræmɪtə/",
+   "pos": "n",
+   "vi": "thông số",
+   "ex": "The plan set clear parameters.",
+   "exVi": "Kế hoạch đặt các thông số rõ ràng.",
+   "col": [
+    "a parameter",
+    "a key parameter"
+   ]
+  },
+  {
+   "id": "nn035",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "premise",
+   "ipa": "/ˈpremɪs/",
+   "pos": "n",
+   "vi": "tiền đề",
+   "ex": "The argument rests on a false premise.",
+   "exVi": "Lập luận dựa trên một tiền đề sai.",
+   "col": [
+    "a premise",
+    "a basic premise"
+   ]
+  },
+  {
+   "id": "nn036",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "rationale",
+   "ipa": "/ˌræʃəˈnɑːl/",
+   "pos": "n",
+   "vi": "cơ sở lý luận",
+   "ex": "The report gave the rationale for the change.",
+   "exVi": "Báo cáo đưa ra cơ sở lý luận cho sự thay đổi.",
+   "col": [
+    "rationale",
+    "a clear rationale"
+   ]
+  },
+  {
+   "id": "nn037",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "framework",
+   "ipa": "/ˈfreɪmwɜːk/",
+   "pos": "n",
+   "vi": "khung lý thuyết",
+   "ex": "The study used a clear framework.",
+   "exVi": "Nghiên cứu dùng một khung rõ ràng.",
+   "col": [
+    "a framework",
+    "a theoretical framework"
+   ]
+  },
+  {
+   "id": "nn038",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "paradigm",
+   "ipa": "/ˈpærədaɪm/",
+   "pos": "n",
+   "vi": "hình mẫu, mô thức",
+   "ex": "The findings shifted the whole paradigm.",
+   "exVi": "Các phát hiện làm thay đổi cả mô thức.",
+   "col": [
+    "a paradigm",
+    "a paradigm shift"
+   ]
+  },
+  {
+   "id": "nn039",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "notion",
+   "ipa": "/ˈnəʊʃn/",
+   "pos": "n",
+   "vi": "khái niệm, quan niệm",
+   "ex": "The notion of fairness guided the rule.",
+   "exVi": "Khái niệm công bằng dẫn dắt quy tắc.",
+   "col": [
+    "a notion",
+    "a common notion"
+   ]
+  },
+  {
+   "id": "nn040",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "principle",
+   "ipa": "/ˈprɪnsəpl/",
+   "pos": "n",
+   "vi": "nguyên tắc",
+   "ex": "The firm follows a clear principle.",
+   "exVi": "Công ty theo một nguyên tắc rõ ràng.",
+   "col": [
+    "a principle",
+    "a guiding principle"
+   ]
+  },
+  {
+   "id": "nn041",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "assessment",
+   "ipa": "/əˈsesmənt/",
+   "pos": "n",
+   "vi": "sự đánh giá",
+   "ex": "A careful assessment guided the choice.",
+   "exVi": "Một đánh giá cẩn thận dẫn dắt lựa chọn.",
+   "col": [
+    "an assessment",
+    "a full assessment"
+   ]
+  },
+  {
+   "id": "nn042",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "evaluation",
+   "ipa": "/ɪˌvæljuˈeɪʃn/",
+   "pos": "n",
+   "vi": "sự thẩm định",
+   "ex": "The evaluation showed clear progress.",
+   "exVi": "Việc thẩm định cho thấy tiến bộ rõ.",
+   "col": [
+    "an evaluation",
+    "a formal evaluation"
+   ]
+  },
+  {
+   "id": "nn043",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "analysis",
+   "ipa": "/əˈnæləsɪs/",
+   "pos": "n",
+   "vi": "phân tích",
+   "ex": "The analysis revealed a hidden cost.",
+   "exVi": "Phân tích tiết lộ một chi phí ẩn.",
+   "col": [
+    "analysis",
+    "a detailed analysis"
+   ]
+  },
+  {
+   "id": "nn044",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "insight",
+   "ipa": "/ˈɪnsaɪt/",
+   "pos": "n",
+   "vi": "sự thấu hiểu",
+   "ex": "The report offered useful insight.",
+   "exVi": "Báo cáo cung cấp sự thấu hiểu hữu ích.",
+   "col": [
+    "insight",
+    "a valuable insight"
+   ]
+  },
+  {
+   "id": "nn045",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "perspective",
+   "ipa": "/pəˈspektɪv/",
+   "pos": "n",
+   "vi": "góc nhìn",
+   "ex": "A fresh perspective helped the team.",
+   "exVi": "Một góc nhìn mới giúp ích cho nhóm.",
+   "col": [
+    "a perspective",
+    "a new perspective"
+   ]
+  },
+  {
+   "id": "nn046",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "consensus",
+   "ipa": "/kənˈsensəs/",
+   "pos": "n",
+   "vi": "sự đồng thuận",
+   "ex": "The board reached a consensus.",
+   "exVi": "Hội đồng đạt sự đồng thuận.",
+   "col": [
+    "consensus",
+    "reach a consensus"
+   ]
+  },
+  {
+   "id": "nn047",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "compromise",
+   "ipa": "/ˈkɒmprəmaɪz/",
+   "pos": "n",
+   "vi": "sự thoả hiệp",
+   "ex": "A fair compromise ended the dispute.",
+   "exVi": "Một thoả hiệp công bằng chấm dứt tranh chấp.",
+   "col": [
+    "a compromise",
+    "reach a compromise"
+   ]
+  },
+  {
+   "id": "nn048",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "consideration",
+   "ipa": "/kənˌsɪdəˈreɪʃn/",
+   "pos": "n",
+   "vi": "sự cân nhắc",
+   "ex": "Cost was a key consideration.",
+   "exVi": "Chi phí là một cân nhắc quan trọng.",
+   "col": [
+    "a consideration",
+    "careful consideration"
+   ]
+  },
+  {
+   "id": "nn049",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "deliberation",
+   "ipa": "/dɪˌlɪbəˈreɪʃn/",
+   "pos": "n",
+   "vi": "sự thảo luận cân nhắc",
+   "ex": "After long deliberation, the plan was approved.",
+   "exVi": "Sau nhiều thảo luận cân nhắc, kế hoạch được duyệt.",
+   "col": [
+    "deliberation",
+    "careful deliberation"
+   ]
+  },
+  {
+   "id": "nn050",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "justification",
+   "ipa": "/ˌdʒʌstɪfɪˈkeɪʃn/",
+   "pos": "n",
+   "vi": "sự biện minh",
+   "ex": "The report gave a clear justification.",
+   "exVi": "Báo cáo đưa ra một biện minh rõ ràng.",
+   "col": [
+    "justification",
+    "a clear justification"
+   ]
+  },
+  {
+   "id": "nn051",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "recognition",
+   "ipa": "/ˌrekəɡˈnɪʃn/",
+   "pos": "n",
+   "vi": "sự công nhận",
+   "ex": "The award gave the team recognition.",
+   "exVi": "Giải thưởng mang lại sự công nhận cho nhóm.",
+   "col": [
+    "recognition",
+    "wide recognition"
+   ]
+  },
+  {
+   "id": "nn052",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "reputation",
+   "ipa": "/ˌrepjuˈteɪʃn/",
+   "pos": "n",
+   "vi": "danh tiếng",
+   "ex": "The firm has a strong reputation.",
+   "exVi": "Công ty có một danh tiếng vững chắc.",
+   "col": [
+    "reputation",
+    "a good reputation"
+   ]
+  },
+  {
+   "id": "nn053",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "prestige",
+   "ipa": "/preˈstiːʒ/",
+   "pos": "n",
+   "vi": "uy tín, danh giá",
+   "ex": "The award added to the firm's prestige.",
+   "exVi": "Giải thưởng tăng thêm uy tín cho công ty.",
+   "col": [
+    "prestige",
+    "great prestige"
+   ]
+  },
+  {
+   "id": "nn054",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "influence",
+   "ipa": "/ˈɪnfluəns/",
+   "pos": "n",
+   "vi": "sự ảnh hưởng",
+   "ex": "The report had a lasting influence.",
+   "exVi": "Báo cáo có một ảnh hưởng lâu dài.",
+   "col": [
+    "influence",
+    "a strong influence"
+   ]
+  },
+  {
+   "id": "nn055",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "significance",
+   "ipa": "/sɪɡˈnɪfɪkəns/",
+   "pos": "n",
+   "vi": "tầm quan trọng",
+   "ex": "The finding has real significance.",
+   "exVi": "Phát hiện có tầm quan trọng thực sự.",
+   "col": [
+    "significance",
+    "great significance"
+   ]
+  },
+  {
+   "id": "nn056",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "relevance",
+   "ipa": "/ˈreləvəns/",
+   "pos": "n",
+   "vi": "sự liên quan",
+   "ex": "The data has clear relevance to the plan.",
+   "exVi": "Dữ liệu có sự liên quan rõ tới kế hoạch.",
+   "col": [
+    "relevance",
+    "direct relevance"
+   ]
+  },
+  {
+   "id": "nn057",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "priority",
+   "ipa": "/praɪˈɒrəti/",
+   "pos": "n",
+   "vi": "ưu tiên",
+   "ex": "Safety is the top priority.",
+   "exVi": "An toàn là ưu tiên hàng đầu.",
+   "col": [
+    "a priority",
+    "a top priority"
+   ]
+  },
+  {
+   "id": "nn058",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "obligation",
+   "ipa": "/ˌɒblɪˈɡeɪʃn/",
+   "pos": "n",
+   "vi": "nghĩa vụ",
+   "ex": "The firm met its legal obligation.",
+   "exVi": "Công ty đáp ứng nghĩa vụ pháp lý của mình.",
+   "col": [
+    "an obligation",
+    "a legal obligation"
+   ]
+  },
+  {
+   "id": "nn059",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "commitment",
+   "ipa": "/kəˈmɪtmənt/",
+   "pos": "n",
+   "vi": "sự cam kết",
+   "ex": "The team showed real commitment.",
+   "exVi": "Nhóm thể hiện sự cam kết thực sự.",
+   "col": [
+    "commitment",
+    "a firm commitment"
+   ]
+  },
+  {
+   "id": "nn060",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "dedication",
+   "ipa": "/ˌdedɪˈkeɪʃn/",
+   "pos": "n",
+   "vi": "sự tận tuỵ",
+   "ex": "Her dedication earned high praise.",
+   "exVi": "Sự tận tuỵ của bà nhận lời khen cao.",
+   "col": [
+    "dedication",
+    "great dedication"
+   ]
+  },
+  {
+   "id": "nn061",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "motivation",
+   "ipa": "/ˌməʊtɪˈveɪʃn/",
+   "pos": "n",
+   "vi": "động lực",
+   "ex": "Strong motivation drove the results.",
+   "exVi": "Động lực mạnh thúc đẩy kết quả.",
+   "col": [
+    "motivation",
+    "strong motivation"
+   ]
+  },
+  {
+   "id": "nn062",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "aspiration",
+   "ipa": "/ˌæspəˈreɪʃn/",
+   "pos": "n",
+   "vi": "khát vọng",
+   "ex": "The firm shared its aspiration to grow.",
+   "exVi": "Công ty chia sẻ khát vọng phát triển.",
+   "col": [
+    "an aspiration",
+    "a shared aspiration"
+   ]
+  },
+  {
+   "id": "nn063",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "ambition",
+   "ipa": "/æmˈbɪʃn/",
+   "pos": "n",
+   "vi": "tham vọng",
+   "ex": "Her ambition drove the whole project.",
+   "exVi": "Tham vọng của bà thúc đẩy cả dự án.",
+   "col": [
+    "ambition",
+    "great ambition"
+   ]
+  },
+  {
+   "id": "nn064",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "endeavor",
+   "ipa": "/ɪnˈdevə/",
+   "pos": "n",
+   "vi": "nỗ lực",
+   "ex": "The launch was a joint endeavor.",
+   "exVi": "Buổi ra mắt là một nỗ lực chung.",
+   "col": [
+    "an endeavor",
+    "a joint endeavor"
+   ]
+  },
+  {
+   "id": "nn065",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "undertaking",
+   "ipa": "/ˌʌndəˈteɪkɪŋ/",
+   "pos": "n",
+   "vi": "công việc lớn",
+   "ex": "The move was a huge undertaking.",
+   "exVi": "Việc chuyển đi là một công việc lớn.",
+   "col": [
+    "an undertaking",
+    "a major undertaking"
+   ]
+  },
+  {
+   "id": "nn066",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "achievement",
+   "ipa": "/əˈtʃiːvmənt/",
+   "pos": "n",
+   "vi": "thành tựu",
+   "ex": "The award marked a real achievement.",
+   "exVi": "Giải thưởng đánh dấu một thành tựu thực sự.",
+   "col": [
+    "an achievement",
+    "a great achievement"
+   ]
+  },
+  {
+   "id": "nn067",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "breakthrough",
+   "ipa": "/ˈbreɪkθruː/",
+   "pos": "n",
+   "vi": "bước đột phá",
+   "ex": "The research led to a breakthrough.",
+   "exVi": "Nghiên cứu dẫn tới một bước đột phá.",
+   "col": [
+    "a breakthrough",
+    "a major breakthrough"
+   ]
+  },
+  {
+   "id": "nn068",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "advancement",
+   "ipa": "/ədˈvɑːnsmənt/",
+   "pos": "n",
+   "vi": "sự tiến bộ",
+   "ex": "Technology drives rapid advancement.",
+   "exVi": "Công nghệ thúc đẩy tiến bộ nhanh.",
+   "col": [
+    "advancement",
+    "career advancement"
+   ]
+  },
+  {
+   "id": "nn069",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "enhancement",
+   "ipa": "/ɪnˈhɑːnsmənt/",
+   "pos": "n",
+   "vi": "sự cải thiện",
+   "ex": "The update brought a clear enhancement.",
+   "exVi": "Bản cập nhật mang lại một cải thiện rõ.",
+   "col": [
+    "enhancement",
+    "a major enhancement"
+   ]
+  },
+  {
+   "id": "nn070",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "refinement",
+   "ipa": "/rɪˈfaɪnmənt/",
+   "pos": "n",
+   "vi": "sự tinh chỉnh",
+   "ex": "A small refinement improved the design.",
+   "exVi": "Một tinh chỉnh nhỏ cải thiện thiết kế.",
+   "col": [
+    "refinement",
+    "a minor refinement"
+   ]
+  },
+  {
+   "id": "nn071",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "optimization",
+   "ipa": "/ˌɒptɪmaɪˈzeɪʃn/",
+   "pos": "n",
+   "vi": "sự tối ưu hoá",
+   "ex": "Route optimization cut the fuel cost.",
+   "exVi": "Việc tối ưu hoá tuyến giảm chi phí nhiên liệu.",
+   "col": [
+    "optimization",
+    "process optimization"
+   ]
+  },
+  {
+   "id": "nn072",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "utilization",
+   "ipa": "/ˌjuːtɪlaɪˈzeɪʃn/",
+   "pos": "n",
+   "vi": "sự tận dụng",
+   "ex": "Better utilization of space saved money.",
+   "exVi": "Việc tận dụng không gian tốt hơn tiết kiệm tiền.",
+   "col": [
+    "utilization",
+    "resource utilization"
+   ]
+  },
+  {
+   "id": "nn073",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "allocation",
+   "ipa": "/ˌæləˈkeɪʃn/",
+   "pos": "n",
+   "vi": "sự phân bổ",
+   "ex": "Fair allocation of tasks kept morale high.",
+   "exVi": "Phân bổ nhiệm vụ công bằng giữ tinh thần cao.",
+   "col": [
+    "allocation",
+    "resource allocation"
+   ]
+  },
+  {
+   "id": "nn074",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "distribution",
+   "ipa": "/ˌdɪstrɪˈbjuːʃn/",
+   "pos": "n",
+   "vi": "sự phân phối",
+   "ex": "The distribution of work was uneven.",
+   "exVi": "Việc phân phối công việc không đều.",
+   "col": [
+    "distribution",
+    "fair distribution"
+   ]
+  },
+  {
+   "id": "nn075",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "provision",
+   "ipa": "/prəˈvɪʒn/",
+   "pos": "n",
+   "vi": "sự cung cấp",
+   "ex": "The provision of training helped the staff.",
+   "exVi": "Việc cung cấp đào tạo giúp ích cho nhân viên.",
+   "col": [
+    "provision",
+    "the provision of"
+   ]
+  },
+  {
+   "id": "nn076",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "attainment",
+   "ipa": "/əˈteɪnmənt/",
+   "pos": "n",
+   "vi": "sự đạt được",
+   "ex": "The attainment of the goal took a year.",
+   "exVi": "Việc đạt được mục tiêu mất một năm.",
+   "col": [
+    "attainment",
+    "goal attainment"
+   ]
+  },
+  {
+   "id": "nn077",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "fulfillment",
+   "ipa": "/fʊlˈfɪlmənt/",
+   "pos": "n",
+   "vi": "sự hoàn thành",
+   "ex": "Order fulfillment was fast and reliable.",
+   "exVi": "Việc hoàn thành đơn hàng nhanh và đáng tin.",
+   "col": [
+    "fulfillment",
+    "order fulfillment"
+   ]
+  },
+  {
+   "id": "nn078",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "compliance",
+   "ipa": "/kəmˈplaɪəns/",
+   "pos": "n",
+   "vi": "sự tuân thủ",
+   "ex": "Full compliance avoided a fine.",
+   "exVi": "Sự tuân thủ đầy đủ tránh một khoản phạt.",
+   "col": [
+    "compliance",
+    "full compliance"
+   ]
+  },
+  {
+   "id": "nn079",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "adherence",
+   "ipa": "/ədˈhɪərəns/",
+   "pos": "n",
+   "vi": "sự tuân theo",
+   "ex": "Strict adherence to the rule is required.",
+   "exVi": "Cần tuân theo quy tắc một cách nghiêm ngặt.",
+   "col": [
+    "adherence",
+    "strict adherence"
+   ]
+  },
+  {
+   "id": "nn080",
+   "topic": "Danh từ trừu tượng học thuật",
+   "w": "diversity",
+   "ipa": "/daɪˈvɜːsəti/",
+   "pos": "n",
+   "vi": "sự đa dạng",
+   "ex": "The firm values diversity in its teams.",
+   "exVi": "Công ty coi trọng sự đa dạng trong các nhóm.",
+   "col": [
+    "diversity",
+    "cultural diversity"
+   ]
+  }
+ ]
+}

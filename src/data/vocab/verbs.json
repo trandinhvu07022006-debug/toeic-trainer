@@ -1,0 +1,1209 @@
+{
+ "topic": "Động từ học thuật thường gặp",
+ "words": [
+  {
+   "id": "vb001",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "accommodate",
+   "ipa": "/əˈkɒmədeɪt/",
+   "pos": "v",
+   "vi": "đáp ứng, chứa được",
+   "ex": "The venue can accommodate up to three hundred guests.",
+   "exVi": "Địa điểm có thể chứa tới ba trăm khách.",
+   "col": [
+    "accommodate a request",
+    "accommodate guests"
+   ]
+  },
+  {
+   "id": "vb002",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "acknowledge",
+   "ipa": "/əkˈnɒlɪdʒ/",
+   "pos": "v",
+   "vi": "thừa nhận, xác nhận",
+   "ex": "The manager acknowledged the team's hard work.",
+   "exVi": "Quản lý thừa nhận công sức của cả nhóm.",
+   "col": [
+    "acknowledge receipt",
+    "acknowledge a mistake"
+   ]
+  },
+  {
+   "id": "vb003",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "allocate",
+   "ipa": "/ˈæləkeɪt/",
+   "pos": "v",
+   "vi": "phân bổ",
+   "ex": "The budget was allocated across four departments.",
+   "exVi": "Ngân sách được phân bổ cho bốn phòng ban.",
+   "col": [
+    "allocate funds",
+    "allocate resources"
+   ]
+  },
+  {
+   "id": "vb004",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "anticipate",
+   "ipa": "/ænˈtɪsɪpeɪt/",
+   "pos": "v",
+   "vi": "dự đoán, lường trước",
+   "ex": "The firm anticipates strong demand next quarter.",
+   "exVi": "Công ty dự đoán nhu cầu mạnh trong quý tới.",
+   "col": [
+    "anticipate a problem",
+    "anticipate demand"
+   ]
+  },
+  {
+   "id": "vb005",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "assess",
+   "ipa": "/əˈses/",
+   "pos": "v",
+   "vi": "đánh giá",
+   "ex": "The report assesses the risk of the project.",
+   "exVi": "Báo cáo đánh giá rủi ro của dự án.",
+   "col": [
+    "assess a situation",
+    "assess the impact"
+   ]
+  },
+  {
+   "id": "vb006",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "attribute",
+   "ipa": "/əˈtrɪbjuːt/",
+   "pos": "v",
+   "vi": "quy cho",
+   "ex": "She attributed the success to careful planning.",
+   "exVi": "Bà quy thành công cho việc lên kế hoạch kỹ.",
+   "col": [
+    "attribute to",
+    "attribute the cause"
+   ]
+  },
+  {
+   "id": "vb007",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "authorize",
+   "ipa": "/ˈɔːθəraɪz/",
+   "pos": "v",
+   "vi": "cho phép",
+   "ex": "Only a manager can authorize the payment.",
+   "exVi": "Chỉ quản lý mới có thể cho phép khoản thanh toán.",
+   "col": [
+    "authorize a payment",
+    "authorize access"
+   ]
+  },
+  {
+   "id": "vb008",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "clarify",
+   "ipa": "/ˈklærɪfaɪ/",
+   "pos": "v",
+   "vi": "làm rõ",
+   "ex": "Please clarify the terms of the offer.",
+   "exVi": "Vui lòng làm rõ các điều khoản của đề nghị.",
+   "col": [
+    "clarify a point",
+    "clarify the situation"
+   ]
+  },
+  {
+   "id": "vb009",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "collaborate",
+   "ipa": "/kəˈlæbəreɪt/",
+   "pos": "v",
+   "vi": "hợp tác",
+   "ex": "The two teams collaborated on the design.",
+   "exVi": "Hai nhóm hợp tác trong việc thiết kế.",
+   "col": [
+    "collaborate with",
+    "collaborate on"
+   ]
+  },
+  {
+   "id": "vb010",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "commence",
+   "ipa": "/kəˈmens/",
+   "pos": "v",
+   "vi": "bắt đầu",
+   "ex": "Work will commence at the start of next month.",
+   "exVi": "Công việc sẽ bắt đầu vào đầu tháng sau.",
+   "col": [
+    "commence work",
+    "commence operations"
+   ]
+  },
+  {
+   "id": "vb011",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "compile",
+   "ipa": "/kəmˈpaɪl/",
+   "pos": "v",
+   "vi": "tổng hợp, biên soạn",
+   "ex": "The analyst compiled data from ten sources.",
+   "exVi": "Chuyên viên phân tích tổng hợp dữ liệu từ mười nguồn.",
+   "col": [
+    "compile a report",
+    "compile data"
+   ]
+  },
+  {
+   "id": "vb012",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "comply",
+   "ipa": "/kəmˈplaɪ/",
+   "pos": "v",
+   "vi": "tuân thủ",
+   "ex": "All staff must comply with the new rules.",
+   "exVi": "Toàn bộ nhân viên phải tuân thủ quy tắc mới.",
+   "col": [
+    "comply with",
+    "fully comply"
+   ]
+  },
+  {
+   "id": "vb013",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "conduct",
+   "ipa": "/kənˈdʌkt/",
+   "pos": "v",
+   "vi": "tiến hành",
+   "ex": "The firm conducted a survey of its customers.",
+   "exVi": "Công ty tiến hành một khảo sát với khách hàng.",
+   "col": [
+    "conduct a survey",
+    "conduct research"
+   ]
+  },
+  {
+   "id": "vb014",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "consolidate",
+   "ipa": "/kənˈsɒlɪdeɪt/",
+   "pos": "v",
+   "vi": "hợp nhất, củng cố",
+   "ex": "The company consolidated its two offices into one.",
+   "exVi": "Công ty hợp nhất hai văn phòng thành một.",
+   "col": [
+    "consolidate operations",
+    "consolidate a position"
+   ]
+  },
+  {
+   "id": "vb015",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "constitute",
+   "ipa": "/ˈkɒnstɪtjuːt/",
+   "pos": "v",
+   "vi": "cấu thành",
+   "ex": "These five items constitute the whole order.",
+   "exVi": "Năm mặt hàng này cấu thành toàn bộ đơn.",
+   "col": [
+    "constitute a majority",
+    "constitute part of"
+   ]
+  },
+  {
+   "id": "vb016",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "demonstrate",
+   "ipa": "/ˈdemənstreɪt/",
+   "pos": "v",
+   "vi": "chứng minh, trình bày",
+   "ex": "The results demonstrate a clear improvement.",
+   "exVi": "Kết quả chứng minh một sự cải thiện rõ ràng.",
+   "col": [
+    "demonstrate a skill",
+    "demonstrate that"
+   ]
+  },
+  {
+   "id": "vb017",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "designate",
+   "ipa": "/ˈdezɪɡneɪt/",
+   "pos": "v",
+   "vi": "chỉ định",
+   "ex": "A room was designated for private meetings.",
+   "exVi": "Một phòng được chỉ định cho các cuộc họp riêng.",
+   "col": [
+    "designate an area",
+    "designate a person"
+   ]
+  },
+  {
+   "id": "vb018",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "determine",
+   "ipa": "/dɪˈtɜːmɪn/",
+   "pos": "v",
+   "vi": "xác định",
+   "ex": "The test determines the cause of the fault.",
+   "exVi": "Bài kiểm tra xác định nguyên nhân của lỗi.",
+   "col": [
+    "determine the cause",
+    "determine a result"
+   ]
+  },
+  {
+   "id": "vb019",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "diminish",
+   "ipa": "/dɪˈmɪnɪʃ/",
+   "pos": "v",
+   "vi": "giảm bớt",
+   "ex": "Sales diminished after the price rise.",
+   "exVi": "Doanh số giảm sau đợt tăng giá.",
+   "col": [
+    "diminish gradually",
+    "diminish over time"
+   ]
+  },
+  {
+   "id": "vb020",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "distribute",
+   "ipa": "/dɪˈstrɪbjuːt/",
+   "pos": "v",
+   "vi": "phân phát",
+   "ex": "The handbooks were distributed to all staff.",
+   "exVi": "Sổ tay được phát cho toàn bộ nhân viên.",
+   "col": [
+    "distribute copies",
+    "distribute widely"
+   ]
+  },
+  {
+   "id": "vb021",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "enhance",
+   "ipa": "/ɪnˈhɑːns/",
+   "pos": "v",
+   "vi": "nâng cao",
+   "ex": "The update enhances the app's speed.",
+   "exVi": "Bản cập nhật nâng cao tốc độ của ứng dụng.",
+   "col": [
+    "enhance quality",
+    "greatly enhance"
+   ]
+  },
+  {
+   "id": "vb022",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "ensure",
+   "ipa": "/ɪnˈʃʊə/",
+   "pos": "v",
+   "vi": "bảo đảm",
+   "ex": "Please ensure the door is locked at night.",
+   "exVi": "Vui lòng bảo đảm cửa được khoá vào ban đêm.",
+   "col": [
+    "ensure safety",
+    "ensure that"
+   ]
+  },
+  {
+   "id": "vb023",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "establish",
+   "ipa": "/ɪˈstæblɪʃ/",
+   "pos": "v",
+   "vi": "thành lập, thiết lập",
+   "ex": "The firm established a branch overseas.",
+   "exVi": "Công ty thành lập một chi nhánh ở nước ngoài.",
+   "col": [
+    "establish a company",
+    "establish a rule"
+   ]
+  },
+  {
+   "id": "vb024",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "evaluate",
+   "ipa": "/ɪˈvæljueɪt/",
+   "pos": "v",
+   "vi": "đánh giá",
+   "ex": "Managers evaluate each project at the end.",
+   "exVi": "Quản lý đánh giá mỗi dự án ở cuối.",
+   "col": [
+    "evaluate performance",
+    "evaluate options"
+   ]
+  },
+  {
+   "id": "vb025",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "exceed",
+   "ipa": "/ɪkˈsiːd/",
+   "pos": "v",
+   "vi": "vượt quá",
+   "ex": "Demand exceeded supply during the sale.",
+   "exVi": "Nhu cầu vượt quá nguồn cung trong đợt giảm giá.",
+   "col": [
+    "exceed expectations",
+    "exceed a limit"
+   ]
+  },
+  {
+   "id": "vb026",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "facilitate",
+   "ipa": "/fəˈsɪlɪteɪt/",
+   "pos": "v",
+   "vi": "tạo điều kiện",
+   "ex": "The new tool facilitates faster communication.",
+   "exVi": "Công cụ mới tạo điều kiện cho việc liên lạc nhanh hơn.",
+   "col": [
+    "facilitate a process",
+    "facilitate communication"
+   ]
+  },
+  {
+   "id": "vb027",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "formulate",
+   "ipa": "/ˈfɔːmjuleɪt/",
+   "pos": "v",
+   "vi": "xây dựng, soạn ra",
+   "ex": "The team formulated a new marketing plan.",
+   "exVi": "Nhóm xây dựng một kế hoạch marketing mới.",
+   "col": [
+    "formulate a plan",
+    "formulate a strategy"
+   ]
+  },
+  {
+   "id": "vb028",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "generate",
+   "ipa": "/ˈdʒenəreɪt/",
+   "pos": "v",
+   "vi": "tạo ra",
+   "ex": "The campaign generated a lot of interest.",
+   "exVi": "Chiến dịch tạo ra nhiều sự quan tâm.",
+   "col": [
+    "generate income",
+    "generate interest"
+   ]
+  },
+  {
+   "id": "vb029",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "implement",
+   "ipa": "/ˈɪmplɪment/",
+   "pos": "v",
+   "vi": "triển khai",
+   "ex": "The firm implemented the new policy in March.",
+   "exVi": "Công ty triển khai chính sách mới vào tháng Ba.",
+   "col": [
+    "implement a plan",
+    "implement changes"
+   ]
+  },
+  {
+   "id": "vb030",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "incorporate",
+   "ipa": "/ɪnˈkɔːpəreɪt/",
+   "pos": "v",
+   "vi": "kết hợp, đưa vào",
+   "ex": "The design incorporates customer feedback.",
+   "exVi": "Thiết kế kết hợp phản hồi của khách hàng.",
+   "col": [
+    "incorporate feedback",
+    "incorporate into"
+   ]
+  },
+  {
+   "id": "vb031",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "indicate",
+   "ipa": "/ˈɪndɪkeɪt/",
+   "pos": "v",
+   "vi": "cho thấy, chỉ ra",
+   "ex": "The figures indicate steady growth.",
+   "exVi": "Các con số cho thấy sự tăng trưởng ổn định.",
+   "col": [
+    "indicate a trend",
+    "clearly indicate"
+   ]
+  },
+  {
+   "id": "vb032",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "initiate",
+   "ipa": "/ɪˈnɪʃieɪt/",
+   "pos": "v",
+   "vi": "khởi xướng",
+   "ex": "The manager initiated a review of the process.",
+   "exVi": "Quản lý khởi xướng một cuộc rà soát quy trình.",
+   "col": [
+    "initiate a process",
+    "initiate a project"
+   ]
+  },
+  {
+   "id": "vb033",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "integrate",
+   "ipa": "/ˈɪntɪɡreɪt/",
+   "pos": "v",
+   "vi": "tích hợp",
+   "ex": "The system integrates data from all branches.",
+   "exVi": "Hệ thống tích hợp dữ liệu từ mọi chi nhánh.",
+   "col": [
+    "integrate a system",
+    "fully integrate"
+   ]
+  },
+  {
+   "id": "vb034",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "maintain",
+   "ipa": "/meɪnˈteɪn/",
+   "pos": "v",
+   "vi": "duy trì",
+   "ex": "The firm maintained steady sales all year.",
+   "exVi": "Công ty duy trì doanh số ổn định cả năm.",
+   "col": [
+    "maintain a standard",
+    "maintain quality"
+   ]
+  },
+  {
+   "id": "vb035",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "minimize",
+   "ipa": "/ˈmɪnɪmaɪz/",
+   "pos": "v",
+   "vi": "giảm thiểu",
+   "ex": "Careful planning minimizes waste.",
+   "exVi": "Việc lên kế hoạch cẩn thận giảm thiểu lãng phí.",
+   "col": [
+    "minimize risk",
+    "minimize costs"
+   ]
+  },
+  {
+   "id": "vb036",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "modify",
+   "ipa": "/ˈmɒdɪfaɪ/",
+   "pos": "v",
+   "vi": "điều chỉnh",
+   "ex": "The design was modified after testing.",
+   "exVi": "Thiết kế được điều chỉnh sau khi thử nghiệm.",
+   "col": [
+    "modify a plan",
+    "slightly modify"
+   ]
+  },
+  {
+   "id": "vb037",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "negotiate",
+   "ipa": "/nɪˈɡəʊʃieɪt/",
+   "pos": "v",
+   "vi": "thương lượng",
+   "ex": "The two firms negotiated a new contract.",
+   "exVi": "Hai công ty thương lượng một hợp đồng mới.",
+   "col": [
+    "negotiate a deal",
+    "negotiate terms"
+   ]
+  },
+  {
+   "id": "vb038",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "obtain",
+   "ipa": "/əbˈteɪn/",
+   "pos": "v",
+   "vi": "có được",
+   "ex": "You must obtain approval before you start.",
+   "exVi": "Bạn phải có được sự phê duyệt trước khi bắt đầu.",
+   "col": [
+    "obtain permission",
+    "obtain a result"
+   ]
+  },
+  {
+   "id": "vb039",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "oversee",
+   "ipa": "/ˌəʊvəˈsiː/",
+   "pos": "v",
+   "vi": "giám sát",
+   "ex": "A senior manager oversees the whole team.",
+   "exVi": "Một quản lý cấp cao giám sát cả nhóm.",
+   "col": [
+    "oversee a project",
+    "oversee operations"
+   ]
+  },
+  {
+   "id": "vb040",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "participate",
+   "ipa": "/pɑːˈtɪsɪpeɪt/",
+   "pos": "v",
+   "vi": "tham gia",
+   "ex": "Staff participate in the yearly review.",
+   "exVi": "Nhân viên tham gia cuộc đánh giá hằng năm.",
+   "col": [
+    "participate in",
+    "actively participate"
+   ]
+  },
+  {
+   "id": "vb041",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "prioritize",
+   "ipa": "/praɪˈɒrətaɪz/",
+   "pos": "v",
+   "vi": "ưu tiên",
+   "ex": "The team prioritizes urgent tasks first.",
+   "exVi": "Nhóm ưu tiên các nhiệm vụ gấp trước.",
+   "col": [
+    "prioritize tasks",
+    "prioritize a project"
+   ]
+  },
+  {
+   "id": "vb042",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "prohibit",
+   "ipa": "/prəˈhɪbɪt/",
+   "pos": "v",
+   "vi": "cấm",
+   "ex": "The rules prohibit food in the lab.",
+   "exVi": "Quy tắc cấm đồ ăn trong phòng thí nghiệm.",
+   "col": [
+    "prohibit an action",
+    "strictly prohibit"
+   ]
+  },
+  {
+   "id": "vb043",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "recommend",
+   "ipa": "/ˌrekəˈmend/",
+   "pos": "v",
+   "vi": "đề xuất",
+   "ex": "The report recommends a change in policy.",
+   "exVi": "Báo cáo đề xuất một sự thay đổi chính sách.",
+   "col": [
+    "recommend a solution",
+    "strongly recommend"
+   ]
+  },
+  {
+   "id": "vb044",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "reinforce",
+   "ipa": "/ˌriːɪnˈfɔːs/",
+   "pos": "v",
+   "vi": "củng cố",
+   "ex": "The training reinforced the safety rules.",
+   "exVi": "Buổi tập huấn củng cố các quy tắc an toàn.",
+   "col": [
+    "reinforce a message",
+    "reinforce a point"
+   ]
+  },
+  {
+   "id": "vb045",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "resolve",
+   "ipa": "/rɪˈzɒlv/",
+   "pos": "v",
+   "vi": "giải quyết",
+   "ex": "The team resolved the issue within a day.",
+   "exVi": "Nhóm giải quyết vấn đề trong một ngày.",
+   "col": [
+    "resolve a dispute",
+    "resolve an issue"
+   ]
+  },
+  {
+   "id": "vb046",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "retain",
+   "ipa": "/rɪˈteɪn/",
+   "pos": "v",
+   "vi": "giữ lại",
+   "ex": "The company retains its best staff with bonuses.",
+   "exVi": "Công ty giữ lại nhân viên giỏi nhất bằng tiền thưởng.",
+   "col": [
+    "retain staff",
+    "retain information"
+   ]
+  },
+  {
+   "id": "vb047",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "streamline",
+   "ipa": "/ˈstriːmlaɪn/",
+   "pos": "v",
+   "vi": "tinh gọn",
+   "ex": "New software streamlined the ordering process.",
+   "exVi": "Phần mềm mới tinh gọn quy trình đặt hàng.",
+   "col": [
+    "streamline a process",
+    "streamline operations"
+   ]
+  },
+  {
+   "id": "vb048",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "substitute",
+   "ipa": "/ˈsʌbstɪtjuːt/",
+   "pos": "v",
+   "vi": "thay thế",
+   "ex": "You can substitute honey for sugar in the recipe.",
+   "exVi": "Bạn có thể thay mật ong cho đường trong công thức.",
+   "col": [
+    "substitute for",
+    "substitute an item"
+   ]
+  },
+  {
+   "id": "vb049",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "supervise",
+   "ipa": "/ˈsuːpəvaɪz/",
+   "pos": "v",
+   "vi": "giám sát",
+   "ex": "A senior nurse supervises the ward.",
+   "exVi": "Một y tá trưởng giám sát khu điều trị.",
+   "col": [
+    "supervise staff",
+    "closely supervise"
+   ]
+  },
+  {
+   "id": "vb050",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "supplement",
+   "ipa": "/ˈsʌplɪment/",
+   "pos": "v",
+   "vi": "bổ sung",
+   "ex": "The report supplements the earlier findings.",
+   "exVi": "Báo cáo bổ sung cho các phát hiện trước.",
+   "col": [
+    "supplement income",
+    "supplement a diet"
+   ]
+  },
+  {
+   "id": "vb051",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "undertake",
+   "ipa": "/ˌʌndəˈteɪk/",
+   "pos": "v",
+   "vi": "đảm nhận",
+   "ex": "The firm will undertake a major review of costs.",
+   "exVi": "Công ty sẽ đảm nhận một cuộc rà soát chi phí lớn.",
+   "col": [
+    "undertake a project",
+    "undertake a task"
+   ]
+  },
+  {
+   "id": "vb052",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "utilize",
+   "ipa": "/ˈjuːtɪlaɪz/",
+   "pos": "v",
+   "vi": "sử dụng",
+   "ex": "The office utilizes natural light to save power.",
+   "exVi": "Văn phòng sử dụng ánh sáng tự nhiên để tiết kiệm điện.",
+   "col": [
+    "utilize resources",
+    "fully utilize"
+   ]
+  },
+  {
+   "id": "vb053",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "verify",
+   "ipa": "/ˈverɪfaɪ/",
+   "pos": "v",
+   "vi": "kiểm chứng",
+   "ex": "Staff verify each order before shipping.",
+   "exVi": "Nhân viên kiểm chứng mỗi đơn trước khi gửi.",
+   "col": [
+    "verify a fact",
+    "verify details"
+   ]
+  },
+  {
+   "id": "vb054",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "accelerate",
+   "ipa": "/əkˈseləreɪt/",
+   "pos": "v",
+   "vi": "đẩy nhanh",
+   "ex": "The plan accelerated the launch by a month.",
+   "exVi": "Kế hoạch đẩy nhanh việc ra mắt lên một tháng.",
+   "col": [
+    "accelerate growth",
+    "accelerate a process"
+   ]
+  },
+  {
+   "id": "vb055",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "accumulate",
+   "ipa": "/əˈkjuːmjəleɪt/",
+   "pos": "v",
+   "vi": "tích luỹ",
+   "ex": "The account accumulates interest each month.",
+   "exVi": "Tài khoản tích luỹ lãi mỗi tháng.",
+   "col": [
+    "accumulate wealth",
+    "accumulate over time"
+   ]
+  },
+  {
+   "id": "vb056",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "adhere",
+   "ipa": "/ədˈhɪə/",
+   "pos": "v",
+   "vi": "tuân theo",
+   "ex": "All staff adhere to the dress code.",
+   "exVi": "Toàn bộ nhân viên tuân theo quy định trang phục.",
+   "col": [
+    "adhere to",
+    "strictly adhere"
+   ]
+  },
+  {
+   "id": "vb057",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "administer",
+   "ipa": "/ədˈmɪnɪstə/",
+   "pos": "v",
+   "vi": "quản lý, thực thi",
+   "ex": "The office administers the whole grant scheme.",
+   "exVi": "Văn phòng quản lý toàn bộ chương trình tài trợ.",
+   "col": [
+    "administer a programme",
+    "administer a test"
+   ]
+  },
+  {
+   "id": "vb058",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "allege",
+   "ipa": "/əˈledʒ/",
+   "pos": "v",
+   "vi": "cáo buộc",
+   "ex": "The report alleged serious safety failings.",
+   "exVi": "Báo cáo cáo buộc các sai sót an toàn nghiêm trọng.",
+   "col": [
+    "allege wrongdoing",
+    "allege that"
+   ]
+  },
+  {
+   "id": "vb059",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "alleviate",
+   "ipa": "/əˈliːvieɪt/",
+   "pos": "v",
+   "vi": "làm giảm nhẹ",
+   "ex": "The new road alleviated the traffic problem.",
+   "exVi": "Con đường mới làm giảm nhẹ vấn đề giao thông.",
+   "col": [
+    "alleviate a problem",
+    "alleviate stress"
+   ]
+  },
+  {
+   "id": "vb060",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "ascertain",
+   "ipa": "/ˌæsəˈteɪn/",
+   "pos": "v",
+   "vi": "xác minh",
+   "ex": "The audit aims to ascertain the true figures.",
+   "exVi": "Cuộc kiểm toán nhằm xác minh các con số thật.",
+   "col": [
+    "ascertain the facts",
+    "ascertain the cause"
+   ]
+  },
+  {
+   "id": "vb061",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "augment",
+   "ipa": "/ɔːɡˈment/",
+   "pos": "v",
+   "vi": "làm tăng thêm",
+   "ex": "The bonus augmented her monthly salary.",
+   "exVi": "Khoản thưởng làm tăng thêm lương tháng của bà.",
+   "col": [
+    "augment income",
+    "augment a supply"
+   ]
+  },
+  {
+   "id": "vb062",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "circumvent",
+   "ipa": "/ˌsɜːkəmˈvent/",
+   "pos": "v",
+   "vi": "né tránh, lách",
+   "ex": "The design circumvents the usual delays.",
+   "exVi": "Thiết kế né tránh các chậm trễ thường gặp.",
+   "col": [
+    "circumvent a rule",
+    "circumvent a problem"
+   ]
+  },
+  {
+   "id": "vb063",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "compensate",
+   "ipa": "/ˈkɒmpenseɪt/",
+   "pos": "v",
+   "vi": "đền bù, bù đắp",
+   "ex": "The firm compensated staff for the extra hours.",
+   "exVi": "Công ty đền bù cho nhân viên vì số giờ làm thêm.",
+   "col": [
+    "compensate for",
+    "compensate a worker"
+   ]
+  },
+  {
+   "id": "vb064",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "comprise",
+   "ipa": "/kəmˈpraɪz/",
+   "pos": "v",
+   "vi": "bao gồm",
+   "ex": "The team comprises eight specialists.",
+   "exVi": "Nhóm bao gồm tám chuyên gia.",
+   "col": [
+    "comprise of",
+    "comprise a group"
+   ]
+  },
+  {
+   "id": "vb065",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "convey",
+   "ipa": "/kənˈveɪ/",
+   "pos": "v",
+   "vi": "truyền đạt",
+   "ex": "The chart conveys the results clearly.",
+   "exVi": "Biểu đồ truyền đạt kết quả rõ ràng.",
+   "col": [
+    "convey a message",
+    "convey information"
+   ]
+  },
+  {
+   "id": "vb066",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "cultivate",
+   "ipa": "/ˈkʌltɪveɪt/",
+   "pos": "v",
+   "vi": "nuôi dưỡng, xây dựng",
+   "ex": "The firm cultivates strong client relationships.",
+   "exVi": "Công ty nuôi dưỡng các mối quan hệ khách hàng vững chắc.",
+   "col": [
+    "cultivate a relationship",
+    "cultivate skills"
+   ]
+  },
+  {
+   "id": "vb067",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "delegate",
+   "ipa": "/ˈdelɪɡeɪt/",
+   "pos": "v",
+   "vi": "uỷ thác",
+   "ex": "Good managers delegate routine work.",
+   "exVi": "Quản lý giỏi uỷ thác công việc thường ngày.",
+   "col": [
+    "delegate a task",
+    "delegate responsibility"
+   ]
+  },
+  {
+   "id": "vb068",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "deploy",
+   "ipa": "/dɪˈplɔɪ/",
+   "pos": "v",
+   "vi": "triển khai",
+   "ex": "The company deployed staff to the new site.",
+   "exVi": "Công ty triển khai nhân viên tới khu mới.",
+   "col": [
+    "deploy resources",
+    "deploy staff"
+   ]
+  },
+  {
+   "id": "vb069",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "devise",
+   "ipa": "/dɪˈvaɪz/",
+   "pos": "v",
+   "vi": "nghĩ ra, thiết kế",
+   "ex": "The team devised a clever solution.",
+   "exVi": "Nhóm nghĩ ra một giải pháp khéo léo.",
+   "col": [
+    "devise a plan",
+    "devise a method"
+   ]
+  },
+  {
+   "id": "vb070",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "disclose",
+   "ipa": "/dɪsˈkləʊz/",
+   "pos": "v",
+   "vi": "tiết lộ",
+   "ex": "The firm disclosed its results early.",
+   "exVi": "Công ty tiết lộ kết quả sớm.",
+   "col": [
+    "disclose information",
+    "disclose details"
+   ]
+  },
+  {
+   "id": "vb071",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "disperse",
+   "ipa": "/dɪˈspɜːs/",
+   "pos": "v",
+   "vi": "phân tán",
+   "ex": "The crowd dispersed after the announcement.",
+   "exVi": "Đám đông phân tán sau thông báo.",
+   "col": [
+    "disperse a crowd",
+    "disperse quickly"
+   ]
+  },
+  {
+   "id": "vb072",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "elicit",
+   "ipa": "/ɪˈlɪsɪt/",
+   "pos": "v",
+   "vi": "gợi ra",
+   "ex": "The survey elicited useful comments.",
+   "exVi": "Khảo sát gợi ra những nhận xét hữu ích.",
+   "col": [
+    "elicit a response",
+    "elicit information"
+   ]
+  },
+  {
+   "id": "vb073",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "endorse",
+   "ipa": "/ɪnˈdɔːs/",
+   "pos": "v",
+   "vi": "ủng hộ, chứng thực",
+   "ex": "The board endorsed the new strategy.",
+   "exVi": "Hội đồng ủng hộ chiến lược mới.",
+   "col": [
+    "endorse a plan",
+    "endorse a candidate"
+   ]
+  },
+  {
+   "id": "vb074",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "exemplify",
+   "ipa": "/ɪɡˈzemplɪfaɪ/",
+   "pos": "v",
+   "vi": "minh hoạ điển hình",
+   "ex": "The project exemplifies good teamwork.",
+   "exVi": "Dự án minh hoạ điển hình cho làm việc nhóm tốt.",
+   "col": [
+    "exemplify a quality",
+    "clearly exemplify"
+   ]
+  },
+  {
+   "id": "vb075",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "expedite",
+   "ipa": "/ˈekspədaɪt/",
+   "pos": "v",
+   "vi": "đẩy nhanh",
+   "ex": "We can expedite the order for a fee.",
+   "exVi": "Chúng tôi có thể đẩy nhanh đơn hàng với một khoản phí.",
+   "col": [
+    "expedite a process",
+    "expedite delivery"
+   ]
+  },
+  {
+   "id": "vb076",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "formalize",
+   "ipa": "/ˈfɔːməlaɪz/",
+   "pos": "v",
+   "vi": "chính thức hoá",
+   "ex": "The agreement was formalized in writing.",
+   "exVi": "Thoả thuận được chính thức hoá bằng văn bản.",
+   "col": [
+    "formalize an agreement",
+    "formalize a plan"
+   ]
+  },
+  {
+   "id": "vb077",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "incur",
+   "ipa": "/ɪnˈkɜː/",
+   "pos": "v",
+   "vi": "gánh chịu",
+   "ex": "Late payment incurs a small charge.",
+   "exVi": "Chậm thanh toán gánh chịu một khoản phí nhỏ.",
+   "col": [
+    "incur a cost",
+    "incur a penalty"
+   ]
+  },
+  {
+   "id": "vb078",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "mitigate",
+   "ipa": "/ˈmɪtɪɡeɪt/",
+   "pos": "v",
+   "vi": "giảm nhẹ",
+   "ex": "The plan mitigates the risk of delay.",
+   "exVi": "Kế hoạch giảm nhẹ rủi ro chậm trễ.",
+   "col": [
+    "mitigate risk",
+    "mitigate an effect"
+   ]
+  },
+  {
+   "id": "vb079",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "optimize",
+   "ipa": "/ˈɒptɪmaɪz/",
+   "pos": "v",
+   "vi": "tối ưu hoá",
+   "ex": "The team optimized the delivery route.",
+   "exVi": "Nhóm tối ưu hoá tuyến giao hàng.",
+   "col": [
+    "optimize a process",
+    "optimize performance"
+   ]
+  },
+  {
+   "id": "vb080",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "outline",
+   "ipa": "/ˈaʊtlaɪn/",
+   "pos": "v",
+   "vi": "phác thảo",
+   "ex": "The report outlines the main steps.",
+   "exVi": "Báo cáo phác thảo các bước chính.",
+   "col": [
+    "outline a plan",
+    "briefly outline"
+   ]
+  },
+  {
+   "id": "vb081",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "overhaul",
+   "ipa": "/ˌəʊvəˈhɔːl/",
+   "pos": "v",
+   "vi": "đại tu, cải tổ",
+   "ex": "The firm overhauled its whole system.",
+   "exVi": "Công ty cải tổ toàn bộ hệ thống của mình.",
+   "col": [
+    "overhaul a system",
+    "overhaul a process"
+   ]
+  },
+  {
+   "id": "vb082",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "persist",
+   "ipa": "/pəˈsɪst/",
+   "pos": "v",
+   "vi": "kéo dài, kiên trì",
+   "ex": "The problem persisted despite the repairs.",
+   "exVi": "Vấn đề kéo dài dù đã sửa chữa.",
+   "col": [
+    "persist with",
+    "persist over time"
+   ]
+  },
+  {
+   "id": "vb083",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "postulate",
+   "ipa": "/ˈpɒstjuleɪt/",
+   "pos": "v",
+   "vi": "giả định",
+   "ex": "The study postulates a link between the two.",
+   "exVi": "Nghiên cứu giả định một mối liên hệ giữa hai điều.",
+   "col": [
+    "postulate a theory",
+    "postulate that"
+   ]
+  },
+  {
+   "id": "vb084",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "preclude",
+   "ipa": "/prɪˈkluːd/",
+   "pos": "v",
+   "vi": "ngăn cản",
+   "ex": "The rule precludes any late entries.",
+   "exVi": "Quy tắc ngăn cản mọi bài nộp muộn.",
+   "col": [
+    "preclude a possibility",
+    "preclude an option"
+   ]
+  },
+  {
+   "id": "vb085",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "presume",
+   "ipa": "/prɪˈzjuːm/",
+   "pos": "v",
+   "vi": "cho rằng, giả định",
+   "ex": "We presume the goods left on time.",
+   "exVi": "Chúng tôi cho rằng hàng đã rời đi đúng giờ.",
+   "col": [
+    "presume that",
+    "reasonably presume"
+   ]
+  },
+  {
+   "id": "vb086",
+   "topic": "Động từ học thuật thường gặp",
+   "w": "reconcile",
+   "ipa": "/ˈrekənsaɪl/",
+   "pos": "v",
+   "vi": "đối chiếu, hoà giải",
+   "ex": "The accountant reconciled the two records.",
+   "exVi": "Kế toán đối chiếu hai bản ghi.",
+   "col": [
+    "reconcile accounts",
+    "reconcile differences"
+   ]
+  }
+ ]
+}

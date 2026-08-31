@@ -1,0 +1,1293 @@
+{
+ "topic": "Công nghệ thông tin",
+ "words": [
+  {
+   "id": "it001",
+   "topic": "Công nghệ thông tin",
+   "w": "software",
+   "ipa": "/ˈsɒftweə/",
+   "pos": "n",
+   "vi": "phần mềm",
+   "ex": "The new software runs on all company laptops.",
+   "exVi": "Phần mềm mới chạy trên mọi laptop của công ty.",
+   "col": [
+    "install software",
+    "software update"
+   ]
+  },
+  {
+   "id": "it002",
+   "topic": "Công nghệ thông tin",
+   "w": "hardware",
+   "ipa": "/ˈhɑːdweə/",
+   "pos": "n",
+   "vi": "phần cứng",
+   "ex": "The hardware was upgraded across the whole office.",
+   "exVi": "Phần cứng được nâng cấp trên toàn văn phòng.",
+   "col": [
+    "computer hardware",
+    "a hardware failure"
+   ]
+  },
+  {
+   "id": "it003",
+   "topic": "Công nghệ thông tin",
+   "w": "device",
+   "ipa": "/dɪˈvaɪs/",
+   "pos": "n",
+   "vi": "thiết bị",
+   "ex": "Each device connects to the network automatically.",
+   "exVi": "Mỗi thiết bị kết nối mạng tự động.",
+   "col": [
+    "a mobile device",
+    "a storage device"
+   ]
+  },
+  {
+   "id": "it004",
+   "topic": "Công nghệ thông tin",
+   "w": "network",
+   "ipa": "/ˈnetwɜːk/",
+   "pos": "n",
+   "vi": "mạng",
+   "ex": "The office network went down for an hour.",
+   "exVi": "Mạng văn phòng gián đoạn một tiếng.",
+   "col": [
+    "a wireless network",
+    "a company network"
+   ]
+  },
+  {
+   "id": "it005",
+   "topic": "Công nghệ thông tin",
+   "w": "server",
+   "ipa": "/ˈsɜːvə/",
+   "pos": "n",
+   "vi": "máy chủ",
+   "ex": "All files are backed up to the main server.",
+   "exVi": "Mọi tệp được sao lưu lên máy chủ chính.",
+   "col": [
+    "a file server",
+    "a server crash"
+   ]
+  },
+  {
+   "id": "it006",
+   "topic": "Công nghệ thông tin",
+   "w": "database",
+   "ipa": "/ˈdeɪtəbeɪs/",
+   "pos": "n",
+   "vi": "cơ sở dữ liệu",
+   "ex": "Customer records are stored in a secure database.",
+   "exVi": "Hồ sơ khách hàng được lưu trong một cơ sở dữ liệu an toàn.",
+   "col": [
+    "a customer database",
+    "update a database"
+   ]
+  },
+  {
+   "id": "it007",
+   "topic": "Công nghệ thông tin",
+   "w": "platform",
+   "ipa": "/ˈplætfɔːm/",
+   "pos": "n",
+   "vi": "nền tảng",
+   "ex": "The team moved to a cloud-based platform.",
+   "exVi": "Nhóm chuyển sang một nền tảng trên đám mây.",
+   "col": [
+    "a software platform",
+    "an online platform"
+   ]
+  },
+  {
+   "id": "it008",
+   "topic": "Công nghệ thông tin",
+   "w": "application",
+   "ipa": "/ˌæplɪˈkeɪʃn/",
+   "pos": "n",
+   "vi": "ứng dụng",
+   "ex": "A new application tracks staff attendance.",
+   "exVi": "Một ứng dụng mới theo dõi việc có mặt của nhân viên.",
+   "col": [
+    "a mobile application",
+    "a web application"
+   ]
+  },
+  {
+   "id": "it009",
+   "topic": "Công nghệ thông tin",
+   "w": "interface",
+   "ipa": "/ˈɪntəfeɪs/",
+   "pos": "n",
+   "vi": "giao diện",
+   "ex": "The interface is simple and easy to learn.",
+   "exVi": "Giao diện đơn giản và dễ học.",
+   "col": [
+    "a user interface",
+    "a clean interface"
+   ]
+  },
+  {
+   "id": "it010",
+   "topic": "Công nghệ thông tin",
+   "w": "dashboard",
+   "ipa": "/ˈdæʃbɔːd/",
+   "pos": "n",
+   "vi": "bảng điều khiển",
+   "ex": "The dashboard shows sales figures in real time.",
+   "exVi": "Bảng điều khiển hiển thị số liệu bán hàng theo thời gian thực.",
+   "col": [
+    "a dashboard",
+    "an analytics dashboard"
+   ]
+  },
+  {
+   "id": "it011",
+   "topic": "Công nghệ thông tin",
+   "w": "upgrade",
+   "ipa": "/ˈʌpɡreɪd/",
+   "pos": "n, v",
+   "vi": "nâng cấp",
+   "ex": "The system upgrade improved loading speeds.",
+   "exVi": "Việc nâng cấp hệ thống cải thiện tốc độ tải.",
+   "col": [
+    "a software upgrade",
+    "upgrade a system"
+   ]
+  },
+  {
+   "id": "it012",
+   "topic": "Công nghệ thông tin",
+   "w": "install",
+   "ipa": "/ɪnˈstɔːl/",
+   "pos": "v",
+   "vi": "cài đặt",
+   "ex": "The IT team will install the update overnight.",
+   "exVi": "Bộ phận IT sẽ cài bản cập nhật qua đêm.",
+   "col": [
+    "install software",
+    "install an update"
+   ]
+  },
+  {
+   "id": "it013",
+   "topic": "Công nghệ thông tin",
+   "w": "configure",
+   "ipa": "/kənˈfɪɡə/",
+   "pos": "v",
+   "vi": "cấu hình",
+   "ex": "Configure the printer before the first use.",
+   "exVi": "Cấu hình máy in trước lần dùng đầu tiên.",
+   "col": [
+    "configure a system",
+    "configure settings"
+   ]
+  },
+  {
+   "id": "it014",
+   "topic": "Công nghệ thông tin",
+   "w": "compatible",
+   "ipa": "/kəmˈpætəbl/",
+   "pos": "adj",
+   "vi": "tương thích",
+   "ex": "The file is compatible with older versions.",
+   "exVi": "Tệp tương thích với các phiên bản cũ hơn.",
+   "col": [
+    "be compatible with",
+    "a compatible device"
+   ]
+  },
+  {
+   "id": "it015",
+   "topic": "Công nghệ thông tin",
+   "w": "integrate",
+   "ipa": "/ˈɪntɪɡreɪt/",
+   "pos": "v",
+   "vi": "tích hợp",
+   "ex": "The tool integrates with our email system.",
+   "exVi": "Công cụ tích hợp với hệ thống email của chúng tôi.",
+   "col": [
+    "integrate a system",
+    "fully integrated"
+   ]
+  },
+  {
+   "id": "it016",
+   "topic": "Công nghệ thông tin",
+   "w": "integration",
+   "ipa": "/ˌɪntɪˈɡreɪʃn/",
+   "pos": "n",
+   "vi": "sự tích hợp",
+   "ex": "Integration between the two apps saved hours.",
+   "exVi": "Sự tích hợp giữa hai ứng dụng tiết kiệm nhiều giờ.",
+   "col": [
+    "system integration",
+    "seamless integration"
+   ]
+  },
+  {
+   "id": "it017",
+   "topic": "Công nghệ thông tin",
+   "w": "backup",
+   "ipa": "/ˈbækʌp/",
+   "pos": "n",
+   "vi": "bản sao lưu",
+   "ex": "A daily backup protects against data loss.",
+   "exVi": "Một bản sao lưu hằng ngày ngừa mất dữ liệu.",
+   "col": [
+    "a daily backup",
+    "a backup file"
+   ]
+  },
+  {
+   "id": "it018",
+   "topic": "Công nghệ thông tin",
+   "w": "restore",
+   "ipa": "/rɪˈstɔː/",
+   "pos": "v",
+   "vi": "khôi phục",
+   "ex": "The team restored the files from the backup.",
+   "exVi": "Nhóm khôi phục các tệp từ bản sao lưu.",
+   "col": [
+    "restore data",
+    "restore a system"
+   ]
+  },
+  {
+   "id": "it019",
+   "topic": "Công nghệ thông tin",
+   "w": "encryption",
+   "ipa": "/ɪnˈkrɪpʃn/",
+   "pos": "n",
+   "vi": "mã hoá",
+   "ex": "Encryption keeps customer data secure.",
+   "exVi": "Mã hoá giữ dữ liệu khách hàng an toàn.",
+   "col": [
+    "data encryption",
+    "strong encryption"
+   ]
+  },
+  {
+   "id": "it020",
+   "topic": "Công nghệ thông tin",
+   "w": "firewall",
+   "ipa": "/ˈfaɪəwɔːl/",
+   "pos": "n",
+   "vi": "tường lửa",
+   "ex": "A firewall blocks unwanted traffic.",
+   "exVi": "Một tường lửa chặn lưu lượng không mong muốn.",
+   "col": [
+    "a firewall",
+    "set up a firewall"
+   ]
+  },
+  {
+   "id": "it021",
+   "topic": "Công nghệ thông tin",
+   "w": "malware",
+   "ipa": "/ˈmælweə/",
+   "pos": "n",
+   "vi": "phần mềm độc hại",
+   "ex": "The scan found no malware on the system.",
+   "exVi": "Bản quét không tìm thấy phần mềm độc hại trên hệ thống.",
+   "col": [
+    "detect malware",
+    "remove malware"
+   ]
+  },
+  {
+   "id": "it022",
+   "topic": "Công nghệ thông tin",
+   "w": "breach",
+   "ipa": "/briːtʃ/",
+   "pos": "n",
+   "vi": "sự xâm phạm",
+   "ex": "A data breach exposed thousands of records.",
+   "exVi": "Một vụ xâm phạm dữ liệu làm lộ hàng nghìn hồ sơ.",
+   "col": [
+    "a data breach",
+    "a security breach"
+   ]
+  },
+  {
+   "id": "it023",
+   "topic": "Công nghệ thông tin",
+   "w": "vulnerability",
+   "ipa": "/ˌvʌlnərəˈbɪləti/",
+   "pos": "n",
+   "vi": "lỗ hổng",
+   "ex": "The update fixed a serious vulnerability.",
+   "exVi": "Bản cập nhật vá một lỗ hổng nghiêm trọng.",
+   "col": [
+    "a security vulnerability",
+    "fix a vulnerability"
+   ]
+  },
+  {
+   "id": "it024",
+   "topic": "Công nghệ thông tin",
+   "w": "patch",
+   "ipa": "/pætʃ/",
+   "pos": "n",
+   "vi": "bản vá",
+   "ex": "A patch was released to close the security gap.",
+   "exVi": "Một bản vá được phát hành để bịt lỗ hổng bảo mật.",
+   "col": [
+    "a security patch",
+    "apply a patch"
+   ]
+  },
+  {
+   "id": "it025",
+   "topic": "Công nghệ thông tin",
+   "w": "bug",
+   "ipa": "/bʌɡ/",
+   "pos": "n",
+   "vi": "lỗi phần mềm",
+   "ex": "A minor bug caused the app to freeze.",
+   "exVi": "Một lỗi nhỏ khiến ứng dụng bị treo.",
+   "col": [
+    "fix a bug",
+    "a software bug"
+   ]
+  },
+  {
+   "id": "it026",
+   "topic": "Công nghệ thông tin",
+   "w": "glitch",
+   "ipa": "/ɡlɪtʃ/",
+   "pos": "n",
+   "vi": "trục trặc",
+   "ex": "A glitch delayed the login for a few minutes.",
+   "exVi": "Một trục trặc làm chậm đăng nhập vài phút.",
+   "col": [
+    "a technical glitch",
+    "a minor glitch"
+   ]
+  },
+  {
+   "id": "it027",
+   "topic": "Công nghệ thông tin",
+   "w": "crash",
+   "ipa": "/kræʃ/",
+   "pos": "n, v",
+   "vi": "treo, sập",
+   "ex": "The server crash lost an hour of work.",
+   "exVi": "Vụ sập máy chủ làm mất một tiếng công việc.",
+   "col": [
+    "a system crash",
+    "the program crashed"
+   ]
+  },
+  {
+   "id": "it028",
+   "topic": "Công nghệ thông tin",
+   "w": "downtime",
+   "ipa": "/ˈdaʊntaɪm/",
+   "pos": "n",
+   "vi": "thời gian ngừng hoạt động",
+   "ex": "Scheduled downtime is set for midnight.",
+   "exVi": "Thời gian ngừng theo lịch được đặt vào nửa đêm.",
+   "col": [
+    "system downtime",
+    "reduce downtime"
+   ]
+  },
+  {
+   "id": "it029",
+   "topic": "Công nghệ thông tin",
+   "w": "troubleshoot",
+   "ipa": "/ˈtrʌblʃuːt/",
+   "pos": "v",
+   "vi": "xử lý sự cố",
+   "ex": "The technician troubleshoots the network daily.",
+   "exVi": "Kỹ thuật viên xử lý sự cố mạng hằng ngày.",
+   "col": [
+    "troubleshoot a problem",
+    "troubleshoot an issue"
+   ]
+  },
+  {
+   "id": "it030",
+   "topic": "Công nghệ thông tin",
+   "w": "reboot",
+   "ipa": "/ˌriːˈbuːt/",
+   "pos": "v",
+   "vi": "khởi động lại",
+   "ex": "Reboot the machine if it stops responding.",
+   "exVi": "Khởi động lại máy nếu nó ngừng phản hồi.",
+   "col": [
+    "reboot a system",
+    "reboot the computer"
+   ]
+  },
+  {
+   "id": "it031",
+   "topic": "Công nghệ thông tin",
+   "w": "password",
+   "ipa": "/ˈpɑːswɜːd/",
+   "pos": "n",
+   "vi": "mật khẩu",
+   "ex": "Change your password every three months.",
+   "exVi": "Đổi mật khẩu ba tháng một lần.",
+   "col": [
+    "a strong password",
+    "reset a password"
+   ]
+  },
+  {
+   "id": "it032",
+   "topic": "Công nghệ thông tin",
+   "w": "login",
+   "ipa": "/ˈlɒɡɪn/",
+   "pos": "n",
+   "vi": "đăng nhập",
+   "ex": "Each login is recorded for security.",
+   "exVi": "Mỗi lần đăng nhập được ghi lại để bảo mật.",
+   "col": [
+    "a login",
+    "a login screen"
+   ]
+  },
+  {
+   "id": "it033",
+   "topic": "Công nghệ thông tin",
+   "w": "authentication",
+   "ipa": "/ɔːˌθentɪˈkeɪʃn/",
+   "pos": "n",
+   "vi": "xác thực",
+   "ex": "Two-factor authentication adds an extra layer.",
+   "exVi": "Xác thực hai lớp thêm một tầng bảo vệ.",
+   "col": [
+    "two-factor authentication",
+    "user authentication"
+   ]
+  },
+  {
+   "id": "it034",
+   "topic": "Công nghệ thông tin",
+   "w": "access",
+   "ipa": "/ˈækses/",
+   "pos": "n, v",
+   "vi": "quyền truy cập",
+   "ex": "Only managers have access to the payroll file.",
+   "exVi": "Chỉ quản lý có quyền truy cập tệp bảng lương.",
+   "col": [
+    "grant access",
+    "restrict access"
+   ]
+  },
+  {
+   "id": "it035",
+   "topic": "Công nghệ thông tin",
+   "w": "permission",
+   "ipa": "/pəˈmɪʃn/",
+   "pos": "n",
+   "vi": "quyền hạn",
+   "ex": "You need permission to edit the shared folder.",
+   "exVi": "Bạn cần quyền để chỉnh sửa thư mục dùng chung.",
+   "col": [
+    "access permission",
+    "grant permission"
+   ]
+  },
+  {
+   "id": "it036",
+   "topic": "Công nghệ thông tin",
+   "w": "bandwidth",
+   "ipa": "/ˈbændwɪdθ/",
+   "pos": "n",
+   "vi": "băng thông",
+   "ex": "Video calls use a lot of bandwidth.",
+   "exVi": "Cuộc gọi video dùng nhiều băng thông.",
+   "col": [
+    "limited bandwidth",
+    "increase bandwidth"
+   ]
+  },
+  {
+   "id": "it037",
+   "topic": "Công nghệ thông tin",
+   "w": "latency",
+   "ipa": "/ˈleɪtənsi/",
+   "pos": "n",
+   "vi": "độ trễ",
+   "ex": "High latency slowed the connection.",
+   "exVi": "Độ trễ cao làm chậm kết nối.",
+   "col": [
+    "low latency",
+    "network latency"
+   ]
+  },
+  {
+   "id": "it038",
+   "topic": "Công nghệ thông tin",
+   "w": "migrate",
+   "ipa": "/maɪˈɡreɪt/",
+   "pos": "v",
+   "vi": "di chuyển dữ liệu",
+   "ex": "The firm migrated its data to the cloud.",
+   "exVi": "Công ty di chuyển dữ liệu lên đám mây.",
+   "col": [
+    "migrate data",
+    "migrate a system"
+   ]
+  },
+  {
+   "id": "it039",
+   "topic": "Công nghệ thông tin",
+   "w": "deploy",
+   "ipa": "/dɪˈplɔɪ/",
+   "pos": "v",
+   "vi": "triển khai",
+   "ex": "The developers deployed the update on Friday.",
+   "exVi": "Các lập trình viên triển khai bản cập nhật vào thứ Sáu.",
+   "col": [
+    "deploy software",
+    "deploy an application"
+   ]
+  },
+  {
+   "id": "it040",
+   "topic": "Công nghệ thông tin",
+   "w": "synchronize",
+   "ipa": "/ˈsɪŋkrənaɪz/",
+   "pos": "v",
+   "vi": "đồng bộ",
+   "ex": "The app synchronizes files across devices.",
+   "exVi": "Ứng dụng đồng bộ tệp trên các thiết bị.",
+   "col": [
+    "synchronize data",
+    "synchronize files"
+   ]
+  },
+  {
+   "id": "it041",
+   "topic": "Công nghệ thông tin",
+   "w": "prompt",
+   "ipa": "/prɒmpt/",
+   "pos": "n",
+   "vi": "lời nhắc trên màn hình",
+   "ex": "A prompt asks you to confirm before deleting.",
+   "exVi": "Một lời nhắc yêu cầu bạn xác nhận trước khi xoá.",
+   "col": [
+    "an on-screen prompt",
+    "a system prompt"
+   ]
+  },
+  {
+   "id": "it042",
+   "topic": "Công nghệ thông tin",
+   "w": "default",
+   "ipa": "/dɪˈfɔːlt/",
+   "pos": "n",
+   "vi": "mặc định",
+   "ex": "The default setting saves files every minute.",
+   "exVi": "Cài đặt mặc định lưu tệp mỗi phút.",
+   "col": [
+    "a default setting",
+    "by default"
+   ]
+  },
+  {
+   "id": "it043",
+   "topic": "Công nghệ thông tin",
+   "w": "setting",
+   "ipa": "/ˈsetɪŋ/",
+   "pos": "n",
+   "vi": "thiết lập",
+   "ex": "Adjust the privacy settings before you share.",
+   "exVi": "Chỉnh các thiết lập riêng tư trước khi chia sẻ.",
+   "col": [
+    "privacy settings",
+    "change a setting"
+   ]
+  },
+  {
+   "id": "it044",
+   "topic": "Công nghệ thông tin",
+   "w": "functionality",
+   "ipa": "/ˌfʌŋkʃəˈnæləti/",
+   "pos": "n",
+   "vi": "chức năng",
+   "ex": "The update added useful new functionality.",
+   "exVi": "Bản cập nhật thêm chức năng mới hữu ích.",
+   "col": [
+    "new functionality",
+    "core functionality"
+   ]
+  },
+  {
+   "id": "it045",
+   "topic": "Công nghệ thông tin",
+   "w": "scalable",
+   "ipa": "/ˈskeɪləbl/",
+   "pos": "adj",
+   "vi": "có thể mở rộng quy mô",
+   "ex": "The system is scalable as the business grows.",
+   "exVi": "Hệ thống có thể mở rộng khi doanh nghiệp phát triển.",
+   "col": [
+    "a scalable system",
+    "scalable software"
+   ]
+  },
+  {
+   "id": "it046",
+   "topic": "Công nghệ thông tin",
+   "w": "remote access",
+   "ipa": "/rɪˈməʊt ˈækses/",
+   "pos": "n",
+   "vi": "truy cập từ xa",
+   "ex": "Remote access lets staff work from home.",
+   "exVi": "Truy cập từ xa cho phép nhân viên làm việc tại nhà.",
+   "col": [
+    "remote access",
+    "secure remote access"
+   ]
+  },
+  {
+   "id": "it047",
+   "topic": "Công nghệ thông tin",
+   "w": "cloud",
+   "ipa": "/klaʊd/",
+   "pos": "n",
+   "vi": "đám mây",
+   "ex": "The company stores all files in the cloud.",
+   "exVi": "Công ty lưu mọi tệp trên đám mây.",
+   "col": [
+    "cloud storage",
+    "a cloud service"
+   ]
+  },
+  {
+   "id": "it048",
+   "topic": "Công nghệ thông tin",
+   "w": "storage",
+   "ipa": "/ˈstɔːrɪdʒ/",
+   "pos": "n",
+   "vi": "bộ nhớ lưu trữ",
+   "ex": "The laptop ran out of storage last week.",
+   "exVi": "Laptop hết bộ nhớ lưu trữ tuần trước.",
+   "col": [
+    "storage space",
+    "cloud storage"
+   ]
+  },
+  {
+   "id": "it049",
+   "topic": "Công nghệ thông tin",
+   "w": "memory",
+   "ipa": "/ˈmeməri/",
+   "pos": "n",
+   "vi": "bộ nhớ",
+   "ex": "The program needs more memory to run smoothly.",
+   "exVi": "Chương trình cần thêm bộ nhớ để chạy mượt.",
+   "col": [
+    "computer memory",
+    "free up memory"
+   ]
+  },
+  {
+   "id": "it050",
+   "topic": "Công nghệ thông tin",
+   "w": "processor",
+   "ipa": "/ˈprəʊsesə/",
+   "pos": "n",
+   "vi": "bộ xử lý",
+   "ex": "A faster processor cut the rendering time.",
+   "exVi": "Một bộ xử lý nhanh hơn giảm thời gian dựng hình.",
+   "col": [
+    "a fast processor",
+    "a dual-core processor"
+   ]
+  },
+  {
+   "id": "it051",
+   "topic": "Công nghệ thông tin",
+   "w": "peripheral",
+   "ipa": "/pəˈrɪfərəl/",
+   "pos": "n",
+   "vi": "thiết bị ngoại vi",
+   "ex": "Keyboards and mice are common peripherals.",
+   "exVi": "Bàn phím và chuột là thiết bị ngoại vi thường gặp.",
+   "col": [
+    "a peripheral device",
+    "connect a peripheral"
+   ]
+  },
+  {
+   "id": "it052",
+   "topic": "Công nghệ thông tin",
+   "w": "router",
+   "ipa": "/ˈruːtə/",
+   "pos": "n",
+   "vi": "bộ định tuyến",
+   "ex": "Restart the router if the internet drops.",
+   "exVi": "Khởi động lại bộ định tuyến nếu mất mạng.",
+   "col": [
+    "a wireless router",
+    "reset the router"
+   ]
+  },
+  {
+   "id": "it053",
+   "topic": "Công nghệ thông tin",
+   "w": "cable",
+   "ipa": "/ˈkeɪbl/",
+   "pos": "n",
+   "vi": "dây cáp",
+   "ex": "A loose cable caused the display to flicker.",
+   "exVi": "Một dây cáp lỏng khiến màn hình nhấp nháy.",
+   "col": [
+    "a network cable",
+    "a power cable"
+   ]
+  },
+  {
+   "id": "it054",
+   "topic": "Công nghệ thông tin",
+   "w": "adapter",
+   "ipa": "/əˈdæptə/",
+   "pos": "n",
+   "vi": "bộ chuyển đổi",
+   "ex": "You will need an adapter for the projector.",
+   "exVi": "Bạn sẽ cần một bộ chuyển đổi cho máy chiếu.",
+   "col": [
+    "a power adapter",
+    "a travel adapter"
+   ]
+  },
+  {
+   "id": "it055",
+   "topic": "Công nghệ thông tin",
+   "w": "monitor",
+   "ipa": "/ˈmɒnɪtə/",
+   "pos": "n",
+   "vi": "màn hình",
+   "ex": "A second monitor makes editing much easier.",
+   "exVi": "Màn hình thứ hai giúp chỉnh sửa dễ hơn nhiều.",
+   "col": [
+    "a computer monitor",
+    "a wide monitor"
+   ]
+  },
+  {
+   "id": "it056",
+   "topic": "Công nghệ thông tin",
+   "w": "keyboard",
+   "ipa": "/ˈkiːbɔːd/",
+   "pos": "n",
+   "vi": "bàn phím",
+   "ex": "The wireless keyboard connects by Bluetooth.",
+   "exVi": "Bàn phím không dây kết nối qua Bluetooth.",
+   "col": [
+    "a wireless keyboard",
+    "a keyboard shortcut"
+   ]
+  },
+  {
+   "id": "it057",
+   "topic": "Công nghệ thông tin",
+   "w": "webcam",
+   "ipa": "/ˈwebkæm/",
+   "pos": "n",
+   "vi": "máy quay web",
+   "ex": "Turn on your webcam for the video call.",
+   "exVi": "Bật máy quay web cho cuộc gọi video.",
+   "col": [
+    "a built-in webcam",
+    "turn on the webcam"
+   ]
+  },
+  {
+   "id": "it058",
+   "topic": "Công nghệ thông tin",
+   "w": "peripheral device",
+   "ipa": "/pəˈrɪfərəl dɪˈvaɪs/",
+   "pos": "n",
+   "vi": "thiết bị ngoại vi",
+   "ex": "Every peripheral device must be registered.",
+   "exVi": "Mọi thiết bị ngoại vi phải được đăng ký.",
+   "col": [
+    "a peripheral device",
+    "an external peripheral device"
+   ]
+  },
+  {
+   "id": "it059",
+   "topic": "Công nghệ thông tin",
+   "w": "spreadsheet",
+   "ipa": "/ˈspredʃiːt/",
+   "pos": "n",
+   "vi": "bảng tính",
+   "ex": "The budget is tracked in a shared spreadsheet.",
+   "exVi": "Ngân sách được theo dõi trong một bảng tính chung.",
+   "col": [
+    "a spreadsheet",
+    "update a spreadsheet"
+   ]
+  },
+  {
+   "id": "it060",
+   "topic": "Công nghệ thông tin",
+   "w": "template",
+   "ipa": "/ˈtemplət/",
+   "pos": "n",
+   "vi": "mẫu có sẵn",
+   "ex": "Use the company template for all reports.",
+   "exVi": "Dùng mẫu công ty cho mọi báo cáo.",
+   "col": [
+    "a document template",
+    "a report template"
+   ]
+  },
+  {
+   "id": "it061",
+   "topic": "Công nghệ thông tin",
+   "w": "document",
+   "ipa": "/ˈdɒkjumənt/",
+   "pos": "n",
+   "vi": "tài liệu",
+   "ex": "Save the document before you close the program.",
+   "exVi": "Lưu tài liệu trước khi đóng chương trình.",
+   "col": [
+    "a text document",
+    "share a document"
+   ]
+  },
+  {
+   "id": "it062",
+   "topic": "Công nghệ thông tin",
+   "w": "attachment",
+   "ipa": "/əˈtætʃmənt/",
+   "pos": "n",
+   "vi": "tệp đính kèm",
+   "ex": "Open the attachment only if you trust the sender.",
+   "exVi": "Chỉ mở tệp đính kèm nếu bạn tin người gửi.",
+   "col": [
+    "an email attachment",
+    "open an attachment"
+   ]
+  },
+  {
+   "id": "it063",
+   "topic": "Công nghệ thông tin",
+   "w": "folder",
+   "ipa": "/ˈfəʊldə/",
+   "pos": "n",
+   "vi": "thư mục",
+   "ex": "Move the files into the project folder.",
+   "exVi": "Chuyển các tệp vào thư mục dự án.",
+   "col": [
+    "a shared folder",
+    "create a folder"
+   ]
+  },
+  {
+   "id": "it064",
+   "topic": "Công nghệ thông tin",
+   "w": "file",
+   "ipa": "/faɪl/",
+   "pos": "n",
+   "vi": "tệp",
+   "ex": "The file is too large to send by email.",
+   "exVi": "Tệp quá lớn để gửi qua email.",
+   "col": [
+    "a large file",
+    "a text file"
+   ]
+  },
+  {
+   "id": "it065",
+   "topic": "Công nghệ thông tin",
+   "w": "format",
+   "ipa": "/ˈfɔːmæt/",
+   "pos": "n, v",
+   "vi": "định dạng",
+   "ex": "Save the report in PDF format.",
+   "exVi": "Lưu báo cáo ở định dạng PDF.",
+   "col": [
+    "a file format",
+    "in PDF format"
+   ]
+  },
+  {
+   "id": "it066",
+   "topic": "Công nghệ thông tin",
+   "w": "compress",
+   "ipa": "/kəmˈpres/",
+   "pos": "v",
+   "vi": "nén",
+   "ex": "Compress the folder before uploading it.",
+   "exVi": "Nén thư mục trước khi tải lên.",
+   "col": [
+    "compress a file",
+    "a compressed folder"
+   ]
+  },
+  {
+   "id": "it067",
+   "topic": "Công nghệ thông tin",
+   "w": "upload",
+   "ipa": "/ˌʌpˈləʊd/",
+   "pos": "v",
+   "vi": "tải lên",
+   "ex": "Upload the images to the shared drive.",
+   "exVi": "Tải hình ảnh lên ổ đĩa chung.",
+   "col": [
+    "upload a file",
+    "upload data"
+   ]
+  },
+  {
+   "id": "it068",
+   "topic": "Công nghệ thông tin",
+   "w": "download",
+   "ipa": "/ˌdaʊnˈləʊd/",
+   "pos": "v",
+   "vi": "tải xuống",
+   "ex": "Download the latest version from the site.",
+   "exVi": "Tải phiên bản mới nhất từ trang web.",
+   "col": [
+    "download a file",
+    "download an app"
+   ]
+  },
+  {
+   "id": "it069",
+   "topic": "Công nghệ thông tin",
+   "w": "browser",
+   "ipa": "/ˈbraʊzə/",
+   "pos": "n",
+   "vi": "trình duyệt",
+   "ex": "The site works best in a modern browser.",
+   "exVi": "Trang web chạy tốt nhất trong một trình duyệt hiện đại.",
+   "col": [
+    "a web browser",
+    "open a browser"
+   ]
+  },
+  {
+   "id": "it070",
+   "topic": "Công nghệ thông tin",
+   "w": "search engine",
+   "ipa": "/sɜːtʃ ˈendʒɪn/",
+   "pos": "n",
+   "vi": "công cụ tìm kiếm",
+   "ex": "A good search engine ranking brings more visitors.",
+   "exVi": "Thứ hạng tốt trên công cụ tìm kiếm mang lại nhiều khách hơn.",
+   "col": [
+    "a search engine",
+    "a search engine result"
+   ]
+  },
+  {
+   "id": "it071",
+   "topic": "Công nghệ thông tin",
+   "w": "website",
+   "ipa": "/ˈwebsaɪt/",
+   "pos": "n",
+   "vi": "trang web",
+   "ex": "The company website was redesigned last month.",
+   "exVi": "Trang web công ty được thiết kế lại tháng trước.",
+   "col": [
+    "a company website",
+    "launch a website"
+   ]
+  },
+  {
+   "id": "it072",
+   "topic": "Công nghệ thông tin",
+   "w": "domain",
+   "ipa": "/dəʊˈmeɪn/",
+   "pos": "n",
+   "vi": "tên miền",
+   "ex": "The firm registered a new domain for the brand.",
+   "exVi": "Công ty đăng ký một tên miền mới cho thương hiệu.",
+   "col": [
+    "a domain name",
+    "register a domain"
+   ]
+  },
+  {
+   "id": "it073",
+   "topic": "Công nghệ thông tin",
+   "w": "hosting",
+   "ipa": "/ˈhəʊstɪŋ/",
+   "pos": "n",
+   "vi": "dịch vụ lưu trữ web",
+   "ex": "Reliable hosting keeps the site online.",
+   "exVi": "Dịch vụ lưu trữ đáng tin giữ trang luôn online.",
+   "col": [
+    "web hosting",
+    "a hosting provider"
+   ]
+  },
+  {
+   "id": "it074",
+   "topic": "Công nghệ thông tin",
+   "w": "cache",
+   "ipa": "/kæʃ/",
+   "pos": "n",
+   "vi": "bộ nhớ đệm",
+   "ex": "Clear the cache if the page looks outdated.",
+   "exVi": "Xoá bộ nhớ đệm nếu trang trông cũ.",
+   "col": [
+    "clear the cache",
+    "a browser cache"
+   ]
+  },
+  {
+   "id": "it075",
+   "topic": "Công nghệ thông tin",
+   "w": "cookie",
+   "ipa": "/ˈkʊki/",
+   "pos": "n",
+   "vi": "cookie",
+   "ex": "The site asks visitors to accept cookies.",
+   "exVi": "Trang web hỏi khách chấp nhận cookie.",
+   "col": [
+    "accept cookies",
+    "a browser cookie"
+   ]
+  },
+  {
+   "id": "it076",
+   "topic": "Công nghệ thông tin",
+   "w": "protocol",
+   "ipa": "/ˈprəʊtəkɒl/",
+   "pos": "n",
+   "vi": "giao thức",
+   "ex": "The system uses a secure protocol for payments.",
+   "exVi": "Hệ thống dùng một giao thức bảo mật cho thanh toán.",
+   "col": [
+    "a secure protocol",
+    "a network protocol"
+   ]
+  },
+  {
+   "id": "it077",
+   "topic": "Công nghệ thông tin",
+   "w": "algorithm",
+   "ipa": "/ˈælɡərɪðəm/",
+   "pos": "n",
+   "vi": "thuật toán",
+   "ex": "A new algorithm sorts the results faster.",
+   "exVi": "Một thuật toán mới sắp xếp kết quả nhanh hơn.",
+   "col": [
+    "a search algorithm",
+    "a sorting algorithm"
+   ]
+  },
+  {
+   "id": "it078",
+   "topic": "Công nghệ thông tin",
+   "w": "automation",
+   "ipa": "/ˌɔːtəˈmeɪʃn/",
+   "pos": "n",
+   "vi": "tự động hoá",
+   "ex": "Automation reduced the manual data entry.",
+   "exVi": "Tự động hoá giảm việc nhập dữ liệu thủ công.",
+   "col": [
+    "process automation",
+    "office automation"
+   ]
+  },
+  {
+   "id": "it079",
+   "topic": "Công nghệ thông tin",
+   "w": "prototype",
+   "ipa": "/ˈprəʊtətaɪp/",
+   "pos": "n",
+   "vi": "bản mẫu",
+   "ex": "The developers built a prototype of the app.",
+   "exVi": "Các lập trình viên dựng một bản mẫu của ứng dụng.",
+   "col": [
+    "a working prototype",
+    "test a prototype"
+   ]
+  },
+  {
+   "id": "it080",
+   "topic": "Công nghệ thông tin",
+   "w": "debug",
+   "ipa": "/ˌdiːˈbʌɡ/",
+   "pos": "v",
+   "vi": "gỡ lỗi",
+   "ex": "The team spent a day debugging the new feature.",
+   "exVi": "Nhóm dành một ngày gỡ lỗi tính năng mới.",
+   "col": [
+    "debug the code",
+    "debug a program"
+   ]
+  },
+  {
+   "id": "it081",
+   "topic": "Công nghệ thông tin",
+   "w": "code",
+   "ipa": "/kəʊd/",
+   "pos": "n, v",
+   "vi": "mã lệnh",
+   "ex": "Clean code is easier to maintain.",
+   "exVi": "Mã lệnh gọn gàng dễ bảo trì hơn.",
+   "col": [
+    "write code",
+    "source code"
+   ]
+  },
+  {
+   "id": "it082",
+   "topic": "Công nghệ thông tin",
+   "w": "developer",
+   "ipa": "/dɪˈveləpə/",
+   "pos": "n",
+   "vi": "lập trình viên",
+   "ex": "A developer fixed the issue within an hour.",
+   "exVi": "Một lập trình viên sửa lỗi trong một giờ.",
+   "col": [
+    "a software developer",
+    "a web developer"
+   ]
+  },
+  {
+   "id": "it083",
+   "topic": "Công nghệ thông tin",
+   "w": "programmer",
+   "ipa": "/ˈprəʊɡræmə/",
+   "pos": "n",
+   "vi": "người lập trình",
+   "ex": "The programmer added a search function.",
+   "exVi": "Người lập trình thêm một chức năng tìm kiếm.",
+   "col": [
+    "a skilled programmer",
+    "a senior programmer"
+   ]
+  },
+  {
+   "id": "it084",
+   "topic": "Công nghệ thông tin",
+   "w": "administrator",
+   "ipa": "/ədˈmɪnɪstreɪtə/",
+   "pos": "n",
+   "vi": "quản trị viên",
+   "ex": "The administrator manages all user accounts.",
+   "exVi": "Quản trị viên quản lý mọi tài khoản người dùng.",
+   "col": [
+    "a system administrator",
+    "a network administrator"
+   ]
+  },
+  {
+   "id": "it085",
+   "topic": "Công nghệ thông tin",
+   "w": "user",
+   "ipa": "/ˈjuːzə/",
+   "pos": "n",
+   "vi": "người dùng",
+   "ex": "The app now supports a thousand users at once.",
+   "exVi": "Ứng dụng nay hỗ trợ một nghìn người dùng cùng lúc.",
+   "col": [
+    "a registered user",
+    "an end user"
+   ]
+  },
+  {
+   "id": "it086",
+   "topic": "Công nghệ thông tin",
+   "w": "subscription",
+   "ipa": "/səbˈskrɪpʃn/",
+   "pos": "n",
+   "vi": "gói thuê bao",
+   "ex": "The software runs on a monthly subscription.",
+   "exVi": "Phần mềm chạy theo gói thuê bao hằng tháng.",
+   "col": [
+    "a monthly subscription",
+    "renew a subscription"
+   ]
+  },
+  {
+   "id": "it087",
+   "topic": "Công nghệ thông tin",
+   "w": "license",
+   "ipa": "/ˈlaɪsns/",
+   "pos": "n",
+   "vi": "giấy phép sử dụng",
+   "ex": "Each computer needs its own software license.",
+   "exVi": "Mỗi máy tính cần một giấy phép phần mềm riêng.",
+   "col": [
+    "a software license",
+    "a user license"
+   ]
+  },
+  {
+   "id": "it088",
+   "topic": "Công nghệ thông tin",
+   "w": "version",
+   "ipa": "/ˈvɜːʃn/",
+   "pos": "n",
+   "vi": "phiên bản",
+   "ex": "The latest version fixes several bugs.",
+   "exVi": "Phiên bản mới nhất sửa vài lỗi.",
+   "col": [
+    "the latest version",
+    "an updated version"
+   ]
+  },
+  {
+   "id": "it089",
+   "topic": "Công nghệ thông tin",
+   "w": "notification",
+   "ipa": "/ˌnəʊtɪfɪˈkeɪʃn/",
+   "pos": "n",
+   "vi": "thông báo",
+   "ex": "A notification pops up when a file is shared.",
+   "exVi": "Một thông báo hiện lên khi một tệp được chia sẻ.",
+   "col": [
+    "a push notification",
+    "a system notification"
+   ]
+  },
+  {
+   "id": "it090",
+   "topic": "Công nghệ thông tin",
+   "w": "compatibility",
+   "ipa": "/kəmˌpætəˈbɪləti/",
+   "pos": "n",
+   "vi": "tính tương thích",
+   "ex": "Check compatibility before installing the driver.",
+   "exVi": "Kiểm tra tính tương thích trước khi cài trình điều khiển.",
+   "col": [
+    "compatibility issues",
+    "check compatibility"
+   ]
+  },
+  {
+   "id": "it091",
+   "topic": "Công nghệ thông tin",
+   "w": "wireless",
+   "ipa": "/ˈwaɪələs/",
+   "pos": "adj",
+   "vi": "không dây",
+   "ex": "The wireless printer serves the whole floor.",
+   "exVi": "Máy in không dây phục vụ cả tầng.",
+   "col": [
+    "a wireless connection",
+    "a wireless network"
+   ]
+  },
+  {
+   "id": "it092",
+   "topic": "Công nghệ thông tin",
+   "w": "seamless",
+   "ipa": "/ˈsiːmləs/",
+   "pos": "adj",
+   "vi": "liền mạch",
+   "ex": "The transfer was seamless and quick.",
+   "exVi": "Việc chuyển đổi diễn ra liền mạch và nhanh.",
+   "col": [
+    "a seamless transition",
+    "seamless integration"
+   ]
+  }
+ ]
+}

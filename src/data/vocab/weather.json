@@ -1,0 +1,1181 @@
+{
+ "topic": "Thời tiết & thiên nhiên",
+ "words": [
+  {
+   "id": "we001",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "weather",
+   "ipa": "/ˈweðə/",
+   "pos": "n",
+   "vi": "thời tiết",
+   "ex": "The weather turned cold overnight.",
+   "exVi": "Thời tiết trở lạnh qua đêm.",
+   "col": [
+    "weather",
+    "mild weather"
+   ]
+  },
+  {
+   "id": "we002",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "forecast",
+   "ipa": "/ˈfɔːkɑːst/",
+   "pos": "n",
+   "vi": "dự báo",
+   "ex": "The forecast warns of heavy rain.",
+   "exVi": "Dự báo cảnh báo mưa lớn.",
+   "col": [
+    "a forecast",
+    "a weather forecast"
+   ]
+  },
+  {
+   "id": "we003",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "climate",
+   "ipa": "/ˈklaɪmət/",
+   "pos": "n",
+   "vi": "khí hậu",
+   "ex": "The region has a mild climate.",
+   "exVi": "Khu vực có một khí hậu ôn hoà.",
+   "col": [
+    "climate",
+    "a dry climate"
+   ]
+  },
+  {
+   "id": "we004",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "temperature",
+   "ipa": "/ˈtemprətʃə/",
+   "pos": "n",
+   "vi": "nhiệt độ",
+   "ex": "The temperature dropped below zero.",
+   "exVi": "Nhiệt độ giảm dưới không.",
+   "col": [
+    "temperature",
+    "a high temperature"
+   ]
+  },
+  {
+   "id": "we005",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "humidity",
+   "ipa": "/hjuːˈmɪdəti/",
+   "pos": "n",
+   "vi": "độ ẩm",
+   "ex": "High humidity made the air feel heavy.",
+   "exVi": "Độ ẩm cao khiến không khí nặng nề.",
+   "col": [
+    "humidity",
+    "high humidity"
+   ]
+  },
+  {
+   "id": "we006",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "breeze",
+   "ipa": "/briːz/",
+   "pos": "n",
+   "vi": "gió nhẹ",
+   "ex": "A cool breeze crossed the beach.",
+   "exVi": "Một cơn gió nhẹ mát thổi qua bãi biển.",
+   "col": [
+    "a breeze",
+    "a gentle breeze"
+   ]
+  },
+  {
+   "id": "we007",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "gale",
+   "ipa": "/ɡeɪl/",
+   "pos": "n",
+   "vi": "gió mạnh",
+   "ex": "A gale tore branches from the trees.",
+   "exVi": "Một cơn gió mạnh giật cành khỏi cây.",
+   "col": [
+    "a gale",
+    "a strong gale"
+   ]
+  },
+  {
+   "id": "we008",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "storm",
+   "ipa": "/stɔːm/",
+   "pos": "n",
+   "vi": "bão",
+   "ex": "The storm knocked out the power.",
+   "exVi": "Cơn bão làm mất điện.",
+   "col": [
+    "a storm",
+    "a severe storm"
+   ]
+  },
+  {
+   "id": "we009",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "thunderstorm",
+   "ipa": "/ˈθʌndəstɔːm/",
+   "pos": "n",
+   "vi": "dông bão",
+   "ex": "A thunderstorm rolled in at dusk.",
+   "exVi": "Một cơn dông kéo tới lúc chạng vạng.",
+   "col": [
+    "a thunderstorm",
+    "a heavy thunderstorm"
+   ]
+  },
+  {
+   "id": "we010",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "lightning",
+   "ipa": "/ˈlaɪtnɪŋ/",
+   "pos": "n",
+   "vi": "sét",
+   "ex": "Lightning lit up the night sky.",
+   "exVi": "Sét thắp sáng bầu trời đêm.",
+   "col": [
+    "lightning",
+    "a flash of lightning"
+   ]
+  },
+  {
+   "id": "we011",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "thunder",
+   "ipa": "/ˈθʌndə/",
+   "pos": "n",
+   "vi": "sấm",
+   "ex": "Thunder rumbled in the distance.",
+   "exVi": "Sấm rền ở phía xa.",
+   "col": [
+    "thunder",
+    "a clap of thunder"
+   ]
+  },
+  {
+   "id": "we012",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "drizzle",
+   "ipa": "/ˈdrɪzl/",
+   "pos": "n",
+   "vi": "mưa phùn",
+   "ex": "A light drizzle fell all morning.",
+   "exVi": "Một cơn mưa phùn nhẹ rơi cả buổi sáng.",
+   "col": [
+    "drizzle",
+    "a light drizzle"
+   ]
+  },
+  {
+   "id": "we013",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "downpour",
+   "ipa": "/ˈdaʊnpɔː/",
+   "pos": "n",
+   "vi": "mưa như trút",
+   "ex": "A sudden downpour soaked the crowd.",
+   "exVi": "Một cơn mưa như trút làm ướt đám đông.",
+   "col": [
+    "a downpour",
+    "a heavy downpour"
+   ]
+  },
+  {
+   "id": "we014",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "flood",
+   "ipa": "/flʌd/",
+   "pos": "n",
+   "vi": "lũ lụt",
+   "ex": "The flood covered the low fields.",
+   "exVi": "Lũ lụt bao phủ các cánh đồng thấp.",
+   "col": [
+    "a flood",
+    "a flash flood"
+   ]
+  },
+  {
+   "id": "we015",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "drought",
+   "ipa": "/draʊt/",
+   "pos": "n",
+   "vi": "hạn hán",
+   "ex": "The long drought dried up the river.",
+   "exVi": "Cơn hạn hán dài làm cạn con sông.",
+   "col": [
+    "a drought",
+    "a severe drought"
+   ]
+  },
+  {
+   "id": "we016",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "frost",
+   "ipa": "/frɒst/",
+   "pos": "n",
+   "vi": "sương giá",
+   "ex": "Frost covered the grass at dawn.",
+   "exVi": "Sương giá phủ cỏ lúc bình minh.",
+   "col": [
+    "frost",
+    "a heavy frost"
+   ]
+  },
+  {
+   "id": "we017",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "hail",
+   "ipa": "/heɪl/",
+   "pos": "n",
+   "vi": "mưa đá",
+   "ex": "Hail damaged the parked cars.",
+   "exVi": "Mưa đá làm hỏng các xe đỗ.",
+   "col": [
+    "hail",
+    "a hail storm"
+   ]
+  },
+  {
+   "id": "we018",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "sleet",
+   "ipa": "/sliːt/",
+   "pos": "n",
+   "vi": "mưa tuyết",
+   "ex": "Cold sleet fell during the drive.",
+   "exVi": "Mưa tuyết lạnh rơi trong lúc lái xe.",
+   "col": [
+    "sleet",
+    "freezing sleet"
+   ]
+  },
+  {
+   "id": "we019",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "blizzard",
+   "ipa": "/ˈblɪzəd/",
+   "pos": "n",
+   "vi": "bão tuyết",
+   "ex": "A blizzard closed the mountain roads.",
+   "exVi": "Một cơn bão tuyết đóng các con đường núi.",
+   "col": [
+    "a blizzard",
+    "a fierce blizzard"
+   ]
+  },
+  {
+   "id": "we020",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "fog",
+   "ipa": "/fɒɡ/",
+   "pos": "n",
+   "vi": "sương mù",
+   "ex": "Thick fog delayed the flights.",
+   "exVi": "Sương mù dày làm chậm các chuyến bay.",
+   "col": [
+    "fog",
+    "thick fog"
+   ]
+  },
+  {
+   "id": "we021",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "mist",
+   "ipa": "/mɪst/",
+   "pos": "n",
+   "vi": "sương mỏng",
+   "ex": "A light mist hung over the valley.",
+   "exVi": "Một lớp sương mỏng phủ trên thung lũng.",
+   "col": [
+    "mist",
+    "morning mist"
+   ]
+  },
+  {
+   "id": "we022",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "overcast",
+   "ipa": "/ˈəʊvəkɑːst/",
+   "pos": "adj",
+   "vi": "u ám nhiều mây",
+   "ex": "The sky stayed overcast all day.",
+   "exVi": "Bầu trời u ám nhiều mây cả ngày.",
+   "col": [
+    "overcast",
+    "an overcast sky"
+   ]
+  },
+  {
+   "id": "we023",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "sunny",
+   "ipa": "/ˈsʌni/",
+   "pos": "adj",
+   "vi": "nắng",
+   "ex": "A sunny morning greeted the hikers.",
+   "exVi": "Một buổi sáng nắng chào đón những người leo núi.",
+   "col": [
+    "sunny",
+    "a sunny day"
+   ]
+  },
+  {
+   "id": "we024",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "cloudy",
+   "ipa": "/ˈklaʊdi/",
+   "pos": "adj",
+   "vi": "nhiều mây",
+   "ex": "The afternoon grew cloudy and cool.",
+   "exVi": "Buổi chiều trở nên nhiều mây và mát.",
+   "col": [
+    "cloudy",
+    "a cloudy sky"
+   ]
+  },
+  {
+   "id": "we025",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "chilly",
+   "ipa": "/ˈtʃɪli/",
+   "pos": "adj",
+   "vi": "se lạnh",
+   "ex": "The evening air felt chilly.",
+   "exVi": "Không khí buổi tối se lạnh.",
+   "col": [
+    "chilly",
+    "a chilly wind"
+   ]
+  },
+  {
+   "id": "we026",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "humid",
+   "ipa": "/ˈhjuːmɪd/",
+   "pos": "adj",
+   "vi": "ẩm ướt",
+   "ex": "The summer here is hot and humid.",
+   "exVi": "Mùa hè ở đây nóng và ẩm ướt.",
+   "col": [
+    "humid",
+    "a humid climate"
+   ]
+  },
+  {
+   "id": "we027",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "breezy",
+   "ipa": "/ˈbriːzi/",
+   "pos": "adj",
+   "vi": "lộng gió",
+   "ex": "The coast was cool and breezy.",
+   "exVi": "Bờ biển mát và lộng gió.",
+   "col": [
+    "breezy",
+    "a breezy day"
+   ]
+  },
+  {
+   "id": "we028",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "mild",
+   "ipa": "/maɪld/",
+   "pos": "adj",
+   "vi": "ôn hoà",
+   "ex": "The winter was unusually mild.",
+   "exVi": "Mùa đông ôn hoà một cách bất thường.",
+   "col": [
+    "mild",
+    "mild weather"
+   ]
+  },
+  {
+   "id": "we029",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "severe",
+   "ipa": "/sɪˈvɪə/",
+   "pos": "adj",
+   "vi": "khắc nghiệt",
+   "ex": "Severe weather closed the schools.",
+   "exVi": "Thời tiết khắc nghiệt đóng cửa các trường.",
+   "col": [
+    "severe",
+    "severe weather"
+   ]
+  },
+  {
+   "id": "we030",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "mountain",
+   "ipa": "/ˈmaʊntɪn/",
+   "pos": "n",
+   "vi": "núi",
+   "ex": "The mountain was capped with snow.",
+   "exVi": "Ngọn núi phủ tuyết trên đỉnh.",
+   "col": [
+    "a mountain",
+    "a high mountain"
+   ]
+  },
+  {
+   "id": "we031",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "valley",
+   "ipa": "/ˈvæli/",
+   "pos": "n",
+   "vi": "thung lũng",
+   "ex": "The river runs through the valley.",
+   "exVi": "Con sông chảy qua thung lũng.",
+   "col": [
+    "a valley",
+    "a green valley"
+   ]
+  },
+  {
+   "id": "we032",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "hill",
+   "ipa": "/hɪl/",
+   "pos": "n",
+   "vi": "đồi",
+   "ex": "A path climbs the gentle hill.",
+   "exVi": "Một lối mòn leo lên ngọn đồi thoai thoải.",
+   "col": [
+    "a hill",
+    "a steep hill"
+   ]
+  },
+  {
+   "id": "we033",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "cliff",
+   "ipa": "/klɪf/",
+   "pos": "n",
+   "vi": "vách đá",
+   "ex": "The cliff drops straight to the sea.",
+   "exVi": "Vách đá đổ thẳng xuống biển.",
+   "col": [
+    "a cliff",
+    "a steep cliff"
+   ]
+  },
+  {
+   "id": "we034",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "shore",
+   "ipa": "/ʃɔː/",
+   "pos": "n",
+   "vi": "bờ",
+   "ex": "Waves broke gently on the shore.",
+   "exVi": "Sóng vỗ nhẹ vào bờ.",
+   "col": [
+    "the shore",
+    "a rocky shore"
+   ]
+  },
+  {
+   "id": "we035",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "stream",
+   "ipa": "/striːm/",
+   "pos": "n",
+   "vi": "suối",
+   "ex": "A clear stream runs past the cabin.",
+   "exVi": "Một dòng suối trong chảy qua căn nhà gỗ.",
+   "col": [
+    "a stream",
+    "a mountain stream"
+   ]
+  },
+  {
+   "id": "we036",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "meadow",
+   "ipa": "/ˈmedəʊ/",
+   "pos": "n",
+   "vi": "đồng cỏ",
+   "ex": "Wildflowers filled the meadow.",
+   "exVi": "Hoa dại lấp đầy đồng cỏ.",
+   "col": [
+    "a meadow",
+    "an open meadow"
+   ]
+  },
+  {
+   "id": "we037",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "forest",
+   "ipa": "/ˈfɒrɪst/",
+   "pos": "n",
+   "vi": "rừng",
+   "ex": "The forest is home to many birds.",
+   "exVi": "Khu rừng là nơi ở của nhiều loài chim.",
+   "col": [
+    "a forest",
+    "a dense forest"
+   ]
+  },
+  {
+   "id": "we038",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "desert",
+   "ipa": "/ˈdezət/",
+   "pos": "n",
+   "vi": "sa mạc",
+   "ex": "The desert is dry and vast.",
+   "exVi": "Sa mạc khô cằn và rộng lớn.",
+   "col": [
+    "a desert",
+    "a sandy desert"
+   ]
+  },
+  {
+   "id": "we039",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "glacier",
+   "ipa": "/ˈɡlæsiə/",
+   "pos": "n",
+   "vi": "sông băng",
+   "ex": "The glacier moves slowly down the slope.",
+   "exVi": "Sông băng di chuyển chậm xuống dốc.",
+   "col": [
+    "a glacier",
+    "a melting glacier"
+   ]
+  },
+  {
+   "id": "we040",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "horizon",
+   "ipa": "/həˈraɪzn/",
+   "pos": "n",
+   "vi": "đường chân trời",
+   "ex": "The sun set below the horizon.",
+   "exVi": "Mặt trời lặn dưới đường chân trời.",
+   "col": [
+    "the horizon",
+    "a distant horizon"
+   ]
+  },
+  {
+   "id": "we041",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "scenic",
+   "ipa": "/ˈsiːnɪk/",
+   "pos": "adj",
+   "vi": "có phong cảnh đẹp",
+   "ex": "The road offers a scenic view.",
+   "exVi": "Con đường mang lại một khung cảnh đẹp.",
+   "col": [
+    "scenic",
+    "a scenic route"
+   ]
+  },
+  {
+   "id": "we042",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "tranquil",
+   "ipa": "/ˈtræŋkwɪl/",
+   "pos": "adj",
+   "vi": "yên bình",
+   "ex": "The lake was calm and tranquil.",
+   "exVi": "Hồ nước tĩnh lặng và yên bình.",
+   "col": [
+    "tranquil",
+    "a tranquil spot"
+   ]
+  },
+  {
+   "id": "we043",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "climate change",
+   "ipa": "/ˈklaɪmət tʃeɪndʒ/",
+   "pos": "n",
+   "vi": "biến đổi khí hậu",
+   "ex": "Climate change threatens the coastline.",
+   "exVi": "Biến đổi khí hậu đe doạ bờ biển.",
+   "col": [
+    "climate change",
+    "tackle climate change"
+   ]
+  },
+  {
+   "id": "we044",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "greenhouse gas",
+   "ipa": "/ˈɡriːnhaʊs ɡæs/",
+   "pos": "n",
+   "vi": "khí nhà kính",
+   "ex": "Greenhouse gas levels keep rising.",
+   "exVi": "Mức khí nhà kính tiếp tục tăng.",
+   "col": [
+    "greenhouse gas",
+    "greenhouse gas emissions"
+   ]
+  },
+  {
+   "id": "we045",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "emission",
+   "ipa": "/ɪˈmɪʃn/",
+   "pos": "n",
+   "vi": "khí thải",
+   "ex": "The plant cut its carbon emission.",
+   "exVi": "Nhà máy cắt giảm khí thải carbon.",
+   "col": [
+    "emission",
+    "carbon emission"
+   ]
+  },
+  {
+   "id": "we046",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "pollution",
+   "ipa": "/pəˈluːʃn/",
+   "pos": "n",
+   "vi": "ô nhiễm",
+   "ex": "Air pollution rose in the city.",
+   "exVi": "Ô nhiễm không khí tăng trong thành phố.",
+   "col": [
+    "pollution",
+    "air pollution"
+   ]
+  },
+  {
+   "id": "we047",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "conservation",
+   "ipa": "/ˌkɒnsəˈveɪʃn/",
+   "pos": "n",
+   "vi": "bảo tồn",
+   "ex": "Wildlife conservation protects rare species.",
+   "exVi": "Bảo tồn động vật hoang dã bảo vệ các loài hiếm.",
+   "col": [
+    "conservation",
+    "wildlife conservation"
+   ]
+  },
+  {
+   "id": "we048",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "habitat",
+   "ipa": "/ˈhæbɪtæt/",
+   "pos": "n",
+   "vi": "môi trường sống",
+   "ex": "The forest is a rich habitat for birds.",
+   "exVi": "Khu rừng là một môi trường sống giàu có cho chim.",
+   "col": [
+    "a habitat",
+    "a natural habitat"
+   ]
+  },
+  {
+   "id": "we049",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "ecosystem",
+   "ipa": "/ˈiːkəʊsɪstəm/",
+   "pos": "n",
+   "vi": "hệ sinh thái",
+   "ex": "The reef supports a whole ecosystem.",
+   "exVi": "Rạn san hô nuôi dưỡng cả một hệ sinh thái.",
+   "col": [
+    "an ecosystem",
+    "a fragile ecosystem"
+   ]
+  },
+  {
+   "id": "we050",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "biodiversity",
+   "ipa": "/ˌbaɪəʊdaɪˈvɜːsəti/",
+   "pos": "n",
+   "vi": "đa dạng sinh học",
+   "ex": "The park protects local biodiversity.",
+   "exVi": "Công viên bảo vệ đa dạng sinh học địa phương.",
+   "col": [
+    "biodiversity",
+    "rich biodiversity"
+   ]
+  },
+  {
+   "id": "we051",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "species",
+   "ipa": "/ˈspiːʃiːz/",
+   "pos": "n",
+   "vi": "loài",
+   "ex": "Several rare species live in the wetland.",
+   "exVi": "Vài loài hiếm sống ở vùng đất ngập nước.",
+   "col": [
+    "a species",
+    "an endangered species"
+   ]
+  },
+  {
+   "id": "we052",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "wildlife",
+   "ipa": "/ˈwaɪldlaɪf/",
+   "pos": "n",
+   "vi": "động vật hoang dã",
+   "ex": "The reserve is full of wildlife.",
+   "exVi": "Khu bảo tồn đầy động vật hoang dã.",
+   "col": [
+    "wildlife",
+    "protect wildlife"
+   ]
+  },
+  {
+   "id": "we053",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "renewable",
+   "ipa": "/rɪˈnjuːəbl/",
+   "pos": "adj",
+   "vi": "tái tạo",
+   "ex": "The town runs on renewable energy.",
+   "exVi": "Thị trấn chạy bằng năng lượng tái tạo.",
+   "col": [
+    "renewable",
+    "renewable energy"
+   ]
+  },
+  {
+   "id": "we054",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "sustainable",
+   "ipa": "/səˈsteɪnəbl/",
+   "pos": "adj",
+   "vi": "bền vững",
+   "ex": "The farm uses sustainable methods.",
+   "exVi": "Trang trại dùng các phương pháp bền vững.",
+   "col": [
+    "sustainable",
+    "sustainable use"
+   ]
+  },
+  {
+   "id": "we055",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "recycle",
+   "ipa": "/ˌriːˈsaɪkl/",
+   "pos": "v",
+   "vi": "tái chế",
+   "ex": "The town recycles most of its waste.",
+   "exVi": "Thị trấn tái chế phần lớn chất thải.",
+   "col": [
+    "recycle",
+    "recycle waste"
+   ]
+  },
+  {
+   "id": "we056",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "preserve",
+   "ipa": "/prɪˈzɜːv/",
+   "pos": "v",
+   "vi": "gìn giữ",
+   "ex": "The trust works to preserve the forest.",
+   "exVi": "Tổ chức nỗ lực gìn giữ khu rừng.",
+   "col": [
+    "preserve",
+    "preserve nature"
+   ]
+  },
+  {
+   "id": "we057",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "pollute",
+   "ipa": "/pəˈluːt/",
+   "pos": "v",
+   "vi": "gây ô nhiễm",
+   "ex": "Factories can pollute the river.",
+   "exVi": "Nhà máy có thể gây ô nhiễm con sông.",
+   "col": [
+    "pollute",
+    "pollute the air"
+   ]
+  },
+  {
+   "id": "we058",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "erosion",
+   "ipa": "/ɪˈrəʊʒn/",
+   "pos": "n",
+   "vi": "xói mòn",
+   "ex": "Coastal erosion threatens the cliff path.",
+   "exVi": "Xói mòn bờ biển đe doạ lối đi ven vách đá.",
+   "col": [
+    "erosion",
+    "soil erosion"
+   ]
+  },
+  {
+   "id": "we059",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "solar",
+   "ipa": "/ˈsəʊlə/",
+   "pos": "adj",
+   "vi": "năng lượng mặt trời",
+   "ex": "Solar panels cover the roof.",
+   "exVi": "Các tấm pin mặt trời phủ mái nhà.",
+   "col": [
+    "solar",
+    "solar power"
+   ]
+  },
+  {
+   "id": "we060",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "wind farm",
+   "ipa": "/wɪnd fɑːm/",
+   "pos": "n",
+   "vi": "trại điện gió",
+   "ex": "A wind farm powers the whole town.",
+   "exVi": "Một trại điện gió cấp điện cho cả thị trấn.",
+   "col": [
+    "a wind farm",
+    "an offshore wind farm"
+   ]
+  },
+  {
+   "id": "we061",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "hydroelectric",
+   "ipa": "/ˌhaɪdrəʊɪˈlektrɪk/",
+   "pos": "adj",
+   "vi": "thuỷ điện",
+   "ex": "A hydroelectric dam supplies the region.",
+   "exVi": "Một đập thuỷ điện cung cấp cho khu vực.",
+   "col": [
+    "hydroelectric",
+    "a hydroelectric plant"
+   ]
+  },
+  {
+   "id": "we062",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "landfill",
+   "ipa": "/ˈlændfɪl/",
+   "pos": "n",
+   "vi": "bãi chôn lấp",
+   "ex": "Less waste now goes to landfill.",
+   "exVi": "Ít chất thải hơn nay đi tới bãi chôn lấp.",
+   "col": [
+    "landfill",
+    "a landfill site"
+   ]
+  },
+  {
+   "id": "we063",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "compost",
+   "ipa": "/ˈkɒmpɒst/",
+   "pos": "n",
+   "vi": "phân hữu cơ",
+   "ex": "Food scraps turn into compost.",
+   "exVi": "Thức ăn thừa biến thành phân hữu cơ.",
+   "col": [
+    "compost",
+    "garden compost"
+   ]
+  },
+  {
+   "id": "we064",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "carbon footprint",
+   "ipa": "/ˈkɑːbən ˈfʊtprɪnt/",
+   "pos": "n",
+   "vi": "dấu chân carbon",
+   "ex": "The firm cut its carbon footprint.",
+   "exVi": "Công ty giảm dấu chân carbon của mình.",
+   "col": [
+    "a carbon footprint",
+    "a low carbon footprint"
+   ]
+  },
+  {
+   "id": "we065",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "deforestation",
+   "ipa": "/diːˌfɒrɪˈsteɪʃn/",
+   "pos": "n",
+   "vi": "phá rừng",
+   "ex": "Deforestation harms the local wildlife.",
+   "exVi": "Phá rừng gây hại cho động vật hoang dã địa phương.",
+   "col": [
+    "deforestation",
+    "stop deforestation"
+   ]
+  },
+  {
+   "id": "we066",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "reforestation",
+   "ipa": "/ˌriːfɒrɪˈsteɪʃn/",
+   "pos": "n",
+   "vi": "trồng lại rừng",
+   "ex": "A reforestation plan restored the hills.",
+   "exVi": "Một kế hoạch trồng lại rừng phục hồi các ngọn đồi.",
+   "col": [
+    "reforestation",
+    "a reforestation project"
+   ]
+  },
+  {
+   "id": "we067",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "wetland",
+   "ipa": "/ˈwetlənd/",
+   "pos": "n",
+   "vi": "vùng đất ngập nước",
+   "ex": "The wetland shelters many birds.",
+   "exVi": "Vùng đất ngập nước che chở nhiều loài chim.",
+   "col": [
+    "a wetland",
+    "a protected wetland"
+   ]
+  },
+  {
+   "id": "we068",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "reserve",
+   "ipa": "/rɪˈzɜːv/",
+   "pos": "n",
+   "vi": "khu bảo tồn",
+   "ex": "The nature reserve is open to visitors.",
+   "exVi": "Khu bảo tồn thiên nhiên mở cho khách tham quan.",
+   "col": [
+    "a reserve",
+    "a nature reserve"
+   ]
+  },
+  {
+   "id": "we069",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "sanctuary",
+   "ipa": "/ˈsæŋktʃuəri/",
+   "pos": "n",
+   "vi": "khu trú ẩn",
+   "ex": "The island is a bird sanctuary.",
+   "exVi": "Hòn đảo là một khu trú ẩn cho chim.",
+   "col": [
+    "a sanctuary",
+    "a wildlife sanctuary"
+   ]
+  },
+  {
+   "id": "we070",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "migratory",
+   "ipa": "/ˈmaɪɡrətri/",
+   "pos": "adj",
+   "vi": "di cư",
+   "ex": "Migratory birds pass through in autumn.",
+   "exVi": "Chim di cư đi ngang qua vào mùa thu.",
+   "col": [
+    "migratory",
+    "migratory birds"
+   ]
+  },
+  {
+   "id": "we071",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "endangered",
+   "ipa": "/ɪnˈdeɪndʒəd/",
+   "pos": "adj",
+   "vi": "có nguy cơ tuyệt chủng",
+   "ex": "The panda is an endangered species.",
+   "exVi": "Gấu trúc là một loài có nguy cơ tuyệt chủng.",
+   "col": [
+    "endangered",
+    "an endangered species"
+   ]
+  },
+  {
+   "id": "we072",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "extinct",
+   "ipa": "/ɪkˈstɪŋkt/",
+   "pos": "adj",
+   "vi": "tuyệt chủng",
+   "ex": "The bird became extinct a century ago.",
+   "exVi": "Loài chim tuyệt chủng một thế kỷ trước.",
+   "col": [
+    "extinct",
+    "an extinct species"
+   ]
+  },
+  {
+   "id": "we073",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "organic",
+   "ipa": "/ɔːˈɡænɪk/",
+   "pos": "adj",
+   "vi": "hữu cơ",
+   "ex": "The farm grows organic vegetables.",
+   "exVi": "Trang trại trồng rau hữu cơ.",
+   "col": [
+    "organic",
+    "organic produce"
+   ]
+  },
+  {
+   "id": "we074",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "eco-friendly",
+   "ipa": "/ˈiːkəʊ ˈfrendli/",
+   "pos": "adj",
+   "vi": "thân thiện môi trường",
+   "ex": "The packaging is fully eco-friendly.",
+   "exVi": "Bao bì hoàn toàn thân thiện môi trường.",
+   "col": [
+    "eco-friendly",
+    "an eco-friendly product"
+   ]
+  },
+  {
+   "id": "we075",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "biodegradable",
+   "ipa": "/ˌbaɪəʊdɪˈɡreɪdəbl/",
+   "pos": "adj",
+   "vi": "phân huỷ sinh học",
+   "ex": "The bags are fully biodegradable.",
+   "exVi": "Các túi hoàn toàn phân huỷ sinh học.",
+   "col": [
+    "biodegradable",
+    "a biodegradable material"
+   ]
+  },
+  {
+   "id": "we076",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "tide",
+   "ipa": "/taɪd/",
+   "pos": "n",
+   "vi": "thuỷ triều",
+   "ex": "The tide comes in twice a day.",
+   "exVi": "Thuỷ triều lên hai lần một ngày.",
+   "col": [
+    "the tide",
+    "a high tide"
+   ]
+  },
+  {
+   "id": "we077",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "current",
+   "ipa": "/ˈkʌrənt/",
+   "pos": "n",
+   "vi": "dòng chảy",
+   "ex": "A strong current runs off the point.",
+   "exVi": "Một dòng chảy mạnh chạy ngoài mũi đất.",
+   "col": [
+    "a current",
+    "a strong current"
+   ]
+  },
+  {
+   "id": "we078",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "coral",
+   "ipa": "/ˈkɒrəl/",
+   "pos": "n",
+   "vi": "san hô",
+   "ex": "The coral shelters small fish.",
+   "exVi": "San hô che chở cá nhỏ.",
+   "col": [
+    "coral",
+    "a coral reef"
+   ]
+  },
+  {
+   "id": "we079",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "reef",
+   "ipa": "/riːf/",
+   "pos": "n",
+   "vi": "rạn đá ngầm",
+   "ex": "Divers explore the coral reef.",
+   "exVi": "Thợ lặn khám phá rạn san hô.",
+   "col": [
+    "a reef",
+    "a coral reef"
+   ]
+  },
+  {
+   "id": "we080",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "pasture",
+   "ipa": "/ˈpɑːstʃə/",
+   "pos": "n",
+   "vi": "đồng cỏ chăn thả",
+   "ex": "The cattle graze on open pasture.",
+   "exVi": "Đàn bò gặm cỏ trên đồng cỏ rộng.",
+   "col": [
+    "pasture",
+    "open pasture"
+   ]
+  },
+  {
+   "id": "we081",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "canopy",
+   "ipa": "/ˈkænəpi/",
+   "pos": "n",
+   "vi": "tán rừng",
+   "ex": "Sunlight filters through the canopy.",
+   "exVi": "Ánh nắng lọc qua tán rừng.",
+   "col": [
+    "the canopy",
+    "a forest canopy"
+   ]
+  },
+  {
+   "id": "we082",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "lush",
+   "ipa": "/lʌʃ/",
+   "pos": "adj",
+   "vi": "xanh tốt",
+   "ex": "The valley is green and lush.",
+   "exVi": "Thung lũng xanh và tươi tốt.",
+   "col": [
+    "lush",
+    "lush green"
+   ]
+  },
+  {
+   "id": "we083",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "barren",
+   "ipa": "/ˈbærən/",
+   "pos": "adj",
+   "vi": "cằn cỗi",
+   "ex": "The barren land grows little.",
+   "exVi": "Vùng đất cằn cỗi cho ít cây.",
+   "col": [
+    "barren",
+    "barren land"
+   ]
+  },
+  {
+   "id": "we084",
+   "topic": "Thời tiết & thiên nhiên",
+   "w": "pristine",
+   "ipa": "/ˈprɪstiːn/",
+   "pos": "adj",
+   "vi": "nguyên sơ",
+   "ex": "The beach was clean and pristine.",
+   "exVi": "Bãi biển sạch và nguyên sơ.",
+   "col": [
+    "pristine",
+    "a pristine beach"
+   ]
+  }
+ ]
+}

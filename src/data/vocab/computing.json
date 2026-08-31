@@ -1,0 +1,1153 @@
+{
+ "topic": "Máy tính & lập trình",
+ "words": [
+  {
+   "id": "cp001",
+   "topic": "Máy tính & lập trình",
+   "w": "database",
+   "ipa": "/ˈdeɪtəbeɪs/",
+   "pos": "n",
+   "vi": "cơ sở dữ liệu",
+   "ex": "The database stores every customer record.",
+   "exVi": "Cơ sở dữ liệu lưu mọi hồ sơ khách hàng.",
+   "col": [
+    "a database",
+    "a customer database"
+   ]
+  },
+  {
+   "id": "cp002",
+   "topic": "Máy tính & lập trình",
+   "w": "server",
+   "ipa": "/ˈsɜːvə/",
+   "pos": "n",
+   "vi": "máy chủ",
+   "ex": "The server went down for maintenance.",
+   "exVi": "Máy chủ ngừng để bảo trì.",
+   "col": [
+    "a server",
+    "a web server"
+   ]
+  },
+  {
+   "id": "cp003",
+   "topic": "Máy tính & lập trình",
+   "w": "algorithm",
+   "ipa": "/ˈælɡərɪðəm/",
+   "pos": "n",
+   "vi": "thuật toán",
+   "ex": "A new algorithm sorts the data faster.",
+   "exVi": "Một thuật toán mới sắp xếp dữ liệu nhanh hơn.",
+   "col": [
+    "an algorithm",
+    "a sorting algorithm"
+   ]
+  },
+  {
+   "id": "cp004",
+   "topic": "Máy tính & lập trình",
+   "w": "software",
+   "ipa": "/ˈsɒftweə/",
+   "pos": "n",
+   "vi": "phần mềm",
+   "ex": "The firm updated its accounting software.",
+   "exVi": "Công ty cập nhật phần mềm kế toán.",
+   "col": [
+    "software",
+    "accounting software"
+   ]
+  },
+  {
+   "id": "cp005",
+   "topic": "Máy tính & lập trình",
+   "w": "hardware",
+   "ipa": "/ˈhɑːdweə/",
+   "pos": "n",
+   "vi": "phần cứng",
+   "ex": "The hardware was replaced last year.",
+   "exVi": "Phần cứng được thay năm ngoái.",
+   "col": [
+    "hardware",
+    "computer hardware"
+   ]
+  },
+  {
+   "id": "cp006",
+   "topic": "Máy tính & lập trình",
+   "w": "interface",
+   "ipa": "/ˈɪntəfeɪs/",
+   "pos": "n",
+   "vi": "giao diện",
+   "ex": "The interface is clean and easy to use.",
+   "exVi": "Giao diện gọn gàng và dễ dùng.",
+   "col": [
+    "an interface",
+    "a user interface"
+   ]
+  },
+  {
+   "id": "cp007",
+   "topic": "Máy tính & lập trình",
+   "w": "bandwidth",
+   "ipa": "/ˈbændwɪdθ/",
+   "pos": "n",
+   "vi": "băng thông",
+   "ex": "More bandwidth speeds up the network.",
+   "exVi": "Nhiều băng thông hơn tăng tốc mạng.",
+   "col": [
+    "bandwidth",
+    "limited bandwidth"
+   ]
+  },
+  {
+   "id": "cp008",
+   "topic": "Máy tính & lập trình",
+   "w": "encryption",
+   "ipa": "/ɪnˈkrɪpʃn/",
+   "pos": "n",
+   "vi": "mã hoá",
+   "ex": "Encryption keeps the data secure.",
+   "exVi": "Mã hoá giữ dữ liệu an toàn.",
+   "col": [
+    "encryption",
+    "strong encryption"
+   ]
+  },
+  {
+   "id": "cp009",
+   "topic": "Máy tính & lập trình",
+   "w": "firewall",
+   "ipa": "/ˈfaɪəwɔːl/",
+   "pos": "n",
+   "vi": "tường lửa",
+   "ex": "A firewall blocks unwanted traffic.",
+   "exVi": "Một tường lửa chặn lưu lượng không mong muốn.",
+   "col": [
+    "a firewall",
+    "a network firewall"
+   ]
+  },
+  {
+   "id": "cp010",
+   "topic": "Máy tính & lập trình",
+   "w": "backup",
+   "ipa": "/ˈbækʌp/",
+   "pos": "n",
+   "vi": "bản sao lưu",
+   "ex": "A daily backup protects the files.",
+   "exVi": "Một bản sao lưu hằng ngày bảo vệ các tệp.",
+   "col": [
+    "a backup",
+    "a data backup"
+   ]
+  },
+  {
+   "id": "cp011",
+   "topic": "Máy tính & lập trình",
+   "w": "storage",
+   "ipa": "/ˈstɔːrɪdʒ/",
+   "pos": "n",
+   "vi": "bộ nhớ lưu trữ",
+   "ex": "Cloud storage holds the whole archive.",
+   "exVi": "Bộ nhớ đám mây chứa cả kho lưu trữ.",
+   "col": [
+    "storage",
+    "cloud storage"
+   ]
+  },
+  {
+   "id": "cp012",
+   "topic": "Máy tính & lập trình",
+   "w": "processor",
+   "ipa": "/ˈprəʊsesə/",
+   "pos": "n",
+   "vi": "bộ xử lý",
+   "ex": "A faster processor runs the app smoothly.",
+   "exVi": "Một bộ xử lý nhanh hơn chạy ứng dụng mượt.",
+   "col": [
+    "a processor",
+    "a fast processor"
+   ]
+  },
+  {
+   "id": "cp013",
+   "topic": "Máy tính & lập trình",
+   "w": "memory",
+   "ipa": "/ˈmeməri/",
+   "pos": "n",
+   "vi": "bộ nhớ",
+   "ex": "More memory speeds up the machine.",
+   "exVi": "Nhiều bộ nhớ hơn tăng tốc máy.",
+   "col": [
+    "memory",
+    "computer memory"
+   ]
+  },
+  {
+   "id": "cp014",
+   "topic": "Máy tính & lập trình",
+   "w": "network",
+   "ipa": "/ˈnetwɜːk/",
+   "pos": "n",
+   "vi": "mạng",
+   "ex": "The network links every office.",
+   "exVi": "Mạng nối mọi văn phòng.",
+   "col": [
+    "a network",
+    "a local network"
+   ]
+  },
+  {
+   "id": "cp015",
+   "topic": "Máy tính & lập trình",
+   "w": "protocol",
+   "ipa": "/ˈprəʊtəkɒl/",
+   "pos": "n",
+   "vi": "giao thức",
+   "ex": "The system uses a secure protocol.",
+   "exVi": "Hệ thống dùng một giao thức bảo mật.",
+   "col": [
+    "a protocol",
+    "a network protocol"
+   ]
+  },
+  {
+   "id": "cp016",
+   "topic": "Máy tính & lập trình",
+   "w": "bug",
+   "ipa": "/bʌɡ/",
+   "pos": "n",
+   "vi": "lỗi phần mềm",
+   "ex": "A small bug crashed the program.",
+   "exVi": "Một lỗi nhỏ làm chương trình sập.",
+   "col": [
+    "a bug",
+    "a software bug"
+   ]
+  },
+  {
+   "id": "cp017",
+   "topic": "Máy tính & lập trình",
+   "w": "patch",
+   "ipa": "/pætʃ/",
+   "pos": "n",
+   "vi": "bản vá",
+   "ex": "A patch fixed the security flaw.",
+   "exVi": "Một bản vá sửa lỗ hổng bảo mật.",
+   "col": [
+    "a patch",
+    "a security patch"
+   ]
+  },
+  {
+   "id": "cp018",
+   "topic": "Máy tính & lập trình",
+   "w": "update",
+   "ipa": "/ˈʌpdeɪt/",
+   "pos": "n",
+   "vi": "bản cập nhật",
+   "ex": "The update improved the app's speed.",
+   "exVi": "Bản cập nhật cải thiện tốc độ ứng dụng.",
+   "col": [
+    "an update",
+    "a software update"
+   ]
+  },
+  {
+   "id": "cp019",
+   "topic": "Máy tính & lập trình",
+   "w": "upgrade",
+   "ipa": "/ˈʌpɡreɪd/",
+   "pos": "n",
+   "vi": "nâng cấp",
+   "ex": "The upgrade added new features.",
+   "exVi": "Bản nâng cấp thêm các tính năng mới.",
+   "col": [
+    "an upgrade",
+    "a system upgrade"
+   ]
+  },
+  {
+   "id": "cp020",
+   "topic": "Máy tính & lập trình",
+   "w": "password",
+   "ipa": "/ˈpɑːswɜːd/",
+   "pos": "n",
+   "vi": "mật khẩu",
+   "ex": "A strong password protects the account.",
+   "exVi": "Một mật khẩu mạnh bảo vệ tài khoản.",
+   "col": [
+    "a password",
+    "a strong password"
+   ]
+  },
+  {
+   "id": "cp021",
+   "topic": "Máy tính & lập trình",
+   "w": "authentication",
+   "ipa": "/ɔːˌθentɪˈkeɪʃn/",
+   "pos": "n",
+   "vi": "xác thực",
+   "ex": "Two-step authentication adds security.",
+   "exVi": "Xác thực hai bước tăng bảo mật.",
+   "col": [
+    "authentication",
+    "user authentication"
+   ]
+  },
+  {
+   "id": "cp022",
+   "topic": "Máy tính & lập trình",
+   "w": "cache",
+   "ipa": "/kæʃ/",
+   "pos": "n",
+   "vi": "bộ nhớ đệm",
+   "ex": "The cache speeds up repeat visits.",
+   "exVi": "Bộ nhớ đệm tăng tốc các lượt truy cập lặp.",
+   "col": [
+    "a cache",
+    "a browser cache"
+   ]
+  },
+  {
+   "id": "cp023",
+   "topic": "Máy tính & lập trình",
+   "w": "cloud",
+   "ipa": "/klaʊd/",
+   "pos": "n",
+   "vi": "đám mây",
+   "ex": "The firm moved its data to the cloud.",
+   "exVi": "Công ty chuyển dữ liệu lên đám mây.",
+   "col": [
+    "the cloud",
+    "cloud computing"
+   ]
+  },
+  {
+   "id": "cp024",
+   "topic": "Máy tính & lập trình",
+   "w": "platform",
+   "ipa": "/ˈplætfɔːm/",
+   "pos": "n",
+   "vi": "nền tảng",
+   "ex": "The app runs on any platform.",
+   "exVi": "Ứng dụng chạy trên bất kỳ nền tảng nào.",
+   "col": [
+    "a platform",
+    "a software platform"
+   ]
+  },
+  {
+   "id": "cp025",
+   "topic": "Máy tính & lập trình",
+   "w": "compile",
+   "ipa": "/kəmˈpaɪl/",
+   "pos": "v",
+   "vi": "biên dịch",
+   "ex": "The code took a minute to compile.",
+   "exVi": "Mã mất một phút để biên dịch.",
+   "col": [
+    "compile",
+    "compile code"
+   ]
+  },
+  {
+   "id": "cp026",
+   "topic": "Máy tính & lập trình",
+   "w": "debug",
+   "ipa": "/ˌdiːˈbʌɡ/",
+   "pos": "v",
+   "vi": "gỡ lỗi",
+   "ex": "The team debugged the program overnight.",
+   "exVi": "Nhóm gỡ lỗi chương trình qua đêm.",
+   "col": [
+    "debug",
+    "debug the code"
+   ]
+  },
+  {
+   "id": "cp027",
+   "topic": "Máy tính & lập trình",
+   "w": "deploy",
+   "ipa": "/dɪˈplɔɪ/",
+   "pos": "v",
+   "vi": "triển khai",
+   "ex": "The new version was deployed on Friday.",
+   "exVi": "Phiên bản mới được triển khai vào thứ Sáu.",
+   "col": [
+    "deploy",
+    "deploy an app"
+   ]
+  },
+  {
+   "id": "cp028",
+   "topic": "Máy tính & lập trình",
+   "w": "encode",
+   "ipa": "/ɪnˈkəʊd/",
+   "pos": "v",
+   "vi": "mã hoá",
+   "ex": "The file was encoded for safe transfer.",
+   "exVi": "Tệp được mã hoá để chuyển an toàn.",
+   "col": [
+    "encode",
+    "encode data"
+   ]
+  },
+  {
+   "id": "cp029",
+   "topic": "Máy tính & lập trình",
+   "w": "decode",
+   "ipa": "/ˌdiːˈkəʊd/",
+   "pos": "v",
+   "vi": "giải mã",
+   "ex": "The app decodes the file on arrival.",
+   "exVi": "Ứng dụng giải mã tệp khi tới.",
+   "col": [
+    "decode",
+    "decode a file"
+   ]
+  },
+  {
+   "id": "cp030",
+   "topic": "Máy tính & lập trình",
+   "w": "install",
+   "ipa": "/ɪnˈstɔːl/",
+   "pos": "v",
+   "vi": "cài đặt",
+   "ex": "Please install the update tonight.",
+   "exVi": "Vui lòng cài đặt bản cập nhật tối nay.",
+   "col": [
+    "install",
+    "install software"
+   ]
+  },
+  {
+   "id": "cp031",
+   "topic": "Máy tính & lập trình",
+   "w": "configure",
+   "ipa": "/kənˈfɪɡə/",
+   "pos": "v",
+   "vi": "cấu hình",
+   "ex": "The engineer configured the new server.",
+   "exVi": "Kỹ sư cấu hình máy chủ mới.",
+   "col": [
+    "configure",
+    "configure a system"
+   ]
+  },
+  {
+   "id": "cp032",
+   "topic": "Máy tính & lập trình",
+   "w": "sync",
+   "ipa": "/sɪŋk/",
+   "pos": "v",
+   "vi": "đồng bộ",
+   "ex": "The app syncs across all devices.",
+   "exVi": "Ứng dụng đồng bộ trên mọi thiết bị.",
+   "col": [
+    "sync",
+    "sync data"
+   ]
+  },
+  {
+   "id": "cp033",
+   "topic": "Máy tính & lập trình",
+   "w": "crash",
+   "ipa": "/kræʃ/",
+   "pos": "v",
+   "vi": "sập, treo",
+   "ex": "The program crashed during the update.",
+   "exVi": "Chương trình sập trong lúc cập nhật.",
+   "col": [
+    "crash",
+    "a system crash"
+   ]
+  },
+  {
+   "id": "cp034",
+   "topic": "Máy tính & lập trình",
+   "w": "retrieve",
+   "ipa": "/rɪˈtriːv/",
+   "pos": "v",
+   "vi": "truy xuất",
+   "ex": "The system retrieves the record instantly.",
+   "exVi": "Hệ thống truy xuất hồ sơ tức thì.",
+   "col": [
+    "retrieve",
+    "retrieve data"
+   ]
+  },
+  {
+   "id": "cp035",
+   "topic": "Máy tính & lập trình",
+   "w": "scalable",
+   "ipa": "/ˈskeɪləbl/",
+   "pos": "adj",
+   "vi": "có thể mở rộng",
+   "ex": "The system is scalable to more users.",
+   "exVi": "Hệ thống có thể mở rộng cho nhiều người dùng hơn.",
+   "col": [
+    "scalable",
+    "a scalable system"
+   ]
+  },
+  {
+   "id": "cp036",
+   "topic": "Máy tính & lập trình",
+   "w": "compatible",
+   "ipa": "/kəmˈpætəbl/",
+   "pos": "adj",
+   "vi": "tương thích",
+   "ex": "The app is compatible with any browser.",
+   "exVi": "Ứng dụng tương thích với bất kỳ trình duyệt nào.",
+   "col": [
+    "compatible",
+    "fully compatible"
+   ]
+  },
+  {
+   "id": "cp037",
+   "topic": "Máy tính & lập trình",
+   "w": "secure",
+   "ipa": "/sɪˈkjʊə/",
+   "pos": "adj",
+   "vi": "bảo mật",
+   "ex": "The connection is fully secure.",
+   "exVi": "Kết nối hoàn toàn bảo mật.",
+   "col": [
+    "secure",
+    "a secure connection"
+   ]
+  },
+  {
+   "id": "cp038",
+   "topic": "Máy tính & lập trình",
+   "w": "automated",
+   "ipa": "/ˈɔːtəmeɪtɪd/",
+   "pos": "adj",
+   "vi": "tự động",
+   "ex": "An automated system handles the backups.",
+   "exVi": "Một hệ thống tự động lo việc sao lưu.",
+   "col": [
+    "automated",
+    "an automated process"
+   ]
+  },
+  {
+   "id": "cp039",
+   "topic": "Máy tính & lập trình",
+   "w": "virtual",
+   "ipa": "/ˈvɜːtʃuəl/",
+   "pos": "adj",
+   "vi": "ảo",
+   "ex": "The team met in a virtual room.",
+   "exVi": "Nhóm gặp trong một phòng ảo.",
+   "col": [
+    "virtual",
+    "a virtual meeting"
+   ]
+  },
+  {
+   "id": "cp040",
+   "topic": "Máy tính & lập trình",
+   "w": "remote",
+   "ipa": "/rɪˈməʊt/",
+   "pos": "adj",
+   "vi": "từ xa",
+   "ex": "Staff access the server by remote login.",
+   "exVi": "Nhân viên truy cập máy chủ bằng đăng nhập từ xa.",
+   "col": [
+    "remote",
+    "remote access"
+   ]
+  },
+  {
+   "id": "cp041",
+   "topic": "Máy tính & lập trình",
+   "w": "wireless",
+   "ipa": "/ˈwaɪələs/",
+   "pos": "adj",
+   "vi": "không dây",
+   "ex": "The office runs on a wireless network.",
+   "exVi": "Văn phòng chạy trên một mạng không dây.",
+   "col": [
+    "wireless",
+    "a wireless network"
+   ]
+  },
+  {
+   "id": "cp042",
+   "topic": "Máy tính & lập trình",
+   "w": "dashboard",
+   "ipa": "/ˈdæʃbɔːd/",
+   "pos": "n",
+   "vi": "bảng điều khiển",
+   "ex": "The dashboard shows real-time data.",
+   "exVi": "Bảng điều khiển hiển thị dữ liệu thời gian thực.",
+   "col": [
+    "a dashboard",
+    "an admin dashboard"
+   ]
+  },
+  {
+   "id": "cp043",
+   "topic": "Máy tính & lập trình",
+   "w": "plugin",
+   "ipa": "/ˈplʌɡɪn/",
+   "pos": "n",
+   "vi": "tiện ích mở rộng",
+   "ex": "A plugin adds the extra feature.",
+   "exVi": "Một tiện ích mở rộng thêm tính năng phụ.",
+   "col": [
+    "a plugin",
+    "a browser plugin"
+   ]
+  },
+  {
+   "id": "cp044",
+   "topic": "Máy tính & lập trình",
+   "w": "widget",
+   "ipa": "/ˈwɪdʒɪt/",
+   "pos": "n",
+   "vi": "tiện ích nhỏ",
+   "ex": "A weather widget sits on the home screen.",
+   "exVi": "Một tiện ích thời tiết nằm trên màn hình chính.",
+   "col": [
+    "a widget",
+    "a screen widget"
+   ]
+  },
+  {
+   "id": "cp045",
+   "topic": "Máy tính & lập trình",
+   "w": "template",
+   "ipa": "/ˈtempleɪt/",
+   "pos": "n",
+   "vi": "mẫu dựng sẵn",
+   "ex": "The email template saves a lot of time.",
+   "exVi": "Mẫu email tiết kiệm nhiều thời gian.",
+   "col": [
+    "a template",
+    "an email template"
+   ]
+  },
+  {
+   "id": "cp046",
+   "topic": "Máy tính & lập trình",
+   "w": "repository",
+   "ipa": "/rɪˈpɒzətri/",
+   "pos": "n",
+   "vi": "kho lưu mã",
+   "ex": "The code is stored in a shared repository.",
+   "exVi": "Mã được lưu trong một kho lưu mã dùng chung.",
+   "col": [
+    "a repository",
+    "a code repository"
+   ]
+  },
+  {
+   "id": "cp047",
+   "topic": "Máy tính & lập trình",
+   "w": "directory",
+   "ipa": "/dəˈrektri/",
+   "pos": "n",
+   "vi": "thư mục",
+   "ex": "The files sit in a shared directory.",
+   "exVi": "Các tệp nằm trong một thư mục dùng chung.",
+   "col": [
+    "a directory",
+    "a file directory"
+   ]
+  },
+  {
+   "id": "cp048",
+   "topic": "Máy tính & lập trình",
+   "w": "folder",
+   "ipa": "/ˈfəʊldə/",
+   "pos": "n",
+   "vi": "thư mục",
+   "ex": "Each project has its own folder.",
+   "exVi": "Mỗi dự án có thư mục riêng.",
+   "col": [
+    "a folder",
+    "a shared folder"
+   ]
+  },
+  {
+   "id": "cp049",
+   "topic": "Máy tính & lập trình",
+   "w": "file",
+   "ipa": "/faɪl/",
+   "pos": "n",
+   "vi": "tệp",
+   "ex": "The file was too large to send.",
+   "exVi": "Tệp quá lớn để gửi.",
+   "col": [
+    "a file",
+    "a large file"
+   ]
+  },
+  {
+   "id": "cp050",
+   "topic": "Máy tính & lập trình",
+   "w": "document",
+   "ipa": "/ˈdɒkjumənt/",
+   "pos": "n",
+   "vi": "tài liệu",
+   "ex": "The document was saved to the cloud.",
+   "exVi": "Tài liệu được lưu lên đám mây.",
+   "col": [
+    "a document",
+    "a shared document"
+   ]
+  },
+  {
+   "id": "cp051",
+   "topic": "Máy tính & lập trình",
+   "w": "spreadsheet",
+   "ipa": "/ˈspredʃiːt/",
+   "pos": "n",
+   "vi": "bảng tính",
+   "ex": "The spreadsheet tracks the monthly budget.",
+   "exVi": "Bảng tính theo dõi ngân sách hằng tháng.",
+   "col": [
+    "a spreadsheet",
+    "an Excel spreadsheet"
+   ]
+  },
+  {
+   "id": "cp052",
+   "topic": "Máy tính & lập trình",
+   "w": "query",
+   "ipa": "/ˈkwɪəri/",
+   "pos": "n",
+   "vi": "truy vấn",
+   "ex": "A simple query pulls the data.",
+   "exVi": "Một truy vấn đơn giản lấy dữ liệu.",
+   "col": [
+    "a query",
+    "a database query"
+   ]
+  },
+  {
+   "id": "cp053",
+   "topic": "Máy tính & lập trình",
+   "w": "command",
+   "ipa": "/kəˈmɑːnd/",
+   "pos": "n",
+   "vi": "lệnh",
+   "ex": "A single command runs the whole script.",
+   "exVi": "Một lệnh duy nhất chạy cả kịch bản.",
+   "col": [
+    "a command",
+    "a system command"
+   ]
+  },
+  {
+   "id": "cp054",
+   "topic": "Máy tính & lập trình",
+   "w": "script",
+   "ipa": "/skrɪpt/",
+   "pos": "n",
+   "vi": "kịch bản lệnh",
+   "ex": "The script automates the daily report.",
+   "exVi": "Kịch bản tự động hoá báo cáo hằng ngày.",
+   "col": [
+    "a script",
+    "a shell script"
+   ]
+  },
+  {
+   "id": "cp055",
+   "topic": "Máy tính & lập trình",
+   "w": "function",
+   "ipa": "/ˈfʌŋkʃn/",
+   "pos": "n",
+   "vi": "hàm",
+   "ex": "Each function does a single task.",
+   "exVi": "Mỗi hàm làm một nhiệm vụ.",
+   "col": [
+    "a function",
+    "a helper function"
+   ]
+  },
+  {
+   "id": "cp056",
+   "topic": "Máy tính & lập trình",
+   "w": "variable",
+   "ipa": "/ˈveəriəbl/",
+   "pos": "n",
+   "vi": "biến",
+   "ex": "The variable holds the current total.",
+   "exVi": "Biến giữ tổng hiện tại.",
+   "col": [
+    "a variable",
+    "a global variable"
+   ]
+  },
+  {
+   "id": "cp057",
+   "topic": "Máy tính & lập trình",
+   "w": "parameter",
+   "ipa": "/pəˈræmɪtə/",
+   "pos": "n",
+   "vi": "tham số",
+   "ex": "The function takes two parameters.",
+   "exVi": "Hàm nhận hai tham số.",
+   "col": [
+    "a parameter",
+    "an input parameter"
+   ]
+  },
+  {
+   "id": "cp058",
+   "topic": "Máy tính & lập trình",
+   "w": "syntax",
+   "ipa": "/ˈsɪntæks/",
+   "pos": "n",
+   "vi": "cú pháp",
+   "ex": "A syntax error stopped the program.",
+   "exVi": "Một lỗi cú pháp dừng chương trình.",
+   "col": [
+    "syntax",
+    "a syntax error"
+   ]
+  },
+  {
+   "id": "cp059",
+   "topic": "Máy tính & lập trình",
+   "w": "loop",
+   "ipa": "/luːp/",
+   "pos": "n",
+   "vi": "vòng lặp",
+   "ex": "A loop repeats the task ten times.",
+   "exVi": "Một vòng lặp lặp lại nhiệm vụ mười lần.",
+   "col": [
+    "a loop",
+    "an infinite loop"
+   ]
+  },
+  {
+   "id": "cp060",
+   "topic": "Máy tính & lập trình",
+   "w": "array",
+   "ipa": "/əˈreɪ/",
+   "pos": "n",
+   "vi": "mảng",
+   "ex": "The array stores a list of names.",
+   "exVi": "Mảng lưu một danh sách tên.",
+   "col": [
+    "an array",
+    "a data array"
+   ]
+  },
+  {
+   "id": "cp061",
+   "topic": "Máy tính & lập trình",
+   "w": "module",
+   "ipa": "/ˈmɒdjuːl/",
+   "pos": "n",
+   "vi": "mô-đun",
+   "ex": "Each module handles one feature.",
+   "exVi": "Mỗi mô-đun xử lý một tính năng.",
+   "col": [
+    "a module",
+    "a code module"
+   ]
+  },
+  {
+   "id": "cp062",
+   "topic": "Máy tính & lập trình",
+   "w": "library",
+   "ipa": "/ˈlaɪbrəri/",
+   "pos": "n",
+   "vi": "thư viện mã",
+   "ex": "The library provides ready-made functions.",
+   "exVi": "Thư viện cung cấp các hàm dựng sẵn.",
+   "col": [
+    "a library",
+    "a code library"
+   ]
+  },
+  {
+   "id": "cp063",
+   "topic": "Máy tính & lập trình",
+   "w": "framework",
+   "ipa": "/ˈfreɪmwɜːk/",
+   "pos": "n",
+   "vi": "khung phát triển",
+   "ex": "A modern framework speeds up the build.",
+   "exVi": "Một khung phát triển hiện đại tăng tốc việc dựng.",
+   "col": [
+    "a framework",
+    "a web framework"
+   ]
+  },
+  {
+   "id": "cp064",
+   "topic": "Máy tính & lập trình",
+   "w": "runtime",
+   "ipa": "/ˈrʌntaɪm/",
+   "pos": "n",
+   "vi": "thời gian chạy",
+   "ex": "A runtime error appeared during the test.",
+   "exVi": "Một lỗi thời gian chạy xuất hiện trong lúc thử.",
+   "col": [
+    "runtime",
+    "a runtime error"
+   ]
+  },
+  {
+   "id": "cp065",
+   "topic": "Máy tính & lập trình",
+   "w": "latency",
+   "ipa": "/ˈleɪtənsi/",
+   "pos": "n",
+   "vi": "độ trễ",
+   "ex": "Low latency keeps the app responsive.",
+   "exVi": "Độ trễ thấp giữ ứng dụng phản hồi nhanh.",
+   "col": [
+    "latency",
+    "network latency"
+   ]
+  },
+  {
+   "id": "cp066",
+   "topic": "Máy tính & lập trình",
+   "w": "throughput",
+   "ipa": "/ˈθruːpʊt/",
+   "pos": "n",
+   "vi": "thông lượng",
+   "ex": "Higher throughput handles more requests.",
+   "exVi": "Thông lượng cao hơn xử lý nhiều yêu cầu hơn.",
+   "col": [
+    "throughput",
+    "high throughput"
+   ]
+  },
+  {
+   "id": "cp067",
+   "topic": "Máy tính & lập trình",
+   "w": "migration",
+   "ipa": "/maɪˈɡreɪʃn/",
+   "pos": "n",
+   "vi": "di chuyển dữ liệu",
+   "ex": "The data migration finished overnight.",
+   "exVi": "Việc di chuyển dữ liệu hoàn tất qua đêm.",
+   "col": [
+    "migration",
+    "data migration"
+   ]
+  },
+  {
+   "id": "cp068",
+   "topic": "Máy tính & lập trình",
+   "w": "rollback",
+   "ipa": "/ˈrəʊlbæk/",
+   "pos": "n",
+   "vi": "khôi phục phiên bản",
+   "ex": "A rollback undid the faulty update.",
+   "exVi": "Một lần khôi phục phiên bản hoàn tác bản cập nhật lỗi.",
+   "col": [
+    "a rollback",
+    "a version rollback"
+   ]
+  },
+  {
+   "id": "cp069",
+   "topic": "Máy tính & lập trình",
+   "w": "downtime",
+   "ipa": "/ˈdaʊntaɪm/",
+   "pos": "n",
+   "vi": "thời gian ngừng",
+   "ex": "Planned downtime is set for midnight.",
+   "exVi": "Thời gian ngừng theo kế hoạch được đặt vào nửa đêm.",
+   "col": [
+    "downtime",
+    "reduce downtime"
+   ]
+  },
+  {
+   "id": "cp070",
+   "topic": "Máy tính & lập trình",
+   "w": "uptime",
+   "ipa": "/ˈʌptaɪm/",
+   "pos": "n",
+   "vi": "thời gian hoạt động",
+   "ex": "The server has excellent uptime.",
+   "exVi": "Máy chủ có thời gian hoạt động rất tốt.",
+   "col": [
+    "uptime",
+    "high uptime"
+   ]
+  },
+  {
+   "id": "cp071",
+   "topic": "Máy tính & lập trình",
+   "w": "optimize",
+   "ipa": "/ˈɒptɪmaɪz/",
+   "pos": "v",
+   "vi": "tối ưu hoá",
+   "ex": "The team optimized the slow query.",
+   "exVi": "Nhóm tối ưu hoá truy vấn chậm.",
+   "col": [
+    "optimize",
+    "optimize code"
+   ]
+  },
+  {
+   "id": "cp072",
+   "topic": "Máy tính & lập trình",
+   "w": "render",
+   "ipa": "/ˈrendə/",
+   "pos": "v",
+   "vi": "kết xuất",
+   "ex": "The page renders in under a second.",
+   "exVi": "Trang kết xuất trong chưa đầy một giây.",
+   "col": [
+    "render",
+    "render a page"
+   ]
+  },
+  {
+   "id": "cp073",
+   "topic": "Máy tính & lập trình",
+   "w": "execute",
+   "ipa": "/ˈeksɪkjuːt/",
+   "pos": "v",
+   "vi": "thực thi",
+   "ex": "The system executes the script at dawn.",
+   "exVi": "Hệ thống thực thi kịch bản lúc bình minh.",
+   "col": [
+    "execute",
+    "execute a command"
+   ]
+  },
+  {
+   "id": "cp074",
+   "topic": "Máy tính & lập trình",
+   "w": "validate",
+   "ipa": "/ˈvælɪdeɪt/",
+   "pos": "v",
+   "vi": "kiểm tra hợp lệ",
+   "ex": "The form validates the input first.",
+   "exVi": "Biểu mẫu kiểm tra dữ liệu hợp lệ trước.",
+   "col": [
+    "validate",
+    "validate input"
+   ]
+  },
+  {
+   "id": "cp075",
+   "topic": "Máy tính & lập trình",
+   "w": "authenticate",
+   "ipa": "/ɔːˈθentɪkeɪt/",
+   "pos": "v",
+   "vi": "xác thực",
+   "ex": "The system authenticates each user.",
+   "exVi": "Hệ thống xác thực mỗi người dùng.",
+   "col": [
+    "authenticate",
+    "authenticate a user"
+   ]
+  },
+  {
+   "id": "cp076",
+   "topic": "Máy tính & lập trình",
+   "w": "integrate",
+   "ipa": "/ˈɪntɪɡreɪt/",
+   "pos": "v",
+   "vi": "tích hợp",
+   "ex": "The tool integrates with the database.",
+   "exVi": "Công cụ tích hợp với cơ sở dữ liệu.",
+   "col": [
+    "integrate",
+    "integrate a system"
+   ]
+  },
+  {
+   "id": "cp077",
+   "topic": "Máy tính & lập trình",
+   "w": "troubleshoot",
+   "ipa": "/ˈtrʌblʃuːt/",
+   "pos": "v",
+   "vi": "khắc phục sự cố",
+   "ex": "The engineer troubleshoots the fault fast.",
+   "exVi": "Kỹ sư khắc phục sự cố nhanh.",
+   "col": [
+    "troubleshoot",
+    "troubleshoot a problem"
+   ]
+  },
+  {
+   "id": "cp078",
+   "topic": "Máy tính & lập trình",
+   "w": "overwrite",
+   "ipa": "/ˌəʊvəˈraɪt/",
+   "pos": "v",
+   "vi": "ghi đè",
+   "ex": "The save will overwrite the old file.",
+   "exVi": "Việc lưu sẽ ghi đè tệp cũ.",
+   "col": [
+    "overwrite",
+    "overwrite a file"
+   ]
+  },
+  {
+   "id": "cp079",
+   "topic": "Máy tính & lập trình",
+   "w": "scalability",
+   "ipa": "/ˌskeɪləˈbɪləti/",
+   "pos": "n",
+   "vi": "khả năng mở rộng",
+   "ex": "Scalability was a key design goal.",
+   "exVi": "Khả năng mở rộng là một mục tiêu thiết kế quan trọng.",
+   "col": [
+    "scalability",
+    "system scalability"
+   ]
+  },
+  {
+   "id": "cp080",
+   "topic": "Máy tính & lập trình",
+   "w": "redundancy",
+   "ipa": "/rɪˈdʌndənsi/",
+   "pos": "n",
+   "vi": "dự phòng kép",
+   "ex": "Redundancy keeps the service running.",
+   "exVi": "Dự phòng kép giữ dịch vụ hoạt động.",
+   "col": [
+    "redundancy",
+    "built-in redundancy"
+   ]
+  },
+  {
+   "id": "cp081",
+   "topic": "Máy tính & lập trình",
+   "w": "robust",
+   "ipa": "/rəʊˈbʌst/",
+   "pos": "adj",
+   "vi": "vững chắc",
+   "ex": "The system has a robust design.",
+   "exVi": "Hệ thống có một thiết kế vững chắc.",
+   "col": [
+    "robust",
+    "a robust system"
+   ]
+  },
+  {
+   "id": "cp082",
+   "topic": "Máy tính & lập trình",
+   "w": "seamless",
+   "ipa": "/ˈsiːmləs/",
+   "pos": "adj",
+   "vi": "liền mạch",
+   "ex": "The upgrade was seamless for users.",
+   "exVi": "Bản nâng cấp liền mạch với người dùng.",
+   "col": [
+    "seamless",
+    "a seamless experience"
+   ]
+  }
+ ]
+}

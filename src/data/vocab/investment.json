@@ -1,0 +1,1139 @@
+{
+ "topic": "Đầu tư & chứng khoán",
+ "words": [
+  {
+   "id": "iv001",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "investment",
+   "ipa": "/ɪnˈvestmənt/",
+   "pos": "n",
+   "vi": "khoản đầu tư",
+   "ex": "The firm made a large investment in research.",
+   "exVi": "Công ty đầu tư lớn vào nghiên cứu.",
+   "col": [
+    "an investment",
+    "a long-term investment"
+   ]
+  },
+  {
+   "id": "iv002",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "investor",
+   "ipa": "/ɪnˈvestə/",
+   "pos": "n",
+   "vi": "nhà đầu tư",
+   "ex": "The investor bought shares in the startup.",
+   "exVi": "Nhà đầu tư mua cổ phần trong công ty khởi nghiệp.",
+   "col": [
+    "an investor",
+    "a major investor"
+   ]
+  },
+  {
+   "id": "iv003",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "portfolio",
+   "ipa": "/pɔːtˈfəʊliəʊ/",
+   "pos": "n",
+   "vi": "danh mục đầu tư",
+   "ex": "A balanced portfolio spreads the risk.",
+   "exVi": "Một danh mục đầu tư cân bằng phân tán rủi ro.",
+   "col": [
+    "a portfolio",
+    "an investment portfolio"
+   ]
+  },
+  {
+   "id": "iv004",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "stock",
+   "ipa": "/stɒk/",
+   "pos": "n",
+   "vi": "cổ phiếu",
+   "ex": "The stock rose after the strong results.",
+   "exVi": "Cổ phiếu tăng sau kết quả tốt.",
+   "col": [
+    "a stock",
+    "a stock price"
+   ]
+  },
+  {
+   "id": "iv005",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "share",
+   "ipa": "/ʃeə/",
+   "pos": "n",
+   "vi": "cổ phần",
+   "ex": "Each share pays a small dividend.",
+   "exVi": "Mỗi cổ phần trả một khoản cổ tức nhỏ.",
+   "col": [
+    "a share",
+    "a share price"
+   ]
+  },
+  {
+   "id": "iv006",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "bond",
+   "ipa": "/bɒnd/",
+   "pos": "n",
+   "vi": "trái phiếu",
+   "ex": "A government bond offers a steady return.",
+   "exVi": "Một trái phiếu chính phủ cho một lợi suất ổn định.",
+   "col": [
+    "a bond",
+    "a government bond"
+   ]
+  },
+  {
+   "id": "iv007",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "security",
+   "ipa": "/sɪˈkjʊərəti/",
+   "pos": "n",
+   "vi": "chứng khoán",
+   "ex": "The firm traded in a range of securities.",
+   "exVi": "Công ty giao dịch nhiều loại chứng khoán.",
+   "col": [
+    "a security",
+    "a listed security"
+   ]
+  },
+  {
+   "id": "iv008",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "equity",
+   "ipa": "/ˈekwəti/",
+   "pos": "n",
+   "vi": "cổ phần vốn",
+   "ex": "The fund holds equity in several firms.",
+   "exVi": "Quỹ nắm cổ phần vốn trong vài công ty.",
+   "col": [
+    "equity",
+    "private equity"
+   ]
+  },
+  {
+   "id": "iv009",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "dividend",
+   "ipa": "/ˈdɪvɪdend/",
+   "pos": "n",
+   "vi": "cổ tức",
+   "ex": "The board raised the annual dividend.",
+   "exVi": "Hội đồng tăng cổ tức hằng năm.",
+   "col": [
+    "a dividend",
+    "pay a dividend"
+   ]
+  },
+  {
+   "id": "iv010",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "yield",
+   "ipa": "/jiːld/",
+   "pos": "n",
+   "vi": "lợi suất",
+   "ex": "The bond offers a higher yield this year.",
+   "exVi": "Trái phiếu cho lợi suất cao hơn năm nay.",
+   "col": [
+    "a yield",
+    "a high yield"
+   ]
+  },
+  {
+   "id": "iv011",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "return",
+   "ipa": "/rɪˈtɜːn/",
+   "pos": "n",
+   "vi": "lợi nhuận thu về",
+   "ex": "The investment gave a solid return.",
+   "exVi": "Khoản đầu tư cho một lợi nhuận vững chắc.",
+   "col": [
+    "a return",
+    "a good return"
+   ]
+  },
+  {
+   "id": "iv012",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "capital",
+   "ipa": "/ˈkæpɪtl/",
+   "pos": "n",
+   "vi": "vốn",
+   "ex": "The firm raised capital on the market.",
+   "exVi": "Công ty huy động vốn trên thị trường.",
+   "col": [
+    "capital",
+    "raise capital"
+   ]
+  },
+  {
+   "id": "iv013",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "principal",
+   "ipa": "/ˈprɪnsəpl/",
+   "pos": "n",
+   "vi": "vốn gốc",
+   "ex": "The principal is returned when the bond matures.",
+   "exVi": "Vốn gốc được trả khi trái phiếu đáo hạn.",
+   "col": [
+    "principal",
+    "the principal amount"
+   ]
+  },
+  {
+   "id": "iv014",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "interest",
+   "ipa": "/ˈɪntrəst/",
+   "pos": "n",
+   "vi": "lãi",
+   "ex": "The bond pays interest twice a year.",
+   "exVi": "Trái phiếu trả lãi hai lần một năm.",
+   "col": [
+    "interest",
+    "an interest payment"
+   ]
+  },
+  {
+   "id": "iv015",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "maturity",
+   "ipa": "/məˈtʃʊərəti/",
+   "pos": "n",
+   "vi": "kỳ đáo hạn",
+   "ex": "The bond reaches maturity in five years.",
+   "exVi": "Trái phiếu đến kỳ đáo hạn trong năm năm.",
+   "col": [
+    "maturity",
+    "a maturity date"
+   ]
+  },
+  {
+   "id": "iv016",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "brokerage",
+   "ipa": "/ˈbrəʊkərɪdʒ/",
+   "pos": "n",
+   "vi": "công ty môi giới",
+   "ex": "The brokerage charges a small fee per trade.",
+   "exVi": "Công ty môi giới thu một khoản phí nhỏ mỗi giao dịch.",
+   "col": [
+    "a brokerage",
+    "a brokerage account"
+   ]
+  },
+  {
+   "id": "iv017",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "broker",
+   "ipa": "/ˈbrəʊkə/",
+   "pos": "n",
+   "vi": "người môi giới",
+   "ex": "A broker placed the order on the exchange.",
+   "exVi": "Một người môi giới đặt lệnh trên sàn.",
+   "col": [
+    "a broker",
+    "a stockbroker"
+   ]
+  },
+  {
+   "id": "iv018",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "exchange",
+   "ipa": "/ɪksˈtʃeɪndʒ/",
+   "pos": "n",
+   "vi": "sàn giao dịch",
+   "ex": "The shares are listed on the exchange.",
+   "exVi": "Cổ phiếu được niêm yết trên sàn.",
+   "col": [
+    "an exchange",
+    "a stock exchange"
+   ]
+  },
+  {
+   "id": "iv019",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "index",
+   "ipa": "/ˈɪndeks/",
+   "pos": "n",
+   "vi": "chỉ số",
+   "ex": "The market index rose two percent today.",
+   "exVi": "Chỉ số thị trường tăng hai phần trăm hôm nay.",
+   "col": [
+    "an index",
+    "a stock index"
+   ]
+  },
+  {
+   "id": "iv020",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "benchmark",
+   "ipa": "/ˈbentʃmɑːk/",
+   "pos": "n",
+   "vi": "chuẩn tham chiếu",
+   "ex": "The fund beat its benchmark this year.",
+   "exVi": "Quỹ vượt chuẩn tham chiếu năm nay.",
+   "col": [
+    "a benchmark",
+    "a market benchmark"
+   ]
+  },
+  {
+   "id": "iv021",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "valuation",
+   "ipa": "/ˌvæljuˈeɪʃn/",
+   "pos": "n",
+   "vi": "định giá",
+   "ex": "The startup's valuation doubled in a year.",
+   "exVi": "Định giá của công ty khởi nghiệp tăng gấp đôi trong một năm.",
+   "col": [
+    "a valuation",
+    "a high valuation"
+   ]
+  },
+  {
+   "id": "iv022",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "liquidity",
+   "ipa": "/lɪˈkwɪdəti/",
+   "pos": "n",
+   "vi": "thanh khoản",
+   "ex": "High liquidity makes the shares easy to sell.",
+   "exVi": "Thanh khoản cao khiến cổ phiếu dễ bán.",
+   "col": [
+    "liquidity",
+    "market liquidity"
+   ]
+  },
+  {
+   "id": "iv023",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "volatility",
+   "ipa": "/ˌvɒləˈtɪləti/",
+   "pos": "n",
+   "vi": "sự biến động",
+   "ex": "Market volatility worried the investors.",
+   "exVi": "Sự biến động thị trường khiến nhà đầu tư lo.",
+   "col": [
+    "volatility",
+    "market volatility"
+   ]
+  },
+  {
+   "id": "iv024",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "diversify",
+   "ipa": "/daɪˈvɜːsɪfaɪ/",
+   "pos": "v",
+   "vi": "đa dạng hoá",
+   "ex": "Investors diversify to lower the risk.",
+   "exVi": "Nhà đầu tư đa dạng hoá để giảm rủi ro.",
+   "col": [
+    "diversify",
+    "diversify a portfolio"
+   ]
+  },
+  {
+   "id": "iv025",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "invest",
+   "ipa": "/ɪnˈvest/",
+   "pos": "v",
+   "vi": "đầu tư",
+   "ex": "The fund invests in growing markets.",
+   "exVi": "Quỹ đầu tư vào các thị trường đang phát triển.",
+   "col": [
+    "invest",
+    "invest in"
+   ]
+  },
+  {
+   "id": "iv026",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "trade",
+   "ipa": "/treɪd/",
+   "pos": "v",
+   "vi": "giao dịch",
+   "ex": "The shares trade heavily each morning.",
+   "exVi": "Cổ phiếu được giao dịch nhiều mỗi sáng.",
+   "col": [
+    "trade",
+    "trade shares"
+   ]
+  },
+  {
+   "id": "iv027",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "appreciate",
+   "ipa": "/əˈpriːʃieɪt/",
+   "pos": "v",
+   "vi": "tăng giá trị",
+   "ex": "The asset appreciated over the decade.",
+   "exVi": "Tài sản tăng giá trị trong thập kỷ.",
+   "col": [
+    "appreciate",
+    "appreciate in value"
+   ]
+  },
+  {
+   "id": "iv028",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "depreciate",
+   "ipa": "/dɪˈpriːʃieɪt/",
+   "pos": "v",
+   "vi": "giảm giá trị",
+   "ex": "The currency depreciated against the dollar.",
+   "exVi": "Đồng tiền giảm giá trị so với đô la.",
+   "col": [
+    "depreciate",
+    "depreciate over time"
+   ]
+  },
+  {
+   "id": "iv029",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "hedge",
+   "ipa": "/hedʒ/",
+   "pos": "v",
+   "vi": "phòng ngừa rủi ro",
+   "ex": "The firm hedged against a fall in prices.",
+   "exVi": "Công ty phòng ngừa rủi ro trước việc giá giảm.",
+   "col": [
+    "hedge",
+    "hedge a risk"
+   ]
+  },
+  {
+   "id": "iv030",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "allocate",
+   "ipa": "/ˈæləkeɪt/",
+   "pos": "v",
+   "vi": "phân bổ",
+   "ex": "The manager allocated funds across sectors.",
+   "exVi": "Người quản lý phân bổ vốn qua các lĩnh vực.",
+   "col": [
+    "allocate",
+    "allocate capital"
+   ]
+  },
+  {
+   "id": "iv031",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "underwrite",
+   "ipa": "/ˌʌndəˈraɪt/",
+   "pos": "v",
+   "vi": "bảo lãnh phát hành",
+   "ex": "A bank agreed to underwrite the new share issue.",
+   "exVi": "Một ngân hàng đồng ý bảo lãnh phát hành đợt cổ phiếu mới.",
+   "col": [
+    "underwrite",
+    "underwrite an issue"
+   ]
+  },
+  {
+   "id": "iv032",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "speculate",
+   "ipa": "/ˈspekjuleɪt/",
+   "pos": "v",
+   "vi": "đầu cơ",
+   "ex": "Some traders speculate on short-term moves.",
+   "exVi": "Một số nhà giao dịch đầu cơ vào các biến động ngắn hạn.",
+   "col": [
+    "speculate",
+    "speculate on"
+   ]
+  },
+  {
+   "id": "iv033",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "bullish",
+   "ipa": "/ˈbʊlɪʃ/",
+   "pos": "adj",
+   "vi": "kỳ vọng tăng",
+   "ex": "The market felt bullish after the news.",
+   "exVi": "Thị trường tỏ ra kỳ vọng tăng sau tin tức.",
+   "col": [
+    "bullish",
+    "a bullish market"
+   ]
+  },
+  {
+   "id": "iv034",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "bearish",
+   "ipa": "/ˈbeərɪʃ/",
+   "pos": "adj",
+   "vi": "kỳ vọng giảm",
+   "ex": "A bearish mood pushed prices down.",
+   "exVi": "Một tâm lý kỳ vọng giảm đẩy giá xuống.",
+   "col": [
+    "bearish",
+    "a bearish market"
+   ]
+  },
+  {
+   "id": "iv035",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "lucrative",
+   "ipa": "/ˈluːkrətɪv/",
+   "pos": "adj",
+   "vi": "sinh lời cao",
+   "ex": "The deal proved highly lucrative.",
+   "exVi": "Thoả thuận tỏ ra sinh lời cao.",
+   "col": [
+    "lucrative",
+    "a lucrative investment"
+   ]
+  },
+  {
+   "id": "iv036",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "speculative",
+   "ipa": "/ˈspekjələtɪv/",
+   "pos": "adj",
+   "vi": "mang tính đầu cơ",
+   "ex": "A speculative stock carries more risk.",
+   "exVi": "Một cổ phiếu mang tính đầu cơ có nhiều rủi ro hơn.",
+   "col": [
+    "speculative",
+    "a speculative investment"
+   ]
+  },
+  {
+   "id": "iv037",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "diversified",
+   "ipa": "/daɪˈvɜːsɪfaɪd/",
+   "pos": "adj",
+   "vi": "đa dạng hoá",
+   "ex": "A diversified fund spreads its risk widely.",
+   "exVi": "Một quỹ đa dạng hoá phân tán rủi ro rộng.",
+   "col": [
+    "diversified",
+    "a diversified portfolio"
+   ]
+  },
+  {
+   "id": "iv038",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "liquid",
+   "ipa": "/ˈlɪkwɪd/",
+   "pos": "adj",
+   "vi": "có tính thanh khoản",
+   "ex": "Cash is the most liquid asset.",
+   "exVi": "Tiền mặt là tài sản có tính thanh khoản nhất.",
+   "col": [
+    "liquid",
+    "a liquid asset"
+   ]
+  },
+  {
+   "id": "iv039",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "volatile",
+   "ipa": "/ˈvɒlətaɪl/",
+   "pos": "adj",
+   "vi": "biến động mạnh",
+   "ex": "The market was volatile all week.",
+   "exVi": "Thị trường biến động mạnh cả tuần.",
+   "col": [
+    "volatile",
+    "a volatile market"
+   ]
+  },
+  {
+   "id": "iv040",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "listed",
+   "ipa": "/ˈlɪstɪd/",
+   "pos": "adj",
+   "vi": "được niêm yết",
+   "ex": "The firm became a listed company last year.",
+   "exVi": "Công ty trở thành một công ty niêm yết năm ngoái.",
+   "col": [
+    "listed",
+    "a listed firm"
+   ]
+  },
+  {
+   "id": "iv041",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "market",
+   "ipa": "/ˈmɑːkɪt/",
+   "pos": "n",
+   "vi": "thị trường",
+   "ex": "The market opened higher this morning.",
+   "exVi": "Thị trường mở cửa cao hơn sáng nay.",
+   "col": [
+    "the market",
+    "a bull market"
+   ]
+  },
+  {
+   "id": "iv042",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "trading",
+   "ipa": "/ˈtreɪdɪŋ/",
+   "pos": "n",
+   "vi": "giao dịch",
+   "ex": "Trading was heavy after the results.",
+   "exVi": "Giao dịch sôi động sau kết quả.",
+   "col": [
+    "trading",
+    "online trading"
+   ]
+  },
+  {
+   "id": "iv043",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "transaction",
+   "ipa": "/trænˈzækʃn/",
+   "pos": "n",
+   "vi": "giao dịch",
+   "ex": "Each transaction is settled the same day.",
+   "exVi": "Mỗi giao dịch được thanh toán trong cùng ngày.",
+   "col": [
+    "a transaction",
+    "a share transaction"
+   ]
+  },
+  {
+   "id": "iv044",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "shareholder",
+   "ipa": "/ˈʃeəhəʊldə/",
+   "pos": "n",
+   "vi": "cổ đông",
+   "ex": "Shareholders voted on the dividend.",
+   "exVi": "Cổ đông bỏ phiếu về cổ tức.",
+   "col": [
+    "a shareholder",
+    "a major shareholder"
+   ]
+  },
+  {
+   "id": "iv045",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "stakeholder",
+   "ipa": "/ˈsteɪkhəʊldə/",
+   "pos": "n",
+   "vi": "bên liên quan",
+   "ex": "Every stakeholder was kept informed.",
+   "exVi": "Mọi bên liên quan được cập nhật.",
+   "col": [
+    "a stakeholder",
+    "a key stakeholder"
+   ]
+  },
+  {
+   "id": "iv046",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "fund",
+   "ipa": "/fʌnd/",
+   "pos": "n",
+   "vi": "quỹ",
+   "ex": "The fund invests in global markets.",
+   "exVi": "Quỹ đầu tư vào các thị trường toàn cầu.",
+   "col": [
+    "a fund",
+    "a mutual fund"
+   ]
+  },
+  {
+   "id": "iv047",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "mutual fund",
+   "ipa": "/ˈmjuːtʃuəl fʌnd/",
+   "pos": "n",
+   "vi": "quỹ tương hỗ",
+   "ex": "A mutual fund pools money from many investors.",
+   "exVi": "Một quỹ tương hỗ gom tiền từ nhiều nhà đầu tư.",
+   "col": [
+    "a mutual fund",
+    "a large mutual fund"
+   ]
+  },
+  {
+   "id": "iv048",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "hedge fund",
+   "ipa": "/hedʒ fʌnd/",
+   "pos": "n",
+   "vi": "quỹ đầu cơ",
+   "ex": "The hedge fund took a bold position.",
+   "exVi": "Quỹ đầu cơ có một vị thế táo bạo.",
+   "col": [
+    "a hedge fund",
+    "a large hedge fund"
+   ]
+  },
+  {
+   "id": "iv049",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "asset",
+   "ipa": "/ˈæset/",
+   "pos": "n",
+   "vi": "tài sản",
+   "ex": "The fund holds a wide range of assets.",
+   "exVi": "Quỹ nắm giữ nhiều loại tài sản.",
+   "col": [
+    "an asset",
+    "a financial asset"
+   ]
+  },
+  {
+   "id": "iv050",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "commodity",
+   "ipa": "/kəˈmɒdəti/",
+   "pos": "n",
+   "vi": "hàng hoá cơ bản",
+   "ex": "Gold is traded as a global commodity.",
+   "exVi": "Vàng được giao dịch như một hàng hoá toàn cầu.",
+   "col": [
+    "a commodity",
+    "a commodity market"
+   ]
+  },
+  {
+   "id": "iv051",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "derivative",
+   "ipa": "/dɪˈrɪvətɪv/",
+   "pos": "n",
+   "vi": "công cụ phái sinh",
+   "ex": "A derivative can hedge against price swings.",
+   "exVi": "Một công cụ phái sinh có thể phòng ngừa biến động giá.",
+   "col": [
+    "a derivative",
+    "a financial derivative"
+   ]
+  },
+  {
+   "id": "iv052",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "futures",
+   "ipa": "/ˈfjuːtʃəz/",
+   "pos": "n",
+   "vi": "hợp đồng tương lai",
+   "ex": "Oil futures rose on the news.",
+   "exVi": "Hợp đồng dầu tương lai tăng theo tin tức.",
+   "col": [
+    "futures",
+    "oil futures"
+   ]
+  },
+  {
+   "id": "iv053",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "option",
+   "ipa": "/ˈɒpʃn/",
+   "pos": "n",
+   "vi": "quyền chọn",
+   "ex": "An option gives the right to buy later.",
+   "exVi": "Một quyền chọn cho quyền mua sau này.",
+   "col": [
+    "an option",
+    "a stock option"
+   ]
+  },
+  {
+   "id": "iv054",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "premium",
+   "ipa": "/ˈpriːmiəm/",
+   "pos": "n",
+   "vi": "phí quyền chọn",
+   "ex": "The option premium was low this week.",
+   "exVi": "Phí quyền chọn thấp trong tuần này.",
+   "col": [
+    "a premium",
+    "an option premium"
+   ]
+  },
+  {
+   "id": "iv055",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "collateral",
+   "ipa": "/kəˈlætərəl/",
+   "pos": "n",
+   "vi": "tài sản thế chấp",
+   "ex": "The loan was backed by collateral.",
+   "exVi": "Khoản vay được bảo đảm bằng tài sản thế chấp.",
+   "col": [
+    "collateral",
+    "loan collateral"
+   ]
+  },
+  {
+   "id": "iv056",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "leverage",
+   "ipa": "/ˈliːvərɪdʒ/",
+   "pos": "n",
+   "vi": "đòn bẩy tài chính",
+   "ex": "High leverage raises both risk and reward.",
+   "exVi": "Đòn bẩy cao làm tăng cả rủi ro và lợi nhuận.",
+   "col": [
+    "leverage",
+    "financial leverage"
+   ]
+  },
+  {
+   "id": "iv057",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "inflation",
+   "ipa": "/ɪnˈfleɪʃn/",
+   "pos": "n",
+   "vi": "lạm phát",
+   "ex": "Rising inflation eroded the returns.",
+   "exVi": "Lạm phát tăng bào mòn lợi nhuận.",
+   "col": [
+    "inflation",
+    "high inflation"
+   ]
+  },
+  {
+   "id": "iv058",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "recession",
+   "ipa": "/rɪˈseʃn/",
+   "pos": "n",
+   "vi": "suy thoái",
+   "ex": "The market fell during the recession.",
+   "exVi": "Thị trường giảm trong suy thoái.",
+   "col": [
+    "a recession",
+    "an economic recession"
+   ]
+  },
+  {
+   "id": "iv059",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "downturn",
+   "ipa": "/ˈdaʊntɜːn/",
+   "pos": "n",
+   "vi": "suy giảm",
+   "ex": "A downturn hit the whole sector.",
+   "exVi": "Một sự suy giảm ảnh hưởng cả lĩnh vực.",
+   "col": [
+    "a downturn",
+    "an economic downturn"
+   ]
+  },
+  {
+   "id": "iv060",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "rally",
+   "ipa": "/ˈræli/",
+   "pos": "n",
+   "vi": "đợt phục hồi tăng",
+   "ex": "A strong rally lifted the index.",
+   "exVi": "Một đợt phục hồi mạnh nâng chỉ số.",
+   "col": [
+    "a rally",
+    "a market rally"
+   ]
+  },
+  {
+   "id": "iv061",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "prospectus",
+   "ipa": "/prəˈspektəs/",
+   "pos": "n",
+   "vi": "bản cáo bạch",
+   "ex": "The prospectus describes the new share issue.",
+   "exVi": "Bản cáo bạch mô tả đợt phát hành cổ phiếu mới.",
+   "col": [
+    "a prospectus",
+    "read the prospectus"
+   ]
+  },
+  {
+   "id": "iv062",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "listing",
+   "ipa": "/ˈlɪstɪŋ/",
+   "pos": "n",
+   "vi": "niêm yết",
+   "ex": "The firm planned a listing on the exchange.",
+   "exVi": "Công ty lên kế hoạch niêm yết trên sàn.",
+   "col": [
+    "a listing",
+    "a stock listing"
+   ]
+  },
+  {
+   "id": "iv063",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "flotation",
+   "ipa": "/fləʊˈteɪʃn/",
+   "pos": "n",
+   "vi": "phát hành ra công chúng",
+   "ex": "The flotation raised millions for the firm.",
+   "exVi": "Việc phát hành ra công chúng huy động hàng triệu cho công ty.",
+   "col": [
+    "a flotation",
+    "a stock flotation"
+   ]
+  },
+  {
+   "id": "iv064",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "underwriter",
+   "ipa": "/ˈʌndəraɪtə/",
+   "pos": "n",
+   "vi": "nhà bảo lãnh",
+   "ex": "The underwriter set the share price.",
+   "exVi": "Nhà bảo lãnh định giá cổ phiếu.",
+   "col": [
+    "an underwriter",
+    "a lead underwriter"
+   ]
+  },
+  {
+   "id": "iv065",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "custodian",
+   "ipa": "/kʌˈstəʊdiən/",
+   "pos": "n",
+   "vi": "đơn vị lưu ký",
+   "ex": "A custodian holds the fund's assets.",
+   "exVi": "Một đơn vị lưu ký nắm giữ tài sản của quỹ.",
+   "col": [
+    "a custodian",
+    "a custodian bank"
+   ]
+  },
+  {
+   "id": "iv066",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "settlement",
+   "ipa": "/ˈsetlmənt/",
+   "pos": "n",
+   "vi": "thanh toán bù trừ",
+   "ex": "Settlement of the trade takes two days.",
+   "exVi": "Việc thanh toán bù trừ giao dịch mất hai ngày.",
+   "col": [
+    "settlement",
+    "trade settlement"
+   ]
+  },
+  {
+   "id": "iv067",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "compliance",
+   "ipa": "/kəmˈplaɪəns/",
+   "pos": "n",
+   "vi": "tuân thủ",
+   "ex": "The firm follows strict trading compliance.",
+   "exVi": "Công ty theo tuân thủ giao dịch nghiêm ngặt.",
+   "col": [
+    "compliance",
+    "trading compliance"
+   ]
+  },
+  {
+   "id": "iv068",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "disclosure",
+   "ipa": "/dɪsˈkləʊʒə/",
+   "pos": "n",
+   "vi": "công bố thông tin",
+   "ex": "Full disclosure protects the investors.",
+   "exVi": "Công bố đầy đủ bảo vệ nhà đầu tư.",
+   "col": [
+    "disclosure",
+    "full disclosure"
+   ]
+  },
+  {
+   "id": "iv069",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "mature",
+   "ipa": "/məˈtʃʊə/",
+   "pos": "v",
+   "vi": "đáo hạn",
+   "ex": "The bond matures at the end of the year.",
+   "exVi": "Trái phiếu đáo hạn vào cuối năm.",
+   "col": [
+    "mature",
+    "the bond matures"
+   ]
+  },
+  {
+   "id": "iv070",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "liquidate",
+   "ipa": "/ˈlɪkwɪdeɪt/",
+   "pos": "v",
+   "vi": "thanh lý",
+   "ex": "The investor liquidated the whole holding.",
+   "exVi": "Nhà đầu tư thanh lý toàn bộ khoản nắm giữ.",
+   "col": [
+    "liquidate",
+    "liquidate assets"
+   ]
+  },
+  {
+   "id": "iv071",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "capitalize",
+   "ipa": "/ˈkæpɪtəlaɪz/",
+   "pos": "v",
+   "vi": "vốn hoá",
+   "ex": "The firm capitalized on the market rise.",
+   "exVi": "Công ty tận dụng đà tăng của thị trường.",
+   "col": [
+    "capitalize",
+    "capitalize on"
+   ]
+  },
+  {
+   "id": "iv072",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "outperform",
+   "ipa": "/ˌaʊtpəˈfɔːm/",
+   "pos": "v",
+   "vi": "vượt trội",
+   "ex": "The fund outperformed the market.",
+   "exVi": "Quỹ vượt trội hơn thị trường.",
+   "col": [
+    "outperform",
+    "outperform the index"
+   ]
+  },
+  {
+   "id": "iv073",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "underperform",
+   "ipa": "/ˌʌndəpəˈfɔːm/",
+   "pos": "v",
+   "vi": "kém hơn",
+   "ex": "The stock underperformed its rivals.",
+   "exVi": "Cổ phiếu kém hơn các đối thủ.",
+   "col": [
+    "underperform",
+    "underperform the market"
+   ]
+  },
+  {
+   "id": "iv074",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "subscribe",
+   "ipa": "/səbˈskraɪb/",
+   "pos": "v",
+   "vi": "đăng ký mua",
+   "ex": "Investors subscribed to the new issue.",
+   "exVi": "Nhà đầu tư đăng ký mua đợt phát hành mới.",
+   "col": [
+    "subscribe",
+    "subscribe to an issue"
+   ]
+  },
+  {
+   "id": "iv075",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "solvent",
+   "ipa": "/ˈsɒlvənt/",
+   "pos": "adj",
+   "vi": "có khả năng trả nợ",
+   "ex": "The firm stayed solvent through the crisis.",
+   "exVi": "Công ty vẫn có khả năng trả nợ suốt khủng hoảng.",
+   "col": [
+    "solvent",
+    "remain solvent"
+   ]
+  },
+  {
+   "id": "iv076",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "prudent",
+   "ipa": "/ˈpruːdnt/",
+   "pos": "adj",
+   "vi": "thận trọng",
+   "ex": "A prudent investor spreads the risk.",
+   "exVi": "Một nhà đầu tư thận trọng phân tán rủi ro.",
+   "col": [
+    "prudent",
+    "a prudent investor"
+   ]
+  },
+  {
+   "id": "iv077",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "profitable",
+   "ipa": "/ˈprɒfɪtəbl/",
+   "pos": "adj",
+   "vi": "có lãi",
+   "ex": "The trade proved highly profitable.",
+   "exVi": "Giao dịch tỏ ra rất có lãi.",
+   "col": [
+    "profitable",
+    "a profitable trade"
+   ]
+  },
+  {
+   "id": "iv078",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "undervalued",
+   "ipa": "/ˌʌndəˈvæljuːd/",
+   "pos": "adj",
+   "vi": "bị định giá thấp",
+   "ex": "The stock looked undervalued at the time.",
+   "exVi": "Cổ phiếu trông bị định giá thấp vào thời điểm đó.",
+   "col": [
+    "undervalued",
+    "an undervalued stock"
+   ]
+  },
+  {
+   "id": "iv079",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "overvalued",
+   "ipa": "/ˌəʊvəˈvæljuːd/",
+   "pos": "adj",
+   "vi": "bị định giá cao",
+   "ex": "Analysts felt the shares were overvalued.",
+   "exVi": "Các chuyên gia thấy cổ phiếu bị định giá cao.",
+   "col": [
+    "overvalued",
+    "an overvalued market"
+   ]
+  },
+  {
+   "id": "iv080",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "blue-chip",
+   "ipa": "/ˈbluː tʃɪp/",
+   "pos": "adj",
+   "vi": "cổ phiếu hàng đầu",
+   "ex": "A blue-chip stock offers steady returns.",
+   "exVi": "Một cổ phiếu hàng đầu cho lợi nhuận ổn định.",
+   "col": [
+    "blue-chip",
+    "a blue-chip company"
+   ]
+  },
+  {
+   "id": "iv081",
+   "topic": "Đầu tư & chứng khoán",
+   "w": "fixed-income",
+   "ipa": "/ˌfɪkst ˈɪnkʌm/",
+   "pos": "adj",
+   "vi": "thu nhập cố định",
+   "ex": "A fixed-income bond pays a set rate.",
+   "exVi": "Một trái phiếu thu nhập cố định trả một mức cố định.",
+   "col": [
+    "fixed-income",
+    "a fixed-income fund"
+   ]
+  }
+ ]
+}

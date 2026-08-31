@@ -1,0 +1,1607 @@
+{
+ "topic": "Tuyển dụng & nhân sự",
+ "words": [
+  {
+   "id": "v26",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "applicant",
+   "ipa": "/ˈæplɪkənt/",
+   "pos": "n",
+   "vi": "người nộp đơn, ứng viên",
+   "ex": "Applicants should submit a résumé and two references.",
+   "exVi": "Ứng viên cần nộp sơ yếu lý lịch và hai thư giới thiệu.",
+   "col": [
+    "a qualified applicant",
+    "screen applicants",
+    "successful applicants"
+   ]
+  },
+  {
+   "id": "v27",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "résumé",
+   "ipa": "/ˈrezjumeɪ/",
+   "pos": "n",
+   "vi": "sơ yếu lý lịch, CV",
+   "ex": "Attach your résumé as a PDF file.",
+   "exVi": "Đính kèm sơ yếu lý lịch của bạn dưới dạng file PDF.",
+   "col": [
+    "update a résumé",
+    "submit a résumé",
+    "review résumés"
+   ]
+  },
+  {
+   "id": "v28",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "supervisor",
+   "ipa": "/ˈsuːpəvaɪzə/",
+   "pos": "n",
+   "vi": "người quản lý trực tiếp",
+   "ex": "Requests for leave must be approved by your supervisor.",
+   "exVi": "Đơn xin nghỉ phải được quản lý trực tiếp phê duyệt.",
+   "col": [
+    "report to a supervisor",
+    "your immediate supervisor"
+   ]
+  },
+  {
+   "id": "v29",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "benefits",
+   "ipa": "/ˈbenɪfɪts/",
+   "pos": "n",
+   "vi": "phúc lợi (ngoài lương)",
+   "ex": "The benefits package includes health insurance and paid leave.",
+   "exVi": "Gói phúc lợi gồm bảo hiểm y tế và nghỉ phép có lương.",
+   "col": [
+    "a benefits package",
+    "employee benefits",
+    "be eligible for benefits"
+   ]
+  },
+  {
+   "id": "v30",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "probation",
+   "ipa": "/prəˈbeɪʃn/",
+   "pos": "n",
+   "vi": "thời gian thử việc",
+   "ex": "New hires complete a three-month probation period.",
+   "exVi": "Nhân viên mới trải qua thời gian thử việc ba tháng.",
+   "col": [
+    "a probation period",
+    "on probation",
+    "complete probation"
+   ]
+  },
+  {
+   "id": "hr006",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "recruit",
+   "ipa": "/rɪˈkruːt/",
+   "pos": "v",
+   "vi": "tuyển dụng, tuyển người",
+   "ex": "The firm plans to recruit twenty engineers this quarter.",
+   "exVi": "Công ty dự định tuyển hai mươi kỹ sư trong quý này.",
+   "col": [
+    "recruit staff",
+    "actively recruit",
+    "recruit for a position"
+   ]
+  },
+  {
+   "id": "hr007",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "recruitment",
+   "ipa": "/rɪˈkruːtmənt/",
+   "pos": "n",
+   "vi": "việc tuyển dụng",
+   "ex": "Recruitment for the Da Nang office begins in March.",
+   "exVi": "Việc tuyển dụng cho văn phòng Đà Nẵng bắt đầu vào tháng Ba.",
+   "col": [
+    "the recruitment process",
+    "a recruitment agency"
+   ]
+  },
+  {
+   "id": "hr008",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "recruiter",
+   "ipa": "/rɪˈkruːtə/",
+   "pos": "n",
+   "vi": "nhà tuyển dụng",
+   "ex": "A recruiter will contact shortlisted candidates directly.",
+   "exVi": "Nhà tuyển dụng sẽ liên hệ trực tiếp với ứng viên vào vòng trong.",
+   "col": [
+    "an external recruiter",
+    "speak to a recruiter"
+   ]
+  },
+  {
+   "id": "hr009",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "candidate",
+   "ipa": "/ˈkændɪdət/",
+   "pos": "n",
+   "vi": "ứng viên",
+   "ex": "Only three candidates were invited to the second interview.",
+   "exVi": "Chỉ ba ứng viên được mời vào vòng phỏng vấn thứ hai.",
+   "col": [
+    "a strong candidate",
+    "the leading candidate"
+   ]
+  },
+  {
+   "id": "hr010",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "vacancy",
+   "ipa": "/ˈveɪkənsi/",
+   "pos": "n",
+   "vi": "vị trí trống",
+   "ex": "There is currently a vacancy in the accounting department.",
+   "exVi": "Hiện đang có một vị trí trống ở phòng kế toán.",
+   "col": [
+    "fill a vacancy",
+    "advertise a vacancy"
+   ]
+  },
+  {
+   "id": "hr011",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "opening",
+   "ipa": "/ˈəʊpnɪŋ/",
+   "pos": "n",
+   "vi": "vị trí đang tuyển",
+   "ex": "We have two openings for junior analysts.",
+   "exVi": "Chúng tôi có hai vị trí tuyển chuyên viên phân tích cấp thấp.",
+   "col": [
+    "a job opening",
+    "an opening for"
+   ]
+  },
+  {
+   "id": "hr012",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "apply",
+   "ipa": "/əˈplaɪ/",
+   "pos": "v",
+   "vi": "nộp đơn ứng tuyển",
+   "ex": "Interested staff may apply for the role before 30 May.",
+   "exVi": "Nhân viên quan tâm có thể ứng tuyển trước ngày 30 tháng Năm.",
+   "col": [
+    "apply for a position",
+    "apply online"
+   ]
+  },
+  {
+   "id": "hr013",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "application",
+   "ipa": "/ˌæplɪˈkeɪʃn/",
+   "pos": "n",
+   "vi": "đơn ứng tuyển",
+   "ex": "Applications received after the deadline will not be considered.",
+   "exVi": "Đơn nộp sau hạn sẽ không được xem xét.",
+   "col": [
+    "submit an application",
+    "an application form"
+   ]
+  },
+  {
+   "id": "hr014",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "cover letter",
+   "ipa": "/ˈkʌvə ˌletə/",
+   "pos": "n",
+   "vi": "thư xin việc",
+   "ex": "Attach a short cover letter explaining your interest.",
+   "exVi": "Đính kèm một thư xin việc ngắn nêu lý do bạn quan tâm.",
+   "col": [
+    "write a cover letter",
+    "a tailored cover letter"
+   ]
+  },
+  {
+   "id": "hr015",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "credentials",
+   "ipa": "/krəˈdenʃlz/",
+   "pos": "n",
+   "vi": "bằng cấp và chứng chỉ",
+   "ex": "Please bring your original credentials to the interview.",
+   "exVi": "Vui lòng mang bản gốc bằng cấp tới buổi phỏng vấn.",
+   "col": [
+    "verify credentials",
+    "impressive credentials"
+   ]
+  },
+  {
+   "id": "hr016",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "reference",
+   "ipa": "/ˈrefrəns/",
+   "pos": "n",
+   "vi": "thư giới thiệu",
+   "ex": "Two professional references are required for this role.",
+   "exVi": "Vị trí này yêu cầu hai thư giới thiệu từ nơi làm việc cũ.",
+   "col": [
+    "provide references",
+    "a reference letter"
+   ]
+  },
+  {
+   "id": "hr017",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "shortlist",
+   "ipa": "/ˈʃɔːtlɪst/",
+   "pos": "v, n",
+   "vi": "đưa vào danh sách rút gọn",
+   "ex": "Five applicants have been shortlisted for the position.",
+   "exVi": "Năm ứng viên đã được đưa vào danh sách rút gọn.",
+   "col": [
+    "be shortlisted for",
+    "draw up a shortlist"
+   ]
+  },
+  {
+   "id": "hr018",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "screen",
+   "ipa": "/skriːn/",
+   "pos": "v",
+   "vi": "sàng lọc hồ sơ",
+   "ex": "Human Resources screens every résumé before forwarding it.",
+   "exVi": "Phòng nhân sự sàng lọc mọi hồ sơ trước khi chuyển đi.",
+   "col": [
+    "screen applicants",
+    "screen résumés"
+   ]
+  },
+  {
+   "id": "hr019",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "interview",
+   "ipa": "/ˈɪntəvjuː/",
+   "pos": "n, v",
+   "vi": "phỏng vấn",
+   "ex": "The final interview will be held by video conference.",
+   "exVi": "Buổi phỏng vấn cuối sẽ diễn ra qua hội nghị truyền hình.",
+   "col": [
+    "conduct an interview",
+    "attend an interview"
+   ]
+  },
+  {
+   "id": "hr020",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "hire",
+   "ipa": "/ˈhaɪə/",
+   "pos": "v",
+   "vi": "thuê, tuyển vào làm",
+   "ex": "The company hired thirty seasonal workers in November.",
+   "exVi": "Công ty đã tuyển ba mươi lao động thời vụ vào tháng Mười một.",
+   "col": [
+    "hire staff",
+    "a new hire"
+   ]
+  },
+  {
+   "id": "hr021",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "qualification",
+   "ipa": "/ˌkwɒlɪfɪˈkeɪʃn/",
+   "pos": "n",
+   "vi": "bằng cấp, trình độ",
+   "ex": "The post requires a qualification in accounting.",
+   "exVi": "Vị trí này đòi hỏi bằng cấp về kế toán.",
+   "col": [
+    "meet the qualifications",
+    "a formal qualification"
+   ]
+  },
+  {
+   "id": "hr022",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "qualified",
+   "ipa": "/ˈkwɒlɪfaɪd/",
+   "pos": "adj",
+   "vi": "đủ tiêu chuẩn, có chuyên môn",
+   "ex": "Only qualified technicians may operate the equipment.",
+   "exVi": "Chỉ kỹ thuật viên đủ chuyên môn mới được vận hành thiết bị.",
+   "col": [
+    "highly qualified",
+    "fully qualified"
+   ]
+  },
+  {
+   "id": "hr023",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "eligible",
+   "ipa": "/ˈelɪdʒəbl/",
+   "pos": "adj",
+   "vi": "đủ điều kiện",
+   "ex": "Employees become eligible for the bonus after one year.",
+   "exVi": "Nhân viên đủ điều kiện nhận thưởng sau một năm.",
+   "col": [
+    "be eligible for",
+    "eligible to apply"
+   ]
+  },
+  {
+   "id": "hr024",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "expertise",
+   "ipa": "/ˌekspɜːˈtiːz/",
+   "pos": "n",
+   "vi": "chuyên môn sâu",
+   "ex": "Her expertise in logistics made her the obvious choice.",
+   "exVi": "Chuyên môn về hậu cần khiến bà là lựa chọn hiển nhiên.",
+   "col": [
+    "technical expertise",
+    "bring expertise to"
+   ]
+  },
+  {
+   "id": "hr025",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "proficiency",
+   "ipa": "/prəˈfɪʃnsi/",
+   "pos": "n",
+   "vi": "sự thành thạo",
+   "ex": "Proficiency in spoken English is essential for this role.",
+   "exVi": "Sự thành thạo tiếng Anh nói là điều kiện thiết yếu.",
+   "col": [
+    "language proficiency",
+    "demonstrate proficiency"
+   ]
+  },
+  {
+   "id": "hr026",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "competent",
+   "ipa": "/ˈkɒmpɪtənt/",
+   "pos": "adj",
+   "vi": "có năng lực",
+   "ex": "The team is competent but seriously understaffed.",
+   "exVi": "Nhóm này có năng lực nhưng thiếu người nghiêm trọng.",
+   "col": [
+    "a competent manager",
+    "technically competent"
+   ]
+  },
+  {
+   "id": "hr027",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "suitable",
+   "ipa": "/ˈsuːtəbl/",
+   "pos": "adj",
+   "vi": "phù hợp",
+   "ex": "We could not find a suitable applicant for the post.",
+   "exVi": "Chúng tôi không tìm được ứng viên phù hợp cho vị trí.",
+   "col": [
+    "a suitable candidate",
+    "suitable for"
+   ]
+  },
+  {
+   "id": "hr028",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "background",
+   "ipa": "/ˈbækɡraʊnd/",
+   "pos": "n",
+   "vi": "nền tảng học vấn và kinh nghiệm",
+   "ex": "Candidates with a background in finance are preferred.",
+   "exVi": "Ưu tiên ứng viên có nền tảng về tài chính.",
+   "col": [
+    "an academic background",
+    "a background check"
+   ]
+  },
+  {
+   "id": "hr029",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "position",
+   "ipa": "/pəˈzɪʃn/",
+   "pos": "n",
+   "vi": "vị trí công việc",
+   "ex": "The position reports directly to the regional director.",
+   "exVi": "Vị trí này báo cáo trực tiếp cho giám đốc vùng.",
+   "col": [
+    "apply for a position",
+    "a senior position"
+   ]
+  },
+  {
+   "id": "hr030",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "role",
+   "ipa": "/rəʊl/",
+   "pos": "n",
+   "vi": "vai trò, vị trí",
+   "ex": "The role involves frequent travel to client sites.",
+   "exVi": "Vai trò này đòi hỏi đi công tác tới chỗ khách hàng thường xuyên.",
+   "col": [
+    "take on a role",
+    "a key role"
+   ]
+  },
+  {
+   "id": "hr031",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "personnel",
+   "ipa": "/ˌpɜːsəˈnel/",
+   "pos": "n",
+   "vi": "nhân sự, toàn thể nhân viên",
+   "ex": "All personnel must complete the safety course.",
+   "exVi": "Toàn thể nhân sự phải hoàn thành khoá an toàn.",
+   "col": [
+    "trained personnel",
+    "personnel records"
+   ]
+  },
+  {
+   "id": "hr032",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "staff",
+   "ipa": "/stɑːf/",
+   "pos": "n",
+   "vi": "nhân viên",
+   "ex": "The branch is staffed by twelve people.",
+   "exVi": "Chi nhánh có mười hai nhân viên.",
+   "col": [
+    "a staff meeting",
+    "be short-staffed"
+   ]
+  },
+  {
+   "id": "hr033",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "workforce",
+   "ipa": "/ˈwɜːkfɔːs/",
+   "pos": "n",
+   "vi": "lực lượng lao động",
+   "ex": "Half the workforce now works remotely twice a week.",
+   "exVi": "Một nửa lực lượng lao động nay làm việc từ xa hai ngày mỗi tuần.",
+   "col": [
+    "a skilled workforce",
+    "reduce the workforce"
+   ]
+  },
+  {
+   "id": "hr034",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "headcount",
+   "ipa": "/ˈhedkaʊnt/",
+   "pos": "n",
+   "vi": "số lượng nhân sự",
+   "ex": "The department was told to keep headcount unchanged.",
+   "exVi": "Phòng ban được yêu cầu giữ nguyên số lượng nhân sự.",
+   "col": [
+    "increase headcount",
+    "a headcount freeze"
+   ]
+  },
+  {
+   "id": "hr035",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "colleague",
+   "ipa": "/ˈkɒliːɡ/",
+   "pos": "n",
+   "vi": "đồng nghiệp",
+   "ex": "Ask a colleague to cover the front desk.",
+   "exVi": "Nhờ một đồng nghiệp trực giúp quầy lễ tân.",
+   "col": [
+    "a former colleague",
+    "work with colleagues"
+   ]
+  },
+  {
+   "id": "hr036",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "subordinate",
+   "ipa": "/səˈbɔːdɪnət/",
+   "pos": "n",
+   "vi": "cấp dưới",
+   "ex": "Managers should give subordinates written feedback quarterly.",
+   "exVi": "Quản lý nên góp ý bằng văn bản cho cấp dưới mỗi quý.",
+   "col": [
+    "a direct subordinate",
+    "brief subordinates"
+   ]
+  },
+  {
+   "id": "hr037",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "department",
+   "ipa": "/dɪˈpɑːtmənt/",
+   "pos": "n",
+   "vi": "phòng ban",
+   "ex": "The marketing department moved to the fourth floor.",
+   "exVi": "Phòng marketing đã chuyển lên tầng bốn.",
+   "col": [
+    "head of department",
+    "across departments"
+   ]
+  },
+  {
+   "id": "hr038",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "division",
+   "ipa": "/dɪˈvɪʒn/",
+   "pos": "n",
+   "vi": "bộ phận, khối",
+   "ex": "Our Asian division accounts for half of total sales.",
+   "exVi": "Khối châu Á chiếm một nửa tổng doanh số.",
+   "col": [
+    "a sales division",
+    "head of a division"
+   ]
+  },
+  {
+   "id": "hr039",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "orientation",
+   "ipa": "/ˌɔːriənˈteɪʃn/",
+   "pos": "n",
+   "vi": "buổi định hướng nhân viên mới",
+   "ex": "New hires attend a two-day orientation.",
+   "exVi": "Nhân viên mới dự buổi định hướng hai ngày.",
+   "col": [
+    "an orientation session",
+    "attend orientation"
+   ]
+  },
+  {
+   "id": "hr040",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "onboarding",
+   "ipa": "/ˈɒnbɔːdɪŋ/",
+   "pos": "n",
+   "vi": "quá trình hội nhập nhân viên mới",
+   "ex": "The onboarding process now takes one week instead of three.",
+   "exVi": "Quá trình hội nhập nay mất một tuần thay vì ba.",
+   "col": [
+    "the onboarding process",
+    "streamline onboarding"
+   ]
+  },
+  {
+   "id": "hr041",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "intern",
+   "ipa": "/ˈɪntɜːn/",
+   "pos": "n",
+   "vi": "thực tập sinh",
+   "ex": "Two interns will join the design team in June.",
+   "exVi": "Hai thực tập sinh sẽ vào nhóm thiết kế vào tháng Sáu.",
+   "col": [
+    "a summer intern",
+    "hire an intern"
+   ]
+  },
+  {
+   "id": "hr042",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "internship",
+   "ipa": "/ˈɪntɜːnʃɪp/",
+   "pos": "n",
+   "vi": "kỳ thực tập",
+   "ex": "The internship lasts three months and is paid.",
+   "exVi": "Kỳ thực tập kéo dài ba tháng và có trả lương.",
+   "col": [
+    "a paid internship",
+    "complete an internship"
+   ]
+  },
+  {
+   "id": "hr043",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "trainee",
+   "ipa": "/ˌtreɪˈniː/",
+   "pos": "n",
+   "vi": "người học việc",
+   "ex": "Trainees work alongside a senior technician.",
+   "exVi": "Người học việc làm cùng một kỹ thuật viên lâu năm.",
+   "col": [
+    "a management trainee",
+    "supervise trainees"
+   ]
+  },
+  {
+   "id": "hr044",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "mentor",
+   "ipa": "/ˈmentɔː/",
+   "pos": "n, v",
+   "vi": "người hướng dẫn; kèm cặp",
+   "ex": "Each new employee is assigned a mentor.",
+   "exVi": "Mỗi nhân viên mới được phân công một người hướng dẫn.",
+   "col": [
+    "act as a mentor",
+    "mentor junior staff"
+   ]
+  },
+  {
+   "id": "hr045",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "permanent",
+   "ipa": "/ˈpɜːmənənt/",
+   "pos": "adj",
+   "vi": "chính thức, dài hạn",
+   "ex": "The role becomes permanent after six months.",
+   "exVi": "Vị trí trở thành chính thức sau sáu tháng.",
+   "col": [
+    "a permanent contract",
+    "permanent staff"
+   ]
+  },
+  {
+   "id": "hr046",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "temporary",
+   "ipa": "/ˈtemprəri/",
+   "pos": "adj",
+   "vi": "tạm thời",
+   "ex": "Temporary staff are hired during the holiday season.",
+   "exVi": "Nhân viên tạm thời được thuê vào mùa lễ.",
+   "col": [
+    "a temporary position",
+    "temporary cover"
+   ]
+  },
+  {
+   "id": "hr047",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "full-time",
+   "ipa": "/ˌfʊl ˈtaɪm/",
+   "pos": "adj",
+   "vi": "toàn thời gian",
+   "ex": "The post is full-time with occasional weekend work.",
+   "exVi": "Vị trí toàn thời gian, thỉnh thoảng làm cuối tuần.",
+   "col": [
+    "a full-time position",
+    "work full-time"
+   ]
+  },
+  {
+   "id": "hr048",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "part-time",
+   "ipa": "/ˌpɑːt ˈtaɪm/",
+   "pos": "adj",
+   "vi": "bán thời gian",
+   "ex": "She moved to part-time hours after the training.",
+   "exVi": "Bà chuyển sang làm bán thời gian sau khoá tập huấn.",
+   "col": [
+    "a part-time employee",
+    "work part-time"
+   ]
+  },
+  {
+   "id": "hr049",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "salary",
+   "ipa": "/ˈsæləri/",
+   "pos": "n",
+   "vi": "lương tháng hoặc lương năm",
+   "ex": "The starting salary is negotiable depending on experience.",
+   "exVi": "Mức lương khởi điểm có thể thương lượng tuỳ kinh nghiệm.",
+   "col": [
+    "a starting salary",
+    "an annual salary"
+   ]
+  },
+  {
+   "id": "hr050",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "wage",
+   "ipa": "/weɪdʒ/",
+   "pos": "n",
+   "vi": "lương theo giờ hoặc theo ngày",
+   "ex": "Hourly wages will rise by three percent in April.",
+   "exVi": "Lương theo giờ sẽ tăng ba phần trăm vào tháng Tư.",
+   "col": [
+    "the minimum wage",
+    "hourly wages"
+   ]
+  },
+  {
+   "id": "hr051",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "compensation",
+   "ipa": "/ˌkɒmpenˈseɪʃn/",
+   "pos": "n",
+   "vi": "tổng đãi ngộ",
+   "ex": "The compensation package includes housing support.",
+   "exVi": "Gói đãi ngộ gồm cả hỗ trợ nhà ở.",
+   "col": [
+    "a compensation package",
+    "total compensation"
+   ]
+  },
+  {
+   "id": "hr052",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "bonus",
+   "ipa": "/ˈbəʊnəs/",
+   "pos": "n",
+   "vi": "tiền thưởng",
+   "ex": "Year-end bonuses are based on team performance.",
+   "exVi": "Thưởng cuối năm dựa trên kết quả của cả nhóm.",
+   "col": [
+    "an annual bonus",
+    "a performance bonus"
+   ]
+  },
+  {
+   "id": "hr053",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "raise",
+   "ipa": "/reɪz/",
+   "pos": "n",
+   "vi": "đợt tăng lương",
+   "ex": "He received a raise after two years with the firm.",
+   "exVi": "Anh ấy được tăng lương sau hai năm làm việc.",
+   "col": [
+    "ask for a raise",
+    "a pay raise"
+   ]
+  },
+  {
+   "id": "hr054",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "allowance",
+   "ipa": "/əˈlaʊəns/",
+   "pos": "n",
+   "vi": "khoản phụ cấp",
+   "ex": "Field staff receive a monthly travel allowance.",
+   "exVi": "Nhân viên hiện trường nhận phụ cấp đi lại hằng tháng.",
+   "col": [
+    "a travel allowance",
+    "a daily allowance"
+   ]
+  },
+  {
+   "id": "hr055",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "overtime",
+   "ipa": "/ˈəʊvətaɪm/",
+   "pos": "n",
+   "vi": "giờ làm thêm",
+   "ex": "Overtime must be approved in advance by a supervisor.",
+   "exVi": "Giờ làm thêm phải được quản lý duyệt trước.",
+   "col": [
+    "work overtime",
+    "overtime pay"
+   ]
+  },
+  {
+   "id": "hr056",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "payroll",
+   "ipa": "/ˈpeɪrəʊl/",
+   "pos": "n",
+   "vi": "bảng lương",
+   "ex": "The payroll is processed on the twenty-fifth of each month.",
+   "exVi": "Bảng lương được xử lý vào ngày 25 hằng tháng.",
+   "col": [
+    "be on the payroll",
+    "the payroll department"
+   ]
+  },
+  {
+   "id": "hr057",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "deduction",
+   "ipa": "/dɪˈdʌkʃn/",
+   "pos": "n",
+   "vi": "khoản khấu trừ",
+   "ex": "Deductions for insurance appear on your pay slip.",
+   "exVi": "Khoản khấu trừ bảo hiểm hiện trên phiếu lương.",
+   "col": [
+    "a tax deduction",
+    "deductions from salary"
+   ]
+  },
+  {
+   "id": "hr058",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "pension",
+   "ipa": "/ˈpenʃn/",
+   "pos": "n",
+   "vi": "lương hưu",
+   "ex": "The company contributes five percent to your pension.",
+   "exVi": "Công ty đóng năm phần trăm vào quỹ lương hưu của bạn.",
+   "col": [
+    "a pension plan",
+    "pension contributions"
+   ]
+  },
+  {
+   "id": "hr059",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "incentive",
+   "ipa": "/ɪnˈsentɪv/",
+   "pos": "n",
+   "vi": "khoản khuyến khích",
+   "ex": "A new incentive scheme rewards early completion.",
+   "exVi": "Chương trình khuyến khích mới thưởng cho việc hoàn thành sớm.",
+   "col": [
+    "an incentive scheme",
+    "offer incentives"
+   ]
+  },
+  {
+   "id": "hr060",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "commission",
+   "ipa": "/kəˈmɪʃn/",
+   "pos": "n",
+   "vi": "hoa hồng",
+   "ex": "Sales staff earn a commission on every contract signed.",
+   "exVi": "Nhân viên bán hàng hưởng hoa hồng trên mỗi hợp đồng ký được.",
+   "col": [
+    "earn commission",
+    "a commission rate"
+   ]
+  },
+  {
+   "id": "hr061",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "severance",
+   "ipa": "/ˈsevərəns/",
+   "pos": "n",
+   "vi": "trợ cấp thôi việc",
+   "ex": "Severance is calculated from years of service.",
+   "exVi": "Trợ cấp thôi việc tính theo số năm công tác.",
+   "col": [
+    "a severance package",
+    "severance pay"
+   ]
+  },
+  {
+   "id": "hr062",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "performance",
+   "ipa": "/pəˈfɔːməns/",
+   "pos": "n",
+   "vi": "kết quả làm việc",
+   "ex": "Performance is reviewed twice a year.",
+   "exVi": "Kết quả làm việc được đánh giá hai lần mỗi năm.",
+   "col": [
+    "job performance",
+    "improve performance"
+   ]
+  },
+  {
+   "id": "hr063",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "appraisal",
+   "ipa": "/əˈpreɪzl/",
+   "pos": "n",
+   "vi": "buổi đánh giá năng lực",
+   "ex": "Your annual appraisal is scheduled for 12 November.",
+   "exVi": "Buổi đánh giá năng lực hằng năm của bạn vào ngày 12 tháng Mười một.",
+   "col": [
+    "an annual appraisal",
+    "a performance appraisal"
+   ]
+  },
+  {
+   "id": "hr064",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "evaluate",
+   "ipa": "/ɪˈvæljueɪt/",
+   "pos": "v",
+   "vi": "đánh giá",
+   "ex": "Managers evaluate each team member against agreed goals.",
+   "exVi": "Quản lý đánh giá từng thành viên dựa trên mục tiêu đã thống nhất.",
+   "col": [
+    "evaluate performance",
+    "carefully evaluate"
+   ]
+  },
+  {
+   "id": "hr065",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "evaluation",
+   "ipa": "/ɪˌvæljuˈeɪʃn/",
+   "pos": "n",
+   "vi": "sự đánh giá",
+   "ex": "The evaluation form is available on the HR portal.",
+   "exVi": "Biểu mẫu đánh giá có trên cổng thông tin nhân sự.",
+   "col": [
+    "a written evaluation",
+    "complete an evaluation"
+   ]
+  },
+  {
+   "id": "hr066",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "objective",
+   "ipa": "/əbˈdʒektɪv/",
+   "pos": "n",
+   "vi": "mục tiêu",
+   "ex": "Each employee sets three objectives for the year.",
+   "exVi": "Mỗi nhân viên đặt ba mục tiêu cho năm.",
+   "col": [
+    "set objectives",
+    "meet an objective"
+   ]
+  },
+  {
+   "id": "hr067",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "achievement",
+   "ipa": "/əˈtʃiːvmənt/",
+   "pos": "n",
+   "vi": "thành tích",
+   "ex": "Her main achievement was cutting delivery times by half.",
+   "exVi": "Thành tích chính của bà là giảm một nửa thời gian giao hàng.",
+   "col": [
+    "a notable achievement",
+    "recognise achievements"
+   ]
+  },
+  {
+   "id": "hr068",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "productivity",
+   "ipa": "/ˌprɒdʌkˈtɪvəti/",
+   "pos": "n",
+   "vi": "năng suất",
+   "ex": "Productivity rose after the new software was installed.",
+   "exVi": "Năng suất tăng sau khi cài phần mềm mới.",
+   "col": [
+    "increase productivity",
+    "a drop in productivity"
+   ]
+  },
+  {
+   "id": "hr069",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "promote",
+   "ipa": "/prəˈməʊt/",
+   "pos": "v",
+   "vi": "thăng chức",
+   "ex": "She was promoted to branch manager last spring.",
+   "exVi": "Bà được thăng lên quản lý chi nhánh mùa xuân năm ngoái.",
+   "col": [
+    "be promoted to",
+    "promote from within"
+   ]
+  },
+  {
+   "id": "hr070",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "transfer",
+   "ipa": "/trænsˈfɜː/",
+   "pos": "v, n",
+   "vi": "điều chuyển",
+   "ex": "He requested a transfer to the Hanoi office.",
+   "exVi": "Anh ấy xin điều chuyển về văn phòng Hà Nội.",
+   "col": [
+    "request a transfer",
+    "transfer to another department"
+   ]
+  },
+  {
+   "id": "hr071",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "assign",
+   "ipa": "/əˈsaɪn/",
+   "pos": "v",
+   "vi": "phân công",
+   "ex": "Each auditor is assigned two branches.",
+   "exVi": "Mỗi kiểm toán viên được phân công hai chi nhánh.",
+   "col": [
+    "assign a task",
+    "be assigned to"
+   ]
+  },
+  {
+   "id": "hr072",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "assignment",
+   "ipa": "/əˈsaɪnmənt/",
+   "pos": "n",
+   "vi": "nhiệm vụ được giao",
+   "ex": "The assignment lasts six weeks and is based overseas.",
+   "exVi": "Nhiệm vụ kéo dài sáu tuần và làm ở nước ngoài.",
+   "col": [
+    "a temporary assignment",
+    "complete an assignment"
+   ]
+  },
+  {
+   "id": "hr073",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "delegate",
+   "ipa": "/ˈdelɪɡeɪt/",
+   "pos": "v",
+   "vi": "uỷ quyền, giao việc",
+   "ex": "Good managers delegate routine tasks to their teams.",
+   "exVi": "Quản lý giỏi biết giao việc thường ngày cho nhóm.",
+   "col": [
+    "delegate responsibility",
+    "delegate tasks"
+   ]
+  },
+  {
+   "id": "hr074",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "supervise",
+   "ipa": "/ˈsuːpəvaɪz/",
+   "pos": "v",
+   "vi": "giám sát",
+   "ex": "She supervises a team of eight technicians.",
+   "exVi": "Bà giám sát một nhóm tám kỹ thuật viên.",
+   "col": [
+    "supervise staff",
+    "closely supervise"
+   ]
+  },
+  {
+   "id": "hr075",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "accountable",
+   "ipa": "/əˈkaʊntəbl/",
+   "pos": "adj",
+   "vi": "chịu trách nhiệm",
+   "ex": "Team leaders are accountable for their unit's results.",
+   "exVi": "Trưởng nhóm chịu trách nhiệm về kết quả của đơn vị mình.",
+   "col": [
+    "be accountable for",
+    "hold someone accountable"
+   ]
+  },
+  {
+   "id": "hr076",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "morale",
+   "ipa": "/məˈrɑːl/",
+   "pos": "n",
+   "vi": "tinh thần làm việc",
+   "ex": "Staff morale improved after the flexible hours policy.",
+   "exVi": "Tinh thần nhân viên cải thiện sau chính sách giờ giấc linh hoạt.",
+   "col": [
+    "boost morale",
+    "low morale"
+   ]
+  },
+  {
+   "id": "hr077",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "retention",
+   "ipa": "/rɪˈtenʃn/",
+   "pos": "n",
+   "vi": "việc giữ chân nhân viên",
+   "ex": "Staff retention has improved for three years running.",
+   "exVi": "Việc giữ chân nhân viên cải thiện suốt ba năm liền.",
+   "col": [
+    "staff retention",
+    "a retention rate"
+   ]
+  },
+  {
+   "id": "hr078",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "turnover",
+   "ipa": "/ˈtɜːnəʊvə/",
+   "pos": "n",
+   "vi": "tỷ lệ thôi việc",
+   "ex": "High turnover in the call centre worries management.",
+   "exVi": "Tỷ lệ thôi việc cao ở tổng đài khiến ban quản lý lo ngại.",
+   "col": [
+    "staff turnover",
+    "reduce turnover"
+   ]
+  },
+  {
+   "id": "hr079",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "leave",
+   "ipa": "/liːv/",
+   "pos": "n",
+   "vi": "kỳ nghỉ phép",
+   "ex": "She is on maternity leave until February.",
+   "exVi": "Bà đang nghỉ thai sản tới tháng Hai.",
+   "col": [
+    "annual leave",
+    "take leave",
+    "on leave"
+   ]
+  },
+  {
+   "id": "hr080",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "vacation",
+   "ipa": "/vəˈkeɪʃn/",
+   "pos": "n",
+   "vi": "kỳ nghỉ",
+   "ex": "Employees may carry over unused vacation days.",
+   "exVi": "Nhân viên được chuyển ngày nghỉ chưa dùng sang năm sau.",
+   "col": [
+    "paid vacation",
+    "take a vacation"
+   ]
+  },
+  {
+   "id": "hr081",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "absence",
+   "ipa": "/ˈæbsəns/",
+   "pos": "n",
+   "vi": "sự vắng mặt",
+   "ex": "Report any absence to your supervisor before nine.",
+   "exVi": "Báo mọi trường hợp vắng mặt cho quản lý trước chín giờ.",
+   "col": [
+    "an unexplained absence",
+    "a leave of absence"
+   ]
+  },
+  {
+   "id": "hr082",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "attendance",
+   "ipa": "/əˈtendəns/",
+   "pos": "n",
+   "vi": "việc có mặt, sự chuyên cần",
+   "ex": "Attendance at the safety briefing is compulsory.",
+   "exVi": "Việc có mặt tại buổi phổ biến an toàn là bắt buộc.",
+   "col": [
+    "an attendance record",
+    "poor attendance"
+   ]
+  },
+  {
+   "id": "hr083",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "shift",
+   "ipa": "/ʃɪft/",
+   "pos": "n",
+   "vi": "ca làm việc",
+   "ex": "The night shift begins at ten o'clock.",
+   "exVi": "Ca đêm bắt đầu lúc mười giờ.",
+   "col": [
+    "work a shift",
+    "the night shift"
+   ]
+  },
+  {
+   "id": "hr084",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "roster",
+   "ipa": "/ˈrɒstə/",
+   "pos": "n",
+   "vi": "bảng phân ca",
+   "ex": "Next month's roster is posted in the break room.",
+   "exVi": "Bảng phân ca tháng sau được dán ở phòng nghỉ.",
+   "col": [
+    "a duty roster",
+    "draw up a roster"
+   ]
+  },
+  {
+   "id": "hr085",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "flextime",
+   "ipa": "/ˈfleksˌtaɪm/",
+   "pos": "n",
+   "vi": "giờ làm linh hoạt",
+   "ex": "Flextime lets staff start any time between seven and ten.",
+   "exVi": "Giờ làm linh hoạt cho phép bắt đầu bất cứ lúc nào từ bảy tới mười giờ.",
+   "col": [
+    "offer flextime",
+    "a flextime policy"
+   ]
+  },
+  {
+   "id": "hr086",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "remote",
+   "ipa": "/rɪˈməʊt/",
+   "pos": "adj",
+   "vi": "từ xa",
+   "ex": "Remote workers join the meeting by video link.",
+   "exVi": "Nhân viên làm từ xa dự họp qua đường truyền video.",
+   "col": [
+    "remote work",
+    "work remotely"
+   ]
+  },
+  {
+   "id": "hr087",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "resign",
+   "ipa": "/rɪˈzaɪn/",
+   "pos": "v",
+   "vi": "từ chức, xin nghỉ",
+   "ex": "He resigned after accepting an offer from a rival firm.",
+   "exVi": "Anh ấy xin nghỉ sau khi nhận lời mời của công ty đối thủ.",
+   "col": [
+    "resign from a post",
+    "resign with notice"
+   ]
+  },
+  {
+   "id": "hr088",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "resignation",
+   "ipa": "/ˌrezɪɡˈneɪʃn/",
+   "pos": "n",
+   "vi": "đơn xin nghỉ việc",
+   "ex": "Her resignation takes effect at the end of the month.",
+   "exVi": "Đơn xin nghỉ của bà có hiệu lực cuối tháng.",
+   "col": [
+    "hand in a resignation",
+    "accept a resignation"
+   ]
+  },
+  {
+   "id": "hr089",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "notice",
+   "ipa": "/ˈnəʊtɪs/",
+   "pos": "n",
+   "vi": "thời hạn báo trước",
+   "ex": "Employees must give one month's notice before leaving.",
+   "exVi": "Nhân viên phải báo trước một tháng trước khi nghỉ.",
+   "col": [
+    "give notice",
+    "a notice period"
+   ]
+  },
+  {
+   "id": "hr090",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "dismiss",
+   "ipa": "/dɪsˈmɪs/",
+   "pos": "v",
+   "vi": "sa thải",
+   "ex": "No employee may be dismissed without a written warning.",
+   "exVi": "Không nhân viên nào bị sa thải mà không có cảnh cáo bằng văn bản.",
+   "col": [
+    "be dismissed for",
+    "dismiss an employee"
+   ]
+  },
+  {
+   "id": "hr091",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "layoff",
+   "ipa": "/ˈleɪɒf/",
+   "pos": "n",
+   "vi": "đợt cắt giảm nhân sự",
+   "ex": "The layoffs affected forty staff in two plants.",
+   "exVi": "Đợt cắt giảm ảnh hưởng bốn mươi nhân viên ở hai nhà máy.",
+   "col": [
+    "announce layoffs",
+    "temporary layoffs"
+   ]
+  },
+  {
+   "id": "hr092",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "redundancy",
+   "ipa": "/rɪˈdʌndənsi/",
+   "pos": "n",
+   "vi": "việc dôi dư lao động",
+   "ex": "Redundancy payments are set out in the contract.",
+   "exVi": "Khoản chi trả cho lao động dôi dư được nêu trong hợp đồng.",
+   "col": [
+    "voluntary redundancy",
+    "redundancy pay"
+   ]
+  },
+  {
+   "id": "hr093",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "retire",
+   "ipa": "/rɪˈtaɪə/",
+   "pos": "v",
+   "vi": "nghỉ hưu",
+   "ex": "Mr. Osei retires at the end of the financial year.",
+   "exVi": "Ông Osei nghỉ hưu vào cuối năm tài chính.",
+   "col": [
+    "retire early",
+    "retire from a post"
+   ]
+  },
+  {
+   "id": "hr094",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "retirement",
+   "ipa": "/rɪˈtaɪəmənt/",
+   "pos": "n",
+   "vi": "sự nghỉ hưu",
+   "ex": "A reception will mark her retirement after thirty years.",
+   "exVi": "Sẽ có tiệc chia tay đánh dấu việc bà nghỉ hưu sau ba mươi năm.",
+   "col": [
+    "early retirement",
+    "a retirement plan"
+   ]
+  },
+  {
+   "id": "hr095",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "training",
+   "ipa": "/ˈtreɪnɪŋ/",
+   "pos": "n",
+   "vi": "việc tập huấn",
+   "ex": "Training on the new system runs every Tuesday.",
+   "exVi": "Buổi tập huấn hệ thống mới diễn ra mỗi thứ Ba.",
+   "col": [
+    "on-the-job training",
+    "a training session"
+   ]
+  },
+  {
+   "id": "hr096",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "workshop",
+   "ipa": "/ˈwɜːkʃɒp/",
+   "pos": "n",
+   "vi": "buổi tập huấn thực hành",
+   "ex": "The workshop has limited seats, so register early.",
+   "exVi": "Buổi tập huấn có số chỗ hạn chế nên hãy đăng ký sớm.",
+   "col": [
+    "attend a workshop",
+    "run a workshop"
+   ]
+  },
+  {
+   "id": "hr097",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "seminar",
+   "ipa": "/ˈsemɪnɑː/",
+   "pos": "n",
+   "vi": "hội thảo chuyên đề",
+   "ex": "A seminar on export regulations is scheduled for Friday.",
+   "exVi": "Hội thảo về quy định xuất khẩu diễn ra vào thứ Sáu.",
+   "col": [
+    "hold a seminar",
+    "a one-day seminar"
+   ]
+  },
+  {
+   "id": "hr098",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "certification",
+   "ipa": "/ˌsɜːtɪfɪˈkeɪʃn/",
+   "pos": "n",
+   "vi": "chứng chỉ",
+   "ex": "Certification must be renewed every two years.",
+   "exVi": "Chứng chỉ phải gia hạn hai năm một lần.",
+   "col": [
+    "obtain certification",
+    "professional certification"
+   ]
+  },
+  {
+   "id": "hr099",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "career",
+   "ipa": "/kəˈrɪə/",
+   "pos": "n",
+   "vi": "sự nghiệp",
+   "ex": "The programme supports career development at every level.",
+   "exVi": "Chương trình hỗ trợ phát triển sự nghiệp ở mọi cấp.",
+   "col": [
+    "a career path",
+    "career development"
+   ]
+  },
+  {
+   "id": "hr100",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "advancement",
+   "ipa": "/ədˈvɑːnsmənt/",
+   "pos": "n",
+   "vi": "sự thăng tiến",
+   "ex": "Advancement depends on results, not years of service.",
+   "exVi": "Thăng tiến dựa trên kết quả chứ không phải thâm niên.",
+   "col": [
+    "career advancement",
+    "opportunities for advancement"
+   ]
+  },
+  {
+   "id": "hr101",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "policy",
+   "ipa": "/ˈpɒləsi/",
+   "pos": "n",
+   "vi": "chính sách",
+   "ex": "The new leave policy takes effect in January.",
+   "exVi": "Chính sách nghỉ phép mới có hiệu lực từ tháng Một.",
+   "col": [
+    "company policy",
+    "under our policy"
+   ]
+  },
+  {
+   "id": "hr102",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "handbook",
+   "ipa": "/ˈhændbʊk/",
+   "pos": "n",
+   "vi": "sổ tay nhân viên",
+   "ex": "The employee handbook explains all reporting procedures.",
+   "exVi": "Sổ tay nhân viên giải thích mọi quy trình báo cáo.",
+   "col": [
+    "an employee handbook",
+    "consult the handbook"
+   ]
+  },
+  {
+   "id": "hr103",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "regulation",
+   "ipa": "/ˌreɡjuˈleɪʃn/",
+   "pos": "n",
+   "vi": "quy định",
+   "ex": "Safety regulations apply to contractors as well.",
+   "exVi": "Quy định an toàn áp dụng cho cả nhà thầu.",
+   "col": [
+    "comply with regulations",
+    "safety regulations"
+   ]
+  },
+  {
+   "id": "hr104",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "grievance",
+   "ipa": "/ˈɡriːvəns/",
+   "pos": "n",
+   "vi": "khiếu nại của nhân viên",
+   "ex": "Grievances should be raised with Human Resources first.",
+   "exVi": "Khiếu nại nên trình phòng nhân sự trước.",
+   "col": [
+    "file a grievance",
+    "a grievance procedure"
+   ]
+  },
+  {
+   "id": "hr105",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "union",
+   "ipa": "/ˈjuːniən/",
+   "pos": "n",
+   "vi": "công đoàn",
+   "ex": "The union and management reached an agreement on Friday.",
+   "exVi": "Công đoàn và ban quản lý đạt thoả thuận vào thứ Sáu.",
+   "col": [
+    "a trade union",
+    "a union representative"
+   ]
+  },
+  {
+   "id": "hr106",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "appoint",
+   "ipa": "/əˈpɔɪnt/",
+   "pos": "v",
+   "vi": "bổ nhiệm",
+   "ex": "The board appointed her chief operating officer.",
+   "exVi": "Hội đồng quản trị bổ nhiệm bà làm giám đốc vận hành.",
+   "col": [
+    "appoint someone to a post",
+    "a newly appointed director"
+   ]
+  },
+  {
+   "id": "hr107",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "vacate",
+   "ipa": "/vəˈkeɪt/",
+   "pos": "v",
+   "vi": "rời khỏi, bỏ trống vị trí",
+   "ex": "The post was vacated when the manager relocated.",
+   "exVi": "Vị trí bị bỏ trống khi quản lý chuyển đi.",
+   "col": [
+    "vacate a position",
+    "vacate the premises"
+   ]
+  },
+  {
+   "id": "hr108",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "seniority",
+   "ipa": "/ˌsiːniˈɒrəti/",
+   "pos": "n",
+   "vi": "thâm niên",
+   "ex": "Shift preferences are allocated by seniority.",
+   "exVi": "Ưu tiên chọn ca được phân theo thâm niên.",
+   "col": [
+    "based on seniority",
+    "years of seniority"
+   ]
+  },
+  {
+   "id": "hr109",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "workload",
+   "ipa": "/ˈwɜːkləʊd/",
+   "pos": "n",
+   "vi": "khối lượng công việc",
+   "ex": "The extra hire will ease the team's workload.",
+   "exVi": "Việc tuyển thêm người sẽ giảm tải cho nhóm.",
+   "col": [
+    "a heavy workload",
+    "share the workload"
+   ]
+  },
+  {
+   "id": "hr110",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "deadline",
+   "ipa": "/ˈdedlaɪn/",
+   "pos": "n",
+   "vi": "hạn chót",
+   "ex": "The deadline for applications is 15 October.",
+   "exVi": "Hạn chót nộp đơn là ngày 15 tháng Mười.",
+   "col": [
+    "meet a deadline",
+    "a tight deadline"
+   ]
+  },
+  {
+   "id": "hr111",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "skilled",
+   "ipa": "/skɪld/",
+   "pos": "adj",
+   "vi": "có tay nghề",
+   "ex": "Skilled machinists are difficult to recruit locally.",
+   "exVi": "Thợ máy có tay nghề rất khó tuyển tại địa phương.",
+   "col": [
+    "a skilled worker",
+    "highly skilled"
+   ]
+  },
+  {
+   "id": "hr112",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "dedicated",
+   "ipa": "/ˈdedɪkeɪtɪd/",
+   "pos": "adj",
+   "vi": "tận tâm, chuyên trách",
+   "ex": "A dedicated team handles all customer complaints.",
+   "exVi": "Một nhóm chuyên trách xử lý mọi khiếu nại của khách.",
+   "col": [
+    "a dedicated team",
+    "dedicated to"
+   ]
+  },
+  {
+   "id": "hr113",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "punctual",
+   "ipa": "/ˈpʌŋktʃuəl/",
+   "pos": "adj",
+   "vi": "đúng giờ",
+   "ex": "Staff are expected to be punctual for every shift.",
+   "exVi": "Nhân viên được yêu cầu đúng giờ ở mọi ca.",
+   "col": [
+    "be punctual for",
+    "punctual arrival"
+   ]
+  },
+  {
+   "id": "hr114",
+   "topic": "Tuyển dụng & nhân sự",
+   "w": "substitute",
+   "ipa": "/ˈsʌbstɪtjuːt/",
+   "pos": "n, v",
+   "vi": "người thay thế; thay thế",
+   "ex": "A substitute was found to cover the Saturday shift.",
+   "exVi": "Đã tìm được người thay ca thứ Bảy.",
+   "col": [
+    "find a substitute",
+    "substitute for"
+   ]
+  }
+ ]
+}

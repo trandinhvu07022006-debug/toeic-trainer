@@ -1,0 +1,1153 @@
+{
+ "topic": "Kế toán & kiểm toán",
+ "words": [
+  {
+   "id": "ac001",
+   "topic": "Kế toán & kiểm toán",
+   "w": "accounting",
+   "ipa": "/əˈkaʊntɪŋ/",
+   "pos": "n",
+   "vi": "kế toán",
+   "ex": "The firm updated its accounting software.",
+   "exVi": "Công ty cập nhật phần mềm kế toán.",
+   "col": [
+    "accounting",
+    "accounting records"
+   ]
+  },
+  {
+   "id": "ac002",
+   "topic": "Kế toán & kiểm toán",
+   "w": "accountant",
+   "ipa": "/əˈkaʊntənt/",
+   "pos": "n",
+   "vi": "kế toán viên",
+   "ex": "The accountant prepared the year-end report.",
+   "exVi": "Kế toán viên chuẩn bị báo cáo cuối năm.",
+   "col": [
+    "an accountant",
+    "a chartered accountant"
+   ]
+  },
+  {
+   "id": "ac003",
+   "topic": "Kế toán & kiểm toán",
+   "w": "audit",
+   "ipa": "/ˈɔːdɪt/",
+   "pos": "n, v",
+   "vi": "kiểm toán",
+   "ex": "An external audit is done each year.",
+   "exVi": "Một cuộc kiểm toán độc lập được làm mỗi năm.",
+   "col": [
+    "an audit",
+    "an external audit"
+   ]
+  },
+  {
+   "id": "ac004",
+   "topic": "Kế toán & kiểm toán",
+   "w": "auditor",
+   "ipa": "/ˈɔːdɪtə/",
+   "pos": "n",
+   "vi": "kiểm toán viên",
+   "ex": "The auditor reviewed every transaction.",
+   "exVi": "Kiểm toán viên rà soát mọi giao dịch.",
+   "col": [
+    "an auditor",
+    "an independent auditor"
+   ]
+  },
+  {
+   "id": "ac005",
+   "topic": "Kế toán & kiểm toán",
+   "w": "bookkeeping",
+   "ipa": "/ˈbʊkkiːpɪŋ/",
+   "pos": "n",
+   "vi": "ghi sổ kế toán",
+   "ex": "Careful bookkeeping avoids costly errors.",
+   "exVi": "Ghi sổ kế toán cẩn thận tránh các lỗi tốn kém.",
+   "col": [
+    "bookkeeping",
+    "daily bookkeeping"
+   ]
+  },
+  {
+   "id": "ac006",
+   "topic": "Kế toán & kiểm toán",
+   "w": "ledger",
+   "ipa": "/ˈledʒə/",
+   "pos": "n",
+   "vi": "sổ cái",
+   "ex": "Every entry is posted to the ledger.",
+   "exVi": "Mọi bút toán được ghi vào sổ cái.",
+   "col": [
+    "a ledger",
+    "a general ledger"
+   ]
+  },
+  {
+   "id": "ac007",
+   "topic": "Kế toán & kiểm toán",
+   "w": "balance sheet",
+   "ipa": "/ˈbæləns ʃiːt/",
+   "pos": "n",
+   "vi": "bảng cân đối kế toán",
+   "ex": "The balance sheet shows the firm's assets.",
+   "exVi": "Bảng cân đối kế toán cho thấy tài sản của công ty.",
+   "col": [
+    "a balance sheet",
+    "a strong balance sheet"
+   ]
+  },
+  {
+   "id": "ac008",
+   "topic": "Kế toán & kiểm toán",
+   "w": "statement",
+   "ipa": "/ˈsteɪtmənt/",
+   "pos": "n",
+   "vi": "báo cáo tài chính",
+   "ex": "The income statement covers the whole year.",
+   "exVi": "Báo cáo thu nhập bao gồm cả năm.",
+   "col": [
+    "a statement",
+    "a financial statement"
+   ]
+  },
+  {
+   "id": "ac009",
+   "topic": "Kế toán & kiểm toán",
+   "w": "revenue",
+   "ipa": "/ˈrevənjuː/",
+   "pos": "n",
+   "vi": "doanh thu",
+   "ex": "Revenue rose ten percent this quarter.",
+   "exVi": "Doanh thu tăng mười phần trăm quý này.",
+   "col": [
+    "revenue",
+    "total revenue"
+   ]
+  },
+  {
+   "id": "ac010",
+   "topic": "Kế toán & kiểm toán",
+   "w": "expense",
+   "ipa": "/ɪkˈspens/",
+   "pos": "n",
+   "vi": "chi phí",
+   "ex": "Travel is the biggest expense this month.",
+   "exVi": "Đi lại là chi phí lớn nhất tháng này.",
+   "col": [
+    "an expense",
+    "a monthly expense"
+   ]
+  },
+  {
+   "id": "ac011",
+   "topic": "Kế toán & kiểm toán",
+   "w": "expenditure",
+   "ipa": "/ɪkˈspendɪtʃə/",
+   "pos": "n",
+   "vi": "khoản chi tiêu",
+   "ex": "Capital expenditure rose sharply this year.",
+   "exVi": "Chi tiêu vốn tăng mạnh năm nay.",
+   "col": [
+    "expenditure",
+    "capital expenditure"
+   ]
+  },
+  {
+   "id": "ac012",
+   "topic": "Kế toán & kiểm toán",
+   "w": "asset",
+   "ipa": "/ˈæset/",
+   "pos": "n",
+   "vi": "tài sản",
+   "ex": "The building is the firm's main asset.",
+   "exVi": "Toà nhà là tài sản chính của công ty.",
+   "col": [
+    "an asset",
+    "a fixed asset"
+   ]
+  },
+  {
+   "id": "ac013",
+   "topic": "Kế toán & kiểm toán",
+   "w": "liability",
+   "ipa": "/ˌlaɪəˈbɪləti/",
+   "pos": "n",
+   "vi": "nợ phải trả",
+   "ex": "The loan is a long-term liability.",
+   "exVi": "Khoản vay là một khoản nợ dài hạn.",
+   "col": [
+    "a liability",
+    "a long-term liability"
+   ]
+  },
+  {
+   "id": "ac014",
+   "topic": "Kế toán & kiểm toán",
+   "w": "equity",
+   "ipa": "/ˈekwəti/",
+   "pos": "n",
+   "vi": "vốn chủ sở hữu",
+   "ex": "Shareholder equity grew over the year.",
+   "exVi": "Vốn chủ sở hữu tăng trong năm.",
+   "col": [
+    "equity",
+    "shareholder equity"
+   ]
+  },
+  {
+   "id": "ac015",
+   "topic": "Kế toán & kiểm toán",
+   "w": "depreciation",
+   "ipa": "/dɪˌpriːʃiˈeɪʃn/",
+   "pos": "n",
+   "vi": "khấu hao",
+   "ex": "Depreciation lowers the asset's book value.",
+   "exVi": "Khấu hao làm giảm giá trị sổ sách của tài sản.",
+   "col": [
+    "depreciation",
+    "annual depreciation"
+   ]
+  },
+  {
+   "id": "ac016",
+   "topic": "Kế toán & kiểm toán",
+   "w": "amortization",
+   "ipa": "/əˌmɔːtaɪˈzeɪʃn/",
+   "pos": "n",
+   "vi": "phân bổ dần",
+   "ex": "Amortization spreads the cost over years.",
+   "exVi": "Phân bổ dần trải chi phí qua nhiều năm.",
+   "col": [
+    "amortization",
+    "loan amortization"
+   ]
+  },
+  {
+   "id": "ac017",
+   "topic": "Kế toán & kiểm toán",
+   "w": "invoice",
+   "ipa": "/ˈɪnvɔɪs/",
+   "pos": "n",
+   "vi": "hoá đơn",
+   "ex": "The invoice is due within thirty days.",
+   "exVi": "Hoá đơn đến hạn trong ba mươi ngày.",
+   "col": [
+    "an invoice",
+    "an unpaid invoice"
+   ]
+  },
+  {
+   "id": "ac018",
+   "topic": "Kế toán & kiểm toán",
+   "w": "receivable",
+   "ipa": "/rɪˈsiːvəbl/",
+   "pos": "n",
+   "vi": "khoản phải thu",
+   "ex": "Accounts receivable rose after the sale.",
+   "exVi": "Khoản phải thu tăng sau đợt bán.",
+   "col": [
+    "a receivable",
+    "accounts receivable"
+   ]
+  },
+  {
+   "id": "ac019",
+   "topic": "Kế toán & kiểm toán",
+   "w": "payable",
+   "ipa": "/ˈpeɪəbl/",
+   "pos": "n",
+   "vi": "khoản phải trả",
+   "ex": "Accounts payable are settled monthly.",
+   "exVi": "Khoản phải trả được thanh toán hằng tháng.",
+   "col": [
+    "a payable",
+    "accounts payable"
+   ]
+  },
+  {
+   "id": "ac020",
+   "topic": "Kế toán & kiểm toán",
+   "w": "reconciliation",
+   "ipa": "/ˌrekənsɪliˈeɪʃn/",
+   "pos": "n",
+   "vi": "đối chiếu",
+   "ex": "Bank reconciliation is done every month.",
+   "exVi": "Việc đối chiếu ngân hàng được làm mỗi tháng.",
+   "col": [
+    "reconciliation",
+    "bank reconciliation"
+   ]
+  },
+  {
+   "id": "ac021",
+   "topic": "Kế toán & kiểm toán",
+   "w": "budget",
+   "ipa": "/ˈbʌdʒɪt/",
+   "pos": "n",
+   "vi": "ngân sách",
+   "ex": "The budget was approved for the year.",
+   "exVi": "Ngân sách được duyệt cho cả năm.",
+   "col": [
+    "a budget",
+    "an annual budget"
+   ]
+  },
+  {
+   "id": "ac022",
+   "topic": "Kế toán & kiểm toán",
+   "w": "forecast",
+   "ipa": "/ˈfɔːkɑːst/",
+   "pos": "n",
+   "vi": "dự báo",
+   "ex": "The cash forecast guides the spending.",
+   "exVi": "Dự báo tiền mặt hướng dẫn việc chi tiêu.",
+   "col": [
+    "a forecast",
+    "a cash forecast"
+   ]
+  },
+  {
+   "id": "ac023",
+   "topic": "Kế toán & kiểm toán",
+   "w": "cash flow",
+   "ipa": "/kæʃ fləʊ/",
+   "pos": "n",
+   "vi": "dòng tiền",
+   "ex": "Strong cash flow supports the expansion.",
+   "exVi": "Dòng tiền mạnh hỗ trợ việc mở rộng.",
+   "col": [
+    "cash flow",
+    "positive cash flow"
+   ]
+  },
+  {
+   "id": "ac024",
+   "topic": "Kế toán & kiểm toán",
+   "w": "profit",
+   "ipa": "/ˈprɒfɪt/",
+   "pos": "n",
+   "vi": "lợi nhuận",
+   "ex": "The firm made a healthy profit last year.",
+   "exVi": "Công ty đạt lợi nhuận tốt năm ngoái.",
+   "col": [
+    "profit",
+    "net profit"
+   ]
+  },
+  {
+   "id": "ac025",
+   "topic": "Kế toán & kiểm toán",
+   "w": "loss",
+   "ipa": "/lɒs/",
+   "pos": "n",
+   "vi": "khoản lỗ",
+   "ex": "The branch recorded a small loss.",
+   "exVi": "Chi nhánh ghi nhận một khoản lỗ nhỏ.",
+   "col": [
+    "a loss",
+    "a net loss"
+   ]
+  },
+  {
+   "id": "ac026",
+   "topic": "Kế toán & kiểm toán",
+   "w": "margin",
+   "ipa": "/ˈmɑːdʒɪn/",
+   "pos": "n",
+   "vi": "biên lợi nhuận",
+   "ex": "A higher margin lifted the profit.",
+   "exVi": "Biên lợi nhuận cao hơn nâng lợi nhuận.",
+   "col": [
+    "a margin",
+    "a profit margin"
+   ]
+  },
+  {
+   "id": "ac027",
+   "topic": "Kế toán & kiểm toán",
+   "w": "turnover",
+   "ipa": "/ˈtɜːnəʊvə/",
+   "pos": "n",
+   "vi": "doanh thu thuần",
+   "ex": "Annual turnover passed a million.",
+   "exVi": "Doanh thu thuần hằng năm vượt một triệu.",
+   "col": [
+    "turnover",
+    "annual turnover"
+   ]
+  },
+  {
+   "id": "ac028",
+   "topic": "Kế toán & kiểm toán",
+   "w": "overhead",
+   "ipa": "/ˈəʊvəhed/",
+   "pos": "n",
+   "vi": "chi phí chung",
+   "ex": "Lower rent cut the firm's overhead.",
+   "exVi": "Tiền thuê thấp hơn giảm chi phí chung của công ty.",
+   "col": [
+    "overhead",
+    "overhead costs"
+   ]
+  },
+  {
+   "id": "ac029",
+   "topic": "Kế toán & kiểm toán",
+   "w": "tax",
+   "ipa": "/tæks/",
+   "pos": "n",
+   "vi": "thuế",
+   "ex": "The firm files its tax return in April.",
+   "exVi": "Công ty nộp tờ khai thuế vào tháng Tư.",
+   "col": [
+    "tax",
+    "a tax return"
+   ]
+  },
+  {
+   "id": "ac030",
+   "topic": "Kế toán & kiểm toán",
+   "w": "deduction",
+   "ipa": "/dɪˈdʌkʃn/",
+   "pos": "n",
+   "vi": "khoản giảm trừ",
+   "ex": "The expense qualifies as a tax deduction.",
+   "exVi": "Chi phí đủ điều kiện là một khoản giảm trừ thuế.",
+   "col": [
+    "a deduction",
+    "a tax deduction"
+   ]
+  },
+  {
+   "id": "ac031",
+   "topic": "Kế toán & kiểm toán",
+   "w": "compliance",
+   "ipa": "/kəmˈplaɪəns/",
+   "pos": "n",
+   "vi": "tuân thủ",
+   "ex": "Tax compliance is checked each year.",
+   "exVi": "Việc tuân thủ thuế được kiểm tra mỗi năm.",
+   "col": [
+    "compliance",
+    "tax compliance"
+   ]
+  },
+  {
+   "id": "ac032",
+   "topic": "Kế toán & kiểm toán",
+   "w": "solvency",
+   "ipa": "/ˈsɒlvənsi/",
+   "pos": "n",
+   "vi": "khả năng thanh toán",
+   "ex": "The audit confirmed the firm's solvency.",
+   "exVi": "Cuộc kiểm toán xác nhận khả năng thanh toán của công ty.",
+   "col": [
+    "solvency",
+    "financial solvency"
+   ]
+  },
+  {
+   "id": "ac033",
+   "topic": "Kế toán & kiểm toán",
+   "w": "liquidity",
+   "ipa": "/lɪˈkwɪdəti/",
+   "pos": "n",
+   "vi": "tính thanh khoản",
+   "ex": "Good liquidity lets the firm pay its bills.",
+   "exVi": "Tính thanh khoản tốt cho phép công ty trả các hoá đơn.",
+   "col": [
+    "liquidity",
+    "high liquidity"
+   ]
+  },
+  {
+   "id": "ac034",
+   "topic": "Kế toán & kiểm toán",
+   "w": "accrual",
+   "ipa": "/əˈkruːəl/",
+   "pos": "n",
+   "vi": "dồn tích",
+   "ex": "The accounts use the accrual method.",
+   "exVi": "Sổ sách dùng phương pháp dồn tích.",
+   "col": [
+    "accrual",
+    "an accrual basis"
+   ]
+  },
+  {
+   "id": "ac035",
+   "topic": "Kế toán & kiểm toán",
+   "w": "reconcile",
+   "ipa": "/ˈrekənsaɪl/",
+   "pos": "v",
+   "vi": "đối chiếu",
+   "ex": "The clerk reconciled the two ledgers.",
+   "exVi": "Nhân viên đối chiếu hai sổ cái.",
+   "col": [
+    "reconcile",
+    "reconcile accounts"
+   ]
+  },
+  {
+   "id": "ac036",
+   "topic": "Kế toán & kiểm toán",
+   "w": "itemize",
+   "ipa": "/ˈaɪtəmaɪz/",
+   "pos": "v",
+   "vi": "liệt kê chi tiết",
+   "ex": "Please itemize every expense on the form.",
+   "exVi": "Vui lòng liệt kê chi tiết mọi chi phí trên biểu mẫu.",
+   "col": [
+    "itemize",
+    "itemize costs"
+   ]
+  },
+  {
+   "id": "ac037",
+   "topic": "Kế toán & kiểm toán",
+   "w": "allocate",
+   "ipa": "/ˈæləkeɪt/",
+   "pos": "v",
+   "vi": "phân bổ",
+   "ex": "The budget was allocated across the teams.",
+   "exVi": "Ngân sách được phân bổ cho các nhóm.",
+   "col": [
+    "allocate",
+    "allocate funds"
+   ]
+  },
+  {
+   "id": "ac038",
+   "topic": "Kế toán & kiểm toán",
+   "w": "disburse",
+   "ipa": "/dɪsˈbɜːs/",
+   "pos": "v",
+   "vi": "giải ngân",
+   "ex": "The firm disbursed the funds on time.",
+   "exVi": "Công ty giải ngân số tiền đúng hạn.",
+   "col": [
+    "disburse",
+    "disburse funds"
+   ]
+  },
+  {
+   "id": "ac039",
+   "topic": "Kế toán & kiểm toán",
+   "w": "audit trail",
+   "ipa": "/ˈɔːdɪt treɪl/",
+   "pos": "n",
+   "vi": "dấu vết kiểm toán",
+   "ex": "A clear audit trail records each change.",
+   "exVi": "Một dấu vết kiểm toán rõ ràng ghi lại mỗi thay đổi.",
+   "col": [
+    "an audit trail",
+    "maintain an audit trail"
+   ]
+  },
+  {
+   "id": "ac040",
+   "topic": "Kế toán & kiểm toán",
+   "w": "solvent",
+   "ipa": "/ˈsɒlvənt/",
+   "pos": "adj",
+   "vi": "có khả năng trả nợ",
+   "ex": "The company remained solvent through the crisis.",
+   "exVi": "Công ty vẫn có khả năng trả nợ suốt cuộc khủng hoảng.",
+   "col": [
+    "solvent",
+    "remain solvent"
+   ]
+  },
+  {
+   "id": "ac041",
+   "topic": "Kế toán & kiểm toán",
+   "w": "fiscal",
+   "ipa": "/ˈfɪskl/",
+   "pos": "adj",
+   "vi": "thuộc tài khoá",
+   "ex": "The fiscal year ends in March.",
+   "exVi": "Năm tài khoá kết thúc vào tháng Ba.",
+   "col": [
+    "fiscal",
+    "a fiscal year"
+   ]
+  },
+  {
+   "id": "ac042",
+   "topic": "Kế toán & kiểm toán",
+   "w": "transaction",
+   "ipa": "/trænˈzækʃn/",
+   "pos": "n",
+   "vi": "giao dịch",
+   "ex": "Every transaction is logged in the system.",
+   "exVi": "Mọi giao dịch được ghi trong hệ thống.",
+   "col": [
+    "a transaction",
+    "a cash transaction"
+   ]
+  },
+  {
+   "id": "ac043",
+   "topic": "Kế toán & kiểm toán",
+   "w": "entry",
+   "ipa": "/ˈentri/",
+   "pos": "n",
+   "vi": "bút toán",
+   "ex": "A single entry was missing from the ledger.",
+   "exVi": "Một bút toán bị thiếu trong sổ cái.",
+   "col": [
+    "an entry",
+    "a journal entry"
+   ]
+  },
+  {
+   "id": "ac044",
+   "topic": "Kế toán & kiểm toán",
+   "w": "journal",
+   "ipa": "/ˈdʒɜːnl/",
+   "pos": "n",
+   "vi": "sổ nhật ký",
+   "ex": "The journal records each daily entry.",
+   "exVi": "Sổ nhật ký ghi lại mỗi bút toán hằng ngày.",
+   "col": [
+    "a journal",
+    "an accounting journal"
+   ]
+  },
+  {
+   "id": "ac045",
+   "topic": "Kế toán & kiểm toán",
+   "w": "debit",
+   "ipa": "/ˈdebɪt/",
+   "pos": "n",
+   "vi": "ghi nợ",
+   "ex": "A debit reduces the account balance.",
+   "exVi": "Một khoản ghi nợ làm giảm số dư tài khoản.",
+   "col": [
+    "a debit",
+    "a debit entry"
+   ]
+  },
+  {
+   "id": "ac046",
+   "topic": "Kế toán & kiểm toán",
+   "w": "credit",
+   "ipa": "/ˈkredɪt/",
+   "pos": "n",
+   "vi": "ghi có",
+   "ex": "A credit was posted to the wrong account.",
+   "exVi": "Một khoản ghi có được đưa vào sai tài khoản.",
+   "col": [
+    "a credit",
+    "a credit entry"
+   ]
+  },
+  {
+   "id": "ac047",
+   "topic": "Kế toán & kiểm toán",
+   "w": "receipt",
+   "ipa": "/rɪˈsiːt/",
+   "pos": "n",
+   "vi": "biên nhận",
+   "ex": "Keep the receipt for the audit.",
+   "exVi": "Giữ biên nhận cho việc kiểm toán.",
+   "col": [
+    "a receipt",
+    "a payment receipt"
+   ]
+  },
+  {
+   "id": "ac048",
+   "topic": "Kế toán & kiểm toán",
+   "w": "voucher",
+   "ipa": "/ˈvaʊtʃə/",
+   "pos": "n",
+   "vi": "chứng từ",
+   "ex": "Each payment needs a signed voucher.",
+   "exVi": "Mỗi khoản chi cần một chứng từ có chữ ký.",
+   "col": [
+    "a voucher",
+    "a payment voucher"
+   ]
+  },
+  {
+   "id": "ac049",
+   "topic": "Kế toán & kiểm toán",
+   "w": "remittance",
+   "ipa": "/rɪˈmɪtəns/",
+   "pos": "n",
+   "vi": "chuyển khoản thanh toán",
+   "ex": "The remittance arrived a day late.",
+   "exVi": "Khoản chuyển thanh toán tới muộn một ngày.",
+   "col": [
+    "a remittance",
+    "a remittance advice"
+   ]
+  },
+  {
+   "id": "ac050",
+   "topic": "Kế toán & kiểm toán",
+   "w": "disbursement",
+   "ipa": "/dɪsˈbɜːsmənt/",
+   "pos": "n",
+   "vi": "khoản giải ngân",
+   "ex": "The disbursement was approved by the manager.",
+   "exVi": "Khoản giải ngân được quản lý duyệt.",
+   "col": [
+    "a disbursement",
+    "a cash disbursement"
+   ]
+  },
+  {
+   "id": "ac051",
+   "topic": "Kế toán & kiểm toán",
+   "w": "provision",
+   "ipa": "/prəˈvɪʒn/",
+   "pos": "n",
+   "vi": "khoản dự phòng",
+   "ex": "A provision was set aside for bad debts.",
+   "exVi": "Một khoản dự phòng được để dành cho nợ khó đòi.",
+   "col": [
+    "a provision",
+    "a provision for"
+   ]
+  },
+  {
+   "id": "ac052",
+   "topic": "Kế toán & kiểm toán",
+   "w": "write-off",
+   "ipa": "/ˈraɪt ɒf/",
+   "pos": "n",
+   "vi": "xoá nợ",
+   "ex": "The bad debt was recorded as a write-off.",
+   "exVi": "Khoản nợ khó đòi được ghi là xoá nợ.",
+   "col": [
+    "a write-off",
+    "a bad debt write-off"
+   ]
+  },
+  {
+   "id": "ac053",
+   "topic": "Kế toán & kiểm toán",
+   "w": "arrears",
+   "ipa": "/əˈrɪəz/",
+   "pos": "n",
+   "vi": "nợ quá hạn",
+   "ex": "The account fell into arrears last month.",
+   "exVi": "Tài khoản rơi vào nợ quá hạn tháng trước.",
+   "col": [
+    "arrears",
+    "in arrears"
+   ]
+  },
+  {
+   "id": "ac054",
+   "topic": "Kế toán & kiểm toán",
+   "w": "surplus",
+   "ipa": "/ˈsɜːpləs/",
+   "pos": "n",
+   "vi": "thặng dư",
+   "ex": "The budget ended the year in surplus.",
+   "exVi": "Ngân sách kết thúc năm với thặng dư.",
+   "col": [
+    "a surplus",
+    "a budget surplus"
+   ]
+  },
+  {
+   "id": "ac055",
+   "topic": "Kế toán & kiểm toán",
+   "w": "deficit",
+   "ipa": "/ˈdefɪsɪt/",
+   "pos": "n",
+   "vi": "thâm hụt",
+   "ex": "The department ran a small deficit.",
+   "exVi": "Phòng ban có một khoản thâm hụt nhỏ.",
+   "col": [
+    "a deficit",
+    "a budget deficit"
+   ]
+  },
+  {
+   "id": "ac056",
+   "topic": "Kế toán & kiểm toán",
+   "w": "valuation",
+   "ipa": "/ˌvæljuˈeɪʃn/",
+   "pos": "n",
+   "vi": "định giá",
+   "ex": "An asset valuation is done each year.",
+   "exVi": "Việc định giá tài sản được làm mỗi năm.",
+   "col": [
+    "a valuation",
+    "an asset valuation"
+   ]
+  },
+  {
+   "id": "ac057",
+   "topic": "Kế toán & kiểm toán",
+   "w": "dividend",
+   "ipa": "/ˈdɪvɪdend/",
+   "pos": "n",
+   "vi": "cổ tức",
+   "ex": "The board declared a small dividend.",
+   "exVi": "Hội đồng công bố một khoản cổ tức nhỏ.",
+   "col": [
+    "a dividend",
+    "pay a dividend"
+   ]
+  },
+  {
+   "id": "ac058",
+   "topic": "Kế toán & kiểm toán",
+   "w": "inventory",
+   "ipa": "/ˈɪnvəntri/",
+   "pos": "n",
+   "vi": "hàng tồn kho",
+   "ex": "The inventory is counted at year-end.",
+   "exVi": "Hàng tồn kho được kiểm đếm cuối năm.",
+   "col": [
+    "inventory",
+    "count inventory"
+   ]
+  },
+  {
+   "id": "ac059",
+   "topic": "Kế toán & kiểm toán",
+   "w": "capital",
+   "ipa": "/ˈkæpɪtl/",
+   "pos": "n",
+   "vi": "vốn",
+   "ex": "The firm raised capital for the expansion.",
+   "exVi": "Công ty huy động vốn cho việc mở rộng.",
+   "col": [
+    "capital",
+    "working capital"
+   ]
+  },
+  {
+   "id": "ac060",
+   "topic": "Kế toán & kiểm toán",
+   "w": "principal",
+   "ipa": "/ˈprɪnsəpl/",
+   "pos": "n",
+   "vi": "tiền gốc",
+   "ex": "The principal is repaid over five years.",
+   "exVi": "Tiền gốc được trả trong năm năm.",
+   "col": [
+    "principal",
+    "the loan principal"
+   ]
+  },
+  {
+   "id": "ac061",
+   "topic": "Kế toán & kiểm toán",
+   "w": "interest",
+   "ipa": "/ˈɪntrəst/",
+   "pos": "n",
+   "vi": "tiền lãi",
+   "ex": "Interest is charged on the outstanding balance.",
+   "exVi": "Tiền lãi được tính trên số dư còn lại.",
+   "col": [
+    "interest",
+    "interest charges"
+   ]
+  },
+  {
+   "id": "ac062",
+   "topic": "Kế toán & kiểm toán",
+   "w": "statement of accounts",
+   "ipa": "/ˈsteɪtmənt əv əˈkaʊnts/",
+   "pos": "n",
+   "vi": "bảng kê tài khoản",
+   "ex": "A statement of accounts is sent each month.",
+   "exVi": "Một bảng kê tài khoản được gửi mỗi tháng.",
+   "col": [
+    "a statement of accounts",
+    "a monthly statement of accounts"
+   ]
+  },
+  {
+   "id": "ac063",
+   "topic": "Kế toán & kiểm toán",
+   "w": "payroll",
+   "ipa": "/ˈpeɪrəʊl/",
+   "pos": "n",
+   "vi": "bảng lương",
+   "ex": "The payroll is processed before month-end.",
+   "exVi": "Bảng lương được xử lý trước cuối tháng.",
+   "col": [
+    "payroll",
+    "a payroll system"
+   ]
+  },
+  {
+   "id": "ac064",
+   "topic": "Kế toán & kiểm toán",
+   "w": "remit",
+   "ipa": "/rɪˈmɪt/",
+   "pos": "v",
+   "vi": "chuyển tiền",
+   "ex": "The buyer remitted the full amount.",
+   "exVi": "Người mua chuyển toàn bộ số tiền.",
+   "col": [
+    "remit",
+    "remit payment"
+   ]
+  },
+  {
+   "id": "ac065",
+   "topic": "Kế toán & kiểm toán",
+   "w": "audit findings",
+   "ipa": "/ˈɔːdɪt ˈfaɪndɪŋz/",
+   "pos": "n",
+   "vi": "kết luận kiểm toán",
+   "ex": "The audit findings were shared with the board.",
+   "exVi": "Kết luận kiểm toán được chia sẻ với hội đồng.",
+   "col": [
+    "audit findings",
+    "the audit findings"
+   ]
+  },
+  {
+   "id": "ac066",
+   "topic": "Kế toán & kiểm toán",
+   "w": "verify",
+   "ipa": "/ˈverɪfaɪ/",
+   "pos": "v",
+   "vi": "xác minh",
+   "ex": "The auditor verified each balance.",
+   "exVi": "Kiểm toán viên xác minh mỗi số dư.",
+   "col": [
+    "verify",
+    "verify a figure"
+   ]
+  },
+  {
+   "id": "ac067",
+   "topic": "Kế toán & kiểm toán",
+   "w": "tabulate",
+   "ipa": "/ˈtæbjuleɪt/",
+   "pos": "v",
+   "vi": "lập bảng",
+   "ex": "The clerk tabulated the monthly totals.",
+   "exVi": "Nhân viên lập bảng các tổng số hằng tháng.",
+   "col": [
+    "tabulate",
+    "tabulate data"
+   ]
+  },
+  {
+   "id": "ac068",
+   "topic": "Kế toán & kiểm toán",
+   "w": "offset",
+   "ipa": "/ˈɒfset/",
+   "pos": "v",
+   "vi": "bù trừ",
+   "ex": "The loss was offset by a strong quarter.",
+   "exVi": "Khoản lỗ được bù trừ bởi một quý tốt.",
+   "col": [
+    "offset",
+    "offset a loss"
+   ]
+  },
+  {
+   "id": "ac069",
+   "topic": "Kế toán & kiểm toán",
+   "w": "accrue",
+   "ipa": "/əˈkruː/",
+   "pos": "v",
+   "vi": "dồn tích",
+   "ex": "Interest accrues on the balance daily.",
+   "exVi": "Lãi dồn tích trên số dư hằng ngày.",
+   "col": [
+    "accrue",
+    "accrue interest"
+   ]
+  },
+  {
+   "id": "ac070",
+   "topic": "Kế toán & kiểm toán",
+   "w": "capitalize",
+   "ipa": "/ˈkæpɪtəlaɪz/",
+   "pos": "v",
+   "vi": "vốn hoá",
+   "ex": "The firm capitalized the new equipment.",
+   "exVi": "Công ty vốn hoá thiết bị mới.",
+   "col": [
+    "capitalize",
+    "capitalize an asset"
+   ]
+  },
+  {
+   "id": "ac071",
+   "topic": "Kế toán & kiểm toán",
+   "w": "liquidate",
+   "ipa": "/ˈlɪkwɪdeɪt/",
+   "pos": "v",
+   "vi": "thanh lý",
+   "ex": "The firm liquidated its old stock.",
+   "exVi": "Công ty thanh lý hàng cũ.",
+   "col": [
+    "liquidate",
+    "liquidate assets"
+   ]
+  },
+  {
+   "id": "ac072",
+   "topic": "Kế toán & kiểm toán",
+   "w": "audited",
+   "ipa": "/ˈɔːdɪtɪd/",
+   "pos": "adj",
+   "vi": "đã kiểm toán",
+   "ex": "The audited accounts were published online.",
+   "exVi": "Sổ sách đã kiểm toán được công bố trực tuyến.",
+   "col": [
+    "audited",
+    "audited accounts"
+   ]
+  },
+  {
+   "id": "ac073",
+   "topic": "Kế toán & kiểm toán",
+   "w": "accountable",
+   "ipa": "/əˈkaʊntəbl/",
+   "pos": "adj",
+   "vi": "có trách nhiệm giải trình",
+   "ex": "Each manager is accountable for the budget.",
+   "exVi": "Mỗi quản lý có trách nhiệm giải trình về ngân sách.",
+   "col": [
+    "accountable",
+    "accountable for"
+   ]
+  },
+  {
+   "id": "ac074",
+   "topic": "Kế toán & kiểm toán",
+   "w": "profitable",
+   "ipa": "/ˈprɒfɪtəbl/",
+   "pos": "adj",
+   "vi": "có lãi",
+   "ex": "The branch became profitable this year.",
+   "exVi": "Chi nhánh có lãi năm nay.",
+   "col": [
+    "profitable",
+    "a profitable year"
+   ]
+  },
+  {
+   "id": "ac075",
+   "topic": "Kế toán & kiểm toán",
+   "w": "overdue",
+   "ipa": "/ˌəʊvəˈdjuː/",
+   "pos": "adj",
+   "vi": "quá hạn",
+   "ex": "Two invoices are now overdue.",
+   "exVi": "Hai hoá đơn hiện đã quá hạn.",
+   "col": [
+    "overdue",
+    "an overdue payment"
+   ]
+  },
+  {
+   "id": "ac076",
+   "topic": "Kế toán & kiểm toán",
+   "w": "outstanding",
+   "ipa": "/aʊtˈstændɪŋ/",
+   "pos": "adj",
+   "vi": "còn nợ, chưa trả",
+   "ex": "The outstanding balance is due Friday.",
+   "exVi": "Số dư còn nợ đến hạn thứ Sáu.",
+   "col": [
+    "outstanding",
+    "an outstanding balance"
+   ]
+  },
+  {
+   "id": "ac077",
+   "topic": "Kế toán & kiểm toán",
+   "w": "itemized",
+   "ipa": "/ˈaɪtəmaɪzd/",
+   "pos": "adj",
+   "vi": "liệt kê chi tiết",
+   "ex": "An itemized bill lists every charge.",
+   "exVi": "Một hoá đơn liệt kê chi tiết ghi rõ từng khoản.",
+   "col": [
+    "itemized",
+    "an itemized bill"
+   ]
+  },
+  {
+   "id": "ac078",
+   "topic": "Kế toán & kiểm toán",
+   "w": "quarterly",
+   "ipa": "/ˈkwɔːtəli/",
+   "pos": "adj",
+   "vi": "hằng quý",
+   "ex": "The firm files a quarterly report.",
+   "exVi": "Công ty nộp một báo cáo hằng quý.",
+   "col": [
+    "quarterly",
+    "a quarterly report"
+   ]
+  },
+  {
+   "id": "ac079",
+   "topic": "Kế toán & kiểm toán",
+   "w": "annual",
+   "ipa": "/ˈænjuəl/",
+   "pos": "adj",
+   "vi": "hằng năm",
+   "ex": "The annual report is due in March.",
+   "exVi": "Báo cáo hằng năm đến hạn vào tháng Ba.",
+   "col": [
+    "annual",
+    "an annual report"
+   ]
+  },
+  {
+   "id": "ac080",
+   "topic": "Kế toán & kiểm toán",
+   "w": "prudent",
+   "ipa": "/ˈpruːdnt/",
+   "pos": "adj",
+   "vi": "thận trọng",
+   "ex": "Prudent budgeting kept the firm stable.",
+   "exVi": "Lập ngân sách thận trọng giữ công ty ổn định.",
+   "col": [
+    "prudent",
+    "prudent management"
+   ]
+  },
+  {
+   "id": "ac081",
+   "topic": "Kế toán & kiểm toán",
+   "w": "audit-ready",
+   "ipa": "/ˈɔːdɪt redi/",
+   "pos": "adj",
+   "vi": "sẵn sàng kiểm toán",
+   "ex": "The records are kept audit-ready all year.",
+   "exVi": "Hồ sơ được giữ sẵn sàng kiểm toán cả năm.",
+   "col": [
+    "audit-ready",
+    "audit-ready records"
+   ]
+  },
+  {
+   "id": "ac082",
+   "topic": "Kế toán & kiểm toán",
+   "w": "receipted",
+   "ipa": "/rɪˈsiːtɪd/",
+   "pos": "adj",
+   "vi": "đã có biên nhận",
+   "ex": "Only receipted expenses are refunded.",
+   "exVi": "Chỉ các chi phí đã có biên nhận được hoàn.",
+   "col": [
+    "receipted",
+    "a receipted invoice"
+   ]
+  }
+ ]
+}

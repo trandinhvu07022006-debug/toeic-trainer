@@ -1,0 +1,1335 @@
+{
+ "topic": "Y tế & sức khoẻ",
+ "words": [
+  {
+   "id": "me001",
+   "topic": "Y tế & sức khoẻ",
+   "w": "patient",
+   "ipa": "/ˈpeɪʃnt/",
+   "pos": "n",
+   "vi": "bệnh nhân",
+   "ex": "The patient was discharged after two nights.",
+   "exVi": "Bệnh nhân được xuất viện sau hai đêm.",
+   "col": [
+    "a patient's records",
+    "treat a patient"
+   ]
+  },
+  {
+   "id": "me002",
+   "topic": "Y tế & sức khoẻ",
+   "w": "physician",
+   "ipa": "/fɪˈzɪʃn/",
+   "pos": "n",
+   "vi": "bác sĩ",
+   "ex": "The physician recommended a change in diet.",
+   "exVi": "Bác sĩ khuyên thay đổi chế độ ăn.",
+   "col": [
+    "a family physician",
+    "consult a physician"
+   ]
+  },
+  {
+   "id": "me003",
+   "topic": "Y tế & sức khoẻ",
+   "w": "surgeon",
+   "ipa": "/ˈsɜːdʒən/",
+   "pos": "n",
+   "vi": "bác sĩ phẫu thuật",
+   "ex": "The surgeon explained the procedure to the family.",
+   "exVi": "Bác sĩ phẫu thuật giải thích thủ thuật cho gia đình.",
+   "col": [
+    "a heart surgeon",
+    "a skilled surgeon"
+   ]
+  },
+  {
+   "id": "me004",
+   "topic": "Y tế & sức khoẻ",
+   "w": "nurse",
+   "ipa": "/nɜːs/",
+   "pos": "n",
+   "vi": "y tá",
+   "ex": "A nurse checks the patient's temperature every hour.",
+   "exVi": "Một y tá kiểm tra nhiệt độ bệnh nhân mỗi giờ.",
+   "col": [
+    "a registered nurse",
+    "a night nurse"
+   ]
+  },
+  {
+   "id": "me005",
+   "topic": "Y tế & sức khoẻ",
+   "w": "pharmacist",
+   "ipa": "/ˈfɑːməsɪst/",
+   "pos": "n",
+   "vi": "dược sĩ",
+   "ex": "The pharmacist filled the prescription in ten minutes.",
+   "exVi": "Dược sĩ chuẩn bị đơn thuốc trong mười phút.",
+   "col": [
+    "a hospital pharmacist",
+    "ask the pharmacist"
+   ]
+  },
+  {
+   "id": "me006",
+   "topic": "Y tế & sức khoẻ",
+   "w": "specialist",
+   "ipa": "/ˈspeʃəlɪst/",
+   "pos": "n",
+   "vi": "bác sĩ chuyên khoa",
+   "ex": "She was referred to a specialist for further tests.",
+   "exVi": "Bà được chuyển tới bác sĩ chuyên khoa để làm thêm xét nghiệm.",
+   "col": [
+    "a heart specialist",
+    "see a specialist"
+   ]
+  },
+  {
+   "id": "me007",
+   "topic": "Y tế & sức khoẻ",
+   "w": "appointment",
+   "ipa": "/əˈpɔɪntmənt/",
+   "pos": "n",
+   "vi": "lịch hẹn khám",
+   "ex": "Please arrive early for your appointment.",
+   "exVi": "Vui lòng tới sớm cho lịch hẹn khám của bạn.",
+   "col": [
+    "make an appointment",
+    "a doctor's appointment"
+   ]
+  },
+  {
+   "id": "me008",
+   "topic": "Y tế & sức khoẻ",
+   "w": "consultation",
+   "ipa": "/ˌkɒnslˈteɪʃn/",
+   "pos": "n",
+   "vi": "buổi tư vấn khám",
+   "ex": "The first consultation lasts about thirty minutes.",
+   "exVi": "Buổi tư vấn khám đầu tiên kéo dài khoảng ba mươi phút.",
+   "col": [
+    "a medical consultation",
+    "book a consultation"
+   ]
+  },
+  {
+   "id": "me009",
+   "topic": "Y tế & sức khoẻ",
+   "w": "diagnosis",
+   "ipa": "/ˌdaɪəɡˈnəʊsɪs/",
+   "pos": "n",
+   "vi": "chẩn đoán",
+   "ex": "An early diagnosis improves the chance of recovery.",
+   "exVi": "Chẩn đoán sớm cải thiện cơ hội hồi phục.",
+   "col": [
+    "an early diagnosis",
+    "make a diagnosis"
+   ]
+  },
+  {
+   "id": "me010",
+   "topic": "Y tế & sức khoẻ",
+   "w": "diagnose",
+   "ipa": "/ˈdaɪəɡnəʊz/",
+   "pos": "v",
+   "vi": "chẩn đoán",
+   "ex": "Doctors diagnosed the condition after a scan.",
+   "exVi": "Bác sĩ chẩn đoán bệnh sau khi chụp.",
+   "col": [
+    "diagnose a condition",
+    "be diagnosed with"
+   ]
+  },
+  {
+   "id": "me011",
+   "topic": "Y tế & sức khoẻ",
+   "w": "symptom",
+   "ipa": "/ˈsɪmptəm/",
+   "pos": "n",
+   "vi": "triệu chứng",
+   "ex": "The main symptom is a persistent cough.",
+   "exVi": "Triệu chứng chính là ho dai dẳng.",
+   "col": [
+    "a common symptom",
+    "show symptoms"
+   ]
+  },
+  {
+   "id": "me012",
+   "topic": "Y tế & sức khoẻ",
+   "w": "treatment",
+   "ipa": "/ˈtriːtmənt/",
+   "pos": "n",
+   "vi": "điều trị",
+   "ex": "The treatment lasted six weeks in total.",
+   "exVi": "Việc điều trị kéo dài tổng cộng sáu tuần.",
+   "col": [
+    "medical treatment",
+    "a course of treatment"
+   ]
+  },
+  {
+   "id": "me013",
+   "topic": "Y tế & sức khoẻ",
+   "w": "therapy",
+   "ipa": "/ˈθerəpi/",
+   "pos": "n",
+   "vi": "liệu pháp",
+   "ex": "Physical therapy helped her regain movement.",
+   "exVi": "Vật lý trị liệu giúp bà lấy lại vận động.",
+   "col": [
+    "physical therapy",
+    "a course of therapy"
+   ]
+  },
+  {
+   "id": "me014",
+   "topic": "Y tế & sức khoẻ",
+   "w": "prescription",
+   "ipa": "/prɪˈskrɪpʃn/",
+   "pos": "n",
+   "vi": "đơn thuốc",
+   "ex": "A prescription is needed for this medicine.",
+   "exVi": "Thuốc này cần có đơn.",
+   "col": [
+    "a repeat prescription",
+    "fill a prescription"
+   ]
+  },
+  {
+   "id": "me015",
+   "topic": "Y tế & sức khoẻ",
+   "w": "medication",
+   "ipa": "/ˌmedɪˈkeɪʃn/",
+   "pos": "n",
+   "vi": "thuốc điều trị",
+   "ex": "Take the medication twice a day with food.",
+   "exVi": "Uống thuốc hai lần mỗi ngày cùng thức ăn.",
+   "col": [
+    "take medication",
+    "prescribed medication"
+   ]
+  },
+  {
+   "id": "me016",
+   "topic": "Y tế & sức khoẻ",
+   "w": "dosage",
+   "ipa": "/ˈdəʊsɪdʒ/",
+   "pos": "n",
+   "vi": "liều lượng",
+   "ex": "The dosage depends on the patient's weight.",
+   "exVi": "Liều lượng tuỳ theo cân nặng bệnh nhân.",
+   "col": [
+    "the correct dosage",
+    "a daily dosage"
+   ]
+  },
+  {
+   "id": "me017",
+   "topic": "Y tế & sức khoẻ",
+   "w": "dose",
+   "ipa": "/dəʊs/",
+   "pos": "n",
+   "vi": "liều",
+   "ex": "A second dose is given after four weeks.",
+   "exVi": "Liều thứ hai được tiêm sau bốn tuần.",
+   "col": [
+    "a single dose",
+    "a booster dose"
+   ]
+  },
+  {
+   "id": "me018",
+   "topic": "Y tế & sức khoẻ",
+   "w": "vaccine",
+   "ipa": "/ˈvæksiːn/",
+   "pos": "n",
+   "vi": "vắc-xin",
+   "ex": "The vaccine is offered free to older adults.",
+   "exVi": "Vắc-xin được cấp miễn phí cho người lớn tuổi.",
+   "col": [
+    "a flu vaccine",
+    "a vaccine dose"
+   ]
+  },
+  {
+   "id": "me019",
+   "topic": "Y tế & sức khoẻ",
+   "w": "vaccination",
+   "ipa": "/ˌvæksɪˈneɪʃn/",
+   "pos": "n",
+   "vi": "việc tiêm chủng",
+   "ex": "Vaccination reduces the spread of the disease.",
+   "exVi": "Tiêm chủng làm giảm lây lan của bệnh.",
+   "col": [
+    "a vaccination programme",
+    "a vaccination record"
+   ]
+  },
+  {
+   "id": "me020",
+   "topic": "Y tế & sức khoẻ",
+   "w": "immunity",
+   "ipa": "/ɪˈmjuːnəti/",
+   "pos": "n",
+   "vi": "miễn dịch",
+   "ex": "The vaccine builds immunity within two weeks.",
+   "exVi": "Vắc-xin tạo miễn dịch trong hai tuần.",
+   "col": [
+    "build immunity",
+    "natural immunity"
+   ]
+  },
+  {
+   "id": "me021",
+   "topic": "Y tế & sức khoẻ",
+   "w": "infection",
+   "ipa": "/ɪnˈfekʃn/",
+   "pos": "n",
+   "vi": "nhiễm trùng",
+   "ex": "Antibiotics cleared the infection quickly.",
+   "exVi": "Kháng sinh làm sạch nhiễm trùng nhanh chóng.",
+   "col": [
+    "a bacterial infection",
+    "treat an infection"
+   ]
+  },
+  {
+   "id": "me022",
+   "topic": "Y tế & sức khoẻ",
+   "w": "contagious",
+   "ipa": "/kənˈteɪdʒəs/",
+   "pos": "adj",
+   "vi": "dễ lây",
+   "ex": "The illness is contagious for about a week.",
+   "exVi": "Bệnh dễ lây trong khoảng một tuần.",
+   "col": [
+    "a contagious disease",
+    "highly contagious"
+   ]
+  },
+  {
+   "id": "me023",
+   "topic": "Y tế & sức khoẻ",
+   "w": "chronic",
+   "ipa": "/ˈkrɒnɪk/",
+   "pos": "adj",
+   "vi": "mãn tính",
+   "ex": "Chronic conditions need long-term care.",
+   "exVi": "Bệnh mãn tính cần chăm sóc dài hạn.",
+   "col": [
+    "a chronic illness",
+    "a chronic condition"
+   ]
+  },
+  {
+   "id": "me024",
+   "topic": "Y tế & sức khoẻ",
+   "w": "acute",
+   "ipa": "/əˈkjuːt/",
+   "pos": "adj",
+   "vi": "cấp tính",
+   "ex": "The patient was admitted with acute pain.",
+   "exVi": "Bệnh nhân nhập viện với cơn đau cấp tính.",
+   "col": [
+    "acute pain",
+    "an acute case"
+   ]
+  },
+  {
+   "id": "me025",
+   "topic": "Y tế & sức khoẻ",
+   "w": "recovery",
+   "ipa": "/rɪˈkʌvəri/",
+   "pos": "n",
+   "vi": "hồi phục",
+   "ex": "A full recovery is expected within a month.",
+   "exVi": "Dự kiến hồi phục hoàn toàn trong một tháng.",
+   "col": [
+    "a full recovery",
+    "make a recovery"
+   ]
+  },
+  {
+   "id": "me026",
+   "topic": "Y tế & sức khoẻ",
+   "w": "recover",
+   "ipa": "/rɪˈkʌvə/",
+   "pos": "v",
+   "vi": "hồi phục",
+   "ex": "Most patients recover completely after surgery.",
+   "exVi": "Phần lớn bệnh nhân hồi phục hoàn toàn sau phẫu thuật.",
+   "col": [
+    "recover fully",
+    "recover from"
+   ]
+  },
+  {
+   "id": "me027",
+   "topic": "Y tế & sức khoẻ",
+   "w": "surgery",
+   "ipa": "/ˈsɜːdʒəri/",
+   "pos": "n",
+   "vi": "phẫu thuật",
+   "ex": "The surgery went smoothly and took two hours.",
+   "exVi": "Ca phẫu thuật diễn ra suôn sẻ và mất hai tiếng.",
+   "col": [
+    "undergo surgery",
+    "keyhole surgery"
+   ]
+  },
+  {
+   "id": "me028",
+   "topic": "Y tế & sức khoẻ",
+   "w": "operation",
+   "ipa": "/ˌɒpəˈreɪʃn/",
+   "pos": "n",
+   "vi": "ca mổ",
+   "ex": "The operation was scheduled for early morning.",
+   "exVi": "Ca mổ được xếp lịch vào sáng sớm.",
+   "col": [
+    "a major operation",
+    "perform an operation"
+   ]
+  },
+  {
+   "id": "me029",
+   "topic": "Y tế & sức khoẻ",
+   "w": "procedure",
+   "ipa": "/prəˈsiːdʒə/",
+   "pos": "n",
+   "vi": "thủ thuật",
+   "ex": "The procedure requires only local anaesthetic.",
+   "exVi": "Thủ thuật chỉ cần gây tê tại chỗ.",
+   "col": [
+    "a medical procedure",
+    "a routine procedure"
+   ]
+  },
+  {
+   "id": "me030",
+   "topic": "Y tế & sức khoẻ",
+   "w": "anaesthetic",
+   "ipa": "/ˌænəsˈθetɪk/",
+   "pos": "n",
+   "vi": "thuốc gây mê",
+   "ex": "A local anaesthetic numbs the area for an hour.",
+   "exVi": "Thuốc gây tê tại chỗ làm tê vùng đó trong một giờ.",
+   "col": [
+    "a local anaesthetic",
+    "under anaesthetic"
+   ]
+  },
+  {
+   "id": "me031",
+   "topic": "Y tế & sức khoẻ",
+   "w": "admit",
+   "ipa": "/ədˈmɪt/",
+   "pos": "v",
+   "vi": "nhập viện",
+   "ex": "The patient was admitted to the ward overnight.",
+   "exVi": "Bệnh nhân được cho nhập viện qua đêm.",
+   "col": [
+    "admit a patient",
+    "be admitted to hospital"
+   ]
+  },
+  {
+   "id": "me032",
+   "topic": "Y tế & sức khoẻ",
+   "w": "discharge",
+   "ipa": "/dɪsˈtʃɑːdʒ/",
+   "pos": "v, n",
+   "vi": "xuất viện",
+   "ex": "She was discharged once the fever passed.",
+   "exVi": "Bà được xuất viện khi cơn sốt qua đi.",
+   "col": [
+    "discharge a patient",
+    "a hospital discharge"
+   ]
+  },
+  {
+   "id": "me033",
+   "topic": "Y tế & sức khoẻ",
+   "w": "ward",
+   "ipa": "/wɔːd/",
+   "pos": "n",
+   "vi": "khu điều trị",
+   "ex": "The children's ward is on the second floor.",
+   "exVi": "Khu điều trị nhi ở tầng hai.",
+   "col": [
+    "a hospital ward",
+    "a maternity ward"
+   ]
+  },
+  {
+   "id": "me034",
+   "topic": "Y tế & sức khoẻ",
+   "w": "clinic",
+   "ipa": "/ˈklɪnɪk/",
+   "pos": "n",
+   "vi": "phòng khám",
+   "ex": "The clinic opens at eight every weekday.",
+   "exVi": "Phòng khám mở lúc tám giờ mỗi ngày trong tuần.",
+   "col": [
+    "a health clinic",
+    "a walk-in clinic"
+   ]
+  },
+  {
+   "id": "me035",
+   "topic": "Y tế & sức khoẻ",
+   "w": "outpatient",
+   "ipa": "/ˈaʊtpeɪʃnt/",
+   "pos": "n",
+   "vi": "bệnh nhân ngoại trú",
+   "ex": "Most tests are done on an outpatient basis.",
+   "exVi": "Phần lớn xét nghiệm được làm theo diện ngoại trú.",
+   "col": [
+    "an outpatient clinic",
+    "an outpatient visit"
+   ]
+  },
+  {
+   "id": "me036",
+   "topic": "Y tế & sức khoẻ",
+   "w": "inpatient",
+   "ipa": "/ˈɪnpeɪʃnt/",
+   "pos": "n",
+   "vi": "bệnh nhân nội trú",
+   "ex": "Inpatient care includes meals and monitoring.",
+   "exVi": "Chăm sóc nội trú gồm cả bữa ăn và theo dõi.",
+   "col": [
+    "inpatient care",
+    "an inpatient ward"
+   ]
+  },
+  {
+   "id": "me037",
+   "topic": "Y tế & sức khoẻ",
+   "w": "referral",
+   "ipa": "/rɪˈfɜːrəl/",
+   "pos": "n",
+   "vi": "giấy chuyển tuyến",
+   "ex": "A referral from your doctor is required.",
+   "exVi": "Cần có giấy chuyển tuyến từ bác sĩ của bạn.",
+   "col": [
+    "a hospital referral",
+    "a referral letter"
+   ]
+  },
+  {
+   "id": "me038",
+   "topic": "Y tế & sức khoẻ",
+   "w": "screening",
+   "ipa": "/ˈskriːnɪŋ/",
+   "pos": "n",
+   "vi": "tầm soát",
+   "ex": "Regular screening catches problems early.",
+   "exVi": "Tầm soát định kỳ phát hiện vấn đề sớm.",
+   "col": [
+    "health screening",
+    "a screening test"
+   ]
+  },
+  {
+   "id": "me039",
+   "topic": "Y tế & sức khoẻ",
+   "w": "checkup",
+   "ipa": "/ˈtʃekʌp/",
+   "pos": "n",
+   "vi": "khám sức khoẻ định kỳ",
+   "ex": "An annual checkup is recommended for adults.",
+   "exVi": "Khám sức khoẻ định kỳ hằng năm được khuyến nghị cho người lớn.",
+   "col": [
+    "an annual checkup",
+    "a routine checkup"
+   ]
+  },
+  {
+   "id": "me040",
+   "topic": "Y tế & sức khoẻ",
+   "w": "scan",
+   "ipa": "/skæn/",
+   "pos": "n",
+   "vi": "chụp chiếu",
+   "ex": "The scan showed no sign of damage.",
+   "exVi": "Ảnh chụp không cho thấy dấu hiệu tổn thương.",
+   "col": [
+    "a brain scan",
+    "have a scan"
+   ]
+  },
+  {
+   "id": "me041",
+   "topic": "Y tế & sức khoẻ",
+   "w": "X-ray",
+   "ipa": "/ˈeks reɪ/",
+   "pos": "n",
+   "vi": "chụp X-quang",
+   "ex": "An X-ray confirmed the bone was not broken.",
+   "exVi": "Ảnh X-quang xác nhận xương không gãy.",
+   "col": [
+    "a chest X-ray",
+    "take an X-ray"
+   ]
+  },
+  {
+   "id": "me042",
+   "topic": "Y tế & sức khoẻ",
+   "w": "specimen",
+   "ipa": "/ˈspesɪmən/",
+   "pos": "n",
+   "vi": "mẫu bệnh phẩm",
+   "ex": "The specimen was sent to the lab for testing.",
+   "exVi": "Mẫu bệnh phẩm được gửi tới phòng thí nghiệm để xét nghiệm.",
+   "col": [
+    "a blood specimen",
+    "collect a specimen"
+   ]
+  },
+  {
+   "id": "me043",
+   "topic": "Y tế & sức khoẻ",
+   "w": "laboratory",
+   "ipa": "/ləˈbɒrətri/",
+   "pos": "n",
+   "vi": "phòng thí nghiệm",
+   "ex": "Results come back from the laboratory in two days.",
+   "exVi": "Kết quả từ phòng thí nghiệm về trong hai ngày.",
+   "col": [
+    "a medical laboratory",
+    "a laboratory test"
+   ]
+  },
+  {
+   "id": "me044",
+   "topic": "Y tế & sức khoẻ",
+   "w": "ailment",
+   "ipa": "/ˈeɪlmənt/",
+   "pos": "n",
+   "vi": "bệnh nhẹ",
+   "ex": "The clinic treats minor ailments without appointment.",
+   "exVi": "Phòng khám chữa các bệnh nhẹ không cần hẹn.",
+   "col": [
+    "a minor ailment",
+    "a common ailment"
+   ]
+  },
+  {
+   "id": "me045",
+   "topic": "Y tế & sức khoẻ",
+   "w": "remedy",
+   "ipa": "/ˈremədi/",
+   "pos": "n",
+   "vi": "phương thuốc",
+   "ex": "A simple remedy eased the sore throat.",
+   "exVi": "Một phương thuốc đơn giản làm dịu cơn đau họng.",
+   "col": [
+    "a home remedy",
+    "a natural remedy"
+   ]
+  },
+  {
+   "id": "me046",
+   "topic": "Y tế & sức khoẻ",
+   "w": "recuperate",
+   "ipa": "/rɪˈkuːpəreɪt/",
+   "pos": "v",
+   "vi": "dưỡng bệnh",
+   "ex": "He is recuperating at home after the operation.",
+   "exVi": "Anh ấy đang dưỡng bệnh ở nhà sau ca mổ.",
+   "col": [
+    "recuperate at home",
+    "time to recuperate"
+   ]
+  },
+  {
+   "id": "me047",
+   "topic": "Y tế & sức khoẻ",
+   "w": "hygiene",
+   "ipa": "/ˈhaɪdʒiːn/",
+   "pos": "n",
+   "vi": "vệ sinh",
+   "ex": "Good hand hygiene prevents many infections.",
+   "exVi": "Vệ sinh tay tốt ngăn ngừa nhiều loại nhiễm trùng.",
+   "col": [
+    "personal hygiene",
+    "hand hygiene"
+   ]
+  },
+  {
+   "id": "me048",
+   "topic": "Y tế & sức khoẻ",
+   "w": "sanitary",
+   "ipa": "/ˈsænətri/",
+   "pos": "adj",
+   "vi": "hợp vệ sinh",
+   "ex": "The kitchen must meet strict sanitary standards.",
+   "exVi": "Nhà bếp phải đạt tiêu chuẩn vệ sinh nghiêm ngặt.",
+   "col": [
+    "sanitary conditions",
+    "a sanitary standard"
+   ]
+  },
+  {
+   "id": "me049",
+   "topic": "Y tế & sức khoẻ",
+   "w": "insurance",
+   "ipa": "/ɪnˈʃʊərəns/",
+   "pos": "n",
+   "vi": "bảo hiểm y tế",
+   "ex": "Health insurance covers most of the hospital bill.",
+   "exVi": "Bảo hiểm y tế chi trả phần lớn viện phí.",
+   "col": [
+    "health insurance",
+    "an insurance claim"
+   ]
+  },
+  {
+   "id": "me050",
+   "topic": "Y tế & sức khoẻ",
+   "w": "premium",
+   "ipa": "/ˈpriːmiəm/",
+   "pos": "n",
+   "vi": "phí bảo hiểm",
+   "ex": "The monthly premium rose slightly this year.",
+   "exVi": "Phí bảo hiểm hằng tháng tăng nhẹ năm nay.",
+   "col": [
+    "an insurance premium",
+    "a monthly premium"
+   ]
+  },
+  {
+   "id": "me051",
+   "topic": "Y tế & sức khoẻ",
+   "w": "coverage",
+   "ipa": "/ˈkʌvərɪdʒ/",
+   "pos": "n",
+   "vi": "phạm vi chi trả",
+   "ex": "The plan offers full coverage for emergencies.",
+   "exVi": "Gói bảo hiểm chi trả toàn bộ cho cấp cứu.",
+   "col": [
+    "full coverage",
+    "medical coverage"
+   ]
+  },
+  {
+   "id": "me052",
+   "topic": "Y tế & sức khoẻ",
+   "w": "claim",
+   "ipa": "/kleɪm/",
+   "pos": "n, v",
+   "vi": "yêu cầu bồi thường",
+   "ex": "She filed a claim for the treatment costs.",
+   "exVi": "Bà nộp yêu cầu bồi thường chi phí điều trị.",
+   "col": [
+    "file a claim",
+    "a medical claim"
+   ]
+  },
+  {
+   "id": "me053",
+   "topic": "Y tế & sức khoẻ",
+   "w": "copayment",
+   "ipa": "/ˈkəʊpeɪmənt/",
+   "pos": "n",
+   "vi": "khoản đồng chi trả",
+   "ex": "A small copayment is due at each visit.",
+   "exVi": "Một khoản đồng chi trả nhỏ phải trả mỗi lần khám.",
+   "col": [
+    "a copayment",
+    "a fixed copayment"
+   ]
+  },
+  {
+   "id": "me054",
+   "topic": "Y tế & sức khoẻ",
+   "w": "deductible",
+   "ipa": "/dɪˈdʌktəbl/",
+   "pos": "n",
+   "vi": "mức khấu trừ",
+   "ex": "The plan has a low annual deductible.",
+   "exVi": "Gói bảo hiểm có mức khấu trừ hằng năm thấp.",
+   "col": [
+    "an annual deductible",
+    "a high deductible"
+   ]
+  },
+  {
+   "id": "me055",
+   "topic": "Y tế & sức khoẻ",
+   "w": "reimburse",
+   "ipa": "/ˌriːɪmˈbɜːs/",
+   "pos": "v",
+   "vi": "hoàn trả",
+   "ex": "The insurer reimbursed the full amount.",
+   "exVi": "Công ty bảo hiểm hoàn trả toàn bộ số tiền.",
+   "col": [
+    "reimburse costs",
+    "be reimbursed"
+   ]
+  },
+  {
+   "id": "me056",
+   "topic": "Y tế & sức khoẻ",
+   "w": "eligible",
+   "ipa": "/ˈelɪdʒəbl/",
+   "pos": "adj",
+   "vi": "đủ điều kiện",
+   "ex": "Employees are eligible for free health checks.",
+   "exVi": "Nhân viên đủ điều kiện khám sức khoẻ miễn phí.",
+   "col": [
+    "be eligible for",
+    "eligible patients"
+   ]
+  },
+  {
+   "id": "me057",
+   "topic": "Y tế & sức khoẻ",
+   "w": "wellness",
+   "ipa": "/ˈwelnəs/",
+   "pos": "n",
+   "vi": "sức khoẻ toàn diện",
+   "ex": "The company runs a wellness programme for staff.",
+   "exVi": "Công ty tổ chức chương trình chăm sóc sức khoẻ cho nhân viên.",
+   "col": [
+    "a wellness programme",
+    "employee wellness"
+   ]
+  },
+  {
+   "id": "me058",
+   "topic": "Y tế & sức khoẻ",
+   "w": "nutrition",
+   "ipa": "/njuˈtrɪʃn/",
+   "pos": "n",
+   "vi": "dinh dưỡng",
+   "ex": "Good nutrition speeds up recovery.",
+   "exVi": "Dinh dưỡng tốt đẩy nhanh hồi phục.",
+   "col": [
+    "good nutrition",
+    "nutrition advice"
+   ]
+  },
+  {
+   "id": "me059",
+   "topic": "Y tế & sức khoẻ",
+   "w": "diet",
+   "ipa": "/ˈdaɪət/",
+   "pos": "n",
+   "vi": "chế độ ăn",
+   "ex": "The doctor suggested a low-salt diet.",
+   "exVi": "Bác sĩ khuyên một chế độ ăn ít muối.",
+   "col": [
+    "a balanced diet",
+    "a special diet"
+   ]
+  },
+  {
+   "id": "me060",
+   "topic": "Y tế & sức khoẻ",
+   "w": "supplement",
+   "ipa": "/ˈsʌplɪmənt/",
+   "pos": "n",
+   "vi": "thực phẩm bổ sung",
+   "ex": "A daily supplement covers the missing vitamins.",
+   "exVi": "Một loại thực phẩm bổ sung hằng ngày bù các vitamin thiếu.",
+   "col": [
+    "a dietary supplement",
+    "take a supplement"
+   ]
+  },
+  {
+   "id": "me061",
+   "topic": "Y tế & sức khoẻ",
+   "w": "prescribe",
+   "ipa": "/prɪˈskraɪb/",
+   "pos": "v",
+   "vi": "kê đơn",
+   "ex": "The doctor prescribed a week of antibiotics.",
+   "exVi": "Bác sĩ kê một tuần kháng sinh.",
+   "col": [
+    "prescribe medicine",
+    "prescribe treatment"
+   ]
+  },
+  {
+   "id": "me062",
+   "topic": "Y tế & sức khoẻ",
+   "w": "administer",
+   "ipa": "/ədˈmɪnɪstə/",
+   "pos": "v",
+   "vi": "cho dùng thuốc",
+   "ex": "A nurse will administer the injection.",
+   "exVi": "Một y tá sẽ tiêm thuốc.",
+   "col": [
+    "administer a drug",
+    "administer treatment"
+   ]
+  },
+  {
+   "id": "me063",
+   "topic": "Y tế & sức khoẻ",
+   "w": "inject",
+   "ipa": "/ɪnˈdʒekt/",
+   "pos": "v",
+   "vi": "tiêm",
+   "ex": "The medicine is injected into the upper arm.",
+   "exVi": "Thuốc được tiêm vào bắp tay.",
+   "col": [
+    "inject a drug",
+    "inject a vaccine"
+   ]
+  },
+  {
+   "id": "me064",
+   "topic": "Y tế & sức khoẻ",
+   "w": "injection",
+   "ipa": "/ɪnˈdʒekʃn/",
+   "pos": "n",
+   "vi": "mũi tiêm",
+   "ex": "The injection may sting for a moment.",
+   "exVi": "Mũi tiêm có thể nhói một lúc.",
+   "col": [
+    "an injection",
+    "give an injection"
+   ]
+  },
+  {
+   "id": "me065",
+   "topic": "Y tế & sức khoẻ",
+   "w": "antibiotic",
+   "ipa": "/ˌæntibaɪˈɒtɪk/",
+   "pos": "n",
+   "vi": "kháng sinh",
+   "ex": "Finish the whole course of antibiotics.",
+   "exVi": "Uống hết cả liệu trình kháng sinh.",
+   "col": [
+    "a course of antibiotics",
+    "take antibiotics"
+   ]
+  },
+  {
+   "id": "me066",
+   "topic": "Y tế & sức khoẻ",
+   "w": "painkiller",
+   "ipa": "/ˈpeɪnkɪlə/",
+   "pos": "n",
+   "vi": "thuốc giảm đau",
+   "ex": "Take a painkiller if the ache returns.",
+   "exVi": "Uống thuốc giảm đau nếu cơn đau trở lại.",
+   "col": [
+    "a mild painkiller",
+    "take a painkiller"
+   ]
+  },
+  {
+   "id": "me067",
+   "topic": "Y tế & sức khoẻ",
+   "w": "tablet",
+   "ipa": "/ˈtæblət/",
+   "pos": "n",
+   "vi": "viên nén",
+   "ex": "Swallow the tablet with a full glass of water.",
+   "exVi": "Nuốt viên nén với một ly nước đầy.",
+   "col": [
+    "a tablet",
+    "a chewable tablet"
+   ]
+  },
+  {
+   "id": "me068",
+   "topic": "Y tế & sức khoẻ",
+   "w": "capsule",
+   "ipa": "/ˈkæpsjuːl/",
+   "pos": "n",
+   "vi": "viên nang",
+   "ex": "Take one capsule before each meal.",
+   "exVi": "Uống một viên nang trước mỗi bữa ăn.",
+   "col": [
+    "a capsule",
+    "a soft capsule"
+   ]
+  },
+  {
+   "id": "me069",
+   "topic": "Y tế & sức khoẻ",
+   "w": "ointment",
+   "ipa": "/ˈɔɪntmənt/",
+   "pos": "n",
+   "vi": "thuốc mỡ",
+   "ex": "Apply the ointment twice a day to the wound.",
+   "exVi": "Bôi thuốc mỡ hai lần mỗi ngày lên vết thương.",
+   "col": [
+    "apply an ointment",
+    "an antiseptic ointment"
+   ]
+  },
+  {
+   "id": "me070",
+   "topic": "Y tế & sức khoẻ",
+   "w": "bandage",
+   "ipa": "/ˈbændɪdʒ/",
+   "pos": "n",
+   "vi": "băng gạc",
+   "ex": "A clean bandage was placed over the cut.",
+   "exVi": "Một miếng băng gạc sạch được đặt lên vết cắt.",
+   "col": [
+    "apply a bandage",
+    "a sterile bandage"
+   ]
+  },
+  {
+   "id": "me071",
+   "topic": "Y tế & sức khoẻ",
+   "w": "wound",
+   "ipa": "/wuːnd/",
+   "pos": "n",
+   "vi": "vết thương",
+   "ex": "The wound healed without complications.",
+   "exVi": "Vết thương lành mà không có biến chứng.",
+   "col": [
+    "a deep wound",
+    "clean a wound"
+   ]
+  },
+  {
+   "id": "me072",
+   "topic": "Y tế & sức khoẻ",
+   "w": "fracture",
+   "ipa": "/ˈfræktʃə/",
+   "pos": "n",
+   "vi": "gãy xương",
+   "ex": "An X-ray revealed a small fracture.",
+   "exVi": "Ảnh X-quang cho thấy một vết gãy nhỏ.",
+   "col": [
+    "a bone fracture",
+    "a hairline fracture"
+   ]
+  },
+  {
+   "id": "me073",
+   "topic": "Y tế & sức khoẻ",
+   "w": "sprain",
+   "ipa": "/spreɪn/",
+   "pos": "n, v",
+   "vi": "bong gân",
+   "ex": "She suffered a sprain during the match.",
+   "exVi": "Bà bị bong gân trong trận đấu.",
+   "col": [
+    "an ankle sprain",
+    "sprain a wrist"
+   ]
+  },
+  {
+   "id": "me074",
+   "topic": "Y tế & sức khoẻ",
+   "w": "allergy",
+   "ipa": "/ˈælədʒi/",
+   "pos": "n",
+   "vi": "dị ứng",
+   "ex": "He has a mild allergy to certain nuts.",
+   "exVi": "Anh ấy bị dị ứng nhẹ với một số loại hạt.",
+   "col": [
+    "a food allergy",
+    "a mild allergy"
+   ]
+  },
+  {
+   "id": "me075",
+   "topic": "Y tế & sức khoẻ",
+   "w": "allergic",
+   "ipa": "/əˈlɜːdʒɪk/",
+   "pos": "adj",
+   "vi": "dị ứng với",
+   "ex": "Some patients are allergic to the medicine.",
+   "exVi": "Một số bệnh nhân dị ứng với thuốc.",
+   "col": [
+    "be allergic to",
+    "an allergic reaction"
+   ]
+  },
+  {
+   "id": "me076",
+   "topic": "Y tế & sức khoẻ",
+   "w": "side effect",
+   "ipa": "/saɪd ɪˈfekt/",
+   "pos": "n",
+   "vi": "tác dụng phụ",
+   "ex": "Drowsiness is a common side effect.",
+   "exVi": "Buồn ngủ là một tác dụng phụ thường gặp.",
+   "col": [
+    "a side effect",
+    "a mild side effect"
+   ]
+  },
+  {
+   "id": "me077",
+   "topic": "Y tế & sức khoẻ",
+   "w": "emergency",
+   "ipa": "/ɪˈmɜːdʒənsi/",
+   "pos": "n",
+   "vi": "cấp cứu",
+   "ex": "Call the emergency line if symptoms worsen.",
+   "exVi": "Gọi đường dây cấp cứu nếu triệu chứng nặng lên.",
+   "col": [
+    "a medical emergency",
+    "an emergency room"
+   ]
+  },
+  {
+   "id": "me078",
+   "topic": "Y tế & sức khoẻ",
+   "w": "ambulance",
+   "ipa": "/ˈæmbjələns/",
+   "pos": "n",
+   "vi": "xe cấp cứu",
+   "ex": "An ambulance arrived within ten minutes.",
+   "exVi": "Một xe cấp cứu tới trong mười phút.",
+   "col": [
+    "call an ambulance",
+    "an ambulance crew"
+   ]
+  },
+  {
+   "id": "me079",
+   "topic": "Y tế & sức khoẻ",
+   "w": "paramedic",
+   "ipa": "/ˌpærəˈmedɪk/",
+   "pos": "n",
+   "vi": "nhân viên y tế cấp cứu",
+   "ex": "A paramedic gave first aid at the scene.",
+   "exVi": "Một nhân viên y tế cấp cứu sơ cứu tại hiện trường.",
+   "col": [
+    "a trained paramedic",
+    "a paramedic team"
+   ]
+  },
+  {
+   "id": "me080",
+   "topic": "Y tế & sức khoẻ",
+   "w": "first aid",
+   "ipa": "/ˌfɜːst ˈeɪd/",
+   "pos": "n",
+   "vi": "sơ cứu",
+   "ex": "Every floor has a first aid kit.",
+   "exVi": "Mỗi tầng có một bộ sơ cứu.",
+   "col": [
+    "first aid",
+    "a first aid kit"
+   ]
+  },
+  {
+   "id": "me081",
+   "topic": "Y tế & sức khoẻ",
+   "w": "triage",
+   "ipa": "/ˈtriːɑːʒ/",
+   "pos": "n",
+   "vi": "phân loại cấp cứu",
+   "ex": "Triage decides which patients are seen first.",
+   "exVi": "Phân loại cấp cứu quyết định bệnh nhân nào được khám trước.",
+   "col": [
+    "a triage nurse",
+    "the triage process"
+   ]
+  },
+  {
+   "id": "me082",
+   "topic": "Y tế & sức khoẻ",
+   "w": "monitor",
+   "ipa": "/ˈmɒnɪtə/",
+   "pos": "v",
+   "vi": "theo dõi",
+   "ex": "Nurses monitor the patient's heart rate closely.",
+   "exVi": "Y tá theo dõi nhịp tim bệnh nhân sát sao.",
+   "col": [
+    "monitor a patient",
+    "monitor progress"
+   ]
+  },
+  {
+   "id": "me083",
+   "topic": "Y tế & sức khoẻ",
+   "w": "stabilize",
+   "ipa": "/ˈsteɪbəlaɪz/",
+   "pos": "v",
+   "vi": "ổn định",
+   "ex": "The team worked to stabilize the patient.",
+   "exVi": "Đội y tế cố gắng ổn định tình trạng bệnh nhân.",
+   "col": [
+    "stabilize a patient",
+    "stabilize a condition"
+   ]
+  },
+  {
+   "id": "me084",
+   "topic": "Y tế & sức khoẻ",
+   "w": "rehabilitation",
+   "ipa": "/ˌriːəbɪlɪˈteɪʃn/",
+   "pos": "n",
+   "vi": "phục hồi chức năng",
+   "ex": "Rehabilitation lasted three months after the injury.",
+   "exVi": "Phục hồi chức năng kéo dài ba tháng sau chấn thương.",
+   "col": [
+    "physical rehabilitation",
+    "a rehabilitation programme"
+   ]
+  },
+  {
+   "id": "me085",
+   "topic": "Y tế & sức khoẻ",
+   "w": "physiotherapy",
+   "ipa": "/ˌfɪziəʊˈθerəpi/",
+   "pos": "n",
+   "vi": "vật lý trị liệu",
+   "ex": "Physiotherapy restored strength to her leg.",
+   "exVi": "Vật lý trị liệu phục hồi sức mạnh cho chân bà.",
+   "col": [
+    "physiotherapy sessions",
+    "undergo physiotherapy"
+   ]
+  },
+  {
+   "id": "me086",
+   "topic": "Y tế & sức khoẻ",
+   "w": "disability",
+   "ipa": "/ˌdɪsəˈbɪləti/",
+   "pos": "n",
+   "vi": "khuyết tật",
+   "ex": "The building is fully accessible to people with a disability.",
+   "exVi": "Toà nhà tiếp cận đầy đủ cho người khuyết tật.",
+   "col": [
+    "a physical disability",
+    "a disability benefit"
+   ]
+  },
+  {
+   "id": "me087",
+   "topic": "Y tế & sức khoẻ",
+   "w": "condition",
+   "ipa": "/kənˈdɪʃn/",
+   "pos": "n",
+   "vi": "tình trạng bệnh",
+   "ex": "Her condition improved after the new treatment.",
+   "exVi": "Tình trạng bệnh của bà cải thiện sau đợt điều trị mới.",
+   "col": [
+    "a serious condition",
+    "a stable condition"
+   ]
+  },
+  {
+   "id": "me088",
+   "topic": "Y tế & sức khoẻ",
+   "w": "contagion",
+   "ipa": "/kənˈteɪdʒən/",
+   "pos": "n",
+   "vi": "sự lây lan",
+   "ex": "Isolation limits the contagion within a ward.",
+   "exVi": "Cách ly hạn chế sự lây lan trong khu điều trị.",
+   "col": [
+    "risk of contagion",
+    "prevent contagion"
+   ]
+  },
+  {
+   "id": "me089",
+   "topic": "Y tế & sức khoẻ",
+   "w": "quarantine",
+   "ipa": "/ˈkwɒrəntiːn/",
+   "pos": "n, v",
+   "vi": "cách ly",
+   "ex": "Travellers were placed in quarantine for a week.",
+   "exVi": "Khách du lịch được cách ly một tuần.",
+   "col": [
+    "in quarantine",
+    "a quarantine period"
+   ]
+  },
+  {
+   "id": "me090",
+   "topic": "Y tế & sức khoẻ",
+   "w": "epidemic",
+   "ipa": "/ˌepɪˈdemɪk/",
+   "pos": "n",
+   "vi": "dịch bệnh",
+   "ex": "The clinic prepared for a possible flu epidemic.",
+   "exVi": "Phòng khám chuẩn bị cho một đợt dịch cúm có thể xảy ra.",
+   "col": [
+    "a flu epidemic",
+    "an epidemic outbreak"
+   ]
+  },
+  {
+   "id": "me091",
+   "topic": "Y tế & sức khoẻ",
+   "w": "outbreak",
+   "ipa": "/ˈaʊtbreɪk/",
+   "pos": "n",
+   "vi": "đợt bùng phát",
+   "ex": "An outbreak was contained within a few days.",
+   "exVi": "Một đợt bùng phát được khống chế trong vài ngày.",
+   "col": [
+    "a disease outbreak",
+    "contain an outbreak"
+   ]
+  },
+  {
+   "id": "me092",
+   "topic": "Y tế & sức khoẻ",
+   "w": "sterile",
+   "ipa": "/ˈsteraɪl/",
+   "pos": "adj",
+   "vi": "vô trùng",
+   "ex": "All instruments must be kept sterile.",
+   "exVi": "Mọi dụng cụ phải được giữ vô trùng.",
+   "col": [
+    "a sterile environment",
+    "a sterile needle"
+   ]
+  },
+  {
+   "id": "me093",
+   "topic": "Y tế & sức khoẻ",
+   "w": "dispensary",
+   "ipa": "/dɪˈspensəri/",
+   "pos": "n",
+   "vi": "quầy phát thuốc",
+   "ex": "Collect your medicine from the dispensary.",
+   "exVi": "Nhận thuốc của bạn ở quầy phát thuốc.",
+   "col": [
+    "a hospital dispensary",
+    "a dispensary window"
+   ]
+  },
+  {
+   "id": "me094",
+   "topic": "Y tế & sức khoẻ",
+   "w": "practitioner",
+   "ipa": "/prækˈtɪʃənə/",
+   "pos": "n",
+   "vi": "người hành nghề y",
+   "ex": "A general practitioner handles everyday health problems.",
+   "exVi": "Bác sĩ đa khoa xử lý các vấn đề sức khoẻ thường ngày.",
+   "col": [
+    "a general practitioner",
+    "a medical practitioner"
+   ]
+  },
+  {
+   "id": "me095",
+   "topic": "Y tế & sức khoẻ",
+   "w": "ophthalmologist",
+   "ipa": "/ˌɒfθælˈmɒlədʒɪst/",
+   "pos": "n",
+   "vi": "bác sĩ nhãn khoa",
+   "ex": "The ophthalmologist tested her eyesight thoroughly.",
+   "exVi": "Bác sĩ nhãn khoa kiểm tra thị lực của bà kỹ lưỡng.",
+   "col": [
+    "see an ophthalmologist",
+    "a leading ophthalmologist"
+   ]
+  }
+ ]
+}

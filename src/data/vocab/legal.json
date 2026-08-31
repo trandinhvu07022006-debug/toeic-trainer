@@ -1,0 +1,1279 @@
+{
+ "topic": "Pháp lý",
+ "words": [
+  {
+   "id": "lg001",
+   "topic": "Pháp lý",
+   "w": "attorney",
+   "ipa": "/əˈtɜːni/",
+   "pos": "n",
+   "vi": "luật sư",
+   "ex": "The attorney reviewed the contract before signing.",
+   "exVi": "Luật sư rà soát hợp đồng trước khi ký.",
+   "col": [
+    "a defense attorney",
+    "consult an attorney"
+   ]
+  },
+  {
+   "id": "lg002",
+   "topic": "Pháp lý",
+   "w": "lawyer",
+   "ipa": "/ˈlɔːjə/",
+   "pos": "n",
+   "vi": "luật sư",
+   "ex": "A lawyer advised the firm on the merger.",
+   "exVi": "Một luật sư tư vấn cho công ty về vụ sáp nhập.",
+   "col": [
+    "a corporate lawyer",
+    "hire a lawyer"
+   ]
+  },
+  {
+   "id": "lg003",
+   "topic": "Pháp lý",
+   "w": "counsel",
+   "ipa": "/ˈkaʊnsl/",
+   "pos": "n",
+   "vi": "cố vấn pháp lý",
+   "ex": "Legal counsel recommended settling out of court.",
+   "exVi": "Cố vấn pháp lý khuyên dàn xếp ngoài toà.",
+   "col": [
+    "legal counsel",
+    "seek counsel"
+   ]
+  },
+  {
+   "id": "lg004",
+   "topic": "Pháp lý",
+   "w": "litigation",
+   "ipa": "/ˌlɪtɪˈɡeɪʃn/",
+   "pos": "n",
+   "vi": "kiện tụng",
+   "ex": "The dispute ended in costly litigation.",
+   "exVi": "Tranh chấp kết thúc bằng vụ kiện tụng tốn kém.",
+   "col": [
+    "costly litigation",
+    "avoid litigation"
+   ]
+  },
+  {
+   "id": "lg005",
+   "topic": "Pháp lý",
+   "w": "plaintiff",
+   "ipa": "/ˈpleɪntɪf/",
+   "pos": "n",
+   "vi": "nguyên đơn",
+   "ex": "The plaintiff sought damages for the delay.",
+   "exVi": "Nguyên đơn đòi bồi thường cho sự chậm trễ.",
+   "col": [
+    "the plaintiff",
+    "represent the plaintiff"
+   ]
+  },
+  {
+   "id": "lg006",
+   "topic": "Pháp lý",
+   "w": "defendant",
+   "ipa": "/dɪˈfendənt/",
+   "pos": "n",
+   "vi": "bị đơn",
+   "ex": "The defendant denied all the charges.",
+   "exVi": "Bị đơn phủ nhận mọi cáo buộc.",
+   "col": [
+    "the defendant",
+    "a corporate defendant"
+   ]
+  },
+  {
+   "id": "lg007",
+   "topic": "Pháp lý",
+   "w": "testimony",
+   "ipa": "/ˈtestɪməni/",
+   "pos": "n",
+   "vi": "lời khai",
+   "ex": "Her testimony was crucial to the case.",
+   "exVi": "Lời khai của bà là then chốt cho vụ án.",
+   "col": [
+    "give testimony",
+    "expert testimony"
+   ]
+  },
+  {
+   "id": "lg008",
+   "topic": "Pháp lý",
+   "w": "evidence",
+   "ipa": "/ˈevɪdəns/",
+   "pos": "n",
+   "vi": "bằng chứng",
+   "ex": "The evidence supported the company's claim.",
+   "exVi": "Bằng chứng ủng hộ tuyên bố của công ty.",
+   "col": [
+    "strong evidence",
+    "present evidence"
+   ]
+  },
+  {
+   "id": "lg009",
+   "topic": "Pháp lý",
+   "w": "verdict",
+   "ipa": "/ˈvɜːdɪkt/",
+   "pos": "n",
+   "vi": "phán quyết",
+   "ex": "The court reached a verdict within a week.",
+   "exVi": "Toà đưa ra phán quyết trong một tuần.",
+   "col": [
+    "reach a verdict",
+    "a guilty verdict"
+   ]
+  },
+  {
+   "id": "lg010",
+   "topic": "Pháp lý",
+   "w": "ruling",
+   "ipa": "/ˈruːlɪŋ/",
+   "pos": "n",
+   "vi": "phán quyết của toà",
+   "ex": "The ruling favoured the smaller company.",
+   "exVi": "Phán quyết có lợi cho công ty nhỏ hơn.",
+   "col": [
+    "a court ruling",
+    "overturn a ruling"
+   ]
+  },
+  {
+   "id": "lg011",
+   "topic": "Pháp lý",
+   "w": "appeal",
+   "ipa": "/əˈpiːl/",
+   "pos": "n, v",
+   "vi": "kháng cáo",
+   "ex": "The firm filed an appeal against the decision.",
+   "exVi": "Công ty nộp kháng cáo chống lại quyết định.",
+   "col": [
+    "file an appeal",
+    "an appeal court"
+   ]
+  },
+  {
+   "id": "lg012",
+   "topic": "Pháp lý",
+   "w": "settlement",
+   "ipa": "/ˈsetlmənt/",
+   "pos": "n",
+   "vi": "dàn xếp",
+   "ex": "Both sides agreed to an out-of-court settlement.",
+   "exVi": "Cả hai bên đồng ý một dàn xếp ngoài toà.",
+   "col": [
+    "a legal settlement",
+    "reach a settlement"
+   ]
+  },
+  {
+   "id": "lg013",
+   "topic": "Pháp lý",
+   "w": "damages",
+   "ipa": "/ˈdæmɪdʒɪz/",
+   "pos": "n",
+   "vi": "khoản bồi thường thiệt hại",
+   "ex": "The court awarded substantial damages.",
+   "exVi": "Toà phán một khoản bồi thường lớn.",
+   "col": [
+    "award damages",
+    "claim damages"
+   ]
+  },
+  {
+   "id": "lg014",
+   "topic": "Pháp lý",
+   "w": "compensation",
+   "ipa": "/ˌkɒmpenˈseɪʃn/",
+   "pos": "n",
+   "vi": "khoản đền bù",
+   "ex": "The worker received compensation for the injury.",
+   "exVi": "Người lao động nhận đền bù cho chấn thương.",
+   "col": [
+    "claim compensation",
+    "a compensation payment"
+   ]
+  },
+  {
+   "id": "lg015",
+   "topic": "Pháp lý",
+   "w": "liable",
+   "ipa": "/ˈlaɪəbl/",
+   "pos": "adj",
+   "vi": "chịu trách nhiệm pháp lý",
+   "ex": "The company was found liable for the fault.",
+   "exVi": "Công ty bị xác định chịu trách nhiệm về lỗi.",
+   "col": [
+    "be liable for",
+    "held liable"
+   ]
+  },
+  {
+   "id": "lg016",
+   "topic": "Pháp lý",
+   "w": "negligence",
+   "ipa": "/ˈneɡlɪdʒəns/",
+   "pos": "n",
+   "vi": "sự cẩu thả",
+   "ex": "The case turned on proving negligence.",
+   "exVi": "Vụ án xoay quanh việc chứng minh sự cẩu thả.",
+   "col": [
+    "prove negligence",
+    "gross negligence"
+   ]
+  },
+  {
+   "id": "lg017",
+   "topic": "Pháp lý",
+   "w": "breach",
+   "ipa": "/briːtʃ/",
+   "pos": "n",
+   "vi": "sự vi phạm",
+   "ex": "A breach of the agreement led to the lawsuit.",
+   "exVi": "Một vi phạm thoả thuận dẫn tới vụ kiện.",
+   "col": [
+    "a breach of contract",
+    "a serious breach"
+   ]
+  },
+  {
+   "id": "lg018",
+   "topic": "Pháp lý",
+   "w": "statute",
+   "ipa": "/ˈstætʃuːt/",
+   "pos": "n",
+   "vi": "đạo luật",
+   "ex": "The statute sets a clear time limit for claims.",
+   "exVi": "Đạo luật đặt một thời hạn rõ ràng cho các yêu cầu.",
+   "col": [
+    "a federal statute",
+    "under the statute"
+   ]
+  },
+  {
+   "id": "lg019",
+   "topic": "Pháp lý",
+   "w": "legislation",
+   "ipa": "/ˌledʒɪsˈleɪʃn/",
+   "pos": "n",
+   "vi": "luật pháp",
+   "ex": "New legislation tightened the safety rules.",
+   "exVi": "Luật mới siết chặt các quy tắc an toàn.",
+   "col": [
+    "new legislation",
+    "pass legislation"
+   ]
+  },
+  {
+   "id": "lg020",
+   "topic": "Pháp lý",
+   "w": "regulation",
+   "ipa": "/ˌreɡjuˈleɪʃn/",
+   "pos": "n",
+   "vi": "quy định",
+   "ex": "The regulation applies to all financial firms.",
+   "exVi": "Quy định áp dụng cho mọi công ty tài chính.",
+   "col": [
+    "a strict regulation",
+    "comply with regulation"
+   ]
+  },
+  {
+   "id": "lg021",
+   "topic": "Pháp lý",
+   "w": "compliance",
+   "ipa": "/kəmˈplaɪəns/",
+   "pos": "n",
+   "vi": "sự tuân thủ",
+   "ex": "The audit checked compliance with the law.",
+   "exVi": "Cuộc kiểm toán kiểm tra sự tuân thủ pháp luật.",
+   "col": [
+    "legal compliance",
+    "ensure compliance"
+   ]
+  },
+  {
+   "id": "lg022",
+   "topic": "Pháp lý",
+   "w": "jurisdiction",
+   "ipa": "/ˌdʒʊərɪsˈdɪkʃn/",
+   "pos": "n",
+   "vi": "thẩm quyền",
+   "ex": "The case falls under federal jurisdiction.",
+   "exVi": "Vụ án thuộc thẩm quyền liên bang.",
+   "col": [
+    "legal jurisdiction",
+    "under the jurisdiction of"
+   ]
+  },
+  {
+   "id": "lg023",
+   "topic": "Pháp lý",
+   "w": "provision",
+   "ipa": "/prəˈvɪʒn/",
+   "pos": "n",
+   "vi": "điều khoản luật",
+   "ex": "A key provision protects the buyer's rights.",
+   "exVi": "Một điều khoản quan trọng bảo vệ quyền của người mua.",
+   "col": [
+    "a legal provision",
+    "a key provision"
+   ]
+  },
+  {
+   "id": "lg024",
+   "topic": "Pháp lý",
+   "w": "clause",
+   "ipa": "/klɔːz/",
+   "pos": "n",
+   "vi": "điều khoản",
+   "ex": "The clause limits the company's liability.",
+   "exVi": "Điều khoản giới hạn trách nhiệm của công ty.",
+   "col": [
+    "a legal clause",
+    "a penalty clause"
+   ]
+  },
+  {
+   "id": "lg025",
+   "topic": "Pháp lý",
+   "w": "enact",
+   "ipa": "/ɪˈnækt/",
+   "pos": "v",
+   "vi": "ban hành",
+   "ex": "The law was enacted last September.",
+   "exVi": "Luật được ban hành vào tháng Chín năm ngoái.",
+   "col": [
+    "enact a law",
+    "enact legislation"
+   ]
+  },
+  {
+   "id": "lg026",
+   "topic": "Pháp lý",
+   "w": "enforce",
+   "ipa": "/ɪnˈfɔːs/",
+   "pos": "v",
+   "vi": "thực thi",
+   "ex": "Authorities enforce the rule strictly.",
+   "exVi": "Cơ quan chức năng thực thi quy tắc một cách nghiêm ngặt.",
+   "col": [
+    "enforce a law",
+    "strictly enforce"
+   ]
+  },
+  {
+   "id": "lg027",
+   "topic": "Pháp lý",
+   "w": "prohibit",
+   "ipa": "/prəˈhɪbɪt/",
+   "pos": "v",
+   "vi": "cấm",
+   "ex": "The law prohibits the sale of these goods.",
+   "exVi": "Luật cấm bán những mặt hàng này.",
+   "col": [
+    "prohibit the use",
+    "strictly prohibit"
+   ]
+  },
+  {
+   "id": "lg028",
+   "topic": "Pháp lý",
+   "w": "mandate",
+   "ipa": "/ˈmændeɪt/",
+   "pos": "n, v",
+   "vi": "yêu cầu bắt buộc",
+   "ex": "The rules mandate annual safety checks.",
+   "exVi": "Quy tắc yêu cầu bắt buộc kiểm tra an toàn hằng năm.",
+   "col": [
+    "mandate a rule",
+    "a legal mandate"
+   ]
+  },
+  {
+   "id": "lg029",
+   "topic": "Pháp lý",
+   "w": "waiver",
+   "ipa": "/ˈweɪvə/",
+   "pos": "n",
+   "vi": "sự miễn trừ",
+   "ex": "Guests sign a waiver before the activity.",
+   "exVi": "Khách ký một giấy miễn trừ trước hoạt động.",
+   "col": [
+    "sign a waiver",
+    "a liability waiver"
+   ]
+  },
+  {
+   "id": "lg030",
+   "topic": "Pháp lý",
+   "w": "consent",
+   "ipa": "/kənˈsent/",
+   "pos": "n",
+   "vi": "sự đồng ý",
+   "ex": "Written consent is required before the transfer.",
+   "exVi": "Cần có sự đồng ý bằng văn bản trước khi chuyển nhượng.",
+   "col": [
+    "written consent",
+    "give consent"
+   ]
+  },
+  {
+   "id": "lg031",
+   "topic": "Pháp lý",
+   "w": "notarize",
+   "ipa": "/ˈnəʊtəraɪz/",
+   "pos": "v",
+   "vi": "công chứng",
+   "ex": "The document must be notarized before filing.",
+   "exVi": "Tài liệu phải được công chứng trước khi nộp.",
+   "col": [
+    "notarize a document",
+    "a notarized copy"
+   ]
+  },
+  {
+   "id": "lg032",
+   "topic": "Pháp lý",
+   "w": "affidavit",
+   "ipa": "/ˌæfɪˈdeɪvɪt/",
+   "pos": "n",
+   "vi": "bản khai có tuyên thệ",
+   "ex": "She signed an affidavit describing the events.",
+   "exVi": "Bà ký một bản khai có tuyên thệ mô tả sự việc.",
+   "col": [
+    "sign an affidavit",
+    "a sworn affidavit"
+   ]
+  },
+  {
+   "id": "lg033",
+   "topic": "Pháp lý",
+   "w": "subpoena",
+   "ipa": "/səˈpiːnə/",
+   "pos": "n",
+   "vi": "trát đòi hầu toà",
+   "ex": "The witness received a subpoena to appear.",
+   "exVi": "Nhân chứng nhận một trát đòi hầu toà.",
+   "col": [
+    "issue a subpoena",
+    "serve a subpoena"
+   ]
+  },
+  {
+   "id": "lg034",
+   "topic": "Pháp lý",
+   "w": "injunction",
+   "ipa": "/ɪnˈdʒʌŋkʃn/",
+   "pos": "n",
+   "vi": "lệnh cấm của toà",
+   "ex": "The court granted an injunction to stop the work.",
+   "exVi": "Toà ra một lệnh cấm để dừng công việc.",
+   "col": [
+    "grant an injunction",
+    "seek an injunction"
+   ]
+  },
+  {
+   "id": "lg035",
+   "topic": "Pháp lý",
+   "w": "tribunal",
+   "ipa": "/traɪˈbjuːnl/",
+   "pos": "n",
+   "vi": "hội đồng xét xử",
+   "ex": "The tribunal heard the case over two days.",
+   "exVi": "Hội đồng xét xử nghe vụ án trong hai ngày.",
+   "col": [
+    "an employment tribunal",
+    "a tribunal hearing"
+   ]
+  },
+  {
+   "id": "lg036",
+   "topic": "Pháp lý",
+   "w": "arbitration",
+   "ipa": "/ˌɑːbɪˈtreɪʃn/",
+   "pos": "n",
+   "vi": "trọng tài phân xử",
+   "ex": "The parties chose arbitration over a trial.",
+   "exVi": "Các bên chọn trọng tài phân xử thay vì xét xử.",
+   "col": [
+    "binding arbitration",
+    "go to arbitration"
+   ]
+  },
+  {
+   "id": "lg037",
+   "topic": "Pháp lý",
+   "w": "mediation",
+   "ipa": "/ˌmiːdiˈeɪʃn/",
+   "pos": "n",
+   "vi": "hoà giải",
+   "ex": "Mediation resolved the dispute quickly.",
+   "exVi": "Hoà giải giải quyết tranh chấp nhanh chóng.",
+   "col": [
+    "through mediation",
+    "enter mediation"
+   ]
+  },
+  {
+   "id": "lg038",
+   "topic": "Pháp lý",
+   "w": "proceedings",
+   "ipa": "/prəˈsiːdɪŋz/",
+   "pos": "n",
+   "vi": "thủ tục tố tụng",
+   "ex": "Legal proceedings began earlier this year.",
+   "exVi": "Thủ tục tố tụng bắt đầu đầu năm nay.",
+   "col": [
+    "legal proceedings",
+    "court proceedings"
+   ]
+  },
+  {
+   "id": "lg039",
+   "topic": "Pháp lý",
+   "w": "allegation",
+   "ipa": "/ˌælɪˈɡeɪʃn/",
+   "pos": "n",
+   "vi": "cáo buộc",
+   "ex": "The firm denied the allegation of fraud.",
+   "exVi": "Công ty phủ nhận cáo buộc gian lận.",
+   "col": [
+    "a serious allegation",
+    "deny an allegation"
+   ]
+  },
+  {
+   "id": "lg040",
+   "topic": "Pháp lý",
+   "w": "prosecute",
+   "ipa": "/ˈprɒsɪkjuːt/",
+   "pos": "v",
+   "vi": "truy tố",
+   "ex": "Offenders will be prosecuted under the new law.",
+   "exVi": "Người vi phạm sẽ bị truy tố theo luật mới.",
+   "col": [
+    "prosecute a case",
+    "prosecute an offender"
+   ]
+  },
+  {
+   "id": "lg041",
+   "topic": "Pháp lý",
+   "w": "indemnify",
+   "ipa": "/ɪnˈdemnɪfaɪ/",
+   "pos": "v",
+   "vi": "bồi thường bảo đảm",
+   "ex": "The supplier agreed to indemnify the buyer.",
+   "exVi": "Nhà cung cấp đồng ý bồi thường bảo đảm cho người mua.",
+   "col": [
+    "indemnify against loss",
+    "indemnify a party"
+   ]
+  },
+  {
+   "id": "lg042",
+   "topic": "Pháp lý",
+   "w": "binding",
+   "ipa": "/ˈbaɪndɪŋ/",
+   "pos": "adj",
+   "vi": "có tính ràng buộc",
+   "ex": "The decision is binding on both parties.",
+   "exVi": "Quyết định có tính ràng buộc với cả hai bên.",
+   "col": [
+    "legally binding",
+    "a binding ruling"
+   ]
+  },
+  {
+   "id": "lg043",
+   "topic": "Pháp lý",
+   "w": "statutory",
+   "ipa": "/ˈstætʃətri/",
+   "pos": "adj",
+   "vi": "theo luật định",
+   "ex": "Staff are entitled to statutory sick pay.",
+   "exVi": "Nhân viên được hưởng tiền nghỉ ốm theo luật định.",
+   "col": [
+    "statutory rights",
+    "a statutory requirement"
+   ]
+  },
+  {
+   "id": "lg044",
+   "topic": "Pháp lý",
+   "w": "lawful",
+   "ipa": "/ˈlɔːfl/",
+   "pos": "adj",
+   "vi": "hợp pháp",
+   "ex": "The company acted within its lawful rights.",
+   "exVi": "Công ty hành động trong phạm vi quyền hợp pháp của mình.",
+   "col": [
+    "a lawful act",
+    "lawful conduct"
+   ]
+  },
+  {
+   "id": "lg045",
+   "topic": "Pháp lý",
+   "w": "unlawful",
+   "ipa": "/ʌnˈlɔːfl/",
+   "pos": "adj",
+   "vi": "trái pháp luật",
+   "ex": "The dismissal was ruled unlawful.",
+   "exVi": "Việc sa thải bị phán là trái pháp luật.",
+   "col": [
+    "unlawful conduct",
+    "an unlawful act"
+   ]
+  },
+  {
+   "id": "lg046",
+   "topic": "Pháp lý",
+   "w": "counsel's",
+   "ipa": "/ˈkaʊnslz/",
+   "pos": "n",
+   "vi": "của cố vấn pháp lý",
+   "ex": "Counsel's advice shaped the final agreement.",
+   "exVi": "Lời khuyên của cố vấn pháp lý định hình thoả thuận cuối.",
+   "col": [
+    "counsel's opinion",
+    "counsel's advice"
+   ]
+  },
+  {
+   "id": "lg047",
+   "topic": "Pháp lý",
+   "w": "patent",
+   "ipa": "/ˈpætnt/",
+   "pos": "n",
+   "vi": "bằng sáng chế",
+   "ex": "The company holds a patent on the design.",
+   "exVi": "Công ty giữ một bằng sáng chế cho thiết kế.",
+   "col": [
+    "file a patent",
+    "a patent application"
+   ]
+  },
+  {
+   "id": "lg048",
+   "topic": "Pháp lý",
+   "w": "trademark",
+   "ipa": "/ˈtreɪdmɑːk/",
+   "pos": "n",
+   "vi": "nhãn hiệu",
+   "ex": "The logo is a registered trademark.",
+   "exVi": "Biểu trưng là một nhãn hiệu đã đăng ký.",
+   "col": [
+    "a registered trademark",
+    "infringe a trademark"
+   ]
+  },
+  {
+   "id": "lg049",
+   "topic": "Pháp lý",
+   "w": "copyright",
+   "ipa": "/ˈkɒpiraɪt/",
+   "pos": "n",
+   "vi": "bản quyền",
+   "ex": "All the content is protected by copyright.",
+   "exVi": "Toàn bộ nội dung được bảo vệ bản quyền.",
+   "col": [
+    "hold the copyright",
+    "copyright infringement"
+   ]
+  },
+  {
+   "id": "lg050",
+   "topic": "Pháp lý",
+   "w": "infringement",
+   "ipa": "/ɪnˈfrɪndʒmənt/",
+   "pos": "n",
+   "vi": "sự vi phạm quyền",
+   "ex": "The lawsuit claimed patent infringement.",
+   "exVi": "Vụ kiện cáo buộc vi phạm bằng sáng chế.",
+   "col": [
+    "copyright infringement",
+    "a clear infringement"
+   ]
+  },
+  {
+   "id": "lg051",
+   "topic": "Pháp lý",
+   "w": "intellectual property",
+   "ipa": "/ˌɪntəlektʃuəl ˈprɒpəti/",
+   "pos": "n",
+   "vi": "sở hữu trí tuệ",
+   "ex": "The firm guards its intellectual property closely.",
+   "exVi": "Công ty bảo vệ sở hữu trí tuệ của mình chặt chẽ.",
+   "col": [
+    "intellectual property rights",
+    "protect intellectual property"
+   ]
+  },
+  {
+   "id": "lg052",
+   "topic": "Pháp lý",
+   "w": "proprietary",
+   "ipa": "/prəˈpraɪətri/",
+   "pos": "adj",
+   "vi": "thuộc sở hữu độc quyền",
+   "ex": "The formula is proprietary and confidential.",
+   "exVi": "Công thức thuộc sở hữu độc quyền và bảo mật.",
+   "col": [
+    "proprietary information",
+    "a proprietary product"
+   ]
+  },
+  {
+   "id": "lg053",
+   "topic": "Pháp lý",
+   "w": "confidential",
+   "ipa": "/ˌkɒnfɪˈdenʃl/",
+   "pos": "adj",
+   "vi": "bảo mật",
+   "ex": "The terms of the deal are confidential.",
+   "exVi": "Các điều khoản của thoả thuận là bảo mật.",
+   "col": [
+    "strictly confidential",
+    "confidential information"
+   ]
+  },
+  {
+   "id": "lg054",
+   "topic": "Pháp lý",
+   "w": "disclosure",
+   "ipa": "/dɪsˈkləʊʒə/",
+   "pos": "n",
+   "vi": "sự tiết lộ",
+   "ex": "Full disclosure is required before the sale.",
+   "exVi": "Cần tiết lộ đầy đủ trước khi bán.",
+   "col": [
+    "full disclosure",
+    "a disclosure agreement"
+   ]
+  },
+  {
+   "id": "lg055",
+   "topic": "Pháp lý",
+   "w": "nondisclosure",
+   "ipa": "/ˌnɒndɪsˈkləʊʒə/",
+   "pos": "n",
+   "vi": "không tiết lộ",
+   "ex": "Staff sign a nondisclosure agreement on day one.",
+   "exVi": "Nhân viên ký một thoả thuận không tiết lộ ngay ngày đầu.",
+   "col": [
+    "a nondisclosure agreement",
+    "sign a nondisclosure"
+   ]
+  },
+  {
+   "id": "lg056",
+   "topic": "Pháp lý",
+   "w": "license",
+   "ipa": "/ˈlaɪsns/",
+   "pos": "n",
+   "vi": "giấy phép",
+   "ex": "The firm holds a license to sell the product.",
+   "exVi": "Công ty có giấy phép bán sản phẩm.",
+   "col": [
+    "a business license",
+    "a valid license"
+   ]
+  },
+  {
+   "id": "lg057",
+   "topic": "Pháp lý",
+   "w": "permit",
+   "ipa": "/ˈpɜːmɪt/",
+   "pos": "n",
+   "vi": "giấy phép",
+   "ex": "An operating permit is renewed each year.",
+   "exVi": "Giấy phép hoạt động được gia hạn hằng năm.",
+   "col": [
+    "an operating permit",
+    "apply for a permit"
+   ]
+  },
+  {
+   "id": "lg058",
+   "topic": "Pháp lý",
+   "w": "comply with",
+   "ipa": "/kəmˈplaɪ wɪð/",
+   "pos": "v",
+   "vi": "tuân thủ",
+   "ex": "All branches must comply with the new rule.",
+   "exVi": "Mọi chi nhánh phải tuân thủ quy tắc mới.",
+   "col": [
+    "comply with the law",
+    "fully comply with"
+   ]
+  },
+  {
+   "id": "lg059",
+   "topic": "Pháp lý",
+   "w": "violate",
+   "ipa": "/ˈvaɪəleɪt/",
+   "pos": "v",
+   "vi": "vi phạm",
+   "ex": "The firm was fined for violating the rule.",
+   "exVi": "Công ty bị phạt vì vi phạm quy tắc.",
+   "col": [
+    "violate a law",
+    "violate the terms"
+   ]
+  },
+  {
+   "id": "lg060",
+   "topic": "Pháp lý",
+   "w": "violation",
+   "ipa": "/ˌvaɪəˈleɪʃn/",
+   "pos": "n",
+   "vi": "sự vi phạm",
+   "ex": "A safety violation led to a heavy fine.",
+   "exVi": "Một vi phạm an toàn dẫn tới khoản phạt nặng.",
+   "col": [
+    "a safety violation",
+    "a serious violation"
+   ]
+  },
+  {
+   "id": "lg061",
+   "topic": "Pháp lý",
+   "w": "penalty",
+   "ipa": "/ˈpenəlti/",
+   "pos": "n",
+   "vi": "hình phạt",
+   "ex": "The penalty for late filing is significant.",
+   "exVi": "Hình phạt cho việc nộp muộn khá lớn.",
+   "col": [
+    "a penalty fee",
+    "impose a penalty"
+   ]
+  },
+  {
+   "id": "lg062",
+   "topic": "Pháp lý",
+   "w": "fine",
+   "ipa": "/faɪn/",
+   "pos": "n, v",
+   "vi": "tiền phạt",
+   "ex": "The company paid a large fine for the breach.",
+   "exVi": "Công ty trả một khoản phạt lớn cho vi phạm.",
+   "col": [
+    "a heavy fine",
+    "impose a fine"
+   ]
+  },
+  {
+   "id": "lg063",
+   "topic": "Pháp lý",
+   "w": "sanction",
+   "ipa": "/ˈsæŋkʃn/",
+   "pos": "n",
+   "vi": "chế tài",
+   "ex": "Trade sanctions limited the firm's exports.",
+   "exVi": "Các chế tài thương mại hạn chế xuất khẩu của công ty.",
+   "col": [
+    "impose sanctions",
+    "lift sanctions"
+   ]
+  },
+  {
+   "id": "lg064",
+   "topic": "Pháp lý",
+   "w": "audit trail",
+   "ipa": "/ˈɔːdɪt treɪl/",
+   "pos": "n",
+   "vi": "dấu vết kiểm toán",
+   "ex": "A clear audit trail supports every transaction.",
+   "exVi": "Một dấu vết kiểm toán rõ ràng chứng minh mọi giao dịch.",
+   "col": [
+    "an audit trail",
+    "maintain an audit trail"
+   ]
+  },
+  {
+   "id": "lg065",
+   "topic": "Pháp lý",
+   "w": "due diligence",
+   "ipa": "/djuː ˈdɪlɪdʒəns/",
+   "pos": "n",
+   "vi": "thẩm định pháp lý",
+   "ex": "Due diligence uncovered several hidden debts.",
+   "exVi": "Việc thẩm định pháp lý phát hiện vài khoản nợ ẩn.",
+   "col": [
+    "carry out due diligence",
+    "due diligence checks"
+   ]
+  },
+  {
+   "id": "lg066",
+   "topic": "Pháp lý",
+   "w": "governance",
+   "ipa": "/ˈɡʌvənəns/",
+   "pos": "n",
+   "vi": "quản trị",
+   "ex": "Strong governance protects shareholder interests.",
+   "exVi": "Quản trị vững mạnh bảo vệ lợi ích cổ đông.",
+   "col": [
+    "corporate governance",
+    "good governance"
+   ]
+  },
+  {
+   "id": "lg067",
+   "topic": "Pháp lý",
+   "w": "bylaw",
+   "ipa": "/ˈbaɪlɔː/",
+   "pos": "n",
+   "vi": "điều lệ, quy định nội bộ",
+   "ex": "Company bylaws set out how the board is elected.",
+   "exVi": "Điều lệ công ty quy định cách bầu hội đồng.",
+   "col": [
+    "company bylaws",
+    "amend a bylaw"
+   ]
+  },
+  {
+   "id": "lg068",
+   "topic": "Pháp lý",
+   "w": "provisionally",
+   "ipa": "/prəˈvɪʒənəli/",
+   "pos": "adv",
+   "vi": "một cách tạm thời",
+   "ex": "The deal was provisionally approved on Friday.",
+   "exVi": "Thoả thuận được phê duyệt tạm thời vào thứ Sáu.",
+   "col": [
+    "provisionally agreed",
+    "provisionally approved"
+   ]
+  },
+  {
+   "id": "lg069",
+   "topic": "Pháp lý",
+   "w": "amend",
+   "ipa": "/əˈmend/",
+   "pos": "v",
+   "vi": "sửa đổi",
+   "ex": "The board voted to amend the company rules.",
+   "exVi": "Hội đồng bỏ phiếu sửa đổi quy định công ty.",
+   "col": [
+    "amend a rule",
+    "amend the terms"
+   ]
+  },
+  {
+   "id": "lg070",
+   "topic": "Pháp lý",
+   "w": "ratify",
+   "ipa": "/ˈrætɪfaɪ/",
+   "pos": "v",
+   "vi": "phê chuẩn",
+   "ex": "Shareholders must ratify the new bylaw.",
+   "exVi": "Cổ đông phải phê chuẩn điều lệ mới.",
+   "col": [
+    "ratify an agreement",
+    "formally ratify"
+   ]
+  },
+  {
+   "id": "lg071",
+   "topic": "Pháp lý",
+   "w": "repeal",
+   "ipa": "/rɪˈpiːl/",
+   "pos": "v",
+   "vi": "bãi bỏ",
+   "ex": "The outdated rule was finally repealed.",
+   "exVi": "Quy tắc lỗi thời cuối cùng đã bị bãi bỏ.",
+   "col": [
+    "repeal a law",
+    "repeal legislation"
+   ]
+  },
+  {
+   "id": "lg072",
+   "topic": "Pháp lý",
+   "w": "uphold",
+   "ipa": "/ʌpˈhəʊld/",
+   "pos": "v",
+   "vi": "giữ nguyên, tán thành",
+   "ex": "The higher court chose to uphold the original ruling.",
+   "exVi": "Toà cấp cao chọn giữ nguyên phán quyết ban đầu.",
+   "col": [
+    "uphold a decision",
+    "uphold a ruling"
+   ]
+  },
+  {
+   "id": "lg073",
+   "topic": "Pháp lý",
+   "w": "overturn",
+   "ipa": "/ˌəʊvəˈtɜːn/",
+   "pos": "v",
+   "vi": "đảo ngược",
+   "ex": "The appeal court overturned the verdict.",
+   "exVi": "Toà kháng cáo đảo ngược phán quyết.",
+   "col": [
+    "overturn a ruling",
+    "overturn a decision"
+   ]
+  },
+  {
+   "id": "lg074",
+   "topic": "Pháp lý",
+   "w": "litigant",
+   "ipa": "/ˈlɪtɪɡənt/",
+   "pos": "n",
+   "vi": "đương sự trong vụ kiện",
+   "ex": "Both litigants agreed to mediation.",
+   "exVi": "Cả hai đương sự đồng ý hoà giải.",
+   "col": [
+    "a litigant",
+    "the losing litigant"
+   ]
+  },
+  {
+   "id": "lg075",
+   "topic": "Pháp lý",
+   "w": "deposition",
+   "ipa": "/ˌdepəˈzɪʃn/",
+   "pos": "n",
+   "vi": "lời khai ghi trước phiên toà",
+   "ex": "The deposition was recorded under oath.",
+   "exVi": "Lời khai được ghi lại dưới lời tuyên thệ.",
+   "col": [
+    "take a deposition",
+    "a sworn deposition"
+   ]
+  },
+  {
+   "id": "lg076",
+   "topic": "Pháp lý",
+   "w": "counterclaim",
+   "ipa": "/ˈkaʊntəkleɪm/",
+   "pos": "n",
+   "vi": "yêu cầu phản tố",
+   "ex": "The defendant filed a counterclaim for costs.",
+   "exVi": "Bị đơn nộp một yêu cầu phản tố về chi phí.",
+   "col": [
+    "file a counterclaim",
+    "a valid counterclaim"
+   ]
+  },
+  {
+   "id": "lg077",
+   "topic": "Pháp lý",
+   "w": "precedent",
+   "ipa": "/ˈpresɪdənt/",
+   "pos": "n",
+   "vi": "tiền lệ",
+   "ex": "The ruling set an important legal precedent.",
+   "exVi": "Phán quyết tạo một tiền lệ pháp lý quan trọng.",
+   "col": [
+    "set a precedent",
+    "a legal precedent"
+   ]
+  },
+  {
+   "id": "lg078",
+   "topic": "Pháp lý",
+   "w": "clause-by-clause",
+   "ipa": "/klɔːz baɪ klɔːz/",
+   "pos": "adj",
+   "vi": "theo từng điều khoản",
+   "ex": "The lawyers did a clause-by-clause review.",
+   "exVi": "Các luật sư rà soát theo từng điều khoản.",
+   "col": [
+    "a clause-by-clause review",
+    "clause-by-clause analysis"
+   ]
+  },
+  {
+   "id": "lg079",
+   "topic": "Pháp lý",
+   "w": "retainer",
+   "ipa": "/rɪˈteɪnə/",
+   "pos": "n",
+   "vi": "phí thuê luật sư định kỳ",
+   "ex": "The firm pays the law office a monthly retainer.",
+   "exVi": "Công ty trả cho văn phòng luật một khoản phí định kỳ hằng tháng.",
+   "col": [
+    "pay a retainer",
+    "a legal retainer"
+   ]
+  },
+  {
+   "id": "lg080",
+   "topic": "Pháp lý",
+   "w": "draft",
+   "ipa": "/drɑːft/",
+   "pos": "n",
+   "vi": "bản thảo",
+   "ex": "The lawyer sent a draft of the agreement.",
+   "exVi": "Luật sư gửi một bản thảo của thoả thuận.",
+   "col": [
+    "a legal draft",
+    "a first draft"
+   ]
+  },
+  {
+   "id": "lg081",
+   "topic": "Pháp lý",
+   "w": "execute",
+   "ipa": "/ˈeksɪkjuːt/",
+   "pos": "v",
+   "vi": "ký kết chính thức",
+   "ex": "The deed was executed by both parties.",
+   "exVi": "Văn tự được cả hai bên ký kết chính thức.",
+   "col": [
+    "execute a document",
+    "a duly executed contract"
+   ]
+  },
+  {
+   "id": "lg082",
+   "topic": "Pháp lý",
+   "w": "notary",
+   "ipa": "/ˈnəʊtəri/",
+   "pos": "n",
+   "vi": "công chứng viên",
+   "ex": "A notary witnessed the signing of the deed.",
+   "exVi": "Một công chứng viên chứng kiến việc ký văn tự.",
+   "col": [
+    "a public notary",
+    "a notary's seal"
+   ]
+  },
+  {
+   "id": "lg083",
+   "topic": "Pháp lý",
+   "w": "testify",
+   "ipa": "/ˈtestɪfaɪ/",
+   "pos": "v",
+   "vi": "làm chứng",
+   "ex": "The manager will testify at the hearing.",
+   "exVi": "Quản lý sẽ làm chứng tại phiên điều trần.",
+   "col": [
+    "testify in court",
+    "testify against"
+   ]
+  },
+  {
+   "id": "lg084",
+   "topic": "Pháp lý",
+   "w": "hearing",
+   "ipa": "/ˈhɪərɪŋ/",
+   "pos": "n",
+   "vi": "phiên điều trần",
+   "ex": "The hearing was adjourned until next month.",
+   "exVi": "Phiên điều trần được hoãn tới tháng sau.",
+   "col": [
+    "a court hearing",
+    "a preliminary hearing"
+   ]
+  },
+  {
+   "id": "lg085",
+   "topic": "Pháp lý",
+   "w": "adjourn",
+   "ipa": "/əˈdʒɜːn/",
+   "pos": "v",
+   "vi": "hoãn phiên",
+   "ex": "The judge adjourned the case for two weeks.",
+   "exVi": "Thẩm phán hoãn vụ án hai tuần.",
+   "col": [
+    "adjourn a hearing",
+    "adjourn the court"
+   ]
+  },
+  {
+   "id": "lg086",
+   "topic": "Pháp lý",
+   "w": "custody",
+   "ipa": "/ˈkʌstədi/",
+   "pos": "n",
+   "vi": "sự giám hộ, tạm giữ",
+   "ex": "The documents are held in the lawyer's custody.",
+   "exVi": "Các tài liệu được giữ trong sự quản lý của luật sư.",
+   "col": [
+    "in custody",
+    "take into custody"
+   ]
+  },
+  {
+   "id": "lg087",
+   "topic": "Pháp lý",
+   "w": "liability clause",
+   "ipa": "/ˌlaɪəˈbɪləti klɔːz/",
+   "pos": "n",
+   "vi": "điều khoản trách nhiệm",
+   "ex": "The liability clause caps the firm's exposure.",
+   "exVi": "Điều khoản trách nhiệm giới hạn rủi ro của công ty.",
+   "col": [
+    "a liability clause",
+    "a strict liability clause"
+   ]
+  },
+  {
+   "id": "lg088",
+   "topic": "Pháp lý",
+   "w": "enforceable",
+   "ipa": "/ɪnˈfɔːsəbl/",
+   "pos": "adj",
+   "vi": "có thể thi hành",
+   "ex": "The contract is enforceable in both countries.",
+   "exVi": "Hợp đồng có thể thi hành ở cả hai nước.",
+   "col": [
+    "legally enforceable",
+    "an enforceable clause"
+   ]
+  },
+  {
+   "id": "lg089",
+   "topic": "Pháp lý",
+   "w": "lawsuit",
+   "ipa": "/ˈlɔːsuːt/",
+   "pos": "n",
+   "vi": "vụ kiện",
+   "ex": "The lawsuit was settled before it reached trial.",
+   "exVi": "Vụ kiện được dàn xếp trước khi ra xét xử.",
+   "col": [
+    "file a lawsuit",
+    "a costly lawsuit"
+   ]
+  },
+  {
+   "id": "lg090",
+   "topic": "Pháp lý",
+   "w": "statute of limitations",
+   "ipa": "/ˈstætʃuːt əv ˌlɪmɪˈteɪʃnz/",
+   "pos": "n",
+   "vi": "thời hiệu khởi kiện",
+   "ex": "The statute of limitations had already expired.",
+   "exVi": "Thời hiệu khởi kiện đã hết.",
+   "col": [
+    "the statute of limitations",
+    "beyond the statute of limitations"
+   ]
+  },
+  {
+   "id": "lg091",
+   "topic": "Pháp lý",
+   "w": "indemnity",
+   "ipa": "/ɪnˈdemnəti/",
+   "pos": "n",
+   "vi": "khoản bồi thường bảo đảm",
+   "ex": "The contract includes an indemnity clause.",
+   "exVi": "Hợp đồng có một điều khoản bồi thường bảo đảm.",
+   "col": [
+    "an indemnity clause",
+    "provide indemnity"
+   ]
+  }
+ ]
+}

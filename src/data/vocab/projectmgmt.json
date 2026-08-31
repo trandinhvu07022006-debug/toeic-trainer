@@ -1,0 +1,1125 @@
+{
+ "topic": "Quản lý dự án",
+ "words": [
+  {
+   "id": "pj001",
+   "topic": "Quản lý dự án",
+   "w": "project",
+   "ipa": "/ˈprɒdʒekt/",
+   "pos": "n",
+   "vi": "dự án",
+   "ex": "The project is due to finish in June.",
+   "exVi": "Dự án dự kiến hoàn thành vào tháng Sáu.",
+   "col": [
+    "a project",
+    "a major project"
+   ]
+  },
+  {
+   "id": "pj002",
+   "topic": "Quản lý dự án",
+   "w": "milestone",
+   "ipa": "/ˈmaɪlstəʊn/",
+   "pos": "n",
+   "vi": "cột mốc",
+   "ex": "The team reached an important milestone.",
+   "exVi": "Nhóm đạt một cột mốc quan trọng.",
+   "col": [
+    "a milestone",
+    "a key milestone"
+   ]
+  },
+  {
+   "id": "pj003",
+   "topic": "Quản lý dự án",
+   "w": "deliverable",
+   "ipa": "/dɪˈlɪvərəbl/",
+   "pos": "n",
+   "vi": "sản phẩm bàn giao",
+   "ex": "Each deliverable has a clear deadline.",
+   "exVi": "Mỗi sản phẩm bàn giao có một hạn chót rõ ràng.",
+   "col": [
+    "a deliverable",
+    "a key deliverable"
+   ]
+  },
+  {
+   "id": "pj004",
+   "topic": "Quản lý dự án",
+   "w": "scope",
+   "ipa": "/skəʊp/",
+   "pos": "n",
+   "vi": "phạm vi",
+   "ex": "The scope of the project was agreed early.",
+   "exVi": "Phạm vi của dự án được thống nhất sớm.",
+   "col": [
+    "scope",
+    "project scope"
+   ]
+  },
+  {
+   "id": "pj005",
+   "topic": "Quản lý dự án",
+   "w": "timeline",
+   "ipa": "/ˈtaɪmlaɪn/",
+   "pos": "n",
+   "vi": "dòng thời gian",
+   "ex": "The timeline shows every stage.",
+   "exVi": "Dòng thời gian cho thấy mọi giai đoạn.",
+   "col": [
+    "a timeline",
+    "a project timeline"
+   ]
+  },
+  {
+   "id": "pj006",
+   "topic": "Quản lý dự án",
+   "w": "schedule",
+   "ipa": "/ˈʃedjuːl/",
+   "pos": "n",
+   "vi": "lịch trình",
+   "ex": "The schedule was updated after the delay.",
+   "exVi": "Lịch trình được cập nhật sau sự chậm trễ.",
+   "col": [
+    "a schedule",
+    "a tight schedule"
+   ]
+  },
+  {
+   "id": "pj007",
+   "topic": "Quản lý dự án",
+   "w": "deadline",
+   "ipa": "/ˈdedlaɪn/",
+   "pos": "n",
+   "vi": "hạn chót",
+   "ex": "The team met the deadline with a day to spare.",
+   "exVi": "Nhóm kịp hạn chót còn dư một ngày.",
+   "col": [
+    "a deadline",
+    "meet a deadline"
+   ]
+  },
+  {
+   "id": "pj008",
+   "topic": "Quản lý dự án",
+   "w": "budget",
+   "ipa": "/ˈbʌdʒɪt/",
+   "pos": "n",
+   "vi": "ngân sách",
+   "ex": "The project stayed within budget.",
+   "exVi": "Dự án nằm trong ngân sách.",
+   "col": [
+    "a budget",
+    "a project budget"
+   ]
+  },
+  {
+   "id": "pj009",
+   "topic": "Quản lý dự án",
+   "w": "resource",
+   "ipa": "/rɪˈsɔːs/",
+   "pos": "n",
+   "vi": "nguồn lực",
+   "ex": "The plan lists every resource needed.",
+   "exVi": "Kế hoạch liệt kê mọi nguồn lực cần thiết.",
+   "col": [
+    "a resource",
+    "allocate resources"
+   ]
+  },
+  {
+   "id": "pj010",
+   "topic": "Quản lý dự án",
+   "w": "stakeholder",
+   "ipa": "/ˈsteɪkhəʊldə/",
+   "pos": "n",
+   "vi": "bên liên quan",
+   "ex": "Every stakeholder approved the plan.",
+   "exVi": "Mọi bên liên quan chấp thuận kế hoạch.",
+   "col": [
+    "a stakeholder",
+    "a key stakeholder"
+   ]
+  },
+  {
+   "id": "pj011",
+   "topic": "Quản lý dự án",
+   "w": "sponsor",
+   "ipa": "/ˈspɒnsə/",
+   "pos": "n",
+   "vi": "nhà bảo trợ dự án",
+   "ex": "The sponsor signed off on the budget.",
+   "exVi": "Nhà bảo trợ duyệt ngân sách.",
+   "col": [
+    "a sponsor",
+    "a project sponsor"
+   ]
+  },
+  {
+   "id": "pj012",
+   "topic": "Quản lý dự án",
+   "w": "lead",
+   "ipa": "/liːd/",
+   "pos": "n",
+   "vi": "người phụ trách",
+   "ex": "The project lead assigned the tasks.",
+   "exVi": "Người phụ trách dự án giao các nhiệm vụ.",
+   "col": [
+    "a lead",
+    "a project lead"
+   ]
+  },
+  {
+   "id": "pj013",
+   "topic": "Quản lý dự án",
+   "w": "coordinator",
+   "ipa": "/kəʊˈɔːdɪneɪtə/",
+   "pos": "n",
+   "vi": "điều phối viên",
+   "ex": "The coordinator tracked every task.",
+   "exVi": "Điều phối viên theo dõi mọi nhiệm vụ.",
+   "col": [
+    "a coordinator",
+    "a project coordinator"
+   ]
+  },
+  {
+   "id": "pj014",
+   "topic": "Quản lý dự án",
+   "w": "workflow",
+   "ipa": "/ˈwɜːkfləʊ/",
+   "pos": "n",
+   "vi": "luồng công việc",
+   "ex": "A clear workflow sped up the project.",
+   "exVi": "Một luồng công việc rõ ràng tăng tốc dự án.",
+   "col": [
+    "a workflow",
+    "a smooth workflow"
+   ]
+  },
+  {
+   "id": "pj015",
+   "topic": "Quản lý dự án",
+   "w": "task",
+   "ipa": "/tɑːsk/",
+   "pos": "n",
+   "vi": "nhiệm vụ",
+   "ex": "Each task has a named owner.",
+   "exVi": "Mỗi nhiệm vụ có một người phụ trách.",
+   "col": [
+    "a task",
+    "a key task"
+   ]
+  },
+  {
+   "id": "pj016",
+   "topic": "Quản lý dự án",
+   "w": "phase",
+   "ipa": "/feɪz/",
+   "pos": "n",
+   "vi": "giai đoạn",
+   "ex": "The first phase finished on time.",
+   "exVi": "Giai đoạn đầu hoàn thành đúng hạn.",
+   "col": [
+    "a phase",
+    "the final phase"
+   ]
+  },
+  {
+   "id": "pj017",
+   "topic": "Quản lý dự án",
+   "w": "initiation",
+   "ipa": "/ɪˌnɪʃiˈeɪʃn/",
+   "pos": "n",
+   "vi": "khởi tạo",
+   "ex": "The initiation stage set the goals.",
+   "exVi": "Giai đoạn khởi tạo đặt các mục tiêu.",
+   "col": [
+    "initiation",
+    "project initiation"
+   ]
+  },
+  {
+   "id": "pj018",
+   "topic": "Quản lý dự án",
+   "w": "execution",
+   "ipa": "/ˌeksɪˈkjuːʃn/",
+   "pos": "n",
+   "vi": "thực thi",
+   "ex": "Careful execution kept the plan on track.",
+   "exVi": "Thực thi cẩn thận giữ kế hoạch đúng hướng.",
+   "col": [
+    "execution",
+    "project execution"
+   ]
+  },
+  {
+   "id": "pj019",
+   "topic": "Quản lý dự án",
+   "w": "closure",
+   "ipa": "/ˈkləʊʒə/",
+   "pos": "n",
+   "vi": "kết thúc dự án",
+   "ex": "A review is held at project closure.",
+   "exVi": "Một cuộc rà soát được tổ chức khi kết thúc dự án.",
+   "col": [
+    "closure",
+    "project closure"
+   ]
+  },
+  {
+   "id": "pj020",
+   "topic": "Quản lý dự án",
+   "w": "dependency",
+   "ipa": "/dɪˈpendənsi/",
+   "pos": "n",
+   "vi": "sự phụ thuộc",
+   "ex": "A dependency delayed the next task.",
+   "exVi": "Một sự phụ thuộc làm chậm nhiệm vụ tiếp theo.",
+   "col": [
+    "a dependency",
+    "a task dependency"
+   ]
+  },
+  {
+   "id": "pj021",
+   "topic": "Quản lý dự án",
+   "w": "constraint",
+   "ipa": "/kənˈstreɪnt/",
+   "pos": "n",
+   "vi": "ràng buộc",
+   "ex": "Time was the main constraint on the project.",
+   "exVi": "Thời gian là ràng buộc chính của dự án.",
+   "col": [
+    "a constraint",
+    "a budget constraint"
+   ]
+  },
+  {
+   "id": "pj022",
+   "topic": "Quản lý dự án",
+   "w": "contingency",
+   "ipa": "/kənˈtɪndʒənsi/",
+   "pos": "n",
+   "vi": "dự phòng",
+   "ex": "A contingency plan covered the main risks.",
+   "exVi": "Một kế hoạch dự phòng bao gồm các rủi ro chính.",
+   "col": [
+    "contingency",
+    "a contingency plan"
+   ]
+  },
+  {
+   "id": "pj023",
+   "topic": "Quản lý dự án",
+   "w": "risk",
+   "ipa": "/rɪsk/",
+   "pos": "n",
+   "vi": "rủi ro",
+   "ex": "The team logged each project risk.",
+   "exVi": "Nhóm ghi lại mỗi rủi ro dự án.",
+   "col": [
+    "a risk",
+    "a project risk"
+   ]
+  },
+  {
+   "id": "pj024",
+   "topic": "Quản lý dự án",
+   "w": "allocate",
+   "ipa": "/ˈæləkeɪt/",
+   "pos": "v",
+   "vi": "phân bổ",
+   "ex": "The lead allocated tasks to the team.",
+   "exVi": "Người phụ trách phân bổ nhiệm vụ cho nhóm.",
+   "col": [
+    "allocate",
+    "allocate resources"
+   ]
+  },
+  {
+   "id": "pj025",
+   "topic": "Quản lý dự án",
+   "w": "delegate",
+   "ipa": "/ˈdelɪɡeɪt/",
+   "pos": "v",
+   "vi": "uỷ thác",
+   "ex": "A good lead delegates the routine work.",
+   "exVi": "Một người phụ trách giỏi uỷ thác công việc thường ngày.",
+   "col": [
+    "delegate",
+    "delegate a task"
+   ]
+  },
+  {
+   "id": "pj026",
+   "topic": "Quản lý dự án",
+   "w": "prioritize",
+   "ipa": "/praɪˈɒrətaɪz/",
+   "pos": "v",
+   "vi": "ưu tiên",
+   "ex": "The team prioritized the urgent tasks.",
+   "exVi": "Nhóm ưu tiên các nhiệm vụ gấp.",
+   "col": [
+    "prioritize",
+    "prioritize tasks"
+   ]
+  },
+  {
+   "id": "pj027",
+   "topic": "Quản lý dự án",
+   "w": "coordinate",
+   "ipa": "/kəʊˈɔːdɪneɪt/",
+   "pos": "v",
+   "vi": "điều phối",
+   "ex": "The manager coordinates the whole team.",
+   "exVi": "Người quản lý điều phối cả nhóm.",
+   "col": [
+    "coordinate",
+    "coordinate a team"
+   ]
+  },
+  {
+   "id": "pj028",
+   "topic": "Quản lý dự án",
+   "w": "monitor",
+   "ipa": "/ˈmɒnɪtə/",
+   "pos": "v",
+   "vi": "theo dõi",
+   "ex": "Staff monitor the progress every week.",
+   "exVi": "Nhân viên theo dõi tiến độ mỗi tuần.",
+   "col": [
+    "monitor",
+    "monitor progress"
+   ]
+  },
+  {
+   "id": "pj029",
+   "topic": "Quản lý dự án",
+   "w": "track",
+   "ipa": "/træk/",
+   "pos": "v",
+   "vi": "theo dõi",
+   "ex": "A chart tracks each milestone.",
+   "exVi": "Một biểu đồ theo dõi mỗi cột mốc.",
+   "col": [
+    "track",
+    "track progress"
+   ]
+  },
+  {
+   "id": "pj030",
+   "topic": "Quản lý dự án",
+   "w": "oversee",
+   "ipa": "/ˌəʊvəˈsiː/",
+   "pos": "v",
+   "vi": "giám sát",
+   "ex": "The director oversees all projects.",
+   "exVi": "Giám đốc giám sát mọi dự án.",
+   "col": [
+    "oversee",
+    "oversee a project"
+   ]
+  },
+  {
+   "id": "pj031",
+   "topic": "Quản lý dự án",
+   "w": "implement",
+   "ipa": "/ˈɪmplɪment/",
+   "pos": "v",
+   "vi": "triển khai",
+   "ex": "The team implemented the plan in stages.",
+   "exVi": "Nhóm triển khai kế hoạch theo giai đoạn.",
+   "col": [
+    "implement",
+    "implement a plan"
+   ]
+  },
+  {
+   "id": "pj032",
+   "topic": "Quản lý dự án",
+   "w": "finalize",
+   "ipa": "/ˈfaɪnəlaɪz/",
+   "pos": "v",
+   "vi": "hoàn tất",
+   "ex": "The team finalized the report on Friday.",
+   "exVi": "Nhóm hoàn tất báo cáo vào thứ Sáu.",
+   "col": [
+    "finalize",
+    "finalize a plan"
+   ]
+  },
+  {
+   "id": "pj033",
+   "topic": "Quản lý dự án",
+   "w": "escalate",
+   "ipa": "/ˈeskəleɪt/",
+   "pos": "v",
+   "vi": "báo lên cấp trên",
+   "ex": "The lead escalated the issue to the sponsor.",
+   "exVi": "Người phụ trách báo vấn đề lên nhà bảo trợ.",
+   "col": [
+    "escalate",
+    "escalate an issue"
+   ]
+  },
+  {
+   "id": "pj034",
+   "topic": "Quản lý dự án",
+   "w": "scalable",
+   "ipa": "/ˈskeɪləbl/",
+   "pos": "adj",
+   "vi": "có thể mở rộng",
+   "ex": "The plan is scalable to larger teams.",
+   "exVi": "Kế hoạch có thể mở rộng cho các nhóm lớn hơn.",
+   "col": [
+    "scalable",
+    "a scalable plan"
+   ]
+  },
+  {
+   "id": "pj035",
+   "topic": "Quản lý dự án",
+   "w": "feasible",
+   "ipa": "/ˈfiːzəbl/",
+   "pos": "adj",
+   "vi": "khả thi",
+   "ex": "The timeline is feasible with more staff.",
+   "exVi": "Dòng thời gian khả thi với thêm nhân sự.",
+   "col": [
+    "feasible",
+    "a feasible plan"
+   ]
+  },
+  {
+   "id": "pj036",
+   "topic": "Quản lý dự án",
+   "w": "on-track",
+   "ipa": "/ɒn træk/",
+   "pos": "adj",
+   "vi": "đúng tiến độ",
+   "ex": "The project is on-track for June.",
+   "exVi": "Dự án đúng tiến độ cho tháng Sáu.",
+   "col": [
+    "on-track",
+    "stay on-track"
+   ]
+  },
+  {
+   "id": "pj037",
+   "topic": "Quản lý dự án",
+   "w": "overdue",
+   "ipa": "/ˌəʊvəˈdjuː/",
+   "pos": "adj",
+   "vi": "quá hạn",
+   "ex": "Two tasks are now overdue.",
+   "exVi": "Hai nhiệm vụ hiện đã quá hạn.",
+   "col": [
+    "overdue",
+    "an overdue task"
+   ]
+  },
+  {
+   "id": "pj038",
+   "topic": "Quản lý dự án",
+   "w": "cross-functional",
+   "ipa": "/ˌkrɒs ˈfʌŋkʃənl/",
+   "pos": "adj",
+   "vi": "liên phòng ban",
+   "ex": "A cross-functional team ran the project.",
+   "exVi": "Một nhóm liên phòng ban vận hành dự án.",
+   "col": [
+    "cross-functional",
+    "a cross-functional team"
+   ]
+  },
+  {
+   "id": "pj039",
+   "topic": "Quản lý dự án",
+   "w": "agile",
+   "ipa": "/ˈædʒaɪl/",
+   "pos": "adj",
+   "vi": "linh hoạt",
+   "ex": "The team used an agile approach.",
+   "exVi": "Nhóm dùng một cách tiếp cận linh hoạt.",
+   "col": [
+    "agile",
+    "an agile method"
+   ]
+  },
+  {
+   "id": "pj040",
+   "topic": "Quản lý dự án",
+   "w": "iterative",
+   "ipa": "/ˈɪtərətɪv/",
+   "pos": "adj",
+   "vi": "lặp lại theo chu kỳ",
+   "ex": "An iterative process improved each version.",
+   "exVi": "Một quy trình lặp lại cải thiện mỗi phiên bản.",
+   "col": [
+    "iterative",
+    "an iterative process"
+   ]
+  },
+  {
+   "id": "pj041",
+   "topic": "Quản lý dự án",
+   "w": "proactive",
+   "ipa": "/prəʊˈæktɪv/",
+   "pos": "adj",
+   "vi": "chủ động",
+   "ex": "A proactive lead spots risks early.",
+   "exVi": "Một người phụ trách chủ động phát hiện rủi ro sớm.",
+   "col": [
+    "proactive",
+    "a proactive approach"
+   ]
+  },
+  {
+   "id": "pj042",
+   "topic": "Quản lý dự án",
+   "w": "planning",
+   "ipa": "/ˈplænɪŋ/",
+   "pos": "n",
+   "vi": "lập kế hoạch",
+   "ex": "Careful planning avoided most delays.",
+   "exVi": "Lập kế hoạch cẩn thận tránh hầu hết chậm trễ.",
+   "col": [
+    "planning",
+    "careful planning"
+   ]
+  },
+  {
+   "id": "pj043",
+   "topic": "Quản lý dự án",
+   "w": "kickoff",
+   "ipa": "/ˈkɪkɒf/",
+   "pos": "n",
+   "vi": "họp khởi động",
+   "ex": "A kickoff meeting opened the project.",
+   "exVi": "Một cuộc họp khởi động mở đầu dự án.",
+   "col": [
+    "a kickoff",
+    "a kickoff meeting"
+   ]
+  },
+  {
+   "id": "pj044",
+   "topic": "Quản lý dự án",
+   "w": "briefing",
+   "ipa": "/ˈbriːfɪŋ/",
+   "pos": "n",
+   "vi": "buổi phổ biến",
+   "ex": "A short briefing set out the goals.",
+   "exVi": "Một buổi phổ biến ngắn trình bày các mục tiêu.",
+   "col": [
+    "a briefing",
+    "a project briefing"
+   ]
+  },
+  {
+   "id": "pj045",
+   "topic": "Quản lý dự án",
+   "w": "handover",
+   "ipa": "/ˈhændəʊvə/",
+   "pos": "n",
+   "vi": "bàn giao",
+   "ex": "The handover to the client went smoothly.",
+   "exVi": "Việc bàn giao cho khách diễn ra êm ả.",
+   "col": [
+    "a handover",
+    "a smooth handover"
+   ]
+  },
+  {
+   "id": "pj046",
+   "topic": "Quản lý dự án",
+   "w": "approval",
+   "ipa": "/əˈpruːvl/",
+   "pos": "n",
+   "vi": "phê duyệt",
+   "ex": "The plan needs approval from the sponsor.",
+   "exVi": "Kế hoạch cần phê duyệt từ nhà bảo trợ.",
+   "col": [
+    "approval",
+    "final approval"
+   ]
+  },
+  {
+   "id": "pj047",
+   "topic": "Quản lý dự án",
+   "w": "sign-off",
+   "ipa": "/ˈsaɪn ɒf/",
+   "pos": "n",
+   "vi": "chấp thuận cuối",
+   "ex": "The design got sign-off last week.",
+   "exVi": "Thiết kế được chấp thuận cuối tuần trước.",
+   "col": [
+    "sign-off",
+    "final sign-off"
+   ]
+  },
+  {
+   "id": "pj048",
+   "topic": "Quản lý dự án",
+   "w": "review",
+   "ipa": "/rɪˈvjuː/",
+   "pos": "n",
+   "vi": "rà soát",
+   "ex": "A weekly review tracks the progress.",
+   "exVi": "Một cuộc rà soát hằng tuần theo dõi tiến độ.",
+   "col": [
+    "a review",
+    "a project review"
+   ]
+  },
+  {
+   "id": "pj049",
+   "topic": "Quản lý dự án",
+   "w": "retrospective",
+   "ipa": "/ˌretrəˈspektɪv/",
+   "pos": "n",
+   "vi": "họp rút kinh nghiệm",
+   "ex": "A retrospective closed the last phase.",
+   "exVi": "Một cuộc họp rút kinh nghiệm kết thúc giai đoạn cuối.",
+   "col": [
+    "a retrospective",
+    "a project retrospective"
+   ]
+  },
+  {
+   "id": "pj050",
+   "topic": "Quản lý dự án",
+   "w": "progress",
+   "ipa": "/ˈprəʊɡres/",
+   "pos": "n",
+   "vi": "tiến độ",
+   "ex": "Steady progress kept morale high.",
+   "exVi": "Tiến độ ổn định giữ tinh thần cao.",
+   "col": [
+    "progress",
+    "good progress"
+   ]
+  },
+  {
+   "id": "pj051",
+   "topic": "Quản lý dự án",
+   "w": "status",
+   "ipa": "/ˈsteɪtəs/",
+   "pos": "n",
+   "vi": "trạng thái",
+   "ex": "A status update is shared each Monday.",
+   "exVi": "Một cập nhật trạng thái được chia sẻ mỗi thứ Hai.",
+   "col": [
+    "status",
+    "a status update"
+   ]
+  },
+  {
+   "id": "pj052",
+   "topic": "Quản lý dự án",
+   "w": "update",
+   "ipa": "/ˈʌpdeɪt/",
+   "pos": "n",
+   "vi": "cập nhật",
+   "ex": "The team sends a daily update.",
+   "exVi": "Nhóm gửi một cập nhật hằng ngày.",
+   "col": [
+    "an update",
+    "a progress update"
+   ]
+  },
+  {
+   "id": "pj053",
+   "topic": "Quản lý dự án",
+   "w": "report",
+   "ipa": "/rɪˈpɔːt/",
+   "pos": "n",
+   "vi": "báo cáo",
+   "ex": "The final report summarizes the outcome.",
+   "exVi": "Báo cáo cuối tóm tắt kết quả.",
+   "col": [
+    "a report",
+    "a project report"
+   ]
+  },
+  {
+   "id": "pj054",
+   "topic": "Quản lý dự án",
+   "w": "metric",
+   "ipa": "/ˈmetrɪk/",
+   "pos": "n",
+   "vi": "chỉ số đo lường",
+   "ex": "Each metric tracks a clear goal.",
+   "exVi": "Mỗi chỉ số đo lường một mục tiêu rõ ràng.",
+   "col": [
+    "a metric",
+    "a key metric"
+   ]
+  },
+  {
+   "id": "pj055",
+   "topic": "Quản lý dự án",
+   "w": "benchmark",
+   "ipa": "/ˈbentʃmɑːk/",
+   "pos": "n",
+   "vi": "chuẩn so sánh",
+   "ex": "The team set a benchmark for quality.",
+   "exVi": "Nhóm đặt một chuẩn so sánh cho chất lượng.",
+   "col": [
+    "a benchmark",
+    "a quality benchmark"
+   ]
+  },
+  {
+   "id": "pj056",
+   "topic": "Quản lý dự án",
+   "w": "target",
+   "ipa": "/ˈtɑːɡɪt/",
+   "pos": "n",
+   "vi": "mục tiêu",
+   "ex": "The team hit every target this quarter.",
+   "exVi": "Nhóm đạt mọi mục tiêu quý này.",
+   "col": [
+    "a target",
+    "a monthly target"
+   ]
+  },
+  {
+   "id": "pj057",
+   "topic": "Quản lý dự án",
+   "w": "outcome",
+   "ipa": "/ˈaʊtkʌm/",
+   "pos": "n",
+   "vi": "kết quả",
+   "ex": "The outcome met the client's needs.",
+   "exVi": "Kết quả đáp ứng nhu cầu của khách.",
+   "col": [
+    "an outcome",
+    "a positive outcome"
+   ]
+  },
+  {
+   "id": "pj058",
+   "topic": "Quản lý dự án",
+   "w": "output",
+   "ipa": "/ˈaʊtpʊt/",
+   "pos": "n",
+   "vi": "sản phẩm đầu ra",
+   "ex": "The output was reviewed before delivery.",
+   "exVi": "Sản phẩm đầu ra được rà soát trước khi giao.",
+   "col": [
+    "output",
+    "final output"
+   ]
+  },
+  {
+   "id": "pj059",
+   "topic": "Quản lý dự án",
+   "w": "estimate",
+   "ipa": "/ˈestɪmət/",
+   "pos": "n",
+   "vi": "ước tính",
+   "ex": "The estimate covered time and cost.",
+   "exVi": "Ước tính bao gồm thời gian và chi phí.",
+   "col": [
+    "an estimate",
+    "a cost estimate"
+   ]
+  },
+  {
+   "id": "pj060",
+   "topic": "Quản lý dự án",
+   "w": "scoping",
+   "ipa": "/ˈskəʊpɪŋ/",
+   "pos": "n",
+   "vi": "xác định phạm vi",
+   "ex": "A scoping session opened the planning.",
+   "exVi": "Một buổi xác định phạm vi mở đầu việc lập kế hoạch.",
+   "col": [
+    "scoping",
+    "a scoping session"
+   ]
+  },
+  {
+   "id": "pj061",
+   "topic": "Quản lý dự án",
+   "w": "provisioning",
+   "ipa": "/prəˈvɪʒnɪŋ/",
+   "pos": "n",
+   "vi": "cấp phát nguồn lực",
+   "ex": "Resource provisioning was done early.",
+   "exVi": "Việc cấp phát nguồn lực được làm sớm.",
+   "col": [
+    "provisioning",
+    "resource provisioning"
+   ]
+  },
+  {
+   "id": "pj062",
+   "topic": "Quản lý dự án",
+   "w": "bottleneck",
+   "ipa": "/ˈbɒtlnek/",
+   "pos": "n",
+   "vi": "nút thắt",
+   "ex": "A bottleneck slowed the whole project.",
+   "exVi": "Một nút thắt làm chậm cả dự án.",
+   "col": [
+    "a bottleneck",
+    "a major bottleneck"
+   ]
+  },
+  {
+   "id": "pj063",
+   "topic": "Quản lý dự án",
+   "w": "slippage",
+   "ipa": "/ˈslɪpɪdʒ/",
+   "pos": "n",
+   "vi": "trượt tiến độ",
+   "ex": "Schedule slippage pushed back the launch.",
+   "exVi": "Trượt tiến độ lùi lại việc ra mắt.",
+   "col": [
+    "slippage",
+    "schedule slippage"
+   ]
+  },
+  {
+   "id": "pj064",
+   "topic": "Quản lý dự án",
+   "w": "overrun",
+   "ipa": "/ˈəʊvərʌn/",
+   "pos": "n",
+   "vi": "vượt mức",
+   "ex": "A cost overrun worried the sponsor.",
+   "exVi": "Một khoản vượt chi phí khiến nhà bảo trợ lo.",
+   "col": [
+    "an overrun",
+    "a cost overrun"
+   ]
+  },
+  {
+   "id": "pj065",
+   "topic": "Quản lý dự án",
+   "w": "allocation",
+   "ipa": "/ˌæləˈkeɪʃn/",
+   "pos": "n",
+   "vi": "sự phân bổ",
+   "ex": "Resource allocation was reviewed weekly.",
+   "exVi": "Việc phân bổ nguồn lực được rà soát hằng tuần.",
+   "col": [
+    "allocation",
+    "resource allocation"
+   ]
+  },
+  {
+   "id": "pj066",
+   "topic": "Quản lý dự án",
+   "w": "assign",
+   "ipa": "/əˈsaɪn/",
+   "pos": "v",
+   "vi": "giao",
+   "ex": "The lead assigned each task clearly.",
+   "exVi": "Người phụ trách giao mỗi nhiệm vụ rõ ràng.",
+   "col": [
+    "assign",
+    "assign a task"
+   ]
+  },
+  {
+   "id": "pj067",
+   "topic": "Quản lý dự án",
+   "w": "mitigate",
+   "ipa": "/ˈmɪtɪɡeɪt/",
+   "pos": "v",
+   "vi": "giảm nhẹ",
+   "ex": "The plan mitigates the main risks.",
+   "exVi": "Kế hoạch giảm nhẹ các rủi ro chính.",
+   "col": [
+    "mitigate",
+    "mitigate a risk"
+   ]
+  },
+  {
+   "id": "pj068",
+   "topic": "Quản lý dự án",
+   "w": "streamline",
+   "ipa": "/ˈstriːmlaɪn/",
+   "pos": "v",
+   "vi": "tinh gọn",
+   "ex": "New tools streamlined the workflow.",
+   "exVi": "Công cụ mới tinh gọn luồng công việc.",
+   "col": [
+    "streamline",
+    "streamline a process"
+   ]
+  },
+  {
+   "id": "pj069",
+   "topic": "Quản lý dự án",
+   "w": "synchronize",
+   "ipa": "/ˈsɪŋkrənaɪz/",
+   "pos": "v",
+   "vi": "đồng bộ",
+   "ex": "The teams synchronized their schedules.",
+   "exVi": "Các nhóm đồng bộ lịch trình của mình.",
+   "col": [
+    "synchronize",
+    "synchronize tasks"
+   ]
+  },
+  {
+   "id": "pj070",
+   "topic": "Quản lý dự án",
+   "w": "document",
+   "ipa": "/ˈdɒkjument/",
+   "pos": "v",
+   "vi": "ghi chép lại",
+   "ex": "Staff document every decision.",
+   "exVi": "Nhân viên ghi chép lại mọi quyết định.",
+   "col": [
+    "document",
+    "document a process"
+   ]
+  },
+  {
+   "id": "pj071",
+   "topic": "Quản lý dự án",
+   "w": "consolidate",
+   "ipa": "/kənˈsɒlɪdeɪt/",
+   "pos": "v",
+   "vi": "hợp nhất",
+   "ex": "The lead consolidated the feedback.",
+   "exVi": "Người phụ trách hợp nhất các phản hồi.",
+   "col": [
+    "consolidate",
+    "consolidate feedback"
+   ]
+  },
+  {
+   "id": "pj072",
+   "topic": "Quản lý dự án",
+   "w": "underway",
+   "ipa": "/ˌʌndəˈweɪ/",
+   "pos": "adj",
+   "vi": "đang tiến hành",
+   "ex": "The second phase is now underway.",
+   "exVi": "Giai đoạn thứ hai đang tiến hành.",
+   "col": [
+    "underway",
+    "get underway"
+   ]
+  },
+  {
+   "id": "pj073",
+   "topic": "Quản lý dự án",
+   "w": "pending",
+   "ipa": "/ˈpendɪŋ/",
+   "pos": "adj",
+   "vi": "đang chờ",
+   "ex": "Two tasks are still pending approval.",
+   "exVi": "Hai nhiệm vụ vẫn đang chờ phê duyệt.",
+   "col": [
+    "pending",
+    "pending approval"
+   ]
+  },
+  {
+   "id": "pj074",
+   "topic": "Quản lý dự án",
+   "w": "completed",
+   "ipa": "/kəmˈpliːtɪd/",
+   "pos": "adj",
+   "vi": "đã hoàn thành",
+   "ex": "The first phase is now completed.",
+   "exVi": "Giai đoạn đầu đã hoàn thành.",
+   "col": [
+    "completed",
+    "a completed task"
+   ]
+  },
+  {
+   "id": "pj075",
+   "topic": "Quản lý dự án",
+   "w": "concurrent",
+   "ipa": "/kənˈkʌrənt/",
+   "pos": "adj",
+   "vi": "song song",
+   "ex": "Two concurrent tasks saved time.",
+   "exVi": "Hai nhiệm vụ song song tiết kiệm thời gian.",
+   "col": [
+    "concurrent",
+    "concurrent tasks"
+   ]
+  },
+  {
+   "id": "pj076",
+   "topic": "Quản lý dự án",
+   "w": "sequential",
+   "ipa": "/sɪˈkwenʃl/",
+   "pos": "adj",
+   "vi": "tuần tự",
+   "ex": "The steps must run in sequential order.",
+   "exVi": "Các bước phải chạy theo thứ tự tuần tự.",
+   "col": [
+    "sequential",
+    "a sequential process"
+   ]
+  },
+  {
+   "id": "pj077",
+   "topic": "Quản lý dự án",
+   "w": "collaborative",
+   "ipa": "/kəˈlæbərətɪv/",
+   "pos": "adj",
+   "vi": "có tính hợp tác",
+   "ex": "A collaborative approach helped the team.",
+   "exVi": "Một cách tiếp cận hợp tác giúp ích cho nhóm.",
+   "col": [
+    "collaborative",
+    "a collaborative effort"
+   ]
+  },
+  {
+   "id": "pj078",
+   "topic": "Quản lý dự án",
+   "w": "streamlined",
+   "ipa": "/ˈstriːmlaɪnd/",
+   "pos": "adj",
+   "vi": "đã tinh gọn",
+   "ex": "A streamlined process cut the delays.",
+   "exVi": "Một quy trình đã tinh gọn giảm chậm trễ.",
+   "col": [
+    "streamlined",
+    "a streamlined workflow"
+   ]
+  },
+  {
+   "id": "pj079",
+   "topic": "Quản lý dự án",
+   "w": "measurable",
+   "ipa": "/ˈmeʒərəbl/",
+   "pos": "adj",
+   "vi": "đo lường được",
+   "ex": "Each goal is clear and measurable.",
+   "exVi": "Mỗi mục tiêu rõ ràng và đo lường được.",
+   "col": [
+    "measurable",
+    "a measurable goal"
+   ]
+  },
+  {
+   "id": "pj080",
+   "topic": "Quản lý dự án",
+   "w": "achievable",
+   "ipa": "/əˈtʃiːvəbl/",
+   "pos": "adj",
+   "vi": "khả thi, đạt được",
+   "ex": "The targets are realistic and achievable.",
+   "exVi": "Các mục tiêu thực tế và có thể đạt được.",
+   "col": [
+    "achievable",
+    "an achievable target"
+   ]
+  }
+ ]
+}

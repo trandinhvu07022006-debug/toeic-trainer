@@ -1,0 +1,1097 @@
+{
+ "topic": "Ngân hàng doanh nghiệp & tín dụng",
+ "words": [
+  {
+   "id": "bk001",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "loan",
+   "ipa": "/ləʊn/",
+   "pos": "n",
+   "vi": "khoản vay",
+   "ex": "The firm took out a loan to expand.",
+   "exVi": "Công ty vay một khoản để mở rộng.",
+   "col": [
+    "a loan",
+    "a business loan"
+   ]
+  },
+  {
+   "id": "bk002",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "credit",
+   "ipa": "/ˈkredɪt/",
+   "pos": "n",
+   "vi": "tín dụng",
+   "ex": "The company has a strong credit rating.",
+   "exVi": "Công ty có một xếp hạng tín dụng mạnh.",
+   "col": [
+    "credit",
+    "a credit line"
+   ]
+  },
+  {
+   "id": "bk003",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "lender",
+   "ipa": "/ˈlendə/",
+   "pos": "n",
+   "vi": "bên cho vay",
+   "ex": "The lender approved the loan quickly.",
+   "exVi": "Bên cho vay duyệt khoản vay nhanh.",
+   "col": [
+    "a lender",
+    "a major lender"
+   ]
+  },
+  {
+   "id": "bk004",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "borrower",
+   "ipa": "/ˈbɒrəʊə/",
+   "pos": "n",
+   "vi": "bên vay",
+   "ex": "The borrower repaid the loan early.",
+   "exVi": "Bên vay trả khoản vay sớm.",
+   "col": [
+    "a borrower",
+    "a reliable borrower"
+   ]
+  },
+  {
+   "id": "bk005",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "collateral",
+   "ipa": "/kəˈlætərəl/",
+   "pos": "n",
+   "vi": "tài sản thế chấp",
+   "ex": "The loan was secured with collateral.",
+   "exVi": "Khoản vay được bảo đảm bằng tài sản thế chấp.",
+   "col": [
+    "collateral",
+    "loan collateral"
+   ]
+  },
+  {
+   "id": "bk006",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "guarantor",
+   "ipa": "/ˌɡærənˈtɔː/",
+   "pos": "n",
+   "vi": "người bảo lãnh",
+   "ex": "A guarantor signed for the loan.",
+   "exVi": "Một người bảo lãnh ký cho khoản vay.",
+   "col": [
+    "a guarantor",
+    "a personal guarantor"
+   ]
+  },
+  {
+   "id": "bk007",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "mortgage",
+   "ipa": "/ˈmɔːɡɪdʒ/",
+   "pos": "n",
+   "vi": "khoản thế chấp",
+   "ex": "The firm took a mortgage on the building.",
+   "exVi": "Công ty vay thế chấp trên toà nhà.",
+   "col": [
+    "a mortgage",
+    "a commercial mortgage"
+   ]
+  },
+  {
+   "id": "bk008",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "overdraft",
+   "ipa": "/ˈəʊvədrɑːft/",
+   "pos": "n",
+   "vi": "thấu chi",
+   "ex": "The overdraft covered a short cash gap.",
+   "exVi": "Thấu chi bù một khoảng thiếu tiền mặt ngắn.",
+   "col": [
+    "an overdraft",
+    "an overdraft facility"
+   ]
+  },
+  {
+   "id": "bk009",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "installment",
+   "ipa": "/ɪnˈstɔːlmənt/",
+   "pos": "n",
+   "vi": "kỳ trả góp",
+   "ex": "The loan is repaid in monthly installments.",
+   "exVi": "Khoản vay được trả theo kỳ hằng tháng.",
+   "col": [
+    "an installment",
+    "a monthly installment"
+   ]
+  },
+  {
+   "id": "bk010",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "repayment",
+   "ipa": "/rɪˈpeɪmənt/",
+   "pos": "n",
+   "vi": "việc trả nợ",
+   "ex": "The repayment schedule spans five years.",
+   "exVi": "Lịch trả nợ kéo dài năm năm.",
+   "col": [
+    "repayment",
+    "a repayment plan"
+   ]
+  },
+  {
+   "id": "bk011",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "principal",
+   "ipa": "/ˈprɪnsəpl/",
+   "pos": "n",
+   "vi": "tiền gốc",
+   "ex": "The principal is repaid over the term.",
+   "exVi": "Tiền gốc được trả trong suốt kỳ hạn.",
+   "col": [
+    "principal",
+    "the loan principal"
+   ]
+  },
+  {
+   "id": "bk012",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "interest",
+   "ipa": "/ˈɪntrəst/",
+   "pos": "n",
+   "vi": "lãi",
+   "ex": "Interest is charged on the balance.",
+   "exVi": "Lãi được tính trên số dư.",
+   "col": [
+    "interest",
+    "interest charges"
+   ]
+  },
+  {
+   "id": "bk013",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "rate",
+   "ipa": "/reɪt/",
+   "pos": "n",
+   "vi": "lãi suất",
+   "ex": "A fixed rate protects against rises.",
+   "exVi": "Một lãi suất cố định bảo vệ trước việc tăng.",
+   "col": [
+    "a rate",
+    "a fixed rate"
+   ]
+  },
+  {
+   "id": "bk014",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "term",
+   "ipa": "/tɜːm/",
+   "pos": "n",
+   "vi": "kỳ hạn",
+   "ex": "The loan has a five-year term.",
+   "exVi": "Khoản vay có kỳ hạn năm năm.",
+   "col": [
+    "a term",
+    "a loan term"
+   ]
+  },
+  {
+   "id": "bk015",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "maturity",
+   "ipa": "/məˈtʃʊərəti/",
+   "pos": "n",
+   "vi": "đáo hạn",
+   "ex": "The loan reaches maturity next year.",
+   "exVi": "Khoản vay đến kỳ đáo hạn năm sau.",
+   "col": [
+    "maturity",
+    "a maturity date"
+   ]
+  },
+  {
+   "id": "bk016",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "default",
+   "ipa": "/dɪˈfɔːlt/",
+   "pos": "n",
+   "vi": "vỡ nợ",
+   "ex": "A missed payment can trigger a default.",
+   "exVi": "Một kỳ thiếu trả có thể gây vỡ nợ.",
+   "col": [
+    "default",
+    "a loan default"
+   ]
+  },
+  {
+   "id": "bk017",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "arrears",
+   "ipa": "/əˈrɪəz/",
+   "pos": "n",
+   "vi": "nợ quá hạn",
+   "ex": "The account fell into arrears.",
+   "exVi": "Tài khoản rơi vào nợ quá hạn.",
+   "col": [
+    "arrears",
+    "in arrears"
+   ]
+  },
+  {
+   "id": "bk018",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "creditworthiness",
+   "ipa": "/ˈkredɪtwɜːðinəs/",
+   "pos": "n",
+   "vi": "khả năng trả nợ",
+   "ex": "The bank checked the firm's creditworthiness.",
+   "exVi": "Ngân hàng kiểm tra khả năng trả nợ của công ty.",
+   "col": [
+    "creditworthiness",
+    "assess creditworthiness"
+   ]
+  },
+  {
+   "id": "bk019",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "solvency",
+   "ipa": "/ˈsɒlvənsi/",
+   "pos": "n",
+   "vi": "khả năng thanh toán",
+   "ex": "The audit confirmed the firm's solvency.",
+   "exVi": "Cuộc kiểm toán xác nhận khả năng thanh toán.",
+   "col": [
+    "solvency",
+    "financial solvency"
+   ]
+  },
+  {
+   "id": "bk020",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "liquidity",
+   "ipa": "/lɪˈkwɪdəti/",
+   "pos": "n",
+   "vi": "thanh khoản",
+   "ex": "Good liquidity supports the repayments.",
+   "exVi": "Thanh khoản tốt hỗ trợ việc trả nợ.",
+   "col": [
+    "liquidity",
+    "strong liquidity"
+   ]
+  },
+  {
+   "id": "bk021",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "facility",
+   "ipa": "/fəˈsɪləti/",
+   "pos": "n",
+   "vi": "hạn mức tín dụng",
+   "ex": "The bank offered a credit facility.",
+   "exVi": "Ngân hàng cung cấp một hạn mức tín dụng.",
+   "col": [
+    "a facility",
+    "a credit facility"
+   ]
+  },
+  {
+   "id": "bk022",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "disbursement",
+   "ipa": "/dɪsˈbɜːsmənt/",
+   "pos": "n",
+   "vi": "giải ngân",
+   "ex": "The disbursement was made in two parts.",
+   "exVi": "Việc giải ngân được thực hiện thành hai phần.",
+   "col": [
+    "disbursement",
+    "loan disbursement"
+   ]
+  },
+  {
+   "id": "bk023",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "refinance",
+   "ipa": "/ˌriːˈfaɪnæns/",
+   "pos": "v",
+   "vi": "tái cấp vốn",
+   "ex": "The firm refinanced the loan at a lower rate.",
+   "exVi": "Công ty tái cấp vốn khoản vay ở lãi suất thấp hơn.",
+   "col": [
+    "refinance",
+    "refinance a loan"
+   ]
+  },
+  {
+   "id": "bk024",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "underwrite",
+   "ipa": "/ˌʌndəˈraɪt/",
+   "pos": "v",
+   "vi": "thẩm định cho vay",
+   "ex": "The bank agreed to underwrite the loan.",
+   "exVi": "Ngân hàng đồng ý thẩm định cấp khoản vay.",
+   "col": [
+    "underwrite",
+    "underwrite a loan"
+   ]
+  },
+  {
+   "id": "bk025",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "collateralize",
+   "ipa": "/kəˈlætərəlaɪz/",
+   "pos": "v",
+   "vi": "thế chấp bằng tài sản",
+   "ex": "The loan was collateralized with property.",
+   "exVi": "Khoản vay được thế chấp bằng bất động sản.",
+   "col": [
+    "collateralize",
+    "collateralize a loan"
+   ]
+  },
+  {
+   "id": "bk026",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "amortize",
+   "ipa": "/əˈmɔːtaɪz/",
+   "pos": "v",
+   "vi": "trả dần",
+   "ex": "The loan is amortized over ten years.",
+   "exVi": "Khoản vay được trả dần trong mười năm.",
+   "col": [
+    "amortize",
+    "amortize a loan"
+   ]
+  },
+  {
+   "id": "bk027",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "default on",
+   "ipa": "/dɪˈfɔːlt ɒn/",
+   "pos": "v",
+   "vi": "không trả được",
+   "ex": "The firm nearly defaulted on the loan.",
+   "exVi": "Công ty suýt không trả được khoản vay.",
+   "col": [
+    "default on",
+    "default on a loan"
+   ]
+  },
+  {
+   "id": "bk028",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "disburse",
+   "ipa": "/dɪsˈbɜːs/",
+   "pos": "v",
+   "vi": "giải ngân",
+   "ex": "The bank disbursed the funds on time.",
+   "exVi": "Ngân hàng giải ngân số tiền đúng hạn.",
+   "col": [
+    "disburse",
+    "disburse funds"
+   ]
+  },
+  {
+   "id": "bk029",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "approve",
+   "ipa": "/əˈpruːv/",
+   "pos": "v",
+   "vi": "phê duyệt",
+   "ex": "The bank approved the credit line.",
+   "exVi": "Ngân hàng duyệt hạn mức tín dụng.",
+   "col": [
+    "approve",
+    "approve a loan"
+   ]
+  },
+  {
+   "id": "bk030",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "secured",
+   "ipa": "/sɪˈkjʊəd/",
+   "pos": "adj",
+   "vi": "có bảo đảm",
+   "ex": "A secured loan has a lower rate.",
+   "exVi": "Một khoản vay có bảo đảm có lãi suất thấp hơn.",
+   "col": [
+    "secured",
+    "a secured loan"
+   ]
+  },
+  {
+   "id": "bk031",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "unsecured",
+   "ipa": "/ˌʌnsɪˈkjʊəd/",
+   "pos": "adj",
+   "vi": "không bảo đảm",
+   "ex": "An unsecured loan carries more risk.",
+   "exVi": "Một khoản vay không bảo đảm có nhiều rủi ro hơn.",
+   "col": [
+    "unsecured",
+    "an unsecured loan"
+   ]
+  },
+  {
+   "id": "bk032",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "outstanding",
+   "ipa": "/aʊtˈstændɪŋ/",
+   "pos": "adj",
+   "vi": "còn nợ",
+   "ex": "The outstanding balance is due soon.",
+   "exVi": "Số dư còn nợ sắp đến hạn.",
+   "col": [
+    "outstanding",
+    "an outstanding balance"
+   ]
+  },
+  {
+   "id": "bk033",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "overdue",
+   "ipa": "/ˌəʊvəˈdjuː/",
+   "pos": "adj",
+   "vi": "quá hạn",
+   "ex": "Two payments are now overdue.",
+   "exVi": "Hai kỳ thanh toán hiện đã quá hạn.",
+   "col": [
+    "overdue",
+    "an overdue payment"
+   ]
+  },
+  {
+   "id": "bk034",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "creditworthy",
+   "ipa": "/ˈkredɪtwɜːði/",
+   "pos": "adj",
+   "vi": "đáng được cấp tín dụng",
+   "ex": "The firm proved fully creditworthy.",
+   "exVi": "Công ty chứng tỏ hoàn toàn đáng được cấp tín dụng.",
+   "col": [
+    "creditworthy",
+    "a creditworthy borrower"
+   ]
+  },
+  {
+   "id": "bk035",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "solvent",
+   "ipa": "/ˈsɒlvənt/",
+   "pos": "adj",
+   "vi": "có khả năng trả nợ",
+   "ex": "The firm stayed solvent through the year.",
+   "exVi": "Công ty vẫn có khả năng trả nợ suốt năm.",
+   "col": [
+    "solvent",
+    "remain solvent"
+   ]
+  },
+  {
+   "id": "bk036",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "delinquent",
+   "ipa": "/dɪˈlɪŋkwənt/",
+   "pos": "adj",
+   "vi": "chậm trả",
+   "ex": "A delinquent account draws a penalty.",
+   "exVi": "Một tài khoản chậm trả bị phạt.",
+   "col": [
+    "delinquent",
+    "a delinquent account"
+   ]
+  },
+  {
+   "id": "bk037",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "lucrative",
+   "ipa": "/ˈluːkrətɪv/",
+   "pos": "adj",
+   "vi": "sinh lời",
+   "ex": "The lending business proved lucrative.",
+   "exVi": "Mảng cho vay tỏ ra sinh lời.",
+   "col": [
+    "lucrative",
+    "a lucrative deal"
+   ]
+  },
+  {
+   "id": "bk038",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "fixed",
+   "ipa": "/fɪkst/",
+   "pos": "adj",
+   "vi": "cố định",
+   "ex": "A fixed rate stays the same all term.",
+   "exVi": "Một lãi suất cố định giữ nguyên suốt kỳ hạn.",
+   "col": [
+    "fixed",
+    "a fixed rate"
+   ]
+  },
+  {
+   "id": "bk039",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "variable",
+   "ipa": "/ˈveəriəbl/",
+   "pos": "adj",
+   "vi": "thả nổi",
+   "ex": "A variable rate moves with the market.",
+   "exVi": "Một lãi suất thả nổi thay đổi theo thị trường.",
+   "col": [
+    "variable",
+    "a variable rate"
+   ]
+  },
+  {
+   "id": "bk040",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "short-term",
+   "ipa": "/ˌʃɔːt ˈtɜːm/",
+   "pos": "adj",
+   "vi": "ngắn hạn",
+   "ex": "A short-term loan covers the gap.",
+   "exVi": "Một khoản vay ngắn hạn bù khoảng thiếu.",
+   "col": [
+    "short-term",
+    "a short-term loan"
+   ]
+  },
+  {
+   "id": "bk041",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "long-term",
+   "ipa": "/ˌlɒŋ ˈtɜːm/",
+   "pos": "adj",
+   "vi": "dài hạn",
+   "ex": "A long-term loan funds the new plant.",
+   "exVi": "Một khoản vay dài hạn tài trợ nhà máy mới.",
+   "col": [
+    "long-term",
+    "a long-term loan"
+   ]
+  },
+  {
+   "id": "bk042",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "deposit",
+   "ipa": "/dɪˈpɒzɪt/",
+   "pos": "n",
+   "vi": "tiền gửi",
+   "ex": "The firm made a large deposit at the bank.",
+   "exVi": "Công ty gửi một khoản lớn tại ngân hàng.",
+   "col": [
+    "a deposit",
+    "a cash deposit"
+   ]
+  },
+  {
+   "id": "bk043",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "withdrawal",
+   "ipa": "/wɪðˈdrɔːəl/",
+   "pos": "n",
+   "vi": "rút tiền",
+   "ex": "A large withdrawal needs prior notice.",
+   "exVi": "Một khoản rút lớn cần báo trước.",
+   "col": [
+    "a withdrawal",
+    "a cash withdrawal"
+   ]
+  },
+  {
+   "id": "bk044",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "transfer",
+   "ipa": "/ˈtrænsfɜː/",
+   "pos": "n",
+   "vi": "chuyển khoản",
+   "ex": "The transfer cleared within a day.",
+   "exVi": "Việc chuyển khoản hoàn tất trong một ngày.",
+   "col": [
+    "a transfer",
+    "a bank transfer"
+   ]
+  },
+  {
+   "id": "bk045",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "statement",
+   "ipa": "/ˈsteɪtmənt/",
+   "pos": "n",
+   "vi": "sao kê",
+   "ex": "The monthly statement lists every transaction.",
+   "exVi": "Sao kê hằng tháng liệt kê mọi giao dịch.",
+   "col": [
+    "a statement",
+    "a bank statement"
+   ]
+  },
+  {
+   "id": "bk046",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "balance",
+   "ipa": "/ˈbæləns/",
+   "pos": "n",
+   "vi": "số dư",
+   "ex": "The account balance rose this quarter.",
+   "exVi": "Số dư tài khoản tăng quý này.",
+   "col": [
+    "a balance",
+    "an account balance"
+   ]
+  },
+  {
+   "id": "bk047",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "account",
+   "ipa": "/əˈkaʊnt/",
+   "pos": "n",
+   "vi": "tài khoản",
+   "ex": "The firm opened a business account.",
+   "exVi": "Công ty mở một tài khoản doanh nghiệp.",
+   "col": [
+    "an account",
+    "a business account"
+   ]
+  },
+  {
+   "id": "bk048",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "branch",
+   "ipa": "/brɑːntʃ/",
+   "pos": "n",
+   "vi": "chi nhánh",
+   "ex": "The bank has a branch in every city.",
+   "exVi": "Ngân hàng có một chi nhánh ở mỗi thành phố.",
+   "col": [
+    "a branch",
+    "a bank branch"
+   ]
+  },
+  {
+   "id": "bk049",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "teller",
+   "ipa": "/ˈtelə/",
+   "pos": "n",
+   "vi": "giao dịch viên",
+   "ex": "The teller processed the deposit.",
+   "exVi": "Giao dịch viên xử lý khoản gửi.",
+   "col": [
+    "a teller",
+    "a bank teller"
+   ]
+  },
+  {
+   "id": "bk050",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "ledger",
+   "ipa": "/ˈledʒə/",
+   "pos": "n",
+   "vi": "sổ cái",
+   "ex": "Each entry is posted to the ledger.",
+   "exVi": "Mỗi bút toán được ghi vào sổ cái.",
+   "col": [
+    "a ledger",
+    "a general ledger"
+   ]
+  },
+  {
+   "id": "bk051",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "remittance",
+   "ipa": "/rɪˈmɪtəns/",
+   "pos": "n",
+   "vi": "khoản chuyển tiền",
+   "ex": "The remittance arrived from overseas.",
+   "exVi": "Khoản chuyển tiền tới từ nước ngoài.",
+   "col": [
+    "a remittance",
+    "an overseas remittance"
+   ]
+  },
+  {
+   "id": "bk052",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "draft",
+   "ipa": "/drɑːft/",
+   "pos": "n",
+   "vi": "hối phiếu",
+   "ex": "A bank draft settled the large bill.",
+   "exVi": "Một hối phiếu ngân hàng thanh toán hoá đơn lớn.",
+   "col": [
+    "a draft",
+    "a bank draft"
+   ]
+  },
+  {
+   "id": "bk053",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "clearance",
+   "ipa": "/ˈklɪərəns/",
+   "pos": "n",
+   "vi": "thanh toán bù trừ",
+   "ex": "Cheque clearance takes two days.",
+   "exVi": "Việc thanh toán bù trừ séc mất hai ngày.",
+   "col": [
+    "clearance",
+    "cheque clearance"
+   ]
+  },
+  {
+   "id": "bk054",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "custody",
+   "ipa": "/ˈkʌstədi/",
+   "pos": "n",
+   "vi": "lưu ký",
+   "ex": "The bank holds the assets in custody.",
+   "exVi": "Ngân hàng giữ tài sản dưới hình thức lưu ký.",
+   "col": [
+    "custody",
+    "safe custody"
+   ]
+  },
+  {
+   "id": "bk055",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "reserve",
+   "ipa": "/rɪˈzɜːv/",
+   "pos": "n",
+   "vi": "dự trữ",
+   "ex": "The bank keeps a cash reserve.",
+   "exVi": "Ngân hàng giữ một khoản dự trữ tiền mặt.",
+   "col": [
+    "a reserve",
+    "a cash reserve"
+   ]
+  },
+  {
+   "id": "bk056",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "compliance",
+   "ipa": "/kəmˈplaɪəns/",
+   "pos": "n",
+   "vi": "tuân thủ",
+   "ex": "The bank follows strict compliance rules.",
+   "exVi": "Ngân hàng theo các quy tắc tuân thủ nghiêm ngặt.",
+   "col": [
+    "compliance",
+    "regulatory compliance"
+   ]
+  },
+  {
+   "id": "bk057",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "audit",
+   "ipa": "/ˈɔːdɪt/",
+   "pos": "n",
+   "vi": "kiểm toán",
+   "ex": "An annual audit reviews the accounts.",
+   "exVi": "Một cuộc kiểm toán hằng năm rà soát sổ sách.",
+   "col": [
+    "an audit",
+    "an internal audit"
+   ]
+  },
+  {
+   "id": "bk058",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "fraud",
+   "ipa": "/frɔːd/",
+   "pos": "n",
+   "vi": "gian lận",
+   "ex": "The bank has strong fraud controls.",
+   "exVi": "Ngân hàng có các biện pháp kiểm soát gian lận mạnh.",
+   "col": [
+    "fraud",
+    "fraud detection"
+   ]
+  },
+  {
+   "id": "bk059",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "fee",
+   "ipa": "/fiː/",
+   "pos": "n",
+   "vi": "phí",
+   "ex": "A small fee applies to each transfer.",
+   "exVi": "Một khoản phí nhỏ áp cho mỗi lần chuyển.",
+   "col": [
+    "a fee",
+    "a bank fee"
+   ]
+  },
+  {
+   "id": "bk060",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "charge",
+   "ipa": "/tʃɑːdʒ/",
+   "pos": "n",
+   "vi": "khoản phí",
+   "ex": "A late charge applies after the due date.",
+   "exVi": "Một khoản phí muộn áp sau hạn.",
+   "col": [
+    "a charge",
+    "a service charge"
+   ]
+  },
+  {
+   "id": "bk061",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "surcharge",
+   "ipa": "/ˈsɜːtʃɑːdʒ/",
+   "pos": "n",
+   "vi": "phụ phí",
+   "ex": "A surcharge applies to overseas payments.",
+   "exVi": "Một phụ phí áp cho các khoản thanh toán nước ngoài.",
+   "col": [
+    "a surcharge",
+    "a small surcharge"
+   ]
+  },
+  {
+   "id": "bk062",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "withdraw",
+   "ipa": "/wɪðˈdrɔː/",
+   "pos": "v",
+   "vi": "rút",
+   "ex": "The firm can withdraw funds for the payroll.",
+   "exVi": "Công ty có thể rút tiền cho bảng lương.",
+   "col": [
+    "withdraw",
+    "withdraw cash"
+   ]
+  },
+  {
+   "id": "bk063",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "debit",
+   "ipa": "/ˈdebɪt/",
+   "pos": "v",
+   "vi": "ghi nợ",
+   "ex": "The fee was debited from the account.",
+   "exVi": "Khoản phí được ghi nợ từ tài khoản.",
+   "col": [
+    "debit",
+    "debit an account"
+   ]
+  },
+  {
+   "id": "bk064",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "reconcile",
+   "ipa": "/ˈrekənsaɪl/",
+   "pos": "v",
+   "vi": "đối chiếu",
+   "ex": "The clerk reconciled the two balances.",
+   "exVi": "Nhân viên đối chiếu hai số dư.",
+   "col": [
+    "reconcile",
+    "reconcile accounts"
+   ]
+  },
+  {
+   "id": "bk065",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "clear",
+   "ipa": "/klɪə/",
+   "pos": "v",
+   "vi": "thanh toán xong",
+   "ex": "The payment cleared within a day.",
+   "exVi": "Khoản thanh toán hoàn tất trong một ngày.",
+   "col": [
+    "clear",
+    "clear a cheque"
+   ]
+  },
+  {
+   "id": "bk066",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "authorize",
+   "ipa": "/ˈɔːθəraɪz/",
+   "pos": "v",
+   "vi": "uỷ quyền",
+   "ex": "Only a manager can authorize the transfer.",
+   "exVi": "Chỉ quản lý mới có thể uỷ quyền chuyển khoản.",
+   "col": [
+    "authorize",
+    "authorize a payment"
+   ]
+  },
+  {
+   "id": "bk067",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "verify",
+   "ipa": "/ˈverɪfaɪ/",
+   "pos": "v",
+   "vi": "xác minh",
+   "ex": "Staff verify the account before payment.",
+   "exVi": "Nhân viên xác minh tài khoản trước khi thanh toán.",
+   "col": [
+    "verify",
+    "verify details"
+   ]
+  },
+  {
+   "id": "bk068",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "process",
+   "ipa": "/ˈprəʊses/",
+   "pos": "v",
+   "vi": "xử lý",
+   "ex": "The bank processes payments within hours.",
+   "exVi": "Ngân hàng xử lý các khoản thanh toán trong vài giờ.",
+   "col": [
+    "process",
+    "process a payment"
+   ]
+  },
+  {
+   "id": "bk069",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "electronic",
+   "ipa": "/ɪˌlekˈtrɒnɪk/",
+   "pos": "adj",
+   "vi": "điện tử",
+   "ex": "Electronic transfers are fast and safe.",
+   "exVi": "Chuyển khoản điện tử nhanh và an toàn.",
+   "col": [
+    "electronic",
+    "electronic banking"
+   ]
+  },
+  {
+   "id": "bk070",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "digital",
+   "ipa": "/ˈdɪdʒɪtl/",
+   "pos": "adj",
+   "vi": "kỹ thuật số",
+   "ex": "The bank offers digital services.",
+   "exVi": "Ngân hàng cung cấp các dịch vụ kỹ thuật số.",
+   "col": [
+    "digital",
+    "digital banking"
+   ]
+  },
+  {
+   "id": "bk071",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "contactless",
+   "ipa": "/ˈkɒntæktləs/",
+   "pos": "adj",
+   "vi": "không tiếp xúc",
+   "ex": "Contactless payment speeds up the queue.",
+   "exVi": "Thanh toán không tiếp xúc giúp hàng đợi nhanh hơn.",
+   "col": [
+    "contactless",
+    "contactless payment"
+   ]
+  },
+  {
+   "id": "bk072",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "domestic",
+   "ipa": "/dəˈmestɪk/",
+   "pos": "adj",
+   "vi": "nội địa",
+   "ex": "A domestic transfer clears the same day.",
+   "exVi": "Một khoản chuyển nội địa hoàn tất trong ngày.",
+   "col": [
+    "domestic",
+    "a domestic transfer"
+   ]
+  },
+  {
+   "id": "bk073",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "international",
+   "ipa": "/ˌɪntəˈnæʃnəl/",
+   "pos": "adj",
+   "vi": "quốc tế",
+   "ex": "An international transfer takes longer.",
+   "exVi": "Một khoản chuyển quốc tế mất lâu hơn.",
+   "col": [
+    "international",
+    "an international transfer"
+   ]
+  },
+  {
+   "id": "bk074",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "secure",
+   "ipa": "/sɪˈkjʊə/",
+   "pos": "adj",
+   "vi": "an toàn, bảo mật",
+   "ex": "The app uses a secure connection.",
+   "exVi": "Ứng dụng dùng một kết nối bảo mật.",
+   "col": [
+    "secure",
+    "a secure system"
+   ]
+  },
+  {
+   "id": "bk075",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "pending",
+   "ipa": "/ˈpendɪŋ/",
+   "pos": "adj",
+   "vi": "đang chờ xử lý",
+   "ex": "The transfer is still pending.",
+   "exVi": "Việc chuyển khoản vẫn đang chờ xử lý.",
+   "col": [
+    "pending",
+    "a pending transaction"
+   ]
+  },
+  {
+   "id": "bk076",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "authorized",
+   "ipa": "/ˈɔːθəraɪzd/",
+   "pos": "adj",
+   "vi": "được uỷ quyền",
+   "ex": "Only authorized staff handle the cash.",
+   "exVi": "Chỉ nhân viên được uỷ quyền xử lý tiền mặt.",
+   "col": [
+    "authorized",
+    "an authorized user"
+   ]
+  },
+  {
+   "id": "bk077",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "frozen",
+   "ipa": "/ˈfrəʊzn/",
+   "pos": "adj",
+   "vi": "bị phong toả",
+   "ex": "The account was frozen during the check.",
+   "exVi": "Tài khoản bị phong toả trong lúc kiểm tra.",
+   "col": [
+    "frozen",
+    "a frozen account"
+   ]
+  },
+  {
+   "id": "bk078",
+   "topic": "Ngân hàng doanh nghiệp & tín dụng",
+   "w": "dormant",
+   "ipa": "/ˈdɔːmənt/",
+   "pos": "adj",
+   "vi": "không hoạt động",
+   "ex": "A dormant account has had no activity.",
+   "exVi": "Một tài khoản không hoạt động không có giao dịch nào.",
+   "col": [
+    "dormant",
+    "a dormant account"
+   ]
+  }
+ ]
+}

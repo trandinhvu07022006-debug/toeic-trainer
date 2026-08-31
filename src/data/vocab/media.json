@@ -1,0 +1,1265 @@
+{
+ "topic": "Truyền thông & báo chí",
+ "words": [
+  {
+   "id": "md001",
+   "topic": "Truyền thông & báo chí",
+   "w": "media",
+   "ipa": "/ˈmiːdiə/",
+   "pos": "n",
+   "vi": "truyền thông",
+   "ex": "The story spread quickly across social media.",
+   "exVi": "Câu chuyện lan nhanh trên mạng xã hội.",
+   "col": [
+    "social media",
+    "the mass media"
+   ]
+  },
+  {
+   "id": "md002",
+   "topic": "Truyền thông & báo chí",
+   "w": "journalist",
+   "ipa": "/ˈdʒɜːnəlɪst/",
+   "pos": "n",
+   "vi": "nhà báo",
+   "ex": "A journalist interviewed the company director.",
+   "exVi": "Một nhà báo phỏng vấn giám đốc công ty.",
+   "col": [
+    "an investigative journalist",
+    "a freelance journalist"
+   ]
+  },
+  {
+   "id": "md003",
+   "topic": "Truyền thông & báo chí",
+   "w": "reporter",
+   "ipa": "/rɪˈpɔːtə/",
+   "pos": "n",
+   "vi": "phóng viên",
+   "ex": "The reporter covered the story from the scene.",
+   "exVi": "Phóng viên đưa tin từ hiện trường.",
+   "col": [
+    "a news reporter",
+    "a field reporter"
+   ]
+  },
+  {
+   "id": "md004",
+   "topic": "Truyền thông & báo chí",
+   "w": "correspondent",
+   "ipa": "/ˌkɒrɪˈspɒndənt/",
+   "pos": "n",
+   "vi": "thông tín viên",
+   "ex": "The paper's foreign correspondent filed the report.",
+   "exVi": "Thông tín viên nước ngoài của báo gửi bài về.",
+   "col": [
+    "a foreign correspondent",
+    "a war correspondent"
+   ]
+  },
+  {
+   "id": "md005",
+   "topic": "Truyền thông & báo chí",
+   "w": "editor",
+   "ipa": "/ˈedɪtə/",
+   "pos": "n",
+   "vi": "biên tập viên",
+   "ex": "The editor approved the front-page headline.",
+   "exVi": "Biên tập viên duyệt tiêu đề trang nhất.",
+   "col": [
+    "a chief editor",
+    "a news editor"
+   ]
+  },
+  {
+   "id": "md006",
+   "topic": "Truyền thông & báo chí",
+   "w": "publisher",
+   "ipa": "/ˈpʌblɪʃə/",
+   "pos": "n",
+   "vi": "nhà xuất bản",
+   "ex": "The publisher released the book in three languages.",
+   "exVi": "Nhà xuất bản phát hành cuốn sách bằng ba thứ tiếng.",
+   "col": [
+    "a book publisher",
+    "a major publisher"
+   ]
+  },
+  {
+   "id": "md007",
+   "topic": "Truyền thông & báo chí",
+   "w": "broadcaster",
+   "ipa": "/ˈbrɔːdkɑːstə/",
+   "pos": "n",
+   "vi": "đài phát sóng",
+   "ex": "The broadcaster aired the debate live.",
+   "exVi": "Đài phát sóng phát trực tiếp cuộc tranh luận.",
+   "col": [
+    "a national broadcaster",
+    "a public broadcaster"
+   ]
+  },
+  {
+   "id": "md008",
+   "topic": "Truyền thông & báo chí",
+   "w": "headline",
+   "ipa": "/ˈhedlaɪn/",
+   "pos": "n",
+   "vi": "tiêu đề",
+   "ex": "The headline caught readers' attention instantly.",
+   "exVi": "Tiêu đề thu hút sự chú ý của độc giả ngay lập tức.",
+   "col": [
+    "a front-page headline",
+    "make the headlines"
+   ]
+  },
+  {
+   "id": "md009",
+   "topic": "Truyền thông & báo chí",
+   "w": "article",
+   "ipa": "/ˈɑːtɪkl/",
+   "pos": "n",
+   "vi": "bài báo",
+   "ex": "The article covered the merger in detail.",
+   "exVi": "Bài báo đưa tin chi tiết về vụ sáp nhập.",
+   "col": [
+    "a news article",
+    "write an article"
+   ]
+  },
+  {
+   "id": "md010",
+   "topic": "Truyền thông & báo chí",
+   "w": "feature",
+   "ipa": "/ˈfiːtʃə/",
+   "pos": "n",
+   "vi": "bài chuyên đề",
+   "ex": "The magazine ran a feature on local startups.",
+   "exVi": "Tạp chí đăng một bài chuyên đề về các công ty khởi nghiệp địa phương.",
+   "col": [
+    "a feature article",
+    "a cover feature"
+   ]
+  },
+  {
+   "id": "md011",
+   "topic": "Truyền thông & báo chí",
+   "w": "column",
+   "ipa": "/ˈkɒləm/",
+   "pos": "n",
+   "vi": "chuyên mục",
+   "ex": "Her weekly column discusses business trends.",
+   "exVi": "Chuyên mục hằng tuần của bà bàn về xu hướng kinh doanh.",
+   "col": [
+    "a weekly column",
+    "a regular column"
+   ]
+  },
+  {
+   "id": "md012",
+   "topic": "Truyền thông & báo chí",
+   "w": "coverage",
+   "ipa": "/ˈkʌvərɪdʒ/",
+   "pos": "n",
+   "vi": "việc đưa tin",
+   "ex": "The event received wide media coverage.",
+   "exVi": "Sự kiện nhận được sự đưa tin rộng rãi.",
+   "col": [
+    "media coverage",
+    "wide coverage"
+   ]
+  },
+  {
+   "id": "md013",
+   "topic": "Truyền thông & báo chí",
+   "w": "broadcast",
+   "ipa": "/ˈbrɔːdkɑːst/",
+   "pos": "n, v",
+   "vi": "phát sóng",
+   "ex": "The broadcast reached millions of viewers.",
+   "exVi": "Buổi phát sóng đến với hàng triệu người xem.",
+   "col": [
+    "a live broadcast",
+    "broadcast a programme"
+   ]
+  },
+  {
+   "id": "md014",
+   "topic": "Truyền thông & báo chí",
+   "w": "publication",
+   "ipa": "/ˌpʌblɪˈkeɪʃn/",
+   "pos": "n",
+   "vi": "ấn phẩm",
+   "ex": "The publication comes out every month.",
+   "exVi": "Ấn phẩm ra mắt hằng tháng.",
+   "col": [
+    "a monthly publication",
+    "a trade publication"
+   ]
+  },
+  {
+   "id": "md015",
+   "topic": "Truyền thông & báo chí",
+   "w": "circulation",
+   "ipa": "/ˌsɜːkjuˈleɪʃn/",
+   "pos": "n",
+   "vi": "lượng phát hành",
+   "ex": "The paper's circulation grew last year.",
+   "exVi": "Lượng phát hành của báo tăng năm ngoái.",
+   "col": [
+    "a wide circulation",
+    "increase circulation"
+   ]
+  },
+  {
+   "id": "md016",
+   "topic": "Truyền thông & báo chí",
+   "w": "readership",
+   "ipa": "/ˈriːdəʃɪp/",
+   "pos": "n",
+   "vi": "lượng độc giả",
+   "ex": "The magazine has a young readership.",
+   "exVi": "Tạp chí có một lượng độc giả trẻ.",
+   "col": [
+    "a wide readership",
+    "a loyal readership"
+   ]
+  },
+  {
+   "id": "md017",
+   "topic": "Truyền thông & báo chí",
+   "w": "audience",
+   "ipa": "/ˈɔːdiəns/",
+   "pos": "n",
+   "vi": "khán giả",
+   "ex": "The show attracts a large evening audience.",
+   "exVi": "Chương trình thu hút một lượng khán giả buổi tối lớn.",
+   "col": [
+    "a target audience",
+    "a large audience"
+   ]
+  },
+  {
+   "id": "md018",
+   "topic": "Truyền thông & báo chí",
+   "w": "viewer",
+   "ipa": "/ˈvjuːə/",
+   "pos": "n",
+   "vi": "người xem",
+   "ex": "Millions of viewers watched the final.",
+   "exVi": "Hàng triệu người xem theo dõi trận chung kết.",
+   "col": [
+    "a regular viewer",
+    "a loyal viewer"
+   ]
+  },
+  {
+   "id": "md019",
+   "topic": "Truyền thông & báo chí",
+   "w": "subscriber",
+   "ipa": "/səbˈskraɪbə/",
+   "pos": "n",
+   "vi": "người đăng ký",
+   "ex": "The channel gained thousands of subscribers.",
+   "exVi": "Kênh có thêm hàng nghìn người đăng ký.",
+   "col": [
+    "a new subscriber",
+    "a paying subscriber"
+   ]
+  },
+  {
+   "id": "md020",
+   "topic": "Truyền thông & báo chí",
+   "w": "press release",
+   "ipa": "/pres rɪˈliːs/",
+   "pos": "n",
+   "vi": "thông cáo báo chí",
+   "ex": "The firm issued a press release about the launch.",
+   "exVi": "Công ty phát một thông cáo báo chí về việc ra mắt.",
+   "col": [
+    "a press release",
+    "issue a press release"
+   ]
+  },
+  {
+   "id": "md021",
+   "topic": "Truyền thông & báo chí",
+   "w": "statement",
+   "ipa": "/ˈsteɪtmənt/",
+   "pos": "n",
+   "vi": "tuyên bố",
+   "ex": "The company gave a short statement to the press.",
+   "exVi": "Công ty đưa một tuyên bố ngắn cho báo chí.",
+   "col": [
+    "an official statement",
+    "issue a statement"
+   ]
+  },
+  {
+   "id": "md022",
+   "topic": "Truyền thông & báo chí",
+   "w": "interview",
+   "ipa": "/ˈɪntəvjuː/",
+   "pos": "n",
+   "vi": "cuộc phỏng vấn",
+   "ex": "The director gave a rare interview yesterday.",
+   "exVi": "Giám đốc cho một cuộc phỏng vấn hiếm hoi hôm qua.",
+   "col": [
+    "a live interview",
+    "an exclusive interview"
+   ]
+  },
+  {
+   "id": "md023",
+   "topic": "Truyền thông & báo chí",
+   "w": "quote",
+   "ipa": "/kwəʊt/",
+   "pos": "n",
+   "vi": "lời trích dẫn",
+   "ex": "The reporter used a direct quote from the source.",
+   "exVi": "Phóng viên dùng một lời trích dẫn trực tiếp từ nguồn.",
+   "col": [
+    "a direct quote",
+    "a famous quote"
+   ]
+  },
+  {
+   "id": "md024",
+   "topic": "Truyền thông & báo chí",
+   "w": "source",
+   "ipa": "/sɔːs/",
+   "pos": "n",
+   "vi": "nguồn tin",
+   "ex": "A reliable source confirmed the news.",
+   "exVi": "Một nguồn tin đáng tin cậy xác nhận tin này.",
+   "col": [
+    "a reliable source",
+    "an anonymous source"
+   ]
+  },
+  {
+   "id": "md025",
+   "topic": "Truyền thông & báo chí",
+   "w": "coverage angle",
+   "ipa": "/ˈkʌvərɪdʒ ˈæŋɡl/",
+   "pos": "n",
+   "vi": "góc độ đưa tin",
+   "ex": "Each paper took a different coverage angle.",
+   "exVi": "Mỗi tờ báo chọn một góc độ đưa tin khác nhau.",
+   "col": [
+    "a coverage angle",
+    "a fresh coverage angle"
+   ]
+  },
+  {
+   "id": "md026",
+   "topic": "Truyền thông & báo chí",
+   "w": "deadline",
+   "ipa": "/ˈdedlaɪn/",
+   "pos": "n",
+   "vi": "hạn nộp bài",
+   "ex": "The reporter met the deadline with minutes to spare.",
+   "exVi": "Phóng viên kịp hạn nộp bài chỉ vài phút trước.",
+   "col": [
+    "meet a deadline",
+    "a tight deadline"
+   ]
+  },
+  {
+   "id": "md027",
+   "topic": "Truyền thông & báo chí",
+   "w": "newsroom",
+   "ipa": "/ˈnjuːzruːm/",
+   "pos": "n",
+   "vi": "phòng tin tức",
+   "ex": "The newsroom stays busy until late at night.",
+   "exVi": "Phòng tin tức bận rộn tới tận khuya.",
+   "col": [
+    "a busy newsroom",
+    "the newsroom"
+   ]
+  },
+  {
+   "id": "md028",
+   "topic": "Truyền thông & báo chí",
+   "w": "outlet",
+   "ipa": "/ˈaʊtlet/",
+   "pos": "n",
+   "vi": "kênh truyền thông",
+   "ex": "Several outlets picked up the story.",
+   "exVi": "Vài kênh truyền thông đăng lại câu chuyện.",
+   "col": [
+    "a media outlet",
+    "a news outlet"
+   ]
+  },
+  {
+   "id": "md029",
+   "topic": "Truyền thông & báo chí",
+   "w": "bulletin",
+   "ipa": "/ˈbʊlətɪn/",
+   "pos": "n",
+   "vi": "bản tin",
+   "ex": "A news bulletin airs on the hour.",
+   "exVi": "Một bản tin phát vào mỗi đầu giờ.",
+   "col": [
+    "a news bulletin",
+    "an evening bulletin"
+   ]
+  },
+  {
+   "id": "md030",
+   "topic": "Truyền thông & báo chí",
+   "w": "briefing",
+   "ipa": "/ˈbriːfɪŋ/",
+   "pos": "n",
+   "vi": "buổi thông tin báo chí",
+   "ex": "The spokesperson held a briefing this morning.",
+   "exVi": "Người phát ngôn tổ chức một buổi thông tin sáng nay.",
+   "col": [
+    "a press briefing",
+    "a daily briefing"
+   ]
+  },
+  {
+   "id": "md031",
+   "topic": "Truyền thông & báo chí",
+   "w": "spokesperson",
+   "ipa": "/ˈspəʊkspɜːsn/",
+   "pos": "n",
+   "vi": "người phát ngôn",
+   "ex": "A spokesperson answered the reporters' questions.",
+   "exVi": "Một người phát ngôn trả lời câu hỏi của phóng viên.",
+   "col": [
+    "a company spokesperson",
+    "an official spokesperson"
+   ]
+  },
+  {
+   "id": "md032",
+   "topic": "Truyền thông & báo chí",
+   "w": "publicity",
+   "ipa": "/pʌbˈlɪsəti/",
+   "pos": "n",
+   "vi": "sự công khai rộng rãi",
+   "ex": "The launch generated a lot of publicity.",
+   "exVi": "Buổi ra mắt tạo nhiều sự chú ý của truyền thông.",
+   "col": [
+    "good publicity",
+    "gain publicity"
+   ]
+  },
+  {
+   "id": "md033",
+   "topic": "Truyền thông & báo chí",
+   "w": "exposure",
+   "ipa": "/ɪkˈspəʊʒə/",
+   "pos": "n",
+   "vi": "sự tiếp xúc truyền thông",
+   "ex": "The award gave the firm valuable exposure.",
+   "exVi": "Giải thưởng cho công ty sự tiếp xúc truyền thông giá trị.",
+   "col": [
+    "media exposure",
+    "gain exposure"
+   ]
+  },
+  {
+   "id": "md034",
+   "topic": "Truyền thông & báo chí",
+   "w": "editorial",
+   "ipa": "/ˌedɪˈtɔːriəl/",
+   "pos": "n",
+   "vi": "bài xã luận",
+   "ex": "The editorial praised the new policy.",
+   "exVi": "Bài xã luận khen chính sách mới.",
+   "col": [
+    "an editorial",
+    "a newspaper editorial"
+   ]
+  },
+  {
+   "id": "md035",
+   "topic": "Truyền thông & báo chí",
+   "w": "subscription",
+   "ipa": "/səbˈskrɪpʃn/",
+   "pos": "n",
+   "vi": "gói đăng ký báo",
+   "ex": "A digital subscription costs less than print.",
+   "exVi": "Gói đăng ký báo số rẻ hơn bản in.",
+   "col": [
+    "a digital subscription",
+    "renew a subscription"
+   ]
+  },
+  {
+   "id": "md036",
+   "topic": "Truyền thông & báo chí",
+   "w": "archive",
+   "ipa": "/ˈɑːkaɪv/",
+   "pos": "n",
+   "vi": "kho lưu trữ",
+   "ex": "The newspaper archive dates back a century.",
+   "exVi": "Kho lưu trữ của báo có từ một thế kỷ trước.",
+   "col": [
+    "a news archive",
+    "a digital archive"
+   ]
+  },
+  {
+   "id": "md037",
+   "topic": "Truyền thông & báo chí",
+   "w": "footage",
+   "ipa": "/ˈfʊtɪdʒ/",
+   "pos": "n",
+   "vi": "đoạn phim tư liệu",
+   "ex": "The report used footage from the scene.",
+   "exVi": "Bản tin dùng đoạn phim tư liệu từ hiện trường.",
+   "col": [
+    "video footage",
+    "raw footage"
+   ]
+  },
+  {
+   "id": "md038",
+   "topic": "Truyền thông & báo chí",
+   "w": "transcript",
+   "ipa": "/ˈtrænskrɪpt/",
+   "pos": "n",
+   "vi": "bản ghi lời",
+   "ex": "A full transcript of the interview was published.",
+   "exVi": "Bản ghi đầy đủ của cuộc phỏng vấn được đăng.",
+   "col": [
+    "a full transcript",
+    "an interview transcript"
+   ]
+  },
+  {
+   "id": "md039",
+   "topic": "Truyền thông & báo chí",
+   "w": "verify",
+   "ipa": "/ˈverɪfaɪ/",
+   "pos": "v",
+   "vi": "kiểm chứng",
+   "ex": "Reporters verify facts before publishing.",
+   "exVi": "Phóng viên kiểm chứng thông tin trước khi đăng.",
+   "col": [
+    "verify a fact",
+    "verify a source"
+   ]
+  },
+  {
+   "id": "md040",
+   "topic": "Truyền thông & báo chí",
+   "w": "disseminate",
+   "ipa": "/dɪˈsemɪneɪt/",
+   "pos": "v",
+   "vi": "phổ biến thông tin",
+   "ex": "The agency disseminates news to member papers.",
+   "exVi": "Hãng phổ biến tin cho các báo thành viên.",
+   "col": [
+    "disseminate information",
+    "widely disseminate"
+   ]
+  },
+  {
+   "id": "md041",
+   "topic": "Truyền thông & báo chí",
+   "w": "censor",
+   "ipa": "/ˈsensə/",
+   "pos": "v",
+   "vi": "kiểm duyệt",
+   "ex": "The article was censored before it appeared.",
+   "exVi": "Bài báo bị kiểm duyệt trước khi xuất hiện.",
+   "col": [
+    "censor a report",
+    "heavily censored"
+   ]
+  },
+  {
+   "id": "md042",
+   "topic": "Truyền thông & báo chí",
+   "w": "retract",
+   "ipa": "/rɪˈtrækt/",
+   "pos": "v",
+   "vi": "đính chính, rút lại",
+   "ex": "The paper retracted the false claim.",
+   "exVi": "Báo rút lại tuyên bố sai.",
+   "col": [
+    "retract a story",
+    "retract a statement"
+   ]
+  },
+  {
+   "id": "md043",
+   "topic": "Truyền thông & báo chí",
+   "w": "prominent",
+   "ipa": "/ˈprɒmɪnənt/",
+   "pos": "adj",
+   "vi": "nổi bật",
+   "ex": "The news got a prominent spot on the front page.",
+   "exVi": "Tin được đặt ở vị trí nổi bật trên trang nhất.",
+   "col": [
+    "a prominent figure",
+    "a prominent position"
+   ]
+  },
+  {
+   "id": "md044",
+   "topic": "Truyền thông & báo chí",
+   "w": "impartial",
+   "ipa": "/ɪmˈpɑːʃl/",
+   "pos": "adj",
+   "vi": "khách quan",
+   "ex": "Good reporting stays impartial and factual.",
+   "exVi": "Việc đưa tin tốt giữ khách quan và đúng sự thật.",
+   "col": [
+    "impartial coverage",
+    "remain impartial"
+   ]
+  },
+  {
+   "id": "md045",
+   "topic": "Truyền thông & báo chí",
+   "w": "credible",
+   "ipa": "/ˈkredəbl/",
+   "pos": "adj",
+   "vi": "đáng tin",
+   "ex": "The report drew on credible sources.",
+   "exVi": "Bản tin dựa trên các nguồn đáng tin.",
+   "col": [
+    "a credible source",
+    "a credible report"
+   ]
+  },
+  {
+   "id": "md046",
+   "topic": "Truyền thông & báo chí",
+   "w": "advertisement",
+   "ipa": "/ədˈvɜːtɪsmənt/",
+   "pos": "n",
+   "vi": "quảng cáo",
+   "ex": "A full-page advertisement ran in the weekend edition.",
+   "exVi": "Một quảng cáo trọn trang chạy trong số cuối tuần.",
+   "col": [
+    "a full-page advertisement",
+    "place an advertisement"
+   ]
+  },
+  {
+   "id": "md047",
+   "topic": "Truyền thông & báo chí",
+   "w": "edition",
+   "ipa": "/ɪˈdɪʃn/",
+   "pos": "n",
+   "vi": "số báo, ấn bản",
+   "ex": "The weekend edition carries extra features.",
+   "exVi": "Số cuối tuần có thêm nhiều bài chuyên đề.",
+   "col": [
+    "a special edition",
+    "the weekend edition"
+   ]
+  },
+  {
+   "id": "md048",
+   "topic": "Truyền thông & báo chí",
+   "w": "issue",
+   "ipa": "/ˈɪʃuː/",
+   "pos": "n",
+   "vi": "số phát hành",
+   "ex": "The latest issue focuses on technology.",
+   "exVi": "Số mới nhất tập trung vào công nghệ.",
+   "col": [
+    "the latest issue",
+    "a monthly issue"
+   ]
+  },
+  {
+   "id": "md049",
+   "topic": "Truyền thông & báo chí",
+   "w": "layout",
+   "ipa": "/ˈleɪaʊt/",
+   "pos": "n",
+   "vi": "dàn trang",
+   "ex": "The new layout makes the page easier to read.",
+   "exVi": "Cách dàn trang mới giúp trang dễ đọc hơn.",
+   "col": [
+    "a page layout",
+    "a clean layout"
+   ]
+  },
+  {
+   "id": "md050",
+   "topic": "Truyền thông & báo chí",
+   "w": "caption",
+   "ipa": "/ˈkæpʃn/",
+   "pos": "n",
+   "vi": "chú thích ảnh",
+   "ex": "Each photo carries a short caption.",
+   "exVi": "Mỗi ảnh có một chú thích ngắn.",
+   "col": [
+    "a photo caption",
+    "write a caption"
+   ]
+  },
+  {
+   "id": "md051",
+   "topic": "Truyền thông & báo chí",
+   "w": "byline",
+   "ipa": "/ˈbaɪlaɪn/",
+   "pos": "n",
+   "vi": "dòng tên tác giả",
+   "ex": "Her byline appears above the article.",
+   "exVi": "Dòng tên tác giả của bà hiện trên bài báo.",
+   "col": [
+    "a byline",
+    "a front-page byline"
+   ]
+  },
+  {
+   "id": "md052",
+   "topic": "Truyền thông & báo chí",
+   "w": "commentary",
+   "ipa": "/ˈkɒməntri/",
+   "pos": "n",
+   "vi": "bài bình luận",
+   "ex": "The commentary argued for stronger safety rules.",
+   "exVi": "Bài bình luận lập luận cho các quy tắc an toàn chặt hơn.",
+   "col": [
+    "political commentary",
+    "write a commentary"
+   ]
+  },
+  {
+   "id": "md053",
+   "topic": "Truyền thông & báo chí",
+   "w": "podcast",
+   "ipa": "/ˈpɒdkɑːst/",
+   "pos": "n",
+   "vi": "chương trình phát thanh mạng",
+   "ex": "The company launched a weekly business podcast.",
+   "exVi": "Công ty ra mắt một podcast kinh doanh hằng tuần.",
+   "col": [
+    "a podcast",
+    "a weekly podcast"
+   ]
+  },
+  {
+   "id": "md054",
+   "topic": "Truyền thông & báo chí",
+   "w": "livestream",
+   "ipa": "/ˈlaɪvstriːm/",
+   "pos": "n",
+   "vi": "phát trực tiếp",
+   "ex": "The launch was shared through a livestream.",
+   "exVi": "Buổi ra mắt được chia sẻ qua một buổi phát trực tiếp.",
+   "col": [
+    "a livestream",
+    "watch a livestream"
+   ]
+  },
+  {
+   "id": "md055",
+   "topic": "Truyền thông & báo chí",
+   "w": "platform",
+   "ipa": "/ˈplætfɔːm/",
+   "pos": "n",
+   "vi": "nền tảng",
+   "ex": "The video reached millions on the platform.",
+   "exVi": "Video đến với hàng triệu người trên nền tảng.",
+   "col": [
+    "a media platform",
+    "a social platform"
+   ]
+  },
+  {
+   "id": "md056",
+   "topic": "Truyền thông & báo chí",
+   "w": "content",
+   "ipa": "/ˈkɒntent/",
+   "pos": "n",
+   "vi": "nội dung",
+   "ex": "Fresh content keeps the audience engaged.",
+   "exVi": "Nội dung mới giữ khán giả gắn bó.",
+   "col": [
+    "online content",
+    "create content"
+   ]
+  },
+  {
+   "id": "md057",
+   "topic": "Truyền thông & báo chí",
+   "w": "engagement",
+   "ipa": "/ɪnˈɡeɪdʒmənt/",
+   "pos": "n",
+   "vi": "mức tương tác",
+   "ex": "The post drove high engagement online.",
+   "exVi": "Bài đăng tạo mức tương tác cao trên mạng.",
+   "col": [
+    "online engagement",
+    "high engagement"
+   ]
+  },
+  {
+   "id": "md058",
+   "topic": "Truyền thông & báo chí",
+   "w": "viral",
+   "ipa": "/ˈvaɪrəl/",
+   "pos": "adj",
+   "vi": "lan truyền mạnh",
+   "ex": "The clip went viral within hours.",
+   "exVi": "Đoạn clip lan truyền mạnh trong vài giờ.",
+   "col": [
+    "go viral",
+    "a viral video"
+   ]
+  },
+  {
+   "id": "md059",
+   "topic": "Truyền thông & báo chí",
+   "w": "trending",
+   "ipa": "/ˈtrendɪŋ/",
+   "pos": "adj",
+   "vi": "đang thịnh hành",
+   "ex": "The topic was trending across the country.",
+   "exVi": "Chủ đề đang thịnh hành khắp cả nước.",
+   "col": [
+    "a trending topic",
+    "currently trending"
+   ]
+  },
+  {
+   "id": "md060",
+   "topic": "Truyền thông & báo chí",
+   "w": "influencer",
+   "ipa": "/ˈɪnfluənsə/",
+   "pos": "n",
+   "vi": "người ảnh hưởng",
+   "ex": "An influencer shared the news with her followers.",
+   "exVi": "Một người ảnh hưởng chia sẻ tin với người theo dõi.",
+   "col": [
+    "a social media influencer",
+    "a top influencer"
+   ]
+  },
+  {
+   "id": "md061",
+   "topic": "Truyền thông & báo chí",
+   "w": "follower",
+   "ipa": "/ˈfɒləʊə/",
+   "pos": "n",
+   "vi": "người theo dõi",
+   "ex": "The account gained thousands of followers.",
+   "exVi": "Tài khoản có thêm hàng nghìn người theo dõi.",
+   "col": [
+    "a follower",
+    "a loyal follower"
+   ]
+  },
+  {
+   "id": "md062",
+   "topic": "Truyền thông & báo chí",
+   "w": "outreach",
+   "ipa": "/ˈaʊtriːtʃ/",
+   "pos": "n",
+   "vi": "hoạt động tiếp cận",
+   "ex": "Media outreach spread the message widely.",
+   "exVi": "Hoạt động tiếp cận truyền thông lan toả thông điệp rộng.",
+   "col": [
+    "media outreach",
+    "community outreach"
+   ]
+  },
+  {
+   "id": "md063",
+   "topic": "Truyền thông & báo chí",
+   "w": "coverage rate",
+   "ipa": "/ˈkʌvərɪdʒ reɪt/",
+   "pos": "n",
+   "vi": "tỷ lệ phủ sóng",
+   "ex": "The campaign's coverage rate was impressive.",
+   "exVi": "Tỷ lệ phủ sóng của chiến dịch rất ấn tượng.",
+   "col": [
+    "a coverage rate",
+    "a high coverage rate"
+   ]
+  },
+  {
+   "id": "md064",
+   "topic": "Truyền thông & báo chí",
+   "w": "propaganda",
+   "ipa": "/ˌprɒpəˈɡændə/",
+   "pos": "n",
+   "vi": "tuyên truyền",
+   "ex": "The article warned against political propaganda.",
+   "exVi": "Bài báo cảnh báo về tuyên truyền chính trị.",
+   "col": [
+    "political propaganda",
+    "spread propaganda"
+   ]
+  },
+  {
+   "id": "md065",
+   "topic": "Truyền thông & báo chí",
+   "w": "misinformation",
+   "ipa": "/ˌmɪsɪnfəˈmeɪʃn/",
+   "pos": "n",
+   "vi": "thông tin sai lệch",
+   "ex": "The team works to counter misinformation online.",
+   "exVi": "Nhóm nỗ lực chống thông tin sai lệch trên mạng.",
+   "col": [
+    "spread misinformation",
+    "counter misinformation"
+   ]
+  },
+  {
+   "id": "md066",
+   "topic": "Truyền thông & báo chí",
+   "w": "disinformation",
+   "ipa": "/ˌdɪsɪnfəˈmeɪʃn/",
+   "pos": "n",
+   "vi": "thông tin gây nhiễu có chủ đích",
+   "ex": "The report exposed a disinformation campaign.",
+   "exVi": "Bản tin phơi bày một chiến dịch thông tin gây nhiễu.",
+   "col": [
+    "a disinformation campaign",
+    "spread disinformation"
+   ]
+  },
+  {
+   "id": "md067",
+   "topic": "Truyền thông & báo chí",
+   "w": "accuracy",
+   "ipa": "/ˈækjərəsi/",
+   "pos": "n",
+   "vi": "độ chính xác",
+   "ex": "Accuracy matters more than speed in reporting.",
+   "exVi": "Độ chính xác quan trọng hơn tốc độ khi đưa tin.",
+   "col": [
+    "factual accuracy",
+    "check for accuracy"
+   ]
+  },
+  {
+   "id": "md068",
+   "topic": "Truyền thông & báo chí",
+   "w": "bias",
+   "ipa": "/ˈbaɪəs/",
+   "pos": "n",
+   "vi": "thiên kiến",
+   "ex": "Readers accused the paper of political bias.",
+   "exVi": "Độc giả cáo buộc báo có thiên kiến chính trị.",
+   "col": [
+    "political bias",
+    "media bias"
+   ]
+  },
+  {
+   "id": "md069",
+   "topic": "Truyền thông & báo chí",
+   "w": "sensational",
+   "ipa": "/senˈseɪʃənl/",
+   "pos": "adj",
+   "vi": "giật gân",
+   "ex": "The headline was criticised as too sensational.",
+   "exVi": "Tiêu đề bị chê là quá giật gân.",
+   "col": [
+    "a sensational headline",
+    "a sensational story"
+   ]
+  },
+  {
+   "id": "md070",
+   "topic": "Truyền thông & báo chí",
+   "w": "tabloid",
+   "ipa": "/ˈtæblɔɪd/",
+   "pos": "n",
+   "vi": "báo lá cải",
+   "ex": "The story first appeared in a tabloid.",
+   "exVi": "Câu chuyện xuất hiện đầu tiên trên một tờ báo lá cải.",
+   "col": [
+    "a tabloid",
+    "a tabloid newspaper"
+   ]
+  },
+  {
+   "id": "md071",
+   "topic": "Truyền thông & báo chí",
+   "w": "broadsheet",
+   "ipa": "/ˈbrɔːdʃiːt/",
+   "pos": "n",
+   "vi": "báo khổ lớn",
+   "ex": "The broadsheet ran a detailed analysis.",
+   "exVi": "Tờ báo khổ lớn đăng một bài phân tích chi tiết.",
+   "col": [
+    "a broadsheet",
+    "a national broadsheet"
+   ]
+  },
+  {
+   "id": "md072",
+   "topic": "Truyền thông & báo chí",
+   "w": "syndicate",
+   "ipa": "/ˈsɪndɪkeɪt/",
+   "pos": "v",
+   "vi": "phân phối bài đăng",
+   "ex": "The column is syndicated to fifty papers.",
+   "exVi": "Chuyên mục được phân phối tới năm mươi tờ báo.",
+   "col": [
+    "syndicate a column",
+    "a syndicated article"
+   ]
+  },
+  {
+   "id": "md073",
+   "topic": "Truyền thông & báo chí",
+   "w": "subscribe",
+   "ipa": "/səbˈskraɪb/",
+   "pos": "v",
+   "vi": "đăng ký nhận",
+   "ex": "Readers subscribe to get the daily digest.",
+   "exVi": "Độc giả đăng ký để nhận bản tin tổng hợp hằng ngày.",
+   "col": [
+    "subscribe to",
+    "subscribe online"
+   ]
+  },
+  {
+   "id": "md074",
+   "topic": "Truyền thông & báo chí",
+   "w": "distribute",
+   "ipa": "/dɪˈstrɪbjuːt/",
+   "pos": "v",
+   "vi": "phát hành",
+   "ex": "The paper is distributed across the region.",
+   "exVi": "Báo được phát hành khắp khu vực.",
+   "col": [
+    "distribute copies",
+    "widely distributed"
+   ]
+  },
+  {
+   "id": "md075",
+   "topic": "Truyền thông & báo chí",
+   "w": "release",
+   "ipa": "/rɪˈliːs/",
+   "pos": "v",
+   "vi": "công bố",
+   "ex": "The studio released the news on Friday.",
+   "exVi": "Hãng công bố tin vào thứ Sáu.",
+   "col": [
+    "release a statement",
+    "release information"
+   ]
+  },
+  {
+   "id": "md076",
+   "topic": "Truyền thông & báo chí",
+   "w": "cover",
+   "ipa": "/ˈkʌvə/",
+   "pos": "v",
+   "vi": "đưa tin về",
+   "ex": "Several channels covered the announcement.",
+   "exVi": "Vài kênh đưa tin về thông báo.",
+   "col": [
+    "cover a story",
+    "cover an event"
+   ]
+  },
+  {
+   "id": "md077",
+   "topic": "Truyền thông & báo chí",
+   "w": "report",
+   "ipa": "/rɪˈpɔːt/",
+   "pos": "v, n",
+   "vi": "báo cáo, đưa tin",
+   "ex": "The paper reported the story first.",
+   "exVi": "Tờ báo đưa tin về câu chuyện đầu tiên.",
+   "col": [
+    "report a story",
+    "a news report"
+   ]
+  },
+  {
+   "id": "md078",
+   "topic": "Truyền thông & báo chí",
+   "w": "feature story",
+   "ipa": "/ˈfiːtʃə ˈstɔːri/",
+   "pos": "n",
+   "vi": "bài phóng sự",
+   "ex": "The feature story ran across two pages.",
+   "exVi": "Bài phóng sự chạy trên hai trang.",
+   "col": [
+    "a feature story",
+    "write a feature story"
+   ]
+  },
+  {
+   "id": "md079",
+   "topic": "Truyền thông & báo chí",
+   "w": "newsworthy",
+   "ipa": "/ˈnjuːzwɜːði/",
+   "pos": "adj",
+   "vi": "đáng đưa tin",
+   "ex": "The event was clearly newsworthy.",
+   "exVi": "Sự kiện rõ ràng đáng đưa tin.",
+   "col": [
+    "a newsworthy event",
+    "newsworthy content"
+   ]
+  },
+  {
+   "id": "md080",
+   "topic": "Truyền thông & báo chí",
+   "w": "timely",
+   "ipa": "/ˈtaɪmli/",
+   "pos": "adj",
+   "vi": "kịp thời",
+   "ex": "The report was praised for its timely coverage.",
+   "exVi": "Bản tin được khen vì đưa tin kịp thời.",
+   "col": [
+    "a timely report",
+    "timely coverage"
+   ]
+  },
+  {
+   "id": "md081",
+   "topic": "Truyền thông & báo chí",
+   "w": "in-depth",
+   "ipa": "/ˌɪn ˈdepθ/",
+   "pos": "adj",
+   "vi": "chuyên sâu",
+   "ex": "The magazine offered in-depth analysis.",
+   "exVi": "Tạp chí cung cấp phân tích chuyên sâu.",
+   "col": [
+    "in-depth coverage",
+    "an in-depth report"
+   ]
+  },
+  {
+   "id": "md082",
+   "topic": "Truyền thông & báo chí",
+   "w": "concise",
+   "ipa": "/kənˈsaɪs/",
+   "pos": "adj",
+   "vi": "súc tích",
+   "ex": "A concise summary opens every article.",
+   "exVi": "Một tóm tắt súc tích mở đầu mỗi bài.",
+   "col": [
+    "a concise summary",
+    "clear and concise"
+   ]
+  },
+  {
+   "id": "md083",
+   "topic": "Truyền thông & báo chí",
+   "w": "objective",
+   "ipa": "/əbˈdʒektɪv/",
+   "pos": "adj",
+   "vi": "khách quan",
+   "ex": "Objective reporting builds reader trust.",
+   "exVi": "Đưa tin khách quan xây dựng niềm tin của độc giả.",
+   "col": [
+    "objective reporting",
+    "stay objective"
+   ]
+  },
+  {
+   "id": "md084",
+   "topic": "Truyền thông & báo chí",
+   "w": "anonymous",
+   "ipa": "/əˈnɒnɪməs/",
+   "pos": "adj",
+   "vi": "ẩn danh",
+   "ex": "The tip came from an anonymous source.",
+   "exVi": "Tin mật đến từ một nguồn ẩn danh.",
+   "col": [
+    "an anonymous source",
+    "remain anonymous"
+   ]
+  },
+  {
+   "id": "md085",
+   "topic": "Truyền thông & báo chí",
+   "w": "exclusive",
+   "ipa": "/ɪkˈskluːsɪv/",
+   "pos": "adj",
+   "vi": "độc quyền",
+   "ex": "The channel aired an exclusive interview.",
+   "exVi": "Kênh phát một cuộc phỏng vấn độc quyền.",
+   "col": [
+    "an exclusive interview",
+    "an exclusive report"
+   ]
+  },
+  {
+   "id": "md086",
+   "topic": "Truyền thông & báo chí",
+   "w": "readable",
+   "ipa": "/ˈriːdəbl/",
+   "pos": "adj",
+   "vi": "dễ đọc",
+   "ex": "The style is clear and highly readable.",
+   "exVi": "Văn phong rõ ràng và rất dễ đọc.",
+   "col": [
+    "highly readable",
+    "a readable style"
+   ]
+  },
+  {
+   "id": "md087",
+   "topic": "Truyền thông & báo chí",
+   "w": "insightful",
+   "ipa": "/ɪnˈsaɪtfl/",
+   "pos": "adj",
+   "vi": "sâu sắc",
+   "ex": "The column offered an insightful take on the news.",
+   "exVi": "Chuyên mục đưa một góc nhìn sâu sắc về tin tức.",
+   "col": [
+    "an insightful comment",
+    "an insightful analysis"
+   ]
+  },
+  {
+   "id": "md088",
+   "topic": "Truyền thông & báo chí",
+   "w": "prominence",
+   "ipa": "/ˈprɒmɪnəns/",
+   "pos": "n",
+   "vi": "sự nổi bật",
+   "ex": "The story gained prominence overnight.",
+   "exVi": "Câu chuyện trở nên nổi bật chỉ sau một đêm.",
+   "col": [
+    "gain prominence",
+    "give prominence to"
+   ]
+  },
+  {
+   "id": "md089",
+   "topic": "Truyền thông & báo chí",
+   "w": "readable copy",
+   "ipa": "/ˈriːdəbl ˈkɒpi/",
+   "pos": "n",
+   "vi": "bản viết dễ đọc",
+   "ex": "Editors turn rough notes into readable copy.",
+   "exVi": "Biên tập viên biến ghi chú thô thành bản viết dễ đọc.",
+   "col": [
+    "readable copy",
+    "clear readable copy"
+   ]
+  },
+  {
+   "id": "md090",
+   "topic": "Truyền thông & báo chí",
+   "w": "newscast",
+   "ipa": "/ˈnjuːzkɑːst/",
+   "pos": "n",
+   "vi": "bản tin truyền hình",
+   "ex": "The evening newscast drew a large audience.",
+   "exVi": "Bản tin truyền hình buổi tối thu hút lượng khán giả lớn.",
+   "col": [
+    "an evening newscast",
+    "a live newscast"
+   ]
+  }
+ ]
+}

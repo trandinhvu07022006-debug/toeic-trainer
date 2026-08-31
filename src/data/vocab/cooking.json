@@ -1,0 +1,1153 @@
+{
+ "topic": "Ẩm thực & nguyên liệu nấu ăn",
+ "words": [
+  {
+   "id": "fd001",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "ingredient",
+   "ipa": "/ɪnˈɡriːdiənt/",
+   "pos": "n",
+   "vi": "nguyên liệu",
+   "ex": "Fresh ingredients make the dish tasty.",
+   "exVi": "Nguyên liệu tươi làm món ăn ngon.",
+   "col": [
+    "an ingredient",
+    "a fresh ingredient"
+   ]
+  },
+  {
+   "id": "fd002",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "recipe",
+   "ipa": "/ˈresəpi/",
+   "pos": "n",
+   "vi": "công thức",
+   "ex": "The recipe serves four people.",
+   "exVi": "Công thức đủ cho bốn người.",
+   "col": [
+    "a recipe",
+    "a simple recipe"
+   ]
+  },
+  {
+   "id": "fd003",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "flavor",
+   "ipa": "/ˈfleɪvə/",
+   "pos": "n",
+   "vi": "hương vị",
+   "ex": "The soup has a rich flavor.",
+   "exVi": "Món súp có một hương vị đậm đà.",
+   "col": [
+    "flavor",
+    "a rich flavor"
+   ]
+  },
+  {
+   "id": "fd004",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "seasoning",
+   "ipa": "/ˈsiːzənɪŋ/",
+   "pos": "n",
+   "vi": "gia vị nêm",
+   "ex": "A pinch of seasoning lifts the dish.",
+   "exVi": "Một chút gia vị làm món ăn dậy vị.",
+   "col": [
+    "seasoning",
+    "add seasoning"
+   ]
+  },
+  {
+   "id": "fd005",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "spice",
+   "ipa": "/spaɪs/",
+   "pos": "n",
+   "vi": "gia vị",
+   "ex": "A warm spice flavors the stew.",
+   "exVi": "Một loại gia vị ấm tạo vị cho món hầm.",
+   "col": [
+    "a spice",
+    "a mild spice"
+   ]
+  },
+  {
+   "id": "fd006",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "herb",
+   "ipa": "/hɜːb/",
+   "pos": "n",
+   "vi": "thảo mộc",
+   "ex": "A fresh herb tops the salad.",
+   "exVi": "Một loại thảo mộc tươi rắc lên món salad.",
+   "col": [
+    "a herb",
+    "a fresh herb"
+   ]
+  },
+  {
+   "id": "fd007",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "dough",
+   "ipa": "/dəʊ/",
+   "pos": "n",
+   "vi": "bột nhào",
+   "ex": "The dough rose in an hour.",
+   "exVi": "Bột nhào nở trong một giờ.",
+   "col": [
+    "dough",
+    "bread dough"
+   ]
+  },
+  {
+   "id": "fd008",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "batter",
+   "ipa": "/ˈbætə/",
+   "pos": "n",
+   "vi": "bột lỏng",
+   "ex": "The batter was poured into the pan.",
+   "exVi": "Bột lỏng được đổ vào chảo.",
+   "col": [
+    "batter",
+    "a smooth batter"
+   ]
+  },
+  {
+   "id": "fd009",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "broth",
+   "ipa": "/brɒθ/",
+   "pos": "n",
+   "vi": "nước dùng",
+   "ex": "A clear broth started the meal.",
+   "exVi": "Một bát nước dùng trong bắt đầu bữa ăn.",
+   "col": [
+    "broth",
+    "chicken broth"
+   ]
+  },
+  {
+   "id": "fd010",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "sauce",
+   "ipa": "/sɔːs/",
+   "pos": "n",
+   "vi": "nước sốt",
+   "ex": "A rich sauce coated the pasta.",
+   "exVi": "Một loại sốt đậm phủ lên mì.",
+   "col": [
+    "a sauce",
+    "a tomato sauce"
+   ]
+  },
+  {
+   "id": "fd011",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "gravy",
+   "ipa": "/ˈɡreɪvi/",
+   "pos": "n",
+   "vi": "nước thịt",
+   "ex": "Warm gravy topped the roast.",
+   "exVi": "Nước thịt ấm rưới lên món quay.",
+   "col": [
+    "gravy",
+    "rich gravy"
+   ]
+  },
+  {
+   "id": "fd012",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "marinade",
+   "ipa": "/ˌmærɪˈneɪd/",
+   "pos": "n",
+   "vi": "nước ướp",
+   "ex": "The meat soaked in a spicy marinade.",
+   "exVi": "Thịt ngâm trong một nước ướp cay.",
+   "col": [
+    "a marinade",
+    "a rich marinade"
+   ]
+  },
+  {
+   "id": "fd013",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "portion",
+   "ipa": "/ˈpɔːʃn/",
+   "pos": "n",
+   "vi": "khẩu phần",
+   "ex": "Each portion is enough for one.",
+   "exVi": "Mỗi khẩu phần đủ cho một người.",
+   "col": [
+    "a portion",
+    "a large portion"
+   ]
+  },
+  {
+   "id": "fd014",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "serving",
+   "ipa": "/ˈsɜːvɪŋ/",
+   "pos": "n",
+   "vi": "suất ăn",
+   "ex": "The dish makes six servings.",
+   "exVi": "Món ăn cho sáu suất.",
+   "col": [
+    "a serving",
+    "a small serving"
+   ]
+  },
+  {
+   "id": "fd015",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "appetizer",
+   "ipa": "/ˈæpɪtaɪzə/",
+   "pos": "n",
+   "vi": "món khai vị",
+   "ex": "A light appetizer opened the dinner.",
+   "exVi": "Một món khai vị nhẹ mở đầu bữa tối.",
+   "col": [
+    "an appetizer",
+    "a small appetizer"
+   ]
+  },
+  {
+   "id": "fd016",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "garnish",
+   "ipa": "/ˈɡɑːnɪʃ/",
+   "pos": "n",
+   "vi": "đồ trang trí món",
+   "ex": "A herb garnish topped the plate.",
+   "exVi": "Một chút thảo mộc trang trí lên đĩa.",
+   "col": [
+    "a garnish",
+    "a fresh garnish"
+   ]
+  },
+  {
+   "id": "fd017",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "poultry",
+   "ipa": "/ˈpəʊltri/",
+   "pos": "n",
+   "vi": "thịt gia cầm",
+   "ex": "The recipe uses poultry and rice.",
+   "exVi": "Công thức dùng thịt gia cầm và cơm.",
+   "col": [
+    "poultry",
+    "fresh poultry"
+   ]
+  },
+  {
+   "id": "fd018",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "seafood",
+   "ipa": "/ˈsiːfuːd/",
+   "pos": "n",
+   "vi": "hải sản",
+   "ex": "Fresh seafood fills the market stall.",
+   "exVi": "Hải sản tươi lấp đầy quầy chợ.",
+   "col": [
+    "seafood",
+    "fresh seafood"
+   ]
+  },
+  {
+   "id": "fd019",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "grain",
+   "ipa": "/ɡreɪn/",
+   "pos": "n",
+   "vi": "ngũ cốc",
+   "ex": "Whole grain is good for the diet.",
+   "exVi": "Ngũ cốc nguyên hạt tốt cho chế độ ăn.",
+   "col": [
+    "grain",
+    "whole grain"
+   ]
+  },
+  {
+   "id": "fd020",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "legume",
+   "ipa": "/ˈleɡjuːm/",
+   "pos": "n",
+   "vi": "họ đậu",
+   "ex": "Beans are a healthy legume.",
+   "exVi": "Đậu là một loại họ đậu lành mạnh.",
+   "col": [
+    "a legume",
+    "a dried legume"
+   ]
+  },
+  {
+   "id": "fd021",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "dairy",
+   "ipa": "/ˈdeəri/",
+   "pos": "n",
+   "vi": "sản phẩm sữa",
+   "ex": "The recipe is free of dairy.",
+   "exVi": "Công thức không chứa sản phẩm sữa.",
+   "col": [
+    "dairy",
+    "a dairy product"
+   ]
+  },
+  {
+   "id": "fd022",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "produce",
+   "ipa": "/ˈprɒdjuːs/",
+   "pos": "n",
+   "vi": "nông sản tươi",
+   "ex": "Local produce fills the basket.",
+   "exVi": "Nông sản địa phương lấp đầy giỏ.",
+   "col": [
+    "produce",
+    "fresh produce"
+   ]
+  },
+  {
+   "id": "fd023",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "knead",
+   "ipa": "/niːd/",
+   "pos": "v",
+   "vi": "nhào bột",
+   "ex": "Knead the dough for ten minutes.",
+   "exVi": "Nhào bột trong mười phút.",
+   "col": [
+    "knead",
+    "knead dough"
+   ]
+  },
+  {
+   "id": "fd024",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "whisk",
+   "ipa": "/wɪsk/",
+   "pos": "v",
+   "vi": "đánh trứng",
+   "ex": "Whisk the eggs until light.",
+   "exVi": "Đánh trứng cho tới khi bông.",
+   "col": [
+    "whisk",
+    "whisk eggs"
+   ]
+  },
+  {
+   "id": "fd025",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "chop",
+   "ipa": "/tʃɒp/",
+   "pos": "v",
+   "vi": "băm, thái",
+   "ex": "Chop the onions into small pieces.",
+   "exVi": "Thái hành thành miếng nhỏ.",
+   "col": [
+    "chop",
+    "chop finely"
+   ]
+  },
+  {
+   "id": "fd026",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "dice",
+   "ipa": "/daɪs/",
+   "pos": "v",
+   "vi": "thái hạt lựu",
+   "ex": "Dice the carrots for the stew.",
+   "exVi": "Thái hạt lựu cà rốt cho món hầm.",
+   "col": [
+    "dice",
+    "dice vegetables"
+   ]
+  },
+  {
+   "id": "fd027",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "grate",
+   "ipa": "/ɡreɪt/",
+   "pos": "v",
+   "vi": "bào sợi",
+   "ex": "Grate the cheese over the top.",
+   "exVi": "Bào sợi pho mát lên trên.",
+   "col": [
+    "grate",
+    "grate cheese"
+   ]
+  },
+  {
+   "id": "fd028",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "peel",
+   "ipa": "/piːl/",
+   "pos": "v",
+   "vi": "gọt vỏ",
+   "ex": "Peel the potatoes before boiling.",
+   "exVi": "Gọt vỏ khoai trước khi luộc.",
+   "col": [
+    "peel",
+    "peel a fruit"
+   ]
+  },
+  {
+   "id": "fd029",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "boil",
+   "ipa": "/bɔɪl/",
+   "pos": "v",
+   "vi": "luộc, đun sôi",
+   "ex": "Boil the pasta for eight minutes.",
+   "exVi": "Luộc mì trong tám phút.",
+   "col": [
+    "boil",
+    "boil water"
+   ]
+  },
+  {
+   "id": "fd030",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "simmer",
+   "ipa": "/ˈsɪmə/",
+   "pos": "v",
+   "vi": "ninh nhỏ lửa",
+   "ex": "Simmer the sauce for an hour.",
+   "exVi": "Ninh nước sốt trong một giờ.",
+   "col": [
+    "simmer",
+    "simmer gently"
+   ]
+  },
+  {
+   "id": "fd031",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "fry",
+   "ipa": "/fraɪ/",
+   "pos": "v",
+   "vi": "chiên",
+   "ex": "Fry the fish until golden.",
+   "exVi": "Chiên cá cho tới khi vàng.",
+   "col": [
+    "fry",
+    "fry lightly"
+   ]
+  },
+  {
+   "id": "fd032",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "roast",
+   "ipa": "/rəʊst/",
+   "pos": "v",
+   "vi": "nướng, quay",
+   "ex": "Roast the vegetables with oil.",
+   "exVi": "Nướng rau với dầu.",
+   "col": [
+    "roast",
+    "roast vegetables"
+   ]
+  },
+  {
+   "id": "fd033",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "grill",
+   "ipa": "/ɡrɪl/",
+   "pos": "v",
+   "vi": "nướng vỉ",
+   "ex": "Grill the meat over the flame.",
+   "exVi": "Nướng thịt trên ngọn lửa.",
+   "col": [
+    "grill",
+    "grill meat"
+   ]
+  },
+  {
+   "id": "fd034",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "steam",
+   "ipa": "/stiːm/",
+   "pos": "v",
+   "vi": "hấp",
+   "ex": "Steam the fish to keep it moist.",
+   "exVi": "Hấp cá để giữ độ ẩm.",
+   "col": [
+    "steam",
+    "steam vegetables"
+   ]
+  },
+  {
+   "id": "fd035",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "season",
+   "ipa": "/ˈsiːzn/",
+   "pos": "v",
+   "vi": "nêm nếm",
+   "ex": "Season the soup with salt.",
+   "exVi": "Nêm súp với muối.",
+   "col": [
+    "season",
+    "season to taste"
+   ]
+  },
+  {
+   "id": "fd036",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "marinate",
+   "ipa": "/ˈmærɪneɪt/",
+   "pos": "v",
+   "vi": "ướp",
+   "ex": "Marinate the chicken overnight.",
+   "exVi": "Ướp thịt gà qua đêm.",
+   "col": [
+    "marinate",
+    "marinate meat"
+   ]
+  },
+  {
+   "id": "fd037",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "blend",
+   "ipa": "/blend/",
+   "pos": "v",
+   "vi": "xay trộn",
+   "ex": "Blend the fruit into a smoothie.",
+   "exVi": "Xay trái cây thành sinh tố.",
+   "col": [
+    "blend",
+    "blend well"
+   ]
+  },
+  {
+   "id": "fd038",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "savory",
+   "ipa": "/ˈseɪvəri/",
+   "pos": "adj",
+   "vi": "đậm vị mặn",
+   "ex": "The pie has a savory filling.",
+   "exVi": "Chiếc bánh có nhân đậm vị mặn.",
+   "col": [
+    "savory",
+    "a savory dish"
+   ]
+  },
+  {
+   "id": "fd039",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "tender",
+   "ipa": "/ˈtendə/",
+   "pos": "adj",
+   "vi": "mềm",
+   "ex": "The slow-cooked meat was very tender.",
+   "exVi": "Thịt nấu chậm rất mềm.",
+   "col": [
+    "tender",
+    "tender meat"
+   ]
+  },
+  {
+   "id": "fd040",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "crispy",
+   "ipa": "/ˈkrɪspi/",
+   "pos": "adj",
+   "vi": "giòn",
+   "ex": "The skin turned crispy in the oven.",
+   "exVi": "Lớp da trở nên giòn trong lò.",
+   "col": [
+    "crispy",
+    "a crispy crust"
+   ]
+  },
+  {
+   "id": "fd041",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "bland",
+   "ipa": "/blænd/",
+   "pos": "adj",
+   "vi": "nhạt nhẽo",
+   "ex": "The soup tasted bland without salt.",
+   "exVi": "Món súp nhạt nhẽo khi thiếu muối.",
+   "col": [
+    "bland",
+    "a bland dish"
+   ]
+  },
+  {
+   "id": "fd042",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "saucepan",
+   "ipa": "/ˈsɔːspən/",
+   "pos": "n",
+   "vi": "nồi quánh",
+   "ex": "The sauce cooked in a small saucepan.",
+   "exVi": "Nước sốt được nấu trong một nồi quánh nhỏ.",
+   "col": [
+    "a saucepan",
+    "a small saucepan"
+   ]
+  },
+  {
+   "id": "fd043",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "skillet",
+   "ipa": "/ˈskɪlɪt/",
+   "pos": "n",
+   "vi": "chảo gang",
+   "ex": "The eggs sizzled in the skillet.",
+   "exVi": "Trứng xèo xèo trong chảo gang.",
+   "col": [
+    "a skillet",
+    "a hot skillet"
+   ]
+  },
+  {
+   "id": "fd044",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "colander",
+   "ipa": "/ˈkʌləndə/",
+   "pos": "n",
+   "vi": "rổ lọc",
+   "ex": "Drain the pasta in a colander.",
+   "exVi": "Để ráo mì trong một rổ lọc.",
+   "col": [
+    "a colander",
+    "a metal colander"
+   ]
+  },
+  {
+   "id": "fd045",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "spatula",
+   "ipa": "/ˈspætʃələ/",
+   "pos": "n",
+   "vi": "xẻng lật",
+   "ex": "Flip the pancake with a spatula.",
+   "exVi": "Lật bánh bằng một xẻng.",
+   "col": [
+    "a spatula",
+    "a wooden spatula"
+   ]
+  },
+  {
+   "id": "fd046",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "ladle",
+   "ipa": "/ˈleɪdl/",
+   "pos": "n",
+   "vi": "muôi",
+   "ex": "Serve the soup with a ladle.",
+   "exVi": "Múc súp bằng một cái muôi.",
+   "col": [
+    "a ladle",
+    "a soup ladle"
+   ]
+  },
+  {
+   "id": "fd047",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "grater",
+   "ipa": "/ˈɡreɪtə/",
+   "pos": "n",
+   "vi": "bàn bào",
+   "ex": "Use a grater for the cheese.",
+   "exVi": "Dùng một bàn bào cho pho mát.",
+   "col": [
+    "a grater",
+    "a cheese grater"
+   ]
+  },
+  {
+   "id": "fd048",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "peeler",
+   "ipa": "/ˈpiːlə/",
+   "pos": "n",
+   "vi": "dao gọt",
+   "ex": "A peeler removes the skin fast.",
+   "exVi": "Một dao gọt bỏ vỏ nhanh.",
+   "col": [
+    "a peeler",
+    "a vegetable peeler"
+   ]
+  },
+  {
+   "id": "fd049",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "chopping board",
+   "ipa": "/ˈtʃɒpɪŋ bɔːd/",
+   "pos": "n",
+   "vi": "thớt",
+   "ex": "Slice the bread on the chopping board.",
+   "exVi": "Cắt bánh mì trên thớt.",
+   "col": [
+    "a chopping board",
+    "a wooden chopping board"
+   ]
+  },
+  {
+   "id": "fd050",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "rolling pin",
+   "ipa": "/ˈrəʊlɪŋ pɪn/",
+   "pos": "n",
+   "vi": "cây cán bột",
+   "ex": "Flatten the dough with a rolling pin.",
+   "exVi": "Cán phẳng bột bằng một cây cán bột.",
+   "col": [
+    "a rolling pin",
+    "a wooden rolling pin"
+   ]
+  },
+  {
+   "id": "fd051",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "mixing bowl",
+   "ipa": "/ˈmɪksɪŋ bəʊl/",
+   "pos": "n",
+   "vi": "tô trộn",
+   "ex": "Combine the flour in a mixing bowl.",
+   "exVi": "Trộn bột trong một tô trộn.",
+   "col": [
+    "a mixing bowl",
+    "a large mixing bowl"
+   ]
+  },
+  {
+   "id": "fd052",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "measuring cup",
+   "ipa": "/ˈmeʒərɪŋ kʌp/",
+   "pos": "n",
+   "vi": "cốc đong",
+   "ex": "Use a measuring cup for the flour.",
+   "exVi": "Dùng một cốc đong cho bột.",
+   "col": [
+    "a measuring cup",
+    "a glass measuring cup"
+   ]
+  },
+  {
+   "id": "fd053",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "teaspoon",
+   "ipa": "/ˈtiːspuːn/",
+   "pos": "n",
+   "vi": "thìa cà phê",
+   "ex": "Add a teaspoon of salt.",
+   "exVi": "Thêm một thìa cà phê muối.",
+   "col": [
+    "a teaspoon",
+    "a level teaspoon"
+   ]
+  },
+  {
+   "id": "fd054",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "tablespoon",
+   "ipa": "/ˈteɪblspuːn/",
+   "pos": "n",
+   "vi": "thìa canh",
+   "ex": "Stir in a tablespoon of oil.",
+   "exVi": "Khuấy vào một thìa canh dầu.",
+   "col": [
+    "a tablespoon",
+    "a heaped tablespoon"
+   ]
+  },
+  {
+   "id": "fd055",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "pinch",
+   "ipa": "/pɪntʃ/",
+   "pos": "n",
+   "vi": "nhúm",
+   "ex": "Add a pinch of pepper.",
+   "exVi": "Thêm một nhúm tiêu.",
+   "col": [
+    "a pinch",
+    "a pinch of salt"
+   ]
+  },
+  {
+   "id": "fd056",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "zest",
+   "ipa": "/zest/",
+   "pos": "n",
+   "vi": "vỏ bào citrus",
+   "ex": "Lemon zest brightens the cake.",
+   "exVi": "Vỏ chanh bào làm bánh dậy vị.",
+   "col": [
+    "zest",
+    "lemon zest"
+   ]
+  },
+  {
+   "id": "fd057",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "pulp",
+   "ipa": "/pʌlp/",
+   "pos": "n",
+   "vi": "phần thịt quả",
+   "ex": "The juice has some pulp in it.",
+   "exVi": "Nước ép có một ít thịt quả trong đó.",
+   "col": [
+    "pulp",
+    "fruit pulp"
+   ]
+  },
+  {
+   "id": "fd058",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "rind",
+   "ipa": "/raɪnd/",
+   "pos": "n",
+   "vi": "vỏ cứng",
+   "ex": "The cheese rind was cut away.",
+   "exVi": "Lớp vỏ pho mát được cắt bỏ.",
+   "col": [
+    "rind",
+    "a hard rind"
+   ]
+  },
+  {
+   "id": "fd059",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "crust",
+   "ipa": "/krʌst/",
+   "pos": "n",
+   "vi": "lớp vỏ bánh",
+   "ex": "The pie had a golden crust.",
+   "exVi": "Chiếc bánh có lớp vỏ vàng.",
+   "col": [
+    "a crust",
+    "a crispy crust"
+   ]
+  },
+  {
+   "id": "fd060",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "filling",
+   "ipa": "/ˈfɪlɪŋ/",
+   "pos": "n",
+   "vi": "nhân",
+   "ex": "The pie has a sweet filling.",
+   "exVi": "Chiếc bánh có nhân ngọt.",
+   "col": [
+    "a filling",
+    "a rich filling"
+   ]
+  },
+  {
+   "id": "fd061",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "topping",
+   "ipa": "/ˈtɒpɪŋ/",
+   "pos": "n",
+   "vi": "lớp phủ",
+   "ex": "Cheese is a popular topping.",
+   "exVi": "Pho mát là một lớp phủ được ưa chuộng.",
+   "col": [
+    "a topping",
+    "a favorite topping"
+   ]
+  },
+  {
+   "id": "fd062",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "leftover",
+   "ipa": "/ˈleftəʊvə/",
+   "pos": "n",
+   "vi": "đồ ăn thừa",
+   "ex": "The leftovers went in the fridge.",
+   "exVi": "Đồ ăn thừa được cho vào tủ lạnh.",
+   "col": [
+    "a leftover",
+    "last night's leftover"
+   ]
+  },
+  {
+   "id": "fd063",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "staple",
+   "ipa": "/ˈsteɪpl/",
+   "pos": "n",
+   "vi": "lương thực chính",
+   "ex": "Rice is a staple in the region.",
+   "exVi": "Gạo là lương thực chính ở khu vực.",
+   "col": [
+    "a staple",
+    "a staple food"
+   ]
+  },
+  {
+   "id": "fd064",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "delicacy",
+   "ipa": "/ˈdelɪkəsi/",
+   "pos": "n",
+   "vi": "đặc sản",
+   "ex": "The dish is a local delicacy.",
+   "exVi": "Món ăn là một đặc sản địa phương.",
+   "col": [
+    "a delicacy",
+    "a local delicacy"
+   ]
+  },
+  {
+   "id": "fd065",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "cuisine",
+   "ipa": "/kwɪˈziːn/",
+   "pos": "n",
+   "vi": "ẩm thực",
+   "ex": "The restaurant serves regional cuisine.",
+   "exVi": "Nhà hàng phục vụ ẩm thực vùng miền.",
+   "col": [
+    "cuisine",
+    "regional cuisine"
+   ]
+  },
+  {
+   "id": "fd066",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "aroma",
+   "ipa": "/əˈrəʊmə/",
+   "pos": "n",
+   "vi": "mùi thơm",
+   "ex": "The aroma of coffee filled the room.",
+   "exVi": "Mùi thơm cà phê tràn ngập căn phòng.",
+   "col": [
+    "an aroma",
+    "a rich aroma"
+   ]
+  },
+  {
+   "id": "fd067",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "texture",
+   "ipa": "/ˈtekstʃə/",
+   "pos": "n",
+   "vi": "kết cấu",
+   "ex": "The bread has a soft texture.",
+   "exVi": "Bánh mì có kết cấu mềm.",
+   "col": [
+    "texture",
+    "a smooth texture"
+   ]
+  },
+  {
+   "id": "fd068",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "sizzle",
+   "ipa": "/ˈsɪzl/",
+   "pos": "v",
+   "vi": "xèo xèo",
+   "ex": "The onions sizzle in the hot oil.",
+   "exVi": "Hành xèo xèo trong dầu nóng.",
+   "col": [
+    "sizzle",
+    "sizzle in the pan"
+   ]
+  },
+  {
+   "id": "fd069",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "simmering",
+   "ipa": "/ˈsɪmərɪŋ/",
+   "pos": "adj",
+   "vi": "đang ninh",
+   "ex": "A simmering pot filled the kitchen with steam.",
+   "exVi": "Một nồi đang ninh làm bếp đầy hơi.",
+   "col": [
+    "simmering",
+    "a simmering pot"
+   ]
+  },
+  {
+   "id": "fd070",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "stir",
+   "ipa": "/stɜː/",
+   "pos": "v",
+   "vi": "khuấy",
+   "ex": "Stir the mixture until smooth.",
+   "exVi": "Khuấy hỗn hợp cho tới khi mịn.",
+   "col": [
+    "stir",
+    "stir well"
+   ]
+  },
+  {
+   "id": "fd071",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "sift",
+   "ipa": "/sɪft/",
+   "pos": "v",
+   "vi": "rây",
+   "ex": "Sift the flour before mixing.",
+   "exVi": "Rây bột trước khi trộn.",
+   "col": [
+    "sift",
+    "sift flour"
+   ]
+  },
+  {
+   "id": "fd072",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "drizzle",
+   "ipa": "/ˈdrɪzl/",
+   "pos": "v",
+   "vi": "rưới",
+   "ex": "Drizzle oil over the salad.",
+   "exVi": "Rưới dầu lên món salad.",
+   "col": [
+    "drizzle",
+    "drizzle over"
+   ]
+  },
+  {
+   "id": "fd073",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "sprinkle",
+   "ipa": "/ˈsprɪŋkl/",
+   "pos": "v",
+   "vi": "rắc",
+   "ex": "Sprinkle cheese on top.",
+   "exVi": "Rắc pho mát lên trên.",
+   "col": [
+    "sprinkle",
+    "sprinkle over"
+   ]
+  },
+  {
+   "id": "fd074",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "mince",
+   "ipa": "/mɪns/",
+   "pos": "v",
+   "vi": "băm nhỏ",
+   "ex": "Mince the garlic finely.",
+   "exVi": "Băm nhỏ tỏi.",
+   "col": [
+    "mince",
+    "mince garlic"
+   ]
+  },
+  {
+   "id": "fd075",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "toss",
+   "ipa": "/tɒs/",
+   "pos": "v",
+   "vi": "trộn đảo",
+   "ex": "Toss the salad with dressing.",
+   "exVi": "Trộn đảo salad với nước xốt.",
+   "col": [
+    "toss",
+    "toss a salad"
+   ]
+  },
+  {
+   "id": "fd076",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "knife",
+   "ipa": "/naɪf/",
+   "pos": "n",
+   "vi": "dao",
+   "ex": "A sharp knife slices the bread.",
+   "exVi": "Một con dao sắc cắt bánh mì.",
+   "col": [
+    "a knife",
+    "a sharp knife"
+   ]
+  },
+  {
+   "id": "fd077",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "skewer",
+   "ipa": "/ˈskjuːə/",
+   "pos": "n",
+   "vi": "xiên nướng",
+   "ex": "The meat cooked on a skewer.",
+   "exVi": "Thịt được nướng trên một xiên.",
+   "col": [
+    "a skewer",
+    "a metal skewer"
+   ]
+  },
+  {
+   "id": "fd078",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "tongs",
+   "ipa": "/tɒŋz/",
+   "pos": "n",
+   "vi": "kẹp gắp",
+   "ex": "Turn the meat with tongs.",
+   "exVi": "Lật thịt bằng kẹp gắp.",
+   "col": [
+    "tongs",
+    "kitchen tongs"
+   ]
+  },
+  {
+   "id": "fd079",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "juicy",
+   "ipa": "/ˈdʒuːsi/",
+   "pos": "adj",
+   "vi": "mọng nước",
+   "ex": "The peach was ripe and juicy.",
+   "exVi": "Quả đào chín và mọng nước.",
+   "col": [
+    "juicy",
+    "a juicy fruit"
+   ]
+  },
+  {
+   "id": "fd080",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "fluffy",
+   "ipa": "/ˈflʌfi/",
+   "pos": "adj",
+   "vi": "xốp mềm",
+   "ex": "The cake came out light and fluffy.",
+   "exVi": "Bánh ra lò nhẹ và xốp mềm.",
+   "col": [
+    "fluffy",
+    "a fluffy texture"
+   ]
+  },
+  {
+   "id": "fd081",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "zesty",
+   "ipa": "/ˈzesti/",
+   "pos": "adj",
+   "vi": "the mát vị chua",
+   "ex": "A zesty dressing brightened the dish.",
+   "exVi": "Một nước xốt the mát làm món ăn dậy vị.",
+   "col": [
+    "zesty",
+    "a zesty flavor"
+   ]
+  },
+  {
+   "id": "fd082",
+   "topic": "Ẩm thực & nguyên liệu nấu ăn",
+   "w": "hearty",
+   "ipa": "/ˈhɑːti/",
+   "pos": "adj",
+   "vi": "thịnh soạn",
+   "ex": "A hearty stew warmed the guests.",
+   "exVi": "Một món hầm thịnh soạn làm ấm khách.",
+   "col": [
+    "hearty",
+    "a hearty meal"
+   ]
+  }
+ ]
+}

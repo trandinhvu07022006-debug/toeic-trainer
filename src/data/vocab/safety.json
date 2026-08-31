@@ -1,0 +1,1181 @@
+{
+ "topic": "Bảo trì & an toàn lao động",
+ "words": [
+  {
+   "id": "sf001",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "safety",
+   "ipa": "/ˈseɪfti/",
+   "pos": "n",
+   "vi": "an toàn",
+   "ex": "Safety is the top priority on the site.",
+   "exVi": "An toàn là ưu tiên hàng đầu trên công trường.",
+   "col": [
+    "safety",
+    "workplace safety"
+   ]
+  },
+  {
+   "id": "sf002",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "hazard",
+   "ipa": "/ˈhæzəd/",
+   "pos": "n",
+   "vi": "mối nguy",
+   "ex": "A wet floor is a common hazard.",
+   "exVi": "Sàn ướt là một mối nguy thường gặp.",
+   "col": [
+    "a hazard",
+    "a safety hazard"
+   ]
+  },
+  {
+   "id": "sf003",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "risk",
+   "ipa": "/rɪsk/",
+   "pos": "n",
+   "vi": "rủi ro",
+   "ex": "A risk assessment is done each week.",
+   "exVi": "Một đánh giá rủi ro được làm mỗi tuần.",
+   "col": [
+    "a risk",
+    "a health risk"
+   ]
+  },
+  {
+   "id": "sf004",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "precaution",
+   "ipa": "/prɪˈkɔːʃn/",
+   "pos": "n",
+   "vi": "biện pháp phòng ngừa",
+   "ex": "Simple precautions prevent most accidents.",
+   "exVi": "Các biện pháp phòng ngừa đơn giản ngăn hầu hết tai nạn.",
+   "col": [
+    "a precaution",
+    "a safety precaution"
+   ]
+  },
+  {
+   "id": "sf005",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "protocol",
+   "ipa": "/ˈprəʊtəkɒl/",
+   "pos": "n",
+   "vi": "quy trình",
+   "ex": "A strict safety protocol governs the plant.",
+   "exVi": "Một quy trình an toàn nghiêm ngặt điều chỉnh nhà máy.",
+   "col": [
+    "a protocol",
+    "a safety protocol"
+   ]
+  },
+  {
+   "id": "sf006",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "regulation",
+   "ipa": "/ˌreɡjuˈleɪʃn/",
+   "pos": "n",
+   "vi": "quy định",
+   "ex": "Safety regulations apply to every worker.",
+   "exVi": "Quy định an toàn áp dụng cho mọi công nhân.",
+   "col": [
+    "a regulation",
+    "a safety regulation"
+   ]
+  },
+  {
+   "id": "sf007",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "compliance",
+   "ipa": "/kəmˈplaɪəns/",
+   "pos": "n",
+   "vi": "tuân thủ",
+   "ex": "Safety compliance is checked monthly.",
+   "exVi": "Tuân thủ an toàn được kiểm tra hằng tháng.",
+   "col": [
+    "compliance",
+    "safety compliance"
+   ]
+  },
+  {
+   "id": "sf008",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "inspection",
+   "ipa": "/ɪnˈspekʃn/",
+   "pos": "n",
+   "vi": "kiểm tra",
+   "ex": "A safety inspection found no faults.",
+   "exVi": "Một cuộc kiểm tra an toàn không thấy lỗi.",
+   "col": [
+    "an inspection",
+    "a safety inspection"
+   ]
+  },
+  {
+   "id": "sf009",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "audit",
+   "ipa": "/ˈɔːdɪt/",
+   "pos": "n",
+   "vi": "đánh giá an toàn",
+   "ex": "A safety audit reviewed the whole site.",
+   "exVi": "Một đánh giá an toàn rà soát cả công trường.",
+   "col": [
+    "an audit",
+    "a safety audit"
+   ]
+  },
+  {
+   "id": "sf010",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "equipment",
+   "ipa": "/ɪˈkwɪpmənt/",
+   "pos": "n",
+   "vi": "thiết bị",
+   "ex": "Protective equipment is worn at all times.",
+   "exVi": "Thiết bị bảo hộ được đeo mọi lúc.",
+   "col": [
+    "equipment",
+    "safety equipment"
+   ]
+  },
+  {
+   "id": "sf011",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "gear",
+   "ipa": "/ɡɪə/",
+   "pos": "n",
+   "vi": "trang bị bảo hộ",
+   "ex": "Workers put on their gear before entering.",
+   "exVi": "Công nhân mặc trang bị bảo hộ trước khi vào.",
+   "col": [
+    "gear",
+    "protective gear"
+   ]
+  },
+  {
+   "id": "sf012",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "helmet",
+   "ipa": "/ˈhelmɪt/",
+   "pos": "n",
+   "vi": "mũ bảo hộ",
+   "ex": "A hard helmet protects against falling objects.",
+   "exVi": "Một mũ bảo hộ cứng bảo vệ khỏi vật rơi.",
+   "col": [
+    "a helmet",
+    "a hard helmet"
+   ]
+  },
+  {
+   "id": "sf013",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "goggles",
+   "ipa": "/ˈɡɒɡlz/",
+   "pos": "n",
+   "vi": "kính bảo hộ",
+   "ex": "Goggles protect the eyes from dust.",
+   "exVi": "Kính bảo hộ bảo vệ mắt khỏi bụi.",
+   "col": [
+    "goggles",
+    "safety goggles"
+   ]
+  },
+  {
+   "id": "sf014",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "harness",
+   "ipa": "/ˈhɑːnɪs/",
+   "pos": "n",
+   "vi": "dây an toàn",
+   "ex": "A harness stops workers falling from height.",
+   "exVi": "Một dây an toàn ngăn công nhân ngã từ trên cao.",
+   "col": [
+    "a harness",
+    "a safety harness"
+   ]
+  },
+  {
+   "id": "sf015",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "signage",
+   "ipa": "/ˈsaɪnɪdʒ/",
+   "pos": "n",
+   "vi": "biển báo",
+   "ex": "Clear signage warns of the danger.",
+   "exVi": "Biển báo rõ ràng cảnh báo về nguy hiểm.",
+   "col": [
+    "signage",
+    "safety signage"
+   ]
+  },
+  {
+   "id": "sf016",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "warning",
+   "ipa": "/ˈwɔːnɪŋ/",
+   "pos": "n",
+   "vi": "cảnh báo",
+   "ex": "A warning sign marks the wet floor.",
+   "exVi": "Một biển cảnh báo đánh dấu sàn ướt.",
+   "col": [
+    "a warning",
+    "a warning sign"
+   ]
+  },
+  {
+   "id": "sf017",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "maintenance",
+   "ipa": "/ˈmeɪntənəns/",
+   "pos": "n",
+   "vi": "bảo trì",
+   "ex": "Regular maintenance keeps the machines safe.",
+   "exVi": "Bảo trì đều đặn giữ máy an toàn.",
+   "col": [
+    "maintenance",
+    "routine maintenance"
+   ]
+  },
+  {
+   "id": "sf018",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "servicing",
+   "ipa": "/ˈsɜːvɪsɪŋ/",
+   "pos": "n",
+   "vi": "bảo dưỡng",
+   "ex": "The servicing of the lift is due this month.",
+   "exVi": "Việc bảo dưỡng thang máy đến hạn tháng này.",
+   "col": [
+    "servicing",
+    "regular servicing"
+   ]
+  },
+  {
+   "id": "sf019",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "overhaul",
+   "ipa": "/ˈəʊvəhɔːl/",
+   "pos": "n",
+   "vi": "đại tu",
+   "ex": "The machine needs a full overhaul.",
+   "exVi": "Máy cần một đợt đại tu toàn bộ.",
+   "col": [
+    "an overhaul",
+    "a major overhaul"
+   ]
+  },
+  {
+   "id": "sf020",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "repair",
+   "ipa": "/rɪˈpeə/",
+   "pos": "n, v",
+   "vi": "sửa chữa",
+   "ex": "The repair was done before the shift.",
+   "exVi": "Việc sửa chữa được làm trước ca.",
+   "col": [
+    "a repair",
+    "a quick repair"
+   ]
+  },
+  {
+   "id": "sf021",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "breakdown",
+   "ipa": "/ˈbreɪkdaʊn/",
+   "pos": "n",
+   "vi": "sự cố hỏng hóc",
+   "ex": "A breakdown stopped the line for an hour.",
+   "exVi": "Một sự cố hỏng hóc dừng dây chuyền một tiếng.",
+   "col": [
+    "a breakdown",
+    "a machine breakdown"
+   ]
+  },
+  {
+   "id": "sf022",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "malfunction",
+   "ipa": "/mælˈfʌŋkʃn/",
+   "pos": "n",
+   "vi": "trục trặc",
+   "ex": "A malfunction triggered the alarm.",
+   "exVi": "Một trục trặc kích hoạt chuông báo.",
+   "col": [
+    "a malfunction",
+    "a system malfunction"
+   ]
+  },
+  {
+   "id": "sf023",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "downtime",
+   "ipa": "/ˈdaʊntaɪm/",
+   "pos": "n",
+   "vi": "thời gian ngừng máy",
+   "ex": "Planned downtime is used for servicing.",
+   "exVi": "Thời gian ngừng máy theo kế hoạch dùng để bảo dưỡng.",
+   "col": [
+    "downtime",
+    "reduce downtime"
+   ]
+  },
+  {
+   "id": "sf024",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "lubricate",
+   "ipa": "/ˈluːbrɪkeɪt/",
+   "pos": "v",
+   "vi": "bôi trơn",
+   "ex": "Workers lubricate the moving parts weekly.",
+   "exVi": "Công nhân bôi trơn các bộ phận chuyển động hằng tuần.",
+   "col": [
+    "lubricate",
+    "lubricate a machine"
+   ]
+  },
+  {
+   "id": "sf025",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "calibrate",
+   "ipa": "/ˈkælɪbreɪt/",
+   "pos": "v",
+   "vi": "hiệu chuẩn",
+   "ex": "Technicians calibrate the sensors each day.",
+   "exVi": "Kỹ thuật viên hiệu chuẩn cảm biến mỗi ngày.",
+   "col": [
+    "calibrate",
+    "calibrate equipment"
+   ]
+  },
+  {
+   "id": "sf026",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "inspect",
+   "ipa": "/ɪnˈspekt/",
+   "pos": "v",
+   "vi": "kiểm tra",
+   "ex": "Staff inspect the ladders before use.",
+   "exVi": "Nhân viên kiểm tra thang trước khi dùng.",
+   "col": [
+    "inspect",
+    "inspect equipment"
+   ]
+  },
+  {
+   "id": "sf027",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "service",
+   "ipa": "/ˈsɜːvɪs/",
+   "pos": "v",
+   "vi": "bảo dưỡng",
+   "ex": "A technician services the boiler yearly.",
+   "exVi": "Một kỹ thuật viên bảo dưỡng nồi hơi hằng năm.",
+   "col": [
+    "service",
+    "service a machine"
+   ]
+  },
+  {
+   "id": "sf028",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "replace",
+   "ipa": "/rɪˈpleɪs/",
+   "pos": "v",
+   "vi": "thay thế",
+   "ex": "Worn parts are replaced right away.",
+   "exVi": "Các bộ phận mòn được thay ngay.",
+   "col": [
+    "replace",
+    "replace a part"
+   ]
+  },
+  {
+   "id": "sf029",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "tighten",
+   "ipa": "/ˈtaɪtn/",
+   "pos": "v",
+   "vi": "siết chặt",
+   "ex": "Workers tighten the bolts after servicing.",
+   "exVi": "Công nhân siết chặt bu lông sau khi bảo dưỡng.",
+   "col": [
+    "tighten",
+    "tighten a bolt"
+   ]
+  },
+  {
+   "id": "sf030",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "evacuate",
+   "ipa": "/ɪˈvækjueɪt/",
+   "pos": "v",
+   "vi": "sơ tán",
+   "ex": "Staff evacuate the building during a drill.",
+   "exVi": "Nhân viên sơ tán khỏi toà nhà trong một buổi diễn tập.",
+   "col": [
+    "evacuate",
+    "evacuate a building"
+   ]
+  },
+  {
+   "id": "sf031",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "comply",
+   "ipa": "/kəmˈplaɪ/",
+   "pos": "v",
+   "vi": "tuân thủ",
+   "ex": "All staff must comply with the rules.",
+   "exVi": "Toàn bộ nhân viên phải tuân thủ quy tắc.",
+   "col": [
+    "comply",
+    "comply with"
+   ]
+  },
+  {
+   "id": "sf032",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "prevent",
+   "ipa": "/prɪˈvent/",
+   "pos": "v",
+   "vi": "ngăn ngừa",
+   "ex": "Good training prevents most injuries.",
+   "exVi": "Đào tạo tốt ngăn ngừa hầu hết chấn thương.",
+   "col": [
+    "prevent",
+    "prevent an accident"
+   ]
+  },
+  {
+   "id": "sf033",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "hazardous",
+   "ipa": "/ˈhæzədəs/",
+   "pos": "adj",
+   "vi": "nguy hiểm",
+   "ex": "Hazardous chemicals are stored safely.",
+   "exVi": "Hoá chất nguy hiểm được cất an toàn.",
+   "col": [
+    "hazardous",
+    "hazardous materials"
+   ]
+  },
+  {
+   "id": "sf034",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "protective",
+   "ipa": "/prəˈtektɪv/",
+   "pos": "adj",
+   "vi": "bảo hộ",
+   "ex": "Protective clothing is worn on the floor.",
+   "exVi": "Quần áo bảo hộ được mặc trên sàn xưởng.",
+   "col": [
+    "protective",
+    "protective clothing"
+   ]
+  },
+  {
+   "id": "sf035",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "mandatory",
+   "ipa": "/ˈmændətri/",
+   "pos": "adj",
+   "vi": "bắt buộc",
+   "ex": "Safety training is mandatory for new staff.",
+   "exVi": "Tập huấn an toàn là bắt buộc với nhân viên mới.",
+   "col": [
+    "mandatory",
+    "a mandatory rule"
+   ]
+  },
+  {
+   "id": "sf036",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "faulty",
+   "ipa": "/ˈfɔːlti/",
+   "pos": "adj",
+   "vi": "hỏng",
+   "ex": "A faulty switch caused the fault.",
+   "exVi": "Một công tắc hỏng gây ra lỗi.",
+   "col": [
+    "faulty",
+    "faulty equipment"
+   ]
+  },
+  {
+   "id": "sf037",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "flammable",
+   "ipa": "/ˈflæməbl/",
+   "pos": "adj",
+   "vi": "dễ cháy",
+   "ex": "Flammable liquids are kept away from heat.",
+   "exVi": "Chất lỏng dễ cháy được để xa nguồn nhiệt.",
+   "col": [
+    "flammable",
+    "flammable liquids"
+   ]
+  },
+  {
+   "id": "sf038",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "slippery",
+   "ipa": "/ˈslɪpəri/",
+   "pos": "adj",
+   "vi": "trơn trượt",
+   "ex": "The floor is slippery when wet.",
+   "exVi": "Sàn trơn trượt khi ướt.",
+   "col": [
+    "slippery",
+    "a slippery surface"
+   ]
+  },
+  {
+   "id": "sf039",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "preventive",
+   "ipa": "/prɪˈventɪv/",
+   "pos": "adj",
+   "vi": "phòng ngừa",
+   "ex": "Preventive maintenance avoids costly breakdowns.",
+   "exVi": "Bảo trì phòng ngừa tránh các sự cố tốn kém.",
+   "col": [
+    "preventive",
+    "preventive maintenance"
+   ]
+  },
+  {
+   "id": "sf040",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "compliant",
+   "ipa": "/kəmˈplaɪənt/",
+   "pos": "adj",
+   "vi": "tuân thủ",
+   "ex": "The site is fully compliant with the rules.",
+   "exVi": "Công trường hoàn toàn tuân thủ các quy tắc.",
+   "col": [
+    "compliant",
+    "fully compliant"
+   ]
+  },
+  {
+   "id": "sf041",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "routine",
+   "ipa": "/ruːˈtiːn/",
+   "pos": "adj",
+   "vi": "thường lệ",
+   "ex": "A routine check found the loose part.",
+   "exVi": "Một cuộc kiểm tra thường lệ tìm ra bộ phận lỏng.",
+   "col": [
+    "routine",
+    "a routine check"
+   ]
+  },
+  {
+   "id": "sf042",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "operational",
+   "ipa": "/ˌɒpəˈreɪʃənl/",
+   "pos": "adj",
+   "vi": "đang vận hành",
+   "ex": "The lift is fully operational again.",
+   "exVi": "Thang máy đã hoạt động trở lại hoàn toàn.",
+   "col": [
+    "operational",
+    "fully operational"
+   ]
+  },
+  {
+   "id": "sf043",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "accident",
+   "ipa": "/ˈæksɪdənt/",
+   "pos": "n",
+   "vi": "tai nạn",
+   "ex": "The accident was reported at once.",
+   "exVi": "Tai nạn được báo cáo ngay.",
+   "col": [
+    "an accident",
+    "a workplace accident"
+   ]
+  },
+  {
+   "id": "sf044",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "injury",
+   "ipa": "/ˈɪndʒəri/",
+   "pos": "n",
+   "vi": "chấn thương",
+   "ex": "A minor injury was treated on site.",
+   "exVi": "Một chấn thương nhẹ được xử lý tại chỗ.",
+   "col": [
+    "an injury",
+    "a minor injury"
+   ]
+  },
+  {
+   "id": "sf045",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "incident",
+   "ipa": "/ˈɪnsɪdənt/",
+   "pos": "n",
+   "vi": "sự việc, sự cố",
+   "ex": "Every incident is logged in the report.",
+   "exVi": "Mọi sự việc được ghi trong báo cáo.",
+   "col": [
+    "an incident",
+    "a safety incident"
+   ]
+  },
+  {
+   "id": "sf046",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "emergency",
+   "ipa": "/ɪˈmɜːdʒənsi/",
+   "pos": "n",
+   "vi": "tình huống khẩn cấp",
+   "ex": "An emergency exit is marked on each floor.",
+   "exVi": "Một lối thoát khẩn cấp được đánh dấu ở mỗi tầng.",
+   "col": [
+    "an emergency",
+    "an emergency exit"
+   ]
+  },
+  {
+   "id": "sf047",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "evacuation",
+   "ipa": "/ɪˌvækjuˈeɪʃn/",
+   "pos": "n",
+   "vi": "sơ tán",
+   "ex": "An evacuation drill is held twice a year.",
+   "exVi": "Một buổi diễn tập sơ tán được tổ chức hai lần một năm.",
+   "col": [
+    "evacuation",
+    "an evacuation drill"
+   ]
+  },
+  {
+   "id": "sf048",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "drill",
+   "ipa": "/drɪl/",
+   "pos": "n",
+   "vi": "diễn tập",
+   "ex": "A fire drill tested the alarm system.",
+   "exVi": "Một buổi diễn tập cháy thử hệ thống báo động.",
+   "col": [
+    "a drill",
+    "a fire drill"
+   ]
+  },
+  {
+   "id": "sf049",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "first aid",
+   "ipa": "/ˌfɜːst ˈeɪd/",
+   "pos": "n",
+   "vi": "sơ cứu",
+   "ex": "Every floor has a first aid kit.",
+   "exVi": "Mỗi tầng có một bộ sơ cứu.",
+   "col": [
+    "first aid",
+    "a first aid kit"
+   ]
+  },
+  {
+   "id": "sf050",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "extinguisher",
+   "ipa": "/ɪkˈstɪŋɡwɪʃə/",
+   "pos": "n",
+   "vi": "bình chữa cháy",
+   "ex": "A fire extinguisher hangs by the door.",
+   "exVi": "Một bình chữa cháy treo cạnh cửa.",
+   "col": [
+    "an extinguisher",
+    "a fire extinguisher"
+   ]
+  },
+  {
+   "id": "sf051",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "alarm",
+   "ipa": "/əˈlɑːm/",
+   "pos": "n",
+   "vi": "chuông báo",
+   "ex": "The alarm sounds if smoke is detected.",
+   "exVi": "Chuông báo kêu nếu phát hiện khói.",
+   "col": [
+    "an alarm",
+    "a fire alarm"
+   ]
+  },
+  {
+   "id": "sf052",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "exit",
+   "ipa": "/ˈeksɪt/",
+   "pos": "n",
+   "vi": "lối thoát",
+   "ex": "The exit must stay clear at all times.",
+   "exVi": "Lối thoát phải luôn thông thoáng.",
+   "col": [
+    "an exit",
+    "an emergency exit"
+   ]
+  },
+  {
+   "id": "sf053",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "hazmat",
+   "ipa": "/ˈhæzmæt/",
+   "pos": "n",
+   "vi": "vật liệu nguy hại",
+   "ex": "A hazmat team handled the chemical spill.",
+   "exVi": "Một đội vật liệu nguy hại xử lý vụ tràn hoá chất.",
+   "col": [
+    "a hazmat team",
+    "hazmat suits"
+   ]
+  },
+  {
+   "id": "sf054",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "spill",
+   "ipa": "/spɪl/",
+   "pos": "n",
+   "vi": "sự tràn đổ",
+   "ex": "A chemical spill was cleaned up quickly.",
+   "exVi": "Một vụ tràn hoá chất được dọn nhanh.",
+   "col": [
+    "a spill",
+    "a chemical spill"
+   ]
+  },
+  {
+   "id": "sf055",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "ventilation",
+   "ipa": "/ˌventɪˈleɪʃn/",
+   "pos": "n",
+   "vi": "thông gió",
+   "ex": "Proper ventilation removes harmful fumes.",
+   "exVi": "Thông gió tốt loại bỏ khói độc.",
+   "col": [
+    "ventilation",
+    "a ventilation system"
+   ]
+  },
+  {
+   "id": "sf056",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "exposure",
+   "ipa": "/ɪkˈspəʊʒə/",
+   "pos": "n",
+   "vi": "phơi nhiễm",
+   "ex": "Long exposure to noise can harm hearing.",
+   "exVi": "Phơi nhiễm tiếng ồn lâu có thể hại thính giác.",
+   "col": [
+    "exposure",
+    "noise exposure"
+   ]
+  },
+  {
+   "id": "sf057",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "fatigue",
+   "ipa": "/fəˈtiːɡ/",
+   "pos": "n",
+   "vi": "mệt mỏi",
+   "ex": "Fatigue raises the risk of mistakes.",
+   "exVi": "Mệt mỏi làm tăng rủi ro sai sót.",
+   "col": [
+    "fatigue",
+    "worker fatigue"
+   ]
+  },
+  {
+   "id": "sf058",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "ergonomics",
+   "ipa": "/ˌɜːɡəˈnɒmɪks/",
+   "pos": "n",
+   "vi": "công thái học",
+   "ex": "Good ergonomics reduce back strain.",
+   "exVi": "Công thái học tốt giảm căng lưng.",
+   "col": [
+    "ergonomics",
+    "office ergonomics"
+   ]
+  },
+  {
+   "id": "sf059",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "signal",
+   "ipa": "/ˈsɪɡnl/",
+   "pos": "n",
+   "vi": "tín hiệu",
+   "ex": "A hand signal warns the crane operator.",
+   "exVi": "Một tín hiệu tay cảnh báo người điều khiển cẩn cẩu.",
+   "col": [
+    "a signal",
+    "a hand signal"
+   ]
+  },
+  {
+   "id": "sf060",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "barrier",
+   "ipa": "/ˈbæriə/",
+   "pos": "n",
+   "vi": "rào chắn",
+   "ex": "A barrier blocks off the danger zone.",
+   "exVi": "Một rào chắn ngăn khu vực nguy hiểm.",
+   "col": [
+    "a barrier",
+    "a safety barrier"
+   ]
+  },
+  {
+   "id": "sf061",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "guardrail",
+   "ipa": "/ˈɡɑːdreɪl/",
+   "pos": "n",
+   "vi": "lan can bảo vệ",
+   "ex": "A guardrail runs along the open edge.",
+   "exVi": "Một lan can chạy dọc theo mép hở.",
+   "col": [
+    "a guardrail",
+    "a safety guardrail"
+   ]
+  },
+  {
+   "id": "sf062",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "lockout",
+   "ipa": "/ˈlɒkaʊt/",
+   "pos": "n",
+   "vi": "khoá cách ly máy",
+   "ex": "A lockout keeps the machine off during repair.",
+   "exVi": "Khoá cách ly giữ máy tắt trong lúc sửa.",
+   "col": [
+    "a lockout",
+    "a lockout procedure"
+   ]
+  },
+  {
+   "id": "sf063",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "briefing",
+   "ipa": "/ˈbriːfɪŋ/",
+   "pos": "n",
+   "vi": "phổ biến an toàn",
+   "ex": "A safety briefing opens each shift.",
+   "exVi": "Một buổi phổ biến an toàn mở mỗi ca.",
+   "col": [
+    "a briefing",
+    "a safety briefing"
+   ]
+  },
+  {
+   "id": "sf064",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "supervisor",
+   "ipa": "/ˈsuːpəvaɪzə/",
+   "pos": "n",
+   "vi": "người giám sát",
+   "ex": "The supervisor checks the safety gear.",
+   "exVi": "Người giám sát kiểm tra trang bị an toàn.",
+   "col": [
+    "a supervisor",
+    "a site supervisor"
+   ]
+  },
+  {
+   "id": "sf065",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "report",
+   "ipa": "/rɪˈpɔːt/",
+   "pos": "v",
+   "vi": "báo cáo",
+   "ex": "Workers report any hazard at once.",
+   "exVi": "Công nhân báo cáo mọi mối nguy ngay.",
+   "col": [
+    "report",
+    "report a hazard"
+   ]
+  },
+  {
+   "id": "sf066",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "notify",
+   "ipa": "/ˈnəʊtɪfaɪ/",
+   "pos": "v",
+   "vi": "thông báo",
+   "ex": "Please notify the supervisor of any fault.",
+   "exVi": "Vui lòng thông báo cho người giám sát về bất kỳ lỗi nào.",
+   "col": [
+    "notify",
+    "notify staff"
+   ]
+  },
+  {
+   "id": "sf067",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "enforce",
+   "ipa": "/ɪnˈfɔːs/",
+   "pos": "v",
+   "vi": "thực thi",
+   "ex": "Managers enforce the safety rules strictly.",
+   "exVi": "Quản lý thực thi các quy tắc an toàn nghiêm ngặt.",
+   "col": [
+    "enforce",
+    "enforce a rule"
+   ]
+  },
+  {
+   "id": "sf068",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "mitigate",
+   "ipa": "/ˈmɪtɪɡeɪt/",
+   "pos": "v",
+   "vi": "giảm thiểu",
+   "ex": "Good design mitigates the fire risk.",
+   "exVi": "Thiết kế tốt giảm thiểu rủi ro cháy.",
+   "col": [
+    "mitigate",
+    "mitigate a risk"
+   ]
+  },
+  {
+   "id": "sf069",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "minimize",
+   "ipa": "/ˈmɪnɪmaɪz/",
+   "pos": "v",
+   "vi": "giảm tối đa",
+   "ex": "Clear rules minimize the danger.",
+   "exVi": "Quy tắc rõ ràng giảm tối đa nguy hiểm.",
+   "col": [
+    "minimize",
+    "minimize risk"
+   ]
+  },
+  {
+   "id": "sf070",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "isolate",
+   "ipa": "/ˈaɪsəleɪt/",
+   "pos": "v",
+   "vi": "cách ly",
+   "ex": "Staff isolate the machine before repair.",
+   "exVi": "Nhân viên cách ly máy trước khi sửa.",
+   "col": [
+    "isolate",
+    "isolate a machine"
+   ]
+  },
+  {
+   "id": "sf071",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "secure",
+   "ipa": "/sɪˈkjʊə/",
+   "pos": "v",
+   "vi": "cố định, giữ an toàn",
+   "ex": "Workers secure the load before lifting.",
+   "exVi": "Công nhân cố định tải trước khi nâng.",
+   "col": [
+    "secure",
+    "secure a load"
+   ]
+  },
+  {
+   "id": "sf072",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "label",
+   "ipa": "/ˈleɪbl/",
+   "pos": "v",
+   "vi": "dán nhãn",
+   "ex": "Every container is clearly labelled.",
+   "exVi": "Mỗi thùng được dán nhãn rõ ràng.",
+   "col": [
+    "label",
+    "label a container"
+   ]
+  },
+  {
+   "id": "sf073",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "hazardous waste",
+   "ipa": "/ˈhæzədəs weɪst/",
+   "pos": "n",
+   "vi": "chất thải nguy hại",
+   "ex": "Hazardous waste is removed by a licensed firm.",
+   "exVi": "Chất thải nguy hại được loại bỏ bởi một công ty được cấp phép.",
+   "col": [
+    "hazardous waste",
+    "dispose of hazardous waste"
+   ]
+  },
+  {
+   "id": "sf074",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "safeguard",
+   "ipa": "/ˈseɪfɡɑːd/",
+   "pos": "n, v",
+   "vi": "biện pháp bảo vệ",
+   "ex": "A safeguard stops the machine if a hand is near.",
+   "exVi": "Một biện pháp bảo vệ dừng máy nếu có bàn tay gần.",
+   "col": [
+    "a safeguard",
+    "safeguard a worker"
+   ]
+  },
+  {
+   "id": "sf075",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "mishap",
+   "ipa": "/ˈmɪshæp/",
+   "pos": "n",
+   "vi": "sự cố nhỏ",
+   "ex": "A minor mishap delayed the work briefly.",
+   "exVi": "Một sự cố nhỏ làm chậm công việc trong chốc lát.",
+   "col": [
+    "a mishap",
+    "a minor mishap"
+   ]
+  },
+  {
+   "id": "sf076",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "containment",
+   "ipa": "/kənˈteɪnmənt/",
+   "pos": "n",
+   "vi": "ngăn chặn",
+   "ex": "Quick containment limited the spill.",
+   "exVi": "Ngăn chặn nhanh hạn chế vụ tràn.",
+   "col": [
+    "containment",
+    "spill containment"
+   ]
+  },
+  {
+   "id": "sf077",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "hazardous zone",
+   "ipa": "/ˈhæzədəs zəʊn/",
+   "pos": "n",
+   "vi": "khu vực nguy hiểm",
+   "ex": "Only trained staff enter the hazardous zone.",
+   "exVi": "Chỉ nhân viên được đào tạo mới vào khu vực nguy hiểm.",
+   "col": [
+    "a hazardous zone",
+    "a marked hazardous zone"
+   ]
+  },
+  {
+   "id": "sf078",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "protective gear",
+   "ipa": "/prəˈtektɪv ɡɪə/",
+   "pos": "n",
+   "vi": "đồ bảo hộ",
+   "ex": "Protective gear is issued to every worker.",
+   "exVi": "Đồ bảo hộ được cấp cho mỗi công nhân.",
+   "col": [
+    "protective gear",
+    "wear protective gear"
+   ]
+  },
+  {
+   "id": "sf079",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "hazardous material",
+   "ipa": "/ˈhæzədəs məˈtɪəriəl/",
+   "pos": "n",
+   "vi": "vật liệu nguy hại",
+   "ex": "Hazardous material is labelled and stored apart.",
+   "exVi": "Vật liệu nguy hại được dán nhãn và cất riêng.",
+   "col": [
+    "hazardous material",
+    "handle hazardous material"
+   ]
+  },
+  {
+   "id": "sf080",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "compliant equipment",
+   "ipa": "/kəmˈplaɪənt ɪˈkwɪpmənt/",
+   "pos": "n",
+   "vi": "thiết bị đạt chuẩn",
+   "ex": "Only compliant equipment is used on site.",
+   "exVi": "Chỉ thiết bị đạt chuẩn được dùng trên công trường.",
+   "col": [
+    "compliant equipment",
+    "fully compliant equipment"
+   ]
+  },
+  {
+   "id": "sf081",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "protective barrier",
+   "ipa": "/prəˈtektɪv ˈbæriə/",
+   "pos": "n",
+   "vi": "rào bảo vệ",
+   "ex": "A protective barrier surrounds the machine.",
+   "exVi": "Một rào bảo vệ bao quanh máy.",
+   "col": [
+    "a protective barrier",
+    "a sturdy protective barrier"
+   ]
+  },
+  {
+   "id": "sf082",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "airborne",
+   "ipa": "/ˈeəbɔːn/",
+   "pos": "adj",
+   "vi": "trong không khí",
+   "ex": "Airborne dust is a health risk.",
+   "exVi": "Bụi trong không khí là một rủi ro sức khoẻ.",
+   "col": [
+    "airborne",
+    "airborne particles"
+   ]
+  },
+  {
+   "id": "sf083",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "combustible",
+   "ipa": "/kəmˈbʌstəbl/",
+   "pos": "adj",
+   "vi": "dễ bắt lửa",
+   "ex": "Combustible waste is stored away from heat.",
+   "exVi": "Chất thải dễ bắt lửa được cất xa nguồn nhiệt.",
+   "col": [
+    "combustible",
+    "combustible material"
+   ]
+  },
+  {
+   "id": "sf084",
+   "topic": "Bảo trì & an toàn lao động",
+   "w": "vigilant",
+   "ipa": "/ˈvɪdʒɪlənt/",
+   "pos": "adj",
+   "vi": "cảnh giác",
+   "ex": "Workers stay vigilant near heavy machines.",
+   "exVi": "Công nhân giữ cảnh giác gần các máy nặng.",
+   "col": [
+    "vigilant",
+    "stay vigilant"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1167 @@
+{
+ "topic": "Nhà cửa & đồ gia dụng",
+ "words": [
+  {
+   "id": "hm001",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "furniture",
+   "ipa": "/ˈfɜːnɪtʃə/",
+   "pos": "n",
+   "vi": "đồ nội thất",
+   "ex": "The new furniture arrived on Monday.",
+   "exVi": "Đồ nội thất mới tới vào thứ Hai.",
+   "col": [
+    "furniture",
+    "office furniture"
+   ]
+  },
+  {
+   "id": "hm002",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "appliance",
+   "ipa": "/əˈplaɪəns/",
+   "pos": "n",
+   "vi": "thiết bị gia dụng",
+   "ex": "A kitchen appliance broke last week.",
+   "exVi": "Một thiết bị nhà bếp hỏng tuần trước.",
+   "col": [
+    "an appliance",
+    "a kitchen appliance"
+   ]
+  },
+  {
+   "id": "hm003",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "wardrobe",
+   "ipa": "/ˈwɔːdrəʊb/",
+   "pos": "n",
+   "vi": "tủ quần áo",
+   "ex": "The wardrobe fills the whole wall.",
+   "exVi": "Tủ quần áo lấp cả bức tường.",
+   "col": [
+    "a wardrobe",
+    "a built-in wardrobe"
+   ]
+  },
+  {
+   "id": "hm004",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "cupboard",
+   "ipa": "/ˈkʌbəd/",
+   "pos": "n",
+   "vi": "tủ chén",
+   "ex": "The plates are in the top cupboard.",
+   "exVi": "Các đĩa ở tủ chén trên cùng.",
+   "col": [
+    "a cupboard",
+    "a kitchen cupboard"
+   ]
+  },
+  {
+   "id": "hm005",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "drawer",
+   "ipa": "/drɔː/",
+   "pos": "n",
+   "vi": "ngăn kéo",
+   "ex": "The keys are in the top drawer.",
+   "exVi": "Chìa khoá ở ngăn kéo trên cùng.",
+   "col": [
+    "a drawer",
+    "a desk drawer"
+   ]
+  },
+  {
+   "id": "hm006",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "shelf",
+   "ipa": "/ʃelf/",
+   "pos": "n",
+   "vi": "kệ",
+   "ex": "The books sit on the top shelf.",
+   "exVi": "Sách nằm trên kệ trên cùng.",
+   "col": [
+    "a shelf",
+    "a book shelf"
+   ]
+  },
+  {
+   "id": "hm007",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "mattress",
+   "ipa": "/ˈmætrəs/",
+   "pos": "n",
+   "vi": "nệm",
+   "ex": "A firm mattress supports the back.",
+   "exVi": "Một tấm nệm cứng nâng lưng.",
+   "col": [
+    "a mattress",
+    "a firm mattress"
+   ]
+  },
+  {
+   "id": "hm008",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "curtain",
+   "ipa": "/ˈkɜːtn/",
+   "pos": "n",
+   "vi": "rèm cửa",
+   "ex": "The curtains block the morning sun.",
+   "exVi": "Rèm cửa chặn nắng sớm.",
+   "col": [
+    "a curtain",
+    "draw the curtains"
+   ]
+  },
+  {
+   "id": "hm009",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "carpet",
+   "ipa": "/ˈkɑːpɪt/",
+   "pos": "n",
+   "vi": "thảm",
+   "ex": "A soft carpet covers the floor.",
+   "exVi": "Một tấm thảm mềm phủ sàn.",
+   "col": [
+    "a carpet",
+    "a thick carpet"
+   ]
+  },
+  {
+   "id": "hm010",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "faucet",
+   "ipa": "/ˈfɔːsɪt/",
+   "pos": "n",
+   "vi": "vòi nước",
+   "ex": "The kitchen faucet was leaking.",
+   "exVi": "Vòi nước nhà bếp bị rò.",
+   "col": [
+    "a faucet",
+    "a leaking faucet"
+   ]
+  },
+  {
+   "id": "hm011",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "sink",
+   "ipa": "/sɪŋk/",
+   "pos": "n",
+   "vi": "bồn rửa",
+   "ex": "The dishes are stacked by the sink.",
+   "exVi": "Chén được xếp cạnh bồn rửa.",
+   "col": [
+    "a sink",
+    "a kitchen sink"
+   ]
+  },
+  {
+   "id": "hm012",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "stove",
+   "ipa": "/stəʊv/",
+   "pos": "n",
+   "vi": "bếp nấu",
+   "ex": "The stove has four burners.",
+   "exVi": "Bếp nấu có bốn đầu đốt.",
+   "col": [
+    "a stove",
+    "a gas stove"
+   ]
+  },
+  {
+   "id": "hm013",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "oven",
+   "ipa": "/ˈʌvn/",
+   "pos": "n",
+   "vi": "lò nướng",
+   "ex": "The oven heats up in five minutes.",
+   "exVi": "Lò nướng nóng lên trong năm phút.",
+   "col": [
+    "an oven",
+    "an electric oven"
+   ]
+  },
+  {
+   "id": "hm014",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "refrigerator",
+   "ipa": "/rɪˈfrɪdʒəreɪtə/",
+   "pos": "n",
+   "vi": "tủ lạnh",
+   "ex": "The refrigerator keeps the food fresh.",
+   "exVi": "Tủ lạnh giữ thực phẩm tươi.",
+   "col": [
+    "a refrigerator",
+    "a large refrigerator"
+   ]
+  },
+  {
+   "id": "hm015",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "freezer",
+   "ipa": "/ˈfriːzə/",
+   "pos": "n",
+   "vi": "tủ đông",
+   "ex": "The freezer is full of frozen meals.",
+   "exVi": "Tủ đông đầy các bữa ăn đông lạnh.",
+   "col": [
+    "a freezer",
+    "a chest freezer"
+   ]
+  },
+  {
+   "id": "hm016",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "dishwasher",
+   "ipa": "/ˈdɪʃwɒʃə/",
+   "pos": "n",
+   "vi": "máy rửa chén",
+   "ex": "The dishwasher runs after dinner.",
+   "exVi": "Máy rửa chén chạy sau bữa tối.",
+   "col": [
+    "a dishwasher",
+    "an energy-saving dishwasher"
+   ]
+  },
+  {
+   "id": "hm017",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "microwave",
+   "ipa": "/ˈmaɪkrəweɪv/",
+   "pos": "n",
+   "vi": "lò vi sóng",
+   "ex": "The microwave heats the meal quickly.",
+   "exVi": "Lò vi sóng hâm bữa ăn nhanh.",
+   "col": [
+    "a microwave",
+    "a microwave oven"
+   ]
+  },
+  {
+   "id": "hm018",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "kettle",
+   "ipa": "/ˈketl/",
+   "pos": "n",
+   "vi": "ấm đun nước",
+   "ex": "The kettle boils water for tea.",
+   "exVi": "Ấm đun sôi nước pha trà.",
+   "col": [
+    "a kettle",
+    "an electric kettle"
+   ]
+  },
+  {
+   "id": "hm019",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "toaster",
+   "ipa": "/ˈtəʊstə/",
+   "pos": "n",
+   "vi": "máy nướng bánh mì",
+   "ex": "The toaster browns the bread evenly.",
+   "exVi": "Máy nướng làm bánh mì vàng đều.",
+   "col": [
+    "a toaster",
+    "a two-slice toaster"
+   ]
+  },
+  {
+   "id": "hm020",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "blender",
+   "ipa": "/ˈblendə/",
+   "pos": "n",
+   "vi": "máy xay sinh tố",
+   "ex": "The blender makes a smoothie in seconds.",
+   "exVi": "Máy xay làm một ly sinh tố trong vài giây.",
+   "col": [
+    "a blender",
+    "a hand blender"
+   ]
+  },
+  {
+   "id": "hm021",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "vacuum",
+   "ipa": "/ˈvækjuːm/",
+   "pos": "n",
+   "vi": "máy hút bụi",
+   "ex": "The vacuum cleans the carpet quickly.",
+   "exVi": "Máy hút bụi làm sạch thảm nhanh.",
+   "col": [
+    "a vacuum",
+    "a vacuum cleaner"
+   ]
+  },
+  {
+   "id": "hm022",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "heater",
+   "ipa": "/ˈhiːtə/",
+   "pos": "n",
+   "vi": "máy sưởi",
+   "ex": "The heater warms the room in minutes.",
+   "exVi": "Máy sưởi làm ấm phòng trong vài phút.",
+   "col": [
+    "a heater",
+    "a space heater"
+   ]
+  },
+  {
+   "id": "hm023",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "thermostat",
+   "ipa": "/ˈθɜːməstæt/",
+   "pos": "n",
+   "vi": "bộ điều nhiệt",
+   "ex": "The thermostat controls the temperature.",
+   "exVi": "Bộ điều nhiệt điều chỉnh nhiệt độ.",
+   "col": [
+    "a thermostat",
+    "a smart thermostat"
+   ]
+  },
+  {
+   "id": "hm024",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "socket",
+   "ipa": "/ˈsɒkɪt/",
+   "pos": "n",
+   "vi": "ổ cắm",
+   "ex": "Plug the lamp into the wall socket.",
+   "exVi": "Cắm đèn vào ổ cắm tường.",
+   "col": [
+    "a socket",
+    "a wall socket"
+   ]
+  },
+  {
+   "id": "hm025",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "switch",
+   "ipa": "/swɪtʃ/",
+   "pos": "n",
+   "vi": "công tắc",
+   "ex": "The light switch is by the door.",
+   "exVi": "Công tắc đèn ở cạnh cửa.",
+   "col": [
+    "a switch",
+    "a light switch"
+   ]
+  },
+  {
+   "id": "hm026",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "ceiling",
+   "ipa": "/ˈsiːlɪŋ/",
+   "pos": "n",
+   "vi": "trần nhà",
+   "ex": "A fan hangs from the ceiling.",
+   "exVi": "Một chiếc quạt treo trên trần nhà.",
+   "col": [
+    "the ceiling",
+    "a high ceiling"
+   ]
+  },
+  {
+   "id": "hm027",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "staircase",
+   "ipa": "/ˈsteəkeɪs/",
+   "pos": "n",
+   "vi": "cầu thang",
+   "ex": "The staircase leads to the attic.",
+   "exVi": "Cầu thang dẫn lên gác mái.",
+   "col": [
+    "a staircase",
+    "a wooden staircase"
+   ]
+  },
+  {
+   "id": "hm028",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "hallway",
+   "ipa": "/ˈhɔːlweɪ/",
+   "pos": "n",
+   "vi": "hành lang",
+   "ex": "The hallway connects the two rooms.",
+   "exVi": "Hành lang nối hai phòng.",
+   "col": [
+    "a hallway",
+    "a narrow hallway"
+   ]
+  },
+  {
+   "id": "hm029",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "basement",
+   "ipa": "/ˈbeɪsmənt/",
+   "pos": "n",
+   "vi": "tầng hầm",
+   "ex": "The basement is used for storage.",
+   "exVi": "Tầng hầm được dùng để chứa đồ.",
+   "col": [
+    "a basement",
+    "a damp basement"
+   ]
+  },
+  {
+   "id": "hm030",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "attic",
+   "ipa": "/ˈætɪk/",
+   "pos": "n",
+   "vi": "gác mái",
+   "ex": "Old boxes are kept in the attic.",
+   "exVi": "Các thùng cũ được cất trên gác mái.",
+   "col": [
+    "an attic",
+    "a dusty attic"
+   ]
+  },
+  {
+   "id": "hm031",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "balcony",
+   "ipa": "/ˈbælkəni/",
+   "pos": "n",
+   "vi": "ban công",
+   "ex": "The balcony looks over the garden.",
+   "exVi": "Ban công nhìn ra khu vườn.",
+   "col": [
+    "a balcony",
+    "a small balcony"
+   ]
+  },
+  {
+   "id": "hm032",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "tenant",
+   "ipa": "/ˈtenənt/",
+   "pos": "n",
+   "vi": "người thuê nhà",
+   "ex": "The tenant pays rent each month.",
+   "exVi": "Người thuê trả tiền thuê mỗi tháng.",
+   "col": [
+    "a tenant",
+    "a new tenant"
+   ]
+  },
+  {
+   "id": "hm033",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "landlord",
+   "ipa": "/ˈlændlɔːd/",
+   "pos": "n",
+   "vi": "chủ nhà",
+   "ex": "The landlord fixed the broken tap.",
+   "exVi": "Chủ nhà sửa vòi nước hỏng.",
+   "col": [
+    "a landlord",
+    "a private landlord"
+   ]
+  },
+  {
+   "id": "hm034",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "lease",
+   "ipa": "/liːs/",
+   "pos": "n",
+   "vi": "hợp đồng thuê",
+   "ex": "The lease runs for one year.",
+   "exVi": "Hợp đồng thuê kéo dài một năm.",
+   "col": [
+    "a lease",
+    "a rental lease"
+   ]
+  },
+  {
+   "id": "hm035",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "rent",
+   "ipa": "/rent/",
+   "pos": "n",
+   "vi": "tiền thuê",
+   "ex": "The rent is due on the first.",
+   "exVi": "Tiền thuê đến hạn vào ngày mùng một.",
+   "col": [
+    "rent",
+    "monthly rent"
+   ]
+  },
+  {
+   "id": "hm036",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "mortgage",
+   "ipa": "/ˈmɔːɡɪdʒ/",
+   "pos": "n",
+   "vi": "khoản vay mua nhà",
+   "ex": "They pay a mortgage on the house.",
+   "exVi": "Họ trả khoản vay mua nhà.",
+   "col": [
+    "a mortgage",
+    "a home mortgage"
+   ]
+  },
+  {
+   "id": "hm037",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "utilities",
+   "ipa": "/juːˈtɪlətiz/",
+   "pos": "n",
+   "vi": "tiện ích điện nước",
+   "ex": "The rent includes all utilities.",
+   "exVi": "Tiền thuê bao gồm mọi tiện ích điện nước.",
+   "col": [
+    "utilities",
+    "pay for utilities"
+   ]
+  },
+  {
+   "id": "hm038",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "plumbing",
+   "ipa": "/ˈplʌmɪŋ/",
+   "pos": "n",
+   "vi": "hệ thống ống nước",
+   "ex": "The plumbing needs a repair.",
+   "exVi": "Hệ thống ống nước cần sửa.",
+   "col": [
+    "plumbing",
+    "check the plumbing"
+   ]
+  },
+  {
+   "id": "hm039",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "renovate",
+   "ipa": "/ˈrenəveɪt/",
+   "pos": "v",
+   "vi": "cải tạo",
+   "ex": "They renovated the old kitchen.",
+   "exVi": "Họ cải tạo căn bếp cũ.",
+   "col": [
+    "renovate",
+    "renovate a house"
+   ]
+  },
+  {
+   "id": "hm040",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "furnish",
+   "ipa": "/ˈfɜːnɪʃ/",
+   "pos": "v",
+   "vi": "trang bị nội thất",
+   "ex": "They furnished the flat before moving in.",
+   "exVi": "Họ trang bị nội thất căn hộ trước khi dọn vào.",
+   "col": [
+    "furnish",
+    "furnish a room"
+   ]
+  },
+  {
+   "id": "hm041",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "spacious",
+   "ipa": "/ˈspeɪʃəs/",
+   "pos": "adj",
+   "vi": "rộng rãi",
+   "ex": "The apartment is bright and spacious.",
+   "exVi": "Căn hộ sáng sủa và rộng rãi.",
+   "col": [
+    "spacious",
+    "a spacious room"
+   ]
+  },
+  {
+   "id": "hm042",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "cozy",
+   "ipa": "/ˈkəʊzi/",
+   "pos": "adj",
+   "vi": "ấm cúng",
+   "ex": "The living room is small but cozy.",
+   "exVi": "Phòng khách nhỏ nhưng ấm cúng.",
+   "col": [
+    "cozy",
+    "a cozy home"
+   ]
+  },
+  {
+   "id": "hm043",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "lawn",
+   "ipa": "/lɔːn/",
+   "pos": "n",
+   "vi": "bãi cỏ",
+   "ex": "He mows the lawn every weekend.",
+   "exVi": "Ông cắt bãi cỏ mỗi cuối tuần.",
+   "col": [
+    "a lawn",
+    "mow the lawn"
+   ]
+  },
+  {
+   "id": "hm044",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "garden",
+   "ipa": "/ˈɡɑːdn/",
+   "pos": "n",
+   "vi": "khu vườn",
+   "ex": "The garden is full of flowers in spring.",
+   "exVi": "Khu vườn đầy hoa vào mùa xuân.",
+   "col": [
+    "a garden",
+    "a back garden"
+   ]
+  },
+  {
+   "id": "hm045",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "fence",
+   "ipa": "/fens/",
+   "pos": "n",
+   "vi": "hàng rào",
+   "ex": "A wooden fence surrounds the yard.",
+   "exVi": "Một hàng rào gỗ bao quanh sân.",
+   "col": [
+    "a fence",
+    "a garden fence"
+   ]
+  },
+  {
+   "id": "hm046",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "gate",
+   "ipa": "/ɡeɪt/",
+   "pos": "n",
+   "vi": "cổng",
+   "ex": "The gate creaks when it opens.",
+   "exVi": "Cổng kêu cọt kẹt khi mở.",
+   "col": [
+    "a gate",
+    "a front gate"
+   ]
+  },
+  {
+   "id": "hm047",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "driveway",
+   "ipa": "/ˈdraɪvweɪ/",
+   "pos": "n",
+   "vi": "lối vào nhà",
+   "ex": "The car is parked in the driveway.",
+   "exVi": "Xe đỗ ở lối vào nhà.",
+   "col": [
+    "a driveway",
+    "a long driveway"
+   ]
+  },
+  {
+   "id": "hm048",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "garage",
+   "ipa": "/ˈɡærɑːʒ/",
+   "pos": "n",
+   "vi": "nhà để xe",
+   "ex": "The garage holds two cars.",
+   "exVi": "Nhà để xe chứa hai xe.",
+   "col": [
+    "a garage",
+    "a double garage"
+   ]
+  },
+  {
+   "id": "hm049",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "shed",
+   "ipa": "/ʃed/",
+   "pos": "n",
+   "vi": "nhà kho nhỏ",
+   "ex": "The tools are kept in the shed.",
+   "exVi": "Dụng cụ được cất trong nhà kho.",
+   "col": [
+    "a shed",
+    "a garden shed"
+   ]
+  },
+  {
+   "id": "hm050",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "patio",
+   "ipa": "/ˈpætiəʊ/",
+   "pos": "n",
+   "vi": "sân hiên",
+   "ex": "They eat on the patio in summer.",
+   "exVi": "Họ ăn ở sân hiên vào mùa hè.",
+   "col": [
+    "a patio",
+    "a stone patio"
+   ]
+  },
+  {
+   "id": "hm051",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "porch",
+   "ipa": "/pɔːtʃ/",
+   "pos": "n",
+   "vi": "hiên trước",
+   "ex": "A chair sits on the front porch.",
+   "exVi": "Một chiếc ghế đặt ở hiên trước.",
+   "col": [
+    "a porch",
+    "a front porch"
+   ]
+  },
+  {
+   "id": "hm052",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "doormat",
+   "ipa": "/ˈdɔːmæt/",
+   "pos": "n",
+   "vi": "thảm chùi chân",
+   "ex": "Wipe your shoes on the doormat.",
+   "exVi": "Chùi giày lên thảm chùi chân.",
+   "col": [
+    "a doormat",
+    "a welcome doormat"
+   ]
+  },
+  {
+   "id": "hm053",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "doorbell",
+   "ipa": "/ˈdɔːbel/",
+   "pos": "n",
+   "vi": "chuông cửa",
+   "ex": "The doorbell rang twice.",
+   "exVi": "Chuông cửa reo hai lần.",
+   "col": [
+    "a doorbell",
+    "ring the doorbell"
+   ]
+  },
+  {
+   "id": "hm054",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "lock",
+   "ipa": "/lɒk/",
+   "pos": "n",
+   "vi": "ổ khoá",
+   "ex": "The lock on the door was changed.",
+   "exVi": "Ổ khoá trên cửa được thay.",
+   "col": [
+    "a lock",
+    "a door lock"
+   ]
+  },
+  {
+   "id": "hm055",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "key",
+   "ipa": "/kiː/",
+   "pos": "n",
+   "vi": "chìa khoá",
+   "ex": "She lost the key to the front door.",
+   "exVi": "Bà mất chìa khoá cửa trước.",
+   "col": [
+    "a key",
+    "a spare key"
+   ]
+  },
+  {
+   "id": "hm056",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "lightbulb",
+   "ipa": "/ˈlaɪtbʌlb/",
+   "pos": "n",
+   "vi": "bóng đèn",
+   "ex": "The lightbulb burned out last night.",
+   "exVi": "Bóng đèn cháy tối qua.",
+   "col": [
+    "a lightbulb",
+    "change a lightbulb"
+   ]
+  },
+  {
+   "id": "hm057",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "lamp",
+   "ipa": "/læmp/",
+   "pos": "n",
+   "vi": "đèn bàn",
+   "ex": "A lamp lights the reading corner.",
+   "exVi": "Một chiếc đèn bàn chiếu góc đọc sách.",
+   "col": [
+    "a lamp",
+    "a table lamp"
+   ]
+  },
+  {
+   "id": "hm058",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "chandelier",
+   "ipa": "/ˌʃændəˈlɪə/",
+   "pos": "n",
+   "vi": "đèn chùm",
+   "ex": "A chandelier hangs in the hall.",
+   "exVi": "Một chiếc đèn chùm treo ở sảnh.",
+   "col": [
+    "a chandelier",
+    "a crystal chandelier"
+   ]
+  },
+  {
+   "id": "hm059",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "mirror",
+   "ipa": "/ˈmɪrə/",
+   "pos": "n",
+   "vi": "gương",
+   "ex": "A large mirror hangs by the door.",
+   "exVi": "Một tấm gương lớn treo cạnh cửa.",
+   "col": [
+    "a mirror",
+    "a wall mirror"
+   ]
+  },
+  {
+   "id": "hm060",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "towel",
+   "ipa": "/ˈtaʊəl/",
+   "pos": "n",
+   "vi": "khăn tắm",
+   "ex": "A clean towel hangs in the bathroom.",
+   "exVi": "Một chiếc khăn sạch treo trong phòng tắm.",
+   "col": [
+    "a towel",
+    "a bath towel"
+   ]
+  },
+  {
+   "id": "hm061",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "blanket",
+   "ipa": "/ˈblæŋkɪt/",
+   "pos": "n",
+   "vi": "chăn",
+   "ex": "A warm blanket covers the bed.",
+   "exVi": "Một chiếc chăn ấm phủ giường.",
+   "col": [
+    "a blanket",
+    "a woolen blanket"
+   ]
+  },
+  {
+   "id": "hm062",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "pillow",
+   "ipa": "/ˈpɪləʊ/",
+   "pos": "n",
+   "vi": "gối",
+   "ex": "A soft pillow supports the neck.",
+   "exVi": "Một chiếc gối mềm nâng cổ.",
+   "col": [
+    "a pillow",
+    "a soft pillow"
+   ]
+  },
+  {
+   "id": "hm063",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "cushion",
+   "ipa": "/ˈkʊʃn/",
+   "pos": "n",
+   "vi": "đệm ngồi",
+   "ex": "A cushion softens the hard chair.",
+   "exVi": "Một chiếc đệm làm ghế cứng mềm hơn.",
+   "col": [
+    "a cushion",
+    "a seat cushion"
+   ]
+  },
+  {
+   "id": "hm064",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "vase",
+   "ipa": "/vɑːz/",
+   "pos": "n",
+   "vi": "bình hoa",
+   "ex": "A vase of flowers sits on the table.",
+   "exVi": "Một bình hoa đặt trên bàn.",
+   "col": [
+    "a vase",
+    "a glass vase"
+   ]
+  },
+  {
+   "id": "hm065",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "frame",
+   "ipa": "/freɪm/",
+   "pos": "n",
+   "vi": "khung ảnh",
+   "ex": "A photo frame stands on the shelf.",
+   "exVi": "Một khung ảnh đứng trên kệ.",
+   "col": [
+    "a frame",
+    "a photo frame"
+   ]
+  },
+  {
+   "id": "hm066",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "clock",
+   "ipa": "/klɒk/",
+   "pos": "n",
+   "vi": "đồng hồ",
+   "ex": "A wall clock ticks in the kitchen.",
+   "exVi": "Một chiếc đồng hồ tường tích tắc trong bếp.",
+   "col": [
+    "a clock",
+    "a wall clock"
+   ]
+  },
+  {
+   "id": "hm067",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "broom",
+   "ipa": "/bruːm/",
+   "pos": "n",
+   "vi": "chổi",
+   "ex": "She sweeps the floor with a broom.",
+   "exVi": "Bà quét sàn bằng một cây chổi.",
+   "col": [
+    "a broom",
+    "sweep with a broom"
+   ]
+  },
+  {
+   "id": "hm068",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "mop",
+   "ipa": "/mɒp/",
+   "pos": "n",
+   "vi": "cây lau nhà",
+   "ex": "The mop cleans the tiled floor.",
+   "exVi": "Cây lau làm sạch sàn gạch.",
+   "col": [
+    "a mop",
+    "a floor mop"
+   ]
+  },
+  {
+   "id": "hm069",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "bucket",
+   "ipa": "/ˈbʌkɪt/",
+   "pos": "n",
+   "vi": "xô",
+   "ex": "The bucket holds soapy water.",
+   "exVi": "Xô chứa nước xà phòng.",
+   "col": [
+    "a bucket",
+    "a water bucket"
+   ]
+  },
+  {
+   "id": "hm070",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "detergent",
+   "ipa": "/dɪˈtɜːdʒənt/",
+   "pos": "n",
+   "vi": "chất tẩy rửa",
+   "ex": "The detergent removes tough stains.",
+   "exVi": "Chất tẩy rửa loại các vết bẩn cứng đầu.",
+   "col": [
+    "detergent",
+    "laundry detergent"
+   ]
+  },
+  {
+   "id": "hm071",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "laundry",
+   "ipa": "/ˈlɔːndri/",
+   "pos": "n",
+   "vi": "đồ giặt",
+   "ex": "The laundry is dried on the line.",
+   "exVi": "Đồ giặt được phơi trên dây.",
+   "col": [
+    "laundry",
+    "do the laundry"
+   ]
+  },
+  {
+   "id": "hm072",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "iron",
+   "ipa": "/ˈaɪən/",
+   "pos": "n",
+   "vi": "bàn ủi",
+   "ex": "The iron smooths the creased shirt.",
+   "exVi": "Bàn ủi làm phẳng chiếc áo nhàu.",
+   "col": [
+    "an iron",
+    "a steam iron"
+   ]
+  },
+  {
+   "id": "hm073",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "hanger",
+   "ipa": "/ˈhæŋə/",
+   "pos": "n",
+   "vi": "móc treo",
+   "ex": "The coat hangs on a wooden hanger.",
+   "exVi": "Áo khoác treo trên một móc gỗ.",
+   "col": [
+    "a hanger",
+    "a coat hanger"
+   ]
+  },
+  {
+   "id": "hm074",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "trashcan",
+   "ipa": "/ˈtræʃkæn/",
+   "pos": "n",
+   "vi": "thùng rác",
+   "ex": "The trashcan is emptied each night.",
+   "exVi": "Thùng rác được đổ mỗi đêm.",
+   "col": [
+    "a trashcan",
+    "a kitchen trashcan"
+   ]
+  },
+  {
+   "id": "hm075",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "recycle",
+   "ipa": "/ˌriːˈsaɪkl/",
+   "pos": "v",
+   "vi": "tái chế",
+   "ex": "The family recycles paper and glass.",
+   "exVi": "Gia đình tái chế giấy và thuỷ tinh.",
+   "col": [
+    "recycle",
+    "recycle waste"
+   ]
+  },
+  {
+   "id": "hm076",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "sweep",
+   "ipa": "/swiːp/",
+   "pos": "v",
+   "vi": "quét",
+   "ex": "She sweeps the porch every morning.",
+   "exVi": "Bà quét hiên mỗi sáng.",
+   "col": [
+    "sweep",
+    "sweep the floor"
+   ]
+  },
+  {
+   "id": "hm077",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "scrub",
+   "ipa": "/skrʌb/",
+   "pos": "v",
+   "vi": "cọ rửa",
+   "ex": "He scrubs the sink until it shines.",
+   "exVi": "Ông cọ bồn rửa tới khi sáng bóng.",
+   "col": [
+    "scrub",
+    "scrub a surface"
+   ]
+  },
+  {
+   "id": "hm078",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "tidy",
+   "ipa": "/ˈtaɪdi/",
+   "pos": "v",
+   "vi": "dọn dẹp",
+   "ex": "They tidy the house before guests arrive.",
+   "exVi": "Họ dọn dẹp nhà trước khi khách tới.",
+   "col": [
+    "tidy",
+    "tidy up"
+   ]
+  },
+  {
+   "id": "hm079",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "declutter",
+   "ipa": "/ˌdiːˈklʌtə/",
+   "pos": "v",
+   "vi": "dọn bớt đồ",
+   "ex": "She declutters the closet each spring.",
+   "exVi": "Bà dọn bớt đồ trong tủ mỗi mùa xuân.",
+   "col": [
+    "declutter",
+    "declutter a room"
+   ]
+  },
+  {
+   "id": "hm080",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "furnished",
+   "ipa": "/ˈfɜːnɪʃt/",
+   "pos": "adj",
+   "vi": "có sẵn nội thất",
+   "ex": "The flat is fully furnished.",
+   "exVi": "Căn hộ có sẵn nội thất đầy đủ.",
+   "col": [
+    "furnished",
+    "a furnished flat"
+   ]
+  },
+  {
+   "id": "hm081",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "comfortable",
+   "ipa": "/ˈkʌmftəbl/",
+   "pos": "adj",
+   "vi": "thoải mái",
+   "ex": "The sofa is soft and comfortable.",
+   "exVi": "Chiếc ghế sofa mềm và thoải mái.",
+   "col": [
+    "comfortable",
+    "a comfortable chair"
+   ]
+  },
+  {
+   "id": "hm082",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "airy",
+   "ipa": "/ˈeəri/",
+   "pos": "adj",
+   "vi": "thoáng khí",
+   "ex": "The bright kitchen feels airy.",
+   "exVi": "Căn bếp sáng có cảm giác thoáng khí.",
+   "col": [
+    "airy",
+    "an airy room"
+   ]
+  },
+  {
+   "id": "hm083",
+   "topic": "Nhà cửa & đồ gia dụng",
+   "w": "homely",
+   "ipa": "/ˈhəʊmli/",
+   "pos": "adj",
+   "vi": "ấm cúng như ở nhà",
+   "ex": "The cottage feels warm and homely.",
+   "exVi": "Ngôi nhà nhỏ có cảm giác ấm áp như ở nhà.",
+   "col": [
+    "homely",
+    "a homely feel"
+   ]
+  }
+ ]
+}

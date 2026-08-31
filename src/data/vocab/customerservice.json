@@ -1,0 +1,1265 @@
+{
+ "topic": "Dịch vụ khách hàng",
+ "words": [
+  {
+   "id": "cs001",
+   "topic": "Dịch vụ khách hàng",
+   "w": "complaint",
+   "ipa": "/kəmˈpleɪnt/",
+   "pos": "n",
+   "vi": "khiếu nại",
+   "ex": "The team handles every complaint within a day.",
+   "exVi": "Nhóm xử lý mọi khiếu nại trong một ngày.",
+   "col": [
+    "a customer complaint",
+    "file a complaint"
+   ]
+  },
+  {
+   "id": "cs002",
+   "topic": "Dịch vụ khách hàng",
+   "w": "inquiry",
+   "ipa": "/ɪnˈkwaɪəri/",
+   "pos": "n",
+   "vi": "thắc mắc",
+   "ex": "A staff member answers each inquiry by phone.",
+   "exVi": "Một nhân viên trả lời từng thắc mắc qua điện thoại.",
+   "col": [
+    "a customer inquiry",
+    "handle an inquiry"
+   ]
+  },
+  {
+   "id": "cs003",
+   "topic": "Dịch vụ khách hàng",
+   "w": "query",
+   "ipa": "/ˈkwɪəri/",
+   "pos": "n",
+   "vi": "câu hỏi thắc mắc",
+   "ex": "Please direct your query to the support desk.",
+   "exVi": "Vui lòng gửi câu hỏi của bạn tới quầy hỗ trợ.",
+   "col": [
+    "a customer query",
+    "answer a query"
+   ]
+  },
+  {
+   "id": "cs004",
+   "topic": "Dịch vụ khách hàng",
+   "w": "feedback",
+   "ipa": "/ˈfiːdbæk/",
+   "pos": "n",
+   "vi": "phản hồi",
+   "ex": "Customer feedback shaped the new policy.",
+   "exVi": "Phản hồi của khách định hình chính sách mới.",
+   "col": [
+    "customer feedback",
+    "gather feedback"
+   ]
+  },
+  {
+   "id": "cs005",
+   "topic": "Dịch vụ khách hàng",
+   "w": "satisfaction",
+   "ipa": "/ˌsætɪsˈfækʃn/",
+   "pos": "n",
+   "vi": "sự hài lòng",
+   "ex": "Customer satisfaction rose after the changes.",
+   "exVi": "Sự hài lòng của khách tăng sau các thay đổi.",
+   "col": [
+    "customer satisfaction",
+    "a satisfaction survey"
+   ]
+  },
+  {
+   "id": "cs006",
+   "topic": "Dịch vụ khách hàng",
+   "w": "resolve",
+   "ipa": "/rɪˈzɒlv/",
+   "pos": "v",
+   "vi": "giải quyết",
+   "ex": "The agent resolved the issue in minutes.",
+   "exVi": "Nhân viên giải quyết vấn đề trong vài phút.",
+   "col": [
+    "resolve an issue",
+    "resolve a complaint"
+   ]
+  },
+  {
+   "id": "cs007",
+   "topic": "Dịch vụ khách hàng",
+   "w": "resolution",
+   "ipa": "/ˌrezəˈluːʃn/",
+   "pos": "n",
+   "vi": "việc giải quyết",
+   "ex": "A quick resolution kept the customer happy.",
+   "exVi": "Việc giải quyết nhanh giữ khách hài lòng.",
+   "col": [
+    "a quick resolution",
+    "a satisfactory resolution"
+   ]
+  },
+  {
+   "id": "cs008",
+   "topic": "Dịch vụ khách hàng",
+   "w": "assist",
+   "ipa": "/əˈsɪst/",
+   "pos": "v",
+   "vi": "hỗ trợ",
+   "ex": "Staff assist customers with returns and exchanges.",
+   "exVi": "Nhân viên hỗ trợ khách đổi trả hàng.",
+   "col": [
+    "assist a customer",
+    "assist with"
+   ]
+  },
+  {
+   "id": "cs009",
+   "topic": "Dịch vụ khách hàng",
+   "w": "assistance",
+   "ipa": "/əˈsɪstəns/",
+   "pos": "n",
+   "vi": "sự hỗ trợ",
+   "ex": "Call the desk if you need any assistance.",
+   "exVi": "Gọi quầy nếu bạn cần bất kỳ hỗ trợ nào.",
+   "col": [
+    "technical assistance",
+    "offer assistance"
+   ]
+  },
+  {
+   "id": "cs010",
+   "topic": "Dịch vụ khách hàng",
+   "w": "support",
+   "ipa": "/səˈpɔːt/",
+   "pos": "n, v",
+   "vi": "hỗ trợ",
+   "ex": "The support team works around the clock.",
+   "exVi": "Đội hỗ trợ làm việc suốt ngày đêm.",
+   "col": [
+    "technical support",
+    "customer support"
+   ]
+  },
+  {
+   "id": "cs011",
+   "topic": "Dịch vụ khách hàng",
+   "w": "representative",
+   "ipa": "/ˌreprɪˈzentətɪv/",
+   "pos": "n",
+   "vi": "nhân viên đại diện",
+   "ex": "A representative will call you back shortly.",
+   "exVi": "Một nhân viên đại diện sẽ gọi lại bạn sớm.",
+   "col": [
+    "a customer representative",
+    "a sales representative"
+   ]
+  },
+  {
+   "id": "cs012",
+   "topic": "Dịch vụ khách hàng",
+   "w": "agent",
+   "ipa": "/ˈeɪdʒənt/",
+   "pos": "n",
+   "vi": "nhân viên tổng đài",
+   "ex": "The agent stayed calm despite the angry caller.",
+   "exVi": "Nhân viên vẫn bình tĩnh dù người gọi tức giận.",
+   "col": [
+    "a call agent",
+    "a service agent"
+   ]
+  },
+  {
+   "id": "cs013",
+   "topic": "Dịch vụ khách hàng",
+   "w": "helpline",
+   "ipa": "/ˈhelplaɪn/",
+   "pos": "n",
+   "vi": "đường dây trợ giúp",
+   "ex": "The helpline is open every weekday.",
+   "exVi": "Đường dây trợ giúp mở mỗi ngày trong tuần.",
+   "col": [
+    "a customer helpline",
+    "call the helpline"
+   ]
+  },
+  {
+   "id": "cs014",
+   "topic": "Dịch vụ khách hàng",
+   "w": "hotline",
+   "ipa": "/ˈhɒtlaɪn/",
+   "pos": "n",
+   "vi": "đường dây nóng",
+   "ex": "A dedicated hotline handles urgent issues.",
+   "exVi": "Một đường dây nóng riêng xử lý các vấn đề gấp.",
+   "col": [
+    "a support hotline",
+    "a 24-hour hotline"
+   ]
+  },
+  {
+   "id": "cs015",
+   "topic": "Dịch vụ khách hàng",
+   "w": "refund",
+   "ipa": "/ˈriːfʌnd/",
+   "pos": "n, v",
+   "vi": "hoàn tiền",
+   "ex": "The customer received a full refund for the fault.",
+   "exVi": "Khách nhận hoàn tiền đầy đủ cho lỗi này.",
+   "col": [
+    "a full refund",
+    "request a refund"
+   ]
+  },
+  {
+   "id": "cs016",
+   "topic": "Dịch vụ khách hàng",
+   "w": "exchange",
+   "ipa": "/ɪksˈtʃeɪndʒ/",
+   "pos": "n, v",
+   "vi": "đổi hàng",
+   "ex": "An exchange is allowed within thirty days.",
+   "exVi": "Được phép đổi hàng trong ba mươi ngày.",
+   "col": [
+    "exchange an item",
+    "a fair exchange"
+   ]
+  },
+  {
+   "id": "cs017",
+   "topic": "Dịch vụ khách hàng",
+   "w": "replacement",
+   "ipa": "/rɪˈpleɪsmənt/",
+   "pos": "n",
+   "vi": "hàng thay thế",
+   "ex": "A free replacement was sent the next day.",
+   "exVi": "Một sản phẩm thay thế miễn phí được gửi hôm sau.",
+   "col": [
+    "a free replacement",
+    "a replacement part"
+   ]
+  },
+  {
+   "id": "cs018",
+   "topic": "Dịch vụ khách hàng",
+   "w": "warranty",
+   "ipa": "/ˈwɒrənti/",
+   "pos": "n",
+   "vi": "bảo hành",
+   "ex": "The repair is covered under warranty.",
+   "exVi": "Việc sửa chữa được bảo hành.",
+   "col": [
+    "under warranty",
+    "a limited warranty"
+   ]
+  },
+  {
+   "id": "cs019",
+   "topic": "Dịch vụ khách hàng",
+   "w": "guarantee",
+   "ipa": "/ˌɡærənˈtiː/",
+   "pos": "n",
+   "vi": "sự bảo đảm",
+   "ex": "The product comes with a money-back guarantee.",
+   "exVi": "Sản phẩm đi kèm bảo đảm hoàn tiền.",
+   "col": [
+    "a money-back guarantee",
+    "a lifetime guarantee"
+   ]
+  },
+  {
+   "id": "cs020",
+   "topic": "Dịch vụ khách hàng",
+   "w": "return",
+   "ipa": "/rɪˈtɜːn/",
+   "pos": "n, v",
+   "vi": "trả hàng",
+   "ex": "Returns are accepted with the original receipt.",
+   "exVi": "Hàng trả được chấp nhận kèm hoá đơn gốc.",
+   "col": [
+    "a product return",
+    "return an item"
+   ]
+  },
+  {
+   "id": "cs021",
+   "topic": "Dịch vụ khách hàng",
+   "w": "receipt",
+   "ipa": "/rɪˈsiːt/",
+   "pos": "n",
+   "vi": "hoá đơn",
+   "ex": "Keep the receipt in case you need a refund.",
+   "exVi": "Giữ hoá đơn phòng khi bạn cần hoàn tiền.",
+   "col": [
+    "a sales receipt",
+    "keep the receipt"
+   ]
+  },
+  {
+   "id": "cs022",
+   "topic": "Dịch vụ khách hàng",
+   "w": "courteous",
+   "ipa": "/ˈkɜːtiəs/",
+   "pos": "adj",
+   "vi": "lịch sự",
+   "ex": "The staff were courteous and quick to help.",
+   "exVi": "Nhân viên lịch sự và nhanh chóng giúp đỡ.",
+   "col": [
+    "courteous service",
+    "a courteous reply"
+   ]
+  },
+  {
+   "id": "cs023",
+   "topic": "Dịch vụ khách hàng",
+   "w": "polite",
+   "ipa": "/pəˈlaɪt/",
+   "pos": "adj",
+   "vi": "lịch thiệp",
+   "ex": "A polite tone calms most upset callers.",
+   "exVi": "Giọng điệu lịch thiệp làm dịu phần lớn khách bực bội.",
+   "col": [
+    "a polite response",
+    "remain polite"
+   ]
+  },
+  {
+   "id": "cs024",
+   "topic": "Dịch vụ khách hàng",
+   "w": "patient",
+   "ipa": "/ˈpeɪʃnt/",
+   "pos": "adj",
+   "vi": "kiên nhẫn",
+   "ex": "Good agents stay patient under pressure.",
+   "exVi": "Nhân viên giỏi giữ kiên nhẫn dưới áp lực.",
+   "col": [
+    "a patient manner",
+    "be patient with"
+   ]
+  },
+  {
+   "id": "cs025",
+   "topic": "Dịch vụ khách hàng",
+   "w": "attentive",
+   "ipa": "/əˈtentɪv/",
+   "pos": "adj",
+   "vi": "chu đáo",
+   "ex": "An attentive agent listens to every detail.",
+   "exVi": "Một nhân viên chu đáo lắng nghe từng chi tiết.",
+   "col": [
+    "attentive service",
+    "an attentive listener"
+   ]
+  },
+  {
+   "id": "cs026",
+   "topic": "Dịch vụ khách hàng",
+   "w": "responsive",
+   "ipa": "/rɪˈspɒnsɪv/",
+   "pos": "adj",
+   "vi": "phản hồi nhanh",
+   "ex": "The company is known for responsive service.",
+   "exVi": "Công ty nổi tiếng vì dịch vụ phản hồi nhanh.",
+   "col": [
+    "responsive service",
+    "highly responsive"
+   ]
+  },
+  {
+   "id": "cs027",
+   "topic": "Dịch vụ khách hàng",
+   "w": "prompt",
+   "ipa": "/prɒmpt/",
+   "pos": "adj",
+   "vi": "kịp thời",
+   "ex": "A prompt reply reassured the worried client.",
+   "exVi": "Một phản hồi kịp thời trấn an khách đang lo lắng.",
+   "col": [
+    "a prompt reply",
+    "prompt service"
+   ]
+  },
+  {
+   "id": "cs028",
+   "topic": "Dịch vụ khách hàng",
+   "w": "efficient",
+   "ipa": "/ɪˈfɪʃnt/",
+   "pos": "adj",
+   "vi": "hiệu quả",
+   "ex": "Efficient handling shortens the waiting time.",
+   "exVi": "Việc xử lý hiệu quả rút ngắn thời gian chờ.",
+   "col": [
+    "efficient service",
+    "an efficient process"
+   ]
+  },
+  {
+   "id": "cs029",
+   "topic": "Dịch vụ khách hàng",
+   "w": "reliable",
+   "ipa": "/rɪˈlaɪəbl/",
+   "pos": "adj",
+   "vi": "đáng tin cậy",
+   "ex": "Customers value reliable after-sales support.",
+   "exVi": "Khách coi trọng dịch vụ hậu mãi đáng tin cậy.",
+   "col": [
+    "a reliable service",
+    "a reliable supplier"
+   ]
+  },
+  {
+   "id": "cs030",
+   "topic": "Dịch vụ khách hàng",
+   "w": "loyalty",
+   "ipa": "/ˈlɔɪəlti/",
+   "pos": "n",
+   "vi": "sự trung thành",
+   "ex": "Good service builds long-term loyalty.",
+   "exVi": "Dịch vụ tốt xây dựng lòng trung thành lâu dài.",
+   "col": [
+    "customer loyalty",
+    "build loyalty"
+   ]
+  },
+  {
+   "id": "cs031",
+   "topic": "Dịch vụ khách hàng",
+   "w": "retention",
+   "ipa": "/rɪˈtenʃn/",
+   "pos": "n",
+   "vi": "việc giữ chân khách",
+   "ex": "Customer retention improved after the survey.",
+   "exVi": "Việc giữ chân khách cải thiện sau khảo sát.",
+   "col": [
+    "customer retention",
+    "a retention rate"
+   ]
+  },
+  {
+   "id": "cs032",
+   "topic": "Dịch vụ khách hàng",
+   "w": "escalate",
+   "ipa": "/ˈeskəleɪt/",
+   "pos": "v",
+   "vi": "chuyển lên cấp trên",
+   "ex": "The agent escalated the case to a manager.",
+   "exVi": "Nhân viên chuyển vụ việc lên cho quản lý.",
+   "col": [
+    "escalate an issue",
+    "escalate a complaint"
+   ]
+  },
+  {
+   "id": "cs033",
+   "topic": "Dịch vụ khách hàng",
+   "w": "handle",
+   "ipa": "/ˈhændl/",
+   "pos": "v",
+   "vi": "xử lý",
+   "ex": "She handled the difficult call with ease.",
+   "exVi": "Bà xử lý cuộc gọi khó khăn một cách dễ dàng.",
+   "col": [
+    "handle a complaint",
+    "handle a request"
+   ]
+  },
+  {
+   "id": "cs034",
+   "topic": "Dịch vụ khách hàng",
+   "w": "address",
+   "ipa": "/əˈdres/",
+   "pos": "v",
+   "vi": "giải quyết, xử lý",
+   "ex": "The team addressed the problem the same day.",
+   "exVi": "Nhóm xử lý vấn đề ngay trong ngày.",
+   "col": [
+    "address an issue",
+    "address a concern"
+   ]
+  },
+  {
+   "id": "cs035",
+   "topic": "Dịch vụ khách hàng",
+   "w": "acknowledge",
+   "ipa": "/əkˈnɒlɪdʒ/",
+   "pos": "v",
+   "vi": "xác nhận đã nhận",
+   "ex": "We acknowledge every email within an hour.",
+   "exVi": "Chúng tôi xác nhận đã nhận mọi email trong một giờ.",
+   "col": [
+    "acknowledge receipt",
+    "acknowledge a complaint"
+   ]
+  },
+  {
+   "id": "cs036",
+   "topic": "Dịch vụ khách hàng",
+   "w": "apologize",
+   "ipa": "/əˈpɒlədʒaɪz/",
+   "pos": "v",
+   "vi": "xin lỗi",
+   "ex": "The manager apologized for the long wait.",
+   "exVi": "Quản lý xin lỗi vì thời gian chờ lâu.",
+   "col": [
+    "apologize for",
+    "sincerely apologize"
+   ]
+  },
+  {
+   "id": "cs037",
+   "topic": "Dịch vụ khách hàng",
+   "w": "compensate",
+   "ipa": "/ˈkɒmpenseɪt/",
+   "pos": "v",
+   "vi": "đền bù",
+   "ex": "The firm compensated the customer with a voucher.",
+   "exVi": "Công ty đền bù cho khách bằng một phiếu.",
+   "col": [
+    "compensate a customer",
+    "compensate for"
+   ]
+  },
+  {
+   "id": "cs038",
+   "topic": "Dịch vụ khách hàng",
+   "w": "reassure",
+   "ipa": "/ˌriːəˈʃʊə/",
+   "pos": "v",
+   "vi": "trấn an",
+   "ex": "The agent reassured the caller that help was coming.",
+   "exVi": "Nhân viên trấn an người gọi rằng hỗ trợ đang đến.",
+   "col": [
+    "reassure a customer",
+    "reassure someone"
+   ]
+  },
+  {
+   "id": "cs039",
+   "topic": "Dịch vụ khách hàng",
+   "w": "follow up",
+   "ipa": "/ˈfɒləʊ ʌp/",
+   "pos": "v",
+   "vi": "theo dõi tiếp",
+   "ex": "Staff follow up with customers after each repair.",
+   "exVi": "Nhân viên theo dõi tiếp với khách sau mỗi lần sửa.",
+   "col": [
+    "follow up on",
+    "follow up with"
+   ]
+  },
+  {
+   "id": "cs040",
+   "topic": "Dịch vụ khách hàng",
+   "w": "personalize",
+   "ipa": "/ˈpɜːsənəlaɪz/",
+   "pos": "v",
+   "vi": "cá nhân hoá",
+   "ex": "The service is personalized to each buyer.",
+   "exVi": "Dịch vụ được cá nhân hoá cho từng người mua.",
+   "col": [
+    "personalize a service",
+    "a personalized message"
+   ]
+  },
+  {
+   "id": "cs041",
+   "topic": "Dịch vụ khách hàng",
+   "w": "courtesy",
+   "ipa": "/ˈkɜːtəsi/",
+   "pos": "n",
+   "vi": "sự lịch sự",
+   "ex": "As a courtesy, delivery was made free of charge.",
+   "exVi": "Vì lịch sự, việc giao hàng được miễn phí.",
+   "col": [
+    "a courtesy call",
+    "out of courtesy"
+   ]
+  },
+  {
+   "id": "cs042",
+   "topic": "Dịch vụ khách hàng",
+   "w": "tactful",
+   "ipa": "/ˈtæktfl/",
+   "pos": "adj",
+   "vi": "khéo léo",
+   "ex": "A tactful reply avoided upsetting the client.",
+   "exVi": "Một phản hồi khéo léo tránh làm khách buồn.",
+   "col": [
+    "a tactful response",
+    "tactful handling"
+   ]
+  },
+  {
+   "id": "cs043",
+   "topic": "Dịch vụ khách hàng",
+   "w": "empathy",
+   "ipa": "/ˈempəθi/",
+   "pos": "n",
+   "vi": "sự đồng cảm",
+   "ex": "Empathy helps agents connect with upset callers.",
+   "exVi": "Sự đồng cảm giúp nhân viên kết nối với khách bực bội.",
+   "col": [
+    "show empathy",
+    "empathy for"
+   ]
+  },
+  {
+   "id": "cs044",
+   "topic": "Dịch vụ khách hàng",
+   "w": "rapport",
+   "ipa": "/ræˈpɔː/",
+   "pos": "n",
+   "vi": "sự thân thiện, gắn kết",
+   "ex": "Building rapport keeps customers coming back.",
+   "exVi": "Xây dựng sự gắn kết giữ khách quay lại.",
+   "col": [
+    "build rapport",
+    "a good rapport"
+   ]
+  },
+  {
+   "id": "cs045",
+   "topic": "Dịch vụ khách hàng",
+   "w": "outstanding",
+   "ipa": "/aʊtˈstændɪŋ/",
+   "pos": "adj",
+   "vi": "xuất sắc",
+   "ex": "The store won an award for outstanding service.",
+   "exVi": "Cửa hàng thắng một giải thưởng cho dịch vụ xuất sắc.",
+   "col": [
+    "outstanding service",
+    "an outstanding result"
+   ]
+  },
+  {
+   "id": "cs046",
+   "topic": "Dịch vụ khách hàng",
+   "w": "service",
+   "ipa": "/ˈsɜːvɪs/",
+   "pos": "n",
+   "vi": "dịch vụ",
+   "ex": "The company prides itself on friendly service.",
+   "exVi": "Công ty tự hào về dịch vụ thân thiện.",
+   "col": [
+    "customer service",
+    "after-sales service"
+   ]
+  },
+  {
+   "id": "cs047",
+   "topic": "Dịch vụ khách hàng",
+   "w": "warranty claim",
+   "ipa": "/ˈwɒrənti kleɪm/",
+   "pos": "n",
+   "vi": "yêu cầu bảo hành",
+   "ex": "A warranty claim was processed within two days.",
+   "exVi": "Một yêu cầu bảo hành được xử lý trong hai ngày.",
+   "col": [
+    "a warranty claim",
+    "file a warranty claim"
+   ]
+  },
+  {
+   "id": "cs048",
+   "topic": "Dịch vụ khách hàng",
+   "w": "defect",
+   "ipa": "/ˈdiːfekt/",
+   "pos": "n",
+   "vi": "lỗi sản phẩm",
+   "ex": "The buyer reported a defect in the product.",
+   "exVi": "Người mua báo một lỗi trong sản phẩm.",
+   "col": [
+    "a manufacturing defect",
+    "a minor defect"
+   ]
+  },
+  {
+   "id": "cs049",
+   "topic": "Dịch vụ khách hàng",
+   "w": "faulty",
+   "ipa": "/ˈfɔːlti/",
+   "pos": "adj",
+   "vi": "bị lỗi",
+   "ex": "The faulty item was replaced free of charge.",
+   "exVi": "Sản phẩm lỗi được thay miễn phí.",
+   "col": [
+    "a faulty product",
+    "a faulty part"
+   ]
+  },
+  {
+   "id": "cs050",
+   "topic": "Dịch vụ khách hàng",
+   "w": "malfunction",
+   "ipa": "/mælˈfʌŋkʃn/",
+   "pos": "n, v",
+   "vi": "trục trặc",
+   "ex": "A malfunction caused the machine to shut down.",
+   "exVi": "Một trục trặc khiến máy tắt.",
+   "col": [
+    "a malfunction",
+    "a system malfunction"
+   ]
+  },
+  {
+   "id": "cs051",
+   "topic": "Dịch vụ khách hàng",
+   "w": "troubleshoot",
+   "ipa": "/ˈtrʌblʃuːt/",
+   "pos": "v",
+   "vi": "khắc phục sự cố",
+   "ex": "The agent troubleshoots the issue over the phone.",
+   "exVi": "Nhân viên khắc phục sự cố qua điện thoại.",
+   "col": [
+    "troubleshoot a problem",
+    "troubleshoot an issue"
+   ]
+  },
+  {
+   "id": "cs052",
+   "topic": "Dịch vụ khách hàng",
+   "w": "diagnose",
+   "ipa": "/ˈdaɪəɡnəʊz/",
+   "pos": "v",
+   "vi": "xác định lỗi",
+   "ex": "A technician diagnosed the fault quickly.",
+   "exVi": "Một kỹ thuật viên xác định lỗi nhanh chóng.",
+   "col": [
+    "diagnose a problem",
+    "diagnose a fault"
+   ]
+  },
+  {
+   "id": "cs053",
+   "topic": "Dịch vụ khách hàng",
+   "w": "repair",
+   "ipa": "/rɪˈpeə/",
+   "pos": "n, v",
+   "vi": "sửa chữa",
+   "ex": "The repair took less than an hour.",
+   "exVi": "Việc sửa chữa mất chưa đầy một giờ.",
+   "col": [
+    "a repair",
+    "a repair service"
+   ]
+  },
+  {
+   "id": "cs054",
+   "topic": "Dịch vụ khách hàng",
+   "w": "maintenance",
+   "ipa": "/ˈmeɪntənəns/",
+   "pos": "n",
+   "vi": "bảo trì",
+   "ex": "Free maintenance is offered for the first year.",
+   "exVi": "Bảo trì miễn phí được cấp cho năm đầu.",
+   "col": [
+    "routine maintenance",
+    "free maintenance"
+   ]
+  },
+  {
+   "id": "cs055",
+   "topic": "Dịch vụ khách hàng",
+   "w": "upgrade",
+   "ipa": "/ˈʌpɡreɪd/",
+   "pos": "n, v",
+   "vi": "nâng cấp",
+   "ex": "Loyal customers received a free upgrade.",
+   "exVi": "Khách trung thành nhận một lần nâng cấp miễn phí.",
+   "col": [
+    "a free upgrade",
+    "offer an upgrade"
+   ]
+  },
+  {
+   "id": "cs056",
+   "topic": "Dịch vụ khách hàng",
+   "w": "enrollment",
+   "ipa": "/ɪnˈrəʊlmənt/",
+   "pos": "n",
+   "vi": "việc đăng ký",
+   "ex": "Enrollment in the loyalty scheme is free.",
+   "exVi": "Việc đăng ký chương trình khách hàng thân thiết là miễn phí.",
+   "col": [
+    "enrollment in",
+    "free enrollment"
+   ]
+  },
+  {
+   "id": "cs057",
+   "topic": "Dịch vụ khách hàng",
+   "w": "membership",
+   "ipa": "/ˈmembəʃɪp/",
+   "pos": "n",
+   "vi": "tư cách thành viên",
+   "ex": "Membership gives access to special offers.",
+   "exVi": "Tư cách thành viên cho quyền tiếp cận ưu đãi đặc biệt.",
+   "col": [
+    "a membership card",
+    "renew membership"
+   ]
+  },
+  {
+   "id": "cs058",
+   "topic": "Dịch vụ khách hàng",
+   "w": "subscriber",
+   "ipa": "/səbˈskraɪbə/",
+   "pos": "n",
+   "vi": "người đăng ký",
+   "ex": "A subscriber can pause the service at any time.",
+   "exVi": "Người đăng ký có thể tạm dừng dịch vụ bất cứ lúc nào.",
+   "col": [
+    "a new subscriber",
+    "a loyal subscriber"
+   ]
+  },
+  {
+   "id": "cs059",
+   "topic": "Dịch vụ khách hàng",
+   "w": "account",
+   "ipa": "/əˈkaʊnt/",
+   "pos": "n",
+   "vi": "tài khoản",
+   "ex": "Log in to your account to track the order.",
+   "exVi": "Đăng nhập tài khoản để theo dõi đơn hàng.",
+   "col": [
+    "a customer account",
+    "an online account"
+   ]
+  },
+  {
+   "id": "cs060",
+   "topic": "Dịch vụ khách hàng",
+   "w": "profile",
+   "ipa": "/ˈprəʊfaɪl/",
+   "pos": "n",
+   "vi": "hồ sơ khách hàng",
+   "ex": "Update your profile to receive relevant offers.",
+   "exVi": "Cập nhật hồ sơ để nhận ưu đãi phù hợp.",
+   "col": [
+    "a customer profile",
+    "a user profile"
+   ]
+  },
+  {
+   "id": "cs061",
+   "topic": "Dịch vụ khách hàng",
+   "w": "verification",
+   "ipa": "/ˌverɪfɪˈkeɪʃn/",
+   "pos": "n",
+   "vi": "việc xác minh",
+   "ex": "Verification of identity is needed for a refund.",
+   "exVi": "Cần xác minh danh tính để được hoàn tiền.",
+   "col": [
+    "identity verification",
+    "a verification code"
+   ]
+  },
+  {
+   "id": "cs062",
+   "topic": "Dịch vụ khách hàng",
+   "w": "confirmation",
+   "ipa": "/ˌkɒnfəˈmeɪʃn/",
+   "pos": "n",
+   "vi": "xác nhận",
+   "ex": "A confirmation email is sent after each order.",
+   "exVi": "Một email xác nhận được gửi sau mỗi đơn.",
+   "col": [
+    "order confirmation",
+    "a confirmation number"
+   ]
+  },
+  {
+   "id": "cs063",
+   "topic": "Dịch vụ khách hàng",
+   "w": "ticket",
+   "ipa": "/ˈtɪkɪt/",
+   "pos": "n",
+   "vi": "phiếu yêu cầu hỗ trợ",
+   "ex": "Each issue is logged as a support ticket.",
+   "exVi": "Mỗi vấn đề được ghi lại thành một phiếu hỗ trợ.",
+   "col": [
+    "a support ticket",
+    "raise a ticket"
+   ]
+  },
+  {
+   "id": "cs064",
+   "topic": "Dịch vụ khách hàng",
+   "w": "case",
+   "ipa": "/keɪs/",
+   "pos": "n",
+   "vi": "hồ sơ vụ việc",
+   "ex": "The agent opened a case for the complaint.",
+   "exVi": "Nhân viên mở một hồ sơ cho khiếu nại.",
+   "col": [
+    "a support case",
+    "close a case"
+   ]
+  },
+  {
+   "id": "cs065",
+   "topic": "Dịch vụ khách hàng",
+   "w": "priority",
+   "ipa": "/praɪˈɒrəti/",
+   "pos": "n",
+   "vi": "mức ưu tiên",
+   "ex": "Urgent tickets are given top priority.",
+   "exVi": "Phiếu gấp được ưu tiên cao nhất.",
+   "col": [
+    "top priority",
+    "a priority case"
+   ]
+  },
+  {
+   "id": "cs066",
+   "topic": "Dịch vụ khách hàng",
+   "w": "queue",
+   "ipa": "/kjuː/",
+   "pos": "n",
+   "vi": "hàng đợi",
+   "ex": "Callers wait in a queue during busy hours.",
+   "exVi": "Người gọi đợi trong hàng đợi vào giờ cao điểm.",
+   "col": [
+    "a call queue",
+    "join the queue"
+   ]
+  },
+  {
+   "id": "cs067",
+   "topic": "Dịch vụ khách hàng",
+   "w": "wait time",
+   "ipa": "/weɪt taɪm/",
+   "pos": "n",
+   "vi": "thời gian chờ",
+   "ex": "The average wait time fell to two minutes.",
+   "exVi": "Thời gian chờ trung bình giảm xuống hai phút.",
+   "col": [
+    "a long wait time",
+    "reduce wait time"
+   ]
+  },
+  {
+   "id": "cs068",
+   "topic": "Dịch vụ khách hàng",
+   "w": "callback",
+   "ipa": "/ˈkɔːlbæk/",
+   "pos": "n",
+   "vi": "cuộc gọi lại",
+   "ex": "A callback saves customers from waiting on hold.",
+   "exVi": "Một cuộc gọi lại giúp khách khỏi phải chờ máy.",
+   "col": [
+    "request a callback",
+    "a callback service"
+   ]
+  },
+  {
+   "id": "cs069",
+   "topic": "Dịch vụ khách hàng",
+   "w": "survey",
+   "ipa": "/ˈsɜːveɪ/",
+   "pos": "n",
+   "vi": "khảo sát",
+   "ex": "A short survey follows every support call.",
+   "exVi": "Một khảo sát ngắn theo sau mỗi cuộc gọi hỗ trợ.",
+   "col": [
+    "a customer survey",
+    "complete a survey"
+   ]
+  },
+  {
+   "id": "cs070",
+   "topic": "Dịch vụ khách hàng",
+   "w": "rating",
+   "ipa": "/ˈreɪtɪŋ/",
+   "pos": "n",
+   "vi": "xếp hạng đánh giá",
+   "ex": "The service earned a high rating from users.",
+   "exVi": "Dịch vụ đạt xếp hạng cao từ người dùng.",
+   "col": [
+    "a customer rating",
+    "a five-star rating"
+   ]
+  },
+  {
+   "id": "cs071",
+   "topic": "Dịch vụ khách hàng",
+   "w": "review",
+   "ipa": "/rɪˈvjuː/",
+   "pos": "n",
+   "vi": "đánh giá",
+   "ex": "Positive reviews boosted the store's reputation.",
+   "exVi": "Các đánh giá tích cực nâng danh tiếng cửa hàng.",
+   "col": [
+    "a customer review",
+    "an online review"
+   ]
+  },
+  {
+   "id": "cs072",
+   "topic": "Dịch vụ khách hàng",
+   "w": "testimonial",
+   "ipa": "/ˌtestɪˈməʊniəl/",
+   "pos": "n",
+   "vi": "lời chứng thực",
+   "ex": "A glowing testimonial appears on the website.",
+   "exVi": "Một lời chứng thực nồng nhiệt hiện trên trang web.",
+   "col": [
+    "a customer testimonial",
+    "a glowing testimonial"
+   ]
+  },
+  {
+   "id": "cs073",
+   "topic": "Dịch vụ khách hàng",
+   "w": "loyalty program",
+   "ipa": "/ˈlɔɪəlti ˈprəʊɡræm/",
+   "pos": "n",
+   "vi": "chương trình khách hàng thân thiết",
+   "ex": "The loyalty program rewards repeat purchases.",
+   "exVi": "Chương trình khách hàng thân thiết thưởng cho việc mua lại.",
+   "col": [
+    "a loyalty program",
+    "join a loyalty program"
+   ]
+  },
+  {
+   "id": "cs074",
+   "topic": "Dịch vụ khách hàng",
+   "w": "reward",
+   "ipa": "/rɪˈwɔːd/",
+   "pos": "n, v",
+   "vi": "phần thưởng",
+   "ex": "Members earn a reward for every purchase.",
+   "exVi": "Thành viên nhận phần thưởng cho mỗi lần mua.",
+   "col": [
+    "a loyalty reward",
+    "earn a reward"
+   ]
+  },
+  {
+   "id": "cs075",
+   "topic": "Dịch vụ khách hàng",
+   "w": "voucher",
+   "ipa": "/ˈvaʊtʃə/",
+   "pos": "n",
+   "vi": "phiếu quà tặng",
+   "ex": "A voucher was offered to apologize for the delay.",
+   "exVi": "Một phiếu quà tặng được tặng để xin lỗi vì chậm trễ.",
+   "col": [
+    "a gift voucher",
+    "a discount voucher"
+   ]
+  },
+  {
+   "id": "cs076",
+   "topic": "Dịch vụ khách hàng",
+   "w": "goodwill",
+   "ipa": "/ˌɡʊdˈwɪl/",
+   "pos": "n",
+   "vi": "thiện chí",
+   "ex": "A free gift was sent as a goodwill gesture.",
+   "exVi": "Một món quà miễn phí được gửi như một cử chỉ thiện chí.",
+   "col": [
+    "a goodwill gesture",
+    "build goodwill"
+   ]
+  },
+  {
+   "id": "cs077",
+   "topic": "Dịch vụ khách hàng",
+   "w": "concession",
+   "ipa": "/kənˈseʃn/",
+   "pos": "n",
+   "vi": "sự nhượng bộ",
+   "ex": "A small concession settled the dispute.",
+   "exVi": "Một nhượng bộ nhỏ dàn xếp tranh chấp.",
+   "col": [
+    "make a concession",
+    "a minor concession"
+   ]
+  },
+  {
+   "id": "cs078",
+   "topic": "Dịch vụ khách hàng",
+   "w": "liaise",
+   "ipa": "/liˈeɪz/",
+   "pos": "v",
+   "vi": "làm việc phối hợp",
+   "ex": "The agent liaised with the delivery team.",
+   "exVi": "Nhân viên phối hợp với đội giao hàng.",
+   "col": [
+    "liaise with",
+    "liaise between"
+   ]
+  },
+  {
+   "id": "cs079",
+   "topic": "Dịch vụ khách hàng",
+   "w": "coordinate",
+   "ipa": "/kəʊˈɔːdɪneɪt/",
+   "pos": "v",
+   "vi": "điều phối",
+   "ex": "Staff coordinate returns with the warehouse.",
+   "exVi": "Nhân viên điều phối việc trả hàng với nhà kho.",
+   "col": [
+    "coordinate with",
+    "coordinate a response"
+   ]
+  },
+  {
+   "id": "cs080",
+   "topic": "Dịch vụ khách hàng",
+   "w": "expedite",
+   "ipa": "/ˈekspədaɪt/",
+   "pos": "v",
+   "vi": "đẩy nhanh",
+   "ex": "The team expedited the refund at the customer's request.",
+   "exVi": "Nhóm đẩy nhanh việc hoàn tiền theo yêu cầu của khách.",
+   "col": [
+    "expedite a request",
+    "expedite delivery"
+   ]
+  },
+  {
+   "id": "cs081",
+   "topic": "Dịch vụ khách hàng",
+   "w": "prioritize",
+   "ipa": "/praɪˈɒrətaɪz/",
+   "pos": "v",
+   "vi": "ưu tiên",
+   "ex": "The desk prioritizes urgent complaints.",
+   "exVi": "Quầy ưu tiên các khiếu nại gấp.",
+   "col": [
+    "prioritize a task",
+    "prioritize requests"
+   ]
+  },
+  {
+   "id": "cs082",
+   "topic": "Dịch vụ khách hàng",
+   "w": "courteously",
+   "ipa": "/ˈkɜːtiəsli/",
+   "pos": "adv",
+   "vi": "một cách lịch sự",
+   "ex": "The staff dealt with the crowd courteously.",
+   "exVi": "Nhân viên xử lý đám đông một cách lịch sự.",
+   "col": [
+    "answered courteously",
+    "behave courteously"
+   ]
+  },
+  {
+   "id": "cs083",
+   "topic": "Dịch vụ khách hàng",
+   "w": "promptly",
+   "ipa": "/ˈprɒmptli/",
+   "pos": "adv",
+   "vi": "một cách kịp thời",
+   "ex": "Complaints are answered promptly and fairly.",
+   "exVi": "Khiếu nại được trả lời kịp thời và công bằng.",
+   "col": [
+    "reply promptly",
+    "act promptly"
+   ]
+  },
+  {
+   "id": "cs084",
+   "topic": "Dịch vụ khách hàng",
+   "w": "diligently",
+   "ipa": "/ˈdɪlɪdʒəntli/",
+   "pos": "adv",
+   "vi": "một cách chuyên cần",
+   "ex": "The agent worked diligently to find a solution.",
+   "exVi": "Nhân viên làm việc chuyên cần để tìm giải pháp.",
+   "col": [
+    "work diligently",
+    "search diligently"
+   ]
+  },
+  {
+   "id": "cs085",
+   "topic": "Dịch vụ khách hàng",
+   "w": "graciously",
+   "ipa": "/ˈɡreɪʃəsli/",
+   "pos": "adv",
+   "vi": "một cách nhã nhặn",
+   "ex": "She graciously accepted the apology.",
+   "exVi": "Bà nhã nhặn chấp nhận lời xin lỗi.",
+   "col": [
+    "graciously accepted",
+    "respond graciously"
+   ]
+  },
+  {
+   "id": "cs086",
+   "topic": "Dịch vụ khách hàng",
+   "w": "dissatisfied",
+   "ipa": "/dɪsˈsætɪsfaɪd/",
+   "pos": "adj",
+   "vi": "không hài lòng",
+   "ex": "A dissatisfied customer left a detailed review.",
+   "exVi": "Một khách không hài lòng để lại đánh giá chi tiết.",
+   "col": [
+    "a dissatisfied customer",
+    "deeply dissatisfied"
+   ]
+  },
+  {
+   "id": "cs087",
+   "topic": "Dịch vụ khách hàng",
+   "w": "grievance",
+   "ipa": "/ˈɡriːvəns/",
+   "pos": "n",
+   "vi": "điều phàn nàn",
+   "ex": "The form lets customers record a grievance.",
+   "exVi": "Biểu mẫu cho khách ghi lại một điều phàn nàn.",
+   "col": [
+    "a customer grievance",
+    "raise a grievance"
+   ]
+  },
+  {
+   "id": "cs088",
+   "topic": "Dịch vụ khách hàng",
+   "w": "amicable",
+   "ipa": "/ˈæmɪkəbl/",
+   "pos": "adj",
+   "vi": "thân thiện, hoà nhã",
+   "ex": "The two sides reached an amicable solution.",
+   "exVi": "Hai bên đạt một giải pháp hoà nhã.",
+   "col": [
+    "an amicable solution",
+    "an amicable agreement"
+   ]
+  },
+  {
+   "id": "cs089",
+   "topic": "Dịch vụ khách hàng",
+   "w": "accommodating",
+   "ipa": "/əˈkɒmədeɪtɪŋ/",
+   "pos": "adj",
+   "vi": "sẵn sàng đáp ứng",
+   "ex": "The staff were accommodating about the late return.",
+   "exVi": "Nhân viên sẵn sàng đáp ứng về việc trả hàng muộn.",
+   "col": [
+    "an accommodating manner",
+    "very accommodating"
+   ]
+  },
+  {
+   "id": "cs090",
+   "topic": "Dịch vụ khách hàng",
+   "w": "diligence",
+   "ipa": "/ˈdɪlɪdʒəns/",
+   "pos": "n",
+   "vi": "sự tận tâm",
+   "ex": "Her diligence earned praise from many customers.",
+   "exVi": "Sự tận tâm của bà nhận lời khen từ nhiều khách.",
+   "col": [
+    "show diligence",
+    "due diligence"
+   ]
+  }
+ ]
+}

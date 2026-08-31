@@ -1,0 +1,1111 @@
+{
+ "topic": "Giới từ, liên từ & từ nối",
+ "words": [
+  {
+   "id": "cj001",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "although",
+   "ipa": "/ɔːlˈðəʊ/",
+   "pos": "conj",
+   "vi": "mặc dù",
+   "ex": "Although sales fell, the firm stayed profitable.",
+   "exVi": "Mặc dù doanh số giảm, công ty vẫn có lãi.",
+   "col": [
+    "although",
+    "although it was late"
+   ]
+  },
+  {
+   "id": "cj002",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "though",
+   "ipa": "/ðəʊ/",
+   "pos": "conj",
+   "vi": "mặc dù",
+   "ex": "The plan worked, though it took longer.",
+   "exVi": "Kế hoạch có hiệu quả, mặc dù nó mất lâu hơn.",
+   "col": [
+    "even though",
+    "as though"
+   ]
+  },
+  {
+   "id": "cj003",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "whereas",
+   "ipa": "/weərˈæz/",
+   "pos": "conj",
+   "vi": "trong khi",
+   "ex": "One branch grew, whereas the other shrank.",
+   "exVi": "Một chi nhánh tăng, trong khi chi nhánh kia giảm.",
+   "col": [
+    "whereas",
+    "whereas others"
+   ]
+  },
+  {
+   "id": "cj004",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "while",
+   "ipa": "/waɪl/",
+   "pos": "conj",
+   "vi": "trong khi",
+   "ex": "While costs rose, revenue stayed flat.",
+   "exVi": "Trong khi chi phí tăng, doanh thu đứng yên.",
+   "col": [
+    "while",
+    "while others"
+   ]
+  },
+  {
+   "id": "cj005",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "because",
+   "ipa": "/bɪˈkɒz/",
+   "pos": "conj",
+   "vi": "bởi vì",
+   "ex": "The launch was delayed because of the weather.",
+   "exVi": "Buổi ra mắt bị hoãn bởi vì thời tiết.",
+   "col": [
+    "because",
+    "because of"
+   ]
+  },
+  {
+   "id": "cj006",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "since",
+   "ipa": "/sɪns/",
+   "pos": "conj",
+   "vi": "vì, kể từ khi",
+   "ex": "Since demand rose, the firm hired more staff.",
+   "exVi": "Vì nhu cầu tăng, công ty tuyển thêm nhân viên.",
+   "col": [
+    "since",
+    "ever since"
+   ]
+  },
+  {
+   "id": "cj007",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "unless",
+   "ipa": "/ənˈles/",
+   "pos": "conj",
+   "vi": "trừ khi",
+   "ex": "The deal fails unless both sides agree.",
+   "exVi": "Thoả thuận thất bại trừ khi cả hai bên đồng ý.",
+   "col": [
+    "unless",
+    "unless otherwise"
+   ]
+  },
+  {
+   "id": "cj008",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "provided",
+   "ipa": "/prəˈvaɪdɪd/",
+   "pos": "conj",
+   "vi": "với điều kiện",
+   "ex": "The refund applies provided you keep the receipt.",
+   "exVi": "Việc hoàn tiền áp dụng với điều kiện bạn giữ hoá đơn.",
+   "col": [
+    "provided that",
+    "provided you"
+   ]
+  },
+  {
+   "id": "cj009",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "whether",
+   "ipa": "/ˈweðə/",
+   "pos": "conj",
+   "vi": "liệu, dù",
+   "ex": "The plan works whether or not it rains.",
+   "exVi": "Kế hoạch có hiệu quả dù có mưa hay không.",
+   "col": [
+    "whether",
+    "whether or not"
+   ]
+  },
+  {
+   "id": "cj010",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "therefore",
+   "ipa": "/ˈðeəfɔː/",
+   "pos": "adv",
+   "vi": "do đó",
+   "ex": "Costs rose; therefore, prices went up.",
+   "exVi": "Chi phí tăng; do đó, giá lên.",
+   "col": [
+    "therefore",
+    "and therefore"
+   ]
+  },
+  {
+   "id": "cj011",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "however",
+   "ipa": "/haʊˈevə/",
+   "pos": "adv",
+   "vi": "tuy nhiên",
+   "ex": "Sales rose; however, profit fell.",
+   "exVi": "Doanh số tăng; tuy nhiên, lợi nhuận giảm.",
+   "col": [
+    "however",
+    "however small"
+   ]
+  },
+  {
+   "id": "cj012",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "moreover",
+   "ipa": "/mɔːrˈəʊvə/",
+   "pos": "adv",
+   "vi": "hơn nữa",
+   "ex": "The plan is cheap; moreover, it is fast.",
+   "exVi": "Kế hoạch rẻ; hơn nữa, nó nhanh.",
+   "col": [
+    "moreover",
+    "moreover it is"
+   ]
+  },
+  {
+   "id": "cj013",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "furthermore",
+   "ipa": "/ˈfɜːðəmɔː/",
+   "pos": "adv",
+   "vi": "hơn nữa",
+   "ex": "The tool is simple; furthermore, it is reliable.",
+   "exVi": "Công cụ đơn giản; hơn nữa, nó đáng tin.",
+   "col": [
+    "furthermore",
+    "furthermore it is"
+   ]
+  },
+  {
+   "id": "cj014",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "nevertheless",
+   "ipa": "/ˌnevəðəˈles/",
+   "pos": "adv",
+   "vi": "tuy nhiên",
+   "ex": "The cost was high; nevertheless, they went ahead.",
+   "exVi": "Chi phí cao; tuy nhiên, họ vẫn tiến hành.",
+   "col": [
+    "nevertheless",
+    "nevertheless it worked"
+   ]
+  },
+  {
+   "id": "cj015",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "nonetheless",
+   "ipa": "/ˌnʌnðəˈles/",
+   "pos": "adv",
+   "vi": "dù vậy",
+   "ex": "The plan was risky; nonetheless, it succeeded.",
+   "exVi": "Kế hoạch rủi ro; dù vậy, nó thành công.",
+   "col": [
+    "nonetheless",
+    "nonetheless they tried"
+   ]
+  },
+  {
+   "id": "cj016",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "consequently",
+   "ipa": "/ˈkɒnsɪkwəntli/",
+   "pos": "adv",
+   "vi": "kết quả là",
+   "ex": "Demand fell; consequently, output was cut.",
+   "exVi": "Nhu cầu giảm; kết quả là sản lượng bị cắt.",
+   "col": [
+    "consequently",
+    "consequently the firm"
+   ]
+  },
+  {
+   "id": "cj017",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "accordingly",
+   "ipa": "/əˈkɔːdɪŋli/",
+   "pos": "adv",
+   "vi": "theo đó",
+   "ex": "The rules changed; staff acted accordingly.",
+   "exVi": "Quy tắc thay đổi; nhân viên hành động theo đó.",
+   "col": [
+    "accordingly",
+    "act accordingly"
+   ]
+  },
+  {
+   "id": "cj018",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "otherwise",
+   "ipa": "/ˈʌðəwaɪz/",
+   "pos": "adv",
+   "vi": "nếu không",
+   "ex": "Pay on time; otherwise a fee applies.",
+   "exVi": "Trả đúng hạn; nếu không một khoản phí sẽ áp.",
+   "col": [
+    "otherwise",
+    "or otherwise"
+   ]
+  },
+  {
+   "id": "cj019",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "meanwhile",
+   "ipa": "/ˈmiːnwaɪl/",
+   "pos": "adv",
+   "vi": "trong lúc đó",
+   "ex": "The team packed; meanwhile the truck arrived.",
+   "exVi": "Nhóm đóng gói; trong lúc đó xe tải tới.",
+   "col": [
+    "meanwhile",
+    "meanwhile the team"
+   ]
+  },
+  {
+   "id": "cj020",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "likewise",
+   "ipa": "/ˈlaɪkwaɪz/",
+   "pos": "adv",
+   "vi": "tương tự",
+   "ex": "The first plan failed; likewise, the second.",
+   "exVi": "Kế hoạch đầu thất bại; tương tự, kế hoạch hai.",
+   "col": [
+    "likewise",
+    "likewise the team"
+   ]
+  },
+  {
+   "id": "cj021",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "besides",
+   "ipa": "/bɪˈsaɪdz/",
+   "pos": "adv",
+   "vi": "ngoài ra",
+   "ex": "The tool is cheap; besides, it is easy to use.",
+   "exVi": "Công cụ rẻ; ngoài ra, nó dễ dùng.",
+   "col": [
+    "besides",
+    "besides that"
+   ]
+  },
+  {
+   "id": "cj022",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "instead",
+   "ipa": "/ɪnˈsted/",
+   "pos": "adv",
+   "vi": "thay vào đó",
+   "ex": "The meeting was cancelled; a call was held instead.",
+   "exVi": "Cuộc họp bị huỷ; một cuộc gọi được tổ chức thay vào đó.",
+   "col": [
+    "instead",
+    "instead of"
+   ]
+  },
+  {
+   "id": "cj023",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "regardless",
+   "ipa": "/rɪˈɡɑːdləs/",
+   "pos": "adv",
+   "vi": "bất kể",
+   "ex": "The launch went ahead regardless of the delay.",
+   "exVi": "Buổi ra mắt tiến hành bất kể sự chậm trễ.",
+   "col": [
+    "regardless",
+    "regardless of"
+   ]
+  },
+  {
+   "id": "cj024",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "despite",
+   "ipa": "/dɪˈspaɪt/",
+   "pos": "prep",
+   "vi": "dù cho",
+   "ex": "Despite the delay, the project finished on time.",
+   "exVi": "Dù cho sự chậm trễ, dự án hoàn thành đúng hạn.",
+   "col": [
+    "despite",
+    "despite the fact"
+   ]
+  },
+  {
+   "id": "cj025",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "during",
+   "ipa": "/ˈdjʊərɪŋ/",
+   "pos": "prep",
+   "vi": "trong suốt",
+   "ex": "Sales rose during the holiday season.",
+   "exVi": "Doanh số tăng trong suốt mùa lễ.",
+   "col": [
+    "during",
+    "during the year"
+   ]
+  },
+  {
+   "id": "cj026",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "throughout",
+   "ipa": "/θruːˈaʊt/",
+   "pos": "prep",
+   "vi": "xuyên suốt",
+   "ex": "The rule applied throughout the year.",
+   "exVi": "Quy tắc áp dụng xuyên suốt cả năm.",
+   "col": [
+    "throughout",
+    "throughout the day"
+   ]
+  },
+  {
+   "id": "cj027",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "within",
+   "ipa": "/wɪˈðɪn/",
+   "pos": "prep",
+   "vi": "trong vòng",
+   "ex": "The order ships within two days.",
+   "exVi": "Đơn hàng được gửi trong vòng hai ngày.",
+   "col": [
+    "within",
+    "within budget"
+   ]
+  },
+  {
+   "id": "cj028",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "beyond",
+   "ipa": "/bɪˈjɒnd/",
+   "pos": "prep",
+   "vi": "vượt quá",
+   "ex": "The cost rose beyond the estimate.",
+   "exVi": "Chi phí tăng vượt quá dự toán.",
+   "col": [
+    "beyond",
+    "beyond doubt"
+   ]
+  },
+  {
+   "id": "cj029",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "regarding",
+   "ipa": "/rɪˈɡɑːdɪŋ/",
+   "pos": "prep",
+   "vi": "về việc",
+   "ex": "A note was sent regarding the change.",
+   "exVi": "Một ghi chú được gửi về việc thay đổi.",
+   "col": [
+    "regarding",
+    "regarding the matter"
+   ]
+  },
+  {
+   "id": "cj030",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "concerning",
+   "ipa": "/kənˈsɜːnɪŋ/",
+   "pos": "prep",
+   "vi": "liên quan đến",
+   "ex": "Questions concerning the plan were answered.",
+   "exVi": "Các câu hỏi liên quan đến kế hoạch được trả lời.",
+   "col": [
+    "concerning",
+    "concerning the issue"
+   ]
+  },
+  {
+   "id": "cj031",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "according to",
+   "ipa": "/əˈkɔːdɪŋ tuː/",
+   "pos": "prep",
+   "vi": "theo",
+   "ex": "According to the report, sales rose.",
+   "exVi": "Theo báo cáo, doanh số tăng.",
+   "col": [
+    "according to",
+    "according to plan"
+   ]
+  },
+  {
+   "id": "cj032",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "due to",
+   "ipa": "/djuː tuː/",
+   "pos": "prep",
+   "vi": "do bởi",
+   "ex": "The delay was due to a supply problem.",
+   "exVi": "Sự chậm trễ do bởi một vấn đề nguồn cung.",
+   "col": [
+    "due to",
+    "due to demand"
+   ]
+  },
+  {
+   "id": "cj033",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "owing to",
+   "ipa": "/ˈəʊɪŋ tuː/",
+   "pos": "prep",
+   "vi": "do vì",
+   "ex": "Owing to the storm, the event was moved.",
+   "exVi": "Do vì cơn bão, sự kiện được dời.",
+   "col": [
+    "owing to",
+    "owing to the delay"
+   ]
+  },
+  {
+   "id": "cj034",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "prior to",
+   "ipa": "/ˈpraɪə tuː/",
+   "pos": "prep",
+   "vi": "trước khi",
+   "ex": "A check is done prior to shipping.",
+   "exVi": "Một cuộc kiểm tra được làm trước khi gửi hàng.",
+   "col": [
+    "prior to",
+    "prior to the meeting"
+   ]
+  },
+  {
+   "id": "cj035",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "in spite of",
+   "ipa": "/ɪn spaɪt əv/",
+   "pos": "prep",
+   "vi": "bất chấp",
+   "ex": "In spite of the cost, the plan went ahead.",
+   "exVi": "Bất chấp chi phí, kế hoạch tiến hành.",
+   "col": [
+    "in spite of",
+    "in spite of that"
+   ]
+  },
+  {
+   "id": "cj036",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "apart from",
+   "ipa": "/əˈpɑːt frɒm/",
+   "pos": "prep",
+   "vi": "ngoài ra",
+   "ex": "Apart from one error, the report was good.",
+   "exVi": "Ngoài một lỗi, báo cáo tốt.",
+   "col": [
+    "apart from",
+    "apart from that"
+   ]
+  },
+  {
+   "id": "cj037",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "along with",
+   "ipa": "/əˈlɒŋ wɪð/",
+   "pos": "prep",
+   "vi": "cùng với",
+   "ex": "The form, along with the fee, must be sent.",
+   "exVi": "Biểu mẫu, cùng với phí, phải được gửi.",
+   "col": [
+    "along with",
+    "along with others"
+   ]
+  },
+  {
+   "id": "cj038",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "in addition to",
+   "ipa": "/ɪn əˈdɪʃn tuː/",
+   "pos": "prep",
+   "vi": "thêm vào",
+   "ex": "In addition to the bonus, staff got a day off.",
+   "exVi": "Thêm vào tiền thưởng, nhân viên được nghỉ một ngày.",
+   "col": [
+    "in addition to",
+    "in addition to that"
+   ]
+  },
+  {
+   "id": "cj039",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "as well as",
+   "ipa": "/æz wel æz/",
+   "pos": "conj",
+   "vi": "cũng như",
+   "ex": "The plan covers cost as well as time.",
+   "exVi": "Kế hoạch bao gồm chi phí cũng như thời gian.",
+   "col": [
+    "as well as",
+    "as well as others"
+   ]
+  },
+  {
+   "id": "cj040",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "in order to",
+   "ipa": "/ɪn ˈɔːdə tuː/",
+   "pos": "conj",
+   "vi": "để mà",
+   "ex": "In order to save time, the steps were merged.",
+   "exVi": "Để tiết kiệm thời gian, các bước được gộp.",
+   "col": [
+    "in order to",
+    "in order to succeed"
+   ]
+  },
+  {
+   "id": "cj041",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "as long as",
+   "ipa": "/æz lɒŋ æz/",
+   "pos": "conj",
+   "vi": "miễn là",
+   "ex": "The offer stands as long as stock remains.",
+   "exVi": "Ưu đãi còn hiệu lực miễn là còn hàng.",
+   "col": [
+    "as long as",
+    "as long as possible"
+   ]
+  },
+  {
+   "id": "cj042",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "even if",
+   "ipa": "/ˈiːvn ɪf/",
+   "pos": "conj",
+   "vi": "ngay cả khi",
+   "ex": "The plan proceeds even if costs rise.",
+   "exVi": "Kế hoạch tiến hành ngay cả khi chi phí tăng.",
+   "col": [
+    "even if",
+    "even if late"
+   ]
+  },
+  {
+   "id": "cj043",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "even though",
+   "ipa": "/ˈiːvn ðəʊ/",
+   "pos": "conj",
+   "vi": "mặc dù",
+   "ex": "Even though it rained, the event went ahead.",
+   "exVi": "Mặc dù trời mưa, sự kiện vẫn tiến hành.",
+   "col": [
+    "even though",
+    "even though late"
+   ]
+  },
+  {
+   "id": "cj044",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "in case",
+   "ipa": "/ɪn keɪs/",
+   "pos": "conj",
+   "vi": "phòng khi",
+   "ex": "Bring a copy in case the file is lost.",
+   "exVi": "Mang một bản phòng khi tệp bị mất.",
+   "col": [
+    "in case",
+    "just in case"
+   ]
+  },
+  {
+   "id": "cj045",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "so that",
+   "ipa": "/səʊ ðæt/",
+   "pos": "conj",
+   "vi": "để mà",
+   "ex": "The steps were merged so that time was saved.",
+   "exVi": "Các bước được gộp để tiết kiệm thời gian.",
+   "col": [
+    "so that",
+    "so that everyone"
+   ]
+  },
+  {
+   "id": "cj046",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "as soon as",
+   "ipa": "/æz suːn æz/",
+   "pos": "conj",
+   "vi": "ngay khi",
+   "ex": "Ship the goods as soon as payment clears.",
+   "exVi": "Gửi hàng ngay khi thanh toán xong.",
+   "col": [
+    "as soon as",
+    "as soon as possible"
+   ]
+  },
+  {
+   "id": "cj047",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "given that",
+   "ipa": "/ˈɡɪvn ðæt/",
+   "pos": "conj",
+   "vi": "xét rằng",
+   "ex": "Given that demand is high, prices may rise.",
+   "exVi": "Xét rằng nhu cầu cao, giá có thể tăng.",
+   "col": [
+    "given that",
+    "given that fact"
+   ]
+  },
+  {
+   "id": "cj048",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "notwithstanding",
+   "ipa": "/ˌnɒtwɪθˈstændɪŋ/",
+   "pos": "prep",
+   "vi": "mặc dù",
+   "ex": "Notwithstanding the delay, the plan succeeded.",
+   "exVi": "Mặc dù chậm trễ, kế hoạch thành công.",
+   "col": [
+    "notwithstanding",
+    "notwithstanding this"
+   ]
+  },
+  {
+   "id": "cj049",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "hence",
+   "ipa": "/hens/",
+   "pos": "adv",
+   "vi": "do đó",
+   "ex": "Costs rose; hence the price change.",
+   "exVi": "Chi phí tăng; do đó có sự thay đổi giá.",
+   "col": [
+    "hence",
+    "hence the need"
+   ]
+  },
+  {
+   "id": "cj050",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "thus",
+   "ipa": "/ðʌs/",
+   "pos": "adv",
+   "vi": "như vậy",
+   "ex": "Demand fell; thus output was cut.",
+   "exVi": "Nhu cầu giảm; như vậy sản lượng bị cắt.",
+   "col": [
+    "thus",
+    "thus far"
+   ]
+  },
+  {
+   "id": "cj051",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "thereby",
+   "ipa": "/ˌðeəˈbaɪ/",
+   "pos": "adv",
+   "vi": "nhờ đó",
+   "ex": "The tool cut waste, thereby saving money.",
+   "exVi": "Công cụ giảm lãng phí, nhờ đó tiết kiệm tiền.",
+   "col": [
+    "thereby",
+    "thereby reducing"
+   ]
+  },
+  {
+   "id": "cj052",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "alternatively",
+   "ipa": "/ɔːlˈtɜːnətɪvli/",
+   "pos": "adv",
+   "vi": "hoặc là",
+   "ex": "Pay now; alternatively, pay in installments.",
+   "exVi": "Trả ngay; hoặc là trả góp.",
+   "col": [
+    "alternatively",
+    "alternatively you can"
+   ]
+  },
+  {
+   "id": "cj053",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "conversely",
+   "ipa": "/ˈkɒnvɜːsli/",
+   "pos": "adv",
+   "vi": "ngược lại",
+   "ex": "Sales rose; conversely, costs fell.",
+   "exVi": "Doanh số tăng; ngược lại, chi phí giảm.",
+   "col": [
+    "conversely",
+    "conversely the team"
+   ]
+  },
+  {
+   "id": "cj054",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "similarly",
+   "ipa": "/ˈsɪmələli/",
+   "pos": "adv",
+   "vi": "tương tự",
+   "ex": "The first test passed; similarly, the second.",
+   "exVi": "Bài kiểm tra đầu đạt; tương tự, bài thứ hai.",
+   "col": [
+    "similarly",
+    "similarly placed"
+   ]
+  },
+  {
+   "id": "cj055",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "subsequently",
+   "ipa": "/ˈsʌbsɪkwəntli/",
+   "pos": "adv",
+   "vi": "sau đó",
+   "ex": "The plan was drafted and subsequently approved.",
+   "exVi": "Kế hoạch được soạn và sau đó được duyệt.",
+   "col": [
+    "subsequently",
+    "subsequently added"
+   ]
+  },
+  {
+   "id": "cj056",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "primarily",
+   "ipa": "/praɪˈmerəli/",
+   "pos": "adv",
+   "vi": "chủ yếu",
+   "ex": "The firm serves primarily local clients.",
+   "exVi": "Công ty phục vụ chủ yếu khách địa phương.",
+   "col": [
+    "primarily",
+    "primarily used"
+   ]
+  },
+  {
+   "id": "cj057",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "notably",
+   "ipa": "/ˈnəʊtəbli/",
+   "pos": "adv",
+   "vi": "đáng chú ý",
+   "ex": "Sales grew, notably in the north.",
+   "exVi": "Doanh số tăng, đáng chú ý ở phía bắc.",
+   "col": [
+    "notably",
+    "most notably"
+   ]
+  },
+  {
+   "id": "cj058",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "specifically",
+   "ipa": "/spəˈsɪfɪkli/",
+   "pos": "adv",
+   "vi": "cụ thể là",
+   "ex": "The rule applies specifically to new staff.",
+   "exVi": "Quy tắc áp dụng cụ thể cho nhân viên mới.",
+   "col": [
+    "specifically",
+    "specifically designed"
+   ]
+  },
+  {
+   "id": "cj059",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "particularly",
+   "ipa": "/pəˈtɪkjələli/",
+   "pos": "adv",
+   "vi": "đặc biệt",
+   "ex": "Demand was strong, particularly in summer.",
+   "exVi": "Nhu cầu mạnh, đặc biệt vào mùa hè.",
+   "col": [
+    "particularly",
+    "particularly useful"
+   ]
+  },
+  {
+   "id": "cj060",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "namely",
+   "ipa": "/ˈneɪmli/",
+   "pos": "adv",
+   "vi": "cụ thể là",
+   "ex": "One area grew, namely online sales.",
+   "exVi": "Một mảng tăng, cụ thể là doanh số trực tuyến.",
+   "col": [
+    "namely",
+    "namely the team"
+   ]
+  },
+  {
+   "id": "cj061",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "toward",
+   "ipa": "/təˈwɔːd/",
+   "pos": "prep",
+   "vi": "hướng tới",
+   "ex": "The firm is moving toward digital tools.",
+   "exVi": "Công ty đang chuyển hướng tới công cụ số.",
+   "col": [
+    "toward",
+    "toward the goal"
+   ]
+  },
+  {
+   "id": "cj062",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "upon",
+   "ipa": "/əˈpɒn/",
+   "pos": "prep",
+   "vi": "khi, dựa trên",
+   "ex": "Upon arrival, the goods are checked.",
+   "exVi": "Khi tới nơi, hàng được kiểm tra.",
+   "col": [
+    "upon",
+    "upon request"
+   ]
+  },
+  {
+   "id": "cj063",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "amid",
+   "ipa": "/əˈmɪd/",
+   "pos": "prep",
+   "vi": "giữa lúc",
+   "ex": "Sales held up amid a tough market.",
+   "exVi": "Doanh số trụ vững giữa một thị trường khó.",
+   "col": [
+    "amid",
+    "amid concerns"
+   ]
+  },
+  {
+   "id": "cj064",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "amongst",
+   "ipa": "/əˈmʌŋst/",
+   "pos": "prep",
+   "vi": "trong số",
+   "ex": "The plan was popular amongst the staff.",
+   "exVi": "Kế hoạch được ưa chuộng trong số nhân viên.",
+   "col": [
+    "amongst",
+    "amongst others"
+   ]
+  },
+  {
+   "id": "cj065",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "versus",
+   "ipa": "/ˈvɜːsəs/",
+   "pos": "prep",
+   "vi": "so với",
+   "ex": "The report weighed cost versus speed.",
+   "exVi": "Báo cáo cân nhắc chi phí so với tốc độ.",
+   "col": [
+    "versus",
+    "cost versus benefit"
+   ]
+  },
+  {
+   "id": "cj066",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "per",
+   "ipa": "/pɜː/",
+   "pos": "prep",
+   "vi": "theo, mỗi",
+   "ex": "The fee is set per unit sold.",
+   "exVi": "Phí được đặt theo mỗi đơn vị bán.",
+   "col": [
+    "per",
+    "per person"
+   ]
+  },
+  {
+   "id": "cj067",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "via",
+   "ipa": "/ˈvaɪə/",
+   "pos": "prep",
+   "vi": "thông qua",
+   "ex": "The order was placed via the website.",
+   "exVi": "Đơn hàng được đặt thông qua trang web.",
+   "col": [
+    "via",
+    "via email"
+   ]
+  },
+  {
+   "id": "cj068",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "alongside",
+   "ipa": "/əˌlɒŋˈsaɪd/",
+   "pos": "prep",
+   "vi": "bên cạnh",
+   "ex": "The new tool runs alongside the old one.",
+   "exVi": "Công cụ mới chạy bên cạnh công cụ cũ.",
+   "col": [
+    "alongside",
+    "work alongside"
+   ]
+  },
+  {
+   "id": "cj069",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "whereby",
+   "ipa": "/weəˈbaɪ/",
+   "pos": "adv",
+   "vi": "theo đó",
+   "ex": "A system whereby staff earn points was set up.",
+   "exVi": "Một hệ thống theo đó nhân viên kiếm điểm được lập.",
+   "col": [
+    "whereby",
+    "a method whereby"
+   ]
+  },
+  {
+   "id": "cj070",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "wherein",
+   "ipa": "/weərˈɪn/",
+   "pos": "adv",
+   "vi": "trong đó",
+   "ex": "The report, wherein the data appears, is public.",
+   "exVi": "Báo cáo, trong đó dữ liệu xuất hiện, là công khai.",
+   "col": [
+    "wherein",
+    "the case wherein"
+   ]
+  },
+  {
+   "id": "cj071",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "insofar as",
+   "ipa": "/ˌɪnsəʊˈfɑːr æz/",
+   "pos": "conj",
+   "vi": "trong chừng mực",
+   "ex": "The rule holds insofar as it is fair.",
+   "exVi": "Quy tắc đúng trong chừng mực nó công bằng.",
+   "col": [
+    "insofar as",
+    "insofar as possible"
+   ]
+  },
+  {
+   "id": "cj072",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "provided that",
+   "ipa": "/prəˈvaɪdɪd ðæt/",
+   "pos": "conj",
+   "vi": "với điều kiện là",
+   "ex": "The deal stands provided that both sign.",
+   "exVi": "Thoả thuận có hiệu lực với điều kiện là cả hai ký.",
+   "col": [
+    "provided that",
+    "provided that agreed"
+   ]
+  },
+  {
+   "id": "cj073",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "whichever",
+   "ipa": "/wɪtʃˈevə/",
+   "pos": "pron",
+   "vi": "bất cứ cái nào",
+   "ex": "Choose whichever plan suits you.",
+   "exVi": "Chọn bất cứ kế hoạch nào hợp với bạn.",
+   "col": [
+    "whichever",
+    "whichever comes first"
+   ]
+  },
+  {
+   "id": "cj074",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "whenever",
+   "ipa": "/wenˈevə/",
+   "pos": "conj",
+   "vi": "bất cứ khi nào",
+   "ex": "Call the desk whenever you need help.",
+   "exVi": "Gọi quầy bất cứ khi nào bạn cần trợ giúp.",
+   "col": [
+    "whenever",
+    "whenever possible"
+   ]
+  },
+  {
+   "id": "cj075",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "wherever",
+   "ipa": "/weərˈevə/",
+   "pos": "conj",
+   "vi": "bất cứ đâu",
+   "ex": "The app works wherever there is signal.",
+   "exVi": "Ứng dụng hoạt động ở bất cứ đâu có sóng.",
+   "col": [
+    "wherever",
+    "wherever possible"
+   ]
+  },
+  {
+   "id": "cj076",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "albeit",
+   "ipa": "/ɔːlˈbiːɪt/",
+   "pos": "conj",
+   "vi": "dẫu rằng",
+   "ex": "The plan worked, albeit slowly.",
+   "exVi": "Kế hoạch có hiệu quả, dẫu rằng chậm.",
+   "col": [
+    "albeit",
+    "albeit briefly"
+   ]
+  },
+  {
+   "id": "cj077",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "whilst",
+   "ipa": "/waɪlst/",
+   "pos": "conj",
+   "vi": "trong khi",
+   "ex": "Whilst costs rose, quality held up.",
+   "exVi": "Trong khi chi phí tăng, chất lượng trụ vững.",
+   "col": [
+    "whilst",
+    "whilst others"
+   ]
+  },
+  {
+   "id": "cj078",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "henceforth",
+   "ipa": "/ˌhensˈfɔːθ/",
+   "pos": "adv",
+   "vi": "từ nay trở đi",
+   "ex": "Henceforth, all forms go online.",
+   "exVi": "Từ nay trở đi, mọi biểu mẫu đều trực tuyến.",
+   "col": [
+    "henceforth",
+    "henceforth the rule"
+   ]
+  },
+  {
+   "id": "cj079",
+   "topic": "Giới từ, liên từ & từ nối",
+   "w": "notwithstanding this",
+   "ipa": "/ˌnɒtwɪθˈstændɪŋ ðɪs/",
+   "pos": "adv",
+   "vi": "dù vậy đi nữa",
+   "ex": "The cost was high; notwithstanding this, they proceeded.",
+   "exVi": "Chi phí cao; dù vậy đi nữa, họ vẫn tiến hành.",
+   "col": [
+    "notwithstanding this",
+    "notwithstanding this fact"
+   ]
+  }
+ ]
+}

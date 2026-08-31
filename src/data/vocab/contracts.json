@@ -1,0 +1,1535 @@
+{
+ "topic": "Hợp đồng & đàm phán",
+ "words": [
+  {
+   "id": "v31",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "clause",
+   "ipa": "/klɔːz/",
+   "pos": "n",
+   "vi": "điều khoản (trong hợp đồng)",
+   "ex": "The confidentiality clause applies to all subcontractors.",
+   "exVi": "Điều khoản bảo mật áp dụng cho mọi nhà thầu phụ.",
+   "col": [
+    "a contract clause",
+    "under this clause",
+    "a penalty clause"
+   ]
+  },
+  {
+   "id": "v32",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "terminate",
+   "ipa": "/ˈtɜːmɪneɪt/",
+   "pos": "v",
+   "vi": "chấm dứt (hợp đồng)",
+   "ex": "Either party may terminate the agreement with 30 days' notice.",
+   "exVi": "Mỗi bên đều có thể chấm dứt thỏa thuận với thông báo trước 30 ngày.",
+   "col": [
+    "terminate a contract",
+    "be terminated early"
+   ]
+  },
+  {
+   "id": "v33",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "comply",
+   "ipa": "/kəmˈplaɪ/",
+   "pos": "v",
+   "vi": "tuân thủ (với quy định)",
+   "ex": "All vendors must comply with our safety standards.",
+   "exVi": "Mọi nhà cung cấp phải tuân thủ tiêu chuẩn an toàn của chúng tôi.",
+   "col": [
+    "comply with regulations",
+    "fail to comply"
+   ]
+  },
+  {
+   "id": "v34",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "renewal",
+   "ipa": "/rɪˈnjuːəl/",
+   "pos": "n",
+   "vi": "sự gia hạn",
+   "ex": "Your membership renewal is due on 30 September.",
+   "exVi": "Việc gia hạn thành viên của bạn đến hạn vào ngày 30 tháng Chín.",
+   "col": [
+    "automatic renewal",
+    "a renewal notice",
+    "up for renewal"
+   ]
+  },
+  {
+   "id": "v35",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "liability",
+   "ipa": "/ˌlaɪəˈbɪləti/",
+   "pos": "n",
+   "vi": "trách nhiệm pháp lý",
+   "ex": "The clause limits the supplier's liability for late delivery.",
+   "exVi": "Điều khoản này giới hạn trách nhiệm của nhà cung cấp khi giao hàng trễ.",
+   "col": [
+    "limit liability",
+    "liability insurance",
+    "accept liability"
+   ]
+  },
+  {
+   "id": "ct006",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "contract",
+   "ipa": "/ˈkɒntrækt/",
+   "pos": "n",
+   "vi": "hợp đồng",
+   "ex": "Both parties signed the contract on Monday morning.",
+   "exVi": "Hai bên đã ký hợp đồng vào sáng thứ Hai.",
+   "col": [
+    "sign a contract",
+    "a binding contract",
+    "under contract"
+   ]
+  },
+  {
+   "id": "ct007",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "agreement",
+   "ipa": "/əˈɡriːmənt/",
+   "pos": "n",
+   "vi": "thoả thuận",
+   "ex": "The agreement covers deliveries for the next two years.",
+   "exVi": "Thoả thuận này bao gồm việc giao hàng trong hai năm tới.",
+   "col": [
+    "reach an agreement",
+    "a written agreement"
+   ]
+  },
+  {
+   "id": "ct008",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "term",
+   "ipa": "/tɜːm/",
+   "pos": "n",
+   "vi": "điều khoản, kỳ hạn",
+   "ex": "The payment terms are set out in section four.",
+   "exVi": "Các điều khoản thanh toán được nêu trong mục bốn.",
+   "col": [
+    "contract terms",
+    "favourable terms"
+   ]
+  },
+  {
+   "id": "ct009",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "provision",
+   "ipa": "/prəˈvɪʒn/",
+   "pos": "n",
+   "vi": "điều khoản quy định",
+   "ex": "A special provision covers early cancellation.",
+   "exVi": "Một điều khoản riêng quy định về việc huỷ sớm.",
+   "col": [
+    "a key provision",
+    "make provision for"
+   ]
+  },
+  {
+   "id": "ct010",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "condition",
+   "ipa": "/kənˈdɪʃn/",
+   "pos": "n",
+   "vi": "điều kiện",
+   "ex": "Delivery is subject to the conditions listed below.",
+   "exVi": "Việc giao hàng tuỳ thuộc các điều kiện liệt kê dưới đây.",
+   "col": [
+    "terms and conditions",
+    "a strict condition"
+   ]
+  },
+  {
+   "id": "ct011",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "party",
+   "ipa": "/ˈpɑːti/",
+   "pos": "n",
+   "vi": "bên tham gia",
+   "ex": "Either party may end the agreement with notice.",
+   "exVi": "Mỗi bên đều có thể chấm dứt thoả thuận khi báo trước.",
+   "col": [
+    "the other party",
+    "a third party"
+   ]
+  },
+  {
+   "id": "ct012",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "signatory",
+   "ipa": "/ˈsɪɡnətri/",
+   "pos": "n",
+   "vi": "bên ký kết",
+   "ex": "All signatories receive a copy of the final document.",
+   "exVi": "Mọi bên ký kết đều nhận một bản tài liệu cuối.",
+   "col": [
+    "an original signatory",
+    "a signatory to"
+   ]
+  },
+  {
+   "id": "ct013",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "draft",
+   "ipa": "/drɑːft/",
+   "pos": "n, v",
+   "vi": "bản thảo; soạn thảo",
+   "ex": "Please review the draft before we send it to legal.",
+   "exVi": "Vui lòng xem bản thảo trước khi gửi cho bộ phận pháp lý.",
+   "col": [
+    "a first draft",
+    "draft a contract"
+   ]
+  },
+  {
+   "id": "ct014",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "amend",
+   "ipa": "/əˈmend/",
+   "pos": "v",
+   "vi": "sửa đổi",
+   "ex": "The clause was amended to include overseas branches.",
+   "exVi": "Điều khoản được sửa đổi để bao gồm cả chi nhánh nước ngoài.",
+   "col": [
+    "amend a contract",
+    "amend the terms"
+   ]
+  },
+  {
+   "id": "ct015",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "amendment",
+   "ipa": "/əˈmendmənt/",
+   "pos": "n",
+   "vi": "bản sửa đổi",
+   "ex": "A minor amendment was added after the review.",
+   "exVi": "Một bản sửa đổi nhỏ được thêm sau khi rà soát.",
+   "col": [
+    "propose an amendment",
+    "a recent amendment"
+   ]
+  },
+  {
+   "id": "ct016",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "revise",
+   "ipa": "/rɪˈvaɪz/",
+   "pos": "v",
+   "vi": "chỉnh sửa lại",
+   "ex": "We revised the delivery schedule at the client's request.",
+   "exVi": "Chúng tôi chỉnh sửa lịch giao hàng theo yêu cầu khách.",
+   "col": [
+    "revise a document",
+    "a revised version"
+   ]
+  },
+  {
+   "id": "ct017",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "appendix",
+   "ipa": "/əˈpendɪks/",
+   "pos": "n",
+   "vi": "phụ lục",
+   "ex": "Full specifications appear in the appendix.",
+   "exVi": "Thông số đầy đủ nằm ở phần phụ lục.",
+   "col": [
+    "see the appendix",
+    "attached as an appendix"
+   ]
+  },
+  {
+   "id": "ct018",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "addendum",
+   "ipa": "/əˈdendəm/",
+   "pos": "n",
+   "vi": "phần bổ sung",
+   "ex": "An addendum lists the additional service fees.",
+   "exVi": "Một phần bổ sung liệt kê các phí dịch vụ thêm.",
+   "col": [
+    "add an addendum",
+    "a signed addendum"
+   ]
+  },
+  {
+   "id": "ct019",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "obligation",
+   "ipa": "/ˌɒblɪˈɡeɪʃn/",
+   "pos": "n",
+   "vi": "nghĩa vụ",
+   "ex": "The supplier failed to meet its obligations under the deal.",
+   "exVi": "Nhà cung cấp không thực hiện nghĩa vụ theo thoả thuận.",
+   "col": [
+    "a legal obligation",
+    "meet an obligation"
+   ]
+  },
+  {
+   "id": "ct020",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "indemnity",
+   "ipa": "/ɪnˈdemnəti/",
+   "pos": "n",
+   "vi": "khoản bồi thường bảo đảm",
+   "ex": "The contract includes an indemnity against faulty parts.",
+   "exVi": "Hợp đồng có khoản bồi thường bảo đảm với linh kiện lỗi.",
+   "col": [
+    "an indemnity clause",
+    "provide indemnity"
+   ]
+  },
+  {
+   "id": "ct021",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "warranty",
+   "ipa": "/ˈwɒrənti/",
+   "pos": "n",
+   "vi": "bảo hành",
+   "ex": "The equipment carries a two-year warranty.",
+   "exVi": "Thiết bị có bảo hành hai năm.",
+   "col": [
+    "a limited warranty",
+    "under warranty"
+   ]
+  },
+  {
+   "id": "ct022",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "guarantee",
+   "ipa": "/ˌɡærənˈtiː/",
+   "pos": "n, v",
+   "vi": "sự bảo đảm; bảo đảm",
+   "ex": "We guarantee delivery within five working days.",
+   "exVi": "Chúng tôi bảo đảm giao hàng trong năm ngày làm việc.",
+   "col": [
+    "a money-back guarantee",
+    "guarantee a result"
+   ]
+  },
+  {
+   "id": "ct023",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "breach",
+   "ipa": "/briːtʃ/",
+   "pos": "n, v",
+   "vi": "sự vi phạm; vi phạm",
+   "ex": "Late payment is considered a breach of contract.",
+   "exVi": "Chậm thanh toán bị coi là vi phạm hợp đồng.",
+   "col": [
+    "a breach of contract",
+    "breach an agreement"
+   ]
+  },
+  {
+   "id": "ct024",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "compliance",
+   "ipa": "/kəmˈplaɪəns/",
+   "pos": "n",
+   "vi": "sự tuân thủ",
+   "ex": "Compliance with the code is checked every quarter.",
+   "exVi": "Việc tuân thủ quy tắc được kiểm tra mỗi quý.",
+   "col": [
+    "in compliance with",
+    "ensure compliance"
+   ]
+  },
+  {
+   "id": "ct025",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "enforce",
+   "ipa": "/ɪnˈfɔːs/",
+   "pos": "v",
+   "vi": "thi hành, cưỡng chế",
+   "ex": "The penalty clause is difficult to enforce abroad.",
+   "exVi": "Điều khoản phạt khó cưỡng chế ở nước ngoài.",
+   "col": [
+    "enforce a rule",
+    "strictly enforce"
+   ]
+  },
+  {
+   "id": "ct026",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "valid",
+   "ipa": "/ˈvælɪd/",
+   "pos": "adj",
+   "vi": "có hiệu lực",
+   "ex": "The offer is valid until the end of the month.",
+   "exVi": "Đề nghị có hiệu lực đến cuối tháng.",
+   "col": [
+    "remain valid",
+    "a valid contract"
+   ]
+  },
+  {
+   "id": "ct027",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "binding",
+   "ipa": "/ˈbaɪndɪŋ/",
+   "pos": "adj",
+   "vi": "có tính ràng buộc",
+   "ex": "The signed document is legally binding on both sides.",
+   "exVi": "Văn bản đã ký có tính ràng buộc pháp lý với cả hai bên.",
+   "col": [
+    "legally binding",
+    "a binding agreement"
+   ]
+  },
+  {
+   "id": "ct028",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "void",
+   "ipa": "/vɔɪd/",
+   "pos": "adj",
+   "vi": "vô hiệu",
+   "ex": "Any unsigned amendment is considered void.",
+   "exVi": "Mọi bản sửa đổi chưa ký được coi là vô hiệu.",
+   "col": [
+    "null and void",
+    "render void"
+   ]
+  },
+  {
+   "id": "ct029",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "termination",
+   "ipa": "/ˌtɜːmɪˈneɪʃn/",
+   "pos": "n",
+   "vi": "việc chấm dứt",
+   "ex": "Termination fees apply if you cancel before the term ends.",
+   "exVi": "Phí chấm dứt được áp nếu bạn huỷ trước khi hết kỳ hạn.",
+   "col": [
+    "early termination",
+    "a termination clause"
+   ]
+  },
+  {
+   "id": "ct030",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "expire",
+   "ipa": "/ɪkˈspaɪə/",
+   "pos": "v",
+   "vi": "hết hạn",
+   "ex": "The current lease expires on 31 December.",
+   "exVi": "Hợp đồng thuê hiện tại hết hạn vào ngày 31 tháng Mười hai.",
+   "col": [
+    "expire soon",
+    "an expiry date"
+   ]
+  },
+  {
+   "id": "ct031",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "renew",
+   "ipa": "/rɪˈnjuː/",
+   "pos": "v",
+   "vi": "gia hạn",
+   "ex": "We renewed the maintenance contract for another year.",
+   "exVi": "Chúng tôi gia hạn hợp đồng bảo trì thêm một năm.",
+   "col": [
+    "renew a contract",
+    "automatically renew"
+   ]
+  },
+  {
+   "id": "ct032",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "extension",
+   "ipa": "/ɪkˈstenʃn/",
+   "pos": "n",
+   "vi": "sự gia hạn thời gian",
+   "ex": "The supplier requested a two-week extension.",
+   "exVi": "Nhà cung cấp xin gia hạn thêm hai tuần.",
+   "col": [
+    "grant an extension",
+    "a deadline extension"
+   ]
+  },
+  {
+   "id": "ct033",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "negotiate",
+   "ipa": "/nɪˈɡəʊʃieɪt/",
+   "pos": "v",
+   "vi": "đàm phán",
+   "ex": "Both sides negotiated the terms for nearly six hours.",
+   "exVi": "Hai bên đàm phán các điều khoản gần sáu tiếng.",
+   "col": [
+    "negotiate a deal",
+    "negotiate with"
+   ]
+  },
+  {
+   "id": "ct034",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "negotiation",
+   "ipa": "/nɪˌɡəʊʃiˈeɪʃn/",
+   "pos": "n",
+   "vi": "cuộc đàm phán",
+   "ex": "Negotiations broke down over the delivery schedule.",
+   "exVi": "Đàm phán đổ vỡ vì lịch giao hàng.",
+   "col": [
+    "enter negotiations",
+    "during negotiations"
+   ]
+  },
+  {
+   "id": "ct035",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "proposal",
+   "ipa": "/prəˈpəʊzl/",
+   "pos": "n",
+   "vi": "đề xuất",
+   "ex": "The board rejected the proposal after a short discussion.",
+   "exVi": "Hội đồng bác đề xuất sau một cuộc bàn ngắn.",
+   "col": [
+    "submit a proposal",
+    "a formal proposal"
+   ]
+  },
+  {
+   "id": "ct036",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "counteroffer",
+   "ipa": "/ˈkaʊntərˌɒfə/",
+   "pos": "n",
+   "vi": "đề nghị đối ứng",
+   "ex": "They responded to our bid with a lower counteroffer.",
+   "exVi": "Họ đáp lại giá của chúng tôi bằng một đề nghị đối ứng thấp hơn.",
+   "col": [
+    "make a counteroffer",
+    "reject a counteroffer"
+   ]
+  },
+  {
+   "id": "ct037",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "concession",
+   "ipa": "/kənˈseʃn/",
+   "pos": "n",
+   "vi": "sự nhượng bộ",
+   "ex": "Each side made one concession to close the deal.",
+   "exVi": "Mỗi bên nhượng bộ một điểm để chốt thoả thuận.",
+   "col": [
+    "make a concession",
+    "a minor concession"
+   ]
+  },
+  {
+   "id": "ct038",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "compromise",
+   "ipa": "/ˈkɒmprəmaɪz/",
+   "pos": "n, v",
+   "vi": "sự thoả hiệp; thoả hiệp",
+   "ex": "After hours of talks they reached a compromise.",
+   "exVi": "Sau nhiều giờ thương lượng họ đạt được thoả hiệp.",
+   "col": [
+    "reach a compromise",
+    "a fair compromise"
+   ]
+  },
+  {
+   "id": "ct039",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "stipulate",
+   "ipa": "/ˈstɪpjuleɪt/",
+   "pos": "v",
+   "vi": "quy định rõ",
+   "ex": "The contract stipulates payment within thirty days.",
+   "exVi": "Hợp đồng quy định rõ phải thanh toán trong ba mươi ngày.",
+   "col": [
+    "stipulate a condition",
+    "as stipulated"
+   ]
+  },
+  {
+   "id": "ct040",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "specify",
+   "ipa": "/ˈspesɪfaɪ/",
+   "pos": "v",
+   "vi": "nêu cụ thể",
+   "ex": "The order form should specify the exact quantity.",
+   "exVi": "Phiếu đặt hàng cần nêu cụ thể số lượng chính xác.",
+   "col": [
+    "specify a date",
+    "clearly specify"
+   ]
+  },
+  {
+   "id": "ct041",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "deadlock",
+   "ipa": "/ˈdedlɒk/",
+   "pos": "n",
+   "vi": "bế tắc",
+   "ex": "Talks reached a deadlock over the warranty period.",
+   "exVi": "Đàm phán rơi vào bế tắc về thời hạn bảo hành.",
+   "col": [
+    "break a deadlock",
+    "reach a deadlock"
+   ]
+  },
+  {
+   "id": "ct042",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "finalize",
+   "ipa": "/ˈfaɪnəlaɪz/",
+   "pos": "v",
+   "vi": "hoàn tất",
+   "ex": "We hope to finalize the deal by Friday.",
+   "exVi": "Chúng tôi hy vọng hoàn tất thoả thuận trước thứ Sáu.",
+   "col": [
+    "finalize the terms",
+    "finalize an agreement"
+   ]
+  },
+  {
+   "id": "ct043",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "mutual",
+   "ipa": "/ˈmjuːtʃuəl/",
+   "pos": "adj",
+   "vi": "đôi bên, chung",
+   "ex": "The change was made by mutual consent.",
+   "exVi": "Việc thay đổi được thực hiện với sự đồng thuận của đôi bên.",
+   "col": [
+    "mutual consent",
+    "of mutual benefit"
+   ]
+  },
+  {
+   "id": "ct044",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "consent",
+   "ipa": "/kənˈsent/",
+   "pos": "n, v",
+   "vi": "sự đồng ý",
+   "ex": "Written consent is required before any change.",
+   "exVi": "Cần có sự đồng ý bằng văn bản trước mọi thay đổi.",
+   "col": [
+    "written consent",
+    "give consent"
+   ]
+  },
+  {
+   "id": "ct045",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "counterpart",
+   "ipa": "/ˈkaʊntəpɑːt/",
+   "pos": "n",
+   "vi": "người đồng cấp phía bên kia",
+   "ex": "Our director met her counterpart from the supplier.",
+   "exVi": "Giám đốc của chúng tôi gặp người đồng cấp bên nhà cung cấp.",
+   "col": [
+    "a foreign counterpart",
+    "meet one's counterpart"
+   ]
+  },
+  {
+   "id": "ct046",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "arbitration",
+   "ipa": "/ˌɑːbɪˈtreɪʃn/",
+   "pos": "n",
+   "vi": "trọng tài phân xử",
+   "ex": "Disputes are settled through arbitration, not the courts.",
+   "exVi": "Tranh chấp được giải quyết qua trọng tài, không qua toà.",
+   "col": [
+    "binding arbitration",
+    "go to arbitration"
+   ]
+  },
+  {
+   "id": "ct047",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "dispute",
+   "ipa": "/dɪˈspjuːt/",
+   "pos": "n, v",
+   "vi": "tranh chấp",
+   "ex": "The dispute over fees was resolved within a week.",
+   "exVi": "Tranh chấp về phí được giải quyết trong một tuần.",
+   "col": [
+    "settle a dispute",
+    "a contract dispute"
+   ]
+  },
+  {
+   "id": "ct048",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "settle",
+   "ipa": "/ˈsetl/",
+   "pos": "v",
+   "vi": "giải quyết, dàn xếp",
+   "ex": "The two firms settled the matter out of court.",
+   "exVi": "Hai công ty dàn xếp vụ việc ngoài toà.",
+   "col": [
+    "settle a dispute",
+    "settle a claim"
+   ]
+  },
+  {
+   "id": "ct049",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "draft agreement",
+   "ipa": "/drɑːft əˈɡriːmənt/",
+   "pos": "n",
+   "vi": "dự thảo thoả thuận",
+   "ex": "The draft agreement is open for comments until Friday.",
+   "exVi": "Dự thảo thoả thuận nhận góp ý đến hết thứ Sáu.",
+   "col": [
+    "circulate a draft agreement",
+    "approve a draft agreement"
+   ]
+  },
+  {
+   "id": "ct050",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "counterparty",
+   "ipa": "/ˈkaʊntəˌpɑːti/",
+   "pos": "n",
+   "vi": "đối tác trong hợp đồng",
+   "ex": "Each counterparty bears its own legal costs.",
+   "exVi": "Mỗi đối tác chịu chi phí pháp lý của riêng mình.",
+   "col": [
+    "the counterparty's obligations",
+    "a reliable counterparty"
+   ]
+  },
+  {
+   "id": "ct051",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "tender",
+   "ipa": "/ˈtendə/",
+   "pos": "n",
+   "vi": "hồ sơ dự thầu",
+   "ex": "Three firms submitted a tender for the road project.",
+   "exVi": "Ba công ty nộp hồ sơ dự thầu cho dự án đường.",
+   "col": [
+    "submit a tender",
+    "invite tenders"
+   ]
+  },
+  {
+   "id": "ct052",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "bid",
+   "ipa": "/bɪd/",
+   "pos": "n, v",
+   "vi": "giá thầu; bỏ thầu",
+   "ex": "Our bid was the lowest of the four received.",
+   "exVi": "Giá thầu của chúng tôi thấp nhất trong bốn hồ sơ nhận được.",
+   "col": [
+    "place a bid",
+    "a winning bid"
+   ]
+  },
+  {
+   "id": "ct053",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "quotation",
+   "ipa": "/kwəʊˈteɪʃn/",
+   "pos": "n",
+   "vi": "báo giá",
+   "ex": "Please send a quotation for two hundred units.",
+   "exVi": "Vui lòng gửi báo giá cho hai trăm sản phẩm.",
+   "col": [
+    "request a quotation",
+    "a written quotation"
+   ]
+  },
+  {
+   "id": "ct054",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "quote",
+   "ipa": "/kwəʊt/",
+   "pos": "n, v",
+   "vi": "báo giá",
+   "ex": "The supplier quoted us a price of eight dollars each.",
+   "exVi": "Nhà cung cấp báo giá tám đô mỗi cái.",
+   "col": [
+    "get a quote",
+    "quote a price"
+   ]
+  },
+  {
+   "id": "ct055",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "estimate",
+   "ipa": "/ˈestɪmət/",
+   "pos": "n",
+   "vi": "dự toán",
+   "ex": "The builder gave a rough estimate for the repairs.",
+   "exVi": "Nhà thầu đưa dự toán sơ bộ cho việc sửa chữa.",
+   "col": [
+    "a rough estimate",
+    "a written estimate"
+   ]
+  },
+  {
+   "id": "ct056",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "proposal deadline",
+   "ipa": "/prəˈpəʊzl ˈdedlaɪn/",
+   "pos": "n",
+   "vi": "hạn nộp đề xuất",
+   "ex": "The proposal deadline was extended to Friday.",
+   "exVi": "Hạn nộp đề xuất được gia hạn tới thứ Sáu.",
+   "col": [
+    "meet the proposal deadline",
+    "a firm proposal deadline"
+   ]
+  },
+  {
+   "id": "ct057",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "vendor",
+   "ipa": "/ˈvendə/",
+   "pos": "n",
+   "vi": "nhà cung cấp",
+   "ex": "We approved three new vendors for office supplies.",
+   "exVi": "Chúng tôi phê duyệt ba nhà cung cấp mới cho vật tư văn phòng.",
+   "col": [
+    "an approved vendor",
+    "a preferred vendor"
+   ]
+  },
+  {
+   "id": "ct058",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "supplier",
+   "ipa": "/səˈplaɪə/",
+   "pos": "n",
+   "vi": "nhà cung cấp",
+   "ex": "The supplier agreed to shorten the lead time.",
+   "exVi": "Nhà cung cấp đồng ý rút ngắn thời gian giao.",
+   "col": [
+    "a reliable supplier",
+    "change suppliers"
+   ]
+  },
+  {
+   "id": "ct059",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "subcontractor",
+   "ipa": "/ˌsʌbkənˈtræktə/",
+   "pos": "n",
+   "vi": "nhà thầu phụ",
+   "ex": "The subcontractor handles all electrical work.",
+   "exVi": "Nhà thầu phụ phụ trách toàn bộ phần điện.",
+   "col": [
+    "hire a subcontractor",
+    "an approved subcontractor"
+   ]
+  },
+  {
+   "id": "ct060",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "procurement",
+   "ipa": "/prəˈkjʊəmənt/",
+   "pos": "n",
+   "vi": "việc mua sắm",
+   "ex": "The procurement team compares prices from five vendors.",
+   "exVi": "Bộ phận mua sắm so giá từ năm nhà cung cấp.",
+   "col": [
+    "the procurement process",
+    "a procurement officer"
+   ]
+  },
+  {
+   "id": "ct061",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "purchase order",
+   "ipa": "/ˈpɜːtʃəs ˈɔːdə/",
+   "pos": "n",
+   "vi": "đơn đặt hàng",
+   "ex": "No goods are shipped without a purchase order.",
+   "exVi": "Không hàng nào được gửi nếu thiếu đơn đặt hàng.",
+   "col": [
+    "issue a purchase order",
+    "a purchase order number"
+   ]
+  },
+  {
+   "id": "ct062",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "invoice",
+   "ipa": "/ˈɪnvɔɪs/",
+   "pos": "n, v",
+   "vi": "hoá đơn",
+   "ex": "The invoice must be settled within thirty days.",
+   "exVi": "Hoá đơn phải được thanh toán trong ba mươi ngày.",
+   "col": [
+    "issue an invoice",
+    "an outstanding invoice"
+   ]
+  },
+  {
+   "id": "ct063",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "payment",
+   "ipa": "/ˈpeɪmənt/",
+   "pos": "n",
+   "vi": "khoản thanh toán",
+   "ex": "Payment is due on receipt of the goods.",
+   "exVi": "Thanh toán đến hạn khi nhận được hàng.",
+   "col": [
+    "a late payment",
+    "payment in full"
+   ]
+  },
+  {
+   "id": "ct064",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "installment",
+   "ipa": "/ɪnˈstɔːlmənt/",
+   "pos": "n",
+   "vi": "đợt trả góp",
+   "ex": "The fee may be paid in three monthly installments.",
+   "exVi": "Phí có thể trả góp trong ba đợt hằng tháng.",
+   "col": [
+    "pay in installments",
+    "a monthly installment"
+   ]
+  },
+  {
+   "id": "ct065",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "deposit",
+   "ipa": "/dɪˈpɒzɪt/",
+   "pos": "n",
+   "vi": "tiền đặt cọc",
+   "ex": "A ten percent deposit secures the booking.",
+   "exVi": "Đặt cọc mười phần trăm để giữ chỗ.",
+   "col": [
+    "pay a deposit",
+    "a refundable deposit"
+   ]
+  },
+  {
+   "id": "ct066",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "refund",
+   "ipa": "/ˈriːfʌnd/",
+   "pos": "n, v",
+   "vi": "hoàn tiền",
+   "ex": "Customers receive a full refund if the event is cancelled.",
+   "exVi": "Khách được hoàn tiền đầy đủ nếu sự kiện bị huỷ.",
+   "col": [
+    "a full refund",
+    "request a refund"
+   ]
+  },
+  {
+   "id": "ct067",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "penalty",
+   "ipa": "/ˈpenəlti/",
+   "pos": "n",
+   "vi": "khoản phạt",
+   "ex": "A penalty applies for cancellations after the deadline.",
+   "exVi": "Có khoản phạt cho việc huỷ sau hạn chót.",
+   "col": [
+    "a penalty fee",
+    "impose a penalty"
+   ]
+  },
+  {
+   "id": "ct068",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "waive",
+   "ipa": "/weɪv/",
+   "pos": "v",
+   "vi": "miễn, bỏ",
+   "ex": "The supplier agreed to waive the delivery charge.",
+   "exVi": "Nhà cung cấp đồng ý miễn phí giao hàng.",
+   "col": [
+    "waive a fee",
+    "waive a requirement"
+   ]
+  },
+  {
+   "id": "ct069",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "enclose",
+   "ipa": "/ɪnˈkləʊz/",
+   "pos": "v",
+   "vi": "đính kèm",
+   "ex": "We enclose a copy of the signed contract.",
+   "exVi": "Chúng tôi đính kèm một bản sao hợp đồng đã ký.",
+   "col": [
+    "please find enclosed",
+    "enclose a document"
+   ]
+  },
+  {
+   "id": "ct070",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "attachment",
+   "ipa": "/əˈtætʃmənt/",
+   "pos": "n",
+   "vi": "tệp đính kèm",
+   "ex": "The full terms are in the attachment.",
+   "exVi": "Toàn bộ điều khoản nằm trong tệp đính kèm.",
+   "col": [
+    "see the attachment",
+    "open an attachment"
+   ]
+  },
+  {
+   "id": "ct071",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "confidential",
+   "ipa": "/ˌkɒnfɪˈdenʃl/",
+   "pos": "adj",
+   "vi": "bảo mật",
+   "ex": "All pricing information is strictly confidential.",
+   "exVi": "Mọi thông tin về giá đều được bảo mật nghiêm ngặt.",
+   "col": [
+    "strictly confidential",
+    "confidential information"
+   ]
+  },
+  {
+   "id": "ct072",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "disclose",
+   "ipa": "/dɪsˈkləʊz/",
+   "pos": "v",
+   "vi": "tiết lộ",
+   "ex": "Neither side may disclose the terms to third parties.",
+   "exVi": "Không bên nào được tiết lộ điều khoản cho bên thứ ba.",
+   "col": [
+    "disclose information",
+    "fail to disclose"
+   ]
+  },
+  {
+   "id": "ct073",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "disclosure",
+   "ipa": "/dɪsˈkləʊʒə/",
+   "pos": "n",
+   "vi": "việc tiết lộ",
+   "ex": "Full disclosure of costs is required before signing.",
+   "exVi": "Cần tiết lộ đầy đủ chi phí trước khi ký.",
+   "col": [
+    "full disclosure",
+    "a disclosure agreement"
+   ]
+  },
+  {
+   "id": "ct074",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "proprietary",
+   "ipa": "/prəˈpraɪətri/",
+   "pos": "adj",
+   "vi": "thuộc sở hữu độc quyền",
+   "ex": "The software uses a proprietary file format.",
+   "exVi": "Phần mềm dùng định dạng tệp độc quyền.",
+   "col": [
+    "proprietary technology",
+    "proprietary information"
+   ]
+  },
+  {
+   "id": "ct075",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "exclusive",
+   "ipa": "/ɪkˈskluːsɪv/",
+   "pos": "adj",
+   "vi": "độc quyền",
+   "ex": "They signed an exclusive distribution deal for the region.",
+   "exVi": "Họ ký thoả thuận phân phối độc quyền cho khu vực.",
+   "col": [
+    "exclusive rights",
+    "an exclusive contract"
+   ]
+  },
+  {
+   "id": "ct076",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "sole",
+   "ipa": "/səʊl/",
+   "pos": "adj",
+   "vi": "duy nhất",
+   "ex": "The firm is the sole supplier of the component.",
+   "exVi": "Công ty là nhà cung cấp duy nhất của linh kiện.",
+   "col": [
+    "the sole distributor",
+    "sole responsibility"
+   ]
+  },
+  {
+   "id": "ct077",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "authorize",
+   "ipa": "/ˈɔːθəraɪz/",
+   "pos": "v",
+   "vi": "uỷ quyền, cho phép",
+   "ex": "Only a director may authorize a discount above ten percent.",
+   "exVi": "Chỉ giám đốc mới được phép duyệt giảm giá trên mười phần trăm.",
+   "col": [
+    "authorize a payment",
+    "an authorized signatory"
+   ]
+  },
+  {
+   "id": "ct078",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "authorization",
+   "ipa": "/ˌɔːθəraɪˈzeɪʃn/",
+   "pos": "n",
+   "vi": "sự cho phép",
+   "ex": "Written authorization is needed before shipping.",
+   "exVi": "Cần có sự cho phép bằng văn bản trước khi gửi hàng.",
+   "col": [
+    "prior authorization",
+    "grant authorization"
+   ]
+  },
+  {
+   "id": "ct079",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "approval",
+   "ipa": "/əˈpruːvl/",
+   "pos": "n",
+   "vi": "sự phê duyệt",
+   "ex": "The budget requires board approval.",
+   "exVi": "Ngân sách cần được hội đồng phê duyệt.",
+   "col": [
+    "seek approval",
+    "final approval"
+   ]
+  },
+  {
+   "id": "ct080",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "ratify",
+   "ipa": "/ˈrætɪfaɪ/",
+   "pos": "v",
+   "vi": "phê chuẩn",
+   "ex": "The board must ratify the merger before it proceeds.",
+   "exVi": "Hội đồng phải phê chuẩn vụ sáp nhập trước khi tiến hành.",
+   "col": [
+    "ratify an agreement",
+    "formally ratify"
+   ]
+  },
+  {
+   "id": "ct081",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "execute",
+   "ipa": "/ˈeksɪkjuːt/",
+   "pos": "v",
+   "vi": "ký kết chính thức",
+   "ex": "The contract was executed by both directors.",
+   "exVi": "Hợp đồng được cả hai giám đốc ký kết chính thức.",
+   "col": [
+    "execute a contract",
+    "a duly executed deed"
+   ]
+  },
+  {
+   "id": "ct082",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "witness",
+   "ipa": "/ˈwɪtnəs/",
+   "pos": "n, v",
+   "vi": "người làm chứng",
+   "ex": "A witness signed beside each party's signature.",
+   "exVi": "Một người làm chứng ký cạnh chữ ký của mỗi bên.",
+   "col": [
+    "sign as a witness",
+    "in the presence of a witness"
+   ]
+  },
+  {
+   "id": "ct083",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "jurisdiction",
+   "ipa": "/ˌdʒʊərɪsˈdɪkʃn/",
+   "pos": "n",
+   "vi": "thẩm quyền xét xử",
+   "ex": "The contract falls under Singapore jurisdiction.",
+   "exVi": "Hợp đồng thuộc thẩm quyền xét xử của Singapore.",
+   "col": [
+    "legal jurisdiction",
+    "under the jurisdiction of"
+   ]
+  },
+  {
+   "id": "ct084",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "governing law",
+   "ipa": "/ˈɡʌvənɪŋ lɔː/",
+   "pos": "n",
+   "vi": "luật điều chỉnh",
+   "ex": "The governing law is that of the state of New York.",
+   "exVi": "Luật điều chỉnh là luật bang New York.",
+   "col": [
+    "the governing law clause",
+    "specify the governing law"
+   ]
+  },
+  {
+   "id": "ct085",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "counterclaim",
+   "ipa": "/ˈkaʊntəkleɪm/",
+   "pos": "n",
+   "vi": "yêu cầu phản tố",
+   "ex": "The supplier filed a counterclaim for unpaid fees.",
+   "exVi": "Nhà cung cấp nộp yêu cầu phản tố về phí chưa trả.",
+   "col": [
+    "file a counterclaim",
+    "a valid counterclaim"
+   ]
+  },
+  {
+   "id": "ct086",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "mediation",
+   "ipa": "/ˌmiːdiˈeɪʃn/",
+   "pos": "n",
+   "vi": "hoà giải",
+   "ex": "The parties chose mediation over a lengthy lawsuit.",
+   "exVi": "Các bên chọn hoà giải thay vì một vụ kiện kéo dài.",
+   "col": [
+    "enter mediation",
+    "through mediation"
+   ]
+  },
+  {
+   "id": "ct087",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "lawsuit",
+   "ipa": "/ˈlɔːsuːt/",
+   "pos": "n",
+   "vi": "vụ kiện",
+   "ex": "The unpaid invoice led to a lawsuit.",
+   "exVi": "Hoá đơn chưa trả dẫn tới một vụ kiện.",
+   "col": [
+    "file a lawsuit",
+    "settle a lawsuit"
+   ]
+  },
+  {
+   "id": "ct088",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "claimant",
+   "ipa": "/ˈkleɪmənt/",
+   "pos": "n",
+   "vi": "bên khiếu kiện",
+   "ex": "The claimant is seeking compensation for the delay.",
+   "exVi": "Bên khiếu kiện đòi bồi thường cho việc chậm trễ.",
+   "col": [
+    "the claimant's case",
+    "represent the claimant"
+   ]
+  },
+  {
+   "id": "ct089",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "undertake",
+   "ipa": "/ˌʌndəˈteɪk/",
+   "pos": "v",
+   "vi": "cam kết thực hiện",
+   "ex": "The contractor undertakes to finish by June.",
+   "exVi": "Nhà thầu cam kết hoàn thành trước tháng Sáu.",
+   "col": [
+    "undertake to do",
+    "undertake a project"
+   ]
+  },
+  {
+   "id": "ct090",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "fulfill",
+   "ipa": "/fʊlˈfɪl/",
+   "pos": "v",
+   "vi": "thực hiện, hoàn thành",
+   "ex": "The supplier fulfilled every term of the deal.",
+   "exVi": "Nhà cung cấp thực hiện đầy đủ mọi điều khoản.",
+   "col": [
+    "fulfill an obligation",
+    "fulfill a contract"
+   ]
+  },
+  {
+   "id": "ct091",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "default",
+   "ipa": "/dɪˈfɔːlt/",
+   "pos": "n, v",
+   "vi": "sự không thực hiện nghĩa vụ",
+   "ex": "Default on payment allows immediate cancellation.",
+   "exVi": "Việc không thanh toán cho phép huỷ ngay lập tức.",
+   "col": [
+    "default on a loan",
+    "in default"
+   ]
+  },
+  {
+   "id": "ct092",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "outstanding",
+   "ipa": "/aʊtˈstændɪŋ/",
+   "pos": "adj",
+   "vi": "còn tồn đọng, chưa trả",
+   "ex": "Two invoices remain outstanding from last quarter.",
+   "exVi": "Hai hoá đơn từ quý trước vẫn chưa được trả.",
+   "col": [
+    "an outstanding balance",
+    "an outstanding payment"
+   ]
+  },
+  {
+   "id": "ct093",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "pending",
+   "ipa": "/ˈpendɪŋ/",
+   "pos": "adj",
+   "vi": "đang chờ xử lý",
+   "ex": "The deal is pending final legal review.",
+   "exVi": "Thoả thuận đang chờ khâu rà soát pháp lý cuối.",
+   "col": [
+    "a pending decision",
+    "pending approval"
+   ]
+  },
+  {
+   "id": "ct094",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "provisional",
+   "ipa": "/prəˈvɪʒənl/",
+   "pos": "adj",
+   "vi": "tạm thời",
+   "ex": "A provisional agreement was reached at the meeting.",
+   "exVi": "Một thoả thuận tạm thời đã đạt được tại cuộc họp.",
+   "col": [
+    "a provisional agreement",
+    "on a provisional basis"
+   ]
+  },
+  {
+   "id": "ct095",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "irrevocable",
+   "ipa": "/ɪˈrevəkəbl/",
+   "pos": "adj",
+   "vi": "không thể huỷ ngang",
+   "ex": "The order becomes irrevocable once payment is made.",
+   "exVi": "Đơn hàng không thể huỷ ngang sau khi đã thanh toán.",
+   "col": [
+    "an irrevocable decision",
+    "irrevocable consent"
+   ]
+  },
+  {
+   "id": "ct096",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "supersede",
+   "ipa": "/ˌsuːpəˈsiːd/",
+   "pos": "v",
+   "vi": "thay thế, thế chỗ",
+   "ex": "This agreement supersedes all earlier versions.",
+   "exVi": "Thoả thuận này thay thế mọi phiên bản trước.",
+   "col": [
+    "supersede a rule",
+    "be superseded by"
+   ]
+  },
+  {
+   "id": "ct097",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "prevail",
+   "ipa": "/prɪˈveɪl/",
+   "pos": "v",
+   "vi": "có hiệu lực cao hơn",
+   "ex": "If clauses conflict, the English version prevails.",
+   "exVi": "Nếu các điều khoản mâu thuẫn, bản tiếng Anh có hiệu lực cao hơn.",
+   "col": [
+    "prevail over",
+    "the prevailing terms"
+   ]
+  },
+  {
+   "id": "ct098",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "notwithstanding",
+   "ipa": "/ˌnɒtwɪθˈstændɪŋ/",
+   "pos": "prep",
+   "vi": "bất kể",
+   "ex": "Notwithstanding the delay, the deadline stands.",
+   "exVi": "Bất kể sự chậm trễ, hạn chót vẫn giữ nguyên.",
+   "col": [
+    "notwithstanding the above",
+    "notwithstanding any provision"
+   ]
+  },
+  {
+   "id": "ct099",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "foreseeable",
+   "ipa": "/fɔːˈsiːəbl/",
+   "pos": "adj",
+   "vi": "có thể lường trước",
+   "ex": "The clause excludes all foreseeable delays.",
+   "exVi": "Điều khoản loại trừ mọi chậm trễ có thể lường trước.",
+   "col": [
+    "the foreseeable future",
+    "foreseeable circumstances"
+   ]
+  },
+  {
+   "id": "ct100",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "countersign",
+   "ipa": "/ˈkaʊntəsaɪn/",
+   "pos": "v",
+   "vi": "ký xác nhận thêm",
+   "ex": "The manager must countersign every large order.",
+   "exVi": "Quản lý phải ký xác nhận thêm cho mọi đơn hàng lớn.",
+   "col": [
+    "countersign a document",
+    "a countersigned form"
+   ]
+  },
+  {
+   "id": "ct101",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "initial",
+   "ipa": "/ɪˈnɪʃl/",
+   "pos": "v",
+   "vi": "ký tắt",
+   "ex": "Please initial each page of the agreement.",
+   "exVi": "Vui lòng ký tắt vào mỗi trang của thoả thuận.",
+   "col": [
+    "initial a page",
+    "initial the changes"
+   ]
+  },
+  {
+   "id": "ct102",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "retainer",
+   "ipa": "/rɪˈteɪnə/",
+   "pos": "n",
+   "vi": "phí giữ chỗ dịch vụ",
+   "ex": "The law firm charges a monthly retainer.",
+   "exVi": "Hãng luật thu một khoản phí giữ chỗ hằng tháng.",
+   "col": [
+    "pay a retainer",
+    "a retainer agreement"
+   ]
+  },
+  {
+   "id": "ct103",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "milestone",
+   "ipa": "/ˈmaɪlstəʊn/",
+   "pos": "n",
+   "vi": "mốc tiến độ",
+   "ex": "Payment is released at each project milestone.",
+   "exVi": "Tiền được giải ngân tại mỗi mốc tiến độ dự án.",
+   "col": [
+    "reach a milestone",
+    "a key milestone"
+   ]
+  },
+  {
+   "id": "ct104",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "deliverable",
+   "ipa": "/dɪˈlɪvərəbl/",
+   "pos": "n",
+   "vi": "sản phẩm bàn giao",
+   "ex": "The first deliverable is due at the end of March.",
+   "exVi": "Sản phẩm bàn giao đầu tiên đến hạn cuối tháng Ba.",
+   "col": [
+    "a key deliverable",
+    "submit a deliverable"
+   ]
+  },
+  {
+   "id": "ct105",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "scope",
+   "ipa": "/skəʊp/",
+   "pos": "n",
+   "vi": "phạm vi công việc",
+   "ex": "Any extra work falls outside the agreed scope.",
+   "exVi": "Mọi việc phát sinh nằm ngoài phạm vi đã thoả thuận.",
+   "col": [
+    "the scope of work",
+    "within scope"
+   ]
+  },
+  {
+   "id": "ct106",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "addend",
+   "ipa": "/əˈdend/",
+   "pos": "v",
+   "vi": "thêm điều khoản phụ",
+   "ex": "The parties agreed to addend a late-fee clause.",
+   "exVi": "Các bên đồng ý thêm điều khoản phí trễ hạn.",
+   "col": [
+    "addend a clause",
+    "formally addend"
+   ]
+  },
+  {
+   "id": "ct107",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "counterproposal",
+   "ipa": "/ˈkaʊntəprəˌpəʊzl/",
+   "pos": "n",
+   "vi": "đề xuất phản hồi",
+   "ex": "We submitted a counterproposal with a longer timeline.",
+   "exVi": "Chúng tôi nộp đề xuất phản hồi với thời gian dài hơn.",
+   "col": [
+    "a detailed counterproposal",
+    "present a counterproposal"
+   ]
+  },
+  {
+   "id": "ct108",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "leverage",
+   "ipa": "/ˈliːvərɪdʒ/",
+   "pos": "n",
+   "vi": "lợi thế đàm phán",
+   "ex": "Their large order gave them leverage on price.",
+   "exVi": "Đơn hàng lớn cho họ lợi thế đàm phán về giá.",
+   "col": [
+    "use leverage",
+    "negotiating leverage"
+   ]
+  },
+  {
+   "id": "ct109",
+   "topic": "Hợp đồng & đàm phán",
+   "w": "stalemate",
+   "ipa": "/ˈsteɪlmeɪt/",
+   "pos": "n",
+   "vi": "thế bế tắc",
+   "ex": "The talks ended in a stalemate over royalties.",
+   "exVi": "Đàm phán kết thúc trong bế tắc về tiền bản quyền.",
+   "col": [
+    "break a stalemate",
+    "reach a stalemate"
+   ]
+  }
+ ]
+}

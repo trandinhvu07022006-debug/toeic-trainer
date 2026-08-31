@@ -1,0 +1,1195 @@
+{
+ "topic": "Thuyết trình & họp hành",
+ "words": [
+  {
+   "id": "pr001",
+   "topic": "Thuyết trình & họp hành",
+   "w": "presentation",
+   "ipa": "/ˌpreznˈteɪʃn/",
+   "pos": "n",
+   "vi": "bài thuyết trình",
+   "ex": "Her presentation was clear and well timed.",
+   "exVi": "Bài thuyết trình của bà rõ ràng và đúng giờ.",
+   "col": [
+    "a presentation",
+    "give a presentation"
+   ]
+  },
+  {
+   "id": "pr002",
+   "topic": "Thuyết trình & họp hành",
+   "w": "slide",
+   "ipa": "/slaɪd/",
+   "pos": "n",
+   "vi": "trang trình chiếu",
+   "ex": "Each slide showed a single key point.",
+   "exVi": "Mỗi trang trình chiếu cho thấy một ý chính.",
+   "col": [
+    "a slide",
+    "a title slide"
+   ]
+  },
+  {
+   "id": "pr003",
+   "topic": "Thuyết trình & họp hành",
+   "w": "deck",
+   "ipa": "/dek/",
+   "pos": "n",
+   "vi": "bộ slide",
+   "ex": "The sales deck had twenty slides.",
+   "exVi": "Bộ slide bán hàng có hai mươi trang.",
+   "col": [
+    "a deck",
+    "a pitch deck"
+   ]
+  },
+  {
+   "id": "pr004",
+   "topic": "Thuyết trình & họp hành",
+   "w": "handout",
+   "ipa": "/ˈhændaʊt/",
+   "pos": "n",
+   "vi": "tài liệu phát",
+   "ex": "A handout summarized the main figures.",
+   "exVi": "Một tài liệu phát tóm tắt các con số chính.",
+   "col": [
+    "a handout",
+    "a printed handout"
+   ]
+  },
+  {
+   "id": "pr005",
+   "topic": "Thuyết trình & họp hành",
+   "w": "visual",
+   "ipa": "/ˈvɪʒuəl/",
+   "pos": "n",
+   "vi": "hình ảnh minh hoạ",
+   "ex": "Clear visuals helped the audience follow.",
+   "exVi": "Hình ảnh minh hoạ rõ ràng giúp khán giả theo dõi.",
+   "col": [
+    "a visual",
+    "a strong visual"
+   ]
+  },
+  {
+   "id": "pr006",
+   "topic": "Thuyết trình & họp hành",
+   "w": "chart",
+   "ipa": "/tʃɑːt/",
+   "pos": "n",
+   "vi": "biểu đồ",
+   "ex": "The chart showed a steady rise.",
+   "exVi": "Biểu đồ cho thấy một sự tăng ổn định.",
+   "col": [
+    "a chart",
+    "a bar chart"
+   ]
+  },
+  {
+   "id": "pr007",
+   "topic": "Thuyết trình & họp hành",
+   "w": "graph",
+   "ipa": "/ɡrɑːf/",
+   "pos": "n",
+   "vi": "đồ thị",
+   "ex": "A line graph tracked the monthly sales.",
+   "exVi": "Một đồ thị đường theo dõi doanh số hằng tháng.",
+   "col": [
+    "a graph",
+    "a line graph"
+   ]
+  },
+  {
+   "id": "pr008",
+   "topic": "Thuyết trình & họp hành",
+   "w": "diagram",
+   "ipa": "/ˈdaɪəɡræm/",
+   "pos": "n",
+   "vi": "sơ đồ",
+   "ex": "A simple diagram explained the process.",
+   "exVi": "Một sơ đồ đơn giản giải thích quy trình.",
+   "col": [
+    "a diagram",
+    "a flow diagram"
+   ]
+  },
+  {
+   "id": "pr009",
+   "topic": "Thuyết trình & họp hành",
+   "w": "pointer",
+   "ipa": "/ˈpɔɪntə/",
+   "pos": "n",
+   "vi": "bút chỉ",
+   "ex": "She used a pointer to highlight the total.",
+   "exVi": "Bà dùng bút chỉ để làm nổi bật tổng số.",
+   "col": [
+    "a pointer",
+    "a laser pointer"
+   ]
+  },
+  {
+   "id": "pr010",
+   "topic": "Thuyết trình & họp hành",
+   "w": "podium",
+   "ipa": "/ˈpəʊdiəm/",
+   "pos": "n",
+   "vi": "bục phát biểu",
+   "ex": "The speaker stood at the podium.",
+   "exVi": "Diễn giả đứng ở bục phát biểu.",
+   "col": [
+    "a podium",
+    "stand at the podium"
+   ]
+  },
+  {
+   "id": "pr011",
+   "topic": "Thuyết trình & họp hành",
+   "w": "audience",
+   "ipa": "/ˈɔːdiəns/",
+   "pos": "n",
+   "vi": "khán giả",
+   "ex": "The audience asked several questions.",
+   "exVi": "Khán giả hỏi vài câu.",
+   "col": [
+    "the audience",
+    "a large audience"
+   ]
+  },
+  {
+   "id": "pr012",
+   "topic": "Thuyết trình & họp hành",
+   "w": "agenda",
+   "ipa": "/əˈdʒendə/",
+   "pos": "n",
+   "vi": "chương trình họp",
+   "ex": "The agenda listed five items.",
+   "exVi": "Chương trình họp liệt kê năm mục.",
+   "col": [
+    "an agenda",
+    "a meeting agenda"
+   ]
+  },
+  {
+   "id": "pr013",
+   "topic": "Thuyết trình & họp hành",
+   "w": "minutes",
+   "ipa": "/ˈmɪnɪts/",
+   "pos": "n",
+   "vi": "biên bản",
+   "ex": "The minutes were shared after the meeting.",
+   "exVi": "Biên bản được chia sẻ sau cuộc họp.",
+   "col": [
+    "the minutes",
+    "take the minutes"
+   ]
+  },
+  {
+   "id": "pr014",
+   "topic": "Thuyết trình & họp hành",
+   "w": "attendee",
+   "ipa": "/ˌætenˈdiː/",
+   "pos": "n",
+   "vi": "người dự họp",
+   "ex": "Every attendee signed the register.",
+   "exVi": "Mỗi người dự họp ký sổ.",
+   "col": [
+    "an attendee",
+    "a meeting attendee"
+   ]
+  },
+  {
+   "id": "pr015",
+   "topic": "Thuyết trình & họp hành",
+   "w": "facilitator",
+   "ipa": "/fəˈsɪlɪteɪtə/",
+   "pos": "n",
+   "vi": "người điều phối",
+   "ex": "A facilitator kept the discussion on track.",
+   "exVi": "Một người điều phối giữ cuộc thảo luận đúng hướng.",
+   "col": [
+    "a facilitator",
+    "a meeting facilitator"
+   ]
+  },
+  {
+   "id": "pr016",
+   "topic": "Thuyết trình & họp hành",
+   "w": "chairperson",
+   "ipa": "/ˈtʃeəpɜːsn/",
+   "pos": "n",
+   "vi": "chủ toạ",
+   "ex": "The chairperson opened the meeting on time.",
+   "exVi": "Chủ toạ khai mạc cuộc họp đúng giờ.",
+   "col": [
+    "a chairperson",
+    "the chairperson"
+   ]
+  },
+  {
+   "id": "pr017",
+   "topic": "Thuyết trình & họp hành",
+   "w": "quorum",
+   "ipa": "/ˈkwɔːrəm/",
+   "pos": "n",
+   "vi": "số đại biểu tối thiểu",
+   "ex": "A quorum was needed before the vote.",
+   "exVi": "Cần một số đại biểu tối thiểu trước khi bỏ phiếu.",
+   "col": [
+    "a quorum",
+    "reach a quorum"
+   ]
+  },
+  {
+   "id": "pr018",
+   "topic": "Thuyết trình & họp hành",
+   "w": "motion",
+   "ipa": "/ˈməʊʃn/",
+   "pos": "n",
+   "vi": "kiến nghị",
+   "ex": "The motion was passed by a clear majority.",
+   "exVi": "Kiến nghị được thông qua với đa số rõ ràng.",
+   "col": [
+    "a motion",
+    "propose a motion"
+   ]
+  },
+  {
+   "id": "pr019",
+   "topic": "Thuyết trình & họp hành",
+   "w": "proposal",
+   "ipa": "/prəˈpəʊzl/",
+   "pos": "n",
+   "vi": "đề xuất",
+   "ex": "The proposal was approved after a short debate.",
+   "exVi": "Đề xuất được duyệt sau một cuộc tranh luận ngắn.",
+   "col": [
+    "a proposal",
+    "a formal proposal"
+   ]
+  },
+  {
+   "id": "pr020",
+   "topic": "Thuyết trình & họp hành",
+   "w": "consensus",
+   "ipa": "/kənˈsensəs/",
+   "pos": "n",
+   "vi": "đồng thuận",
+   "ex": "The team reached a consensus quickly.",
+   "exVi": "Nhóm đạt đồng thuận nhanh chóng.",
+   "col": [
+    "consensus",
+    "reach a consensus"
+   ]
+  },
+  {
+   "id": "pr021",
+   "topic": "Thuyết trình & họp hành",
+   "w": "feedback",
+   "ipa": "/ˈfiːdbæk/",
+   "pos": "n",
+   "vi": "phản hồi",
+   "ex": "The speaker welcomed feedback at the end.",
+   "exVi": "Diễn giả hoan nghênh phản hồi ở cuối.",
+   "col": [
+    "feedback",
+    "honest feedback"
+   ]
+  },
+  {
+   "id": "pr022",
+   "topic": "Thuyết trình & họp hành",
+   "w": "briefing",
+   "ipa": "/ˈbriːfɪŋ/",
+   "pos": "n",
+   "vi": "buổi phổ biến thông tin",
+   "ex": "A short briefing opened the workshop.",
+   "exVi": "Một buổi phổ biến ngắn khai mạc buổi thực hành.",
+   "col": [
+    "a briefing",
+    "a daily briefing"
+   ]
+  },
+  {
+   "id": "pr023",
+   "topic": "Thuyết trình & họp hành",
+   "w": "rehearsal",
+   "ipa": "/rɪˈhɜːsl/",
+   "pos": "n",
+   "vi": "buổi tập dượt",
+   "ex": "A rehearsal helped smooth the delivery.",
+   "exVi": "Một buổi tập dượt giúp phần trình bày trôi chảy.",
+   "col": [
+    "a rehearsal",
+    "a final rehearsal"
+   ]
+  },
+  {
+   "id": "pr024",
+   "topic": "Thuyết trình & họp hành",
+   "w": "outline",
+   "ipa": "/ˈaʊtlaɪn/",
+   "pos": "n",
+   "vi": "dàn ý",
+   "ex": "The outline listed the main sections.",
+   "exVi": "Dàn ý liệt kê các phần chính.",
+   "col": [
+    "an outline",
+    "a clear outline"
+   ]
+  },
+  {
+   "id": "pr025",
+   "topic": "Thuyết trình & họp hành",
+   "w": "summary",
+   "ipa": "/ˈsʌməri/",
+   "pos": "n",
+   "vi": "tóm tắt",
+   "ex": "A summary closed the presentation.",
+   "exVi": "Một bản tóm tắt kết thúc bài thuyết trình.",
+   "col": [
+    "a summary",
+    "a brief summary"
+   ]
+  },
+  {
+   "id": "pr026",
+   "topic": "Thuyết trình & họp hành",
+   "w": "overview",
+   "ipa": "/ˈəʊvəvjuː/",
+   "pos": "n",
+   "vi": "khái quát",
+   "ex": "The overview set out the whole plan.",
+   "exVi": "Phần khái quát trình bày cả kế hoạch.",
+   "col": [
+    "an overview",
+    "a brief overview"
+   ]
+  },
+  {
+   "id": "pr027",
+   "topic": "Thuyết trình & họp hành",
+   "w": "takeaway",
+   "ipa": "/ˈteɪkəweɪ/",
+   "pos": "n",
+   "vi": "điểm cần nhớ",
+   "ex": "The key takeaway was to cut costs.",
+   "exVi": "Điểm cần nhớ chính là cắt giảm chi phí.",
+   "col": [
+    "a takeaway",
+    "a key takeaway"
+   ]
+  },
+  {
+   "id": "pr028",
+   "topic": "Thuyết trình & họp hành",
+   "w": "present",
+   "ipa": "/prɪˈzent/",
+   "pos": "v",
+   "vi": "trình bày",
+   "ex": "She presented the results to the board.",
+   "exVi": "Bà trình bày kết quả cho hội đồng.",
+   "col": [
+    "present",
+    "present a plan"
+   ]
+  },
+  {
+   "id": "pr029",
+   "topic": "Thuyết trình & họp hành",
+   "w": "demonstrate",
+   "ipa": "/ˈdemənstreɪt/",
+   "pos": "v",
+   "vi": "minh hoạ",
+   "ex": "He demonstrated the tool in real time.",
+   "exVi": "Ông minh hoạ công cụ theo thời gian thực.",
+   "col": [
+    "demonstrate",
+    "demonstrate a product"
+   ]
+  },
+  {
+   "id": "pr030",
+   "topic": "Thuyết trình & họp hành",
+   "w": "illustrate",
+   "ipa": "/ˈɪləstreɪt/",
+   "pos": "v",
+   "vi": "minh hoạ bằng ví dụ",
+   "ex": "A chart illustrates the trend clearly.",
+   "exVi": "Một biểu đồ minh hoạ xu hướng rõ ràng.",
+   "col": [
+    "illustrate",
+    "illustrate a point"
+   ]
+  },
+  {
+   "id": "pr031",
+   "topic": "Thuyết trình & họp hành",
+   "w": "summarize",
+   "ipa": "/ˈsʌməraɪz/",
+   "pos": "v",
+   "vi": "tóm tắt",
+   "ex": "Please summarize the main findings.",
+   "exVi": "Vui lòng tóm tắt các phát hiện chính.",
+   "col": [
+    "summarize",
+    "summarize a report"
+   ]
+  },
+  {
+   "id": "pr032",
+   "topic": "Thuyết trình & họp hành",
+   "w": "elaborate",
+   "ipa": "/ɪˈlæbəreɪt/",
+   "pos": "v",
+   "vi": "trình bày kỹ hơn",
+   "ex": "Could you elaborate on the second point?",
+   "exVi": "Anh có thể trình bày kỹ hơn về ý thứ hai không?",
+   "col": [
+    "elaborate",
+    "elaborate on"
+   ]
+  },
+  {
+   "id": "pr033",
+   "topic": "Thuyết trình & họp hành",
+   "w": "clarify",
+   "ipa": "/ˈklærɪfaɪ/",
+   "pos": "v",
+   "vi": "làm rõ",
+   "ex": "The speaker clarified the final figure.",
+   "exVi": "Diễn giả làm rõ con số cuối.",
+   "col": [
+    "clarify",
+    "clarify a point"
+   ]
+  },
+  {
+   "id": "pr034",
+   "topic": "Thuyết trình & họp hành",
+   "w": "reiterate",
+   "ipa": "/riˈɪtəreɪt/",
+   "pos": "v",
+   "vi": "nhắc lại",
+   "ex": "She reiterated the main goal at the end.",
+   "exVi": "Bà nhắc lại mục tiêu chính ở cuối.",
+   "col": [
+    "reiterate",
+    "reiterate a point"
+   ]
+  },
+  {
+   "id": "pr035",
+   "topic": "Thuyết trình & họp hành",
+   "w": "emphasize",
+   "ipa": "/ˈemfəsaɪz/",
+   "pos": "v",
+   "vi": "nhấn mạnh",
+   "ex": "He emphasized the need for speed.",
+   "exVi": "Ông nhấn mạnh sự cần thiết của tốc độ.",
+   "col": [
+    "emphasize",
+    "emphasize a point"
+   ]
+  },
+  {
+   "id": "pr036",
+   "topic": "Thuyết trình & họp hành",
+   "w": "highlight",
+   "ipa": "/ˈhaɪlaɪt/",
+   "pos": "v",
+   "vi": "làm nổi bật",
+   "ex": "The report highlights three key risks.",
+   "exVi": "Báo cáo làm nổi bật ba rủi ro chính.",
+   "col": [
+    "highlight",
+    "highlight a point"
+   ]
+  },
+  {
+   "id": "pr037",
+   "topic": "Thuyết trình & họp hành",
+   "w": "address",
+   "ipa": "/əˈdres/",
+   "pos": "v",
+   "vi": "đề cập",
+   "ex": "The talk addressed common concerns.",
+   "exVi": "Bài nói đề cập các mối lo thường gặp.",
+   "col": [
+    "address",
+    "address a concern"
+   ]
+  },
+  {
+   "id": "pr038",
+   "topic": "Thuyết trình & họp hành",
+   "w": "engage",
+   "ipa": "/ɪnˈɡeɪdʒ/",
+   "pos": "v",
+   "vi": "thu hút",
+   "ex": "A good opener engages the audience.",
+   "exVi": "Một mở đầu hay thu hút khán giả.",
+   "col": [
+    "engage",
+    "engage an audience"
+   ]
+  },
+  {
+   "id": "pr039",
+   "topic": "Thuyết trình & họp hành",
+   "w": "convince",
+   "ipa": "/kənˈvɪns/",
+   "pos": "v",
+   "vi": "thuyết phục",
+   "ex": "The data convinced the board to invest.",
+   "exVi": "Dữ liệu thuyết phục hội đồng đầu tư.",
+   "col": [
+    "convince",
+    "convince someone"
+   ]
+  },
+  {
+   "id": "pr040",
+   "topic": "Thuyết trình & họp hành",
+   "w": "persuasive",
+   "ipa": "/pəˈsweɪsɪv/",
+   "pos": "adj",
+   "vi": "có sức thuyết phục",
+   "ex": "Her argument was clear and persuasive.",
+   "exVi": "Lập luận của bà rõ ràng và thuyết phục.",
+   "col": [
+    "persuasive",
+    "a persuasive argument"
+   ]
+  },
+  {
+   "id": "pr041",
+   "topic": "Thuyết trình & họp hành",
+   "w": "concise",
+   "ipa": "/kənˈsaɪs/",
+   "pos": "adj",
+   "vi": "súc tích",
+   "ex": "Keep the summary short and concise.",
+   "exVi": "Giữ bản tóm tắt ngắn và súc tích.",
+   "col": [
+    "concise",
+    "clear and concise"
+   ]
+  },
+  {
+   "id": "pr042",
+   "topic": "Thuyết trình & họp hành",
+   "w": "coherent",
+   "ipa": "/kəʊˈhɪərənt/",
+   "pos": "adj",
+   "vi": "mạch lạc",
+   "ex": "The talk was well structured and coherent.",
+   "exVi": "Bài nói có cấu trúc tốt và mạch lạc.",
+   "col": [
+    "coherent",
+    "a coherent talk"
+   ]
+  },
+  {
+   "id": "pr043",
+   "topic": "Thuyết trình & họp hành",
+   "w": "engaging",
+   "ipa": "/ɪnˈɡeɪdʒɪŋ/",
+   "pos": "adj",
+   "vi": "hấp dẫn",
+   "ex": "The speaker had an engaging style.",
+   "exVi": "Diễn giả có một phong cách hấp dẫn.",
+   "col": [
+    "engaging",
+    "an engaging speaker"
+   ]
+  },
+  {
+   "id": "pr044",
+   "topic": "Thuyết trình & họp hành",
+   "w": "keynote",
+   "ipa": "/ˈkiːnəʊt/",
+   "pos": "n",
+   "vi": "bài phát biểu chính",
+   "ex": "The keynote opened the two-day event.",
+   "exVi": "Bài phát biểu chính khai mạc sự kiện hai ngày.",
+   "col": [
+    "a keynote",
+    "a keynote speech"
+   ]
+  },
+  {
+   "id": "pr045",
+   "topic": "Thuyết trình & họp hành",
+   "w": "pitch",
+   "ipa": "/pɪtʃ/",
+   "pos": "n",
+   "vi": "bài chào hàng",
+   "ex": "The pitch won the firm a new client.",
+   "exVi": "Bài chào hàng giúp công ty giành một khách mới.",
+   "col": [
+    "a pitch",
+    "a sales pitch"
+   ]
+  },
+  {
+   "id": "pr046",
+   "topic": "Thuyết trình & họp hành",
+   "w": "walkthrough",
+   "ipa": "/ˈwɔːkθruː/",
+   "pos": "n",
+   "vi": "hướng dẫn từng bước",
+   "ex": "A walkthrough showed how the tool works.",
+   "exVi": "Một hướng dẫn từng bước cho thấy công cụ hoạt động ra sao.",
+   "col": [
+    "a walkthrough",
+    "a quick walkthrough"
+   ]
+  },
+  {
+   "id": "pr047",
+   "topic": "Thuyết trình & họp hành",
+   "w": "breakout",
+   "ipa": "/ˈbreɪkaʊt/",
+   "pos": "n",
+   "vi": "nhóm thảo luận nhỏ",
+   "ex": "Breakout groups discussed each idea.",
+   "exVi": "Các nhóm thảo luận nhỏ bàn từng ý tưởng.",
+   "col": [
+    "a breakout",
+    "a breakout session"
+   ]
+  },
+  {
+   "id": "pr048",
+   "topic": "Thuyết trình & họp hành",
+   "w": "roundtable",
+   "ipa": "/ˈraʊndteɪbl/",
+   "pos": "n",
+   "vi": "bàn tròn",
+   "ex": "A roundtable followed the main talks.",
+   "exVi": "Một bàn tròn theo sau các bài nói chính.",
+   "col": [
+    "a roundtable",
+    "a roundtable discussion"
+   ]
+  },
+  {
+   "id": "pr049",
+   "topic": "Thuyết trình & họp hành",
+   "w": "poll",
+   "ipa": "/pəʊl/",
+   "pos": "n",
+   "vi": "cuộc thăm dò",
+   "ex": "A quick poll gathered the group's view.",
+   "exVi": "Một cuộc thăm dò nhanh thu thập ý kiến của nhóm.",
+   "col": [
+    "a poll",
+    "a live poll"
+   ]
+  },
+  {
+   "id": "pr050",
+   "topic": "Thuyết trình & họp hành",
+   "w": "whiteboard",
+   "ipa": "/ˈwaɪtbɔːd/",
+   "pos": "n",
+   "vi": "bảng trắng",
+   "ex": "Ideas were listed on the whiteboard.",
+   "exVi": "Các ý tưởng được liệt kê trên bảng trắng.",
+   "col": [
+    "a whiteboard",
+    "a whiteboard marker"
+   ]
+  },
+  {
+   "id": "pr051",
+   "topic": "Thuyết trình & họp hành",
+   "w": "flipchart",
+   "ipa": "/ˈflɪptʃɑːt/",
+   "pos": "n",
+   "vi": "bảng giấy lật",
+   "ex": "Notes were written on the flipchart.",
+   "exVi": "Ghi chú được viết trên bảng giấy lật.",
+   "col": [
+    "a flipchart",
+    "a flipchart stand"
+   ]
+  },
+  {
+   "id": "pr052",
+   "topic": "Thuyết trình & họp hành",
+   "w": "projector",
+   "ipa": "/prəˈdʒektə/",
+   "pos": "n",
+   "vi": "máy chiếu",
+   "ex": "The projector displayed the slides clearly.",
+   "exVi": "Máy chiếu hiển thị các slide rõ ràng.",
+   "col": [
+    "a projector",
+    "set up a projector"
+   ]
+  },
+  {
+   "id": "pr053",
+   "topic": "Thuyết trình & họp hành",
+   "w": "microphone",
+   "ipa": "/ˈmaɪkrəfəʊn/",
+   "pos": "n",
+   "vi": "micro",
+   "ex": "Please speak into the microphone.",
+   "exVi": "Vui lòng nói vào micro.",
+   "col": [
+    "a microphone",
+    "a lapel microphone"
+   ]
+  },
+  {
+   "id": "pr054",
+   "topic": "Thuyết trình & họp hành",
+   "w": "lectern",
+   "ipa": "/ˈlektən/",
+   "pos": "n",
+   "vi": "bục để tài liệu",
+   "ex": "The speaker rested her notes on the lectern.",
+   "exVi": "Diễn giả để ghi chú trên bục.",
+   "col": [
+    "a lectern",
+    "stand at the lectern"
+   ]
+  },
+  {
+   "id": "pr055",
+   "topic": "Thuyết trình & họp hành",
+   "w": "transition",
+   "ipa": "/trænˈzɪʃn/",
+   "pos": "n",
+   "vi": "chuyển ý",
+   "ex": "A smooth transition linked the two topics.",
+   "exVi": "Một chuyển ý mượt mà nối hai chủ đề.",
+   "col": [
+    "a transition",
+    "a smooth transition"
+   ]
+  },
+  {
+   "id": "pr056",
+   "topic": "Thuyết trình & họp hành",
+   "w": "rapport",
+   "ipa": "/ræˈpɔː/",
+   "pos": "n",
+   "vi": "sự gắn kết",
+   "ex": "The speaker built rapport with the room.",
+   "exVi": "Diễn giả xây dựng sự gắn kết với cả phòng.",
+   "col": [
+    "rapport",
+    "build rapport"
+   ]
+  },
+  {
+   "id": "pr057",
+   "topic": "Thuyết trình & họp hành",
+   "w": "delivery",
+   "ipa": "/dɪˈlɪvəri/",
+   "pos": "n",
+   "vi": "cách trình bày",
+   "ex": "Her delivery was calm and confident.",
+   "exVi": "Cách trình bày của bà điềm tĩnh và tự tin.",
+   "col": [
+    "delivery",
+    "a confident delivery"
+   ]
+  },
+  {
+   "id": "pr058",
+   "topic": "Thuyết trình & họp hành",
+   "w": "gesture",
+   "ipa": "/ˈdʒestʃə/",
+   "pos": "n",
+   "vi": "cử chỉ",
+   "ex": "A simple gesture kept the audience focused.",
+   "exVi": "Một cử chỉ đơn giản giữ khán giả tập trung.",
+   "col": [
+    "a gesture",
+    "a hand gesture"
+   ]
+  },
+  {
+   "id": "pr059",
+   "topic": "Thuyết trình & họp hành",
+   "w": "posture",
+   "ipa": "/ˈpɒstʃə/",
+   "pos": "n",
+   "vi": "tư thế",
+   "ex": "Good posture makes a speaker look confident.",
+   "exVi": "Tư thế tốt khiến diễn giả trông tự tin.",
+   "col": [
+    "posture",
+    "good posture"
+   ]
+  },
+  {
+   "id": "pr060",
+   "topic": "Thuyết trình & họp hành",
+   "w": "tone",
+   "ipa": "/təʊn/",
+   "pos": "n",
+   "vi": "giọng điệu",
+   "ex": "A warm tone put the audience at ease.",
+   "exVi": "Một giọng điệu ấm áp khiến khán giả thoải mái.",
+   "col": [
+    "tone",
+    "a warm tone"
+   ]
+  },
+  {
+   "id": "pr061",
+   "topic": "Thuyết trình & họp hành",
+   "w": "pace",
+   "ipa": "/peɪs/",
+   "pos": "n",
+   "vi": "nhịp độ",
+   "ex": "A steady pace kept the talk easy to follow.",
+   "exVi": "Một nhịp độ đều đặn giữ bài nói dễ theo dõi.",
+   "col": [
+    "pace",
+    "a steady pace"
+   ]
+  },
+  {
+   "id": "pr062",
+   "topic": "Thuyết trình & họp hành",
+   "w": "pause",
+   "ipa": "/pɔːz/",
+   "pos": "n",
+   "vi": "khoảng dừng",
+   "ex": "A short pause let the point sink in.",
+   "exVi": "Một khoảng dừng ngắn để ý tưởng thấm.",
+   "col": [
+    "a pause",
+    "a brief pause"
+   ]
+  },
+  {
+   "id": "pr063",
+   "topic": "Thuyết trình & họp hành",
+   "w": "segue",
+   "ipa": "/ˈseɡweɪ/",
+   "pos": "n",
+   "vi": "đoạn chuyển tiếp",
+   "ex": "A neat segue moved to the next topic.",
+   "exVi": "Một đoạn chuyển tiếp gọn gàng chuyển sang chủ đề tiếp theo.",
+   "col": [
+    "a segue",
+    "a smooth segue"
+   ]
+  },
+  {
+   "id": "pr064",
+   "topic": "Thuyết trình & họp hành",
+   "w": "recap",
+   "ipa": "/ˈriːkæp/",
+   "pos": "n",
+   "vi": "tóm lược",
+   "ex": "A quick recap closed each section.",
+   "exVi": "Một tóm lược nhanh kết thúc mỗi phần.",
+   "col": [
+    "a recap",
+    "a brief recap"
+   ]
+  },
+  {
+   "id": "pr065",
+   "topic": "Thuyết trình & họp hành",
+   "w": "takeaways",
+   "ipa": "/ˈteɪkəweɪz/",
+   "pos": "n",
+   "vi": "các điểm cần nhớ",
+   "ex": "The final slide listed three takeaways.",
+   "exVi": "Slide cuối liệt kê ba điểm cần nhớ.",
+   "col": [
+    "takeaways",
+    "key takeaways"
+   ]
+  },
+  {
+   "id": "pr066",
+   "topic": "Thuyết trình & họp hành",
+   "w": "convene",
+   "ipa": "/kənˈviːn/",
+   "pos": "v",
+   "vi": "triệu tập họp",
+   "ex": "The chair convened the meeting at nine.",
+   "exVi": "Chủ toạ triệu tập cuộc họp lúc chín giờ.",
+   "col": [
+    "convene",
+    "convene a meeting"
+   ]
+  },
+  {
+   "id": "pr067",
+   "topic": "Thuyết trình & họp hành",
+   "w": "adjourn",
+   "ipa": "/əˈdʒɜːn/",
+   "pos": "v",
+   "vi": "kết thúc họp",
+   "ex": "The meeting adjourned after an hour.",
+   "exVi": "Cuộc họp kết thúc sau một giờ.",
+   "col": [
+    "adjourn",
+    "adjourn a meeting"
+   ]
+  },
+  {
+   "id": "pr068",
+   "topic": "Thuyết trình & họp hành",
+   "w": "preside",
+   "ipa": "/prɪˈzaɪd/",
+   "pos": "v",
+   "vi": "chủ trì",
+   "ex": "The director presided over the session.",
+   "exVi": "Giám đốc chủ trì phiên họp.",
+   "col": [
+    "preside",
+    "preside over"
+   ]
+  },
+  {
+   "id": "pr069",
+   "topic": "Thuyết trình & họp hành",
+   "w": "brainstorm",
+   "ipa": "/ˈbreɪnstɔːm/",
+   "pos": "v",
+   "vi": "động não",
+   "ex": "The team brainstormed new ideas.",
+   "exVi": "Nhóm động não các ý tưởng mới.",
+   "col": [
+    "brainstorm",
+    "brainstorm ideas"
+   ]
+  },
+  {
+   "id": "pr070",
+   "topic": "Thuyết trình & họp hành",
+   "w": "deliberate",
+   "ipa": "/dɪˈlɪbəreɪt/",
+   "pos": "v",
+   "vi": "thảo luận cân nhắc",
+   "ex": "The board deliberated before the vote.",
+   "exVi": "Hội đồng thảo luận cân nhắc trước khi bỏ phiếu.",
+   "col": [
+    "deliberate",
+    "deliberate over"
+   ]
+  },
+  {
+   "id": "pr071",
+   "topic": "Thuyết trình & họp hành",
+   "w": "solicit",
+   "ipa": "/səˈlɪsɪt/",
+   "pos": "v",
+   "vi": "thu thập ý kiến",
+   "ex": "The chair solicited views from everyone.",
+   "exVi": "Chủ toạ thu thập ý kiến từ mọi người.",
+   "col": [
+    "solicit",
+    "solicit feedback"
+   ]
+  },
+  {
+   "id": "pr072",
+   "topic": "Thuyết trình & họp hành",
+   "w": "recapitulate",
+   "ipa": "/ˌriːkəˈpɪtʃuleɪt/",
+   "pos": "v",
+   "vi": "tóm tắt lại",
+   "ex": "She recapitulated the main points.",
+   "exVi": "Bà tóm tắt lại các điểm chính.",
+   "col": [
+    "recapitulate",
+    "recapitulate the argument"
+   ]
+  },
+  {
+   "id": "pr073",
+   "topic": "Thuyết trình & họp hành",
+   "w": "digress",
+   "ipa": "/daɪˈɡres/",
+   "pos": "v",
+   "vi": "lạc đề",
+   "ex": "The speaker tried not to digress.",
+   "exVi": "Diễn giả cố không lạc đề.",
+   "col": [
+    "digress",
+    "digress from the topic"
+   ]
+  },
+  {
+   "id": "pr074",
+   "topic": "Thuyết trình & họp hành",
+   "w": "moderate",
+   "ipa": "/ˈmɒdəreɪt/",
+   "pos": "v",
+   "vi": "điều phối",
+   "ex": "She moderated the panel discussion.",
+   "exVi": "Bà điều phối cuộc thảo luận nhóm.",
+   "col": [
+    "moderate",
+    "moderate a panel"
+   ]
+  },
+  {
+   "id": "pr075",
+   "topic": "Thuyết trình & họp hành",
+   "w": "articulate",
+   "ipa": "/ɑːˈtɪkjuleɪt/",
+   "pos": "adj",
+   "vi": "diễn đạt rõ ràng",
+   "ex": "An articulate speaker holds attention.",
+   "exVi": "Một diễn giả diễn đạt rõ ràng giữ được sự chú ý.",
+   "col": [
+    "articulate",
+    "an articulate speaker"
+   ]
+  },
+  {
+   "id": "pr076",
+   "topic": "Thuyết trình & họp hành",
+   "w": "succinct",
+   "ipa": "/səkˈsɪŋkt/",
+   "pos": "adj",
+   "vi": "ngắn gọn",
+   "ex": "Keep each point succinct and clear.",
+   "exVi": "Giữ mỗi ý ngắn gọn và rõ ràng.",
+   "col": [
+    "succinct",
+    "a succinct summary"
+   ]
+  },
+  {
+   "id": "pr077",
+   "topic": "Thuyết trình & họp hành",
+   "w": "interactive",
+   "ipa": "/ˌɪntərˈæktɪv/",
+   "pos": "adj",
+   "vi": "có tương tác",
+   "ex": "An interactive session kept everyone involved.",
+   "exVi": "Một phiên có tương tác giữ mọi người tham gia.",
+   "col": [
+    "interactive",
+    "an interactive session"
+   ]
+  },
+  {
+   "id": "pr078",
+   "topic": "Thuyết trình & họp hành",
+   "w": "compelling",
+   "ipa": "/kəmˈpelɪŋ/",
+   "pos": "adj",
+   "vi": "thuyết phục mạnh mẽ",
+   "ex": "The data made a compelling case.",
+   "exVi": "Dữ liệu tạo một lập luận thuyết phục mạnh mẽ.",
+   "col": [
+    "compelling",
+    "a compelling argument"
+   ]
+  },
+  {
+   "id": "pr079",
+   "topic": "Thuyết trình & họp hành",
+   "w": "constructive",
+   "ipa": "/kənˈstrʌktɪv/",
+   "pos": "adj",
+   "vi": "mang tính xây dựng",
+   "ex": "The feedback was constructive and clear.",
+   "exVi": "Phản hồi mang tính xây dựng và rõ ràng.",
+   "col": [
+    "constructive",
+    "constructive feedback"
+   ]
+  },
+  {
+   "id": "pr080",
+   "topic": "Thuyết trình & họp hành",
+   "w": "productive",
+   "ipa": "/prəˈdʌktɪv/",
+   "pos": "adj",
+   "vi": "hiệu quả, năng suất",
+   "ex": "It was a short but productive meeting.",
+   "exVi": "Đó là một cuộc họp ngắn nhưng hiệu quả.",
+   "col": [
+    "productive",
+    "a productive meeting"
+   ]
+  },
+  {
+   "id": "pr081",
+   "topic": "Thuyết trình & họp hành",
+   "w": "inclusive",
+   "ipa": "/ɪnˈkluːsɪv/",
+   "pos": "adj",
+   "vi": "bao quát, cởi mở",
+   "ex": "The chair kept the discussion inclusive.",
+   "exVi": "Chủ toạ giữ cuộc thảo luận cởi mở.",
+   "col": [
+    "inclusive",
+    "an inclusive discussion"
+   ]
+  },
+  {
+   "id": "pr082",
+   "topic": "Thuyết trình & họp hành",
+   "w": "attentive",
+   "ipa": "/əˈtentɪv/",
+   "pos": "adj",
+   "vi": "chú ý",
+   "ex": "The audience stayed attentive throughout.",
+   "exVi": "Khán giả giữ chú ý suốt buổi.",
+   "col": [
+    "attentive",
+    "an attentive audience"
+   ]
+  },
+  {
+   "id": "pr083",
+   "topic": "Thuyết trình & họp hành",
+   "w": "verbose",
+   "ipa": "/vɜːˈbəʊs/",
+   "pos": "adj",
+   "vi": "dài dòng",
+   "ex": "A verbose speaker loses the audience.",
+   "exVi": "Một diễn giả dài dòng làm mất khán giả.",
+   "col": [
+    "verbose",
+    "a verbose style"
+   ]
+  },
+  {
+   "id": "pr084",
+   "topic": "Thuyết trình & họp hành",
+   "w": "audible",
+   "ipa": "/ˈɔːdəbl/",
+   "pos": "adj",
+   "vi": "nghe rõ",
+   "ex": "Please make sure your voice is audible.",
+   "exVi": "Vui lòng bảo đảm giọng của bạn nghe rõ.",
+   "col": [
+    "audible",
+    "clearly audible"
+   ]
+  },
+  {
+   "id": "pr085",
+   "topic": "Thuyết trình & họp hành",
+   "w": "punctual",
+   "ipa": "/ˈpʌŋktʃuəl/",
+   "pos": "adj",
+   "vi": "đúng giờ",
+   "ex": "A punctual start kept the schedule.",
+   "exVi": "Một khởi đầu đúng giờ giữ lịch trình.",
+   "col": [
+    "punctual",
+    "a punctual start"
+   ]
+  }
+ ]
+}

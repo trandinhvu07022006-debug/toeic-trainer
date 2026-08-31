@@ -1,0 +1,1340 @@
+{
+ "topic": "Marketing & quảng cáo",
+ "words": [
+  {
+   "id": "v21",
+   "topic": "Marketing & quảng cáo",
+   "w": "campaign",
+   "ipa": "/kæmˈpeɪn/",
+   "pos": "n",
+   "vi": "chiến dịch (quảng cáo)",
+   "ex": "The advertising campaign will run for eight weeks.",
+   "exVi": "Chiến dịch quảng cáo sẽ chạy trong tám tuần.",
+   "col": [
+    "launch a campaign",
+    "an ad campaign",
+    "a successful campaign"
+   ]
+  },
+  {
+   "id": "v22",
+   "topic": "Marketing & quảng cáo",
+   "w": "survey",
+   "ipa": "/ˈsɜːveɪ/",
+   "pos": "n",
+   "vi": "cuộc khảo sát",
+   "ex": "Nearly 800 customers responded to the online survey.",
+   "exVi": "Gần 800 khách hàng đã trả lời khảo sát trực tuyến.",
+   "col": [
+    "conduct a survey",
+    "complete a survey",
+    "survey results"
+   ]
+  },
+  {
+   "id": "v23",
+   "topic": "Marketing & quảng cáo",
+   "w": "promotion",
+   "ipa": "/prəˈməʊʃn/",
+   "pos": "n",
+   "vi": "chương trình khuyến mãi; sự thăng chức",
+   "ex": "The store is offering a special promotion on all appliances.",
+   "exVi": "Cửa hàng đang có chương trình khuyến mãi đặc biệt cho mọi đồ gia dụng.",
+   "col": [
+    "run a promotion",
+    "a sales promotion",
+    "receive a promotion"
+   ]
+  },
+  {
+   "id": "v24",
+   "topic": "Marketing & quảng cáo",
+   "w": "brand",
+   "ipa": "/brænd/",
+   "pos": "n",
+   "vi": "thương hiệu",
+   "ex": "The redesign was intended to strengthen the company's brand.",
+   "exVi": "Việc thiết kế lại nhằm củng cố thương hiệu của công ty.",
+   "col": [
+    "brand awareness",
+    "build a brand",
+    "a leading brand"
+   ]
+  },
+  {
+   "id": "v25",
+   "topic": "Marketing & quảng cáo",
+   "w": "feedback",
+   "ipa": "/ˈfiːdbæk/",
+   "pos": "n",
+   "vi": "phản hồi, ý kiến đóng góp",
+   "ex": "Customer feedback on the new packaging has been positive.",
+   "exVi": "Phản hồi của khách hàng về bao bì mới rất tích cực.",
+   "col": [
+    "gather feedback",
+    "positive feedback",
+    "provide feedback on"
+   ]
+  },
+  {
+   "id": "mk006",
+   "topic": "Marketing & quảng cáo",
+   "w": "advertisement",
+   "ipa": "/ədˈvɜːtɪsmənt/",
+   "pos": "n",
+   "vi": "quảng cáo",
+   "ex": "The advertisement ran in three national newspapers.",
+   "exVi": "Quảng cáo được đăng trên ba tờ báo toàn quốc.",
+   "col": [
+    "place an advertisement",
+    "a full-page advertisement"
+   ]
+  },
+  {
+   "id": "mk007",
+   "topic": "Marketing & quảng cáo",
+   "w": "advertising",
+   "ipa": "/ˈædvətaɪzɪŋ/",
+   "pos": "n",
+   "vi": "hoạt động quảng cáo",
+   "ex": "The firm spends heavily on online advertising.",
+   "exVi": "Công ty chi mạnh cho quảng cáo trực tuyến.",
+   "col": [
+    "an advertising campaign",
+    "online advertising"
+   ]
+  },
+  {
+   "id": "mk008",
+   "topic": "Marketing & quảng cáo",
+   "w": "branding",
+   "ipa": "/ˈbrændɪŋ/",
+   "pos": "n",
+   "vi": "việc xây dựng thương hiệu",
+   "ex": "Consistent branding appears on every product.",
+   "exVi": "Hình ảnh thương hiệu nhất quán xuất hiện trên mọi sản phẩm.",
+   "col": [
+    "strong branding",
+    "a branding strategy"
+   ]
+  },
+  {
+   "id": "mk009",
+   "topic": "Marketing & quảng cáo",
+   "w": "logo",
+   "ipa": "/ˈləʊɡəʊ/",
+   "pos": "n",
+   "vi": "biểu trưng",
+   "ex": "The new logo appears on all packaging.",
+   "exVi": "Biểu trưng mới xuất hiện trên mọi bao bì.",
+   "col": [
+    "a company logo",
+    "redesign the logo"
+   ]
+  },
+  {
+   "id": "mk010",
+   "topic": "Marketing & quảng cáo",
+   "w": "slogan",
+   "ipa": "/ˈsləʊɡən/",
+   "pos": "n",
+   "vi": "khẩu hiệu",
+   "ex": "A catchy slogan helped the product stand out.",
+   "exVi": "Một khẩu hiệu bắt tai giúp sản phẩm nổi bật.",
+   "col": [
+    "a catchy slogan",
+    "an advertising slogan"
+   ]
+  },
+  {
+   "id": "mk011",
+   "topic": "Marketing & quảng cáo",
+   "w": "market",
+   "ipa": "/ˈmɑːkɪt/",
+   "pos": "n, v",
+   "vi": "thị trường; tiếp thị",
+   "ex": "The company entered the Asian market last year.",
+   "exVi": "Công ty gia nhập thị trường châu Á năm ngoái.",
+   "col": [
+    "a target market",
+    "enter a market"
+   ]
+  },
+  {
+   "id": "mk012",
+   "topic": "Marketing & quảng cáo",
+   "w": "marketing",
+   "ipa": "/ˈmɑːkɪtɪŋ/",
+   "pos": "n",
+   "vi": "tiếp thị",
+   "ex": "The marketing team meets every Monday morning.",
+   "exVi": "Nhóm tiếp thị họp mỗi sáng thứ Hai.",
+   "col": [
+    "a marketing strategy",
+    "digital marketing"
+   ]
+  },
+  {
+   "id": "mk013",
+   "topic": "Marketing & quảng cáo",
+   "w": "consumer",
+   "ipa": "/kənˈsjuːmə/",
+   "pos": "n",
+   "vi": "người tiêu dùng",
+   "ex": "Consumers now compare prices online before buying.",
+   "exVi": "Người tiêu dùng nay so giá trên mạng trước khi mua.",
+   "col": [
+    "a typical consumer",
+    "consumer behaviour"
+   ]
+  },
+  {
+   "id": "mk014",
+   "topic": "Marketing & quảng cáo",
+   "w": "customer",
+   "ipa": "/ˈkʌstəmə/",
+   "pos": "n",
+   "vi": "khách hàng",
+   "ex": "Loyal customers receive early access to new products.",
+   "exVi": "Khách hàng trung thành được tiếp cận sớm sản phẩm mới.",
+   "col": [
+    "a loyal customer",
+    "customer service"
+   ]
+  },
+  {
+   "id": "mk015",
+   "topic": "Marketing & quảng cáo",
+   "w": "client",
+   "ipa": "/ˈklaɪənt/",
+   "pos": "n",
+   "vi": "khách hàng doanh nghiệp",
+   "ex": "The agency manages several large clients.",
+   "exVi": "Đại lý quản lý vài khách hàng lớn.",
+   "col": [
+    "a major client",
+    "a corporate client"
+   ]
+  },
+  {
+   "id": "mk016",
+   "topic": "Marketing & quảng cáo",
+   "w": "target audience",
+   "ipa": "/ˈtɑːɡɪt ˈɔːdiəns/",
+   "pos": "n",
+   "vi": "đối tượng mục tiêu",
+   "ex": "The ad speaks directly to its target audience.",
+   "exVi": "Quảng cáo nói thẳng với đối tượng mục tiêu.",
+   "col": [
+    "reach the target audience",
+    "a clear target audience"
+   ]
+  },
+  {
+   "id": "mk017",
+   "topic": "Marketing & quảng cáo",
+   "w": "demographic",
+   "ipa": "/ˌdeməˈɡræfɪk/",
+   "pos": "n",
+   "vi": "nhóm nhân khẩu",
+   "ex": "The product appeals to a younger demographic.",
+   "exVi": "Sản phẩm hấp dẫn nhóm nhân khẩu trẻ hơn.",
+   "col": [
+    "a key demographic",
+    "a target demographic"
+   ]
+  },
+  {
+   "id": "mk018",
+   "topic": "Marketing & quảng cáo",
+   "w": "segment",
+   "ipa": "/ˈseɡmənt/",
+   "pos": "n",
+   "vi": "phân khúc",
+   "ex": "The luxury segment grew fastest last year.",
+   "exVi": "Phân khúc cao cấp tăng nhanh nhất năm ngoái.",
+   "col": [
+    "a market segment",
+    "a target segment"
+   ]
+  },
+  {
+   "id": "mk019",
+   "topic": "Marketing & quảng cáo",
+   "w": "niche",
+   "ipa": "/niːʃ/",
+   "pos": "n",
+   "vi": "thị trường ngách",
+   "ex": "The firm found a profitable niche in eco-friendly goods.",
+   "exVi": "Công ty tìm được một thị trường ngách có lãi trong hàng thân thiện môi trường.",
+   "col": [
+    "a market niche",
+    "fill a niche"
+   ]
+  },
+  {
+   "id": "mk020",
+   "topic": "Marketing & quảng cáo",
+   "w": "launch",
+   "ipa": "/lɔːntʃ/",
+   "pos": "n, v",
+   "vi": "ra mắt",
+   "ex": "The product launch was delayed by two weeks.",
+   "exVi": "Việc ra mắt sản phẩm bị hoãn hai tuần.",
+   "col": [
+    "a product launch",
+    "launch a product"
+   ]
+  },
+  {
+   "id": "mk021",
+   "topic": "Marketing & quảng cáo",
+   "w": "rollout",
+   "ipa": "/ˈrəʊlaʊt/",
+   "pos": "n",
+   "vi": "đợt triển khai",
+   "ex": "The nationwide rollout begins in September.",
+   "exVi": "Đợt triển khai toàn quốc bắt đầu vào tháng Chín.",
+   "col": [
+    "a national rollout",
+    "a phased rollout"
+   ]
+  },
+  {
+   "id": "mk022",
+   "topic": "Marketing & quảng cáo",
+   "w": "outreach",
+   "ipa": "/ˈaʊtriːtʃ/",
+   "pos": "n",
+   "vi": "hoạt động tiếp cận",
+   "ex": "Community outreach improved the brand's image.",
+   "exVi": "Hoạt động tiếp cận cộng đồng cải thiện hình ảnh thương hiệu.",
+   "col": [
+    "community outreach",
+    "an outreach program"
+   ]
+  },
+  {
+   "id": "mk023",
+   "topic": "Marketing & quảng cáo",
+   "w": "publicity",
+   "ipa": "/pʌbˈlɪsəti/",
+   "pos": "n",
+   "vi": "sự quảng bá",
+   "ex": "The event generated a lot of positive publicity.",
+   "exVi": "Sự kiện tạo nhiều quảng bá tích cực.",
+   "col": [
+    "good publicity",
+    "seek publicity"
+   ]
+  },
+  {
+   "id": "mk024",
+   "topic": "Marketing & quảng cáo",
+   "w": "endorsement",
+   "ipa": "/ɪnˈdɔːsmənt/",
+   "pos": "n",
+   "vi": "sự chứng thực, ủng hộ",
+   "ex": "A celebrity endorsement lifted the brand's profile.",
+   "exVi": "Sự chứng thực của người nổi tiếng nâng hình ảnh thương hiệu.",
+   "col": [
+    "a celebrity endorsement",
+    "seek an endorsement"
+   ]
+  },
+  {
+   "id": "mk025",
+   "topic": "Marketing & quảng cáo",
+   "w": "testimonial",
+   "ipa": "/ˌtestɪˈməʊniəl/",
+   "pos": "n",
+   "vi": "lời chứng thực của khách",
+   "ex": "Customer testimonials appear on the home page.",
+   "exVi": "Lời chứng thực của khách hiện trên trang chủ.",
+   "col": [
+    "a customer testimonial",
+    "glowing testimonials"
+   ]
+  },
+  {
+   "id": "mk026",
+   "topic": "Marketing & quảng cáo",
+   "w": "questionnaire",
+   "ipa": "/ˌkwestʃəˈneə/",
+   "pos": "n",
+   "vi": "bảng câu hỏi",
+   "ex": "Please complete the short questionnaire after your purchase.",
+   "exVi": "Vui lòng điền bảng câu hỏi ngắn sau khi mua.",
+   "col": [
+    "fill in a questionnaire",
+    "a short questionnaire"
+   ]
+  },
+  {
+   "id": "mk027",
+   "topic": "Marketing & quảng cáo",
+   "w": "incentive",
+   "ipa": "/ɪnˈsentɪv/",
+   "pos": "n",
+   "vi": "ưu đãi khuyến khích",
+   "ex": "A discount is a strong incentive to buy early.",
+   "exVi": "Giảm giá là một ưu đãi mạnh để mua sớm.",
+   "col": [
+    "offer an incentive",
+    "a purchase incentive"
+   ]
+  },
+  {
+   "id": "mk028",
+   "topic": "Marketing & quảng cáo",
+   "w": "discount",
+   "ipa": "/ˈdɪskaʊnt/",
+   "pos": "n",
+   "vi": "giảm giá",
+   "ex": "Members receive a ten percent discount on all items.",
+   "exVi": "Thành viên được giảm mười phần trăm mọi mặt hàng.",
+   "col": [
+    "offer a discount",
+    "a bulk discount"
+   ]
+  },
+  {
+   "id": "mk029",
+   "topic": "Marketing & quảng cáo",
+   "w": "coupon",
+   "ipa": "/ˈkuːpɒn/",
+   "pos": "n",
+   "vi": "phiếu giảm giá",
+   "ex": "Print the coupon to claim the offer in store.",
+   "exVi": "In phiếu giảm giá để nhận ưu đãi tại cửa hàng.",
+   "col": [
+    "a discount coupon",
+    "redeem a coupon"
+   ]
+  },
+  {
+   "id": "mk030",
+   "topic": "Marketing & quảng cáo",
+   "w": "loyalty",
+   "ipa": "/ˈlɔɪəlti/",
+   "pos": "n",
+   "vi": "sự trung thành",
+   "ex": "The loyalty program rewards repeat customers.",
+   "exVi": "Chương trình khách hàng thân thiết thưởng cho khách quay lại.",
+   "col": [
+    "a loyalty program",
+    "brand loyalty"
+   ]
+  },
+  {
+   "id": "mk031",
+   "topic": "Marketing & quảng cáo",
+   "w": "retail",
+   "ipa": "/ˈriːteɪl/",
+   "pos": "n",
+   "vi": "bán lẻ",
+   "ex": "The chain has two hundred retail outlets nationwide.",
+   "exVi": "Chuỗi có hai trăm cửa hàng bán lẻ toàn quốc.",
+   "col": [
+    "a retail outlet",
+    "the retail price"
+   ]
+  },
+  {
+   "id": "mk032",
+   "topic": "Marketing & quảng cáo",
+   "w": "wholesale",
+   "ipa": "/ˈhəʊlseɪl/",
+   "pos": "n",
+   "vi": "bán sỉ",
+   "ex": "Wholesale prices are lower for large orders.",
+   "exVi": "Giá bán sỉ thấp hơn cho đơn hàng lớn.",
+   "col": [
+    "a wholesale price",
+    "buy wholesale"
+   ]
+  },
+  {
+   "id": "mk033",
+   "topic": "Marketing & quảng cáo",
+   "w": "merchandise",
+   "ipa": "/ˈmɜːtʃəndaɪz/",
+   "pos": "n",
+   "vi": "hàng hoá",
+   "ex": "Seasonal merchandise is displayed near the entrance.",
+   "exVi": "Hàng hoá theo mùa được trưng bày gần lối vào.",
+   "col": [
+    "display merchandise",
+    "seasonal merchandise"
+   ]
+  },
+  {
+   "id": "mk034",
+   "topic": "Marketing & quảng cáo",
+   "w": "inventory",
+   "ipa": "/ˈɪnvəntri/",
+   "pos": "n",
+   "vi": "hàng tồn kho",
+   "ex": "The store reduced inventory before the new season.",
+   "exVi": "Cửa hàng giảm hàng tồn kho trước mùa mới.",
+   "col": [
+    "manage inventory",
+    "excess inventory"
+   ]
+  },
+  {
+   "id": "mk035",
+   "topic": "Marketing & quảng cáo",
+   "w": "display",
+   "ipa": "/dɪˈspleɪ/",
+   "pos": "n, v",
+   "vi": "trưng bày",
+   "ex": "A window display drew shoppers into the store.",
+   "exVi": "Một quầy trưng bày ở cửa sổ kéo khách vào cửa hàng.",
+   "col": [
+    "a window display",
+    "on display"
+   ]
+  },
+  {
+   "id": "mk036",
+   "topic": "Marketing & quảng cáo",
+   "w": "outlet",
+   "ipa": "/ˈaʊtlet/",
+   "pos": "n",
+   "vi": "cửa hàng, kênh phân phối",
+   "ex": "The brand opened a new outlet in the mall.",
+   "exVi": "Thương hiệu mở một cửa hàng mới trong trung tâm thương mại.",
+   "col": [
+    "a retail outlet",
+    "a factory outlet"
+   ]
+  },
+  {
+   "id": "mk037",
+   "topic": "Marketing & quảng cáo",
+   "w": "distributor",
+   "ipa": "/dɪˈstrɪbjʊtə/",
+   "pos": "n",
+   "vi": "nhà phân phối",
+   "ex": "A local distributor handles sales in the north.",
+   "exVi": "Một nhà phân phối địa phương lo việc bán ở miền bắc.",
+   "col": [
+    "an authorized distributor",
+    "a sole distributor"
+   ]
+  },
+  {
+   "id": "mk038",
+   "topic": "Marketing & quảng cáo",
+   "w": "wholesaler",
+   "ipa": "/ˈhəʊlseɪlə/",
+   "pos": "n",
+   "vi": "nhà bán sỉ",
+   "ex": "The wholesaler supplies dozens of small shops.",
+   "exVi": "Nhà bán sỉ cung cấp cho hàng chục cửa hàng nhỏ.",
+   "col": [
+    "a major wholesaler",
+    "a food wholesaler"
+   ]
+  },
+  {
+   "id": "mk039",
+   "topic": "Marketing & quảng cáo",
+   "w": "commission",
+   "ipa": "/kəˈmɪʃn/",
+   "pos": "n",
+   "vi": "hoa hồng",
+   "ex": "Sales reps earn a commission on every deal.",
+   "exVi": "Nhân viên bán hàng hưởng hoa hồng trên mỗi thương vụ.",
+   "col": [
+    "earn commission",
+    "a commission rate"
+   ]
+  },
+  {
+   "id": "mk040",
+   "topic": "Marketing & quảng cáo",
+   "w": "turnover",
+   "ipa": "/ˈtɜːnəʊvə/",
+   "pos": "n",
+   "vi": "doanh số",
+   "ex": "Holiday turnover was the highest on record.",
+   "exVi": "Doanh số mùa lễ cao nhất từ trước tới nay.",
+   "col": [
+    "a rise in turnover",
+    "annual turnover"
+   ]
+  },
+  {
+   "id": "mk041",
+   "topic": "Marketing & quảng cáo",
+   "w": "revenue",
+   "ipa": "/ˈrevənjuː/",
+   "pos": "n",
+   "vi": "doanh thu",
+   "ex": "Advertising revenue funds the free service.",
+   "exVi": "Doanh thu quảng cáo tài trợ cho dịch vụ miễn phí.",
+   "col": [
+    "advertising revenue",
+    "generate revenue"
+   ]
+  },
+  {
+   "id": "mk042",
+   "topic": "Marketing & quảng cáo",
+   "w": "profit margin",
+   "ipa": "/ˈprɒfɪt ˈmɑːdʒɪn/",
+   "pos": "n",
+   "vi": "biên lợi nhuận",
+   "ex": "The profit margin improved after costs were cut.",
+   "exVi": "Biên lợi nhuận cải thiện sau khi cắt giảm chi phí.",
+   "col": [
+    "a healthy profit margin",
+    "a thin profit margin"
+   ]
+  },
+  {
+   "id": "mk043",
+   "topic": "Marketing & quảng cáo",
+   "w": "competitor",
+   "ipa": "/kəmˈpetɪtə/",
+   "pos": "n",
+   "vi": "đối thủ cạnh tranh",
+   "ex": "Our main competitor lowered its prices last week.",
+   "exVi": "Đối thủ chính của chúng tôi hạ giá tuần trước.",
+   "col": [
+    "a main competitor",
+    "a direct competitor"
+   ]
+  },
+  {
+   "id": "mk044",
+   "topic": "Marketing & quảng cáo",
+   "w": "competitive",
+   "ipa": "/kəmˈpetətɪv/",
+   "pos": "adj",
+   "vi": "có tính cạnh tranh",
+   "ex": "The company offers very competitive prices.",
+   "exVi": "Công ty đưa ra mức giá rất cạnh tranh.",
+   "col": [
+    "competitive prices",
+    "a competitive market"
+   ]
+  },
+  {
+   "id": "mk045",
+   "topic": "Marketing & quảng cáo",
+   "w": "edge",
+   "ipa": "/edʒ/",
+   "pos": "n",
+   "vi": "lợi thế",
+   "ex": "Fast delivery gives the firm an edge over rivals.",
+   "exVi": "Giao hàng nhanh cho công ty lợi thế trước đối thủ.",
+   "col": [
+    "a competitive edge",
+    "gain an edge"
+   ]
+  },
+  {
+   "id": "mk046",
+   "topic": "Marketing & quảng cáo",
+   "w": "leverage",
+   "ipa": "/ˈliːvərɪdʒ/",
+   "pos": "v",
+   "vi": "tận dụng",
+   "ex": "The brand leveraged social media to reach new buyers.",
+   "exVi": "Thương hiệu tận dụng mạng xã hội để tiếp cận người mua mới.",
+   "col": [
+    "leverage social media",
+    "leverage a strength"
+   ]
+  },
+  {
+   "id": "mk047",
+   "topic": "Marketing & quảng cáo",
+   "w": "positioning",
+   "ipa": "/pəˈzɪʃənɪŋ/",
+   "pos": "n",
+   "vi": "định vị thương hiệu",
+   "ex": "Careful positioning set the product apart from rivals.",
+   "exVi": "Định vị khéo léo giúp sản phẩm khác biệt với đối thủ.",
+   "col": [
+    "brand positioning",
+    "market positioning"
+   ]
+  },
+  {
+   "id": "mk048",
+   "topic": "Marketing & quảng cáo",
+   "w": "awareness",
+   "ipa": "/əˈweənəs/",
+   "pos": "n",
+   "vi": "sự nhận biết",
+   "ex": "The campaign raised awareness of the new service.",
+   "exVi": "Chiến dịch nâng cao sự nhận biết về dịch vụ mới.",
+   "col": [
+    "brand awareness",
+    "raise awareness"
+   ]
+  },
+  {
+   "id": "mk049",
+   "topic": "Marketing & quảng cáo",
+   "w": "launch date",
+   "ipa": "/lɔːntʃ deɪt/",
+   "pos": "n",
+   "vi": "ngày ra mắt",
+   "ex": "The launch date was moved forward to April.",
+   "exVi": "Ngày ra mắt được dời lên tháng Tư.",
+   "col": [
+    "set a launch date",
+    "a firm launch date"
+   ]
+  },
+  {
+   "id": "mk050",
+   "topic": "Marketing & quảng cáo",
+   "w": "prototype",
+   "ipa": "/ˈprəʊtətaɪp/",
+   "pos": "n",
+   "vi": "bản mẫu",
+   "ex": "The design team built a prototype for testing.",
+   "exVi": "Nhóm thiết kế dựng một bản mẫu để thử nghiệm.",
+   "col": [
+    "a working prototype",
+    "test a prototype"
+   ]
+  },
+  {
+   "id": "mk051",
+   "topic": "Marketing & quảng cáo",
+   "w": "feature",
+   "ipa": "/ˈfiːtʃə/",
+   "pos": "n",
+   "vi": "tính năng",
+   "ex": "The new feature makes the app much easier to use.",
+   "exVi": "Tính năng mới khiến ứng dụng dễ dùng hơn nhiều.",
+   "col": [
+    "a key feature",
+    "a new feature"
+   ]
+  },
+  {
+   "id": "mk052",
+   "topic": "Marketing & quảng cáo",
+   "w": "specification",
+   "ipa": "/ˌspesɪfɪˈkeɪʃn/",
+   "pos": "n",
+   "vi": "thông số kỹ thuật",
+   "ex": "The specification lists the exact dimensions.",
+   "exVi": "Bản thông số kỹ thuật liệt kê kích thước chính xác.",
+   "col": [
+    "a technical specification",
+    "meet the specification"
+   ]
+  },
+  {
+   "id": "mk053",
+   "topic": "Marketing & quảng cáo",
+   "w": "packaging",
+   "ipa": "/ˈpækɪdʒɪŋ/",
+   "pos": "n",
+   "vi": "bao bì",
+   "ex": "Eco-friendly packaging appealed to younger buyers.",
+   "exVi": "Bao bì thân thiện môi trường hấp dẫn người mua trẻ.",
+   "col": [
+    "product packaging",
+    "recyclable packaging"
+   ]
+  },
+  {
+   "id": "mk054",
+   "topic": "Marketing & quảng cáo",
+   "w": "label",
+   "ipa": "/ˈleɪbl/",
+   "pos": "n",
+   "vi": "nhãn",
+   "ex": "The label clearly shows the ingredients.",
+   "exVi": "Nhãn hiển thị rõ thành phần.",
+   "col": [
+    "a product label",
+    "read the label"
+   ]
+  },
+  {
+   "id": "mk055",
+   "topic": "Marketing & quảng cáo",
+   "w": "trademark",
+   "ipa": "/ˈtreɪdmɑːk/",
+   "pos": "n",
+   "vi": "nhãn hiệu đăng ký",
+   "ex": "The logo is a registered trademark.",
+   "exVi": "Biểu trưng là một nhãn hiệu đã đăng ký.",
+   "col": [
+    "a registered trademark",
+    "protect a trademark"
+   ]
+  },
+  {
+   "id": "mk056",
+   "topic": "Marketing & quảng cáo",
+   "w": "patent",
+   "ipa": "/ˈpætnt/",
+   "pos": "n",
+   "vi": "bằng sáng chế",
+   "ex": "The firm holds a patent on the design.",
+   "exVi": "Công ty giữ bằng sáng chế cho thiết kế.",
+   "col": [
+    "file a patent",
+    "hold a patent"
+   ]
+  },
+  {
+   "id": "mk057",
+   "topic": "Marketing & quảng cáo",
+   "w": "copyright",
+   "ipa": "/ˈkɒpiraɪt/",
+   "pos": "n",
+   "vi": "bản quyền",
+   "ex": "All the images are protected by copyright.",
+   "exVi": "Mọi hình ảnh đều được bảo vệ bản quyền.",
+   "col": [
+    "hold the copyright",
+    "a copyright notice"
+   ]
+  },
+  {
+   "id": "mk058",
+   "topic": "Marketing & quảng cáo",
+   "w": "license",
+   "ipa": "/ˈlaɪsns/",
+   "pos": "n, v",
+   "vi": "giấy phép; cấp phép",
+   "ex": "The company licensed the technology to a rival.",
+   "exVi": "Công ty cấp phép công nghệ cho một đối thủ.",
+   "col": [
+    "a software license",
+    "license a product"
+   ]
+  },
+  {
+   "id": "mk059",
+   "topic": "Marketing & quảng cáo",
+   "w": "franchise",
+   "ipa": "/ˈfræntʃaɪz/",
+   "pos": "n",
+   "vi": "nhượng quyền",
+   "ex": "The restaurant chain grew through franchise deals.",
+   "exVi": "Chuỗi nhà hàng phát triển qua các hợp đồng nhượng quyền.",
+   "col": [
+    "a franchise agreement",
+    "buy a franchise"
+   ]
+  },
+  {
+   "id": "mk060",
+   "topic": "Marketing & quảng cáo",
+   "w": "retailer",
+   "ipa": "/ˈriːteɪlə/",
+   "pos": "n",
+   "vi": "nhà bán lẻ",
+   "ex": "The retailer stocks over a thousand brands.",
+   "exVi": "Nhà bán lẻ có hơn một nghìn thương hiệu.",
+   "col": [
+    "a major retailer",
+    "an online retailer"
+   ]
+  },
+  {
+   "id": "mk061",
+   "topic": "Marketing & quảng cáo",
+   "w": "supply chain",
+   "ipa": "/səˈplaɪ tʃeɪn/",
+   "pos": "n",
+   "vi": "chuỗi cung ứng",
+   "ex": "A shorter supply chain cut delivery times.",
+   "exVi": "Một chuỗi cung ứng ngắn hơn giảm thời gian giao hàng.",
+   "col": [
+    "the supply chain",
+    "manage the supply chain"
+   ]
+  },
+  {
+   "id": "mk062",
+   "topic": "Marketing & quảng cáo",
+   "w": "demand",
+   "ipa": "/dɪˈmɑːnd/",
+   "pos": "n",
+   "vi": "nhu cầu",
+   "ex": "Demand for the product exceeded all forecasts.",
+   "exVi": "Nhu cầu về sản phẩm vượt mọi dự báo.",
+   "col": [
+    "high demand",
+    "meet demand"
+   ]
+  },
+  {
+   "id": "mk063",
+   "topic": "Marketing & quảng cáo",
+   "w": "supply",
+   "ipa": "/səˈplaɪ/",
+   "pos": "n",
+   "vi": "nguồn cung",
+   "ex": "A shortage of parts limited supply for months.",
+   "exVi": "Thiếu linh kiện làm hạn chế nguồn cung nhiều tháng.",
+   "col": [
+    "supply and demand",
+    "a steady supply"
+   ]
+  },
+  {
+   "id": "mk064",
+   "topic": "Marketing & quảng cáo",
+   "w": "shortage",
+   "ipa": "/ˈʃɔːtɪdʒ/",
+   "pos": "n",
+   "vi": "sự thiếu hụt",
+   "ex": "A chip shortage delayed the whole product line.",
+   "exVi": "Việc thiếu chip làm chậm cả dòng sản phẩm.",
+   "col": [
+    "a shortage of",
+    "a labour shortage"
+   ]
+  },
+  {
+   "id": "mk065",
+   "topic": "Marketing & quảng cáo",
+   "w": "surplus",
+   "ipa": "/ˈsɜːpləs/",
+   "pos": "n",
+   "vi": "dư thừa",
+   "ex": "A surplus of stock led to heavy discounts.",
+   "exVi": "Hàng dư thừa dẫn tới giảm giá mạnh.",
+   "col": [
+    "a surplus of",
+    "a stock surplus"
+   ]
+  },
+  {
+   "id": "mk066",
+   "topic": "Marketing & quảng cáo",
+   "w": "forecast",
+   "ipa": "/ˈfɔːkɑːst/",
+   "pos": "n",
+   "vi": "dự báo",
+   "ex": "The sales forecast was revised upward twice.",
+   "exVi": "Dự báo doanh số được điều chỉnh tăng hai lần.",
+   "col": [
+    "a sales forecast",
+    "an annual forecast"
+   ]
+  },
+  {
+   "id": "mk067",
+   "topic": "Marketing & quảng cáo",
+   "w": "trend",
+   "ipa": "/trend/",
+   "pos": "n",
+   "vi": "xu hướng",
+   "ex": "The report identifies three key buying trends.",
+   "exVi": "Báo cáo chỉ ra ba xu hướng mua sắm chính.",
+   "col": [
+    "a market trend",
+    "a current trend"
+   ]
+  },
+  {
+   "id": "mk068",
+   "topic": "Marketing & quảng cáo",
+   "w": "insight",
+   "ipa": "/ˈɪnsaɪt/",
+   "pos": "n",
+   "vi": "thông tin sâu sắc",
+   "ex": "Data gives useful insight into buyer behaviour.",
+   "exVi": "Dữ liệu cho thông tin sâu sắc về hành vi người mua.",
+   "col": [
+    "a valuable insight",
+    "gain insight"
+   ]
+  },
+  {
+   "id": "mk069",
+   "topic": "Marketing & quảng cáo",
+   "w": "analytics",
+   "ipa": "/ˌænəˈlɪtɪks/",
+   "pos": "n",
+   "vi": "phân tích dữ liệu",
+   "ex": "Web analytics show where visitors drop off.",
+   "exVi": "Phân tích web cho thấy khách rời trang ở đâu.",
+   "col": [
+    "web analytics",
+    "use analytics"
+   ]
+  },
+  {
+   "id": "mk070",
+   "topic": "Marketing & quảng cáo",
+   "w": "metrics",
+   "ipa": "/ˈmetrɪks/",
+   "pos": "n",
+   "vi": "chỉ số đo lường",
+   "ex": "The team tracks several metrics each week.",
+   "exVi": "Nhóm theo dõi vài chỉ số mỗi tuần.",
+   "col": [
+    "key metrics",
+    "track metrics"
+   ]
+  },
+  {
+   "id": "mk071",
+   "topic": "Marketing & quảng cáo",
+   "w": "conversion",
+   "ipa": "/kənˈvɜːʃn/",
+   "pos": "n",
+   "vi": "tỷ lệ chuyển đổi",
+   "ex": "A clearer page raised the conversion rate.",
+   "exVi": "Một trang rõ ràng hơn nâng tỷ lệ chuyển đổi.",
+   "col": [
+    "a conversion rate",
+    "improve conversion"
+   ]
+  },
+  {
+   "id": "mk072",
+   "topic": "Marketing & quảng cáo",
+   "w": "engagement",
+   "ipa": "/ɪnˈɡeɪdʒmənt/",
+   "pos": "n",
+   "vi": "mức độ tương tác",
+   "ex": "Social media engagement doubled after the video.",
+   "exVi": "Tương tác trên mạng xã hội tăng gấp đôi sau video.",
+   "col": [
+    "customer engagement",
+    "high engagement"
+   ]
+  },
+  {
+   "id": "mk073",
+   "topic": "Marketing & quảng cáo",
+   "w": "subscriber",
+   "ipa": "/səbˈskraɪbə/",
+   "pos": "n",
+   "vi": "người đăng ký",
+   "ex": "The newsletter has thirty thousand subscribers.",
+   "exVi": "Bản tin có ba mươi nghìn người đăng ký.",
+   "col": [
+    "a new subscriber",
+    "gain subscribers"
+   ]
+  },
+  {
+   "id": "mk074",
+   "topic": "Marketing & quảng cáo",
+   "w": "subscription",
+   "ipa": "/səbˈskrɪpʃn/",
+   "pos": "n",
+   "vi": "gói đăng ký",
+   "ex": "A monthly subscription includes free delivery.",
+   "exVi": "Gói đăng ký hằng tháng gồm cả giao hàng miễn phí.",
+   "col": [
+    "a monthly subscription",
+    "cancel a subscription"
+   ]
+  },
+  {
+   "id": "mk075",
+   "topic": "Marketing & quảng cáo",
+   "w": "retention",
+   "ipa": "/rɪˈtenʃn/",
+   "pos": "n",
+   "vi": "việc giữ chân khách",
+   "ex": "Customer retention matters more than new sign-ups.",
+   "exVi": "Việc giữ chân khách quan trọng hơn lượng đăng ký mới.",
+   "col": [
+    "customer retention",
+    "a retention rate"
+   ]
+  },
+  {
+   "id": "mk076",
+   "topic": "Marketing & quảng cáo",
+   "w": "referral",
+   "ipa": "/rɪˈfɜːrəl/",
+   "pos": "n",
+   "vi": "sự giới thiệu",
+   "ex": "Many new clients come through referrals.",
+   "exVi": "Nhiều khách mới tới qua giới thiệu.",
+   "col": [
+    "a referral program",
+    "a customer referral"
+   ]
+  },
+  {
+   "id": "mk077",
+   "topic": "Marketing & quảng cáo",
+   "w": "word of mouth",
+   "ipa": "/ˌwɜːd əv ˈmaʊθ/",
+   "pos": "n",
+   "vi": "truyền miệng",
+   "ex": "The shop grew mainly by word of mouth.",
+   "exVi": "Cửa hàng phát triển chủ yếu nhờ truyền miệng.",
+   "col": [
+    "by word of mouth",
+    "positive word of mouth"
+   ]
+  },
+  {
+   "id": "mk078",
+   "topic": "Marketing & quảng cáo",
+   "w": "influencer",
+   "ipa": "/ˈɪnfluənsə/",
+   "pos": "n",
+   "vi": "người ảnh hưởng",
+   "ex": "An influencer featured the product in a video.",
+   "exVi": "Một người ảnh hưởng giới thiệu sản phẩm trong video.",
+   "col": [
+    "a social media influencer",
+    "a top influencer"
+   ]
+  },
+  {
+   "id": "mk079",
+   "topic": "Marketing & quảng cáo",
+   "w": "sponsor",
+   "ipa": "/ˈspɒnsə/",
+   "pos": "n, v",
+   "vi": "nhà tài trợ; tài trợ",
+   "ex": "A local bank sponsored the sports event.",
+   "exVi": "Một ngân hàng địa phương tài trợ sự kiện thể thao.",
+   "col": [
+    "a main sponsor",
+    "sponsor an event"
+   ]
+  },
+  {
+   "id": "mk080",
+   "topic": "Marketing & quảng cáo",
+   "w": "sponsorship",
+   "ipa": "/ˈspɒnsəʃɪp/",
+   "pos": "n",
+   "vi": "sự tài trợ",
+   "ex": "The sponsorship deal runs for three years.",
+   "exVi": "Hợp đồng tài trợ kéo dài ba năm.",
+   "col": [
+    "a sponsorship deal",
+    "seek sponsorship"
+   ]
+  },
+  {
+   "id": "mk081",
+   "topic": "Marketing & quảng cáo",
+   "w": "billboard",
+   "ipa": "/ˈbɪlbɔːd/",
+   "pos": "n",
+   "vi": "biển quảng cáo lớn",
+   "ex": "A billboard near the highway drew attention.",
+   "exVi": "Một biển quảng cáo gần đường cao tốc thu hút chú ý.",
+   "col": [
+    "a roadside billboard",
+    "a digital billboard"
+   ]
+  },
+  {
+   "id": "mk082",
+   "topic": "Marketing & quảng cáo",
+   "w": "commercial",
+   "ipa": "/kəˈmɜːʃl/",
+   "pos": "n",
+   "vi": "đoạn quảng cáo",
+   "ex": "The commercial airs during the evening news.",
+   "exVi": "Đoạn quảng cáo phát trong bản tin buổi tối.",
+   "col": [
+    "a television commercial",
+    "a radio commercial"
+   ]
+  },
+  {
+   "id": "mk083",
+   "topic": "Marketing & quảng cáo",
+   "w": "flyer",
+   "ipa": "/ˈflaɪə/",
+   "pos": "n",
+   "vi": "tờ rơi",
+   "ex": "Staff handed out flyers outside the station.",
+   "exVi": "Nhân viên phát tờ rơi bên ngoài ga.",
+   "col": [
+    "hand out flyers",
+    "a promotional flyer"
+   ]
+  },
+  {
+   "id": "mk084",
+   "topic": "Marketing & quảng cáo",
+   "w": "leaflet",
+   "ipa": "/ˈliːflət/",
+   "pos": "n",
+   "vi": "tờ gấp quảng cáo",
+   "ex": "A leaflet explains the loyalty scheme.",
+   "exVi": "Một tờ gấp giải thích chương trình khách hàng thân thiết.",
+   "col": [
+    "a promotional leaflet",
+    "distribute leaflets"
+   ]
+  },
+  {
+   "id": "mk085",
+   "topic": "Marketing & quảng cáo",
+   "w": "catalog",
+   "ipa": "/ˈkætəlɒɡ/",
+   "pos": "n",
+   "vi": "danh mục sản phẩm",
+   "ex": "The spring catalog features fifty new items.",
+   "exVi": "Danh mục mùa xuân có năm mươi mặt hàng mới.",
+   "col": [
+    "a product catalog",
+    "a mail-order catalog"
+   ]
+  },
+  {
+   "id": "mk086",
+   "topic": "Marketing & quảng cáo",
+   "w": "showcase",
+   "ipa": "/ˈʃəʊkeɪs/",
+   "pos": "v",
+   "vi": "giới thiệu, phô diễn",
+   "ex": "The fair lets small firms showcase their products.",
+   "exVi": "Hội chợ cho các công ty nhỏ giới thiệu sản phẩm.",
+   "col": [
+    "showcase a product",
+    "showcase talent"
+   ]
+  },
+  {
+   "id": "mk087",
+   "topic": "Marketing & quảng cáo",
+   "w": "unveil",
+   "ipa": "/ʌnˈveɪl/",
+   "pos": "v",
+   "vi": "công bố",
+   "ex": "The company unveiled its new model at the show.",
+   "exVi": "Công ty công bố mẫu mới tại triển lãm.",
+   "col": [
+    "unveil a product",
+    "unveil a plan"
+   ]
+  },
+  {
+   "id": "mk088",
+   "topic": "Marketing & quảng cáo",
+   "w": "appeal",
+   "ipa": "/əˈpiːl/",
+   "pos": "n, v",
+   "vi": "sự hấp dẫn",
+   "ex": "The design has broad appeal across age groups.",
+   "exVi": "Thiết kế có sức hấp dẫn rộng qua nhiều nhóm tuổi.",
+   "col": [
+    "broad appeal",
+    "have appeal"
+   ]
+  },
+  {
+   "id": "mk089",
+   "topic": "Marketing & quảng cáo",
+   "w": "persuade",
+   "ipa": "/pəˈsweɪd/",
+   "pos": "v",
+   "vi": "thuyết phục",
+   "ex": "Good reviews persuade cautious buyers to try it.",
+   "exVi": "Đánh giá tốt thuyết phục người mua thận trọng thử.",
+   "col": [
+    "persuade customers",
+    "hard to persuade"
+   ]
+  },
+  {
+   "id": "mk090",
+   "topic": "Marketing & quảng cáo",
+   "w": "tagline",
+   "ipa": "/ˈtæɡlaɪn/",
+   "pos": "n",
+   "vi": "câu chốt quảng cáo",
+   "ex": "The tagline sums up the brand in five words.",
+   "exVi": "Câu chốt tóm tắt thương hiệu trong năm từ.",
+   "col": [
+    "a memorable tagline",
+    "a brand tagline"
+   ]
+  },
+  {
+   "id": "mk091",
+   "topic": "Marketing & quảng cáo",
+   "w": "mailshot",
+   "ipa": "/ˈmeɪlʃɒt/",
+   "pos": "n",
+   "vi": "đợt gửi thư quảng cáo hàng loạt",
+   "ex": "A mailshot reached ten thousand households.",
+   "exVi": "Một đợt gửi thư quảng cáo tới mười nghìn hộ gia đình.",
+   "col": [
+    "send a mailshot",
+    "a targeted mailshot"
+   ]
+  },
+  {
+   "id": "mk092",
+   "topic": "Marketing & quảng cáo",
+   "w": "upmarket",
+   "ipa": "/ˌʌpˈmɑːkɪt/",
+   "pos": "adj",
+   "vi": "thuộc phân khúc cao cấp",
+   "ex": "The brand moved upmarket with a premium line.",
+   "exVi": "Thương hiệu chuyển lên cao cấp với một dòng hạng sang.",
+   "col": [
+    "go upmarket",
+    "an upmarket product"
+   ]
+  },
+  {
+   "id": "mk093",
+   "topic": "Marketing & quảng cáo",
+   "w": "mass market",
+   "ipa": "/mæs ˈmɑːkɪt/",
+   "pos": "n",
+   "vi": "thị trường đại chúng",
+   "ex": "The cheaper version targets the mass market.",
+   "exVi": "Phiên bản rẻ hơn nhắm tới thị trường đại chúng.",
+   "col": [
+    "the mass market",
+    "a mass-market product"
+   ]
+  },
+  {
+   "id": "mk094",
+   "topic": "Marketing & quảng cáo",
+   "w": "saturate",
+   "ipa": "/ˈsætʃəreɪt/",
+   "pos": "v",
+   "vi": "bão hoà",
+   "ex": "Cheap imports have saturated the market.",
+   "exVi": "Hàng nhập giá rẻ đã làm bão hoà thị trường.",
+   "col": [
+    "saturate the market",
+    "a saturated market"
+   ]
+  },
+  {
+   "id": "mk095",
+   "topic": "Marketing & quảng cáo",
+   "w": "lucrative",
+   "ipa": "/ˈluːkrətɪv/",
+   "pos": "adj",
+   "vi": "sinh lời cao",
+   "ex": "The overseas contract proved highly lucrative.",
+   "exVi": "Hợp đồng nước ngoài tỏ ra sinh lời cao.",
+   "col": [
+    "a lucrative deal",
+    "a lucrative market"
+   ]
+  }
+ ]
+}

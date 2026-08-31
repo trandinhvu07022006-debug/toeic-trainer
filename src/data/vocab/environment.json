@@ -1,0 +1,1293 @@
+{
+ "topic": "Môi trường & năng lượng",
+ "words": [
+  {
+   "id": "en001",
+   "topic": "Môi trường & năng lượng",
+   "w": "environment",
+   "ipa": "/ɪnˈvaɪrənmənt/",
+   "pos": "n",
+   "vi": "môi trường",
+   "ex": "The firm aims to protect the local environment.",
+   "exVi": "Công ty hướng tới bảo vệ môi trường địa phương.",
+   "col": [
+    "protect the environment",
+    "a clean environment"
+   ]
+  },
+  {
+   "id": "en002",
+   "topic": "Môi trường & năng lượng",
+   "w": "sustainable",
+   "ipa": "/səˈsteɪnəbl/",
+   "pos": "adj",
+   "vi": "bền vững",
+   "ex": "The company follows sustainable business practices.",
+   "exVi": "Công ty theo các thực hành kinh doanh bền vững.",
+   "col": [
+    "sustainable development",
+    "a sustainable source"
+   ]
+  },
+  {
+   "id": "en003",
+   "topic": "Môi trường & năng lượng",
+   "w": "sustainability",
+   "ipa": "/səˌsteɪnəˈbɪləti/",
+   "pos": "n",
+   "vi": "tính bền vững",
+   "ex": "Sustainability is now a key part of the strategy.",
+   "exVi": "Tính bền vững nay là phần cốt lõi của chiến lược.",
+   "col": [
+    "environmental sustainability",
+    "a sustainability report"
+   ]
+  },
+  {
+   "id": "en004",
+   "topic": "Môi trường & năng lượng",
+   "w": "renewable",
+   "ipa": "/rɪˈnjuːəbl/",
+   "pos": "adj",
+   "vi": "có thể tái tạo",
+   "ex": "Renewable energy powers the whole factory.",
+   "exVi": "Năng lượng tái tạo cung cấp điện cho cả nhà máy.",
+   "col": [
+    "renewable energy",
+    "a renewable source"
+   ]
+  },
+  {
+   "id": "en005",
+   "topic": "Môi trường & năng lượng",
+   "w": "emission",
+   "ipa": "/ɪˈmɪʃn/",
+   "pos": "n",
+   "vi": "khí thải",
+   "ex": "The plant cut its carbon emissions by half.",
+   "exVi": "Nhà máy giảm một nửa lượng khí thải các-bon.",
+   "col": [
+    "carbon emissions",
+    "reduce emissions"
+   ]
+  },
+  {
+   "id": "en006",
+   "topic": "Môi trường & năng lượng",
+   "w": "pollution",
+   "ipa": "/pəˈluːʃn/",
+   "pos": "n",
+   "vi": "ô nhiễm",
+   "ex": "New filters reduced air pollution near the site.",
+   "exVi": "Bộ lọc mới giảm ô nhiễm không khí gần khu vực.",
+   "col": [
+    "air pollution",
+    "reduce pollution"
+   ]
+  },
+  {
+   "id": "en007",
+   "topic": "Môi trường & năng lượng",
+   "w": "pollutant",
+   "ipa": "/pəˈluːtənt/",
+   "pos": "n",
+   "vi": "chất gây ô nhiễm",
+   "ex": "The river was tested for common pollutants.",
+   "exVi": "Con sông được kiểm tra các chất gây ô nhiễm thường gặp.",
+   "col": [
+    "a harmful pollutant",
+    "an industrial pollutant"
+   ]
+  },
+  {
+   "id": "en008",
+   "topic": "Môi trường & năng lượng",
+   "w": "contamination",
+   "ipa": "/kənˌtæmɪˈneɪʃn/",
+   "pos": "n",
+   "vi": "sự nhiễm bẩn",
+   "ex": "Contamination of the water supply was quickly contained.",
+   "exVi": "Sự nhiễm bẩn nguồn nước được khống chế nhanh.",
+   "col": [
+    "water contamination",
+    "prevent contamination"
+   ]
+  },
+  {
+   "id": "en009",
+   "topic": "Môi trường & năng lượng",
+   "w": "conservation",
+   "ipa": "/ˌkɒnsəˈveɪʃn/",
+   "pos": "n",
+   "vi": "bảo tồn",
+   "ex": "The company supports a local conservation project.",
+   "exVi": "Công ty ủng hộ một dự án bảo tồn địa phương.",
+   "col": [
+    "energy conservation",
+    "wildlife conservation"
+   ]
+  },
+  {
+   "id": "en010",
+   "topic": "Môi trường & năng lượng",
+   "w": "conserve",
+   "ipa": "/kənˈsɜːv/",
+   "pos": "v",
+   "vi": "bảo tồn, tiết kiệm",
+   "ex": "Simple habits help conserve energy at work.",
+   "exVi": "Những thói quen đơn giản giúp tiết kiệm năng lượng tại nơi làm.",
+   "col": [
+    "conserve energy",
+    "conserve water"
+   ]
+  },
+  {
+   "id": "en011",
+   "topic": "Môi trường & năng lượng",
+   "w": "recycle",
+   "ipa": "/ˌriːˈsaɪkl/",
+   "pos": "v",
+   "vi": "tái chế",
+   "ex": "Staff are asked to recycle paper and plastic.",
+   "exVi": "Nhân viên được yêu cầu tái chế giấy và nhựa.",
+   "col": [
+    "recycle waste",
+    "recycle materials"
+   ]
+  },
+  {
+   "id": "en012",
+   "topic": "Môi trường & năng lượng",
+   "w": "recycling",
+   "ipa": "/ˌriːˈsaɪklɪŋ/",
+   "pos": "n",
+   "vi": "việc tái chế",
+   "ex": "The recycling programme cut waste by a third.",
+   "exVi": "Chương trình tái chế giảm rác thải một phần ba.",
+   "col": [
+    "a recycling programme",
+    "recycling bins"
+   ]
+  },
+  {
+   "id": "en013",
+   "topic": "Môi trường & năng lượng",
+   "w": "waste",
+   "ipa": "/weɪst/",
+   "pos": "n",
+   "vi": "chất thải",
+   "ex": "The factory reduced its waste output sharply.",
+   "exVi": "Nhà máy giảm mạnh lượng chất thải.",
+   "col": [
+    "reduce waste",
+    "industrial waste"
+   ]
+  },
+  {
+   "id": "en014",
+   "topic": "Môi trường & năng lượng",
+   "w": "landfill",
+   "ipa": "/ˈlændfɪl/",
+   "pos": "n",
+   "vi": "bãi chôn lấp",
+   "ex": "Less packaging means less landfill.",
+   "exVi": "Ít bao bì đồng nghĩa ít rác chôn lấp.",
+   "col": [
+    "a landfill site",
+    "go to landfill"
+   ]
+  },
+  {
+   "id": "en015",
+   "topic": "Môi trường & năng lượng",
+   "w": "disposal",
+   "ipa": "/dɪˈspəʊzl/",
+   "pos": "n",
+   "vi": "việc xử lý chất thải",
+   "ex": "Safe disposal of chemicals is strictly controlled.",
+   "exVi": "Việc xử lý hoá chất an toàn được kiểm soát chặt.",
+   "col": [
+    "waste disposal",
+    "safe disposal"
+   ]
+  },
+  {
+   "id": "en016",
+   "topic": "Môi trường & năng lượng",
+   "w": "biodegradable",
+   "ipa": "/ˌbaɪəʊdɪˈɡreɪdəbl/",
+   "pos": "adj",
+   "vi": "có thể phân huỷ sinh học",
+   "ex": "The new packaging is fully biodegradable.",
+   "exVi": "Bao bì mới có thể phân huỷ sinh học hoàn toàn.",
+   "col": [
+    "biodegradable packaging",
+    "a biodegradable material"
+   ]
+  },
+  {
+   "id": "en017",
+   "topic": "Môi trường & năng lượng",
+   "w": "carbon footprint",
+   "ipa": "/ˈkɑːbən ˈfʊtprɪnt/",
+   "pos": "n",
+   "vi": "dấu chân các-bon",
+   "ex": "The firm measured its carbon footprint for the first time.",
+   "exVi": "Công ty lần đầu đo dấu chân các-bon của mình.",
+   "col": [
+    "a carbon footprint",
+    "reduce a carbon footprint"
+   ]
+  },
+  {
+   "id": "en018",
+   "topic": "Môi trường & năng lượng",
+   "w": "greenhouse gas",
+   "ipa": "/ˈɡriːnhaʊs ɡæs/",
+   "pos": "n",
+   "vi": "khí nhà kính",
+   "ex": "Factories are cutting greenhouse gas output.",
+   "exVi": "Các nhà máy đang cắt giảm lượng khí nhà kính.",
+   "col": [
+    "greenhouse gas emissions",
+    "reduce greenhouse gas"
+   ]
+  },
+  {
+   "id": "en019",
+   "topic": "Môi trường & năng lượng",
+   "w": "efficiency",
+   "ipa": "/ɪˈfɪʃnsi/",
+   "pos": "n",
+   "vi": "hiệu quả",
+   "ex": "Energy efficiency lowered the monthly bills.",
+   "exVi": "Hiệu quả năng lượng giảm hoá đơn hằng tháng.",
+   "col": [
+    "energy efficiency",
+    "improve efficiency"
+   ]
+  },
+  {
+   "id": "en020",
+   "topic": "Môi trường & năng lượng",
+   "w": "insulation",
+   "ipa": "/ˌɪnsjuˈleɪʃn/",
+   "pos": "n",
+   "vi": "cách nhiệt",
+   "ex": "Better insulation cut the heating costs.",
+   "exVi": "Cách nhiệt tốt hơn giảm chi phí sưởi.",
+   "col": [
+    "thermal insulation",
+    "install insulation"
+   ]
+  },
+  {
+   "id": "en021",
+   "topic": "Môi trường & năng lượng",
+   "w": "solar",
+   "ipa": "/ˈsəʊlə/",
+   "pos": "adj",
+   "vi": "thuộc năng lượng mặt trời",
+   "ex": "Solar panels cover the whole warehouse roof.",
+   "exVi": "Tấm pin mặt trời phủ kín mái nhà kho.",
+   "col": [
+    "solar power",
+    "solar panels"
+   ]
+  },
+  {
+   "id": "en022",
+   "topic": "Môi trường & năng lượng",
+   "w": "wind",
+   "ipa": "/wɪnd/",
+   "pos": "n",
+   "vi": "gió",
+   "ex": "A wind farm supplies power to the town.",
+   "exVi": "Một trang trại gió cung cấp điện cho thị trấn.",
+   "col": [
+    "wind power",
+    "a wind farm"
+   ]
+  },
+  {
+   "id": "en023",
+   "topic": "Môi trường & năng lượng",
+   "w": "hydro",
+   "ipa": "/ˈhaɪdrəʊ/",
+   "pos": "adj",
+   "vi": "thuộc thuỷ điện",
+   "ex": "The region relies on hydro power from the dam.",
+   "exVi": "Vùng này dựa vào thuỷ điện từ đập.",
+   "col": [
+    "hydro power",
+    "a hydro plant"
+   ]
+  },
+  {
+   "id": "en024",
+   "topic": "Môi trường & năng lượng",
+   "w": "turbine",
+   "ipa": "/ˈtɜːbaɪn/",
+   "pos": "n",
+   "vi": "tua-bin",
+   "ex": "Each turbine powers hundreds of homes.",
+   "exVi": "Mỗi tua-bin cung cấp điện cho hàng trăm hộ.",
+   "col": [
+    "a wind turbine",
+    "a steam turbine"
+   ]
+  },
+  {
+   "id": "en025",
+   "topic": "Môi trường & năng lượng",
+   "w": "panel",
+   "ipa": "/ˈpænl/",
+   "pos": "n",
+   "vi": "tấm pin",
+   "ex": "Solar panels were fitted on the roof last year.",
+   "exVi": "Tấm pin mặt trời được lắp trên mái năm ngoái.",
+   "col": [
+    "a solar panel",
+    "install panels"
+   ]
+  },
+  {
+   "id": "en026",
+   "topic": "Môi trường & năng lượng",
+   "w": "grid",
+   "ipa": "/ɡrɪd/",
+   "pos": "n",
+   "vi": "lưới điện",
+   "ex": "Surplus power is sold back to the grid.",
+   "exVi": "Điện dư được bán lại cho lưới điện.",
+   "col": [
+    "the power grid",
+    "connect to the grid"
+   ]
+  },
+  {
+   "id": "en027",
+   "topic": "Môi trường & năng lượng",
+   "w": "consumption",
+   "ipa": "/kənˈsʌmpʃn/",
+   "pos": "n",
+   "vi": "mức tiêu thụ",
+   "ex": "Energy consumption fell after the upgrade.",
+   "exVi": "Mức tiêu thụ năng lượng giảm sau khi nâng cấp.",
+   "col": [
+    "energy consumption",
+    "reduce consumption"
+   ]
+  },
+  {
+   "id": "en028",
+   "topic": "Môi trường & năng lượng",
+   "w": "resource",
+   "ipa": "/rɪˈsɔːs/",
+   "pos": "n",
+   "vi": "tài nguyên",
+   "ex": "The firm uses natural resources carefully.",
+   "exVi": "Công ty sử dụng tài nguyên thiên nhiên cẩn thận.",
+   "col": [
+    "natural resources",
+    "a scarce resource"
+   ]
+  },
+  {
+   "id": "en029",
+   "topic": "Môi trường & năng lượng",
+   "w": "fossil fuel",
+   "ipa": "/ˈfɒsl fjuːəl/",
+   "pos": "n",
+   "vi": "nhiên liệu hoá thạch",
+   "ex": "The plant is moving away from fossil fuels.",
+   "exVi": "Nhà máy đang chuyển khỏi nhiên liệu hoá thạch.",
+   "col": [
+    "fossil fuels",
+    "burn fossil fuel"
+   ]
+  },
+  {
+   "id": "en030",
+   "topic": "Môi trường & năng lượng",
+   "w": "fuel",
+   "ipa": "/fjuːəl/",
+   "pos": "n",
+   "vi": "nhiên liệu",
+   "ex": "Fuel costs rose sharply over the winter.",
+   "exVi": "Chi phí nhiên liệu tăng mạnh trong mùa đông.",
+   "col": [
+    "fuel costs",
+    "save fuel"
+   ]
+  },
+  {
+   "id": "en031",
+   "topic": "Môi trường & năng lượng",
+   "w": "efficient",
+   "ipa": "/ɪˈfɪʃnt/",
+   "pos": "adj",
+   "vi": "hiệu quả",
+   "ex": "The new boiler is far more efficient.",
+   "exVi": "Nồi hơi mới hiệu quả hơn nhiều.",
+   "col": [
+    "energy efficient",
+    "a fuel-efficient engine"
+   ]
+  },
+  {
+   "id": "en032",
+   "topic": "Môi trường & năng lượng",
+   "w": "retrofit",
+   "ipa": "/ˈretrəʊfɪt/",
+   "pos": "v",
+   "vi": "cải tiến trang bị",
+   "ex": "The office was retrofitted with LED lighting.",
+   "exVi": "Văn phòng được cải tiến trang bị đèn LED.",
+   "col": [
+    "retrofit a building",
+    "an energy retrofit"
+   ]
+  },
+  {
+   "id": "en033",
+   "topic": "Môi trường & năng lượng",
+   "w": "compliance",
+   "ipa": "/kəmˈplaɪəns/",
+   "pos": "n",
+   "vi": "sự tuân thủ",
+   "ex": "The plant passed its environmental compliance check.",
+   "exVi": "Nhà máy vượt qua kiểm tra tuân thủ môi trường.",
+   "col": [
+    "environmental compliance",
+    "ensure compliance"
+   ]
+  },
+  {
+   "id": "en034",
+   "topic": "Môi trường & năng lượng",
+   "w": "regulation",
+   "ipa": "/ˌreɡjuˈleɪʃn/",
+   "pos": "n",
+   "vi": "quy định",
+   "ex": "Strict regulations limit factory emissions.",
+   "exVi": "Các quy định nghiêm ngặt giới hạn khí thải nhà máy.",
+   "col": [
+    "environmental regulation",
+    "comply with regulations"
+   ]
+  },
+  {
+   "id": "en035",
+   "topic": "Môi trường & năng lượng",
+   "w": "initiative",
+   "ipa": "/ɪˈnɪʃətɪv/",
+   "pos": "n",
+   "vi": "sáng kiến",
+   "ex": "A green initiative cut office waste sharply.",
+   "exVi": "Một sáng kiến xanh giảm mạnh rác văn phòng.",
+   "col": [
+    "a green initiative",
+    "launch an initiative"
+   ]
+  },
+  {
+   "id": "en036",
+   "topic": "Môi trường & năng lượng",
+   "w": "offset",
+   "ipa": "/ˈɒfset/",
+   "pos": "v",
+   "vi": "bù đắp",
+   "ex": "The firm plants trees to offset its emissions.",
+   "exVi": "Công ty trồng cây để bù đắp lượng khí thải.",
+   "col": [
+    "offset emissions",
+    "carbon offset"
+   ]
+  },
+  {
+   "id": "en037",
+   "topic": "Môi trường & năng lượng",
+   "w": "audit",
+   "ipa": "/ˈɔːdɪt/",
+   "pos": "n",
+   "vi": "kiểm toán",
+   "ex": "An energy audit found several areas to improve.",
+   "exVi": "Một cuộc kiểm toán năng lượng tìm ra vài chỗ cần cải thiện.",
+   "col": [
+    "an energy audit",
+    "conduct an audit"
+   ]
+  },
+  {
+   "id": "en038",
+   "topic": "Môi trường & năng lượng",
+   "w": "depletion",
+   "ipa": "/dɪˈpliːʃn/",
+   "pos": "n",
+   "vi": "sự cạn kiệt",
+   "ex": "Resource depletion threatens future supplies.",
+   "exVi": "Sự cạn kiệt tài nguyên đe doạ nguồn cung tương lai.",
+   "col": [
+    "resource depletion",
+    "ozone depletion"
+   ]
+  },
+  {
+   "id": "en039",
+   "topic": "Môi trường & năng lượng",
+   "w": "scarcity",
+   "ipa": "/ˈskeəsəti/",
+   "pos": "n",
+   "vi": "sự khan hiếm",
+   "ex": "Water scarcity is a growing concern in the region.",
+   "exVi": "Sự khan hiếm nước là mối lo ngày càng lớn trong vùng.",
+   "col": [
+    "water scarcity",
+    "a scarcity of"
+   ]
+  },
+  {
+   "id": "en040",
+   "topic": "Môi trường & năng lượng",
+   "w": "habitat",
+   "ipa": "/ˈhæbɪtæt/",
+   "pos": "n",
+   "vi": "môi trường sống",
+   "ex": "The project protects the habitat of local birds.",
+   "exVi": "Dự án bảo vệ môi trường sống của loài chim địa phương.",
+   "col": [
+    "a natural habitat",
+    "protect a habitat"
+   ]
+  },
+  {
+   "id": "en041",
+   "topic": "Môi trường & năng lượng",
+   "w": "ecosystem",
+   "ipa": "/ˈiːkəʊsɪstəm/",
+   "pos": "n",
+   "vi": "hệ sinh thái",
+   "ex": "The wetland ecosystem supports many species.",
+   "exVi": "Hệ sinh thái đầm lầy nuôi dưỡng nhiều loài.",
+   "col": [
+    "a fragile ecosystem",
+    "protect an ecosystem"
+   ]
+  },
+  {
+   "id": "en042",
+   "topic": "Môi trường & năng lượng",
+   "w": "biodiversity",
+   "ipa": "/ˌbaɪəʊdaɪˈvɜːsəti/",
+   "pos": "n",
+   "vi": "đa dạng sinh học",
+   "ex": "The reserve is rich in biodiversity.",
+   "exVi": "Khu bảo tồn giàu đa dạng sinh học.",
+   "col": [
+    "protect biodiversity",
+    "rich biodiversity"
+   ]
+  },
+  {
+   "id": "en043",
+   "topic": "Môi trường & năng lượng",
+   "w": "deforestation",
+   "ipa": "/ˌdiːfɒrɪˈsteɪʃn/",
+   "pos": "n",
+   "vi": "nạn phá rừng",
+   "ex": "Deforestation has slowed in the protected area.",
+   "exVi": "Nạn phá rừng đã chậm lại ở khu vực được bảo vệ.",
+   "col": [
+    "prevent deforestation",
+    "widespread deforestation"
+   ]
+  },
+  {
+   "id": "en044",
+   "topic": "Môi trường & năng lượng",
+   "w": "degradation",
+   "ipa": "/ˌdeɡrəˈdeɪʃn/",
+   "pos": "n",
+   "vi": "sự suy thoái",
+   "ex": "Soil degradation reduced the harvest.",
+   "exVi": "Sự suy thoái đất làm giảm mùa màng.",
+   "col": [
+    "environmental degradation",
+    "soil degradation"
+   ]
+  },
+  {
+   "id": "en045",
+   "topic": "Môi trường & năng lượng",
+   "w": "sewage",
+   "ipa": "/ˈsuːɪdʒ/",
+   "pos": "n",
+   "vi": "nước thải",
+   "ex": "The sewage is treated before it reaches the river.",
+   "exVi": "Nước thải được xử lý trước khi ra sông.",
+   "col": [
+    "sewage treatment",
+    "raw sewage"
+   ]
+  },
+  {
+   "id": "en046",
+   "topic": "Môi trường & năng lượng",
+   "w": "effluent",
+   "ipa": "/ˈefluənt/",
+   "pos": "n",
+   "vi": "nước thải công nghiệp",
+   "ex": "Effluent from the plant is closely monitored.",
+   "exVi": "Nước thải công nghiệp từ nhà máy được theo dõi sát.",
+   "col": [
+    "industrial effluent",
+    "treat effluent"
+   ]
+  },
+  {
+   "id": "en047",
+   "topic": "Môi trường & năng lượng",
+   "w": "electricity",
+   "ipa": "/ɪˌlekˈtrɪsəti/",
+   "pos": "n",
+   "vi": "điện năng",
+   "ex": "The plant generates its own electricity.",
+   "exVi": "Nhà máy tự sản xuất điện năng.",
+   "col": [
+    "generate electricity",
+    "save electricity"
+   ]
+  },
+  {
+   "id": "en048",
+   "topic": "Môi trường & năng lượng",
+   "w": "power",
+   "ipa": "/ˈpaʊə/",
+   "pos": "n, v",
+   "vi": "điện, năng lượng",
+   "ex": "Solar panels power the entire building.",
+   "exVi": "Tấm pin mặt trời cung cấp điện cho cả toà nhà.",
+   "col": [
+    "power a building",
+    "power supply"
+   ]
+  },
+  {
+   "id": "en049",
+   "topic": "Môi trường & năng lượng",
+   "w": "generate",
+   "ipa": "/ˈdʒenəreɪt/",
+   "pos": "v",
+   "vi": "tạo ra",
+   "ex": "The turbines generate enough power for the town.",
+   "exVi": "Các tua-bin tạo ra đủ điện cho thị trấn.",
+   "col": [
+    "generate power",
+    "generate electricity"
+   ]
+  },
+  {
+   "id": "en050",
+   "topic": "Môi trường & năng lượng",
+   "w": "generator",
+   "ipa": "/ˈdʒenəreɪtə/",
+   "pos": "n",
+   "vi": "máy phát điện",
+   "ex": "A backup generator runs during outages.",
+   "exVi": "Một máy phát dự phòng chạy khi mất điện.",
+   "col": [
+    "a backup generator",
+    "a diesel generator"
+   ]
+  },
+  {
+   "id": "en051",
+   "topic": "Môi trường & năng lượng",
+   "w": "outage",
+   "ipa": "/ˈaʊtɪdʒ/",
+   "pos": "n",
+   "vi": "sự mất điện",
+   "ex": "A power outage stopped work for two hours.",
+   "exVi": "Một sự mất điện dừng công việc hai tiếng.",
+   "col": [
+    "a power outage",
+    "a planned outage"
+   ]
+  },
+  {
+   "id": "en052",
+   "topic": "Môi trường & năng lượng",
+   "w": "voltage",
+   "ipa": "/ˈvəʊltɪdʒ/",
+   "pos": "n",
+   "vi": "điện áp",
+   "ex": "A sudden voltage spike damaged the equipment.",
+   "exVi": "Một đợt tăng điện áp đột ngột làm hỏng thiết bị.",
+   "col": [
+    "high voltage",
+    "a voltage drop"
+   ]
+  },
+  {
+   "id": "en053",
+   "topic": "Môi trường & năng lượng",
+   "w": "capacity",
+   "ipa": "/kəˈpæsəti/",
+   "pos": "n",
+   "vi": "công suất",
+   "ex": "The battery has enough capacity for a full day.",
+   "exVi": "Pin có đủ công suất cho cả ngày.",
+   "col": [
+    "storage capacity",
+    "full capacity"
+   ]
+  },
+  {
+   "id": "en054",
+   "topic": "Môi trường & năng lượng",
+   "w": "consumption rate",
+   "ipa": "/kənˈsʌmpʃn reɪt/",
+   "pos": "n",
+   "vi": "tốc độ tiêu thụ",
+   "ex": "The consumption rate rose during the heatwave.",
+   "exVi": "Tốc độ tiêu thụ tăng trong đợt nắng nóng.",
+   "col": [
+    "the consumption rate",
+    "a high consumption rate"
+   ]
+  },
+  {
+   "id": "en055",
+   "topic": "Môi trường & năng lượng",
+   "w": "meter",
+   "ipa": "/ˈmiːtə/",
+   "pos": "n",
+   "vi": "đồng hồ đo",
+   "ex": "A smart meter tracks energy use in real time.",
+   "exVi": "Một đồng hồ thông minh theo dõi việc dùng năng lượng theo thời gian thực.",
+   "col": [
+    "a smart meter",
+    "read the meter"
+   ]
+  },
+  {
+   "id": "en056",
+   "topic": "Môi trường & năng lượng",
+   "w": "utility",
+   "ipa": "/juːˈtɪləti/",
+   "pos": "n",
+   "vi": "công ty điện nước",
+   "ex": "The local utility raised its rates this year.",
+   "exVi": "Công ty điện nước địa phương tăng giá năm nay.",
+   "col": [
+    "a public utility",
+    "utility rates"
+   ]
+  },
+  {
+   "id": "en057",
+   "topic": "Môi trường & năng lượng",
+   "w": "conservationist",
+   "ipa": "/ˌkɒnsəˈveɪʃənɪst/",
+   "pos": "n",
+   "vi": "nhà bảo tồn",
+   "ex": "A conservationist advised the firm on wildlife.",
+   "exVi": "Một nhà bảo tồn tư vấn cho công ty về động vật hoang dã.",
+   "col": [
+    "a wildlife conservationist",
+    "a leading conservationist"
+   ]
+  },
+  {
+   "id": "en058",
+   "topic": "Môi trường & năng lượng",
+   "w": "emit",
+   "ipa": "/ɪˈmɪt/",
+   "pos": "v",
+   "vi": "thải ra",
+   "ex": "The factory emits far less smoke than before.",
+   "exVi": "Nhà máy thải ra ít khói hơn trước nhiều.",
+   "col": [
+    "emit gases",
+    "emit pollution"
+   ]
+  },
+  {
+   "id": "en059",
+   "topic": "Môi trường & năng lượng",
+   "w": "absorb",
+   "ipa": "/əbˈzɔːb/",
+   "pos": "v",
+   "vi": "hấp thụ",
+   "ex": "Trees absorb carbon dioxide from the air.",
+   "exVi": "Cây hấp thụ khí các-bon từ không khí.",
+   "col": [
+    "absorb carbon",
+    "absorb heat"
+   ]
+  },
+  {
+   "id": "en060",
+   "topic": "Môi trường & năng lượng",
+   "w": "filter",
+   "ipa": "/ˈfɪltə/",
+   "pos": "n, v",
+   "vi": "bộ lọc; lọc",
+   "ex": "Filters remove harmful particles from the air.",
+   "exVi": "Bộ lọc loại bỏ hạt độc hại khỏi không khí.",
+   "col": [
+    "an air filter",
+    "filter water"
+   ]
+  },
+  {
+   "id": "en061",
+   "topic": "Môi trường & năng lượng",
+   "w": "particle",
+   "ipa": "/ˈpɑːtɪkl/",
+   "pos": "n",
+   "vi": "hạt",
+   "ex": "Fine particles in the air can harm health.",
+   "exVi": "Hạt mịn trong không khí có thể hại sức khoẻ.",
+   "col": [
+    "fine particles",
+    "a dust particle"
+   ]
+  },
+  {
+   "id": "en062",
+   "topic": "Môi trường & năng lượng",
+   "w": "contaminate",
+   "ipa": "/kənˈtæmɪneɪt/",
+   "pos": "v",
+   "vi": "làm nhiễm bẩn",
+   "ex": "A leak could contaminate the water supply.",
+   "exVi": "Một vụ rò rỉ có thể làm nhiễm bẩn nguồn nước.",
+   "col": [
+    "contaminate water",
+    "contaminate soil"
+   ]
+  },
+  {
+   "id": "en063",
+   "topic": "Môi trường & năng lượng",
+   "w": "hazard",
+   "ipa": "/ˈhæzəd/",
+   "pos": "n",
+   "vi": "mối nguy hại",
+   "ex": "Chemical waste is a serious environmental hazard.",
+   "exVi": "Chất thải hoá học là một mối nguy hại môi trường nghiêm trọng.",
+   "col": [
+    "an environmental hazard",
+    "a health hazard"
+   ]
+  },
+  {
+   "id": "en064",
+   "topic": "Môi trường & năng lượng",
+   "w": "hazardous",
+   "ipa": "/ˈhæzədəs/",
+   "pos": "adj",
+   "vi": "nguy hại",
+   "ex": "Hazardous materials must be stored separately.",
+   "exVi": "Vật liệu nguy hại phải được cất riêng.",
+   "col": [
+    "hazardous waste",
+    "hazardous materials"
+   ]
+  },
+  {
+   "id": "en065",
+   "topic": "Môi trường & năng lượng",
+   "w": "toxic",
+   "ipa": "/ˈtɒksɪk/",
+   "pos": "adj",
+   "vi": "độc hại",
+   "ex": "Toxic chemicals were removed from the process.",
+   "exVi": "Hoá chất độc hại được loại khỏi quy trình.",
+   "col": [
+    "toxic waste",
+    "a toxic substance"
+   ]
+  },
+  {
+   "id": "en066",
+   "topic": "Môi trường & năng lượng",
+   "w": "sustainably",
+   "ipa": "/səˈsteɪnəbli/",
+   "pos": "adv",
+   "vi": "một cách bền vững",
+   "ex": "The timber is sourced sustainably from managed forests.",
+   "exVi": "Gỗ được lấy một cách bền vững từ rừng có quản lý.",
+   "col": [
+    "sourced sustainably",
+    "grown sustainably"
+   ]
+  },
+  {
+   "id": "en067",
+   "topic": "Môi trường & năng lượng",
+   "w": "retrofitting",
+   "ipa": "/ˈretrəʊfɪtɪŋ/",
+   "pos": "n",
+   "vi": "việc cải tiến trang bị",
+   "ex": "Retrofitting the offices cut energy use by a fifth.",
+   "exVi": "Việc cải tiến trang bị văn phòng giảm năng lượng dùng một phần năm.",
+   "col": [
+    "energy retrofitting",
+    "building retrofitting"
+   ]
+  },
+  {
+   "id": "en068",
+   "topic": "Môi trường & năng lượng",
+   "w": "insulate",
+   "ipa": "/ˈɪnsjuleɪt/",
+   "pos": "v",
+   "vi": "cách nhiệt",
+   "ex": "The roof was insulated to keep the heat in.",
+   "exVi": "Mái được cách nhiệt để giữ nhiệt bên trong.",
+   "col": [
+    "insulate a building",
+    "well insulated"
+   ]
+  },
+  {
+   "id": "en069",
+   "topic": "Môi trường & năng lượng",
+   "w": "weatherproof",
+   "ipa": "/ˈweðəpruːf/",
+   "pos": "adj",
+   "vi": "chống chịu thời tiết",
+   "ex": "The panels are weatherproof and long-lasting.",
+   "exVi": "Các tấm pin chống chịu thời tiết và bền lâu.",
+   "col": [
+    "a weatherproof cover",
+    "weatherproof material"
+   ]
+  },
+  {
+   "id": "en070",
+   "topic": "Môi trường & năng lượng",
+   "w": "sustainment",
+   "ipa": "/səˈsteɪnmənt/",
+   "pos": "n",
+   "vi": "sự duy trì",
+   "ex": "Long-term sustainment of the project needs steady funding.",
+   "exVi": "Việc duy trì dài hạn dự án cần nguồn tài trợ ổn định.",
+   "col": [
+    "project sustainment",
+    "sustainment costs"
+   ]
+  },
+  {
+   "id": "en071",
+   "topic": "Môi trường & năng lượng",
+   "w": "runoff",
+   "ipa": "/ˈrʌnɒf/",
+   "pos": "n",
+   "vi": "nước chảy tràn",
+   "ex": "Runoff from the site is filtered before release.",
+   "exVi": "Nước chảy tràn từ khu đất được lọc trước khi thải.",
+   "col": [
+    "surface runoff",
+    "agricultural runoff"
+   ]
+  },
+  {
+   "id": "en072",
+   "topic": "Môi trường & năng lượng",
+   "w": "reservoir",
+   "ipa": "/ˈrezəvwɑː/",
+   "pos": "n",
+   "vi": "hồ chứa",
+   "ex": "The reservoir supplies water to three towns.",
+   "exVi": "Hồ chứa cung cấp nước cho ba thị trấn.",
+   "col": [
+    "a water reservoir",
+    "a large reservoir"
+   ]
+  },
+  {
+   "id": "en073",
+   "topic": "Môi trường & năng lượng",
+   "w": "irrigation",
+   "ipa": "/ˌɪrɪˈɡeɪʃn/",
+   "pos": "n",
+   "vi": "tưới tiêu",
+   "ex": "An efficient irrigation system saves water.",
+   "exVi": "Một hệ thống tưới tiêu hiệu quả tiết kiệm nước.",
+   "col": [
+    "an irrigation system",
+    "drip irrigation"
+   ]
+  },
+  {
+   "id": "en074",
+   "topic": "Môi trường & năng lượng",
+   "w": "drought",
+   "ipa": "/draʊt/",
+   "pos": "n",
+   "vi": "hạn hán",
+   "ex": "The long drought reduced the harvest sharply.",
+   "exVi": "Đợt hạn hán dài làm giảm mạnh mùa màng.",
+   "col": [
+    "a severe drought",
+    "a prolonged drought"
+   ]
+  },
+  {
+   "id": "en075",
+   "topic": "Môi trường & năng lượng",
+   "w": "flood",
+   "ipa": "/flʌd/",
+   "pos": "n",
+   "vi": "lũ lụt",
+   "ex": "A flood damaged the ground-floor stock.",
+   "exVi": "Một trận lũ làm hỏng hàng ở tầng trệt.",
+   "col": [
+    "a flash flood",
+    "flood damage"
+   ]
+  },
+  {
+   "id": "en076",
+   "topic": "Môi trường & năng lượng",
+   "w": "erosion",
+   "ipa": "/ɪˈrəʊʒn/",
+   "pos": "n",
+   "vi": "xói mòn",
+   "ex": "Planting trees slows soil erosion.",
+   "exVi": "Trồng cây làm chậm xói mòn đất.",
+   "col": [
+    "soil erosion",
+    "coastal erosion"
+   ]
+  },
+  {
+   "id": "en077",
+   "topic": "Môi trường & năng lượng",
+   "w": "compost",
+   "ipa": "/ˈkɒmpɒst/",
+   "pos": "n, v",
+   "vi": "phân hữu cơ; ủ phân",
+   "ex": "Food waste is turned into compost on site.",
+   "exVi": "Rác thực phẩm được ủ thành phân hữu cơ tại chỗ.",
+   "col": [
+    "make compost",
+    "compost waste"
+   ]
+  },
+  {
+   "id": "en078",
+   "topic": "Môi trường & năng lượng",
+   "w": "byproduct",
+   "ipa": "/ˈbaɪprɒdʌkt/",
+   "pos": "n",
+   "vi": "sản phẩm phụ",
+   "ex": "Heat is a useful byproduct of the process.",
+   "exVi": "Nhiệt là một sản phẩm phụ hữu ích của quy trình.",
+   "col": [
+    "a byproduct of",
+    "a useful byproduct"
+   ]
+  },
+  {
+   "id": "en079",
+   "topic": "Môi trường & năng lượng",
+   "w": "sludge",
+   "ipa": "/slʌdʒ/",
+   "pos": "n",
+   "vi": "bùn thải",
+   "ex": "Treated sludge is used as fertiliser.",
+   "exVi": "Bùn thải đã xử lý được dùng làm phân bón.",
+   "col": [
+    "treated sludge",
+    "sewage sludge"
+   ]
+  },
+  {
+   "id": "en080",
+   "topic": "Môi trường & năng lượng",
+   "w": "methane",
+   "ipa": "/ˈmiːθeɪn/",
+   "pos": "n",
+   "vi": "khí mê-tan",
+   "ex": "The landfill captures methane to make power.",
+   "exVi": "Bãi chôn lấp thu khí mê-tan để tạo điện.",
+   "col": [
+    "capture methane",
+    "methane emissions"
+   ]
+  },
+  {
+   "id": "en081",
+   "topic": "Môi trường & năng lượng",
+   "w": "sustainable source",
+   "ipa": "/səˈsteɪnəbl sɔːs/",
+   "pos": "n",
+   "vi": "nguồn bền vững",
+   "ex": "The paper comes from a sustainable source.",
+   "exVi": "Giấy đến từ một nguồn bền vững.",
+   "col": [
+    "a sustainable source",
+    "from a sustainable source"
+   ]
+  },
+  {
+   "id": "en082",
+   "topic": "Môi trường & năng lượng",
+   "w": "renew",
+   "ipa": "/rɪˈnjuː/",
+   "pos": "v",
+   "vi": "tái tạo",
+   "ex": "Forests renew slowly if left undisturbed.",
+   "exVi": "Rừng tái tạo chậm nếu không bị tác động.",
+   "col": [
+    "renew resources",
+    "renew naturally"
+   ]
+  },
+  {
+   "id": "en083",
+   "topic": "Môi trường & năng lượng",
+   "w": "mitigate",
+   "ipa": "/ˈmɪtɪɡeɪt/",
+   "pos": "v",
+   "vi": "giảm nhẹ",
+   "ex": "The plan aims to mitigate the impact on wildlife.",
+   "exVi": "Kế hoạch nhằm giảm nhẹ tác động tới động vật hoang dã.",
+   "col": [
+    "mitigate risk",
+    "mitigate the impact"
+   ]
+  },
+  {
+   "id": "en084",
+   "topic": "Môi trường & năng lượng",
+   "w": "mitigation",
+   "ipa": "/ˌmɪtɪˈɡeɪʃn/",
+   "pos": "n",
+   "vi": "sự giảm nhẹ",
+   "ex": "Flood mitigation measures protect the low ground.",
+   "exVi": "Các biện pháp giảm nhẹ lũ bảo vệ vùng đất thấp.",
+   "col": [
+    "risk mitigation",
+    "a mitigation plan"
+   ]
+  },
+  {
+   "id": "en085",
+   "topic": "Môi trường & năng lượng",
+   "w": "sustainably-sourced",
+   "ipa": "/səˈsteɪnəbli sɔːst/",
+   "pos": "adj",
+   "vi": "có nguồn gốc bền vững",
+   "ex": "The café serves sustainably-sourced coffee.",
+   "exVi": "Quán cà phê phục vụ cà phê có nguồn gốc bền vững.",
+   "col": [
+    "sustainably-sourced materials",
+    "sustainably-sourced timber"
+   ]
+  },
+  {
+   "id": "en086",
+   "topic": "Môi trường & năng lượng",
+   "w": "emissionless",
+   "ipa": "/ɪˈmɪʃnləs/",
+   "pos": "adj",
+   "vi": "không phát thải",
+   "ex": "The firm added emissionless delivery vans.",
+   "exVi": "Công ty bổ sung xe tải giao hàng không phát thải.",
+   "col": [
+    "emissionless vehicles",
+    "an emissionless fleet"
+   ]
+  },
+  {
+   "id": "en087",
+   "topic": "Môi trường & năng lượng",
+   "w": "photovoltaic",
+   "ipa": "/ˌfəʊtəʊvɒlˈteɪɪk/",
+   "pos": "adj",
+   "vi": "thuộc quang điện",
+   "ex": "Photovoltaic cells convert sunlight into power.",
+   "exVi": "Tế bào quang điện chuyển ánh sáng mặt trời thành điện.",
+   "col": [
+    "a photovoltaic panel",
+    "photovoltaic cells"
+   ]
+  },
+  {
+   "id": "en088",
+   "topic": "Môi trường & năng lượng",
+   "w": "geothermal",
+   "ipa": "/ˌdʒiːəʊˈθɜːml/",
+   "pos": "adj",
+   "vi": "thuộc địa nhiệt",
+   "ex": "Geothermal heat warms the whole complex.",
+   "exVi": "Nhiệt địa nhiệt sưởi ấm cả khu phức hợp.",
+   "col": [
+    "geothermal energy",
+    "a geothermal system"
+   ]
+  },
+  {
+   "id": "en089",
+   "topic": "Môi trường & năng lượng",
+   "w": "decarbonize",
+   "ipa": "/diːˈkɑːbənaɪz/",
+   "pos": "v",
+   "vi": "khử các-bon",
+   "ex": "The industry is under pressure to decarbonize.",
+   "exVi": "Ngành công nghiệp chịu áp lực khử các-bon.",
+   "col": [
+    "decarbonize industry",
+    "decarbonize the economy"
+   ]
+  },
+  {
+   "id": "en090",
+   "topic": "Môi trường & năng lượng",
+   "w": "offsetting",
+   "ipa": "/ˈɒfsetɪŋ/",
+   "pos": "n",
+   "vi": "việc bù đắp phát thải",
+   "ex": "Carbon offsetting funds tree-planting projects.",
+   "exVi": "Việc bù đắp phát thải các-bon tài trợ các dự án trồng cây.",
+   "col": [
+    "carbon offsetting",
+    "an offsetting scheme"
+   ]
+  },
+  {
+   "id": "en091",
+   "topic": "Môi trường & năng lượng",
+   "w": "stewardship",
+   "ipa": "/ˈstjuːədʃɪp/",
+   "pos": "n",
+   "vi": "sự quản lý có trách nhiệm",
+   "ex": "Environmental stewardship is part of the firm's mission.",
+   "exVi": "Quản lý môi trường có trách nhiệm là một phần sứ mệnh của công ty.",
+   "col": [
+    "environmental stewardship",
+    "good stewardship"
+   ]
+  },
+  {
+   "id": "en092",
+   "topic": "Môi trường & năng lượng",
+   "w": "sustainability report",
+   "ipa": "/səˌsteɪnəˈbɪləti rɪˈpɔːt/",
+   "pos": "n",
+   "vi": "báo cáo bền vững",
+   "ex": "The annual sustainability report is published online.",
+   "exVi": "Báo cáo bền vững hằng năm được công bố trên mạng.",
+   "col": [
+    "a sustainability report",
+    "publish a sustainability report"
+   ]
+  }
+ ]
+}

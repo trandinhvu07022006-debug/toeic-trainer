@@ -1,0 +1,1181 @@
+{
+ "topic": "Viễn thông",
+ "words": [
+  {
+   "id": "tc001",
+   "topic": "Viễn thông",
+   "w": "telecommunications",
+   "ipa": "/ˌtelɪkəmjuːnɪˈkeɪʃnz/",
+   "pos": "n",
+   "vi": "viễn thông",
+   "ex": "The telecommunications firm serves rural areas.",
+   "exVi": "Công ty viễn thông phục vụ các vùng nông thôn.",
+   "col": [
+    "telecommunications",
+    "a telecommunications company"
+   ]
+  },
+  {
+   "id": "tc002",
+   "topic": "Viễn thông",
+   "w": "network",
+   "ipa": "/ˈnetwɜːk/",
+   "pos": "n",
+   "vi": "mạng lưới",
+   "ex": "The mobile network covers the whole region.",
+   "exVi": "Mạng di động phủ sóng cả khu vực.",
+   "col": [
+    "a mobile network",
+    "a network provider"
+   ]
+  },
+  {
+   "id": "tc003",
+   "topic": "Viễn thông",
+   "w": "signal",
+   "ipa": "/ˈsɪɡnl/",
+   "pos": "n",
+   "vi": "tín hiệu",
+   "ex": "The signal is weak inside the building.",
+   "exVi": "Tín hiệu yếu bên trong toà nhà.",
+   "col": [
+    "a strong signal",
+    "a weak signal"
+   ]
+  },
+  {
+   "id": "tc004",
+   "topic": "Viễn thông",
+   "w": "coverage",
+   "ipa": "/ˈkʌvərɪdʒ/",
+   "pos": "n",
+   "vi": "vùng phủ sóng",
+   "ex": "Network coverage improved after the upgrade.",
+   "exVi": "Vùng phủ sóng cải thiện sau khi nâng cấp.",
+   "col": [
+    "network coverage",
+    "wide coverage"
+   ]
+  },
+  {
+   "id": "tc005",
+   "topic": "Viễn thông",
+   "w": "reception",
+   "ipa": "/rɪˈsepʃn/",
+   "pos": "n",
+   "vi": "sóng thu",
+   "ex": "Reception is poor in the basement.",
+   "exVi": "Sóng thu kém ở tầng hầm.",
+   "col": [
+    "good reception",
+    "poor reception"
+   ]
+  },
+  {
+   "id": "tc006",
+   "topic": "Viễn thông",
+   "w": "bandwidth",
+   "ipa": "/ˈbændwɪdθ/",
+   "pos": "n",
+   "vi": "băng thông",
+   "ex": "More bandwidth speeds up the connection.",
+   "exVi": "Nhiều băng thông hơn tăng tốc kết nối.",
+   "col": [
+    "limited bandwidth",
+    "increase bandwidth"
+   ]
+  },
+  {
+   "id": "tc007",
+   "topic": "Viễn thông",
+   "w": "broadband",
+   "ipa": "/ˈbrɔːdbænd/",
+   "pos": "n",
+   "vi": "băng thông rộng",
+   "ex": "The office upgraded to faster broadband.",
+   "exVi": "Văn phòng nâng cấp lên băng thông rộng nhanh hơn.",
+   "col": [
+    "broadband",
+    "a broadband connection"
+   ]
+  },
+  {
+   "id": "tc008",
+   "topic": "Viễn thông",
+   "w": "connection",
+   "ipa": "/kəˈnekʃn/",
+   "pos": "n",
+   "vi": "kết nối",
+   "ex": "A stable connection is vital for video calls.",
+   "exVi": "Một kết nối ổn định là điều thiết yếu cho cuộc gọi video.",
+   "col": [
+    "a stable connection",
+    "an internet connection"
+   ]
+  },
+  {
+   "id": "tc009",
+   "topic": "Viễn thông",
+   "w": "subscriber",
+   "ipa": "/səbˈskraɪbə/",
+   "pos": "n",
+   "vi": "thuê bao",
+   "ex": "The provider added thousands of subscribers.",
+   "exVi": "Nhà cung cấp có thêm hàng nghìn thuê bao.",
+   "col": [
+    "a subscriber",
+    "a mobile subscriber"
+   ]
+  },
+  {
+   "id": "tc010",
+   "topic": "Viễn thông",
+   "w": "subscription",
+   "ipa": "/səbˈskrɪpʃn/",
+   "pos": "n",
+   "vi": "gói cước",
+   "ex": "The subscription includes unlimited calls.",
+   "exVi": "Gói cước bao gồm gọi không giới hạn.",
+   "col": [
+    "a subscription",
+    "a monthly subscription"
+   ]
+  },
+  {
+   "id": "tc011",
+   "topic": "Viễn thông",
+   "w": "provider",
+   "ipa": "/prəˈvaɪdə/",
+   "pos": "n",
+   "vi": "nhà cung cấp",
+   "ex": "The provider offers a discount for a year.",
+   "exVi": "Nhà cung cấp giảm giá trong một năm.",
+   "col": [
+    "a service provider",
+    "a network provider"
+   ]
+  },
+  {
+   "id": "tc012",
+   "topic": "Viễn thông",
+   "w": "carrier",
+   "ipa": "/ˈkæriə/",
+   "pos": "n",
+   "vi": "nhà mạng",
+   "ex": "The carrier expanded its rural coverage.",
+   "exVi": "Nhà mạng mở rộng vùng phủ sóng nông thôn.",
+   "col": [
+    "a mobile carrier",
+    "a major carrier"
+   ]
+  },
+  {
+   "id": "tc013",
+   "topic": "Viễn thông",
+   "w": "tariff",
+   "ipa": "/ˈtærɪf/",
+   "pos": "n",
+   "vi": "biểu cước",
+   "ex": "The new tariff lowers the cost of data.",
+   "exVi": "Biểu cước mới hạ chi phí dữ liệu.",
+   "col": [
+    "a tariff",
+    "a data tariff"
+   ]
+  },
+  {
+   "id": "tc014",
+   "topic": "Viễn thông",
+   "w": "data plan",
+   "ipa": "/ˈdeɪtə plæn/",
+   "pos": "n",
+   "vi": "gói dữ liệu",
+   "ex": "The data plan gives ten gigabytes a month.",
+   "exVi": "Gói dữ liệu cho mười gigabyte mỗi tháng.",
+   "col": [
+    "a data plan",
+    "an unlimited data plan"
+   ]
+  },
+  {
+   "id": "tc015",
+   "topic": "Viễn thông",
+   "w": "roaming",
+   "ipa": "/ˈrəʊmɪŋ/",
+   "pos": "n",
+   "vi": "chuyển vùng",
+   "ex": "Roaming charges apply when you travel abroad.",
+   "exVi": "Phí chuyển vùng áp khi bạn đi nước ngoài.",
+   "col": [
+    "roaming",
+    "a roaming charge"
+   ]
+  },
+  {
+   "id": "tc016",
+   "topic": "Viễn thông",
+   "w": "handset",
+   "ipa": "/ˈhændset/",
+   "pos": "n",
+   "vi": "máy điện thoại",
+   "ex": "The offer includes a free handset.",
+   "exVi": "Ưu đãi bao gồm một máy điện thoại miễn phí.",
+   "col": [
+    "a handset",
+    "a mobile handset"
+   ]
+  },
+  {
+   "id": "tc017",
+   "topic": "Viễn thông",
+   "w": "landline",
+   "ipa": "/ˈlændlaɪn/",
+   "pos": "n",
+   "vi": "điện thoại cố định",
+   "ex": "The office keeps a landline for emergencies.",
+   "exVi": "Văn phòng giữ một điện thoại cố định cho trường hợp khẩn.",
+   "col": [
+    "a landline",
+    "a landline number"
+   ]
+  },
+  {
+   "id": "tc018",
+   "topic": "Viễn thông",
+   "w": "extension",
+   "ipa": "/ɪkˈstenʃn/",
+   "pos": "n",
+   "vi": "số máy nhánh",
+   "ex": "Dial the extension to reach the department.",
+   "exVi": "Bấm số máy nhánh để tới phòng ban.",
+   "col": [
+    "an extension",
+    "an extension number"
+   ]
+  },
+  {
+   "id": "tc019",
+   "topic": "Viễn thông",
+   "w": "directory",
+   "ipa": "/dəˈrektri/",
+   "pos": "n",
+   "vi": "danh bạ",
+   "ex": "The number is listed in the directory.",
+   "exVi": "Số máy được ghi trong danh bạ.",
+   "col": [
+    "a directory",
+    "a phone directory"
+   ]
+  },
+  {
+   "id": "tc020",
+   "topic": "Viễn thông",
+   "w": "operator",
+   "ipa": "/ˈɒpəreɪtə/",
+   "pos": "n",
+   "vi": "tổng đài viên",
+   "ex": "An operator connected the call quickly.",
+   "exVi": "Một tổng đài viên nối cuộc gọi nhanh.",
+   "col": [
+    "an operator",
+    "a network operator"
+   ]
+  },
+  {
+   "id": "tc021",
+   "topic": "Viễn thông",
+   "w": "transmission",
+   "ipa": "/trænzˈmɪʃn/",
+   "pos": "n",
+   "vi": "truyền tín hiệu",
+   "ex": "The transmission was clear despite the storm.",
+   "exVi": "Việc truyền tín hiệu rõ ràng dù có bão.",
+   "col": [
+    "data transmission",
+    "a transmission tower"
+   ]
+  },
+  {
+   "id": "tc022",
+   "topic": "Viễn thông",
+   "w": "fiber optic",
+   "ipa": "/ˈfaɪbər ˈɒptɪk/",
+   "pos": "n",
+   "vi": "cáp quang",
+   "ex": "Fiber optic cables carry data at high speed.",
+   "exVi": "Cáp quang truyền dữ liệu ở tốc độ cao.",
+   "col": [
+    "fiber optic cable",
+    "a fiber optic network"
+   ]
+  },
+  {
+   "id": "tc023",
+   "topic": "Viễn thông",
+   "w": "satellite",
+   "ipa": "/ˈsætəlaɪt/",
+   "pos": "n",
+   "vi": "vệ tinh",
+   "ex": "A satellite links the remote office to the network.",
+   "exVi": "Một vệ tinh nối văn phòng xa với mạng lưới.",
+   "col": [
+    "a satellite",
+    "a satellite link"
+   ]
+  },
+  {
+   "id": "tc024",
+   "topic": "Viễn thông",
+   "w": "wireless",
+   "ipa": "/ˈwaɪələs/",
+   "pos": "adj",
+   "vi": "không dây",
+   "ex": "The wireless network covers the whole floor.",
+   "exVi": "Mạng không dây phủ cả tầng.",
+   "col": [
+    "a wireless network",
+    "a wireless connection"
+   ]
+  },
+  {
+   "id": "tc025",
+   "topic": "Viễn thông",
+   "w": "cellular",
+   "ipa": "/ˈseljələ/",
+   "pos": "adj",
+   "vi": "thuộc mạng di động",
+   "ex": "The device uses a cellular connection outdoors.",
+   "exVi": "Thiết bị dùng kết nối di động khi ở ngoài trời.",
+   "col": [
+    "a cellular network",
+    "cellular data"
+   ]
+  },
+  {
+   "id": "tc026",
+   "topic": "Viễn thông",
+   "w": "outage",
+   "ipa": "/ˈaʊtɪdʒ/",
+   "pos": "n",
+   "vi": "sự cố gián đoạn",
+   "ex": "A network outage cut service for an hour.",
+   "exVi": "Một sự cố mạng ngắt dịch vụ một tiếng.",
+   "col": [
+    "a network outage",
+    "a service outage"
+   ]
+  },
+  {
+   "id": "tc027",
+   "topic": "Viễn thông",
+   "w": "downtime",
+   "ipa": "/ˈdaʊntaɪm/",
+   "pos": "n",
+   "vi": "thời gian ngừng",
+   "ex": "Planned downtime is scheduled for midnight.",
+   "exVi": "Thời gian ngừng theo kế hoạch được xếp vào nửa đêm.",
+   "col": [
+    "downtime",
+    "reduce downtime"
+   ]
+  },
+  {
+   "id": "tc028",
+   "topic": "Viễn thông",
+   "w": "latency",
+   "ipa": "/ˈleɪtənsi/",
+   "pos": "n",
+   "vi": "độ trễ",
+   "ex": "Low latency matters for online meetings.",
+   "exVi": "Độ trễ thấp quan trọng cho các cuộc họp trực tuyến.",
+   "col": [
+    "low latency",
+    "network latency"
+   ]
+  },
+  {
+   "id": "tc029",
+   "topic": "Viễn thông",
+   "w": "congestion",
+   "ipa": "/kənˈdʒestʃən/",
+   "pos": "n",
+   "vi": "tắc nghẽn mạng",
+   "ex": "Network congestion slows the connection at peak times.",
+   "exVi": "Tắc nghẽn mạng làm chậm kết nối vào giờ cao điểm.",
+   "col": [
+    "network congestion",
+    "ease congestion"
+   ]
+  },
+  {
+   "id": "tc030",
+   "topic": "Viễn thông",
+   "w": "infrastructure",
+   "ipa": "/ˈɪnfrəstrʌktʃə/",
+   "pos": "n",
+   "vi": "hạ tầng",
+   "ex": "The firm invested in new network infrastructure.",
+   "exVi": "Công ty đầu tư vào hạ tầng mạng mới.",
+   "col": [
+    "infrastructure",
+    "network infrastructure"
+   ]
+  },
+  {
+   "id": "tc031",
+   "topic": "Viễn thông",
+   "w": "install",
+   "ipa": "/ɪnˈstɔːl/",
+   "pos": "v",
+   "vi": "lắp đặt",
+   "ex": "A technician will install the line on Monday.",
+   "exVi": "Một kỹ thuật viên sẽ lắp đường dây vào thứ Hai.",
+   "col": [
+    "install a line",
+    "install equipment"
+   ]
+  },
+  {
+   "id": "tc032",
+   "topic": "Viễn thông",
+   "w": "activate",
+   "ipa": "/ˈæktɪveɪt/",
+   "pos": "v",
+   "vi": "kích hoạt",
+   "ex": "Activate the SIM card before first use.",
+   "exVi": "Kích hoạt thẻ SIM trước lần dùng đầu.",
+   "col": [
+    "activate a service",
+    "activate a card"
+   ]
+  },
+  {
+   "id": "tc033",
+   "topic": "Viễn thông",
+   "w": "disconnect",
+   "ipa": "/ˌdɪskəˈnekt/",
+   "pos": "v",
+   "vi": "ngắt kết nối",
+   "ex": "The line was disconnected for non-payment.",
+   "exVi": "Đường dây bị ngắt vì không đóng cước.",
+   "col": [
+    "disconnect a line",
+    "disconnect a service"
+   ]
+  },
+  {
+   "id": "tc034",
+   "topic": "Viễn thông",
+   "w": "transmit",
+   "ipa": "/trænzˈmɪt/",
+   "pos": "v",
+   "vi": "truyền",
+   "ex": "The tower transmits a signal across the valley.",
+   "exVi": "Trạm phát truyền tín hiệu qua thung lũng.",
+   "col": [
+    "transmit data",
+    "transmit a signal"
+   ]
+  },
+  {
+   "id": "tc035",
+   "topic": "Viễn thông",
+   "w": "upgrade",
+   "ipa": "/ˈʌpɡreɪd/",
+   "pos": "n, v",
+   "vi": "nâng cấp",
+   "ex": "The provider offers a free upgrade this month.",
+   "exVi": "Nhà cung cấp tặng một lần nâng cấp miễn phí tháng này.",
+   "col": [
+    "an upgrade",
+    "upgrade a plan"
+   ]
+  },
+  {
+   "id": "tc036",
+   "topic": "Viễn thông",
+   "w": "dial",
+   "ipa": "/ˈdaɪəl/",
+   "pos": "v",
+   "vi": "quay số",
+   "ex": "Dial the code before the number.",
+   "exVi": "Quay mã vùng trước số máy.",
+   "col": [
+    "dial a number",
+    "dial an extension"
+   ]
+  },
+  {
+   "id": "tc037",
+   "topic": "Viễn thông",
+   "w": "redial",
+   "ipa": "/ˌriːˈdaɪəl/",
+   "pos": "v",
+   "vi": "quay lại số",
+   "ex": "Please redial if the line is busy.",
+   "exVi": "Vui lòng quay lại số nếu máy bận.",
+   "col": [
+    "redial a number",
+    "redial the call"
+   ]
+  },
+  {
+   "id": "tc038",
+   "topic": "Viễn thông",
+   "w": "prepaid",
+   "ipa": "/ˌpriːˈpeɪd/",
+   "pos": "adj",
+   "vi": "trả trước",
+   "ex": "A prepaid plan suits occasional users.",
+   "exVi": "Gói trả trước phù hợp với người dùng thỉnh thoảng.",
+   "col": [
+    "a prepaid plan",
+    "a prepaid card"
+   ]
+  },
+  {
+   "id": "tc039",
+   "topic": "Viễn thông",
+   "w": "unlimited",
+   "ipa": "/ʌnˈlɪmɪtɪd/",
+   "pos": "adj",
+   "vi": "không giới hạn",
+   "ex": "The plan offers unlimited calls and texts.",
+   "exVi": "Gói cung cấp gọi và nhắn tin không giới hạn.",
+   "col": [
+    "unlimited data",
+    "an unlimited plan"
+   ]
+  },
+  {
+   "id": "tc040",
+   "topic": "Viễn thông",
+   "w": "seamless",
+   "ipa": "/ˈsiːmləs/",
+   "pos": "adj",
+   "vi": "liền mạch",
+   "ex": "The handover between towers is seamless.",
+   "exVi": "Việc chuyển giao giữa các trạm phát liền mạch.",
+   "col": [
+    "a seamless connection",
+    "seamless service"
+   ]
+  },
+  {
+   "id": "tc041",
+   "topic": "Viễn thông",
+   "w": "premium plan",
+   "ipa": "/ˈpriːmiəm plæn/",
+   "pos": "n",
+   "vi": "gói cao cấp",
+   "ex": "The premium plan adds faster speeds.",
+   "exVi": "Gói cao cấp thêm tốc độ nhanh hơn.",
+   "col": [
+    "a premium plan",
+    "a premium plan upgrade"
+   ]
+  },
+  {
+   "id": "tc042",
+   "topic": "Viễn thông",
+   "w": "call center",
+   "ipa": "/kɔːl ˈsentə/",
+   "pos": "n",
+   "vi": "tổng đài chăm sóc",
+   "ex": "The call center handles thousands of calls a day.",
+   "exVi": "Tổng đài chăm sóc xử lý hàng nghìn cuộc gọi mỗi ngày.",
+   "col": [
+    "a call center",
+    "a busy call center"
+   ]
+  },
+  {
+   "id": "tc043",
+   "topic": "Viễn thông",
+   "w": "teleconference",
+   "ipa": "/ˈtelɪkɒnfərəns/",
+   "pos": "n",
+   "vi": "họp từ xa",
+   "ex": "A teleconference linked the three offices.",
+   "exVi": "Một cuộc họp từ xa nối ba văn phòng.",
+   "col": [
+    "a teleconference",
+    "host a teleconference"
+   ]
+  },
+  {
+   "id": "tc044",
+   "topic": "Viễn thông",
+   "w": "videoconference",
+   "ipa": "/ˈvɪdiəʊkɒnfərəns/",
+   "pos": "n",
+   "vi": "họp trực tuyến",
+   "ex": "The team held a videoconference with the client.",
+   "exVi": "Nhóm tổ chức một cuộc họp trực tuyến với khách.",
+   "col": [
+    "a videoconference",
+    "a videoconference call"
+   ]
+  },
+  {
+   "id": "tc045",
+   "topic": "Viễn thông",
+   "w": "headset",
+   "ipa": "/ˈhedset/",
+   "pos": "n",
+   "vi": "tai nghe có micro",
+   "ex": "A headset keeps the caller's hands free.",
+   "exVi": "Một tai nghe giúp người gọi rảnh tay.",
+   "col": [
+    "a headset",
+    "a wireless headset"
+   ]
+  },
+  {
+   "id": "tc046",
+   "topic": "Viễn thông",
+   "w": "mute",
+   "ipa": "/mjuːt/",
+   "pos": "v",
+   "vi": "tắt tiếng",
+   "ex": "Please mute your microphone when not speaking.",
+   "exVi": "Vui lòng tắt tiếng micro khi không nói.",
+   "col": [
+    "mute the line",
+    "mute a call"
+   ]
+  },
+  {
+   "id": "tc047",
+   "topic": "Viễn thông",
+   "w": "dropout",
+   "ipa": "/ˈdrɒpaʊt/",
+   "pos": "n",
+   "vi": "mất kết nối",
+   "ex": "Frequent dropouts spoiled the call.",
+   "exVi": "Mất kết nối liên tục làm hỏng cuộc gọi.",
+   "col": [
+    "a dropout",
+    "a call dropout"
+   ]
+  },
+  {
+   "id": "tc048",
+   "topic": "Viễn thông",
+   "w": "interference",
+   "ipa": "/ˌɪntəˈfɪərəns/",
+   "pos": "n",
+   "vi": "nhiễu sóng",
+   "ex": "Interference from the storm cut the signal.",
+   "exVi": "Nhiễu sóng từ cơn bão làm mất tín hiệu.",
+   "col": [
+    "signal interference",
+    "cause interference"
+   ]
+  },
+  {
+   "id": "tc049",
+   "topic": "Viễn thông",
+   "w": "frequency",
+   "ipa": "/ˈfriːkwənsi/",
+   "pos": "n",
+   "vi": "tần số",
+   "ex": "Each channel uses a different frequency.",
+   "exVi": "Mỗi kênh dùng một tần số khác nhau.",
+   "col": [
+    "a frequency",
+    "a radio frequency"
+   ]
+  },
+  {
+   "id": "tc050",
+   "topic": "Viễn thông",
+   "w": "spectrum",
+   "ipa": "/ˈspektrəm/",
+   "pos": "n",
+   "vi": "dải tần",
+   "ex": "The firm bought more spectrum for its network.",
+   "exVi": "Công ty mua thêm dải tần cho mạng của mình.",
+   "col": [
+    "the spectrum",
+    "radio spectrum"
+   ]
+  },
+  {
+   "id": "tc051",
+   "topic": "Viễn thông",
+   "w": "router",
+   "ipa": "/ˈruːtə/",
+   "pos": "n",
+   "vi": "bộ định tuyến",
+   "ex": "Restart the router if the line drops.",
+   "exVi": "Khởi động lại bộ định tuyến nếu mất đường truyền.",
+   "col": [
+    "a router",
+    "a wireless router"
+   ]
+  },
+  {
+   "id": "tc052",
+   "topic": "Viễn thông",
+   "w": "modem",
+   "ipa": "/ˈməʊdem/",
+   "pos": "n",
+   "vi": "modem",
+   "ex": "The modem connects the office to the internet.",
+   "exVi": "Modem nối văn phòng với internet.",
+   "col": [
+    "a modem",
+    "a cable modem"
+   ]
+  },
+  {
+   "id": "tc053",
+   "topic": "Viễn thông",
+   "w": "gateway",
+   "ipa": "/ˈɡeɪtweɪ/",
+   "pos": "n",
+   "vi": "cổng kết nối",
+   "ex": "The gateway links the two networks.",
+   "exVi": "Cổng kết nối nối hai mạng lưới.",
+   "col": [
+    "a gateway",
+    "a network gateway"
+   ]
+  },
+  {
+   "id": "tc054",
+   "topic": "Viễn thông",
+   "w": "antenna",
+   "ipa": "/ænˈtenə/",
+   "pos": "n",
+   "vi": "ăng-ten",
+   "ex": "A rooftop antenna improves the signal.",
+   "exVi": "Một ăng-ten trên mái cải thiện tín hiệu.",
+   "col": [
+    "an antenna",
+    "a rooftop antenna"
+   ]
+  },
+  {
+   "id": "tc055",
+   "topic": "Viễn thông",
+   "w": "transmitter",
+   "ipa": "/trænzˈmɪtə/",
+   "pos": "n",
+   "vi": "máy phát",
+   "ex": "The transmitter serves the whole town.",
+   "exVi": "Máy phát phục vụ cả thị trấn.",
+   "col": [
+    "a transmitter",
+    "a radio transmitter"
+   ]
+  },
+  {
+   "id": "tc056",
+   "topic": "Viễn thông",
+   "w": "receiver",
+   "ipa": "/rɪˈsiːvə/",
+   "pos": "n",
+   "vi": "máy thu",
+   "ex": "The receiver picks up the signal clearly.",
+   "exVi": "Máy thu bắt tín hiệu rõ ràng.",
+   "col": [
+    "a receiver",
+    "a signal receiver"
+   ]
+  },
+  {
+   "id": "tc057",
+   "topic": "Viễn thông",
+   "w": "encryption",
+   "ipa": "/ɪnˈkrɪpʃn/",
+   "pos": "n",
+   "vi": "mã hoá",
+   "ex": "Encryption keeps the call private.",
+   "exVi": "Mã hoá giữ cuộc gọi riêng tư.",
+   "col": [
+    "encryption",
+    "strong encryption"
+   ]
+  },
+  {
+   "id": "tc058",
+   "topic": "Viễn thông",
+   "w": "protocol",
+   "ipa": "/ˈprəʊtəkɒl/",
+   "pos": "n",
+   "vi": "giao thức",
+   "ex": "The system uses a secure protocol.",
+   "exVi": "Hệ thống dùng một giao thức bảo mật.",
+   "col": [
+    "a protocol",
+    "a network protocol"
+   ]
+  },
+  {
+   "id": "tc059",
+   "topic": "Viễn thông",
+   "w": "provider fee",
+   "ipa": "/prəˈvaɪdə fiː/",
+   "pos": "n",
+   "vi": "phí nhà cung cấp",
+   "ex": "A monthly provider fee covers maintenance.",
+   "exVi": "Một khoản phí nhà cung cấp hằng tháng chi cho bảo trì.",
+   "col": [
+    "a provider fee",
+    "a monthly provider fee"
+   ]
+  },
+  {
+   "id": "tc060",
+   "topic": "Viễn thông",
+   "w": "usage",
+   "ipa": "/ˈjuːsɪdʒ/",
+   "pos": "n",
+   "vi": "mức sử dụng",
+   "ex": "Data usage is shown on the monthly bill.",
+   "exVi": "Mức sử dụng dữ liệu hiện trên hoá đơn hằng tháng.",
+   "col": [
+    "data usage",
+    "monitor usage"
+   ]
+  },
+  {
+   "id": "tc061",
+   "topic": "Viễn thông",
+   "w": "allowance",
+   "ipa": "/əˈlaʊəns/",
+   "pos": "n",
+   "vi": "hạn mức",
+   "ex": "The plan gives a generous data allowance.",
+   "exVi": "Gói cho một hạn mức dữ liệu hào phóng.",
+   "col": [
+    "a data allowance",
+    "a monthly allowance"
+   ]
+  },
+  {
+   "id": "tc062",
+   "topic": "Viễn thông",
+   "w": "overage",
+   "ipa": "/ˈəʊvərɪdʒ/",
+   "pos": "n",
+   "vi": "phần vượt hạn mức",
+   "ex": "An overage charge applies past the limit.",
+   "exVi": "Một khoản phí vượt hạn mức áp khi quá giới hạn.",
+   "col": [
+    "an overage",
+    "an overage charge"
+   ]
+  },
+  {
+   "id": "tc063",
+   "topic": "Viễn thông",
+   "w": "provider network",
+   "ipa": "/prəˈvaɪdə ˈnetwɜːk/",
+   "pos": "n",
+   "vi": "mạng của nhà cung cấp",
+   "ex": "The provider network reaches most towns.",
+   "exVi": "Mạng của nhà cung cấp vươn tới hầu hết thị trấn.",
+   "col": [
+    "a provider network",
+    "a wide provider network"
+   ]
+  },
+  {
+   "id": "tc064",
+   "topic": "Viễn thông",
+   "w": "throughput",
+   "ipa": "/ˈθruːpʊt/",
+   "pos": "n",
+   "vi": "lưu lượng truyền",
+   "ex": "Higher throughput speeds up large downloads.",
+   "exVi": "Lưu lượng truyền cao hơn tăng tốc các lượt tải lớn.",
+   "col": [
+    "throughput",
+    "increase throughput"
+   ]
+  },
+  {
+   "id": "tc065",
+   "topic": "Viễn thông",
+   "w": "bandwidth cap",
+   "ipa": "/ˈbændwɪdθ kæp/",
+   "pos": "n",
+   "vi": "giới hạn băng thông",
+   "ex": "A bandwidth cap slows heavy users.",
+   "exVi": "Một giới hạn băng thông làm chậm người dùng nặng.",
+   "col": [
+    "a bandwidth cap",
+    "remove a bandwidth cap"
+   ]
+  },
+  {
+   "id": "tc066",
+   "topic": "Viễn thông",
+   "w": "provision",
+   "ipa": "/prəˈvɪʒn/",
+   "pos": "v",
+   "vi": "cấp phát dịch vụ",
+   "ex": "The team provisioned the new lines overnight.",
+   "exVi": "Nhóm cấp phát các đường dây mới qua đêm.",
+   "col": [
+    "provision a service",
+    "provision a line"
+   ]
+  },
+  {
+   "id": "tc067",
+   "topic": "Viễn thông",
+   "w": "reroute",
+   "ipa": "/ˌriːˈruːt/",
+   "pos": "v",
+   "vi": "định tuyến lại",
+   "ex": "Traffic was rerouted around the fault.",
+   "exVi": "Lưu lượng được định tuyến lại quanh chỗ lỗi.",
+   "col": [
+    "reroute traffic",
+    "reroute a call"
+   ]
+  },
+  {
+   "id": "tc068",
+   "topic": "Viễn thông",
+   "w": "buffer",
+   "ipa": "/ˈbʌfə/",
+   "pos": "v",
+   "vi": "đệm, tải trước",
+   "ex": "The video kept buffering on the slow line.",
+   "exVi": "Video liên tục đệm trên đường truyền chậm.",
+   "col": [
+    "buffer a video",
+    "buffer the stream"
+   ]
+  },
+  {
+   "id": "tc069",
+   "topic": "Viễn thông",
+   "w": "stream",
+   "ipa": "/striːm/",
+   "pos": "v",
+   "vi": "phát trực tuyến",
+   "ex": "Users stream video over the network.",
+   "exVi": "Người dùng phát video qua mạng.",
+   "col": [
+    "stream video",
+    "stream content"
+   ]
+  },
+  {
+   "id": "tc070",
+   "topic": "Viễn thông",
+   "w": "hardwired",
+   "ipa": "/ˌhɑːdˈwaɪəd/",
+   "pos": "adj",
+   "vi": "nối dây cứng",
+   "ex": "The desks are hardwired to the network.",
+   "exVi": "Các bàn được nối dây cứng vào mạng.",
+   "col": [
+    "hardwired",
+    "a hardwired connection"
+   ]
+  },
+  {
+   "id": "tc071",
+   "topic": "Viễn thông",
+   "w": "dropped call",
+   "ipa": "/drɒpt kɔːl/",
+   "pos": "n",
+   "vi": "cuộc gọi bị rớt",
+   "ex": "A dropped call is annoying during a meeting.",
+   "exVi": "Một cuộc gọi bị rớt gây khó chịu trong cuộc họp.",
+   "col": [
+    "a dropped call",
+    "a dropped call rate"
+   ]
+  },
+  {
+   "id": "tc072",
+   "topic": "Viễn thông",
+   "w": "premium bandwidth",
+   "ipa": "/ˈpriːmiəm ˈbændwɪdθ/",
+   "pos": "n",
+   "vi": "băng thông ưu tiên",
+   "ex": "Premium bandwidth speeds up video calls.",
+   "exVi": "Băng thông ưu tiên tăng tốc cuộc gọi video.",
+   "col": [
+    "premium bandwidth",
+    "a premium bandwidth plan"
+   ]
+  },
+  {
+   "id": "tc073",
+   "topic": "Viễn thông",
+   "w": "static",
+   "ipa": "/ˈstætɪk/",
+   "pos": "n",
+   "vi": "tiếng nhiễu",
+   "ex": "Static on the line made it hard to hear.",
+   "exVi": "Tiếng nhiễu trên đường dây khiến khó nghe.",
+   "col": [
+    "static",
+    "background static"
+   ]
+  },
+  {
+   "id": "tc074",
+   "topic": "Viễn thông",
+   "w": "scalable",
+   "ipa": "/ˈskeɪləbl/",
+   "pos": "adj",
+   "vi": "có thể mở rộng",
+   "ex": "The network is scalable as demand grows.",
+   "exVi": "Mạng có thể mở rộng khi nhu cầu tăng.",
+   "col": [
+    "a scalable network",
+    "highly scalable"
+   ]
+  },
+  {
+   "id": "tc075",
+   "topic": "Viễn thông",
+   "w": "reliable",
+   "ipa": "/rɪˈlaɪəbl/",
+   "pos": "adj",
+   "vi": "đáng tin cậy",
+   "ex": "The service proved fast and reliable.",
+   "exVi": "Dịch vụ chứng tỏ nhanh và đáng tin cậy.",
+   "col": [
+    "a reliable network",
+    "highly reliable"
+   ]
+  },
+  {
+   "id": "tc076",
+   "topic": "Viễn thông",
+   "w": "compatible",
+   "ipa": "/kəmˈpætəbl/",
+   "pos": "adj",
+   "vi": "tương thích",
+   "ex": "The handset is compatible with any network.",
+   "exVi": "Máy điện thoại tương thích với mọi mạng.",
+   "col": [
+    "compatible with",
+    "fully compatible"
+   ]
+  },
+  {
+   "id": "tc077",
+   "topic": "Viễn thông",
+   "w": "portable",
+   "ipa": "/ˈpɔːtəbl/",
+   "pos": "adj",
+   "vi": "di động, mang theo được",
+   "ex": "The portable router works anywhere.",
+   "exVi": "Bộ định tuyến di động hoạt động ở bất cứ đâu.",
+   "col": [
+    "a portable device",
+    "a portable router"
+   ]
+  },
+  {
+   "id": "tc078",
+   "topic": "Viễn thông",
+   "w": "provider plan",
+   "ipa": "/prəˈvaɪdə plæn/",
+   "pos": "n",
+   "vi": "gói của nhà mạng",
+   "ex": "The provider plan includes free roaming.",
+   "exVi": "Gói của nhà mạng bao gồm chuyển vùng miễn phí.",
+   "col": [
+    "a provider plan",
+    "a flexible provider plan"
+   ]
+  },
+  {
+   "id": "tc079",
+   "topic": "Viễn thông",
+   "w": "activate service",
+   "ipa": "/ˈæktɪveɪt ˈsɜːvɪs/",
+   "pos": "v",
+   "vi": "kích hoạt dịch vụ",
+   "ex": "Activate service by calling the hotline.",
+   "exVi": "Kích hoạt dịch vụ bằng cách gọi đường dây nóng.",
+   "col": [
+    "activate service",
+    "activate service online"
+   ]
+  },
+  {
+   "id": "tc080",
+   "topic": "Viễn thông",
+   "w": "terminate",
+   "ipa": "/ˈtɜːmɪneɪt/",
+   "pos": "v",
+   "vi": "chấm dứt",
+   "ex": "The customer terminated the contract early.",
+   "exVi": "Khách hàng chấm dứt hợp đồng sớm.",
+   "col": [
+    "terminate a contract",
+    "terminate service"
+   ]
+  },
+  {
+   "id": "tc081",
+   "topic": "Viễn thông",
+   "w": "premium tier",
+   "ipa": "/ˈpriːmiəm tɪə/",
+   "pos": "n",
+   "vi": "hạng cao cấp",
+   "ex": "The premium tier offers priority support.",
+   "exVi": "Hạng cao cấp cung cấp hỗ trợ ưu tiên.",
+   "col": [
+    "a premium tier",
+    "the premium tier"
+   ]
+  },
+  {
+   "id": "tc082",
+   "topic": "Viễn thông",
+   "w": "optimize",
+   "ipa": "/ˈɒptɪmaɪz/",
+   "pos": "v",
+   "vi": "tối ưu hoá",
+   "ex": "The engineers optimized the network speed.",
+   "exVi": "Các kỹ sư tối ưu hoá tốc độ mạng.",
+   "col": [
+    "optimize a network",
+    "optimize performance"
+   ]
+  },
+  {
+   "id": "tc083",
+   "topic": "Viễn thông",
+   "w": "handover",
+   "ipa": "/ˈhændəʊvə/",
+   "pos": "n",
+   "vi": "chuyển giao",
+   "ex": "The handover between towers was smooth.",
+   "exVi": "Việc chuyển giao giữa các trạm phát êm ả.",
+   "col": [
+    "a handover",
+    "a smooth handover"
+   ]
+  },
+  {
+   "id": "tc084",
+   "topic": "Viễn thông",
+   "w": "provider outage",
+   "ipa": "/prəˈvaɪdə ˈaʊtɪdʒ/",
+   "pos": "n",
+   "vi": "sự cố nhà mạng",
+   "ex": "A provider outage affected the whole city.",
+   "exVi": "Một sự cố nhà mạng ảnh hưởng cả thành phố.",
+   "col": [
+    "a provider outage",
+    "a major provider outage"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1139 @@
+{
+ "topic": "Cụm từ & thành ngữ công sở",
+ "words": [
+  {
+   "id": "idm001",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "deadline",
+   "ipa": "/ˈdedlaɪn/",
+   "pos": "n",
+   "vi": "hạn chót",
+   "ex": "The team worked hard to meet the deadline.",
+   "exVi": "Nhóm làm việc chăm để kịp hạn chót.",
+   "col": [
+    "meet a deadline",
+    "a tight deadline"
+   ]
+  },
+  {
+   "id": "idm002",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "milestone",
+   "ipa": "/ˈmaɪlstəʊn/",
+   "pos": "n",
+   "vi": "cột mốc",
+   "ex": "Reaching a thousand sales was a milestone.",
+   "exVi": "Đạt một nghìn đơn bán là một cột mốc.",
+   "col": [
+    "a milestone",
+    "a key milestone"
+   ]
+  },
+  {
+   "id": "idm003",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "benchmark",
+   "ipa": "/ˈbentʃmɑːk/",
+   "pos": "n",
+   "vi": "chuẩn đối sánh",
+   "ex": "The report set a new benchmark for quality.",
+   "exVi": "Báo cáo đặt một chuẩn đối sánh mới cho chất lượng.",
+   "col": [
+    "a benchmark",
+    "an industry benchmark"
+   ]
+  },
+  {
+   "id": "idm004",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "turnaround",
+   "ipa": "/ˈtɜːnəraʊnd/",
+   "pos": "n",
+   "vi": "thời gian hoàn thành",
+   "ex": "A fast turnaround pleased the client.",
+   "exVi": "Một thời gian hoàn thành nhanh làm hài lòng khách.",
+   "col": [
+    "a turnaround",
+    "a quick turnaround"
+   ]
+  },
+  {
+   "id": "idm005",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "workload",
+   "ipa": "/ˈwɜːkləʊd/",
+   "pos": "n",
+   "vi": "khối lượng công việc",
+   "ex": "The heavy workload was shared fairly.",
+   "exVi": "Khối lượng công việc nặng được chia công bằng.",
+   "col": [
+    "a workload",
+    "a heavy workload"
+   ]
+  },
+  {
+   "id": "idm006",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "backlog",
+   "ipa": "/ˈbæklɒɡ/",
+   "pos": "n",
+   "vi": "công việc tồn đọng",
+   "ex": "The team cleared the backlog by Friday.",
+   "exVi": "Nhóm giải quyết công việc tồn đọng trước thứ Sáu.",
+   "col": [
+    "a backlog",
+    "clear a backlog"
+   ]
+  },
+  {
+   "id": "idm007",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "bottleneck",
+   "ipa": "/ˈbɒtlnek/",
+   "pos": "n",
+   "vi": "nút thắt",
+   "ex": "A bottleneck slowed the whole process.",
+   "exVi": "Một nút thắt làm chậm cả quy trình.",
+   "col": [
+    "a bottleneck",
+    "a major bottleneck"
+   ]
+  },
+  {
+   "id": "idm008",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "breakthrough",
+   "ipa": "/ˈbreɪkθruː/",
+   "pos": "n",
+   "vi": "bước đột phá",
+   "ex": "The idea was a real breakthrough.",
+   "exVi": "Ý tưởng là một bước đột phá thực sự.",
+   "col": [
+    "a breakthrough",
+    "a major breakthrough"
+   ]
+  },
+  {
+   "id": "idm009",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "overhead",
+   "ipa": "/ˈəʊvəhed/",
+   "pos": "n",
+   "vi": "chi phí chung",
+   "ex": "Lower overhead raised the profit.",
+   "exVi": "Chi phí chung thấp hơn nâng lợi nhuận.",
+   "col": [
+    "overhead",
+    "overhead costs"
+   ]
+  },
+  {
+   "id": "idm010",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "downturn",
+   "ipa": "/ˈdaʊntɜːn/",
+   "pos": "n",
+   "vi": "sự suy giảm",
+   "ex": "The downturn hit the whole sector.",
+   "exVi": "Sự suy giảm ảnh hưởng cả lĩnh vực.",
+   "col": [
+    "a downturn",
+    "an economic downturn"
+   ]
+  },
+  {
+   "id": "idm011",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "upturn",
+   "ipa": "/ˈʌptɜːn/",
+   "pos": "n",
+   "vi": "sự khởi sắc",
+   "ex": "An upturn in sales lifted morale.",
+   "exVi": "Một sự khởi sắc trong doanh số nâng tinh thần.",
+   "col": [
+    "an upturn",
+    "an upturn in sales"
+   ]
+  },
+  {
+   "id": "idm012",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "outlook",
+   "ipa": "/ˈaʊtlʊk/",
+   "pos": "n",
+   "vi": "triển vọng",
+   "ex": "The outlook for the year looks strong.",
+   "exVi": "Triển vọng cho năm trông vững chắc.",
+   "col": [
+    "an outlook",
+    "the outlook for"
+   ]
+  },
+  {
+   "id": "idm013",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "turnover",
+   "ipa": "/ˈtɜːnəʊvə/",
+   "pos": "n",
+   "vi": "doanh số, tỷ lệ nghỉ việc",
+   "ex": "Staff turnover fell after the pay rise.",
+   "exVi": "Tỷ lệ nghỉ việc giảm sau đợt tăng lương.",
+   "col": [
+    "turnover",
+    "staff turnover"
+   ]
+  },
+  {
+   "id": "idm014",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "headcount",
+   "ipa": "/ˈhedkaʊnt/",
+   "pos": "n",
+   "vi": "số lượng nhân sự",
+   "ex": "The headcount grew by twenty this year.",
+   "exVi": "Số lượng nhân sự tăng hai mươi năm nay.",
+   "col": [
+    "headcount",
+    "a headcount freeze"
+   ]
+  },
+  {
+   "id": "idm015",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "overtime",
+   "ipa": "/ˈəʊvətaɪm/",
+   "pos": "n",
+   "vi": "làm thêm giờ",
+   "ex": "Overtime is paid at a higher rate.",
+   "exVi": "Làm thêm giờ được trả ở mức cao hơn.",
+   "col": [
+    "overtime",
+    "overtime pay"
+   ]
+  },
+  {
+   "id": "idm016",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "flextime",
+   "ipa": "/ˈflekstaɪm/",
+   "pos": "n",
+   "vi": "giờ làm linh hoạt",
+   "ex": "Flextime lets staff choose their hours.",
+   "exVi": "Giờ làm linh hoạt cho nhân viên chọn giờ.",
+   "col": [
+    "flextime",
+    "offer flextime"
+   ]
+  },
+  {
+   "id": "idm017",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "teamwork",
+   "ipa": "/ˈtiːmwɜːk/",
+   "pos": "n",
+   "vi": "làm việc nhóm",
+   "ex": "Good teamwork finished the job early.",
+   "exVi": "Làm việc nhóm tốt hoàn thành sớm.",
+   "col": [
+    "teamwork",
+    "strong teamwork"
+   ]
+  },
+  {
+   "id": "idm018",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "brainstorm",
+   "ipa": "/ˈbreɪnstɔːm/",
+   "pos": "v",
+   "vi": "động não",
+   "ex": "The team brainstormed fresh ideas.",
+   "exVi": "Nhóm động não các ý tưởng mới.",
+   "col": [
+    "brainstorm",
+    "brainstorm ideas"
+   ]
+  },
+  {
+   "id": "idm019",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "multitask",
+   "ipa": "/ˌmʌltiˈtɑːsk/",
+   "pos": "v",
+   "vi": "làm nhiều việc cùng lúc",
+   "ex": "A good assistant can multitask well.",
+   "exVi": "Một trợ lý giỏi có thể làm nhiều việc cùng lúc.",
+   "col": [
+    "multitask",
+    "multitask well"
+   ]
+  },
+  {
+   "id": "idm020",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "prioritize",
+   "ipa": "/praɪˈɒrətaɪz/",
+   "pos": "v",
+   "vi": "ưu tiên",
+   "ex": "The team prioritized urgent tasks.",
+   "exVi": "Nhóm ưu tiên các nhiệm vụ gấp.",
+   "col": [
+    "prioritize",
+    "prioritize tasks"
+   ]
+  },
+  {
+   "id": "idm021",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "streamline",
+   "ipa": "/ˈstriːmlaɪn/",
+   "pos": "v",
+   "vi": "tinh gọn",
+   "ex": "New tools streamlined the workflow.",
+   "exVi": "Công cụ mới tinh gọn luồng công việc.",
+   "col": [
+    "streamline",
+    "streamline a process"
+   ]
+  },
+  {
+   "id": "idm022",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "delegate",
+   "ipa": "/ˈdelɪɡeɪt/",
+   "pos": "v",
+   "vi": "uỷ thác",
+   "ex": "A good manager delegates routine work.",
+   "exVi": "Một quản lý giỏi uỷ thác công việc thường ngày.",
+   "col": [
+    "delegate",
+    "delegate a task"
+   ]
+  },
+  {
+   "id": "idm023",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "outsource",
+   "ipa": "/ˌaʊtˈsɔːs/",
+   "pos": "v",
+   "vi": "thuê ngoài",
+   "ex": "The firm outsourced its IT support.",
+   "exVi": "Công ty thuê ngoài dịch vụ hỗ trợ IT.",
+   "col": [
+    "outsource",
+    "outsource a service"
+   ]
+  },
+  {
+   "id": "idm024",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "network",
+   "ipa": "/ˈnetwɜːk/",
+   "pos": "v",
+   "vi": "xây dựng quan hệ",
+   "ex": "Staff network at the yearly event.",
+   "exVi": "Nhân viên xây dựng quan hệ tại sự kiện thường niên.",
+   "col": [
+    "network",
+    "network with"
+   ]
+  },
+  {
+   "id": "idm025",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "liaise",
+   "ipa": "/liˈeɪz/",
+   "pos": "v",
+   "vi": "phối hợp",
+   "ex": "The teams liaise closely each day.",
+   "exVi": "Các nhóm phối hợp chặt chẽ mỗi ngày.",
+   "col": [
+    "liaise",
+    "liaise with"
+   ]
+  },
+  {
+   "id": "idm026",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "collaborate",
+   "ipa": "/kəˈlæbəreɪt/",
+   "pos": "v",
+   "vi": "hợp tác",
+   "ex": "The two teams collaborated on the plan.",
+   "exVi": "Hai nhóm hợp tác trong kế hoạch.",
+   "col": [
+    "collaborate",
+    "collaborate with"
+   ]
+  },
+  {
+   "id": "idm027",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "coordinate",
+   "ipa": "/kəʊˈɔːdɪneɪt/",
+   "pos": "v",
+   "vi": "điều phối",
+   "ex": "The manager coordinates the whole team.",
+   "exVi": "Người quản lý điều phối cả nhóm.",
+   "col": [
+    "coordinate",
+    "coordinate a team"
+   ]
+  },
+  {
+   "id": "idm028",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "implement",
+   "ipa": "/ˈɪmplɪment/",
+   "pos": "v",
+   "vi": "triển khai",
+   "ex": "The team implemented the new system.",
+   "exVi": "Nhóm triển khai hệ thống mới.",
+   "col": [
+    "implement",
+    "implement a plan"
+   ]
+  },
+  {
+   "id": "idm029",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "oversee",
+   "ipa": "/ˌəʊvəˈsiː/",
+   "pos": "v",
+   "vi": "giám sát",
+   "ex": "A senior manager oversees the project.",
+   "exVi": "Một quản lý cấp cao giám sát dự án.",
+   "col": [
+    "oversee",
+    "oversee a project"
+   ]
+  },
+  {
+   "id": "idm030",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "undertake",
+   "ipa": "/ˌʌndəˈteɪk/",
+   "pos": "v",
+   "vi": "đảm nhận",
+   "ex": "The firm will undertake a full review.",
+   "exVi": "Công ty sẽ đảm nhận một cuộc rà soát toàn diện.",
+   "col": [
+    "undertake",
+    "undertake a task"
+   ]
+  },
+  {
+   "id": "idm031",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "proactive",
+   "ipa": "/prəʊˈæktɪv/",
+   "pos": "adj",
+   "vi": "chủ động",
+   "ex": "A proactive team spots problems early.",
+   "exVi": "Một nhóm chủ động phát hiện vấn đề sớm.",
+   "col": [
+    "proactive",
+    "a proactive approach"
+   ]
+  },
+  {
+   "id": "idm032",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "hands-on",
+   "ipa": "/ˌhændz ˈɒn/",
+   "pos": "adj",
+   "vi": "thực hành trực tiếp",
+   "ex": "The manager takes a hands-on approach.",
+   "exVi": "Người quản lý dùng một cách tiếp cận thực hành trực tiếp.",
+   "col": [
+    "hands-on",
+    "a hands-on manager"
+   ]
+  },
+  {
+   "id": "idm033",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "results-driven",
+   "ipa": "/rɪˈzʌlts ˈdrɪvn/",
+   "pos": "adj",
+   "vi": "hướng kết quả",
+   "ex": "The firm has a results-driven culture.",
+   "exVi": "Công ty có một văn hoá hướng kết quả.",
+   "col": [
+    "results-driven",
+    "a results-driven team"
+   ]
+  },
+  {
+   "id": "idm034",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "detail-oriented",
+   "ipa": "/ˈdiːteɪl ˈɔːrientɪd/",
+   "pos": "adj",
+   "vi": "chú trọng chi tiết",
+   "ex": "A detail-oriented worker catches errors.",
+   "exVi": "Một người chú trọng chi tiết bắt được lỗi.",
+   "col": [
+    "detail-oriented",
+    "a detail-oriented person"
+   ]
+  },
+  {
+   "id": "idm035",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "cost-effective",
+   "ipa": "/ˌkɒst ɪˈfektɪv/",
+   "pos": "adj",
+   "vi": "hiệu quả chi phí",
+   "ex": "The plan was simple and cost-effective.",
+   "exVi": "Kế hoạch đơn giản và hiệu quả chi phí.",
+   "col": [
+    "cost-effective",
+    "a cost-effective option"
+   ]
+  },
+  {
+   "id": "idm036",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "time-consuming",
+   "ipa": "/ˈtaɪm kənsjuːmɪŋ/",
+   "pos": "adj",
+   "vi": "tốn thời gian",
+   "ex": "The manual task was time-consuming.",
+   "exVi": "Nhiệm vụ thủ công tốn thời gian.",
+   "col": [
+    "time-consuming",
+    "a time-consuming task"
+   ]
+  },
+  {
+   "id": "idm037",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "user-friendly",
+   "ipa": "/ˌjuːzə ˈfrendli/",
+   "pos": "adj",
+   "vi": "dễ sử dụng",
+   "ex": "The tool is simple and user-friendly.",
+   "exVi": "Công cụ đơn giản và dễ sử dụng.",
+   "col": [
+    "user-friendly",
+    "a user-friendly design"
+   ]
+  },
+  {
+   "id": "idm038",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "state-of-the-art",
+   "ipa": "/ˌsteɪt əv ði ˈɑːt/",
+   "pos": "adj",
+   "vi": "hiện đại nhất",
+   "ex": "The lab has state-of-the-art equipment.",
+   "exVi": "Phòng thí nghiệm có thiết bị hiện đại nhất.",
+   "col": [
+    "state-of-the-art",
+    "a state-of-the-art facility"
+   ]
+  },
+  {
+   "id": "idm039",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "cutting-edge",
+   "ipa": "/ˌkʌtɪŋ ˈedʒ/",
+   "pos": "adj",
+   "vi": "tiên tiến",
+   "ex": "The firm uses cutting-edge technology.",
+   "exVi": "Công ty dùng công nghệ tiên tiến.",
+   "col": [
+    "cutting-edge",
+    "cutting-edge technology"
+   ]
+  },
+  {
+   "id": "idm040",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "long-term",
+   "ipa": "/ˌlɒŋ ˈtɜːm/",
+   "pos": "adj",
+   "vi": "dài hạn",
+   "ex": "The board took a long-term view.",
+   "exVi": "Hội đồng có một cái nhìn dài hạn.",
+   "col": [
+    "long-term",
+    "a long-term plan"
+   ]
+  },
+  {
+   "id": "idm041",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "short-staffed",
+   "ipa": "/ˌʃɔːt ˈstɑːft/",
+   "pos": "adj",
+   "vi": "thiếu nhân sự",
+   "ex": "The office was short-staffed all week.",
+   "exVi": "Văn phòng thiếu nhân sự cả tuần.",
+   "col": [
+    "short-staffed",
+    "be short-staffed"
+   ]
+  },
+  {
+   "id": "idm042",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "feedback",
+   "ipa": "/ˈfiːdbæk/",
+   "pos": "n",
+   "vi": "phản hồi",
+   "ex": "The manager gave constructive feedback.",
+   "exVi": "Người quản lý đưa ra phản hồi mang tính xây dựng.",
+   "col": [
+    "feedback",
+    "honest feedback"
+   ]
+  },
+  {
+   "id": "idm043",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "rapport",
+   "ipa": "/ræˈpɔː/",
+   "pos": "n",
+   "vi": "sự gắn kết",
+   "ex": "The team built good rapport with the client.",
+   "exVi": "Nhóm xây dựng sự gắn kết tốt với khách.",
+   "col": [
+    "rapport",
+    "build rapport"
+   ]
+  },
+  {
+   "id": "idm044",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "morale",
+   "ipa": "/məˈrɑːl/",
+   "pos": "n",
+   "vi": "tinh thần",
+   "ex": "A pay rise lifted staff morale.",
+   "exVi": "Một đợt tăng lương nâng tinh thần nhân viên.",
+   "col": [
+    "morale",
+    "boost morale"
+   ]
+  },
+  {
+   "id": "idm045",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "initiative",
+   "ipa": "/ɪˈnɪʃətɪv/",
+   "pos": "n",
+   "vi": "sáng kiến, tính chủ động",
+   "ex": "She showed real initiative in the project.",
+   "exVi": "Bà thể hiện tính chủ động thực sự trong dự án.",
+   "col": [
+    "initiative",
+    "show initiative"
+   ]
+  },
+  {
+   "id": "idm046",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "mindset",
+   "ipa": "/ˈmaɪndset/",
+   "pos": "n",
+   "vi": "tư duy",
+   "ex": "A growth mindset helps the team improve.",
+   "exVi": "Một tư duy phát triển giúp nhóm tiến bộ.",
+   "col": [
+    "a mindset",
+    "a growth mindset"
+   ]
+  },
+  {
+   "id": "idm047",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "synergy",
+   "ipa": "/ˈsɪnədʒi/",
+   "pos": "n",
+   "vi": "sự cộng hưởng",
+   "ex": "The merger created real synergy.",
+   "exVi": "Việc sáp nhập tạo ra sự cộng hưởng thực sự.",
+   "col": [
+    "synergy",
+    "create synergy"
+   ]
+  },
+  {
+   "id": "idm048",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "leverage",
+   "ipa": "/ˈliːvərɪdʒ/",
+   "pos": "v",
+   "vi": "tận dụng",
+   "ex": "The firm leveraged its brand to grow.",
+   "exVi": "Công ty tận dụng thương hiệu để phát triển.",
+   "col": [
+    "leverage",
+    "leverage a strength"
+   ]
+  },
+  {
+   "id": "idm049",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "optimize",
+   "ipa": "/ˈɒptɪmaɪz/",
+   "pos": "v",
+   "vi": "tối ưu hoá",
+   "ex": "The team optimized the whole workflow.",
+   "exVi": "Nhóm tối ưu hoá toàn bộ luồng công việc.",
+   "col": [
+    "optimize",
+    "optimize a process"
+   ]
+  },
+  {
+   "id": "idm050",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "facilitate",
+   "ipa": "/fəˈsɪlɪteɪt/",
+   "pos": "v",
+   "vi": "tạo điều kiện",
+   "ex": "The tool facilitates faster teamwork.",
+   "exVi": "Công cụ tạo điều kiện cho làm việc nhóm nhanh hơn.",
+   "col": [
+    "facilitate",
+    "facilitate a process"
+   ]
+  },
+  {
+   "id": "idm051",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "spearhead",
+   "ipa": "/ˈspɪəhed/",
+   "pos": "v",
+   "vi": "dẫn dắt",
+   "ex": "She spearheaded the digital project.",
+   "exVi": "Bà dẫn dắt dự án số hoá.",
+   "col": [
+    "spearhead",
+    "spearhead a project"
+   ]
+  },
+  {
+   "id": "idm052",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "onboard",
+   "ipa": "/ˈɒnbɔːd/",
+   "pos": "v",
+   "vi": "hội nhập nhân viên mới",
+   "ex": "The team onboards new hires in a week.",
+   "exVi": "Nhóm hội nhập nhân viên mới trong một tuần.",
+   "col": [
+    "onboard",
+    "onboard a hire"
+   ]
+  },
+  {
+   "id": "idm053",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "upskill",
+   "ipa": "/ˈʌpskɪl/",
+   "pos": "v",
+   "vi": "nâng cao kỹ năng",
+   "ex": "The firm helps staff upskill each year.",
+   "exVi": "Công ty giúp nhân viên nâng cao kỹ năng mỗi năm.",
+   "col": [
+    "upskill",
+    "upskill staff"
+   ]
+  },
+  {
+   "id": "idm054",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "touch base",
+   "ipa": "/tʌtʃ beɪs/",
+   "pos": "v",
+   "vi": "liên lạc trao đổi",
+   "ex": "Let's touch base after the meeting.",
+   "exVi": "Hãy liên lạc trao đổi sau cuộc họp.",
+   "col": [
+    "touch base",
+    "touch base with"
+   ]
+  },
+  {
+   "id": "idm055",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "circle back",
+   "ipa": "/ˈsɜːkl bæk/",
+   "pos": "v",
+   "vi": "quay lại vấn đề",
+   "ex": "We can circle back on that point later.",
+   "exVi": "Chúng ta có thể quay lại điểm đó sau.",
+   "col": [
+    "circle back",
+    "circle back on"
+   ]
+  },
+  {
+   "id": "idm056",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "follow through",
+   "ipa": "/ˈfɒləʊ θruː/",
+   "pos": "v",
+   "vi": "thực hiện đến cùng",
+   "ex": "The team followed through on the plan.",
+   "exVi": "Nhóm thực hiện kế hoạch đến cùng.",
+   "col": [
+    "follow through",
+    "follow through on"
+   ]
+  },
+  {
+   "id": "idm057",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "scale up",
+   "ipa": "/skeɪl ʌp/",
+   "pos": "v",
+   "vi": "mở rộng quy mô",
+   "ex": "The firm scaled up production quickly.",
+   "exVi": "Công ty mở rộng quy mô sản xuất nhanh.",
+   "col": [
+    "scale up",
+    "scale up a business"
+   ]
+  },
+  {
+   "id": "idm058",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "ramp up",
+   "ipa": "/ræmp ʌp/",
+   "pos": "v",
+   "vi": "đẩy mạnh",
+   "ex": "The plant ramped up output before the holidays.",
+   "exVi": "Nhà máy đẩy mạnh sản lượng trước kỳ nghỉ.",
+   "col": [
+    "ramp up",
+    "ramp up output"
+   ]
+  },
+  {
+   "id": "idm059",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "roll out",
+   "ipa": "/rəʊl aʊt/",
+   "pos": "v",
+   "vi": "triển khai rộng",
+   "ex": "The firm rolled out the update to all staff.",
+   "exVi": "Công ty triển khai bản cập nhật tới toàn bộ nhân viên.",
+   "col": [
+    "roll out",
+    "roll out a product"
+   ]
+  },
+  {
+   "id": "idm060",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "wrap up",
+   "ipa": "/ræp ʌp/",
+   "pos": "v",
+   "vi": "kết thúc",
+   "ex": "The team wrapped up the project on time.",
+   "exVi": "Nhóm kết thúc dự án đúng hạn.",
+   "col": [
+    "wrap up",
+    "wrap up a meeting"
+   ]
+  },
+  {
+   "id": "idm061",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "kick off",
+   "ipa": "/kɪk ɒf/",
+   "pos": "v",
+   "vi": "khởi động",
+   "ex": "The meeting kicked off at nine.",
+   "exVi": "Cuộc họp khởi động lúc chín giờ.",
+   "col": [
+    "kick off",
+    "kick off a project"
+   ]
+  },
+  {
+   "id": "idm062",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "reach out",
+   "ipa": "/riːtʃ aʊt/",
+   "pos": "v",
+   "vi": "liên hệ",
+   "ex": "Please reach out if you need help.",
+   "exVi": "Vui lòng liên hệ nếu bạn cần trợ giúp.",
+   "col": [
+    "reach out",
+    "reach out to"
+   ]
+  },
+  {
+   "id": "idm063",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "weigh in",
+   "ipa": "/weɪ ɪn/",
+   "pos": "v",
+   "vi": "đóng góp ý kiến",
+   "ex": "The manager weighed in on the plan.",
+   "exVi": "Người quản lý đóng góp ý kiến về kế hoạch.",
+   "col": [
+    "weigh in",
+    "weigh in on"
+   ]
+  },
+  {
+   "id": "idm064",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "loop in",
+   "ipa": "/luːp ɪn/",
+   "pos": "v",
+   "vi": "đưa vào luồng thông tin",
+   "ex": "Please loop in the whole team.",
+   "exVi": "Vui lòng đưa cả nhóm vào luồng thông tin.",
+   "col": [
+    "loop in",
+    "loop someone in"
+   ]
+  },
+  {
+   "id": "idm065",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "align",
+   "ipa": "/əˈlaɪn/",
+   "pos": "v",
+   "vi": "đồng bộ, thống nhất",
+   "ex": "The teams aligned on the goals early.",
+   "exVi": "Các nhóm thống nhất mục tiêu từ sớm.",
+   "col": [
+    "align",
+    "align on"
+   ]
+  },
+  {
+   "id": "idm066",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "strategic",
+   "ipa": "/strəˈtiːdʒɪk/",
+   "pos": "adj",
+   "vi": "mang tính chiến lược",
+   "ex": "The move was a strategic choice.",
+   "exVi": "Động thái này là một lựa chọn chiến lược.",
+   "col": [
+    "strategic",
+    "a strategic decision"
+   ]
+  },
+  {
+   "id": "idm067",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "scalable",
+   "ipa": "/ˈskeɪləbl/",
+   "pos": "adj",
+   "vi": "có thể mở rộng",
+   "ex": "The model is scalable across markets.",
+   "exVi": "Mô hình có thể mở rộng qua các thị trường.",
+   "col": [
+    "scalable",
+    "a scalable model"
+   ]
+  },
+  {
+   "id": "idm068",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "sustainable",
+   "ipa": "/səˈsteɪnəbl/",
+   "pos": "adj",
+   "vi": "bền vững",
+   "ex": "The plan supports sustainable growth.",
+   "exVi": "Kế hoạch hỗ trợ tăng trưởng bền vững.",
+   "col": [
+    "sustainable",
+    "sustainable growth"
+   ]
+  },
+  {
+   "id": "idm069",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "agile",
+   "ipa": "/ˈædʒaɪl/",
+   "pos": "adj",
+   "vi": "linh hoạt nhanh",
+   "ex": "An agile team adapts to change fast.",
+   "exVi": "Một nhóm linh hoạt thích ứng với thay đổi nhanh.",
+   "col": [
+    "agile",
+    "an agile team"
+   ]
+  },
+  {
+   "id": "idm070",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "efficient",
+   "ipa": "/ɪˈfɪʃnt/",
+   "pos": "adj",
+   "vi": "hiệu quả",
+   "ex": "An efficient process saves time and money.",
+   "exVi": "Một quy trình hiệu quả tiết kiệm thời gian và tiền.",
+   "col": [
+    "efficient",
+    "highly efficient"
+   ]
+  },
+  {
+   "id": "idm071",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "robust",
+   "ipa": "/rəʊˈbʌst/",
+   "pos": "adj",
+   "vi": "vững chắc",
+   "ex": "The plan is built on robust data.",
+   "exVi": "Kế hoạch được xây trên dữ liệu vững chắc.",
+   "col": [
+    "robust",
+    "robust growth"
+   ]
+  },
+  {
+   "id": "idm072",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "versatile",
+   "ipa": "/ˈvɜːsətaɪl/",
+   "pos": "adj",
+   "vi": "đa năng",
+   "ex": "The tool is versatile and easy to use.",
+   "exVi": "Công cụ đa năng và dễ dùng.",
+   "col": [
+    "versatile",
+    "highly versatile"
+   ]
+  },
+  {
+   "id": "idm073",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "seamless",
+   "ipa": "/ˈsiːmləs/",
+   "pos": "adj",
+   "vi": "liền mạch",
+   "ex": "The handover was smooth and seamless.",
+   "exVi": "Việc bàn giao mượt mà và liền mạch.",
+   "col": [
+    "seamless",
+    "a seamless process"
+   ]
+  },
+  {
+   "id": "idm074",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "streamlined",
+   "ipa": "/ˈstriːmlaɪnd/",
+   "pos": "adj",
+   "vi": "đã tinh gọn",
+   "ex": "A streamlined process cut the delays.",
+   "exVi": "Một quy trình đã tinh gọn giảm chậm trễ.",
+   "col": [
+    "streamlined",
+    "a streamlined workflow"
+   ]
+  },
+  {
+   "id": "idm075",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "innovative",
+   "ipa": "/ˈɪnəveɪtɪv/",
+   "pos": "adj",
+   "vi": "đổi mới",
+   "ex": "An innovative idea set the firm apart.",
+   "exVi": "Một ý tưởng đổi mới giúp công ty khác biệt.",
+   "col": [
+    "innovative",
+    "an innovative approach"
+   ]
+  },
+  {
+   "id": "idm076",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "dynamic",
+   "ipa": "/daɪˈnæmɪk/",
+   "pos": "adj",
+   "vi": "năng động",
+   "ex": "The firm has a dynamic young team.",
+   "exVi": "Công ty có một nhóm trẻ năng động.",
+   "col": [
+    "dynamic",
+    "a dynamic team"
+   ]
+  },
+  {
+   "id": "idm077",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "resourceful",
+   "ipa": "/rɪˈsɔːsfl/",
+   "pos": "adj",
+   "vi": "tháo vát",
+   "ex": "A resourceful worker finds a way.",
+   "exVi": "Một người tháo vát tìm ra cách.",
+   "col": [
+    "resourceful",
+    "a resourceful person"
+   ]
+  },
+  {
+   "id": "idm078",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "adaptable",
+   "ipa": "/əˈdæptəbl/",
+   "pos": "adj",
+   "vi": "dễ thích nghi",
+   "ex": "An adaptable team handles change well.",
+   "exVi": "Một nhóm dễ thích nghi xử lý thay đổi tốt.",
+   "col": [
+    "adaptable",
+    "an adaptable team"
+   ]
+  },
+  {
+   "id": "idm079",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "diligent",
+   "ipa": "/ˈdɪlɪdʒənt/",
+   "pos": "adj",
+   "vi": "chăm chỉ",
+   "ex": "A diligent worker finished ahead of time.",
+   "exVi": "Một người chăm chỉ hoàn thành trước hạn.",
+   "col": [
+    "diligent",
+    "a diligent worker"
+   ]
+  },
+  {
+   "id": "idm080",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "meticulous",
+   "ipa": "/məˈtɪkjələs/",
+   "pos": "adj",
+   "vi": "tỉ mỉ",
+   "ex": "A meticulous check found the error.",
+   "exVi": "Một cuộc kiểm tra tỉ mỉ tìm ra lỗi.",
+   "col": [
+    "meticulous",
+    "a meticulous approach"
+   ]
+  },
+  {
+   "id": "idm081",
+   "topic": "Cụm từ & thành ngữ công sở",
+   "w": "versed",
+   "ipa": "/vɜːst/",
+   "pos": "adj",
+   "vi": "thành thạo",
+   "ex": "She is well versed in the process.",
+   "exVi": "Bà thành thạo quy trình.",
+   "col": [
+    "versed",
+    "well versed in"
+   ]
+  }
+ ]
+}

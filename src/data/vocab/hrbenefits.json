@@ -1,0 +1,1181 @@
+{
+ "topic": "Nhân sự & phúc lợi",
+ "words": [
+  {
+   "id": "hb001",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "compensation",
+   "ipa": "/ˌkɒmpenˈseɪʃn/",
+   "pos": "n",
+   "vi": "đãi ngộ, lương thưởng",
+   "ex": "The compensation package includes bonuses and stock.",
+   "exVi": "Gói đãi ngộ bao gồm thưởng và cổ phiếu.",
+   "col": [
+    "a compensation package",
+    "total compensation"
+   ]
+  },
+  {
+   "id": "hb002",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "salary",
+   "ipa": "/ˈsæləri/",
+   "pos": "n",
+   "vi": "lương",
+   "ex": "The salary is reviewed once a year.",
+   "exVi": "Lương được xem xét mỗi năm một lần.",
+   "col": [
+    "a salary",
+    "an annual salary"
+   ]
+  },
+  {
+   "id": "hb003",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "wage",
+   "ipa": "/weɪdʒ/",
+   "pos": "n",
+   "vi": "tiền công",
+   "ex": "The hourly wage rose in January.",
+   "exVi": "Tiền công theo giờ tăng vào tháng Giêng.",
+   "col": [
+    "a wage",
+    "an hourly wage"
+   ]
+  },
+  {
+   "id": "hb004",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "payroll",
+   "ipa": "/ˈpeɪrəʊl/",
+   "pos": "n",
+   "vi": "bảng lương",
+   "ex": "The payroll is processed on the last Friday.",
+   "exVi": "Bảng lương được xử lý vào thứ Sáu cuối tháng.",
+   "col": [
+    "payroll",
+    "the payroll department"
+   ]
+  },
+  {
+   "id": "hb005",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "bonus",
+   "ipa": "/ˈbəʊnəs/",
+   "pos": "n",
+   "vi": "tiền thưởng",
+   "ex": "Staff receive a bonus at year-end.",
+   "exVi": "Nhân viên nhận tiền thưởng cuối năm.",
+   "col": [
+    "a bonus",
+    "an annual bonus"
+   ]
+  },
+  {
+   "id": "hb006",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "raise",
+   "ipa": "/reɪz/",
+   "pos": "n",
+   "vi": "tăng lương",
+   "ex": "She was given a raise after the review.",
+   "exVi": "Bà được tăng lương sau kỳ đánh giá.",
+   "col": [
+    "a raise",
+    "a pay raise"
+   ]
+  },
+  {
+   "id": "hb007",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "increment",
+   "ipa": "/ˈɪŋkrəmənt/",
+   "pos": "n",
+   "vi": "mức tăng định kỳ",
+   "ex": "The pay scale has a yearly increment.",
+   "exVi": "Thang lương có một mức tăng hằng năm.",
+   "col": [
+    "an increment",
+    "an annual increment"
+   ]
+  },
+  {
+   "id": "hb008",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "allowance",
+   "ipa": "/əˈlaʊəns/",
+   "pos": "n",
+   "vi": "phụ cấp",
+   "ex": "A travel allowance is paid each month.",
+   "exVi": "Một khoản phụ cấp đi lại được trả mỗi tháng.",
+   "col": [
+    "an allowance",
+    "a travel allowance"
+   ]
+  },
+  {
+   "id": "hb009",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "benefit",
+   "ipa": "/ˈbenɪfɪt/",
+   "pos": "n",
+   "vi": "phúc lợi",
+   "ex": "Health cover is a valued staff benefit.",
+   "exVi": "Bảo hiểm sức khoẻ là một phúc lợi được coi trọng.",
+   "col": [
+    "a benefit",
+    "staff benefits"
+   ]
+  },
+  {
+   "id": "hb010",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "perk",
+   "ipa": "/pɜːk/",
+   "pos": "n",
+   "vi": "đặc quyền",
+   "ex": "Free parking is a useful perk.",
+   "exVi": "Đỗ xe miễn phí là một đặc quyền hữu ích.",
+   "col": [
+    "a perk",
+    "a staff perk"
+   ]
+  },
+  {
+   "id": "hb011",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "pension",
+   "ipa": "/ˈpenʃn/",
+   "pos": "n",
+   "vi": "lương hưu",
+   "ex": "The firm matches each pension contribution.",
+   "exVi": "Công ty đối ứng mỗi khoản đóng góp hưu.",
+   "col": [
+    "a pension",
+    "a pension scheme"
+   ]
+  },
+  {
+   "id": "hb012",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "gratuity",
+   "ipa": "/ɡrəˈtjuːəti/",
+   "pos": "n",
+   "vi": "trợ cấp thôi việc",
+   "ex": "A gratuity is paid on long service.",
+   "exVi": "Một khoản trợ cấp được trả khi phục vụ lâu năm.",
+   "col": [
+    "a gratuity",
+    "a service gratuity"
+   ]
+  },
+  {
+   "id": "hb013",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "severance",
+   "ipa": "/ˈsevərəns/",
+   "pos": "n",
+   "vi": "trợ cấp mất việc",
+   "ex": "Severance pay depends on years of service.",
+   "exVi": "Trợ cấp mất việc tuỳ theo số năm phục vụ.",
+   "col": [
+    "severance pay",
+    "a severance package"
+   ]
+  },
+  {
+   "id": "hb014",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "stipend",
+   "ipa": "/ˈstaɪpend/",
+   "pos": "n",
+   "vi": "khoản trợ cấp cố định",
+   "ex": "Interns receive a monthly stipend.",
+   "exVi": "Thực tập sinh nhận một khoản trợ cấp hằng tháng.",
+   "col": [
+    "a stipend",
+    "a monthly stipend"
+   ]
+  },
+  {
+   "id": "hb015",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "overtime",
+   "ipa": "/ˈəʊvətaɪm/",
+   "pos": "n",
+   "vi": "làm thêm giờ",
+   "ex": "Overtime is paid at a higher rate.",
+   "exVi": "Làm thêm giờ được trả ở mức cao hơn.",
+   "col": [
+    "overtime",
+    "overtime pay"
+   ]
+  },
+  {
+   "id": "hb016",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "deduction",
+   "ipa": "/dɪˈdʌkʃn/",
+   "pos": "n",
+   "vi": "khoản khấu trừ",
+   "ex": "Tax is a standard deduction from pay.",
+   "exVi": "Thuế là một khoản khấu trừ chuẩn từ lương.",
+   "col": [
+    "a deduction",
+    "a tax deduction"
+   ]
+  },
+  {
+   "id": "hb017",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "withholding",
+   "ipa": "/wɪðˈhəʊldɪŋ/",
+   "pos": "n",
+   "vi": "khoản giữ lại",
+   "ex": "The withholding for tax is shown on the slip.",
+   "exVi": "Khoản giữ lại cho thuế hiện trên phiếu.",
+   "col": [
+    "withholding",
+    "tax withholding"
+   ]
+  },
+  {
+   "id": "hb018",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "payslip",
+   "ipa": "/ˈpeɪslɪp/",
+   "pos": "n",
+   "vi": "phiếu lương",
+   "ex": "The payslip lists every deduction.",
+   "exVi": "Phiếu lương liệt kê mọi khoản khấu trừ.",
+   "col": [
+    "a payslip",
+    "a monthly payslip"
+   ]
+  },
+  {
+   "id": "hb019",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "appraisal",
+   "ipa": "/əˈpreɪzl/",
+   "pos": "n",
+   "vi": "đánh giá năng lực",
+   "ex": "The annual appraisal sets new goals.",
+   "exVi": "Đánh giá năng lực hằng năm đặt các mục tiêu mới.",
+   "col": [
+    "an appraisal",
+    "a performance appraisal"
+   ]
+  },
+  {
+   "id": "hb020",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "promotion",
+   "ipa": "/prəˈməʊʃn/",
+   "pos": "n",
+   "vi": "thăng chức",
+   "ex": "Her promotion came after two strong years.",
+   "exVi": "Việc thăng chức của bà đến sau hai năm tốt.",
+   "col": [
+    "a promotion",
+    "a promotion opportunity"
+   ]
+  },
+  {
+   "id": "hb021",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "demotion",
+   "ipa": "/dɪˈməʊʃn/",
+   "pos": "n",
+   "vi": "giáng chức",
+   "ex": "A demotion followed the poor results.",
+   "exVi": "Một lần giáng chức theo sau kết quả kém.",
+   "col": [
+    "a demotion",
+    "face demotion"
+   ]
+  },
+  {
+   "id": "hb022",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "transfer",
+   "ipa": "/trænsˈfɜː/",
+   "pos": "n, v",
+   "vi": "luân chuyển",
+   "ex": "The transfer moved her to the head office.",
+   "exVi": "Việc luân chuyển đưa bà tới trụ sở chính.",
+   "col": [
+    "a transfer",
+    "an internal transfer"
+   ]
+  },
+  {
+   "id": "hb023",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "tenure",
+   "ipa": "/ˈtenjə/",
+   "pos": "n",
+   "vi": "thời gian công tác",
+   "ex": "Her tenure at the firm spans a decade.",
+   "exVi": "Thời gian công tác của bà tại công ty là một thập kỷ.",
+   "col": [
+    "tenure",
+    "a long tenure"
+   ]
+  },
+  {
+   "id": "hb024",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "seniority",
+   "ipa": "/ˌsiːniˈɒrəti/",
+   "pos": "n",
+   "vi": "thâm niên",
+   "ex": "Seniority affects the choice of shifts.",
+   "exVi": "Thâm niên ảnh hưởng tới việc chọn ca.",
+   "col": [
+    "seniority",
+    "based on seniority"
+   ]
+  },
+  {
+   "id": "hb025",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "grievance",
+   "ipa": "/ˈɡriːvəns/",
+   "pos": "n",
+   "vi": "khiếu nại lao động",
+   "ex": "An employee raised a formal grievance.",
+   "exVi": "Một nhân viên nêu một khiếu nại chính thức.",
+   "col": [
+    "a grievance",
+    "a grievance procedure"
+   ]
+  },
+  {
+   "id": "hb026",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "dispute",
+   "ipa": "/dɪˈspjuːt/",
+   "pos": "n",
+   "vi": "tranh chấp",
+   "ex": "The pay dispute was settled by talks.",
+   "exVi": "Tranh chấp lương được giải quyết bằng thương lượng.",
+   "col": [
+    "a dispute",
+    "a pay dispute"
+   ]
+  },
+  {
+   "id": "hb027",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "union",
+   "ipa": "/ˈjuːniən/",
+   "pos": "n",
+   "vi": "công đoàn",
+   "ex": "The union negotiated a new pay deal.",
+   "exVi": "Công đoàn thương lượng một thoả thuận lương mới.",
+   "col": [
+    "a union",
+    "a trade union"
+   ]
+  },
+  {
+   "id": "hb028",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "collective bargaining",
+   "ipa": "/kəˈlektɪv ˈbɑːɡɪnɪŋ/",
+   "pos": "n",
+   "vi": "thương lượng tập thể",
+   "ex": "Collective bargaining raised the base wage.",
+   "exVi": "Thương lượng tập thể nâng mức lương cơ bản.",
+   "col": [
+    "collective bargaining",
+    "a collective bargaining agreement"
+   ]
+  },
+  {
+   "id": "hb029",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "strike",
+   "ipa": "/straɪk/",
+   "pos": "n",
+   "vi": "đình công",
+   "ex": "A short strike halted production for a day.",
+   "exVi": "Một cuộc đình công ngắn dừng sản xuất một ngày.",
+   "col": [
+    "a strike",
+    "go on strike"
+   ]
+  },
+  {
+   "id": "hb030",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "arbitration",
+   "ipa": "/ˌɑːbɪˈtreɪʃn/",
+   "pos": "n",
+   "vi": "trọng tài lao động",
+   "ex": "Arbitration settled the long dispute.",
+   "exVi": "Trọng tài lao động giải quyết tranh chấp kéo dài.",
+   "col": [
+    "arbitration",
+    "binding arbitration"
+   ]
+  },
+  {
+   "id": "hb031",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "mediation",
+   "ipa": "/ˌmiːdiˈeɪʃn/",
+   "pos": "n",
+   "vi": "hoà giải",
+   "ex": "Mediation helped the two sides agree.",
+   "exVi": "Hoà giải giúp hai bên đồng thuận.",
+   "col": [
+    "mediation",
+    "through mediation"
+   ]
+  },
+  {
+   "id": "hb032",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "contract",
+   "ipa": "/ˈkɒntrækt/",
+   "pos": "n",
+   "vi": "hợp đồng lao động",
+   "ex": "The contract sets out the hours and pay.",
+   "exVi": "Hợp đồng nêu rõ giờ làm và lương.",
+   "col": [
+    "a contract",
+    "an employment contract"
+   ]
+  },
+  {
+   "id": "hb033",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "probation",
+   "ipa": "/prəˈbeɪʃn/",
+   "pos": "n",
+   "vi": "thử việc",
+   "ex": "New staff complete a three-month probation.",
+   "exVi": "Nhân viên mới hoàn thành ba tháng thử việc.",
+   "col": [
+    "probation",
+    "a probation period"
+   ]
+  },
+  {
+   "id": "hb034",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "resignation",
+   "ipa": "/ˌrezɪɡˈneɪʃn/",
+   "pos": "n",
+   "vi": "đơn từ chức",
+   "ex": "She handed in her resignation last week.",
+   "exVi": "Bà nộp đơn từ chức tuần trước.",
+   "col": [
+    "a resignation",
+    "a letter of resignation"
+   ]
+  },
+  {
+   "id": "hb035",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "retirement",
+   "ipa": "/rɪˈtaɪəmənt/",
+   "pos": "n",
+   "vi": "nghỉ hưu",
+   "ex": "He is planning his retirement for next year.",
+   "exVi": "Ông đang lên kế hoạch nghỉ hưu vào năm tới.",
+   "col": [
+    "retirement",
+    "early retirement"
+   ]
+  },
+  {
+   "id": "hb036",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "dismissal",
+   "ipa": "/dɪsˈmɪsl/",
+   "pos": "n",
+   "vi": "sa thải",
+   "ex": "The dismissal followed repeated warnings.",
+   "exVi": "Việc sa thải theo sau các cảnh cáo lặp lại.",
+   "col": [
+    "a dismissal",
+    "unfair dismissal"
+   ]
+  },
+  {
+   "id": "hb037",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "redundancy",
+   "ipa": "/rɪˈdʌndənsi/",
+   "pos": "n",
+   "vi": "dôi dư lao động",
+   "ex": "The closure led to several redundancies.",
+   "exVi": "Việc đóng cửa dẫn tới vài trường hợp dôi dư lao động.",
+   "col": [
+    "redundancy",
+    "a redundancy package"
+   ]
+  },
+  {
+   "id": "hb038",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "layoff",
+   "ipa": "/ˈleɪɒf/",
+   "pos": "n",
+   "vi": "cắt giảm nhân sự",
+   "ex": "The layoff affected the whole department.",
+   "exVi": "Việc cắt giảm nhân sự ảnh hưởng cả phòng ban.",
+   "col": [
+    "a layoff",
+    "a mass layoff"
+   ]
+  },
+  {
+   "id": "hb039",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "turnover",
+   "ipa": "/ˈtɜːnəʊvə/",
+   "pos": "n",
+   "vi": "tỷ lệ nghỉ việc",
+   "ex": "High staff turnover raised training costs.",
+   "exVi": "Tỷ lệ nghỉ việc cao làm tăng chi phí đào tạo.",
+   "col": [
+    "staff turnover",
+    "a high turnover"
+   ]
+  },
+  {
+   "id": "hb040",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "morale",
+   "ipa": "/məˈrɑːl/",
+   "pos": "n",
+   "vi": "tinh thần làm việc",
+   "ex": "Good pay lifted staff morale.",
+   "exVi": "Lương tốt nâng tinh thần làm việc của nhân viên.",
+   "col": [
+    "morale",
+    "staff morale"
+   ]
+  },
+  {
+   "id": "hb041",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "incentive",
+   "ipa": "/ɪnˈsentɪv/",
+   "pos": "n",
+   "vi": "ưu đãi khuyến khích",
+   "ex": "A bonus is a strong incentive to perform.",
+   "exVi": "Tiền thưởng là một ưu đãi mạnh để làm tốt.",
+   "col": [
+    "an incentive",
+    "a performance incentive"
+   ]
+  },
+  {
+   "id": "hb042",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "entitlement",
+   "ipa": "/ɪnˈtaɪtlmənt/",
+   "pos": "n",
+   "vi": "quyền lợi được hưởng",
+   "ex": "Holiday entitlement rises with service.",
+   "exVi": "Quyền lợi nghỉ phép tăng theo thâm niên.",
+   "col": [
+    "an entitlement",
+    "holiday entitlement"
+   ]
+  },
+  {
+   "id": "hb043",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "leave",
+   "ipa": "/liːv/",
+   "pos": "n",
+   "vi": "nghỉ phép",
+   "ex": "She took two weeks of leave in summer.",
+   "exVi": "Bà nghỉ phép hai tuần vào mùa hè.",
+   "col": [
+    "leave",
+    "annual leave"
+   ]
+  },
+  {
+   "id": "hb044",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "sabbatical",
+   "ipa": "/səˈbætɪkl/",
+   "pos": "n",
+   "vi": "nghỉ dài hạn",
+   "ex": "The professor took a year's sabbatical.",
+   "exVi": "Giáo sư nghỉ dài hạn một năm.",
+   "col": [
+    "a sabbatical",
+    "a sabbatical year"
+   ]
+  },
+  {
+   "id": "hb045",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "furlough",
+   "ipa": "/ˈfɜːləʊ/",
+   "pos": "n",
+   "vi": "nghỉ tạm không lương",
+   "ex": "Staff were placed on furlough during the closure.",
+   "exVi": "Nhân viên được cho nghỉ tạm không lương trong lúc đóng cửa.",
+   "col": [
+    "furlough",
+    "on furlough"
+   ]
+  },
+  {
+   "id": "hb046",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "timesheet",
+   "ipa": "/ˈtaɪmʃiːt/",
+   "pos": "n",
+   "vi": "bảng chấm công",
+   "ex": "Submit your timesheet by Friday.",
+   "exVi": "Nộp bảng chấm công của bạn trước thứ Sáu.",
+   "col": [
+    "a timesheet",
+    "a weekly timesheet"
+   ]
+  },
+  {
+   "id": "hb047",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "attendance",
+   "ipa": "/əˈtendəns/",
+   "pos": "n",
+   "vi": "chuyên cần",
+   "ex": "Good attendance is rewarded each quarter.",
+   "exVi": "Sự chuyên cần được thưởng mỗi quý.",
+   "col": [
+    "attendance",
+    "an attendance record"
+   ]
+  },
+  {
+   "id": "hb048",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "absenteeism",
+   "ipa": "/ˌæbsənˈtiːɪzm/",
+   "pos": "n",
+   "vi": "tình trạng vắng mặt",
+   "ex": "High absenteeism worried the managers.",
+   "exVi": "Tình trạng vắng mặt cao khiến quản lý lo lắng.",
+   "col": [
+    "absenteeism",
+    "reduce absenteeism"
+   ]
+  },
+  {
+   "id": "hb049",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "workforce",
+   "ipa": "/ˈwɜːkfɔːs/",
+   "pos": "n",
+   "vi": "lực lượng lao động",
+   "ex": "The workforce grew by twenty this year.",
+   "exVi": "Lực lượng lao động tăng hai mươi người năm nay.",
+   "col": [
+    "the workforce",
+    "a skilled workforce"
+   ]
+  },
+  {
+   "id": "hb050",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "headcount",
+   "ipa": "/ˈhedkaʊnt/",
+   "pos": "n",
+   "vi": "số lượng nhân sự",
+   "ex": "The headcount was frozen during the review.",
+   "exVi": "Số lượng nhân sự bị đóng băng trong lúc rà soát.",
+   "col": [
+    "headcount",
+    "a headcount freeze"
+   ]
+  },
+  {
+   "id": "hb051",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "staffing",
+   "ipa": "/ˈstɑːfɪŋ/",
+   "pos": "n",
+   "vi": "việc bố trí nhân sự",
+   "ex": "Careful staffing kept the shifts covered.",
+   "exVi": "Việc bố trí nhân sự cẩn thận giữ các ca có người.",
+   "col": [
+    "staffing",
+    "staffing levels"
+   ]
+  },
+  {
+   "id": "hb052",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "recruit",
+   "ipa": "/rɪˈkruːt/",
+   "pos": "v",
+   "vi": "tuyển dụng",
+   "ex": "The firm recruits graduates each summer.",
+   "exVi": "Công ty tuyển người tốt nghiệp mỗi mùa hè.",
+   "col": [
+    "recruit staff",
+    "recruit widely"
+   ]
+  },
+  {
+   "id": "hb053",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "onboard",
+   "ipa": "/ˈɒnbɔːd/",
+   "pos": "v",
+   "vi": "hội nhập nhân viên mới",
+   "ex": "The team onboards new hires in a week.",
+   "exVi": "Nhóm hội nhập nhân viên mới trong một tuần.",
+   "col": [
+    "onboard a hire",
+    "onboard staff"
+   ]
+  },
+  {
+   "id": "hb054",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "retain",
+   "ipa": "/rɪˈteɪn/",
+   "pos": "v",
+   "vi": "giữ chân",
+   "ex": "Good benefits help retain skilled staff.",
+   "exVi": "Phúc lợi tốt giúp giữ chân nhân viên có kỹ năng.",
+   "col": [
+    "retain staff",
+    "retain talent"
+   ]
+  },
+  {
+   "id": "hb055",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "delegate",
+   "ipa": "/ˈdelɪɡeɪt/",
+   "pos": "v",
+   "vi": "phân công",
+   "ex": "A good manager delegates clearly.",
+   "exVi": "Một quản lý giỏi phân công rõ ràng.",
+   "col": [
+    "delegate a task",
+    "delegate work"
+   ]
+  },
+  {
+   "id": "hb056",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "supervise",
+   "ipa": "/ˈsuːpəvaɪz/",
+   "pos": "v",
+   "vi": "giám sát",
+   "ex": "A team leader supervises the daily work.",
+   "exVi": "Một trưởng nhóm giám sát công việc hằng ngày.",
+   "col": [
+    "supervise staff",
+    "closely supervise"
+   ]
+  },
+  {
+   "id": "hb057",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "evaluate",
+   "ipa": "/ɪˈvæljueɪt/",
+   "pos": "v",
+   "vi": "đánh giá",
+   "ex": "Managers evaluate performance twice a year.",
+   "exVi": "Quản lý đánh giá hiệu suất hai lần một năm.",
+   "col": [
+    "evaluate performance",
+    "evaluate staff"
+   ]
+  },
+  {
+   "id": "hb058",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "reprimand",
+   "ipa": "/ˈreprɪmɑːnd/",
+   "pos": "v, n",
+   "vi": "khiển trách",
+   "ex": "The worker was reprimanded for the delay.",
+   "exVi": "Người lao động bị khiển trách vì sự chậm trễ.",
+   "col": [
+    "reprimand",
+    "a formal reprimand"
+   ]
+  },
+  {
+   "id": "hb059",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "reinstate",
+   "ipa": "/ˌriːɪnˈsteɪt/",
+   "pos": "v",
+   "vi": "phục chức",
+   "ex": "The employee was reinstated after the appeal.",
+   "exVi": "Nhân viên được phục chức sau khi kháng cáo.",
+   "col": [
+    "reinstate",
+    "reinstate a worker"
+   ]
+  },
+  {
+   "id": "hb060",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "accrue",
+   "ipa": "/əˈkruː/",
+   "pos": "v",
+   "vi": "tích luỹ",
+   "ex": "Holiday days accrue over the year.",
+   "exVi": "Ngày nghỉ tích luỹ trong năm.",
+   "col": [
+    "accrue",
+    "accrue benefits"
+   ]
+  },
+  {
+   "id": "hb061",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "remunerate",
+   "ipa": "/rɪˈmjuːnəreɪt/",
+   "pos": "v",
+   "vi": "trả thù lao",
+   "ex": "Staff are well remunerated for extra work.",
+   "exVi": "Nhân viên được trả thù lao tốt cho công việc thêm.",
+   "col": [
+    "remunerate",
+    "fairly remunerate"
+   ]
+  },
+  {
+   "id": "hb062",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "compensate",
+   "ipa": "/ˈkɒmpenseɪt/",
+   "pos": "v",
+   "vi": "đền bù",
+   "ex": "The firm compensates staff for travel.",
+   "exVi": "Công ty đền bù cho nhân viên chi phí đi lại.",
+   "col": [
+    "compensate",
+    "compensate staff"
+   ]
+  },
+  {
+   "id": "hb063",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "eligible",
+   "ipa": "/ˈelɪdʒəbl/",
+   "pos": "adj",
+   "vi": "đủ điều kiện",
+   "ex": "Full-time staff are eligible for the bonus.",
+   "exVi": "Nhân viên toàn thời gian đủ điều kiện nhận thưởng.",
+   "col": [
+    "eligible for",
+    "eligible staff"
+   ]
+  },
+  {
+   "id": "hb064",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "salaried",
+   "ipa": "/ˈsælərid/",
+   "pos": "adj",
+   "vi": "hưởng lương cố định",
+   "ex": "Salaried staff are not paid by the hour.",
+   "exVi": "Nhân viên hưởng lương cố định không được trả theo giờ.",
+   "col": [
+    "salaried staff",
+    "a salaried position"
+   ]
+  },
+  {
+   "id": "hb065",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "hourly",
+   "ipa": "/ˈaʊəli/",
+   "pos": "adj",
+   "vi": "theo giờ",
+   "ex": "Hourly workers clock in at the start.",
+   "exVi": "Người làm theo giờ chấm công lúc bắt đầu.",
+   "col": [
+    "hourly pay",
+    "an hourly worker"
+   ]
+  },
+  {
+   "id": "hb066",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "contractual",
+   "ipa": "/kənˈtræktʃuəl/",
+   "pos": "adj",
+   "vi": "theo hợp đồng",
+   "ex": "The bonus is a contractual entitlement.",
+   "exVi": "Tiền thưởng là quyền lợi theo hợp đồng.",
+   "col": [
+    "contractual",
+    "a contractual obligation"
+   ]
+  },
+  {
+   "id": "hb067",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "permanent",
+   "ipa": "/ˈpɜːmənənt/",
+   "pos": "adj",
+   "vi": "chính thức, dài hạn",
+   "ex": "The role became permanent after a year.",
+   "exVi": "Vị trí trở thành chính thức sau một năm.",
+   "col": [
+    "a permanent role",
+    "permanent staff"
+   ]
+  },
+  {
+   "id": "hb068",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "temporary",
+   "ipa": "/ˈtemprəri/",
+   "pos": "adj",
+   "vi": "tạm thời",
+   "ex": "Temporary staff cover the busy season.",
+   "exVi": "Nhân viên tạm thời phụ trách mùa bận rộn.",
+   "col": [
+    "temporary staff",
+    "a temporary contract"
+   ]
+  },
+  {
+   "id": "hb069",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "freelance",
+   "ipa": "/ˈfriːlɑːns/",
+   "pos": "adj",
+   "vi": "tự do",
+   "ex": "A freelance designer made the logo.",
+   "exVi": "Một nhà thiết kế tự do làm biểu trưng.",
+   "col": [
+    "freelance work",
+    "a freelance designer"
+   ]
+  },
+  {
+   "id": "hb070",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "vested",
+   "ipa": "/ˈvestɪd/",
+   "pos": "adj",
+   "vi": "đã trao quyền hưởng",
+   "ex": "The pension is fully vested after five years.",
+   "exVi": "Lương hưu được trao quyền hưởng đầy đủ sau năm năm.",
+   "col": [
+    "vested rights",
+    "fully vested"
+   ]
+  },
+  {
+   "id": "hb071",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "motivated",
+   "ipa": "/ˈməʊtɪveɪtɪd/",
+   "pos": "adj",
+   "vi": "có động lực",
+   "ex": "A motivated team works faster.",
+   "exVi": "Một nhóm có động lực làm việc nhanh hơn.",
+   "col": [
+    "highly motivated",
+    "a motivated team"
+   ]
+  },
+  {
+   "id": "hb072",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "diligent",
+   "ipa": "/ˈdɪlɪdʒənt/",
+   "pos": "adj",
+   "vi": "chăm chỉ",
+   "ex": "A diligent worker finished ahead of time.",
+   "exVi": "Một người chăm chỉ hoàn thành trước hạn.",
+   "col": [
+    "a diligent worker",
+    "diligent staff"
+   ]
+  },
+  {
+   "id": "hb073",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "competent",
+   "ipa": "/ˈkɒmpɪtənt/",
+   "pos": "adj",
+   "vi": "có năng lực",
+   "ex": "The team is competent and well trained.",
+   "exVi": "Nhóm có năng lực và được đào tạo tốt.",
+   "col": [
+    "competent",
+    "highly competent"
+   ]
+  },
+  {
+   "id": "hb074",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "dedicated",
+   "ipa": "/ˈdedɪkeɪtɪd/",
+   "pos": "adj",
+   "vi": "tận tuỵ",
+   "ex": "A dedicated staff kept the service running.",
+   "exVi": "Một đội ngũ tận tuỵ giữ dịch vụ hoạt động.",
+   "col": [
+    "dedicated staff",
+    "a dedicated worker"
+   ]
+  },
+  {
+   "id": "hb075",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "workload",
+   "ipa": "/ˈwɜːkləʊd/",
+   "pos": "n",
+   "vi": "khối lượng công việc",
+   "ex": "The heavy workload was shared across the team.",
+   "exVi": "Khối lượng công việc nặng được chia đều trong nhóm.",
+   "col": [
+    "a workload",
+    "a heavy workload"
+   ]
+  },
+  {
+   "id": "hb076",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "burnout",
+   "ipa": "/ˈbɜːnaʊt/",
+   "pos": "n",
+   "vi": "kiệt sức",
+   "ex": "Long hours led to staff burnout.",
+   "exVi": "Giờ làm dài dẫn tới kiệt sức của nhân viên.",
+   "col": [
+    "burnout",
+    "staff burnout"
+   ]
+  },
+  {
+   "id": "hb077",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "wellbeing",
+   "ipa": "/ˌwelˈbiːɪŋ/",
+   "pos": "n",
+   "vi": "sự khoẻ mạnh",
+   "ex": "The firm runs a staff wellbeing programme.",
+   "exVi": "Công ty tổ chức một chương trình chăm sóc sức khoẻ nhân viên.",
+   "col": [
+    "wellbeing",
+    "staff wellbeing"
+   ]
+  },
+  {
+   "id": "hb078",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "flexitime",
+   "ipa": "/ˈfleksitaɪm/",
+   "pos": "n",
+   "vi": "giờ làm linh hoạt",
+   "ex": "Flexitime lets staff choose their hours.",
+   "exVi": "Giờ làm linh hoạt cho nhân viên chọn giờ.",
+   "col": [
+    "flexitime",
+    "offer flexitime"
+   ]
+  },
+  {
+   "id": "hb079",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "telecommute",
+   "ipa": "/ˈtelɪkəmjuːt/",
+   "pos": "v",
+   "vi": "làm việc từ xa",
+   "ex": "Many staff telecommute two days a week.",
+   "exVi": "Nhiều nhân viên làm việc từ xa hai ngày một tuần.",
+   "col": [
+    "telecommute",
+    "telecommute regularly"
+   ]
+  },
+  {
+   "id": "hb080",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "appraise",
+   "ipa": "/əˈpreɪz/",
+   "pos": "v",
+   "vi": "đánh giá năng lực",
+   "ex": "Managers appraise each employee yearly.",
+   "exVi": "Quản lý đánh giá năng lực mỗi nhân viên hằng năm.",
+   "col": [
+    "appraise staff",
+    "appraise performance"
+   ]
+  },
+  {
+   "id": "hb081",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "mentorship",
+   "ipa": "/ˈmentɔːʃɪp/",
+   "pos": "n",
+   "vi": "sự dìu dắt",
+   "ex": "A mentorship scheme supports new staff.",
+   "exVi": "Một chương trình dìu dắt hỗ trợ nhân viên mới.",
+   "col": [
+    "mentorship",
+    "a mentorship scheme"
+   ]
+  },
+  {
+   "id": "hb082",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "succession",
+   "ipa": "/səkˈseʃn/",
+   "pos": "n",
+   "vi": "kế nhiệm",
+   "ex": "A succession plan names the next leaders.",
+   "exVi": "Một kế hoạch kế nhiệm chỉ ra các lãnh đạo tiếp theo.",
+   "col": [
+    "succession",
+    "a succession plan"
+   ]
+  },
+  {
+   "id": "hb083",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "remuneration",
+   "ipa": "/rɪˌmjuːnəˈreɪʃn/",
+   "pos": "n",
+   "vi": "thù lao",
+   "ex": "The remuneration reflects the responsibility.",
+   "exVi": "Thù lao phản ánh trách nhiệm.",
+   "col": [
+    "remuneration",
+    "a remuneration package"
+   ]
+  },
+  {
+   "id": "hb084",
+   "topic": "Nhân sự & phúc lợi",
+   "w": "compensatory",
+   "ipa": "/kəmˈpensətri/",
+   "pos": "adj",
+   "vi": "mang tính đền bù",
+   "ex": "Staff received compensatory time off.",
+   "exVi": "Nhân viên nhận thời gian nghỉ bù.",
+   "col": [
+    "compensatory",
+    "compensatory leave"
+   ]
+  }
+ ]
+}

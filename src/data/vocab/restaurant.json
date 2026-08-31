@@ -1,0 +1,1237 @@
+{
+ "topic": "Nhà hàng & ẩm thực",
+ "words": [
+  {
+   "id": "rs001",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "reservation",
+   "ipa": "/ˌrezəˈveɪʃn/",
+   "pos": "n",
+   "vi": "đặt bàn",
+   "ex": "I would like to make a reservation for four.",
+   "exVi": "Tôi muốn đặt bàn cho bốn người.",
+   "col": [
+    "make a reservation",
+    "a dinner reservation"
+   ]
+  },
+  {
+   "id": "rs002",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "booking",
+   "ipa": "/ˈbʊkɪŋ/",
+   "pos": "n",
+   "vi": "việc đặt chỗ",
+   "ex": "The booking is confirmed for eight o'clock.",
+   "exVi": "Việc đặt chỗ được xác nhận lúc tám giờ.",
+   "col": [
+    "confirm a booking",
+    "a table booking"
+   ]
+  },
+  {
+   "id": "rs003",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "menu",
+   "ipa": "/ˈmenjuː/",
+   "pos": "n",
+   "vi": "thực đơn",
+   "ex": "The lunch menu changes every week.",
+   "exVi": "Thực đơn bữa trưa thay đổi mỗi tuần.",
+   "col": [
+    "a lunch menu",
+    "the set menu"
+   ]
+  },
+  {
+   "id": "rs004",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "appetizer",
+   "ipa": "/ˈæpɪtaɪzə/",
+   "pos": "n",
+   "vi": "món khai vị",
+   "ex": "The soup is a popular appetizer here.",
+   "exVi": "Món súp là một khai vị được ưa chuộng ở đây.",
+   "col": [
+    "an appetizer",
+    "order an appetizer"
+   ]
+  },
+  {
+   "id": "rs005",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "entree",
+   "ipa": "/ˈɒntreɪ/",
+   "pos": "n",
+   "vi": "món chính",
+   "ex": "The grilled fish is the chef's favourite entree.",
+   "exVi": "Cá nướng là món chính ưa thích của đầu bếp.",
+   "col": [
+    "a main entree",
+    "choose an entree"
+   ]
+  },
+  {
+   "id": "rs006",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "beverage",
+   "ipa": "/ˈbevərɪdʒ/",
+   "pos": "n",
+   "vi": "đồ uống",
+   "ex": "A beverage is included with the set lunch.",
+   "exVi": "Một đồ uống được kèm theo bữa trưa cố định.",
+   "col": [
+    "a hot beverage",
+    "a cold beverage"
+   ]
+  },
+  {
+   "id": "rs007",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "cuisine",
+   "ipa": "/kwɪˈziːn/",
+   "pos": "n",
+   "vi": "ẩm thực",
+   "ex": "The restaurant serves authentic regional cuisine.",
+   "exVi": "Nhà hàng phục vụ ẩm thực vùng miền chính gốc.",
+   "col": [
+    "local cuisine",
+    "fine cuisine"
+   ]
+  },
+  {
+   "id": "rs008",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "dish",
+   "ipa": "/dɪʃ/",
+   "pos": "n",
+   "vi": "món ăn",
+   "ex": "The signature dish sells out most nights.",
+   "exVi": "Món ăn đặc trưng bán hết vào hầu hết các tối.",
+   "col": [
+    "a signature dish",
+    "a side dish"
+   ]
+  },
+  {
+   "id": "rs009",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "ingredient",
+   "ipa": "/ɪnˈɡriːdiənt/",
+   "pos": "n",
+   "vi": "nguyên liệu",
+   "ex": "Only fresh ingredients go into every meal.",
+   "exVi": "Chỉ nguyên liệu tươi được dùng cho mỗi bữa.",
+   "col": [
+    "fresh ingredients",
+    "a key ingredient"
+   ]
+  },
+  {
+   "id": "rs010",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "recipe",
+   "ipa": "/ˈresɪpi/",
+   "pos": "n",
+   "vi": "công thức",
+   "ex": "The recipe has been in the family for years.",
+   "exVi": "Công thức đã có trong gia đình nhiều năm.",
+   "col": [
+    "a secret recipe",
+    "follow a recipe"
+   ]
+  },
+  {
+   "id": "rs011",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "portion",
+   "ipa": "/ˈpɔːʃn/",
+   "pos": "n",
+   "vi": "khẩu phần",
+   "ex": "The portions are generous and reasonably priced.",
+   "exVi": "Khẩu phần rộng rãi và giá hợp lý.",
+   "col": [
+    "a large portion",
+    "a small portion"
+   ]
+  },
+  {
+   "id": "rs012",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "serving",
+   "ipa": "/ˈsɜːvɪŋ/",
+   "pos": "n",
+   "vi": "phần ăn",
+   "ex": "Each serving comes with a fresh salad.",
+   "exVi": "Mỗi phần ăn đi kèm một đĩa salad tươi.",
+   "col": [
+    "a serving of",
+    "a single serving"
+   ]
+  },
+  {
+   "id": "rs013",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "buffet",
+   "ipa": "/ˈbʊfeɪ/",
+   "pos": "n",
+   "vi": "tiệc tự chọn",
+   "ex": "The hotel offers a breakfast buffet daily.",
+   "exVi": "Khách sạn phục vụ tiệc sáng tự chọn hằng ngày.",
+   "col": [
+    "a breakfast buffet",
+    "an all-you-can-eat buffet"
+   ]
+  },
+  {
+   "id": "rs014",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "catering",
+   "ipa": "/ˈkeɪtərɪŋ/",
+   "pos": "n",
+   "vi": "dịch vụ ăn uống",
+   "ex": "The firm hired a catering service for the launch.",
+   "exVi": "Công ty thuê một dịch vụ ăn uống cho buổi ra mắt.",
+   "col": [
+    "a catering service",
+    "catering for an event"
+   ]
+  },
+  {
+   "id": "rs015",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "cater",
+   "ipa": "/ˈkeɪtə/",
+   "pos": "v",
+   "vi": "phục vụ ăn uống",
+   "ex": "The restaurant caters for large office parties.",
+   "exVi": "Nhà hàng phục vụ ăn uống cho các tiệc văn phòng lớn.",
+   "col": [
+    "cater for",
+    "cater an event"
+   ]
+  },
+  {
+   "id": "rs016",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "banquet",
+   "ipa": "/ˈbæŋkwɪt/",
+   "pos": "n",
+   "vi": "tiệc lớn",
+   "ex": "A banquet was held to mark the anniversary.",
+   "exVi": "Một bữa tiệc lớn được tổ chức để đánh dấu kỷ niệm.",
+   "col": [
+    "a wedding banquet",
+    "host a banquet"
+   ]
+  },
+  {
+   "id": "rs017",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "venue",
+   "ipa": "/ˈvenjuː/",
+   "pos": "n",
+   "vi": "địa điểm",
+   "ex": "The venue seats up to two hundred diners.",
+   "exVi": "Địa điểm chứa được tới hai trăm thực khách.",
+   "col": [
+    "a dining venue",
+    "a popular venue"
+   ]
+  },
+  {
+   "id": "rs018",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "patron",
+   "ipa": "/ˈpeɪtrən/",
+   "pos": "n",
+   "vi": "khách quen",
+   "ex": "Regular patrons receive a small discount.",
+   "exVi": "Khách quen nhận một khoản giảm giá nhỏ.",
+   "col": [
+    "a regular patron",
+    "a loyal patron"
+   ]
+  },
+  {
+   "id": "rs019",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "diner",
+   "ipa": "/ˈdaɪnə/",
+   "pos": "n",
+   "vi": "thực khách",
+   "ex": "Every diner is greeted at the door.",
+   "exVi": "Mỗi thực khách được chào đón tại cửa.",
+   "col": [
+    "a hungry diner",
+    "a regular diner"
+   ]
+  },
+  {
+   "id": "rs020",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "waiter",
+   "ipa": "/ˈweɪtə/",
+   "pos": "n",
+   "vi": "bồi bàn nam",
+   "ex": "The waiter recommended the daily special.",
+   "exVi": "Bồi bàn giới thiệu món đặc biệt trong ngày.",
+   "col": [
+    "a friendly waiter",
+    "call the waiter"
+   ]
+  },
+  {
+   "id": "rs021",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "waitress",
+   "ipa": "/ˈweɪtrəs/",
+   "pos": "n",
+   "vi": "bồi bàn nữ",
+   "ex": "The waitress brought the bill promptly.",
+   "exVi": "Bồi bàn nữ mang hoá đơn đến ngay.",
+   "col": [
+    "a helpful waitress",
+    "the head waitress"
+   ]
+  },
+  {
+   "id": "rs022",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "server",
+   "ipa": "/ˈsɜːvə/",
+   "pos": "n",
+   "vi": "nhân viên phục vụ",
+   "ex": "Our server explained each dish in detail.",
+   "exVi": "Nhân viên phục vụ giải thích từng món chi tiết.",
+   "col": [
+    "a friendly server",
+    "call the server"
+   ]
+  },
+  {
+   "id": "rs023",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "chef",
+   "ipa": "/ʃef/",
+   "pos": "n",
+   "vi": "đầu bếp",
+   "ex": "The head chef trained in three countries.",
+   "exVi": "Bếp trưởng được đào tạo ở ba nước.",
+   "col": [
+    "a head chef",
+    "the pastry chef"
+   ]
+  },
+  {
+   "id": "rs024",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "host",
+   "ipa": "/həʊst/",
+   "pos": "n",
+   "vi": "người tiếp đón",
+   "ex": "The host seated us near the window.",
+   "exVi": "Người tiếp đón xếp chúng tôi ngồi gần cửa sổ.",
+   "col": [
+    "a restaurant host",
+    "greet the host"
+   ]
+  },
+  {
+   "id": "rs025",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "gratuity",
+   "ipa": "/ɡrəˈtjuːəti/",
+   "pos": "n",
+   "vi": "tiền tip",
+   "ex": "A gratuity is added for large groups.",
+   "exVi": "Một khoản tiền tip được cộng cho nhóm đông.",
+   "col": [
+    "a gratuity",
+    "leave a gratuity"
+   ]
+  },
+  {
+   "id": "rs026",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "tip",
+   "ipa": "/tɪp/",
+   "pos": "n",
+   "vi": "tiền boa",
+   "ex": "A generous tip thanked the friendly staff.",
+   "exVi": "Một khoản tiền boa hậu hĩnh cảm ơn nhân viên thân thiện.",
+   "col": [
+    "leave a tip",
+    "a generous tip"
+   ]
+  },
+  {
+   "id": "rs027",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "bill",
+   "ipa": "/bɪl/",
+   "pos": "n",
+   "vi": "hoá đơn",
+   "ex": "The bill came to eighty dollars in total.",
+   "exVi": "Hoá đơn tổng cộng tám mươi đô.",
+   "col": [
+    "pay the bill",
+    "split the bill"
+   ]
+  },
+  {
+   "id": "rs028",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "tab",
+   "ipa": "/tæb/",
+   "pos": "n",
+   "vi": "hoá đơn tạm",
+   "ex": "The guests ran a tab and paid at the end.",
+   "exVi": "Khách ghi hoá đơn tạm và trả vào cuối.",
+   "col": [
+    "open a tab",
+    "run a tab"
+   ]
+  },
+  {
+   "id": "rs029",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "takeout",
+   "ipa": "/ˈteɪkaʊt/",
+   "pos": "n",
+   "vi": "đồ mang đi",
+   "ex": "The café does a busy takeout trade at lunch.",
+   "exVi": "Quán cà phê bán đồ mang đi nhộn nhịp vào buổi trưa.",
+   "col": [
+    "order takeout",
+    "a takeout menu"
+   ]
+  },
+  {
+   "id": "rs030",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "delivery",
+   "ipa": "/dɪˈlɪvəri/",
+   "pos": "n",
+   "vi": "giao đồ ăn",
+   "ex": "Free delivery applies to orders over twenty dollars.",
+   "exVi": "Miễn phí giao đồ ăn cho đơn trên hai mươi đô.",
+   "col": [
+    "food delivery",
+    "a delivery service"
+   ]
+  },
+  {
+   "id": "rs031",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "takeaway",
+   "ipa": "/ˈteɪkəweɪ/",
+   "pos": "n",
+   "vi": "đồ ăn mang về",
+   "ex": "The takeaway counter opens at eleven.",
+   "exVi": "Quầy đồ ăn mang về mở lúc mười một giờ.",
+   "col": [
+    "a takeaway",
+    "a takeaway order"
+   ]
+  },
+  {
+   "id": "rs032",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "seating",
+   "ipa": "/ˈsiːtɪŋ/",
+   "pos": "n",
+   "vi": "chỗ ngồi",
+   "ex": "Outdoor seating is popular in summer.",
+   "exVi": "Chỗ ngồi ngoài trời được ưa chuộng vào mùa hè.",
+   "col": [
+    "outdoor seating",
+    "limited seating"
+   ]
+  },
+  {
+   "id": "rs033",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "ambiance",
+   "ipa": "/ˈæmbiəns/",
+   "pos": "n",
+   "vi": "không khí, khung cảnh",
+   "ex": "The warm ambiance keeps customers coming back.",
+   "exVi": "Không khí ấm cúng giữ khách quay lại.",
+   "col": [
+    "a pleasant ambiance",
+    "a relaxing ambiance"
+   ]
+  },
+  {
+   "id": "rs034",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "hospitality",
+   "ipa": "/ˌhɒspɪˈtæləti/",
+   "pos": "n",
+   "vi": "lòng hiếu khách",
+   "ex": "The staff are known for warm hospitality.",
+   "exVi": "Nhân viên nổi tiếng vì lòng hiếu khách nồng hậu.",
+   "col": [
+    "warm hospitality",
+    "the hospitality industry"
+   ]
+  },
+  {
+   "id": "rs035",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "complimentary",
+   "ipa": "/ˌkɒmplɪˈmentri/",
+   "pos": "adj",
+   "vi": "miễn phí kèm theo",
+   "ex": "A complimentary dessert follows every main course.",
+   "exVi": "Một món tráng miệng miễn phí theo sau mỗi món chính.",
+   "col": [
+    "a complimentary drink",
+    "complimentary bread"
+   ]
+  },
+  {
+   "id": "rs036",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "vegetarian",
+   "ipa": "/ˌvedʒəˈteəriən/",
+   "pos": "adj",
+   "vi": "chay",
+   "ex": "The menu has several vegetarian options.",
+   "exVi": "Thực đơn có vài lựa chọn chay.",
+   "col": [
+    "a vegetarian dish",
+    "a vegetarian option"
+   ]
+  },
+  {
+   "id": "rs037",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "perishable",
+   "ipa": "/ˈperɪʃəbl/",
+   "pos": "adj",
+   "vi": "dễ hỏng",
+   "ex": "Perishable stock is delivered fresh each morning.",
+   "exVi": "Hàng dễ hỏng được giao tươi mỗi sáng.",
+   "col": [
+    "perishable goods",
+    "perishable items"
+   ]
+  },
+  {
+   "id": "rs038",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "seasonal",
+   "ipa": "/ˈsiːzənl/",
+   "pos": "adj",
+   "vi": "theo mùa",
+   "ex": "The menu features seasonal vegetables.",
+   "exVi": "Thực đơn có rau củ theo mùa.",
+   "col": [
+    "seasonal produce",
+    "a seasonal menu"
+   ]
+  },
+  {
+   "id": "rs039",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "garnish",
+   "ipa": "/ˈɡɑːnɪʃ/",
+   "pos": "n, v",
+   "vi": "trang trí món ăn",
+   "ex": "A garnish of herbs finished the plate.",
+   "exVi": "Một chút rau thơm trang trí hoàn thiện đĩa ăn.",
+   "col": [
+    "a garnish",
+    "garnish a dish"
+   ]
+  },
+  {
+   "id": "rs040",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "condiment",
+   "ipa": "/ˈkɒndɪmənt/",
+   "pos": "n",
+   "vi": "gia vị nêm",
+   "ex": "Condiments are placed on every table.",
+   "exVi": "Gia vị nêm được đặt trên mỗi bàn.",
+   "col": [
+    "a condiment",
+    "table condiments"
+   ]
+  },
+  {
+   "id": "rs041",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "utensil",
+   "ipa": "/juːˈtensl/",
+   "pos": "n",
+   "vi": "dụng cụ ăn uống",
+   "ex": "Clean utensils are set before each course.",
+   "exVi": "Dụng cụ ăn sạch được bày trước mỗi món.",
+   "col": [
+    "a kitchen utensil",
+    "eating utensils"
+   ]
+  },
+  {
+   "id": "rs042",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "cutlery",
+   "ipa": "/ˈkʌtləri/",
+   "pos": "n",
+   "vi": "bộ dao dĩa",
+   "ex": "The cutlery is polished before service.",
+   "exVi": "Bộ dao dĩa được đánh bóng trước khi phục vụ.",
+   "col": [
+    "clean cutlery",
+    "a set of cutlery"
+   ]
+  },
+  {
+   "id": "rs043",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "premises",
+   "ipa": "/ˈpremɪsɪz/",
+   "pos": "n",
+   "vi": "mặt bằng nhà hàng",
+   "ex": "Smoking is not allowed on the premises.",
+   "exVi": "Không được hút thuốc trong mặt bằng nhà hàng.",
+   "col": [
+    "on the premises",
+    "licensed premises"
+   ]
+  },
+  {
+   "id": "rs044",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "sanitation",
+   "ipa": "/ˌsænɪˈteɪʃn/",
+   "pos": "n",
+   "vi": "vệ sinh an toàn",
+   "ex": "Strict sanitation rules protect the customers.",
+   "exVi": "Các quy tắc vệ sinh nghiêm ngặt bảo vệ khách.",
+   "col": [
+    "food sanitation",
+    "sanitation standards"
+   ]
+  },
+  {
+   "id": "rs045",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "kitchen",
+   "ipa": "/ˈkɪtʃɪn/",
+   "pos": "n",
+   "vi": "nhà bếp",
+   "ex": "The kitchen closes at ten on weekdays.",
+   "exVi": "Nhà bếp đóng cửa lúc mười giờ các ngày trong tuần.",
+   "col": [
+    "a busy kitchen",
+    "the kitchen staff"
+   ]
+  },
+  {
+   "id": "rs046",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "pantry",
+   "ipa": "/ˈpæntri/",
+   "pos": "n",
+   "vi": "kho thực phẩm",
+   "ex": "Dry goods are kept in the pantry.",
+   "exVi": "Thực phẩm khô được cất trong kho.",
+   "col": [
+    "a well-stocked pantry",
+    "the kitchen pantry"
+   ]
+  },
+  {
+   "id": "rs047",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "staff",
+   "ipa": "/stɑːf/",
+   "pos": "n",
+   "vi": "nhân viên",
+   "ex": "The kitchen staff arrive two hours before opening.",
+   "exVi": "Nhân viên bếp tới hai tiếng trước giờ mở cửa.",
+   "col": [
+    "kitchen staff",
+    "a staff member"
+   ]
+  },
+  {
+   "id": "rs048",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "shift",
+   "ipa": "/ʃɪft/",
+   "pos": "n",
+   "vi": "ca làm",
+   "ex": "The evening shift starts at four o'clock.",
+   "exVi": "Ca tối bắt đầu lúc bốn giờ.",
+   "col": [
+    "an evening shift",
+    "work a shift"
+   ]
+  },
+  {
+   "id": "rs049",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "prep",
+   "ipa": "/prep/",
+   "pos": "n",
+   "vi": "khâu sơ chế",
+   "ex": "Vegetable prep is done every morning.",
+   "exVi": "Khâu sơ chế rau được làm mỗi sáng.",
+   "col": [
+    "food prep",
+    "prep work"
+   ]
+  },
+  {
+   "id": "rs050",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "marinate",
+   "ipa": "/ˈmærɪneɪt/",
+   "pos": "v",
+   "vi": "ướp",
+   "ex": "The chicken is marinated overnight in herbs.",
+   "exVi": "Thịt gà được ướp qua đêm với rau thơm.",
+   "col": [
+    "marinate the meat",
+    "marinate overnight"
+   ]
+  },
+  {
+   "id": "rs051",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "simmer",
+   "ipa": "/ˈsɪmə/",
+   "pos": "v",
+   "vi": "ninh nhỏ lửa",
+   "ex": "The sauce simmers for two hours.",
+   "exVi": "Nước sốt được ninh nhỏ lửa trong hai giờ.",
+   "col": [
+    "simmer gently",
+    "let it simmer"
+   ]
+  },
+  {
+   "id": "rs052",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "sauté",
+   "ipa": "/ˈsəʊteɪ/",
+   "pos": "v",
+   "vi": "xào nhanh",
+   "ex": "Sauté the onions until they turn golden.",
+   "exVi": "Xào hành cho tới khi vàng.",
+   "col": [
+    "sauté the vegetables",
+    "lightly sauté"
+   ]
+  },
+  {
+   "id": "rs053",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "roast",
+   "ipa": "/rəʊst/",
+   "pos": "v",
+   "vi": "nướng, quay",
+   "ex": "The chef roasts the vegetables with olive oil.",
+   "exVi": "Đầu bếp nướng rau với dầu ô liu.",
+   "col": [
+    "roast the vegetables",
+    "a roast dinner"
+   ]
+  },
+  {
+   "id": "rs054",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "grill",
+   "ipa": "/ɡrɪl/",
+   "pos": "v, n",
+   "vi": "nướng vỉ",
+   "ex": "The fish is grilled over an open flame.",
+   "exVi": "Cá được nướng vỉ trên ngọn lửa.",
+   "col": [
+    "grill the meat",
+    "a mixed grill"
+   ]
+  },
+  {
+   "id": "rs055",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "bake",
+   "ipa": "/beɪk/",
+   "pos": "v",
+   "vi": "nướng lò",
+   "ex": "Fresh bread is baked twice a day.",
+   "exVi": "Bánh mì tươi được nướng hai lần mỗi ngày.",
+   "col": [
+    "bake bread",
+    "freshly baked"
+   ]
+  },
+  {
+   "id": "rs056",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "season",
+   "ipa": "/ˈsiːzn/",
+   "pos": "v",
+   "vi": "nêm gia vị",
+   "ex": "Season the soup with salt and pepper.",
+   "exVi": "Nêm súp với muối và tiêu.",
+   "col": [
+    "season a dish",
+    "season to taste"
+   ]
+  },
+  {
+   "id": "rs057",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "garnishing",
+   "ipa": "/ˈɡɑːnɪʃɪŋ/",
+   "pos": "n",
+   "vi": "việc trang trí",
+   "ex": "Garnishing gives each plate a fresh look.",
+   "exVi": "Việc trang trí cho mỗi đĩa vẻ tươi mới.",
+   "col": [
+    "the garnishing",
+    "careful garnishing"
+   ]
+  },
+  {
+   "id": "rs058",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "plating",
+   "ipa": "/ˈpleɪtɪŋ/",
+   "pos": "n",
+   "vi": "việc bày đĩa",
+   "ex": "Neat plating makes the food more appealing.",
+   "exVi": "Việc bày đĩa gọn gàng làm món ăn hấp dẫn hơn.",
+   "col": [
+    "food plating",
+    "careful plating"
+   ]
+  },
+  {
+   "id": "rs059",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "presentation",
+   "ipa": "/ˌpreznˈteɪʃn/",
+   "pos": "n",
+   "vi": "cách trình bày",
+   "ex": "The presentation of the dessert impressed diners.",
+   "exVi": "Cách trình bày món tráng miệng gây ấn tượng với thực khách.",
+   "col": [
+    "food presentation",
+    "an attractive presentation"
+   ]
+  },
+  {
+   "id": "rs060",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "allergen",
+   "ipa": "/ˈælədʒən/",
+   "pos": "n",
+   "vi": "chất gây dị ứng",
+   "ex": "The menu lists every common allergen.",
+   "exVi": "Thực đơn liệt kê mọi chất gây dị ứng thường gặp.",
+   "col": [
+    "an allergen",
+    "a food allergen"
+   ]
+  },
+  {
+   "id": "rs061",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "dietary",
+   "ipa": "/ˈdaɪətri/",
+   "pos": "adj",
+   "vi": "thuộc chế độ ăn",
+   "ex": "The kitchen caters for special dietary needs.",
+   "exVi": "Nhà bếp đáp ứng các nhu cầu ăn uống đặc biệt.",
+   "col": [
+    "dietary needs",
+    "dietary requirements"
+   ]
+  },
+  {
+   "id": "rs062",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "vegan",
+   "ipa": "/ˈviːɡən/",
+   "pos": "adj",
+   "vi": "thuần chay",
+   "ex": "Several vegan dishes appear on the menu.",
+   "exVi": "Vài món thuần chay có trên thực đơn.",
+   "col": [
+    "a vegan dish",
+    "a vegan option"
+   ]
+  },
+  {
+   "id": "rs063",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "gluten-free",
+   "ipa": "/ˈɡluːtn friː/",
+   "pos": "adj",
+   "vi": "không chứa gluten",
+   "ex": "Gluten-free bread is available on request.",
+   "exVi": "Bánh mì không gluten có sẵn khi yêu cầu.",
+   "col": [
+    "gluten-free options",
+    "a gluten-free menu"
+   ]
+  },
+  {
+   "id": "rs064",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "organic",
+   "ipa": "/ɔːˈɡænɪk/",
+   "pos": "adj",
+   "vi": "hữu cơ",
+   "ex": "The café uses organic vegetables from a local farm.",
+   "exVi": "Quán cà phê dùng rau hữu cơ từ một nông trại địa phương.",
+   "col": [
+    "organic produce",
+    "organic ingredients"
+   ]
+  },
+  {
+   "id": "rs065",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "produce",
+   "ipa": "/ˈprɒdjuːs/",
+   "pos": "n",
+   "vi": "nông sản",
+   "ex": "Fresh produce is delivered daily to the kitchen.",
+   "exVi": "Nông sản tươi được giao hằng ngày tới nhà bếp.",
+   "col": [
+    "fresh produce",
+    "local produce"
+   ]
+  },
+  {
+   "id": "rs066",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "supplier",
+   "ipa": "/səˈplaɪə/",
+   "pos": "n",
+   "vi": "nhà cung cấp",
+   "ex": "A trusted supplier delivers the seafood.",
+   "exVi": "Một nhà cung cấp đáng tin giao hải sản.",
+   "col": [
+    "a food supplier",
+    "a local supplier"
+   ]
+  },
+  {
+   "id": "rs067",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "inventory",
+   "ipa": "/ˈɪnvəntri/",
+   "pos": "n",
+   "vi": "hàng dự trữ",
+   "ex": "The manager checks the inventory every week.",
+   "exVi": "Quản lý kiểm tra hàng dự trữ mỗi tuần.",
+   "col": [
+    "kitchen inventory",
+    "check the inventory"
+   ]
+  },
+  {
+   "id": "rs068",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "stock",
+   "ipa": "/stɒk/",
+   "pos": "n",
+   "vi": "nguyên liệu tồn",
+   "ex": "The kitchen ran low on stock during the rush.",
+   "exVi": "Nhà bếp gần hết nguyên liệu tồn trong đợt cao điểm.",
+   "col": [
+    "run out of stock",
+    "low on stock"
+   ]
+  },
+  {
+   "id": "rs069",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "spoilage",
+   "ipa": "/ˈspɔɪlɪdʒ/",
+   "pos": "n",
+   "vi": "sự hư hỏng",
+   "ex": "Careful storage reduces food spoilage.",
+   "exVi": "Bảo quản cẩn thận giảm sự hư hỏng thực phẩm.",
+   "col": [
+    "food spoilage",
+    "reduce spoilage"
+   ]
+  },
+  {
+   "id": "rs070",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "refrigeration",
+   "ipa": "/rɪˌfrɪdʒəˈreɪʃn/",
+   "pos": "n",
+   "vi": "làm lạnh",
+   "ex": "Proper refrigeration keeps the meat fresh.",
+   "exVi": "Làm lạnh đúng cách giữ thịt tươi.",
+   "col": [
+    "refrigeration units",
+    "proper refrigeration"
+   ]
+  },
+  {
+   "id": "rs071",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "freezer",
+   "ipa": "/ˈfriːzə/",
+   "pos": "n",
+   "vi": "tủ đông",
+   "ex": "The freezer stores stock for the week.",
+   "exVi": "Tủ đông trữ nguyên liệu cho cả tuần.",
+   "col": [
+    "a walk-in freezer",
+    "the kitchen freezer"
+   ]
+  },
+  {
+   "id": "rs072",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "hygiene",
+   "ipa": "/ˈhaɪdʒiːn/",
+   "pos": "n",
+   "vi": "vệ sinh",
+   "ex": "Food hygiene is checked by an inspector monthly.",
+   "exVi": "Vệ sinh thực phẩm được thanh tra kiểm tra hằng tháng.",
+   "col": [
+    "food hygiene",
+    "good hygiene"
+   ]
+  },
+  {
+   "id": "rs073",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "inspection",
+   "ipa": "/ɪnˈspekʃn/",
+   "pos": "n",
+   "vi": "thanh tra",
+   "ex": "The restaurant passed its health inspection.",
+   "exVi": "Nhà hàng vượt qua đợt thanh tra vệ sinh.",
+   "col": [
+    "a health inspection",
+    "a routine inspection"
+   ]
+  },
+  {
+   "id": "rs074",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "license",
+   "ipa": "/ˈlaɪsns/",
+   "pos": "n",
+   "vi": "giấy phép",
+   "ex": "A license is required to serve alcohol.",
+   "exVi": "Cần giấy phép để phục vụ đồ uống có cồn.",
+   "col": [
+    "a liquor license",
+    "a food license"
+   ]
+  },
+  {
+   "id": "rs075",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "sommelier",
+   "ipa": "/səˈmelɪeɪ/",
+   "pos": "n",
+   "vi": "chuyên gia rượu vang",
+   "ex": "The sommelier suggested a wine to match the dish.",
+   "exVi": "Chuyên gia rượu vang gợi ý một loại rượu hợp món.",
+   "col": [
+    "the sommelier",
+    "a head sommelier"
+   ]
+  },
+  {
+   "id": "rs076",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "barista",
+   "ipa": "/bəˈriːstə/",
+   "pos": "n",
+   "vi": "nhân viên pha chế cà phê",
+   "ex": "The barista makes over a hundred coffees a day.",
+   "exVi": "Nhân viên pha chế làm hơn một trăm ly cà phê mỗi ngày.",
+   "col": [
+    "a skilled barista",
+    "the head barista"
+   ]
+  },
+  {
+   "id": "rs077",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "bartender",
+   "ipa": "/ˈbɑːtendə/",
+   "pos": "n",
+   "vi": "nhân viên pha chế quầy bar",
+   "ex": "The bartender mixed a drink for each guest.",
+   "exVi": "Nhân viên pha chế pha một ly cho mỗi khách.",
+   "col": [
+    "a bartender",
+    "an experienced bartender"
+   ]
+  },
+  {
+   "id": "rs078",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "beverage list",
+   "ipa": "/ˈbevərɪdʒ lɪst/",
+   "pos": "n",
+   "vi": "danh mục đồ uống",
+   "ex": "The beverage list includes local wines.",
+   "exVi": "Danh mục đồ uống có cả rượu vang địa phương.",
+   "col": [
+    "the beverage list",
+    "an extensive beverage list"
+   ]
+  },
+  {
+   "id": "rs079",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "special",
+   "ipa": "/ˈspeʃl/",
+   "pos": "n",
+   "vi": "món đặc biệt",
+   "ex": "Today's special is grilled salmon.",
+   "exVi": "Món đặc biệt hôm nay là cá hồi nướng.",
+   "col": [
+    "the daily special",
+    "today's special"
+   ]
+  },
+  {
+   "id": "rs080",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "special of the day",
+   "ipa": "/ˈspeʃl əv ðə deɪ/",
+   "pos": "n",
+   "vi": "món đặc biệt trong ngày",
+   "ex": "The special of the day sells out quickly.",
+   "exVi": "Món đặc biệt trong ngày bán hết nhanh.",
+   "col": [
+    "the special of the day",
+    "a special of the day"
+   ]
+  },
+  {
+   "id": "rs081",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "serving size",
+   "ipa": "/ˈsɜːvɪŋ saɪz/",
+   "pos": "n",
+   "vi": "kích cỡ khẩu phần",
+   "ex": "The serving size suits a light lunch.",
+   "exVi": "Kích cỡ khẩu phần hợp một bữa trưa nhẹ.",
+   "col": [
+    "the serving size",
+    "a large serving size"
+   ]
+  },
+  {
+   "id": "rs082",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "order",
+   "ipa": "/ˈɔːdə/",
+   "pos": "n, v",
+   "vi": "gọi món",
+   "ex": "The waiter took the order at the table.",
+   "exVi": "Bồi bàn ghi món ngay tại bàn.",
+   "col": [
+    "take an order",
+    "place an order"
+   ]
+  },
+  {
+   "id": "rs083",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "refill",
+   "ipa": "/ˈriːfɪl/",
+   "pos": "n",
+   "vi": "đồ uống rót thêm",
+   "ex": "A free refill of coffee is offered.",
+   "exVi": "Một lần rót thêm cà phê miễn phí được phục vụ.",
+   "col": [
+    "a free refill",
+    "offer a refill"
+   ]
+  },
+  {
+   "id": "rs084",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "dessert",
+   "ipa": "/dɪˈzɜːt/",
+   "pos": "n",
+   "vi": "món tráng miệng",
+   "ex": "The dessert menu changes with the season.",
+   "exVi": "Thực đơn tráng miệng thay đổi theo mùa.",
+   "col": [
+    "a dessert",
+    "a dessert menu"
+   ]
+  },
+  {
+   "id": "rs085",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "appetite",
+   "ipa": "/ˈæpɪtaɪt/",
+   "pos": "n",
+   "vi": "sự thèm ăn",
+   "ex": "The smell of bread stirred everyone's appetite.",
+   "exVi": "Mùi bánh mì làm dấy lên sự thèm ăn của mọi người.",
+   "col": [
+    "a healthy appetite",
+    "lose one's appetite"
+   ]
+  },
+  {
+   "id": "rs086",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "delicacy",
+   "ipa": "/ˈdelɪkəsi/",
+   "pos": "n",
+   "vi": "món đặc sản",
+   "ex": "The dish is a local delicacy in the region.",
+   "exVi": "Món ăn là một đặc sản địa phương trong vùng.",
+   "col": [
+    "a local delicacy",
+    "a rare delicacy"
+   ]
+  },
+  {
+   "id": "rs087",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "palate",
+   "ipa": "/ˈpælət/",
+   "pos": "n",
+   "vi": "khẩu vị",
+   "ex": "The wine suits a refined palate.",
+   "exVi": "Rượu hợp với một khẩu vị tinh tế.",
+   "col": [
+    "a refined palate",
+    "please the palate"
+   ]
+  },
+  {
+   "id": "rs088",
+   "topic": "Nhà hàng & ẩm thực",
+   "w": "courses",
+   "ipa": "/ˈkɔːsɪz/",
+   "pos": "n",
+   "vi": "các món trong bữa",
+   "ex": "The set menu offers three courses.",
+   "exVi": "Thực đơn cố định có ba món.",
+   "col": [
+    "three courses",
+    "a five-course meal"
+   ]
+  }
+ ]
+}

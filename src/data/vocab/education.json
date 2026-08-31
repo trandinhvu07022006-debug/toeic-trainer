@@ -1,0 +1,1251 @@
+{
+ "topic": "Giáo dục & đào tạo",
+ "words": [
+  {
+   "id": "ed001",
+   "topic": "Giáo dục & đào tạo",
+   "w": "education",
+   "ipa": "/ˌedʒuˈkeɪʃn/",
+   "pos": "n",
+   "vi": "giáo dục",
+   "ex": "The company values continuing education for staff.",
+   "exVi": "Công ty coi trọng việc học tập liên tục cho nhân viên.",
+   "col": [
+    "higher education",
+    "continuing education"
+   ]
+  },
+  {
+   "id": "ed002",
+   "topic": "Giáo dục & đào tạo",
+   "w": "curriculum",
+   "ipa": "/kəˈrɪkjələm/",
+   "pos": "n",
+   "vi": "chương trình học",
+   "ex": "The new curriculum covers digital skills.",
+   "exVi": "Chương trình học mới bao gồm các kỹ năng số.",
+   "col": [
+    "a school curriculum",
+    "design a curriculum"
+   ]
+  },
+  {
+   "id": "ed003",
+   "topic": "Giáo dục & đào tạo",
+   "w": "syllabus",
+   "ipa": "/ˈsɪləbəs/",
+   "pos": "n",
+   "vi": "đề cương môn học",
+   "ex": "The syllabus lists every topic for the term.",
+   "exVi": "Đề cương liệt kê mọi chủ đề của học kỳ.",
+   "col": [
+    "a course syllabus",
+    "follow the syllabus"
+   ]
+  },
+  {
+   "id": "ed004",
+   "topic": "Giáo dục & đào tạo",
+   "w": "course",
+   "ipa": "/kɔːs/",
+   "pos": "n",
+   "vi": "khoá học",
+   "ex": "The course runs for eight weeks online.",
+   "exVi": "Khoá học kéo dài tám tuần trực tuyến.",
+   "col": [
+    "an online course",
+    "take a course"
+   ]
+  },
+  {
+   "id": "ed005",
+   "topic": "Giáo dục & đào tạo",
+   "w": "lecture",
+   "ipa": "/ˈlektʃə/",
+   "pos": "n",
+   "vi": "bài giảng",
+   "ex": "The lecture on marketing drew a full room.",
+   "exVi": "Bài giảng về marketing thu hút một phòng đầy.",
+   "col": [
+    "attend a lecture",
+    "give a lecture"
+   ]
+  },
+  {
+   "id": "ed006",
+   "topic": "Giáo dục & đào tạo",
+   "w": "seminar",
+   "ipa": "/ˈsemɪnɑː/",
+   "pos": "n",
+   "vi": "hội thảo chuyên đề",
+   "ex": "The seminar focused on leadership skills.",
+   "exVi": "Hội thảo tập trung vào kỹ năng lãnh đạo.",
+   "col": [
+    "a seminar",
+    "a training seminar"
+   ]
+  },
+  {
+   "id": "ed007",
+   "topic": "Giáo dục & đào tạo",
+   "w": "workshop",
+   "ipa": "/ˈwɜːkʃɒp/",
+   "pos": "n",
+   "vi": "buổi thực hành",
+   "ex": "A hands-on workshop taught the new software.",
+   "exVi": "Một buổi thực hành dạy phần mềm mới.",
+   "col": [
+    "a workshop",
+    "run a workshop"
+   ]
+  },
+  {
+   "id": "ed008",
+   "topic": "Giáo dục & đào tạo",
+   "w": "tutorial",
+   "ipa": "/tjuːˈtɔːriəl/",
+   "pos": "n",
+   "vi": "buổi hướng dẫn",
+   "ex": "A short tutorial explains the basic steps.",
+   "exVi": "Một buổi hướng dẫn ngắn giải thích các bước cơ bản.",
+   "col": [
+    "a tutorial",
+    "an online tutorial"
+   ]
+  },
+  {
+   "id": "ed009",
+   "topic": "Giáo dục & đào tạo",
+   "w": "enroll",
+   "ipa": "/ɪnˈrəʊl/",
+   "pos": "v",
+   "vi": "ghi danh",
+   "ex": "Staff can enroll in the course online.",
+   "exVi": "Nhân viên có thể ghi danh khoá học trực tuyến.",
+   "col": [
+    "enroll in",
+    "enroll online"
+   ]
+  },
+  {
+   "id": "ed010",
+   "topic": "Giáo dục & đào tạo",
+   "w": "enrollment",
+   "ipa": "/ɪnˈrəʊlmənt/",
+   "pos": "n",
+   "vi": "việc ghi danh",
+   "ex": "Enrollment for the class closes on Friday.",
+   "exVi": "Việc ghi danh cho lớp đóng vào thứ Sáu.",
+   "col": [
+    "course enrollment",
+    "open enrollment"
+   ]
+  },
+  {
+   "id": "ed011",
+   "topic": "Giáo dục & đào tạo",
+   "w": "tuition",
+   "ipa": "/tjuˈɪʃn/",
+   "pos": "n",
+   "vi": "học phí",
+   "ex": "The company covers tuition for approved courses.",
+   "exVi": "Công ty chi trả học phí cho các khoá được duyệt.",
+   "col": [
+    "pay tuition",
+    "tuition fees"
+   ]
+  },
+  {
+   "id": "ed012",
+   "topic": "Giáo dục & đào tạo",
+   "w": "scholarship",
+   "ipa": "/ˈskɒləʃɪp/",
+   "pos": "n",
+   "vi": "học bổng",
+   "ex": "She won a scholarship to study abroad.",
+   "exVi": "Bà giành một học bổng để du học.",
+   "col": [
+    "a full scholarship",
+    "win a scholarship"
+   ]
+  },
+  {
+   "id": "ed013",
+   "topic": "Giáo dục & đào tạo",
+   "w": "faculty",
+   "ipa": "/ˈfæklti/",
+   "pos": "n",
+   "vi": "đội ngũ giảng viên",
+   "ex": "The faculty includes several industry experts.",
+   "exVi": "Đội ngũ giảng viên gồm vài chuyên gia trong ngành.",
+   "col": [
+    "the faculty",
+    "a faculty member"
+   ]
+  },
+  {
+   "id": "ed014",
+   "topic": "Giáo dục & đào tạo",
+   "w": "instructor",
+   "ipa": "/ɪnˈstrʌktə/",
+   "pos": "n",
+   "vi": "giảng viên hướng dẫn",
+   "ex": "The instructor answered questions after class.",
+   "exVi": "Giảng viên trả lời câu hỏi sau giờ học.",
+   "col": [
+    "a course instructor",
+    "a qualified instructor"
+   ]
+  },
+  {
+   "id": "ed015",
+   "topic": "Giáo dục & đào tạo",
+   "w": "lecturer",
+   "ipa": "/ˈlektʃərə/",
+   "pos": "n",
+   "vi": "giảng viên",
+   "ex": "The lecturer has twenty years of experience.",
+   "exVi": "Giảng viên có hai mươi năm kinh nghiệm.",
+   "col": [
+    "a senior lecturer",
+    "a guest lecturer"
+   ]
+  },
+  {
+   "id": "ed016",
+   "topic": "Giáo dục & đào tạo",
+   "w": "tutor",
+   "ipa": "/ˈtjuːtə/",
+   "pos": "n",
+   "vi": "gia sư, người kèm",
+   "ex": "A tutor helps trainees with difficult topics.",
+   "exVi": "Một người kèm giúp học viên với các chủ đề khó.",
+   "col": [
+    "a private tutor",
+    "a personal tutor"
+   ]
+  },
+  {
+   "id": "ed017",
+   "topic": "Giáo dục & đào tạo",
+   "w": "mentor",
+   "ipa": "/ˈmentɔː/",
+   "pos": "n",
+   "vi": "người dìu dắt",
+   "ex": "Each new hire is paired with a mentor.",
+   "exVi": "Mỗi nhân viên mới được ghép với một người dìu dắt.",
+   "col": [
+    "a mentor",
+    "act as a mentor"
+   ]
+  },
+  {
+   "id": "ed018",
+   "topic": "Giáo dục & đào tạo",
+   "w": "trainee",
+   "ipa": "/ˌtreɪˈniː/",
+   "pos": "n",
+   "vi": "học viên",
+   "ex": "Trainees complete a test at the end.",
+   "exVi": "Học viên hoàn thành một bài kiểm tra ở cuối.",
+   "col": [
+    "a trainee",
+    "a management trainee"
+   ]
+  },
+  {
+   "id": "ed019",
+   "topic": "Giáo dục & đào tạo",
+   "w": "graduate",
+   "ipa": "/ˈɡrædʒuət/",
+   "pos": "n",
+   "vi": "người tốt nghiệp",
+   "ex": "The firm hires graduates every summer.",
+   "exVi": "Công ty tuyển người tốt nghiệp mỗi mùa hè.",
+   "col": [
+    "a recent graduate",
+    "a university graduate"
+   ]
+  },
+  {
+   "id": "ed020",
+   "topic": "Giáo dục & đào tạo",
+   "w": "undergraduate",
+   "ipa": "/ˌʌndəˈɡrædʒuət/",
+   "pos": "n",
+   "vi": "sinh viên đại học",
+   "ex": "The programme welcomes undergraduate interns.",
+   "exVi": "Chương trình chào đón thực tập sinh là sinh viên đại học.",
+   "col": [
+    "an undergraduate",
+    "an undergraduate degree"
+   ]
+  },
+  {
+   "id": "ed021",
+   "topic": "Giáo dục & đào tạo",
+   "w": "postgraduate",
+   "ipa": "/ˌpəʊstˈɡrædʒuət/",
+   "pos": "n",
+   "vi": "học viên sau đại học",
+   "ex": "A postgraduate course deepens the subject.",
+   "exVi": "Một khoá sau đại học đào sâu môn học.",
+   "col": [
+    "a postgraduate",
+    "a postgraduate degree"
+   ]
+  },
+  {
+   "id": "ed022",
+   "topic": "Giáo dục & đào tạo",
+   "w": "diploma",
+   "ipa": "/dɪˈpləʊmə/",
+   "pos": "n",
+   "vi": "bằng tốt nghiệp",
+   "ex": "She earned a diploma in accounting.",
+   "exVi": "Bà đạt một bằng tốt nghiệp về kế toán.",
+   "col": [
+    "a diploma",
+    "earn a diploma"
+   ]
+  },
+  {
+   "id": "ed023",
+   "topic": "Giáo dục & đào tạo",
+   "w": "degree",
+   "ipa": "/dɪˈɡriː/",
+   "pos": "n",
+   "vi": "bằng cấp",
+   "ex": "A degree in business is preferred for the role.",
+   "exVi": "Vị trí này ưu tiên một bằng về kinh doanh.",
+   "col": [
+    "a bachelor's degree",
+    "earn a degree"
+   ]
+  },
+  {
+   "id": "ed024",
+   "topic": "Giáo dục & đào tạo",
+   "w": "qualification",
+   "ipa": "/ˌkwɒlɪfɪˈkeɪʃn/",
+   "pos": "n",
+   "vi": "bằng cấp, chứng chỉ",
+   "ex": "The job requires a formal qualification.",
+   "exVi": "Công việc yêu cầu một bằng cấp chính thức.",
+   "col": [
+    "a formal qualification",
+    "a professional qualification"
+   ]
+  },
+  {
+   "id": "ed025",
+   "topic": "Giáo dục & đào tạo",
+   "w": "certificate",
+   "ipa": "/səˈtɪfɪkət/",
+   "pos": "n",
+   "vi": "chứng chỉ",
+   "ex": "A certificate is awarded on completion.",
+   "exVi": "Một chứng chỉ được trao khi hoàn thành.",
+   "col": [
+    "a certificate",
+    "a training certificate"
+   ]
+  },
+  {
+   "id": "ed026",
+   "topic": "Giáo dục & đào tạo",
+   "w": "credential",
+   "ipa": "/krəˈdenʃl/",
+   "pos": "n",
+   "vi": "văn bằng chứng nhận",
+   "ex": "Bring your credentials to the interview.",
+   "exVi": "Mang các văn bằng chứng nhận của bạn tới phỏng vấn.",
+   "col": [
+    "academic credentials",
+    "a credential"
+   ]
+  },
+  {
+   "id": "ed027",
+   "topic": "Giáo dục & đào tạo",
+   "w": "accreditation",
+   "ipa": "/əˌkredɪˈteɪʃn/",
+   "pos": "n",
+   "vi": "sự công nhận",
+   "ex": "The programme holds national accreditation.",
+   "exVi": "Chương trình được công nhận trên toàn quốc.",
+   "col": [
+    "accreditation",
+    "official accreditation"
+   ]
+  },
+  {
+   "id": "ed028",
+   "topic": "Giáo dục & đào tạo",
+   "w": "assessment",
+   "ipa": "/əˈsesmənt/",
+   "pos": "n",
+   "vi": "đánh giá",
+   "ex": "A final assessment measures each trainee's progress.",
+   "exVi": "Một bài đánh giá cuối đo tiến bộ của mỗi học viên.",
+   "col": [
+    "an assessment",
+    "a written assessment"
+   ]
+  },
+  {
+   "id": "ed029",
+   "topic": "Giáo dục & đào tạo",
+   "w": "evaluation",
+   "ipa": "/ɪˌvæljuˈeɪʃn/",
+   "pos": "n",
+   "vi": "sự đánh giá",
+   "ex": "Course evaluation helps improve future sessions.",
+   "exVi": "Việc đánh giá khoá học giúp cải thiện các buổi sau.",
+   "col": [
+    "a course evaluation",
+    "an evaluation form"
+   ]
+  },
+  {
+   "id": "ed030",
+   "topic": "Giáo dục & đào tạo",
+   "w": "grade",
+   "ipa": "/ɡreɪd/",
+   "pos": "n, v",
+   "vi": "điểm số",
+   "ex": "Each assignment receives a grade out of ten.",
+   "exVi": "Mỗi bài tập nhận một điểm trên mười.",
+   "col": [
+    "a good grade",
+    "grade a test"
+   ]
+  },
+  {
+   "id": "ed031",
+   "topic": "Giáo dục & đào tạo",
+   "w": "transcript",
+   "ipa": "/ˈtrænskrɪpt/",
+   "pos": "n",
+   "vi": "bảng điểm",
+   "ex": "Your transcript shows every completed course.",
+   "exVi": "Bảng điểm của bạn cho thấy mọi khoá đã hoàn thành.",
+   "col": [
+    "an academic transcript",
+    "request a transcript"
+   ]
+  },
+  {
+   "id": "ed032",
+   "topic": "Giáo dục & đào tạo",
+   "w": "assignment",
+   "ipa": "/əˈsaɪnmənt/",
+   "pos": "n",
+   "vi": "bài tập được giao",
+   "ex": "The assignment is due at the end of the week.",
+   "exVi": "Bài tập đến hạn vào cuối tuần.",
+   "col": [
+    "a written assignment",
+    "submit an assignment"
+   ]
+  },
+  {
+   "id": "ed033",
+   "topic": "Giáo dục & đào tạo",
+   "w": "submission",
+   "ipa": "/səbˈmɪʃn/",
+   "pos": "n",
+   "vi": "việc nộp bài",
+   "ex": "Late submissions lose marks.",
+   "exVi": "Nộp bài muộn bị trừ điểm.",
+   "col": [
+    "a submission",
+    "online submission"
+   ]
+  },
+  {
+   "id": "ed034",
+   "topic": "Giáo dục & đào tạo",
+   "w": "deadline",
+   "ipa": "/ˈdedlaɪn/",
+   "pos": "n",
+   "vi": "hạn nộp",
+   "ex": "The deadline for the essay is Monday.",
+   "exVi": "Hạn nộp bài luận là thứ Hai.",
+   "col": [
+    "meet a deadline",
+    "a strict deadline"
+   ]
+  },
+  {
+   "id": "ed035",
+   "topic": "Giáo dục & đào tạo",
+   "w": "coursework",
+   "ipa": "/ˈkɔːswɜːk/",
+   "pos": "n",
+   "vi": "bài tập trong khoá",
+   "ex": "Half the grade comes from coursework.",
+   "exVi": "Một nửa điểm đến từ bài tập trong khoá.",
+   "col": [
+    "coursework",
+    "marked coursework"
+   ]
+  },
+  {
+   "id": "ed036",
+   "topic": "Giáo dục & đào tạo",
+   "w": "attendance",
+   "ipa": "/əˈtendəns/",
+   "pos": "n",
+   "vi": "sự đi học",
+   "ex": "Attendance is required for every session.",
+   "exVi": "Việc đi học là bắt buộc cho mỗi buổi.",
+   "col": [
+    "good attendance",
+    "an attendance record"
+   ]
+  },
+  {
+   "id": "ed037",
+   "topic": "Giáo dục & đào tạo",
+   "w": "progress",
+   "ipa": "/ˈprəʊɡres/",
+   "pos": "n",
+   "vi": "sự tiến bộ",
+   "ex": "Trainers track each learner's progress weekly.",
+   "exVi": "Người hướng dẫn theo dõi tiến bộ của mỗi học viên hằng tuần.",
+   "col": [
+    "make progress",
+    "track progress"
+   ]
+  },
+  {
+   "id": "ed038",
+   "topic": "Giáo dục & đào tạo",
+   "w": "proficiency",
+   "ipa": "/prəˈfɪʃnsi/",
+   "pos": "n",
+   "vi": "sự thành thạo",
+   "ex": "The test measures language proficiency.",
+   "exVi": "Bài kiểm tra đo sự thành thạo ngôn ngữ.",
+   "col": [
+    "language proficiency",
+    "a proficiency test"
+   ]
+  },
+  {
+   "id": "ed039",
+   "topic": "Giáo dục & đào tạo",
+   "w": "competency",
+   "ipa": "/ˈkɒmpɪtənsi/",
+   "pos": "n",
+   "vi": "năng lực",
+   "ex": "The course builds core competencies for the job.",
+   "exVi": "Khoá học xây dựng các năng lực cốt lõi cho công việc.",
+   "col": [
+    "a core competency",
+    "a competency framework"
+   ]
+  },
+  {
+   "id": "ed040",
+   "topic": "Giáo dục & đào tạo",
+   "w": "literacy",
+   "ipa": "/ˈlɪtərəsi/",
+   "pos": "n",
+   "vi": "khả năng đọc viết, hiểu biết",
+   "ex": "Digital literacy is now essential at work.",
+   "exVi": "Hiểu biết về công nghệ số nay là điều thiết yếu tại nơi làm.",
+   "col": [
+    "digital literacy",
+    "financial literacy"
+   ]
+  },
+  {
+   "id": "ed041",
+   "topic": "Giáo dục & đào tạo",
+   "w": "module",
+   "ipa": "/ˈmɒdjuːl/",
+   "pos": "n",
+   "vi": "học phần",
+   "ex": "The course is split into six modules.",
+   "exVi": "Khoá học được chia thành sáu học phần.",
+   "col": [
+    "a course module",
+    "an online module"
+   ]
+  },
+  {
+   "id": "ed042",
+   "topic": "Giáo dục & đào tạo",
+   "w": "prerequisite",
+   "ipa": "/ˌpriːˈrekwəzɪt/",
+   "pos": "n",
+   "vi": "điều kiện tiên quyết",
+   "ex": "Basic maths is a prerequisite for the course.",
+   "exVi": "Toán cơ bản là điều kiện tiên quyết cho khoá học.",
+   "col": [
+    "a prerequisite",
+    "a course prerequisite"
+   ]
+  },
+  {
+   "id": "ed043",
+   "topic": "Giáo dục & đào tạo",
+   "w": "handout",
+   "ipa": "/ˈhændaʊt/",
+   "pos": "n",
+   "vi": "tài liệu phát",
+   "ex": "A handout summarizes each lesson.",
+   "exVi": "Một tài liệu phát tóm tắt mỗi bài học.",
+   "col": [
+    "a handout",
+    "a lesson handout"
+   ]
+  },
+  {
+   "id": "ed044",
+   "topic": "Giáo dục & đào tạo",
+   "w": "workbook",
+   "ipa": "/ˈwɜːkbʊk/",
+   "pos": "n",
+   "vi": "sách bài tập",
+   "ex": "The workbook has exercises for every unit.",
+   "exVi": "Sách bài tập có bài luyện cho mỗi phần.",
+   "col": [
+    "a workbook",
+    "a student workbook"
+   ]
+  },
+  {
+   "id": "ed045",
+   "topic": "Giáo dục & đào tạo",
+   "w": "certification",
+   "ipa": "/ˌsɜːtɪfɪˈkeɪʃn/",
+   "pos": "n",
+   "vi": "việc cấp chứng chỉ",
+   "ex": "Certification must be renewed every two years.",
+   "exVi": "Việc cấp chứng chỉ phải gia hạn hai năm một lần.",
+   "col": [
+    "professional certification",
+    "obtain certification"
+   ]
+  },
+  {
+   "id": "ed046",
+   "topic": "Giáo dục & đào tạo",
+   "w": "learner",
+   "ipa": "/ˈlɜːnə/",
+   "pos": "n",
+   "vi": "người học",
+   "ex": "Each learner works at their own pace.",
+   "exVi": "Mỗi người học tiến theo nhịp riêng của mình.",
+   "col": [
+    "an adult learner",
+    "a slow learner"
+   ]
+  },
+  {
+   "id": "ed047",
+   "topic": "Giáo dục & đào tạo",
+   "w": "skill",
+   "ipa": "/skɪl/",
+   "pos": "n",
+   "vi": "kỹ năng",
+   "ex": "The workshop builds practical skills for the job.",
+   "exVi": "Buổi thực hành xây dựng kỹ năng thực tế cho công việc.",
+   "col": [
+    "a practical skill",
+    "develop a skill"
+   ]
+  },
+  {
+   "id": "ed048",
+   "topic": "Giáo dục & đào tạo",
+   "w": "knowledge",
+   "ipa": "/ˈnɒlɪdʒ/",
+   "pos": "n",
+   "vi": "kiến thức",
+   "ex": "The course expands knowledge of the field.",
+   "exVi": "Khoá học mở rộng kiến thức về lĩnh vực.",
+   "col": [
+    "basic knowledge",
+    "expand knowledge"
+   ]
+  },
+  {
+   "id": "ed049",
+   "topic": "Giáo dục & đào tạo",
+   "w": "expertise",
+   "ipa": "/ˌekspɜːˈtiːz/",
+   "pos": "n",
+   "vi": "chuyên môn",
+   "ex": "The trainer shared deep expertise in finance.",
+   "exVi": "Người hướng dẫn chia sẻ chuyên môn sâu về tài chính.",
+   "col": [
+    "technical expertise",
+    "share expertise"
+   ]
+  },
+  {
+   "id": "ed050",
+   "topic": "Giáo dục & đào tạo",
+   "w": "aptitude",
+   "ipa": "/ˈæptɪtjuːd/",
+   "pos": "n",
+   "vi": "năng khiếu",
+   "ex": "The test measures aptitude for numbers.",
+   "exVi": "Bài kiểm tra đo năng khiếu với con số.",
+   "col": [
+    "an aptitude test",
+    "a natural aptitude"
+   ]
+  },
+  {
+   "id": "ed051",
+   "topic": "Giáo dục & đào tạo",
+   "w": "motivation",
+   "ipa": "/ˌməʊtɪˈveɪʃn/",
+   "pos": "n",
+   "vi": "động lực",
+   "ex": "Strong motivation helps trainees finish the course.",
+   "exVi": "Động lực mạnh giúp học viên hoàn thành khoá.",
+   "col": [
+    "strong motivation",
+    "lack of motivation"
+   ]
+  },
+  {
+   "id": "ed052",
+   "topic": "Giáo dục & đào tạo",
+   "w": "engagement",
+   "ipa": "/ɪnˈɡeɪdʒmənt/",
+   "pos": "n",
+   "vi": "sự tham gia tích cực",
+   "ex": "Group tasks improve learner engagement.",
+   "exVi": "Bài tập nhóm cải thiện sự tham gia của người học.",
+   "col": [
+    "learner engagement",
+    "high engagement"
+   ]
+  },
+  {
+   "id": "ed053",
+   "topic": "Giáo dục & đào tạo",
+   "w": "interactive",
+   "ipa": "/ˌɪntərˈæktɪv/",
+   "pos": "adj",
+   "vi": "có tính tương tác",
+   "ex": "The lessons are interactive and hands-on.",
+   "exVi": "Các bài học có tính tương tác và thực hành.",
+   "col": [
+    "interactive lessons",
+    "an interactive session"
+   ]
+  },
+  {
+   "id": "ed054",
+   "topic": "Giáo dục & đào tạo",
+   "w": "practical",
+   "ipa": "/ˈpræktɪkl/",
+   "pos": "adj",
+   "vi": "thực tiễn",
+   "ex": "The course focuses on practical skills.",
+   "exVi": "Khoá học tập trung vào kỹ năng thực tiễn.",
+   "col": [
+    "practical experience",
+    "a practical approach"
+   ]
+  },
+  {
+   "id": "ed055",
+   "topic": "Giáo dục & đào tạo",
+   "w": "theoretical",
+   "ipa": "/ˌθɪəˈretɪkl/",
+   "pos": "adj",
+   "vi": "lý thuyết",
+   "ex": "The first week covers theoretical background.",
+   "exVi": "Tuần đầu bao gồm nền tảng lý thuyết.",
+   "col": [
+    "theoretical knowledge",
+    "a theoretical basis"
+   ]
+  },
+  {
+   "id": "ed056",
+   "topic": "Giáo dục & đào tạo",
+   "w": "comprehensive",
+   "ipa": "/ˌkɒmprɪˈhensɪv/",
+   "pos": "adj",
+   "vi": "toàn diện",
+   "ex": "The programme gives comprehensive training.",
+   "exVi": "Chương trình cung cấp đào tạo toàn diện.",
+   "col": [
+    "comprehensive training",
+    "a comprehensive course"
+   ]
+  },
+  {
+   "id": "ed057",
+   "topic": "Giáo dục & đào tạo",
+   "w": "intensive",
+   "ipa": "/ɪnˈtensɪv/",
+   "pos": "adj",
+   "vi": "chuyên sâu, cường độ cao",
+   "ex": "An intensive course covers the material in a week.",
+   "exVi": "Một khoá cường độ cao bao quát tài liệu trong một tuần.",
+   "col": [
+    "an intensive course",
+    "intensive training"
+   ]
+  },
+  {
+   "id": "ed058",
+   "topic": "Giáo dục & đào tạo",
+   "w": "remedial",
+   "ipa": "/rɪˈmiːdiəl/",
+   "pos": "adj",
+   "vi": "bổ trợ, phụ đạo",
+   "ex": "Remedial classes help students catch up.",
+   "exVi": "Các lớp phụ đạo giúp học viên theo kịp.",
+   "col": [
+    "remedial classes",
+    "remedial support"
+   ]
+  },
+  {
+   "id": "ed059",
+   "topic": "Giáo dục & đào tạo",
+   "w": "vocational",
+   "ipa": "/vəʊˈkeɪʃənl/",
+   "pos": "adj",
+   "vi": "hướng nghiệp",
+   "ex": "Vocational training prepares students for a trade.",
+   "exVi": "Đào tạo hướng nghiệp chuẩn bị cho học viên một nghề.",
+   "col": [
+    "vocational training",
+    "a vocational course"
+   ]
+  },
+  {
+   "id": "ed060",
+   "topic": "Giáo dục & đào tạo",
+   "w": "distance learning",
+   "ipa": "/ˈdɪstəns ˈlɜːnɪŋ/",
+   "pos": "n",
+   "vi": "học từ xa",
+   "ex": "Distance learning suits busy professionals.",
+   "exVi": "Học từ xa phù hợp với người đi làm bận rộn.",
+   "col": [
+    "distance learning",
+    "a distance learning course"
+   ]
+  },
+  {
+   "id": "ed061",
+   "topic": "Giáo dục & đào tạo",
+   "w": "e-learning",
+   "ipa": "/ˈiː lɜːnɪŋ/",
+   "pos": "n",
+   "vi": "học trực tuyến",
+   "ex": "The firm moved its training to e-learning.",
+   "exVi": "Công ty chuyển việc đào tạo sang học trực tuyến.",
+   "col": [
+    "e-learning",
+    "an e-learning platform"
+   ]
+  },
+  {
+   "id": "ed062",
+   "topic": "Giáo dục & đào tạo",
+   "w": "facilitator",
+   "ipa": "/fəˈsɪlɪteɪtə/",
+   "pos": "n",
+   "vi": "người điều phối lớp học",
+   "ex": "A skilled facilitator kept the group on track.",
+   "exVi": "Một người điều phối giỏi giữ nhóm đúng hướng.",
+   "col": [
+    "a facilitator",
+    "a workshop facilitator"
+   ]
+  },
+  {
+   "id": "ed063",
+   "topic": "Giáo dục & đào tạo",
+   "w": "coach",
+   "ipa": "/kəʊtʃ/",
+   "pos": "n, v",
+   "vi": "người huấn luyện",
+   "ex": "A coach guides trainees through real tasks.",
+   "exVi": "Một người huấn luyện dìu dắt học viên qua các nhiệm vụ thực tế.",
+   "col": [
+    "a career coach",
+    "coach a team"
+   ]
+  },
+  {
+   "id": "ed064",
+   "topic": "Giáo dục & đào tạo",
+   "w": "onboarding",
+   "ipa": "/ˈɒnbɔːdɪŋ/",
+   "pos": "n",
+   "vi": "hội nhập nhân viên mới",
+   "ex": "Onboarding includes a week of training.",
+   "exVi": "Việc hội nhập gồm một tuần đào tạo.",
+   "col": [
+    "the onboarding process",
+    "streamline onboarding"
+   ]
+  },
+  {
+   "id": "ed065",
+   "topic": "Giáo dục & đào tạo",
+   "w": "upskill",
+   "ipa": "/ˈʌpskɪl/",
+   "pos": "v",
+   "vi": "nâng cao kỹ năng",
+   "ex": "The firm helps staff upskill each year.",
+   "exVi": "Công ty giúp nhân viên nâng cao kỹ năng mỗi năm.",
+   "col": [
+    "upskill staff",
+    "upskill the workforce"
+   ]
+  },
+  {
+   "id": "ed066",
+   "topic": "Giáo dục & đào tạo",
+   "w": "reskill",
+   "ipa": "/ˌriːˈskɪl/",
+   "pos": "v",
+   "vi": "đào tạo lại kỹ năng",
+   "ex": "Workers were reskilled for the new system.",
+   "exVi": "Người lao động được đào tạo lại cho hệ thống mới.",
+   "col": [
+    "reskill workers",
+    "reskill the team"
+   ]
+  },
+  {
+   "id": "ed067",
+   "topic": "Giáo dục & đào tạo",
+   "w": "refresher",
+   "ipa": "/rɪˈfreʃə/",
+   "pos": "n",
+   "vi": "khoá ôn lại",
+   "ex": "A refresher course updates old skills.",
+   "exVi": "Một khoá ôn lại cập nhật các kỹ năng cũ.",
+   "col": [
+    "a refresher course",
+    "a refresher session"
+   ]
+  },
+  {
+   "id": "ed068",
+   "topic": "Giáo dục & đào tạo",
+   "w": "induction",
+   "ipa": "/ɪnˈdʌkʃn/",
+   "pos": "n",
+   "vi": "buổi định hướng ban đầu",
+   "ex": "The induction explains company procedures.",
+   "exVi": "Buổi định hướng giải thích các quy trình công ty.",
+   "col": [
+    "an induction",
+    "an induction programme"
+   ]
+  },
+  {
+   "id": "ed069",
+   "topic": "Giáo dục & đào tạo",
+   "w": "placement",
+   "ipa": "/ˈpleɪsmənt/",
+   "pos": "n",
+   "vi": "kỳ thực tập, vị trí thực hành",
+   "ex": "The course includes a work placement.",
+   "exVi": "Khoá học bao gồm một kỳ thực tập.",
+   "col": [
+    "a work placement",
+    "a placement year"
+   ]
+  },
+  {
+   "id": "ed070",
+   "topic": "Giáo dục & đào tạo",
+   "w": "internship",
+   "ipa": "/ˈɪntɜːnʃɪp/",
+   "pos": "n",
+   "vi": "kỳ thực tập",
+   "ex": "The internship lasts three months.",
+   "exVi": "Kỳ thực tập kéo dài ba tháng.",
+   "col": [
+    "a paid internship",
+    "a summer internship"
+   ]
+  },
+  {
+   "id": "ed071",
+   "topic": "Giáo dục & đào tạo",
+   "w": "apprenticeship",
+   "ipa": "/əˈprentɪʃɪp/",
+   "pos": "n",
+   "vi": "thời gian học nghề",
+   "ex": "An apprenticeship combines work and study.",
+   "exVi": "Thời gian học nghề kết hợp làm việc và học tập.",
+   "col": [
+    "an apprenticeship",
+    "a paid apprenticeship"
+   ]
+  },
+  {
+   "id": "ed072",
+   "topic": "Giáo dục & đào tạo",
+   "w": "attend",
+   "ipa": "/əˈtend/",
+   "pos": "v",
+   "vi": "tham dự",
+   "ex": "All staff attend the safety training.",
+   "exVi": "Toàn bộ nhân viên tham dự buổi tập huấn an toàn.",
+   "col": [
+    "attend a course",
+    "attend a session"
+   ]
+  },
+  {
+   "id": "ed073",
+   "topic": "Giáo dục & đào tạo",
+   "w": "participate",
+   "ipa": "/pɑːˈtɪsɪpeɪt/",
+   "pos": "v",
+   "vi": "tham gia",
+   "ex": "Learners participate in group discussions.",
+   "exVi": "Người học tham gia thảo luận nhóm.",
+   "col": [
+    "participate in",
+    "actively participate"
+   ]
+  },
+  {
+   "id": "ed074",
+   "topic": "Giáo dục & đào tạo",
+   "w": "demonstrate",
+   "ipa": "/ˈdemənstreɪt/",
+   "pos": "v",
+   "vi": "trình bày, minh hoạ",
+   "ex": "The trainer demonstrated each step clearly.",
+   "exVi": "Người hướng dẫn minh hoạ từng bước rõ ràng.",
+   "col": [
+    "demonstrate a skill",
+    "demonstrate how"
+   ]
+  },
+  {
+   "id": "ed075",
+   "topic": "Giáo dục & đào tạo",
+   "w": "comprehend",
+   "ipa": "/ˌkɒmprɪˈhend/",
+   "pos": "v",
+   "vi": "hiểu, nắm bắt",
+   "ex": "Students comprehend the topic through examples.",
+   "exVi": "Học viên nắm bắt chủ đề qua các ví dụ.",
+   "col": [
+    "comprehend a concept",
+    "fully comprehend"
+   ]
+  },
+  {
+   "id": "ed076",
+   "topic": "Giáo dục & đào tạo",
+   "w": "master",
+   "ipa": "/ˈmɑːstə/",
+   "pos": "v",
+   "vi": "thành thạo",
+   "ex": "It takes practice to master the technique.",
+   "exVi": "Cần luyện tập để thành thạo kỹ thuật.",
+   "col": [
+    "master a skill",
+    "master a subject"
+   ]
+  },
+  {
+   "id": "ed077",
+   "topic": "Giáo dục & đào tạo",
+   "w": "revise",
+   "ipa": "/rɪˈvaɪz/",
+   "pos": "v",
+   "vi": "ôn tập",
+   "ex": "Students revise their notes before the test.",
+   "exVi": "Học viên ôn lại ghi chú trước bài kiểm tra.",
+   "col": [
+    "revise for a test",
+    "revise thoroughly"
+   ]
+  },
+  {
+   "id": "ed078",
+   "topic": "Giáo dục & đào tạo",
+   "w": "memorize",
+   "ipa": "/ˈmeməraɪz/",
+   "pos": "v",
+   "vi": "ghi nhớ",
+   "ex": "Learners memorize the key terms each week.",
+   "exVi": "Người học ghi nhớ các thuật ngữ quan trọng mỗi tuần.",
+   "col": [
+    "memorize a list",
+    "memorize vocabulary"
+   ]
+  },
+  {
+   "id": "ed079",
+   "topic": "Giáo dục & đào tạo",
+   "w": "grasp",
+   "ipa": "/ɡrɑːsp/",
+   "pos": "v",
+   "vi": "nắm được",
+   "ex": "She grasped the concept after one example.",
+   "exVi": "Bà nắm được khái niệm sau một ví dụ.",
+   "col": [
+    "grasp an idea",
+    "grasp a concept"
+   ]
+  },
+  {
+   "id": "ed080",
+   "topic": "Giáo dục & đào tạo",
+   "w": "qualified",
+   "ipa": "/ˈkwɒlɪfaɪd/",
+   "pos": "adj",
+   "vi": "có trình độ",
+   "ex": "Only qualified trainers lead the sessions.",
+   "exVi": "Chỉ người hướng dẫn có trình độ dẫn dắt các buổi.",
+   "col": [
+    "a qualified teacher",
+    "highly qualified"
+   ]
+  },
+  {
+   "id": "ed081",
+   "topic": "Giáo dục & đào tạo",
+   "w": "knowledgeable",
+   "ipa": "/ˈnɒlɪdʒəbl/",
+   "pos": "adj",
+   "vi": "hiểu biết sâu",
+   "ex": "The instructor is knowledgeable and patient.",
+   "exVi": "Giảng viên hiểu biết sâu và kiên nhẫn.",
+   "col": [
+    "knowledgeable about",
+    "highly knowledgeable"
+   ]
+  },
+  {
+   "id": "ed082",
+   "topic": "Giáo dục & đào tạo",
+   "w": "capable",
+   "ipa": "/ˈkeɪpəbl/",
+   "pos": "adj",
+   "vi": "có khả năng",
+   "ex": "The trainees proved capable and quick to learn.",
+   "exVi": "Học viên chứng tỏ có khả năng và học nhanh.",
+   "col": [
+    "capable of",
+    "a capable team"
+   ]
+  },
+  {
+   "id": "ed083",
+   "topic": "Giáo dục & đào tạo",
+   "w": "diligent",
+   "ipa": "/ˈdɪlɪdʒənt/",
+   "pos": "adj",
+   "vi": "chăm chỉ",
+   "ex": "A diligent student finished ahead of the class.",
+   "exVi": "Một học viên chăm chỉ hoàn thành trước cả lớp.",
+   "col": [
+    "a diligent student",
+    "diligent study"
+   ]
+  },
+  {
+   "id": "ed084",
+   "topic": "Giáo dục & đào tạo",
+   "w": "attentive",
+   "ipa": "/əˈtentɪv/",
+   "pos": "adj",
+   "vi": "chăm chú",
+   "ex": "The class stayed attentive throughout the lecture.",
+   "exVi": "Cả lớp giữ chăm chú suốt bài giảng.",
+   "col": [
+    "attentive students",
+    "remain attentive"
+   ]
+  },
+  {
+   "id": "ed085",
+   "topic": "Giáo dục & đào tạo",
+   "w": "enrichment",
+   "ipa": "/ɪnˈrɪtʃmənt/",
+   "pos": "n",
+   "vi": "hoạt động bồi dưỡng",
+   "ex": "Enrichment activities extend the core lessons.",
+   "exVi": "Hoạt động bồi dưỡng mở rộng các bài học cốt lõi.",
+   "col": [
+    "enrichment activities",
+    "an enrichment programme"
+   ]
+  },
+  {
+   "id": "ed086",
+   "topic": "Giáo dục & đào tạo",
+   "w": "pedagogy",
+   "ipa": "/ˈpedəɡɒdʒi/",
+   "pos": "n",
+   "vi": "phương pháp sư phạm",
+   "ex": "Modern pedagogy favours active learning.",
+   "exVi": "Phương pháp sư phạm hiện đại chuộng học chủ động.",
+   "col": [
+    "modern pedagogy",
+    "effective pedagogy"
+   ]
+  },
+  {
+   "id": "ed087",
+   "topic": "Giáo dục & đào tạo",
+   "w": "retention rate",
+   "ipa": "/rɪˈtenʃn reɪt/",
+   "pos": "n",
+   "vi": "tỷ lệ duy trì học viên",
+   "ex": "The course has a high retention rate.",
+   "exVi": "Khoá học có tỷ lệ duy trì học viên cao.",
+   "col": [
+    "a retention rate",
+    "a high retention rate"
+   ]
+  },
+  {
+   "id": "ed088",
+   "topic": "Giáo dục & đào tạo",
+   "w": "curriculum vitae",
+   "ipa": "/kəˈrɪkjələm ˈviːtaɪ/",
+   "pos": "n",
+   "vi": "sơ yếu lý lịch",
+   "ex": "Attach your curriculum vitae to the application.",
+   "exVi": "Đính kèm sơ yếu lý lịch vào đơn ứng tuyển.",
+   "col": [
+    "a curriculum vitae",
+    "update a curriculum vitae"
+   ]
+  },
+  {
+   "id": "ed089",
+   "topic": "Giáo dục & đào tạo",
+   "w": "scholarly",
+   "ipa": "/ˈskɒləli/",
+   "pos": "adj",
+   "vi": "thuộc học thuật",
+   "ex": "The course draws on scholarly research.",
+   "exVi": "Khoá học dựa trên nghiên cứu học thuật.",
+   "col": [
+    "a scholarly article",
+    "scholarly work"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1424 @@
+{
+ "topic": "Văn phòng & thiết bị",
+ "words": [
+  {
+   "id": "v01",
+   "topic": "Văn phòng & thiết bị",
+   "w": "agenda",
+   "ipa": "/əˈdʒendə/",
+   "pos": "n",
+   "vi": "chương trình họp, danh sách nội dung cần bàn",
+   "ex": "Please review the agenda before tomorrow's staff meeting.",
+   "exVi": "Vui lòng xem trước chương trình họp trước buổi họp nhân viên ngày mai.",
+   "col": [
+    "draft an agenda",
+    "item on the agenda",
+    "a packed agenda"
+   ]
+  },
+  {
+   "id": "v02",
+   "topic": "Văn phòng & thiết bị",
+   "w": "memo",
+   "ipa": "/ˈmeməʊ/",
+   "pos": "n",
+   "vi": "bản ghi nhớ nội bộ, thông báo nội bộ",
+   "ex": "The manager circulated a memo about the new dress code.",
+   "exVi": "Quản lý đã gửi một bản ghi nhớ về quy định trang phục mới.",
+   "col": [
+    "circulate a memo",
+    "an internal memo",
+    "according to the memo"
+   ]
+  },
+  {
+   "id": "v03",
+   "topic": "Văn phòng & thiết bị",
+   "w": "postpone",
+   "ipa": "/pəʊstˈpəʊn/",
+   "pos": "v",
+   "vi": "hoãn lại (sang thời điểm khác)",
+   "ex": "The training session has been postponed until further notice.",
+   "exVi": "Buổi tập huấn đã bị hoãn cho đến khi có thông báo mới.",
+   "col": [
+    "postpone a meeting",
+    "be postponed until",
+    "postpone indefinitely"
+   ]
+  },
+  {
+   "id": "v04",
+   "topic": "Văn phòng & thiết bị",
+   "w": "supplies",
+   "ipa": "/səˈplaɪz/",
+   "pos": "n",
+   "vi": "vật tư, đồ dùng (văn phòng)",
+   "ex": "Office supplies are stored in the cabinet next to the printer.",
+   "exVi": "Vật tư văn phòng được cất trong tủ cạnh máy in.",
+   "col": [
+    "office supplies",
+    "order supplies",
+    "run out of supplies"
+   ]
+  },
+  {
+   "id": "v05",
+   "topic": "Văn phòng & thiết bị",
+   "w": "remind",
+   "ipa": "/rɪˈmaɪnd/",
+   "pos": "v",
+   "vi": "nhắc nhở ai đó về việc gì",
+   "ex": "This message is to remind you that timesheets are due on Friday.",
+   "exVi": "Tin nhắn này để nhắc bạn rằng bảng chấm công phải nộp vào thứ Sáu.",
+   "col": [
+    "remind sb of sth",
+    "remind sb that",
+    "a gentle reminder"
+   ]
+  },
+  {
+   "id": "of006",
+   "topic": "Văn phòng & thiết bị",
+   "w": "stationery",
+   "ipa": "/ˈsteɪʃənri/",
+   "pos": "n",
+   "vi": "văn phòng phẩm",
+   "ex": "The stationery cupboard is restocked every Monday.",
+   "exVi": "Tủ văn phòng phẩm được bổ sung mỗi thứ Hai.",
+   "col": [
+    "order stationery",
+    "a stationery supplier"
+   ]
+  },
+  {
+   "id": "of007",
+   "topic": "Văn phòng & thiết bị",
+   "w": "equipment",
+   "ipa": "/ɪˈkwɪpmənt/",
+   "pos": "n",
+   "vi": "thiết bị",
+   "ex": "All new equipment must be logged with the IT team.",
+   "exVi": "Mọi thiết bị mới phải được ghi nhận với bộ phận IT.",
+   "col": [
+    "office equipment",
+    "a piece of equipment"
+   ]
+  },
+  {
+   "id": "of008",
+   "topic": "Văn phòng & thiết bị",
+   "w": "appliance",
+   "ipa": "/əˈplaɪəns/",
+   "pos": "n",
+   "vi": "thiết bị điện",
+   "ex": "The kitchen appliances are cleaned by the cleaning staff.",
+   "exVi": "Các thiết bị điện trong bếp do nhân viên vệ sinh lau dọn.",
+   "col": [
+    "a kitchen appliance",
+    "a household appliance"
+   ]
+  },
+  {
+   "id": "of009",
+   "topic": "Văn phòng & thiết bị",
+   "w": "photocopier",
+   "ipa": "/ˈfəʊtəkɒpiə/",
+   "pos": "n",
+   "vi": "máy photocopy",
+   "ex": "The photocopier on the third floor is out of order.",
+   "exVi": "Máy photocopy ở tầng ba đang hỏng.",
+   "col": [
+    "use the photocopier",
+    "a jammed photocopier"
+   ]
+  },
+  {
+   "id": "of010",
+   "topic": "Văn phòng & thiết bị",
+   "w": "projector",
+   "ipa": "/prəˈdʒektə/",
+   "pos": "n",
+   "vi": "máy chiếu",
+   "ex": "Book the projector before your presentation.",
+   "exVi": "Đặt trước máy chiếu trước buổi thuyết trình của bạn.",
+   "col": [
+    "set up a projector",
+    "a portable projector"
+   ]
+  },
+  {
+   "id": "of011",
+   "topic": "Văn phòng & thiết bị",
+   "w": "shredder",
+   "ipa": "/ˈʃredə/",
+   "pos": "n",
+   "vi": "máy huỷ tài liệu",
+   "ex": "Confidential papers must go through the shredder.",
+   "exVi": "Giấy tờ mật phải được đưa qua máy huỷ.",
+   "col": [
+    "a paper shredder",
+    "use the shredder"
+   ]
+  },
+  {
+   "id": "of012",
+   "topic": "Văn phòng & thiết bị",
+   "w": "scanner",
+   "ipa": "/ˈskænə/",
+   "pos": "n",
+   "vi": "máy quét",
+   "ex": "The scanner in the copy room feeds ten pages at once.",
+   "exVi": "Máy quét trong phòng photo nạp mười trang một lúc.",
+   "col": [
+    "a document scanner",
+    "use the scanner"
+   ]
+  },
+  {
+   "id": "of013",
+   "topic": "Văn phòng & thiết bị",
+   "w": "cartridge",
+   "ipa": "/ˈkɑːtrɪdʒ/",
+   "pos": "n",
+   "vi": "hộp mực",
+   "ex": "The printer is low on ink; replace the cartridge.",
+   "exVi": "Máy in sắp hết mực, hãy thay hộp mực.",
+   "col": [
+    "an ink cartridge",
+    "replace a cartridge"
+   ]
+  },
+  {
+   "id": "of014",
+   "topic": "Văn phòng & thiết bị",
+   "w": "toner",
+   "ipa": "/ˈtəʊnə/",
+   "pos": "n",
+   "vi": "mực máy in",
+   "ex": "We are running low on printer toner.",
+   "exVi": "Chúng ta sắp hết mực máy in.",
+   "col": [
+    "printer toner",
+    "a toner cartridge"
+   ]
+  },
+  {
+   "id": "of015",
+   "topic": "Văn phòng & thiết bị",
+   "w": "supply room",
+   "ipa": "/səˈplaɪ ruːm/",
+   "pos": "n",
+   "vi": "kho vật tư",
+   "ex": "Extra folders are kept in the supply room.",
+   "exVi": "Kẹp hồ sơ dự phòng để trong kho vật tư.",
+   "col": [
+    "the supply room",
+    "a locked supply room"
+   ]
+  },
+  {
+   "id": "of016",
+   "topic": "Văn phòng & thiết bị",
+   "w": "cubicle",
+   "ipa": "/ˈkjuːbɪkl/",
+   "pos": "n",
+   "vi": "ô làm việc",
+   "ex": "Each analyst has a small cubicle near the window.",
+   "exVi": "Mỗi chuyên viên phân tích có một ô làm việc nhỏ gần cửa sổ.",
+   "col": [
+    "a work cubicle",
+    "a corner cubicle"
+   ]
+  },
+  {
+   "id": "of017",
+   "topic": "Văn phòng & thiết bị",
+   "w": "workstation",
+   "ipa": "/ˈwɜːksteɪʃn/",
+   "pos": "n",
+   "vi": "bàn làm việc có máy tính",
+   "ex": "Please log off your workstation before leaving.",
+   "exVi": "Vui lòng đăng xuất khỏi bàn làm việc trước khi rời đi.",
+   "col": [
+    "a computer workstation",
+    "set up a workstation"
+   ]
+  },
+  {
+   "id": "of018",
+   "topic": "Văn phòng & thiết bị",
+   "w": "premises",
+   "ipa": "/ˈpremɪsɪz/",
+   "pos": "n",
+   "vi": "khuôn viên, mặt bằng",
+   "ex": "Visitors must sign in when entering the premises.",
+   "exVi": "Khách phải ký sổ khi vào khuôn viên.",
+   "col": [
+    "on the premises",
+    "business premises"
+   ]
+  },
+  {
+   "id": "of019",
+   "topic": "Văn phòng & thiết bị",
+   "w": "facility",
+   "ipa": "/fəˈsɪləti/",
+   "pos": "n",
+   "vi": "cơ sở, tiện ích",
+   "ex": "The building has a fitness facility on the ground floor.",
+   "exVi": "Toà nhà có một cơ sở thể dục ở tầng trệt.",
+   "col": [
+    "a storage facility",
+    "shared facilities"
+   ]
+  },
+  {
+   "id": "of020",
+   "topic": "Văn phòng & thiết bị",
+   "w": "lobby",
+   "ipa": "/ˈlɒbi/",
+   "pos": "n",
+   "vi": "sảnh",
+   "ex": "Please wait in the lobby until you are called.",
+   "exVi": "Vui lòng đợi ở sảnh cho tới khi được gọi.",
+   "col": [
+    "the main lobby",
+    "a hotel lobby"
+   ]
+  },
+  {
+   "id": "of021",
+   "topic": "Văn phòng & thiết bị",
+   "w": "corridor",
+   "ipa": "/ˈkɒrɪdɔː/",
+   "pos": "n",
+   "vi": "hành lang",
+   "ex": "The meeting rooms are along the corridor on the left.",
+   "exVi": "Các phòng họp nằm dọc hành lang bên trái.",
+   "col": [
+    "down the corridor",
+    "a narrow corridor"
+   ]
+  },
+  {
+   "id": "of022",
+   "topic": "Văn phòng & thiết bị",
+   "w": "reception",
+   "ipa": "/rɪˈsepʃn/",
+   "pos": "n",
+   "vi": "quầy lễ tân",
+   "ex": "Leave the parcel at reception if I'm out.",
+   "exVi": "Để bưu kiện ở quầy lễ tân nếu tôi vắng mặt.",
+   "col": [
+    "the reception desk",
+    "at reception"
+   ]
+  },
+  {
+   "id": "of023",
+   "topic": "Văn phòng & thiết bị",
+   "w": "receptionist",
+   "ipa": "/rɪˈsepʃənɪst/",
+   "pos": "n",
+   "vi": "nhân viên lễ tân",
+   "ex": "The receptionist will direct you to the right floor.",
+   "exVi": "Nhân viên lễ tân sẽ chỉ bạn tới đúng tầng.",
+   "col": [
+    "a friendly receptionist",
+    "the front receptionist"
+   ]
+  },
+  {
+   "id": "of024",
+   "topic": "Văn phòng & thiết bị",
+   "w": "maintenance",
+   "ipa": "/ˈmeɪntənəns/",
+   "pos": "n",
+   "vi": "bảo trì",
+   "ex": "Report any faults to the maintenance department.",
+   "exVi": "Báo mọi sự cố cho bộ phận bảo trì.",
+   "col": [
+    "routine maintenance",
+    "a maintenance request"
+   ]
+  },
+  {
+   "id": "of025",
+   "topic": "Văn phòng & thiết bị",
+   "w": "janitor",
+   "ipa": "/ˈdʒænɪtə/",
+   "pos": "n",
+   "vi": "nhân viên tạp vụ",
+   "ex": "The janitor locks the building at nine each night.",
+   "exVi": "Nhân viên tạp vụ khoá toà nhà lúc chín giờ mỗi tối.",
+   "col": [
+    "a building janitor",
+    "the night janitor"
+   ]
+  },
+  {
+   "id": "of026",
+   "topic": "Văn phòng & thiết bị",
+   "w": "custodian",
+   "ipa": "/kʌˈstəʊdiən/",
+   "pos": "n",
+   "vi": "người quản lý bảo trì",
+   "ex": "The custodian keeps a spare key to every room.",
+   "exVi": "Người quản lý bảo trì giữ chìa khoá dự phòng cho mọi phòng.",
+   "col": [
+    "the building custodian",
+    "a custodian on duty"
+   ]
+  },
+  {
+   "id": "of027",
+   "topic": "Văn phòng & thiết bị",
+   "w": "elevator",
+   "ipa": "/ˈelɪveɪtə/",
+   "pos": "n",
+   "vi": "thang máy",
+   "ex": "The east elevator is out of service this week.",
+   "exVi": "Thang máy phía đông ngừng hoạt động tuần này.",
+   "col": [
+    "take the elevator",
+    "a freight elevator"
+   ]
+  },
+  {
+   "id": "of028",
+   "topic": "Văn phòng & thiết bị",
+   "w": "escalator",
+   "ipa": "/ˈeskəleɪtə/",
+   "pos": "n",
+   "vi": "thang cuốn",
+   "ex": "The escalator to the second floor is being repaired.",
+   "exVi": "Thang cuốn lên tầng hai đang được sửa.",
+   "col": [
+    "ride the escalator",
+    "a broken escalator"
+   ]
+  },
+  {
+   "id": "of029",
+   "topic": "Văn phòng & thiết bị",
+   "w": "staircase",
+   "ipa": "/ˈsteəkeɪs/",
+   "pos": "n",
+   "vi": "cầu thang bộ",
+   "ex": "In an emergency, use the staircase, not the lift.",
+   "exVi": "Khi khẩn cấp, dùng cầu thang bộ, không dùng thang máy.",
+   "col": [
+    "a spiral staircase",
+    "the main staircase"
+   ]
+  },
+  {
+   "id": "of030",
+   "topic": "Văn phòng & thiết bị",
+   "w": "furnishings",
+   "ipa": "/ˈfɜːnɪʃɪŋz/",
+   "pos": "n",
+   "vi": "đồ nội thất",
+   "ex": "New furnishings were ordered for the reception area.",
+   "exVi": "Đồ nội thất mới được đặt cho khu lễ tân.",
+   "col": [
+    "office furnishings",
+    "replace the furnishings"
+   ]
+  },
+  {
+   "id": "of031",
+   "topic": "Văn phòng & thiết bị",
+   "w": "partition",
+   "ipa": "/pɑːˈtɪʃn/",
+   "pos": "n",
+   "vi": "vách ngăn",
+   "ex": "Glass partitions divide the open-plan office.",
+   "exVi": "Các vách ngăn kính chia không gian văn phòng mở.",
+   "col": [
+    "a glass partition",
+    "install a partition"
+   ]
+  },
+  {
+   "id": "of032",
+   "topic": "Văn phòng & thiết bị",
+   "w": "storeroom",
+   "ipa": "/ˈstɔːruːm/",
+   "pos": "n",
+   "vi": "nhà kho nhỏ",
+   "ex": "Old files are boxed and kept in the storeroom.",
+   "exVi": "Hồ sơ cũ được đóng thùng và cất trong nhà kho.",
+   "col": [
+    "a locked storeroom",
+    "the basement storeroom"
+   ]
+  },
+  {
+   "id": "of033",
+   "topic": "Văn phòng & thiết bị",
+   "w": "utility",
+   "ipa": "/juːˈtɪləti/",
+   "pos": "n",
+   "vi": "tiện ích, điện nước",
+   "ex": "Utility costs rose sharply over the winter.",
+   "exVi": "Chi phí điện nước tăng mạnh trong mùa đông.",
+   "col": [
+    "utility bills",
+    "public utilities"
+   ]
+  },
+  {
+   "id": "of034",
+   "topic": "Văn phòng & thiết bị",
+   "w": "thermostat",
+   "ipa": "/ˈθɜːməstæt/",
+   "pos": "n",
+   "vi": "bộ điều nhiệt",
+   "ex": "Please do not adjust the thermostat in the meeting room.",
+   "exVi": "Vui lòng không chỉnh bộ điều nhiệt trong phòng họp.",
+   "col": [
+    "set the thermostat",
+    "adjust the thermostat"
+   ]
+  },
+  {
+   "id": "of035",
+   "topic": "Văn phòng & thiết bị",
+   "w": "ventilation",
+   "ipa": "/ˌventɪˈleɪʃn/",
+   "pos": "n",
+   "vi": "hệ thống thông gió",
+   "ex": "The new ventilation system keeps the workshop cool.",
+   "exVi": "Hệ thống thông gió mới giữ xưởng luôn mát.",
+   "col": [
+    "proper ventilation",
+    "a ventilation system"
+   ]
+  },
+  {
+   "id": "of036",
+   "topic": "Văn phòng & thiết bị",
+   "w": "lighting",
+   "ipa": "/ˈlaɪtɪŋ/",
+   "pos": "n",
+   "vi": "hệ thống chiếu sáng",
+   "ex": "The lighting in the corridor is on a timer.",
+   "exVi": "Hệ thống chiếu sáng ở hành lang chạy theo hẹn giờ.",
+   "col": [
+    "overhead lighting",
+    "energy-saving lighting"
+   ]
+  },
+  {
+   "id": "of037",
+   "topic": "Văn phòng & thiết bị",
+   "w": "outlet",
+   "ipa": "/ˈaʊtlet/",
+   "pos": "n",
+   "vi": "ổ cắm điện",
+   "ex": "Every desk has two power outlets underneath.",
+   "exVi": "Mỗi bàn có hai ổ cắm điện bên dưới.",
+   "col": [
+    "a power outlet",
+    "a wall outlet"
+   ]
+  },
+  {
+   "id": "of038",
+   "topic": "Văn phòng & thiết bị",
+   "w": "socket",
+   "ipa": "/ˈsɒkɪt/",
+   "pos": "n",
+   "vi": "ổ cắm",
+   "ex": "Plug the charger into the socket by the door.",
+   "exVi": "Cắm sạc vào ổ cắm cạnh cửa.",
+   "col": [
+    "a wall socket",
+    "a spare socket"
+   ]
+  },
+  {
+   "id": "of039",
+   "topic": "Văn phòng & thiết bị",
+   "w": "extension cord",
+   "ipa": "/ɪkˈstenʃn kɔːd/",
+   "pos": "n",
+   "vi": "dây nối dài",
+   "ex": "Use an extension cord if the outlet is too far.",
+   "exVi": "Dùng dây nối dài nếu ổ cắm ở quá xa.",
+   "col": [
+    "an extension cord",
+    "plug in an extension cord"
+   ]
+  },
+  {
+   "id": "of040",
+   "topic": "Văn phòng & thiết bị",
+   "w": "bulletin board",
+   "ipa": "/ˈbʊlətɪn bɔːd/",
+   "pos": "n",
+   "vi": "bảng thông báo",
+   "ex": "The weekly roster is pinned to the bulletin board.",
+   "exVi": "Bảng phân ca hằng tuần được ghim lên bảng thông báo.",
+   "col": [
+    "a bulletin board",
+    "post on the bulletin board"
+   ]
+  },
+  {
+   "id": "of041",
+   "topic": "Văn phòng & thiết bị",
+   "w": "whiteboard",
+   "ipa": "/ˈwaɪtbɔːd/",
+   "pos": "n",
+   "vi": "bảng trắng",
+   "ex": "Notes from the meeting are still on the whiteboard.",
+   "exVi": "Ghi chú của cuộc họp vẫn còn trên bảng trắng.",
+   "col": [
+    "wipe the whiteboard",
+    "a whiteboard marker"
+   ]
+  },
+  {
+   "id": "of042",
+   "topic": "Văn phòng & thiết bị",
+   "w": "filing cabinet",
+   "ipa": "/ˈfaɪlɪŋ ˈkæbɪnət/",
+   "pos": "n",
+   "vi": "tủ đựng hồ sơ",
+   "ex": "Client records are stored in the filing cabinet.",
+   "exVi": "Hồ sơ khách hàng được cất trong tủ đựng hồ sơ.",
+   "col": [
+    "a locked filing cabinet",
+    "a metal filing cabinet"
+   ]
+  },
+  {
+   "id": "of043",
+   "topic": "Văn phòng & thiết bị",
+   "w": "drawer",
+   "ipa": "/drɔː/",
+   "pos": "n",
+   "vi": "ngăn kéo",
+   "ex": "Spare keys are in the top drawer of my desk.",
+   "exVi": "Chìa khoá dự phòng ở ngăn kéo trên cùng của bàn tôi.",
+   "col": [
+    "a desk drawer",
+    "the bottom drawer"
+   ]
+  },
+  {
+   "id": "of044",
+   "topic": "Văn phòng & thiết bị",
+   "w": "folder",
+   "ipa": "/ˈfəʊldə/",
+   "pos": "n",
+   "vi": "kẹp tài liệu",
+   "ex": "Put the signed forms in the blue folder.",
+   "exVi": "Cho các biểu mẫu đã ký vào kẹp tài liệu màu xanh.",
+   "col": [
+    "a document folder",
+    "a shared folder"
+   ]
+  },
+  {
+   "id": "of045",
+   "topic": "Văn phòng & thiết bị",
+   "w": "binder",
+   "ipa": "/ˈbaɪndə/",
+   "pos": "n",
+   "vi": "bìa còng",
+   "ex": "Each project has its own binder on the shelf.",
+   "exVi": "Mỗi dự án có một bìa còng riêng trên kệ.",
+   "col": [
+    "a ring binder",
+    "a training binder"
+   ]
+  },
+  {
+   "id": "of046",
+   "topic": "Văn phòng & thiết bị",
+   "w": "stapler",
+   "ipa": "/ˈsteɪplə/",
+   "pos": "n",
+   "vi": "cái dập ghim",
+   "ex": "The stapler is out of staples again.",
+   "exVi": "Cái dập ghim lại hết ghim rồi.",
+   "col": [
+    "use the stapler",
+    "a heavy-duty stapler"
+   ]
+  },
+  {
+   "id": "of047",
+   "topic": "Văn phòng & thiết bị",
+   "w": "laminate",
+   "ipa": "/ˈlæmɪneɪt/",
+   "pos": "v",
+   "vi": "ép nhựa",
+   "ex": "Laminate the sign so it lasts outdoors.",
+   "exVi": "Ép nhựa tấm biển để nó bền khi để ngoài trời.",
+   "col": [
+    "laminate a document",
+    "a laminated card"
+   ]
+  },
+  {
+   "id": "of048",
+   "topic": "Văn phòng & thiết bị",
+   "w": "inventory",
+   "ipa": "/ˈɪnvəntri/",
+   "pos": "n",
+   "vi": "kiểm kê, hàng tồn",
+   "ex": "We take inventory of supplies at month's end.",
+   "exVi": "Chúng tôi kiểm kê vật tư vào cuối tháng.",
+   "col": [
+    "take inventory",
+    "an inventory list"
+   ]
+  },
+  {
+   "id": "of049",
+   "topic": "Văn phòng & thiết bị",
+   "w": "restock",
+   "ipa": "/ˌriːˈstɒk/",
+   "pos": "v",
+   "vi": "bổ sung hàng",
+   "ex": "The pantry is restocked every Friday afternoon.",
+   "exVi": "Phòng ăn nhỏ được bổ sung mỗi chiều thứ Sáu.",
+   "col": [
+    "restock supplies",
+    "restock the shelves"
+   ]
+  },
+  {
+   "id": "of050",
+   "topic": "Văn phòng & thiết bị",
+   "w": "requisition",
+   "ipa": "/ˌrekwɪˈzɪʃn/",
+   "pos": "n",
+   "vi": "phiếu yêu cầu cấp phát",
+   "ex": "Submit a requisition form for any new equipment.",
+   "exVi": "Nộp phiếu yêu cầu cấp phát cho mọi thiết bị mới.",
+   "col": [
+    "a purchase requisition",
+    "submit a requisition"
+   ]
+  },
+  {
+   "id": "of051",
+   "topic": "Văn phòng & thiết bị",
+   "w": "pantry",
+   "ipa": "/ˈpæntri/",
+   "pos": "n",
+   "vi": "phòng ăn nhỏ",
+   "ex": "Coffee and tea are available in the pantry.",
+   "exVi": "Cà phê và trà có sẵn trong phòng ăn nhỏ.",
+   "col": [
+    "the office pantry",
+    "a shared pantry"
+   ]
+  },
+  {
+   "id": "of052",
+   "topic": "Văn phòng & thiết bị",
+   "w": "amenity",
+   "ipa": "/əˈmiːnəti/",
+   "pos": "n",
+   "vi": "tiện nghi",
+   "ex": "The building offers amenities such as showers and lockers.",
+   "exVi": "Toà nhà có các tiện nghi như phòng tắm và tủ khoá.",
+   "col": [
+    "shared amenities",
+    "on-site amenities"
+   ]
+  },
+  {
+   "id": "of053",
+   "topic": "Văn phòng & thiết bị",
+   "w": "tidy",
+   "ipa": "/ˈtaɪdi/",
+   "pos": "adj, v",
+   "vi": "gọn gàng; dọn dẹp",
+   "ex": "Please keep the shared desk tidy for the next user.",
+   "exVi": "Vui lòng giữ bàn dùng chung gọn gàng cho người tiếp theo.",
+   "col": [
+    "keep tidy",
+    "tidy up"
+   ]
+  },
+  {
+   "id": "of054",
+   "topic": "Văn phòng & thiết bị",
+   "w": "spacious",
+   "ipa": "/ˈspeɪʃəs/",
+   "pos": "adj",
+   "vi": "rộng rãi",
+   "ex": "The new office is bright and spacious.",
+   "exVi": "Văn phòng mới sáng sủa và rộng rãi.",
+   "col": [
+    "a spacious room",
+    "spacious enough for"
+   ]
+  },
+  {
+   "id": "of055",
+   "topic": "Văn phòng & thiết bị",
+   "w": "correspondence",
+   "ipa": "/ˌkɒrəˈspɒndəns/",
+   "pos": "n",
+   "vi": "thư từ trao đổi",
+   "ex": "All correspondence with the client is kept on file.",
+   "exVi": "Mọi thư từ trao đổi với khách được lưu lại.",
+   "col": [
+    "business correspondence",
+    "handle correspondence"
+   ]
+  },
+  {
+   "id": "of056",
+   "topic": "Văn phòng & thiết bị",
+   "w": "memorandum",
+   "ipa": "/ˌmeməˈrændəm/",
+   "pos": "n",
+   "vi": "bản ghi nhớ",
+   "ex": "A memorandum was issued to all department heads.",
+   "exVi": "Một bản ghi nhớ được gửi tới mọi trưởng phòng.",
+   "col": [
+    "issue a memorandum",
+    "an internal memorandum"
+   ]
+  },
+  {
+   "id": "of057",
+   "topic": "Văn phòng & thiết bị",
+   "w": "enclosure",
+   "ipa": "/ɪnˈkləʊʒə/",
+   "pos": "n",
+   "vi": "tài liệu đính kèm thư",
+   "ex": "The enclosure lists the revised prices.",
+   "exVi": "Tài liệu đính kèm liệt kê giá đã sửa.",
+   "col": [
+    "see the enclosure",
+    "an enclosure with the letter"
+   ]
+  },
+  {
+   "id": "of058",
+   "topic": "Văn phòng & thiết bị",
+   "w": "recipient",
+   "ipa": "/rɪˈsɪpiənt/",
+   "pos": "n",
+   "vi": "người nhận",
+   "ex": "The recipient must sign for the registered letter.",
+   "exVi": "Người nhận phải ký nhận thư bảo đảm.",
+   "col": [
+    "the intended recipient",
+    "a list of recipients"
+   ]
+  },
+  {
+   "id": "of059",
+   "topic": "Văn phòng & thiết bị",
+   "w": "addressee",
+   "ipa": "/ˌædreˈsiː/",
+   "pos": "n",
+   "vi": "người nhận thư",
+   "ex": "If the addressee has moved, return the letter to us.",
+   "exVi": "Nếu người nhận đã chuyển đi, hãy gửi thư lại cho chúng tôi.",
+   "col": [
+    "the named addressee",
+    "deliver to the addressee"
+   ]
+  },
+  {
+   "id": "of060",
+   "topic": "Văn phòng & thiết bị",
+   "w": "postage",
+   "ipa": "/ˈpəʊstɪdʒ/",
+   "pos": "n",
+   "vi": "cước bưu chính",
+   "ex": "Postage is included in the membership fee.",
+   "exVi": "Cước bưu chính đã tính trong phí thành viên.",
+   "col": [
+    "prepaid postage",
+    "postage costs"
+   ]
+  },
+  {
+   "id": "of061",
+   "topic": "Văn phòng & thiết bị",
+   "w": "courier",
+   "ipa": "/ˈkʊriə/",
+   "pos": "n",
+   "vi": "dịch vụ chuyển phát",
+   "ex": "The documents were sent by overnight courier.",
+   "exVi": "Tài liệu được gửi qua dịch vụ chuyển phát qua đêm.",
+   "col": [
+    "by courier",
+    "a courier service"
+   ]
+  },
+  {
+   "id": "of062",
+   "topic": "Văn phòng & thiết bị",
+   "w": "parcel",
+   "ipa": "/ˈpɑːsl/",
+   "pos": "n",
+   "vi": "bưu kiện",
+   "ex": "A parcel arrived for you while you were out.",
+   "exVi": "Có một bưu kiện tới cho bạn lúc bạn vắng mặt.",
+   "col": [
+    "a small parcel",
+    "collect a parcel"
+   ]
+  },
+  {
+   "id": "of063",
+   "topic": "Văn phòng & thiết bị",
+   "w": "dispatch",
+   "ipa": "/dɪˈspætʃ/",
+   "pos": "v",
+   "vi": "gửi đi",
+   "ex": "The order was dispatched this morning.",
+   "exVi": "Đơn hàng đã được gửi đi sáng nay.",
+   "col": [
+    "dispatch an order",
+    "dispatch goods"
+   ]
+  },
+  {
+   "id": "of064",
+   "topic": "Văn phòng & thiết bị",
+   "w": "forward",
+   "ipa": "/ˈfɔːwəd/",
+   "pos": "v",
+   "vi": "chuyển tiếp",
+   "ex": "Please forward this email to the whole team.",
+   "exVi": "Vui lòng chuyển tiếp email này cho cả nhóm.",
+   "col": [
+    "forward a message",
+    "forward mail"
+   ]
+  },
+  {
+   "id": "of065",
+   "topic": "Văn phòng & thiết bị",
+   "w": "attach",
+   "ipa": "/əˈtætʃ/",
+   "pos": "v",
+   "vi": "đính kèm",
+   "ex": "I have attached the report to this email.",
+   "exVi": "Tôi đã đính kèm báo cáo vào email này.",
+   "col": [
+    "attach a file",
+    "attach a document"
+   ]
+  },
+  {
+   "id": "of066",
+   "topic": "Văn phòng & thiết bị",
+   "w": "compose",
+   "ipa": "/kəmˈpəʊz/",
+   "pos": "v",
+   "vi": "soạn thảo",
+   "ex": "She composed a reply to the customer's complaint.",
+   "exVi": "Bà soạn một thư trả lời khiếu nại của khách.",
+   "col": [
+    "compose an email",
+    "compose a message"
+   ]
+  },
+  {
+   "id": "of067",
+   "topic": "Văn phòng & thiết bị",
+   "w": "draft",
+   "ipa": "/drɑːft/",
+   "pos": "v",
+   "vi": "soạn nháp",
+   "ex": "Could you draft a short notice for the staff?",
+   "exVi": "Anh soạn giúp một thông báo ngắn cho nhân viên nhé?",
+   "col": [
+    "draft a notice",
+    "draft a reply"
+   ]
+  },
+  {
+   "id": "of068",
+   "topic": "Văn phòng & thiết bị",
+   "w": "proofread",
+   "ipa": "/ˈpruːfriːd/",
+   "pos": "v",
+   "vi": "đọc soát lỗi",
+   "ex": "Please proofread the letter before it goes out.",
+   "exVi": "Vui lòng đọc soát lỗi bức thư trước khi gửi.",
+   "col": [
+    "proofread a document",
+    "carefully proofread"
+   ]
+  },
+  {
+   "id": "of069",
+   "topic": "Văn phòng & thiết bị",
+   "w": "circulate",
+   "ipa": "/ˈsɜːkjuleɪt/",
+   "pos": "v",
+   "vi": "luân chuyển, phát đi",
+   "ex": "The agenda was circulated a day before the meeting.",
+   "exVi": "Chương trình họp được phát đi một ngày trước cuộc họp.",
+   "col": [
+    "circulate a document",
+    "widely circulated"
+   ]
+  },
+  {
+   "id": "of070",
+   "topic": "Văn phòng & thiết bị",
+   "w": "distribute",
+   "ipa": "/dɪˈstrɪbjuːt/",
+   "pos": "v",
+   "vi": "phân phát",
+   "ex": "The handbooks will be distributed at the orientation.",
+   "exVi": "Sổ tay sẽ được phát tại buổi định hướng.",
+   "col": [
+    "distribute materials",
+    "widely distributed"
+   ]
+  },
+  {
+   "id": "of071",
+   "topic": "Văn phòng & thiết bị",
+   "w": "notify",
+   "ipa": "/ˈnəʊtɪfaɪ/",
+   "pos": "v",
+   "vi": "thông báo",
+   "ex": "Notify reception if you expect a visitor.",
+   "exVi": "Thông báo cho lễ tân nếu bạn có khách.",
+   "col": [
+    "notify in advance",
+    "notify staff"
+   ]
+  },
+  {
+   "id": "of072",
+   "topic": "Văn phòng & thiết bị",
+   "w": "notification",
+   "ipa": "/ˌnəʊtɪfɪˈkeɪʃn/",
+   "pos": "n",
+   "vi": "thông báo",
+   "ex": "You will receive a notification when the parcel arrives.",
+   "exVi": "Bạn sẽ nhận được thông báo khi bưu kiện tới.",
+   "col": [
+    "send a notification",
+    "a system notification"
+   ]
+  },
+  {
+   "id": "of073",
+   "topic": "Văn phòng & thiết bị",
+   "w": "reminder",
+   "ipa": "/rɪˈmaɪndə/",
+   "pos": "n",
+   "vi": "lời nhắc",
+   "ex": "This is a reminder that timesheets are due Friday.",
+   "exVi": "Đây là lời nhắc rằng bảng chấm công đến hạn thứ Sáu.",
+   "col": [
+    "a gentle reminder",
+    "send a reminder"
+   ]
+  },
+  {
+   "id": "of074",
+   "topic": "Văn phòng & thiết bị",
+   "w": "appointment",
+   "ipa": "/əˈpɔɪntmənt/",
+   "pos": "n",
+   "vi": "cuộc hẹn",
+   "ex": "I would like to make an appointment with Dr. Lang.",
+   "exVi": "Tôi muốn đặt một cuộc hẹn với bác sĩ Lang.",
+   "col": [
+    "make an appointment",
+    "a dental appointment"
+   ]
+  },
+  {
+   "id": "of075",
+   "topic": "Văn phòng & thiết bị",
+   "w": "schedule",
+   "ipa": "/ˈʃedjuːl/",
+   "pos": "n, v",
+   "vi": "lịch trình; xếp lịch",
+   "ex": "The training is scheduled for Thursday afternoon.",
+   "exVi": "Buổi tập huấn được xếp lịch vào chiều thứ Năm.",
+   "col": [
+    "a busy schedule",
+    "schedule a meeting"
+   ]
+  },
+  {
+   "id": "of076",
+   "topic": "Văn phòng & thiết bị",
+   "w": "reschedule",
+   "ipa": "/ˌriːˈʃedjuːl/",
+   "pos": "v",
+   "vi": "dời lịch",
+   "ex": "We had to reschedule the call to next week.",
+   "exVi": "Chúng tôi phải dời cuộc gọi sang tuần sau.",
+   "col": [
+    "reschedule an appointment",
+    "reschedule a meeting"
+   ]
+  },
+  {
+   "id": "of077",
+   "topic": "Văn phòng & thiết bị",
+   "w": "cancel",
+   "ipa": "/ˈkænsl/",
+   "pos": "v",
+   "vi": "huỷ",
+   "ex": "The client cancelled the order at the last minute.",
+   "exVi": "Khách huỷ đơn vào phút chót.",
+   "col": [
+    "cancel an order",
+    "cancel a booking"
+   ]
+  },
+  {
+   "id": "of078",
+   "topic": "Văn phòng & thiết bị",
+   "w": "convene",
+   "ipa": "/kənˈviːn/",
+   "pos": "v",
+   "vi": "triệu tập",
+   "ex": "The committee will convene at ten on Monday.",
+   "exVi": "Uỷ ban sẽ họp vào mười giờ thứ Hai.",
+   "col": [
+    "convene a meeting",
+    "convene a committee"
+   ]
+  },
+  {
+   "id": "of079",
+   "topic": "Văn phòng & thiết bị",
+   "w": "adjourn",
+   "ipa": "/əˈdʒɜːn/",
+   "pos": "v",
+   "vi": "tạm ngừng cuộc họp",
+   "ex": "The meeting was adjourned until after lunch.",
+   "exVi": "Cuộc họp được tạm ngừng tới sau giờ trưa.",
+   "col": [
+    "adjourn a meeting",
+    "the meeting adjourned"
+   ]
+  },
+  {
+   "id": "of080",
+   "topic": "Văn phòng & thiết bị",
+   "w": "minutes",
+   "ipa": "/ˈmɪnɪts/",
+   "pos": "n",
+   "vi": "biên bản họp",
+   "ex": "The minutes of the last meeting are attached.",
+   "exVi": "Biên bản cuộc họp trước được đính kèm.",
+   "col": [
+    "take the minutes",
+    "approve the minutes"
+   ]
+  },
+  {
+   "id": "of081",
+   "topic": "Văn phòng & thiết bị",
+   "w": "attendee",
+   "ipa": "/ˌætenˈdiː/",
+   "pos": "n",
+   "vi": "người tham dự",
+   "ex": "Each attendee received a printed handout.",
+   "exVi": "Mỗi người tham dự nhận một tờ tài liệu in.",
+   "col": [
+    "a list of attendees",
+    "register attendees"
+   ]
+  },
+  {
+   "id": "of082",
+   "topic": "Văn phòng & thiết bị",
+   "w": "handout",
+   "ipa": "/ˈhændaʊt/",
+   "pos": "n",
+   "vi": "tài liệu phát tay",
+   "ex": "Copies of the handout are on the table by the door.",
+   "exVi": "Bản sao tài liệu phát tay ở trên bàn cạnh cửa.",
+   "col": [
+    "a printed handout",
+    "distribute handouts"
+   ]
+  },
+  {
+   "id": "of083",
+   "topic": "Văn phòng & thiết bị",
+   "w": "extension",
+   "ipa": "/ɪkˈstenʃn/",
+   "pos": "n",
+   "vi": "số máy nội bộ",
+   "ex": "You can reach me on extension two four four.",
+   "exVi": "Bạn gọi tôi qua số máy nội bộ hai bốn bốn.",
+   "col": [
+    "dial an extension",
+    "an extension number"
+   ]
+  },
+  {
+   "id": "of084",
+   "topic": "Văn phòng & thiết bị",
+   "w": "intercom",
+   "ipa": "/ˈɪntəkɒm/",
+   "pos": "n",
+   "vi": "hệ thống liên lạc nội bộ",
+   "ex": "Use the intercom to call the security desk.",
+   "exVi": "Dùng hệ thống liên lạc nội bộ để gọi quầy bảo vệ.",
+   "col": [
+    "the office intercom",
+    "over the intercom"
+   ]
+  },
+  {
+   "id": "of085",
+   "topic": "Văn phòng & thiết bị",
+   "w": "voicemail",
+   "ipa": "/ˈvɔɪsmeɪl/",
+   "pos": "n",
+   "vi": "hộp thư thoại",
+   "ex": "She left a voicemail about the delivery time.",
+   "exVi": "Bà để lại một tin nhắn thoại về giờ giao hàng.",
+   "col": [
+    "leave a voicemail",
+    "check voicemail"
+   ]
+  },
+  {
+   "id": "of086",
+   "topic": "Văn phòng & thiết bị",
+   "w": "directory",
+   "ipa": "/dəˈrektri/",
+   "pos": "n",
+   "vi": "danh bạ",
+   "ex": "The staff directory lists everyone's extension.",
+   "exVi": "Danh bạ nhân viên liệt kê số máy của mọi người.",
+   "col": [
+    "a staff directory",
+    "an online directory"
+   ]
+  },
+  {
+   "id": "of087",
+   "topic": "Văn phòng & thiết bị",
+   "w": "letterhead",
+   "ipa": "/ˈletəhed/",
+   "pos": "n",
+   "vi": "tiêu đề thư công ty",
+   "ex": "All official letters use the company letterhead.",
+   "exVi": "Mọi thư chính thức dùng tiêu đề thư của công ty.",
+   "col": [
+    "company letterhead",
+    "printed on letterhead"
+   ]
+  },
+  {
+   "id": "of088",
+   "topic": "Văn phòng & thiết bị",
+   "w": "signature",
+   "ipa": "/ˈsɪɡnətʃə/",
+   "pos": "n",
+   "vi": "chữ ký",
+   "ex": "The form is invalid without a signature.",
+   "exVi": "Biểu mẫu vô hiệu nếu thiếu chữ ký.",
+   "col": [
+    "an authorized signature",
+    "an email signature"
+   ]
+  },
+  {
+   "id": "of089",
+   "topic": "Văn phòng & thiết bị",
+   "w": "draft copy",
+   "ipa": "/drɑːft ˈkɒpi/",
+   "pos": "n",
+   "vi": "bản nháp",
+   "ex": "Send me a draft copy before the final version.",
+   "exVi": "Gửi tôi một bản nháp trước bản cuối cùng.",
+   "col": [
+    "a draft copy",
+    "review the draft copy"
+   ]
+  },
+  {
+   "id": "of090",
+   "topic": "Văn phòng & thiết bị",
+   "w": "hard copy",
+   "ipa": "/hɑːd ˈkɒpi/",
+   "pos": "n",
+   "vi": "bản in giấy",
+   "ex": "Please bring a hard copy of the contract to the meeting.",
+   "exVi": "Vui lòng mang bản in giấy của hợp đồng tới cuộc họp.",
+   "col": [
+    "print a hard copy",
+    "a hard copy of"
+   ]
+  },
+  {
+   "id": "of091",
+   "topic": "Văn phòng & thiết bị",
+   "w": "duplicate",
+   "ipa": "/ˈdjuːplɪkət/",
+   "pos": "n, v",
+   "vi": "bản sao",
+   "ex": "Keep a duplicate of every signed form.",
+   "exVi": "Giữ một bản sao của mọi biểu mẫu đã ký.",
+   "col": [
+    "make a duplicate",
+    "a duplicate copy"
+   ]
+  },
+  {
+   "id": "of092",
+   "topic": "Văn phòng & thiết bị",
+   "w": "collate",
+   "ipa": "/kəˈleɪt/",
+   "pos": "v",
+   "vi": "sắp xếp, ghép trang",
+   "ex": "Collate the pages before you staple them.",
+   "exVi": "Sắp xếp các trang trước khi dập ghim.",
+   "col": [
+    "collate documents",
+    "collate copies"
+   ]
+  },
+  {
+   "id": "of093",
+   "topic": "Văn phòng & thiết bị",
+   "w": "file",
+   "ipa": "/faɪl/",
+   "pos": "v",
+   "vi": "lưu hồ sơ",
+   "ex": "File the receipts by date, not by amount.",
+   "exVi": "Lưu hồ sơ hoá đơn theo ngày, không theo số tiền.",
+   "col": [
+    "file a report",
+    "file paperwork"
+   ]
+  },
+  {
+   "id": "of094",
+   "topic": "Văn phòng & thiết bị",
+   "w": "archive",
+   "ipa": "/ˈɑːkaɪv/",
+   "pos": "v, n",
+   "vi": "lưu trữ",
+   "ex": "Old contracts are archived after five years.",
+   "exVi": "Hợp đồng cũ được lưu trữ sau năm năm.",
+   "col": [
+    "archive documents",
+    "a digital archive"
+   ]
+  },
+  {
+   "id": "of095",
+   "topic": "Văn phòng & thiết bị",
+   "w": "retrieve",
+   "ipa": "/rɪˈtriːv/",
+   "pos": "v",
+   "vi": "truy xuất, lấy ra",
+   "ex": "The new system makes it easy to retrieve old files.",
+   "exVi": "Hệ thống mới giúp truy xuất hồ sơ cũ dễ dàng.",
+   "col": [
+    "retrieve a file",
+    "retrieve data"
+   ]
+  },
+  {
+   "id": "of096",
+   "topic": "Văn phòng & thiết bị",
+   "w": "clerical",
+   "ipa": "/ˈklerɪkl/",
+   "pos": "adj",
+   "vi": "thuộc về hành chính, giấy tờ",
+   "ex": "Most of the clerical work is now done online.",
+   "exVi": "Phần lớn công việc hành chính nay làm trực tuyến.",
+   "col": [
+    "clerical work",
+    "a clerical error"
+   ]
+  },
+  {
+   "id": "of097",
+   "topic": "Văn phòng & thiết bị",
+   "w": "administrative",
+   "ipa": "/ədˈmɪnɪstrətɪv/",
+   "pos": "adj",
+   "vi": "thuộc quản trị hành chính",
+   "ex": "She handles the administrative side of the office.",
+   "exVi": "Bà phụ trách mảng hành chính của văn phòng.",
+   "col": [
+    "administrative tasks",
+    "administrative support"
+   ]
+  },
+  {
+   "id": "of098",
+   "topic": "Văn phòng & thiết bị",
+   "w": "paperwork",
+   "ipa": "/ˈpeɪpəwɜːk/",
+   "pos": "n",
+   "vi": "giấy tờ, thủ tục",
+   "ex": "There is a lot of paperwork to complete before you start.",
+   "exVi": "Có nhiều giấy tờ phải hoàn thành trước khi bạn bắt đầu.",
+   "col": [
+    "complete the paperwork",
+    "reduce paperwork"
+   ]
+  },
+  {
+   "id": "of099",
+   "topic": "Văn phòng & thiết bị",
+   "w": "photocopy",
+   "ipa": "/ˈfəʊtəkɒpi/",
+   "pos": "n, v",
+   "vi": "bản photo",
+   "ex": "Make three photocopies of the signed form.",
+   "exVi": "Photo ba bản của biểu mẫu đã ký.",
+   "col": [
+    "make a photocopy",
+    "a clear photocopy"
+   ]
+  },
+  {
+   "id": "of100",
+   "topic": "Văn phòng & thiết bị",
+   "w": "legible",
+   "ipa": "/ˈledʒəbl/",
+   "pos": "adj",
+   "vi": "dễ đọc",
+   "ex": "Please write in block letters so the form is legible.",
+   "exVi": "Vui lòng viết chữ in hoa để biểu mẫu dễ đọc.",
+   "col": [
+    "clearly legible",
+    "a legible signature"
+   ]
+  },
+  {
+   "id": "of101",
+   "topic": "Văn phòng & thiết bị",
+   "w": "misplace",
+   "ipa": "/ˌmɪsˈpleɪs/",
+   "pos": "v",
+   "vi": "để thất lạc",
+   "ex": "He misplaced the file and spent an hour looking for it.",
+   "exVi": "Anh ấy để thất lạc hồ sơ và mất một tiếng tìm nó.",
+   "col": [
+    "misplace a document",
+    "a misplaced folder"
+   ]
+  }
+ ]
+}

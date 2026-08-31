@@ -1,0 +1,1351 @@
+{
+ "topic": "Sản xuất & vận chuyển",
+ "words": [
+  {
+   "id": "v36",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "shipment",
+   "ipa": "/ˈʃɪpmənt/",
+   "pos": "n",
+   "vi": "lô hàng, chuyến hàng",
+   "ex": "The shipment cleared customs on Tuesday morning.",
+   "exVi": "Lô hàng đã thông quan vào sáng thứ Ba.",
+   "col": [
+    "track a shipment",
+    "a delayed shipment",
+    "receive a shipment"
+   ]
+  },
+  {
+   "id": "v37",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "warehouse",
+   "ipa": "/ˈweəhaʊs/",
+   "pos": "n",
+   "vi": "kho hàng",
+   "ex": "Items are packed at our warehouse outside the city.",
+   "exVi": "Hàng được đóng gói tại kho của chúng tôi ở ngoại thành.",
+   "col": [
+    "warehouse staff",
+    "store in a warehouse"
+   ]
+  },
+  {
+   "id": "v38",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "inventory",
+   "ipa": "/ˈɪnvəntri/",
+   "pos": "n",
+   "vi": "hàng tồn kho; việc kiểm kê",
+   "ex": "We take inventory at the end of every quarter.",
+   "exVi": "Chúng tôi kiểm kê hàng vào cuối mỗi quý.",
+   "col": [
+    "take inventory",
+    "inventory levels",
+    "excess inventory"
+   ]
+  },
+  {
+   "id": "v39",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "defective",
+   "ipa": "/dɪˈfektɪv/",
+   "pos": "adj",
+   "vi": "bị lỗi, hỏng",
+   "ex": "Defective items may be returned within 14 days.",
+   "exVi": "Hàng bị lỗi có thể được trả lại trong vòng 14 ngày.",
+   "col": [
+    "a defective product",
+    "replace defective parts"
+   ]
+  },
+  {
+   "id": "v40",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "distribute",
+   "ipa": "/dɪˈstrɪbjuːt/",
+   "pos": "v",
+   "vi": "phân phối, phát ra",
+   "ex": "The handbooks will be distributed at the orientation.",
+   "exVi": "Sổ tay sẽ được phát tại buổi định hướng.",
+   "col": [
+    "distribute materials",
+    "widely distributed"
+   ]
+  },
+  {
+   "id": "lo006",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "manufacture",
+   "ipa": "/ˌmænjuˈfæktʃə/",
+   "pos": "v",
+   "vi": "sản xuất",
+   "ex": "The plant manufactures parts for three car makers.",
+   "exVi": "Nhà máy sản xuất linh kiện cho ba hãng ô tô.",
+   "col": [
+    "manufacture goods",
+    "locally manufactured"
+   ]
+  },
+  {
+   "id": "lo007",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "manufacturer",
+   "ipa": "/ˌmænjuˈfæktʃərə/",
+   "pos": "n",
+   "vi": "nhà sản xuất",
+   "ex": "The manufacturer offers a two-year warranty.",
+   "exVi": "Nhà sản xuất cung cấp bảo hành hai năm.",
+   "col": [
+    "a leading manufacturer",
+    "a car manufacturer"
+   ]
+  },
+  {
+   "id": "lo008",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "production",
+   "ipa": "/prəˈdʌkʃn/",
+   "pos": "n",
+   "vi": "sản xuất",
+   "ex": "Production was halted for two days for maintenance.",
+   "exVi": "Việc sản xuất bị dừng hai ngày để bảo trì.",
+   "col": [
+    "halt production",
+    "mass production"
+   ]
+  },
+  {
+   "id": "lo009",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "assembly",
+   "ipa": "/əˈsembli/",
+   "pos": "n",
+   "vi": "lắp ráp",
+   "ex": "The assembly line runs three shifts a day.",
+   "exVi": "Dây chuyền lắp ráp chạy ba ca mỗi ngày.",
+   "col": [
+    "an assembly line",
+    "final assembly"
+   ]
+  },
+  {
+   "id": "lo010",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "factory",
+   "ipa": "/ˈfæktri/",
+   "pos": "n",
+   "vi": "nhà máy",
+   "ex": "The new factory will create two hundred jobs.",
+   "exVi": "Nhà máy mới sẽ tạo hai trăm việc làm.",
+   "col": [
+    "a factory floor",
+    "build a factory"
+   ]
+  },
+  {
+   "id": "lo011",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "plant",
+   "ipa": "/plɑːnt/",
+   "pos": "n",
+   "vi": "nhà máy, xưởng",
+   "ex": "The chemical plant meets strict safety standards.",
+   "exVi": "Nhà máy hoá chất đáp ứng tiêu chuẩn an toàn nghiêm ngặt.",
+   "col": [
+    "a manufacturing plant",
+    "a power plant"
+   ]
+  },
+  {
+   "id": "lo012",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "facility",
+   "ipa": "/fəˈsɪləti/",
+   "pos": "n",
+   "vi": "cơ sở sản xuất",
+   "ex": "The firm opened a second facility overseas.",
+   "exVi": "Công ty mở một cơ sở thứ hai ở nước ngoài.",
+   "col": [
+    "a production facility",
+    "a new facility"
+   ]
+  },
+  {
+   "id": "lo013",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "capacity",
+   "ipa": "/kəˈpæsəti/",
+   "pos": "n",
+   "vi": "công suất",
+   "ex": "The plant is running at full capacity.",
+   "exVi": "Nhà máy đang chạy hết công suất.",
+   "col": [
+    "full capacity",
+    "production capacity"
+   ]
+  },
+  {
+   "id": "lo014",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "output",
+   "ipa": "/ˈaʊtpʊt/",
+   "pos": "n",
+   "vi": "sản lượng",
+   "ex": "Daily output rose after the upgrade.",
+   "exVi": "Sản lượng hằng ngày tăng sau khi nâng cấp.",
+   "col": [
+    "increase output",
+    "total output"
+   ]
+  },
+  {
+   "id": "lo015",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "yield",
+   "ipa": "/jiːld/",
+   "pos": "n",
+   "vi": "sản lượng thu được",
+   "ex": "The new process improved the yield per batch.",
+   "exVi": "Quy trình mới cải thiện sản lượng mỗi mẻ.",
+   "col": [
+    "a high yield",
+    "improve yield"
+   ]
+  },
+  {
+   "id": "lo016",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "batch",
+   "ipa": "/bætʃ/",
+   "pos": "n",
+   "vi": "lô, mẻ",
+   "ex": "A faulty batch was recalled immediately.",
+   "exVi": "Một lô lỗi được thu hồi ngay.",
+   "col": [
+    "a batch of",
+    "a faulty batch"
+   ]
+  },
+  {
+   "id": "lo017",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "component",
+   "ipa": "/kəmˈpəʊnənt/",
+   "pos": "n",
+   "vi": "linh kiện",
+   "ex": "Each component is checked before assembly.",
+   "exVi": "Mỗi linh kiện được kiểm tra trước khi lắp ráp.",
+   "col": [
+    "a key component",
+    "spare components"
+   ]
+  },
+  {
+   "id": "lo018",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "raw material",
+   "ipa": "/rɔː məˈtɪəriəl/",
+   "pos": "n",
+   "vi": "nguyên liệu thô",
+   "ex": "Rising raw material costs cut into profits.",
+   "exVi": "Chi phí nguyên liệu thô tăng làm giảm lợi nhuận.",
+   "col": [
+    "raw materials",
+    "source raw materials"
+   ]
+  },
+  {
+   "id": "lo019",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "component part",
+   "ipa": "/kəmˈpəʊnənt pɑːt/",
+   "pos": "n",
+   "vi": "bộ phận cấu thành",
+   "ex": "A single component part delayed the whole line.",
+   "exVi": "Một bộ phận cấu thành làm chậm cả dây chuyền.",
+   "col": [
+    "a component part",
+    "a missing component part"
+   ]
+  },
+  {
+   "id": "lo020",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "stock",
+   "ipa": "/stɒk/",
+   "pos": "n",
+   "vi": "hàng dự trữ",
+   "ex": "We are running low on stock of the popular model.",
+   "exVi": "Chúng ta sắp hết hàng dự trữ của mẫu bán chạy.",
+   "col": [
+    "in stock",
+    "out of stock"
+   ]
+  },
+  {
+   "id": "lo021",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "surplus",
+   "ipa": "/ˈsɜːpləs/",
+   "pos": "n",
+   "vi": "hàng dư",
+   "ex": "Surplus goods were sold at a discount.",
+   "exVi": "Hàng dư được bán giảm giá.",
+   "col": [
+    "a surplus of",
+    "sell surplus stock"
+   ]
+  },
+  {
+   "id": "lo022",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "shortage",
+   "ipa": "/ˈʃɔːtɪdʒ/",
+   "pos": "n",
+   "vi": "thiếu hụt",
+   "ex": "A parts shortage slowed production last month.",
+   "exVi": "Việc thiếu linh kiện làm chậm sản xuất tháng trước.",
+   "col": [
+    "a shortage of",
+    "a supply shortage"
+   ]
+  },
+  {
+   "id": "lo023",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "freight",
+   "ipa": "/freɪt/",
+   "pos": "n",
+   "vi": "hàng hoá vận chuyển",
+   "ex": "Freight costs rose sharply over the winter.",
+   "exVi": "Chi phí vận chuyển hàng tăng mạnh trong mùa đông.",
+   "col": [
+    "freight costs",
+    "air freight"
+   ]
+  },
+  {
+   "id": "lo024",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "cargo",
+   "ipa": "/ˈkɑːɡəʊ/",
+   "pos": "n",
+   "vi": "hàng hoá chở",
+   "ex": "The ship carried mixed cargo from three ports.",
+   "exVi": "Con tàu chở hàng hỗn hợp từ ba cảng.",
+   "col": [
+    "a cargo ship",
+    "load cargo"
+   ]
+  },
+  {
+   "id": "lo025",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "consignment",
+   "ipa": "/kənˈsaɪnmənt/",
+   "pos": "n",
+   "vi": "chuyến hàng gửi",
+   "ex": "The consignment arrived a day ahead of schedule.",
+   "exVi": "Chuyến hàng gửi tới sớm hơn lịch một ngày.",
+   "col": [
+    "a consignment of",
+    "a large consignment"
+   ]
+  },
+  {
+   "id": "lo026",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "haulage",
+   "ipa": "/ˈhɔːlɪdʒ/",
+   "pos": "n",
+   "vi": "vận tải đường bộ",
+   "ex": "A local firm handles all our road haulage.",
+   "exVi": "Một công ty địa phương lo toàn bộ vận tải đường bộ của chúng tôi.",
+   "col": [
+    "road haulage",
+    "haulage costs"
+   ]
+  },
+  {
+   "id": "lo027",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "carrier",
+   "ipa": "/ˈkæriə/",
+   "pos": "n",
+   "vi": "đơn vị vận chuyển",
+   "ex": "The carrier guarantees next-day delivery.",
+   "exVi": "Đơn vị vận chuyển bảo đảm giao hàng ngày hôm sau.",
+   "col": [
+    "a freight carrier",
+    "a reliable carrier"
+   ]
+  },
+  {
+   "id": "lo028",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "courier",
+   "ipa": "/ˈkʊriə/",
+   "pos": "n",
+   "vi": "người chuyển phát",
+   "ex": "A courier collected the parcel at noon.",
+   "exVi": "Một người chuyển phát lấy bưu kiện lúc trưa.",
+   "col": [
+    "a courier service",
+    "by courier"
+   ]
+  },
+  {
+   "id": "lo029",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "dispatch",
+   "ipa": "/dɪˈspætʃ/",
+   "pos": "n, v",
+   "vi": "việc gửi hàng đi",
+   "ex": "Goods are dispatched within a day of the order.",
+   "exVi": "Hàng được gửi đi trong một ngày sau khi đặt.",
+   "col": [
+    "dispatch goods",
+    "a dispatch note"
+   ]
+  },
+  {
+   "id": "lo030",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "delivery",
+   "ipa": "/dɪˈlɪvəri/",
+   "pos": "n",
+   "vi": "việc giao hàng",
+   "ex": "Free delivery applies to orders over fifty dollars.",
+   "exVi": "Miễn phí giao hàng cho đơn trên năm mươi đô.",
+   "col": [
+    "free delivery",
+    "a delivery date"
+   ]
+  },
+  {
+   "id": "lo031",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "distribution",
+   "ipa": "/ˌdɪstrɪˈbjuːʃn/",
+   "pos": "n",
+   "vi": "phân phối",
+   "ex": "A new distribution centre serves the whole region.",
+   "exVi": "Một trung tâm phân phối mới phục vụ cả khu vực.",
+   "col": [
+    "a distribution centre",
+    "a distribution network"
+   ]
+  },
+  {
+   "id": "lo032",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "logistics",
+   "ipa": "/ləˈdʒɪstɪks/",
+   "pos": "n",
+   "vi": "hậu cần",
+   "ex": "Good logistics keep delivery costs down.",
+   "exVi": "Hậu cần tốt giữ chi phí giao hàng ở mức thấp.",
+   "col": [
+    "the logistics team",
+    "manage logistics"
+   ]
+  },
+  {
+   "id": "lo033",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "supply chain",
+   "ipa": "/səˈplaɪ tʃeɪn/",
+   "pos": "n",
+   "vi": "chuỗi cung ứng",
+   "ex": "A break in the supply chain delayed every order.",
+   "exVi": "Một đứt gãy trong chuỗi cung ứng làm chậm mọi đơn.",
+   "col": [
+    "the supply chain",
+    "a global supply chain"
+   ]
+  },
+  {
+   "id": "lo034",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "procurement",
+   "ipa": "/prəˈkjʊəmənt/",
+   "pos": "n",
+   "vi": "thu mua",
+   "ex": "The procurement team sources parts from Asia.",
+   "exVi": "Bộ phận thu mua tìm linh kiện từ châu Á.",
+   "col": [
+    "procurement costs",
+    "a procurement policy"
+   ]
+  },
+  {
+   "id": "lo035",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "pallet",
+   "ipa": "/ˈpælət/",
+   "pos": "n",
+   "vi": "kệ chở hàng",
+   "ex": "Each pallet holds forty boxes.",
+   "exVi": "Mỗi kệ chở hàng chứa bốn mươi thùng.",
+   "col": [
+    "a wooden pallet",
+    "load a pallet"
+   ]
+  },
+  {
+   "id": "lo036",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "crate",
+   "ipa": "/kreɪt/",
+   "pos": "n",
+   "vi": "thùng gỗ",
+   "ex": "The machinery was shipped in a sturdy crate.",
+   "exVi": "Máy móc được gửi trong một thùng gỗ chắc chắn.",
+   "col": [
+    "a wooden crate",
+    "a shipping crate"
+   ]
+  },
+  {
+   "id": "lo037",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "forklift",
+   "ipa": "/ˈfɔːklɪft/",
+   "pos": "n",
+   "vi": "xe nâng",
+   "ex": "A forklift moves the pallets around the warehouse.",
+   "exVi": "Một xe nâng di chuyển các kệ hàng quanh nhà kho.",
+   "col": [
+    "a forklift truck",
+    "operate a forklift"
+   ]
+  },
+  {
+   "id": "lo038",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "loading dock",
+   "ipa": "/ˈləʊdɪŋ dɒk/",
+   "pos": "n",
+   "vi": "bến bốc dỡ",
+   "ex": "Trucks queue at the loading dock each morning.",
+   "exVi": "Xe tải xếp hàng ở bến bốc dỡ mỗi sáng.",
+   "col": [
+    "a loading dock",
+    "at the loading dock"
+   ]
+  },
+  {
+   "id": "lo039",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "conveyor",
+   "ipa": "/kənˈveɪə/",
+   "pos": "n",
+   "vi": "băng tải",
+   "ex": "The conveyor carries boxes to the packing area.",
+   "exVi": "Băng tải đưa thùng tới khu đóng gói.",
+   "col": [
+    "a conveyor belt",
+    "a moving conveyor"
+   ]
+  },
+  {
+   "id": "lo040",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "container",
+   "ipa": "/kənˈteɪnə/",
+   "pos": "n",
+   "vi": "công-ten-nơ",
+   "ex": "The goods filled two shipping containers.",
+   "exVi": "Hàng lấp đầy hai công-ten-nơ vận chuyển.",
+   "col": [
+    "a shipping container",
+    "load a container"
+   ]
+  },
+  {
+   "id": "lo041",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "vessel",
+   "ipa": "/ˈvesl/",
+   "pos": "n",
+   "vi": "tàu thuỷ",
+   "ex": "The vessel docks at the port on Friday.",
+   "exVi": "Con tàu cập cảng vào thứ Sáu.",
+   "col": [
+    "a cargo vessel",
+    "a shipping vessel"
+   ]
+  },
+  {
+   "id": "lo042",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "port",
+   "ipa": "/pɔːt/",
+   "pos": "n",
+   "vi": "cảng",
+   "ex": "The port handles thousands of containers a day.",
+   "exVi": "Cảng xử lý hàng nghìn công-ten-nơ mỗi ngày.",
+   "col": [
+    "a sea port",
+    "a busy port"
+   ]
+  },
+  {
+   "id": "lo043",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "depot",
+   "ipa": "/ˈdepəʊ/",
+   "pos": "n",
+   "vi": "kho trung chuyển",
+   "ex": "The truck was held overnight at the depot.",
+   "exVi": "Xe tải bị giữ qua đêm ở kho trung chuyển.",
+   "col": [
+    "a bus depot",
+    "a storage depot"
+   ]
+  },
+  {
+   "id": "lo044",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "hub",
+   "ipa": "/hʌb/",
+   "pos": "n",
+   "vi": "trung tâm trung chuyển",
+   "ex": "The city is a major hub for regional deliveries.",
+   "exVi": "Thành phố là một trung tâm trung chuyển lớn cho việc giao hàng vùng.",
+   "col": [
+    "a distribution hub",
+    "a transport hub"
+   ]
+  },
+  {
+   "id": "lo045",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "route",
+   "ipa": "/ruːt/",
+   "pos": "n",
+   "vi": "tuyến đường",
+   "ex": "A shorter route cut fuel costs by a tenth.",
+   "exVi": "Một tuyến đường ngắn hơn giảm chi phí nhiên liệu một phần mười.",
+   "col": [
+    "a delivery route",
+    "plan a route"
+   ]
+  },
+  {
+   "id": "lo046",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "transit",
+   "ipa": "/ˈtrænzɪt/",
+   "pos": "n",
+   "vi": "quá trình vận chuyển",
+   "ex": "The goods were damaged in transit.",
+   "exVi": "Hàng bị hư trong quá trình vận chuyển.",
+   "col": [
+    "in transit",
+    "transit time"
+   ]
+  },
+  {
+   "id": "lo047",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "lead time",
+   "ipa": "/liːd taɪm/",
+   "pos": "n",
+   "vi": "thời gian chờ giao",
+   "ex": "The supplier cut the lead time to five days.",
+   "exVi": "Nhà cung cấp giảm thời gian chờ giao xuống năm ngày.",
+   "col": [
+    "a short lead time",
+    "reduce lead time"
+   ]
+  },
+  {
+   "id": "lo048",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "turnaround",
+   "ipa": "/ˈtɜːnəraʊnd/",
+   "pos": "n",
+   "vi": "thời gian quay vòng",
+   "ex": "A faster turnaround pleased regular customers.",
+   "exVi": "Thời gian quay vòng nhanh hơn làm hài lòng khách quen.",
+   "col": [
+    "a quick turnaround",
+    "turnaround time"
+   ]
+  },
+  {
+   "id": "lo049",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "handling",
+   "ipa": "/ˈhændlɪŋ/",
+   "pos": "n",
+   "vi": "việc bốc xếp",
+   "ex": "Careful handling prevents damage to fragile goods.",
+   "exVi": "Bốc xếp cẩn thận tránh làm hỏng hàng dễ vỡ.",
+   "col": [
+    "careful handling",
+    "handling charges"
+   ]
+  },
+  {
+   "id": "lo050",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "packaging",
+   "ipa": "/ˈpækɪdʒɪŋ/",
+   "pos": "n",
+   "vi": "đóng gói",
+   "ex": "Sturdy packaging protects the goods in transit.",
+   "exVi": "Bao bì chắc chắn bảo vệ hàng khi vận chuyển.",
+   "col": [
+    "protective packaging",
+    "damaged packaging"
+   ]
+  },
+  {
+   "id": "lo051",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "warehousing",
+   "ipa": "/ˈweəhaʊzɪŋ/",
+   "pos": "n",
+   "vi": "hoạt động lưu kho",
+   "ex": "Warehousing costs make up a third of the total.",
+   "exVi": "Chi phí lưu kho chiếm một phần ba tổng số.",
+   "col": [
+    "warehousing costs",
+    "warehousing services"
+   ]
+  },
+  {
+   "id": "lo052",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "storage",
+   "ipa": "/ˈstɔːrɪdʒ/",
+   "pos": "n",
+   "vi": "việc lưu trữ",
+   "ex": "Cold storage is required for the perishable goods.",
+   "exVi": "Hàng dễ hỏng cần được lưu trữ lạnh.",
+   "col": [
+    "cold storage",
+    "storage space"
+   ]
+  },
+  {
+   "id": "lo053",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "stockpile",
+   "ipa": "/ˈstɒkpaɪl/",
+   "pos": "n, v",
+   "vi": "kho dự trữ; tích trữ",
+   "ex": "The firm built a stockpile of parts before the strike.",
+   "exVi": "Công ty tích trữ một kho linh kiện trước cuộc đình công.",
+   "col": [
+    "a stockpile of",
+    "stockpile goods"
+   ]
+  },
+  {
+   "id": "lo054",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "replenish",
+   "ipa": "/rɪˈplenɪʃ/",
+   "pos": "v",
+   "vi": "bổ sung lại",
+   "ex": "Shelves are replenished every night after closing.",
+   "exVi": "Kệ hàng được bổ sung mỗi đêm sau khi đóng cửa.",
+   "col": [
+    "replenish stock",
+    "replenish supplies"
+   ]
+  },
+  {
+   "id": "lo055",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "restock",
+   "ipa": "/ˌriːˈstɒk/",
+   "pos": "v",
+   "vi": "nhập hàng lại",
+   "ex": "The warehouse restocks the fast-selling items weekly.",
+   "exVi": "Nhà kho nhập lại hàng bán chạy mỗi tuần.",
+   "col": [
+    "restock shelves",
+    "restock an item"
+   ]
+  },
+  {
+   "id": "lo056",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "palletize",
+   "ipa": "/ˈpælətaɪz/",
+   "pos": "v",
+   "vi": "xếp lên kệ hàng",
+   "ex": "Goods are palletized before they leave the plant.",
+   "exVi": "Hàng được xếp lên kệ trước khi rời nhà máy.",
+   "col": [
+    "palletize goods",
+    "palletized cargo"
+   ]
+  },
+  {
+   "id": "lo057",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "unload",
+   "ipa": "/ˌʌnˈləʊd/",
+   "pos": "v",
+   "vi": "dỡ hàng",
+   "ex": "Workers unload the truck at the rear entrance.",
+   "exVi": "Công nhân dỡ hàng ở lối vào phía sau.",
+   "col": [
+    "unload a truck",
+    "unload cargo"
+   ]
+  },
+  {
+   "id": "lo058",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "load",
+   "ipa": "/ləʊd/",
+   "pos": "v",
+   "vi": "xếp hàng",
+   "ex": "The crew loaded the containers before dawn.",
+   "exVi": "Đội xếp các công-ten-nơ trước bình minh.",
+   "col": [
+    "load a truck",
+    "a full load"
+   ]
+  },
+  {
+   "id": "lo059",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "tracking",
+   "ipa": "/ˈtrækɪŋ/",
+   "pos": "n",
+   "vi": "theo dõi hành trình",
+   "ex": "A tracking number lets customers follow the parcel.",
+   "exVi": "Mã theo dõi cho phép khách theo dõi bưu kiện.",
+   "col": [
+    "a tracking number",
+    "order tracking"
+   ]
+  },
+  {
+   "id": "lo060",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "traceability",
+   "ipa": "/ˌtreɪsəˈbɪləti/",
+   "pos": "n",
+   "vi": "khả năng truy xuất",
+   "ex": "Full traceability helps identify faulty batches quickly.",
+   "exVi": "Khả năng truy xuất đầy đủ giúp tìm lô lỗi nhanh.",
+   "col": [
+    "full traceability",
+    "product traceability"
+   ]
+  },
+  {
+   "id": "lo061",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "expedite",
+   "ipa": "/ˈekspədaɪt/",
+   "pos": "v",
+   "vi": "đẩy nhanh",
+   "ex": "We can expedite the order for an extra fee.",
+   "exVi": "Chúng tôi có thể đẩy nhanh đơn hàng với một khoản phí thêm.",
+   "col": [
+    "expedite an order",
+    "expedite delivery"
+   ]
+  },
+  {
+   "id": "lo062",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "prioritize",
+   "ipa": "/praɪˈɒrətaɪz/",
+   "pos": "v",
+   "vi": "ưu tiên",
+   "ex": "The team prioritizes urgent shipments during holidays.",
+   "exVi": "Nhóm ưu tiên các lô hàng gấp trong dịp lễ.",
+   "col": [
+    "prioritize orders",
+    "prioritize tasks"
+   ]
+  },
+  {
+   "id": "lo063",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "streamline",
+   "ipa": "/ˈstriːmlaɪn/",
+   "pos": "v",
+   "vi": "tinh gọn",
+   "ex": "New software streamlined the whole ordering process.",
+   "exVi": "Phần mềm mới tinh gọn toàn bộ quy trình đặt hàng.",
+   "col": [
+    "streamline a process",
+    "streamline operations"
+   ]
+  },
+  {
+   "id": "lo064",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "optimize",
+   "ipa": "/ˈɒptɪmaɪz/",
+   "pos": "v",
+   "vi": "tối ưu hoá",
+   "ex": "The route was optimized to save time and fuel.",
+   "exVi": "Tuyến đường được tối ưu để tiết kiệm thời gian và nhiên liệu.",
+   "col": [
+    "optimize a route",
+    "optimize efficiency"
+   ]
+  },
+  {
+   "id": "lo065",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "efficiency",
+   "ipa": "/ɪˈfɪʃnsi/",
+   "pos": "n",
+   "vi": "hiệu suất",
+   "ex": "Automation improved efficiency on the packing line.",
+   "exVi": "Tự động hoá cải thiện hiệu suất trên dây chuyền đóng gói.",
+   "col": [
+    "improve efficiency",
+    "operational efficiency"
+   ]
+  },
+  {
+   "id": "lo066",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "throughput",
+   "ipa": "/ˈθruːpʊt/",
+   "pos": "n",
+   "vi": "lưu lượng xử lý",
+   "ex": "The upgrade doubled the warehouse's throughput.",
+   "exVi": "Việc nâng cấp làm tăng gấp đôi lưu lượng xử lý của nhà kho.",
+   "col": [
+    "increase throughput",
+    "daily throughput"
+   ]
+  },
+  {
+   "id": "lo067",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "bottleneck",
+   "ipa": "/ˈbɒtlnek/",
+   "pos": "n",
+   "vi": "nút thắt cổ chai",
+   "ex": "Packing became the main bottleneck during the rush.",
+   "exVi": "Khâu đóng gói trở thành nút thắt chính trong đợt cao điểm.",
+   "col": [
+    "a bottleneck",
+    "remove a bottleneck"
+   ]
+  },
+  {
+   "id": "lo068",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "downtime",
+   "ipa": "/ˈdaʊntaɪm/",
+   "pos": "n",
+   "vi": "thời gian ngừng máy",
+   "ex": "Regular servicing reduces machine downtime.",
+   "exVi": "Bảo dưỡng đều đặn giảm thời gian ngừng máy.",
+   "col": [
+    "reduce downtime",
+    "unplanned downtime"
+   ]
+  },
+  {
+   "id": "lo069",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "defect",
+   "ipa": "/ˈdiːfekt/",
+   "pos": "n",
+   "vi": "lỗi sản phẩm",
+   "ex": "Any defect must be reported before shipping.",
+   "exVi": "Mọi lỗi phải được báo trước khi gửi hàng.",
+   "col": [
+    "a manufacturing defect",
+    "a minor defect"
+   ]
+  },
+  {
+   "id": "lo070",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "faulty",
+   "ipa": "/ˈfɔːlti/",
+   "pos": "adj",
+   "vi": "hỏng, lỗi",
+   "ex": "The faulty batch was recalled within hours.",
+   "exVi": "Lô hàng lỗi được thu hồi trong vài giờ.",
+   "col": [
+    "a faulty product",
+    "faulty wiring"
+   ]
+  },
+  {
+   "id": "lo071",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "inspection",
+   "ipa": "/ɪnˈspekʃn/",
+   "pos": "n",
+   "vi": "kiểm tra",
+   "ex": "Every shipment passes a final inspection.",
+   "exVi": "Mọi lô hàng đều qua khâu kiểm tra cuối.",
+   "col": [
+    "a quality inspection",
+    "a routine inspection"
+   ]
+  },
+  {
+   "id": "lo072",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "quality control",
+   "ipa": "/ˈkwɒləti kənˈtrəʊl/",
+   "pos": "n",
+   "vi": "kiểm soát chất lượng",
+   "ex": "Strict quality control keeps returns low.",
+   "exVi": "Kiểm soát chất lượng nghiêm ngặt giữ tỷ lệ trả hàng thấp.",
+   "col": [
+    "quality control checks",
+    "strict quality control"
+   ]
+  },
+  {
+   "id": "lo073",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "compliance",
+   "ipa": "/kəmˈplaɪəns/",
+   "pos": "n",
+   "vi": "sự tuân thủ",
+   "ex": "The plant is audited for safety compliance yearly.",
+   "exVi": "Nhà máy được kiểm tra tuân thủ an toàn hằng năm.",
+   "col": [
+    "safety compliance",
+    "ensure compliance"
+   ]
+  },
+  {
+   "id": "lo074",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "standard",
+   "ipa": "/ˈstændəd/",
+   "pos": "n",
+   "vi": "tiêu chuẩn",
+   "ex": "All products meet the international standard.",
+   "exVi": "Mọi sản phẩm đạt tiêu chuẩn quốc tế.",
+   "col": [
+    "meet a standard",
+    "a safety standard"
+   ]
+  },
+  {
+   "id": "lo075",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "specification",
+   "ipa": "/ˌspesɪfɪˈkeɪʃn/",
+   "pos": "n",
+   "vi": "quy cách kỹ thuật",
+   "ex": "The parts were made to an exact specification.",
+   "exVi": "Linh kiện được làm theo quy cách kỹ thuật chính xác.",
+   "col": [
+    "meet the specification",
+    "a technical specification"
+   ]
+  },
+  {
+   "id": "lo076",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "tolerance",
+   "ipa": "/ˈtɒlərəns/",
+   "pos": "n",
+   "vi": "dung sai",
+   "ex": "The parts are machined to a tight tolerance.",
+   "exVi": "Linh kiện được gia công với dung sai chặt.",
+   "col": [
+    "a tight tolerance",
+    "within tolerance"
+   ]
+  },
+  {
+   "id": "lo077",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "recall",
+   "ipa": "/rɪˈkɔːl/",
+   "pos": "n, v",
+   "vi": "thu hồi",
+   "ex": "A safety recall affected ten thousand units.",
+   "exVi": "Một đợt thu hồi vì an toàn ảnh hưởng mười nghìn sản phẩm.",
+   "col": [
+    "a product recall",
+    "issue a recall"
+   ]
+  },
+  {
+   "id": "lo078",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "scrap",
+   "ipa": "/skræp/",
+   "pos": "n, v",
+   "vi": "phế liệu; loại bỏ",
+   "ex": "Damaged units are sold as scrap metal.",
+   "exVi": "Sản phẩm hỏng được bán làm phế liệu kim loại.",
+   "col": [
+    "scrap metal",
+    "scrap a batch"
+   ]
+  },
+  {
+   "id": "lo079",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "automate",
+   "ipa": "/ˈɔːtəmeɪt/",
+   "pos": "v",
+   "vi": "tự động hoá",
+   "ex": "The firm automated the packing line last year.",
+   "exVi": "Công ty tự động hoá dây chuyền đóng gói năm ngoái.",
+   "col": [
+    "automate a process",
+    "fully automated"
+   ]
+  },
+  {
+   "id": "lo080",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "machinery",
+   "ipa": "/məˈʃiːnəri/",
+   "pos": "n",
+   "vi": "máy móc",
+   "ex": "The machinery is serviced every three months.",
+   "exVi": "Máy móc được bảo dưỡng ba tháng một lần.",
+   "col": [
+    "heavy machinery",
+    "operate machinery"
+   ]
+  },
+  {
+   "id": "lo081",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "equipment",
+   "ipa": "/ɪˈkwɪpmənt/",
+   "pos": "n",
+   "vi": "thiết bị",
+   "ex": "New equipment cut the assembly time in half.",
+   "exVi": "Thiết bị mới giảm thời gian lắp ráp một nửa.",
+   "col": [
+    "heavy equipment",
+    "a piece of equipment"
+   ]
+  },
+  {
+   "id": "lo082",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "maintenance",
+   "ipa": "/ˈmeɪntənəns/",
+   "pos": "n",
+   "vi": "bảo trì",
+   "ex": "Preventive maintenance keeps the line running.",
+   "exVi": "Bảo trì phòng ngừa giữ cho dây chuyền chạy.",
+   "col": [
+    "routine maintenance",
+    "preventive maintenance"
+   ]
+  },
+  {
+   "id": "lo083",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "overhaul",
+   "ipa": "/ˈəʊvəhɔːl/",
+   "pos": "n, v",
+   "vi": "đại tu",
+   "ex": "The machine is due for a full overhaul.",
+   "exVi": "Máy đến kỳ đại tu toàn bộ.",
+   "col": [
+    "a major overhaul",
+    "overhaul a system"
+   ]
+  },
+  {
+   "id": "lo084",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "calibrate",
+   "ipa": "/ˈkælɪbreɪt/",
+   "pos": "v",
+   "vi": "hiệu chuẩn",
+   "ex": "Technicians calibrate the sensors every morning.",
+   "exVi": "Kỹ thuật viên hiệu chuẩn cảm biến mỗi sáng.",
+   "col": [
+    "calibrate a machine",
+    "calibrate an instrument"
+   ]
+  },
+  {
+   "id": "lo085",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "gauge",
+   "ipa": "/ɡeɪdʒ/",
+   "pos": "n",
+   "vi": "đồng hồ đo",
+   "ex": "A gauge shows the pressure inside the tank.",
+   "exVi": "Một đồng hồ đo hiển thị áp suất trong bồn.",
+   "col": [
+    "a pressure gauge",
+    "read a gauge"
+   ]
+  },
+  {
+   "id": "lo086",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "warehouse manager",
+   "ipa": "/ˈweəhaʊs ˈmænɪdʒə/",
+   "pos": "n",
+   "vi": "quản lý kho",
+   "ex": "The warehouse manager signs off every dispatch.",
+   "exVi": "Quản lý kho duyệt mọi chuyến gửi hàng.",
+   "col": [
+    "a warehouse manager",
+    "an experienced warehouse manager"
+   ]
+  },
+  {
+   "id": "lo087",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "consign",
+   "ipa": "/kənˈsaɪn/",
+   "pos": "v",
+   "vi": "gửi hàng đi",
+   "ex": "The goods were consigned to a buyer in Osaka.",
+   "exVi": "Hàng được gửi cho một người mua ở Osaka.",
+   "col": [
+    "consign goods",
+    "consign a shipment"
+   ]
+  },
+  {
+   "id": "lo088",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "perishable",
+   "ipa": "/ˈperɪʃəbl/",
+   "pos": "adj",
+   "vi": "dễ hỏng",
+   "ex": "Perishable goods are shipped in refrigerated trucks.",
+   "exVi": "Hàng dễ hỏng được chở trong xe tải lạnh.",
+   "col": [
+    "perishable goods",
+    "perishable items"
+   ]
+  },
+  {
+   "id": "lo089",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "bulk",
+   "ipa": "/bʌlk/",
+   "pos": "n",
+   "vi": "số lượng lớn",
+   "ex": "Buying in bulk lowers the unit cost.",
+   "exVi": "Mua với số lượng lớn giảm giá thành đơn vị.",
+   "col": [
+    "in bulk",
+    "a bulk order"
+   ]
+  },
+  {
+   "id": "lo090",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "fragile",
+   "ipa": "/ˈfrædʒaɪl/",
+   "pos": "adj",
+   "vi": "dễ vỡ",
+   "ex": "Fragile items are marked and packed separately.",
+   "exVi": "Hàng dễ vỡ được đánh dấu và đóng gói riêng.",
+   "col": [
+    "fragile goods",
+    "mark as fragile"
+   ]
+  },
+  {
+   "id": "lo091",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "customs clearance",
+   "ipa": "/ˈkʌstəmz ˈklɪərəns/",
+   "pos": "n",
+   "vi": "thông quan",
+   "ex": "Customs clearance took longer than expected.",
+   "exVi": "Việc thông quan mất lâu hơn dự kiến.",
+   "col": [
+    "customs clearance",
+    "await customs clearance"
+   ]
+  },
+  {
+   "id": "lo092",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "tariff",
+   "ipa": "/ˈtærɪf/",
+   "pos": "n",
+   "vi": "thuế quan",
+   "ex": "A new tariff raised the cost of imported steel.",
+   "exVi": "Một mức thuế quan mới làm tăng chi phí thép nhập.",
+   "col": [
+    "an import tariff",
+    "impose a tariff"
+   ]
+  },
+  {
+   "id": "lo093",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "duty",
+   "ipa": "/ˈdjuːti/",
+   "pos": "n",
+   "vi": "thuế nhập khẩu",
+   "ex": "Import duty is added to the invoice.",
+   "exVi": "Thuế nhập khẩu được cộng vào hoá đơn.",
+   "col": [
+    "import duty",
+    "pay duty"
+   ]
+  },
+  {
+   "id": "lo094",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "warehouse space",
+   "ipa": "/ˈweəhaʊs speɪs/",
+   "pos": "n",
+   "vi": "diện tích kho",
+   "ex": "A shortage of warehouse space delayed the intake.",
+   "exVi": "Thiếu diện tích kho làm chậm việc nhận hàng.",
+   "col": [
+    "warehouse space",
+    "rent warehouse space"
+   ]
+  },
+  {
+   "id": "lo095",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "outsource",
+   "ipa": "/ˌaʊtˈsɔːs/",
+   "pos": "v",
+   "vi": "thuê ngoài",
+   "ex": "The firm outsourced its delivery to a specialist.",
+   "exVi": "Công ty thuê ngoài việc giao hàng cho một đơn vị chuyên môn.",
+   "col": [
+    "outsource a service",
+    "outsource production"
+   ]
+  },
+  {
+   "id": "lo096",
+   "topic": "Sản xuất & vận chuyển",
+   "w": "replenishment",
+   "ipa": "/rɪˈplenɪʃmənt/",
+   "pos": "n",
+   "vi": "việc tái cung ứng",
+   "ex": "Automatic replenishment keeps popular items in stock.",
+   "exVi": "Việc tái cung ứng tự động giữ hàng bán chạy luôn còn.",
+   "col": [
+    "stock replenishment",
+    "automatic replenishment"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1195 @@
+{
+ "topic": "Bảo hiểm",
+ "words": [
+  {
+   "id": "in001",
+   "topic": "Bảo hiểm",
+   "w": "insurance",
+   "ipa": "/ɪnˈʃʊərəns/",
+   "pos": "n",
+   "vi": "bảo hiểm",
+   "ex": "The firm reviewed its insurance before the move.",
+   "exVi": "Công ty rà soát bảo hiểm trước khi chuyển đi.",
+   "col": [
+    "take out insurance",
+    "an insurance policy"
+   ]
+  },
+  {
+   "id": "in002",
+   "topic": "Bảo hiểm",
+   "w": "policy",
+   "ipa": "/ˈpɒləsi/",
+   "pos": "n",
+   "vi": "hợp đồng bảo hiểm",
+   "ex": "The policy covers fire, theft, and flood.",
+   "exVi": "Hợp đồng bảo hiểm bao gồm cháy, trộm và lũ.",
+   "col": [
+    "an insurance policy",
+    "a policy document"
+   ]
+  },
+  {
+   "id": "in003",
+   "topic": "Bảo hiểm",
+   "w": "policyholder",
+   "ipa": "/ˈpɒləsihəʊldə/",
+   "pos": "n",
+   "vi": "người mua bảo hiểm",
+   "ex": "The policyholder must report a claim promptly.",
+   "exVi": "Người mua bảo hiểm phải báo yêu cầu bồi thường kịp thời.",
+   "col": [
+    "a policyholder",
+    "notify the policyholder"
+   ]
+  },
+  {
+   "id": "in004",
+   "topic": "Bảo hiểm",
+   "w": "premium",
+   "ipa": "/ˈpriːmiəm/",
+   "pos": "n",
+   "vi": "phí bảo hiểm",
+   "ex": "The annual premium rose after the claim.",
+   "exVi": "Phí bảo hiểm năm tăng sau lần yêu cầu bồi thường.",
+   "col": [
+    "an insurance premium",
+    "pay a premium"
+   ]
+  },
+  {
+   "id": "in005",
+   "topic": "Bảo hiểm",
+   "w": "coverage",
+   "ipa": "/ˈkʌvərɪdʒ/",
+   "pos": "n",
+   "vi": "phạm vi bảo hiểm",
+   "ex": "The coverage includes damage from storms.",
+   "exVi": "Phạm vi bảo hiểm gồm cả thiệt hại do bão.",
+   "col": [
+    "full coverage",
+    "medical coverage"
+   ]
+  },
+  {
+   "id": "in006",
+   "topic": "Bảo hiểm",
+   "w": "claim",
+   "ipa": "/kleɪm/",
+   "pos": "n, v",
+   "vi": "yêu cầu bồi thường",
+   "ex": "She filed a claim after the accident.",
+   "exVi": "Bà nộp yêu cầu bồi thường sau tai nạn.",
+   "col": [
+    "file a claim",
+    "a valid claim"
+   ]
+  },
+  {
+   "id": "in007",
+   "topic": "Bảo hiểm",
+   "w": "claimant",
+   "ipa": "/ˈkleɪmənt/",
+   "pos": "n",
+   "vi": "người yêu cầu bồi thường",
+   "ex": "The claimant provided photos of the damage.",
+   "exVi": "Người yêu cầu bồi thường cung cấp ảnh về thiệt hại.",
+   "col": [
+    "a claimant",
+    "the main claimant"
+   ]
+  },
+  {
+   "id": "in008",
+   "topic": "Bảo hiểm",
+   "w": "deductible",
+   "ipa": "/dɪˈdʌktəbl/",
+   "pos": "n",
+   "vi": "mức miễn thường",
+   "ex": "A low deductible means a higher premium.",
+   "exVi": "Mức miễn thường thấp đồng nghĩa phí cao hơn.",
+   "col": [
+    "a deductible",
+    "an annual deductible"
+   ]
+  },
+  {
+   "id": "in009",
+   "topic": "Bảo hiểm",
+   "w": "beneficiary",
+   "ipa": "/ˌbenɪˈfɪʃəri/",
+   "pos": "n",
+   "vi": "người thụ hưởng",
+   "ex": "The policy names his wife as beneficiary.",
+   "exVi": "Hợp đồng ghi vợ ông là người thụ hưởng.",
+   "col": [
+    "a beneficiary",
+    "name a beneficiary"
+   ]
+  },
+  {
+   "id": "in010",
+   "topic": "Bảo hiểm",
+   "w": "underwriter",
+   "ipa": "/ˈʌndəraɪtə/",
+   "pos": "n",
+   "vi": "nhà bảo lãnh bảo hiểm",
+   "ex": "The underwriter assessed the risk carefully.",
+   "exVi": "Nhà bảo lãnh đánh giá rủi ro cẩn thận.",
+   "col": [
+    "an underwriter",
+    "a lead underwriter"
+   ]
+  },
+  {
+   "id": "in011",
+   "topic": "Bảo hiểm",
+   "w": "actuary",
+   "ipa": "/ˈæktʃuəri/",
+   "pos": "n",
+   "vi": "chuyên viên định phí",
+   "ex": "An actuary calculates the risk and the price.",
+   "exVi": "Chuyên viên định phí tính rủi ro và giá.",
+   "col": [
+    "an actuary",
+    "a qualified actuary"
+   ]
+  },
+  {
+   "id": "in012",
+   "topic": "Bảo hiểm",
+   "w": "liability",
+   "ipa": "/ˌlaɪəˈbɪləti/",
+   "pos": "n",
+   "vi": "trách nhiệm pháp lý",
+   "ex": "The policy limits the firm's liability.",
+   "exVi": "Hợp đồng giới hạn trách nhiệm của công ty.",
+   "col": [
+    "liability cover",
+    "limit liability"
+   ]
+  },
+  {
+   "id": "in013",
+   "topic": "Bảo hiểm",
+   "w": "indemnity",
+   "ipa": "/ɪnˈdemnəti/",
+   "pos": "n",
+   "vi": "khoản bồi thường bảo đảm",
+   "ex": "The contract provides indemnity against loss.",
+   "exVi": "Hợp đồng cung cấp bồi thường bảo đảm với tổn thất.",
+   "col": [
+    "an indemnity",
+    "provide indemnity"
+   ]
+  },
+  {
+   "id": "in014",
+   "topic": "Bảo hiểm",
+   "w": "compensation",
+   "ipa": "/ˌkɒmpenˈseɪʃn/",
+   "pos": "n",
+   "vi": "khoản đền bù",
+   "ex": "The insurer paid compensation for the damage.",
+   "exVi": "Công ty bảo hiểm trả đền bù cho thiệt hại.",
+   "col": [
+    "claim compensation",
+    "pay compensation"
+   ]
+  },
+  {
+   "id": "in015",
+   "topic": "Bảo hiểm",
+   "w": "reimburse",
+   "ipa": "/ˌriːɪmˈbɜːs/",
+   "pos": "v",
+   "vi": "hoàn trả",
+   "ex": "The insurer reimbursed the repair costs.",
+   "exVi": "Công ty bảo hiểm hoàn trả chi phí sửa chữa.",
+   "col": [
+    "reimburse costs",
+    "be reimbursed"
+   ]
+  },
+  {
+   "id": "in016",
+   "topic": "Bảo hiểm",
+   "w": "premium rate",
+   "ipa": "/ˈpriːmiəm reɪt/",
+   "pos": "n",
+   "vi": "mức phí bảo hiểm",
+   "ex": "The premium rate depends on the risk.",
+   "exVi": "Mức phí bảo hiểm tuỳ theo rủi ro.",
+   "col": [
+    "a premium rate",
+    "a low premium rate"
+   ]
+  },
+  {
+   "id": "in017",
+   "topic": "Bảo hiểm",
+   "w": "renewal",
+   "ipa": "/rɪˈnjuːəl/",
+   "pos": "n",
+   "vi": "gia hạn",
+   "ex": "The policy is up for renewal next month.",
+   "exVi": "Hợp đồng đến kỳ gia hạn tháng sau.",
+   "col": [
+    "policy renewal",
+    "automatic renewal"
+   ]
+  },
+  {
+   "id": "in018",
+   "topic": "Bảo hiểm",
+   "w": "lapse",
+   "ipa": "/læps/",
+   "pos": "n, v",
+   "vi": "hết hiệu lực",
+   "ex": "The cover lapsed when the payment was missed.",
+   "exVi": "Bảo hiểm hết hiệu lực khi thiếu một kỳ đóng.",
+   "col": [
+    "a policy lapse",
+    "a lapse in cover"
+   ]
+  },
+  {
+   "id": "in019",
+   "topic": "Bảo hiểm",
+   "w": "exclusion",
+   "ipa": "/ɪkˈskluːʒn/",
+   "pos": "n",
+   "vi": "điều khoản loại trừ",
+   "ex": "Flood damage is a common exclusion.",
+   "exVi": "Thiệt hại do lũ là một điều khoản loại trừ thường gặp.",
+   "col": [
+    "an exclusion",
+    "a policy exclusion"
+   ]
+  },
+  {
+   "id": "in020",
+   "topic": "Bảo hiểm",
+   "w": "endorsement",
+   "ipa": "/ɪnˈdɔːsmənt/",
+   "pos": "n",
+   "vi": "phụ lục sửa đổi",
+   "ex": "An endorsement added cover for the new equipment.",
+   "exVi": "Một phụ lục sửa đổi thêm bảo hiểm cho thiết bị mới.",
+   "col": [
+    "an endorsement",
+    "add an endorsement"
+   ]
+  },
+  {
+   "id": "in021",
+   "topic": "Bảo hiểm",
+   "w": "rider",
+   "ipa": "/ˈraɪdə/",
+   "pos": "n",
+   "vi": "điều khoản bổ sung",
+   "ex": "A rider extends the cover to travel abroad.",
+   "exVi": "Một điều khoản bổ sung mở rộng bảo hiểm cho việc đi nước ngoài.",
+   "col": [
+    "a policy rider",
+    "add a rider"
+   ]
+  },
+  {
+   "id": "in022",
+   "topic": "Bảo hiểm",
+   "w": "assessor",
+   "ipa": "/əˈsesə/",
+   "pos": "n",
+   "vi": "người thẩm định",
+   "ex": "An assessor visited to inspect the damage.",
+   "exVi": "Một người thẩm định tới kiểm tra thiệt hại.",
+   "col": [
+    "a loss assessor",
+    "an insurance assessor"
+   ]
+  },
+  {
+   "id": "in023",
+   "topic": "Bảo hiểm",
+   "w": "adjuster",
+   "ipa": "/əˈdʒʌstə/",
+   "pos": "n",
+   "vi": "người điều chỉnh bồi thường",
+   "ex": "The adjuster calculated the final payout.",
+   "exVi": "Người điều chỉnh tính khoản chi trả cuối.",
+   "col": [
+    "a claims adjuster",
+    "an insurance adjuster"
+   ]
+  },
+  {
+   "id": "in024",
+   "topic": "Bảo hiểm",
+   "w": "payout",
+   "ipa": "/ˈpeɪaʊt/",
+   "pos": "n",
+   "vi": "khoản chi trả",
+   "ex": "The payout covered most of the loss.",
+   "exVi": "Khoản chi trả bù phần lớn tổn thất.",
+   "col": [
+    "a payout",
+    "an insurance payout"
+   ]
+  },
+  {
+   "id": "in025",
+   "topic": "Bảo hiểm",
+   "w": "settlement",
+   "ipa": "/ˈsetlmənt/",
+   "pos": "n",
+   "vi": "dàn xếp bồi thường",
+   "ex": "The settlement was agreed within a month.",
+   "exVi": "Việc dàn xếp bồi thường được thống nhất trong một tháng.",
+   "col": [
+    "a settlement",
+    "a claim settlement"
+   ]
+  },
+  {
+   "id": "in026",
+   "topic": "Bảo hiểm",
+   "w": "peril",
+   "ipa": "/ˈperəl/",
+   "pos": "n",
+   "vi": "rủi ro được bảo hiểm",
+   "ex": "The policy lists the perils it covers.",
+   "exVi": "Hợp đồng liệt kê các rủi ro được bảo hiểm.",
+   "col": [
+    "an insured peril",
+    "a natural peril"
+   ]
+  },
+  {
+   "id": "in027",
+   "topic": "Bảo hiểm",
+   "w": "risk",
+   "ipa": "/rɪsk/",
+   "pos": "n",
+   "vi": "rủi ro",
+   "ex": "The insurer weighs the risk before setting a price.",
+   "exVi": "Công ty bảo hiểm cân nhắc rủi ro trước khi định giá.",
+   "col": [
+    "a high risk",
+    "assess risk"
+   ]
+  },
+  {
+   "id": "in028",
+   "topic": "Bảo hiểm",
+   "w": "hazard",
+   "ipa": "/ˈhæzəd/",
+   "pos": "n",
+   "vi": "mối nguy",
+   "ex": "A fire hazard raises the insurance cost.",
+   "exVi": "Một mối nguy cháy làm tăng chi phí bảo hiểm.",
+   "col": [
+    "a fire hazard",
+    "a safety hazard"
+   ]
+  },
+  {
+   "id": "in029",
+   "topic": "Bảo hiểm",
+   "w": "premium payment",
+   "ipa": "/ˈpriːmiəm ˈpeɪmənt/",
+   "pos": "n",
+   "vi": "kỳ đóng phí",
+   "ex": "The premium payment is due each quarter.",
+   "exVi": "Kỳ đóng phí đến hạn mỗi quý.",
+   "col": [
+    "a premium payment",
+    "a monthly premium payment"
+   ]
+  },
+  {
+   "id": "in030",
+   "topic": "Bảo hiểm",
+   "w": "comprehensive",
+   "ipa": "/ˌkɒmprɪˈhensɪv/",
+   "pos": "adj",
+   "vi": "toàn diện",
+   "ex": "Comprehensive cover protects against most risks.",
+   "exVi": "Bảo hiểm toàn diện bảo vệ trước hầu hết rủi ro.",
+   "col": [
+    "comprehensive cover",
+    "comprehensive insurance"
+   ]
+  },
+  {
+   "id": "in031",
+   "topic": "Bảo hiểm",
+   "w": "third-party",
+   "ipa": "/ˌθɜːd ˈpɑːti/",
+   "pos": "adj",
+   "vi": "bên thứ ba",
+   "ex": "Third-party cover pays for damage to others.",
+   "exVi": "Bảo hiểm bên thứ ba trả cho thiệt hại của người khác.",
+   "col": [
+    "third-party cover",
+    "third-party liability"
+   ]
+  },
+  {
+   "id": "in032",
+   "topic": "Bảo hiểm",
+   "w": "insurable",
+   "ipa": "/ɪnˈʃʊərəbl/",
+   "pos": "adj",
+   "vi": "có thể bảo hiểm",
+   "ex": "Not every risk is insurable.",
+   "exVi": "Không phải mọi rủi ro đều có thể bảo hiểm.",
+   "col": [
+    "an insurable risk",
+    "insurable interest"
+   ]
+  },
+  {
+   "id": "in033",
+   "topic": "Bảo hiểm",
+   "w": "uninsured",
+   "ipa": "/ˌʌnɪnˈʃʊəd/",
+   "pos": "adj",
+   "vi": "không được bảo hiểm",
+   "ex": "The uninsured loss fell on the owner.",
+   "exVi": "Khoản tổn thất không được bảo hiểm rơi vào chủ sở hữu.",
+   "col": [
+    "an uninsured driver",
+    "an uninsured loss"
+   ]
+  },
+  {
+   "id": "in034",
+   "topic": "Bảo hiểm",
+   "w": "premium waiver",
+   "ipa": "/ˈpriːmiəm ˈweɪvə/",
+   "pos": "n",
+   "vi": "miễn đóng phí",
+   "ex": "A premium waiver applies during long illness.",
+   "exVi": "Miễn đóng phí áp dụng trong thời gian ốm dài.",
+   "col": [
+    "a premium waiver",
+    "grant a premium waiver"
+   ]
+  },
+  {
+   "id": "in035",
+   "topic": "Bảo hiểm",
+   "w": "insure",
+   "ipa": "/ɪnˈʃʊə/",
+   "pos": "v",
+   "vi": "bảo hiểm cho",
+   "ex": "The firm insures its fleet of vans.",
+   "exVi": "Công ty bảo hiểm cho đội xe tải của mình.",
+   "col": [
+    "insure a property",
+    "fully insure"
+   ]
+  },
+  {
+   "id": "in036",
+   "topic": "Bảo hiểm",
+   "w": "cover",
+   "ipa": "/ˈkʌvə/",
+   "pos": "v",
+   "vi": "bảo hiểm cho",
+   "ex": "The policy covers accidental damage.",
+   "exVi": "Hợp đồng bảo hiểm cho thiệt hại ngoài ý muốn.",
+   "col": [
+    "cover a risk",
+    "fully cover"
+   ]
+  },
+  {
+   "id": "in037",
+   "topic": "Bảo hiểm",
+   "w": "disclose",
+   "ipa": "/dɪsˈkləʊz/",
+   "pos": "v",
+   "vi": "khai báo",
+   "ex": "You must disclose any earlier claims.",
+   "exVi": "Bạn phải khai báo mọi yêu cầu bồi thường trước đó.",
+   "col": [
+    "disclose information",
+    "fully disclose"
+   ]
+  },
+  {
+   "id": "in038",
+   "topic": "Bảo hiểm",
+   "w": "assess",
+   "ipa": "/əˈses/",
+   "pos": "v",
+   "vi": "thẩm định",
+   "ex": "The insurer assesses each claim in detail.",
+   "exVi": "Công ty bảo hiểm thẩm định mỗi yêu cầu chi tiết.",
+   "col": [
+    "assess a claim",
+    "assess the damage"
+   ]
+  },
+  {
+   "id": "in039",
+   "topic": "Bảo hiểm",
+   "w": "inspect",
+   "ipa": "/ɪnˈspekt/",
+   "pos": "v",
+   "vi": "kiểm tra",
+   "ex": "An expert inspected the site after the fire.",
+   "exVi": "Một chuyên gia kiểm tra hiện trường sau vụ cháy.",
+   "col": [
+    "inspect the damage",
+    "inspect a property"
+   ]
+  },
+  {
+   "id": "in040",
+   "topic": "Bảo hiểm",
+   "w": "verify",
+   "ipa": "/ˈverɪfaɪ/",
+   "pos": "v",
+   "vi": "xác minh",
+   "ex": "Staff verify each claim before payment.",
+   "exVi": "Nhân viên xác minh mỗi yêu cầu trước khi chi trả.",
+   "col": [
+    "verify a claim",
+    "verify details"
+   ]
+  },
+  {
+   "id": "in041",
+   "topic": "Bảo hiểm",
+   "w": "premium discount",
+   "ipa": "/ˈpriːmiəm ˈdɪskaʊnt/",
+   "pos": "n",
+   "vi": "giảm phí bảo hiểm",
+   "ex": "A safe record earns a premium discount.",
+   "exVi": "Một hồ sơ an toàn được giảm phí bảo hiểm.",
+   "col": [
+    "a premium discount",
+    "earn a premium discount"
+   ]
+  },
+  {
+   "id": "in042",
+   "topic": "Bảo hiểm",
+   "w": "mutual",
+   "ipa": "/ˈmjuːtʃuəl/",
+   "pos": "adj",
+   "vi": "tương hỗ",
+   "ex": "The firm is a mutual insurance company.",
+   "exVi": "Công ty là một hãng bảo hiểm tương hỗ.",
+   "col": [
+    "a mutual insurer",
+    "mutual cover"
+   ]
+  },
+  {
+   "id": "in043",
+   "topic": "Bảo hiểm",
+   "w": "actuarial",
+   "ipa": "/ˌæktʃuˈeəriəl/",
+   "pos": "adj",
+   "vi": "thuộc định phí bảo hiểm",
+   "ex": "Actuarial data guides the pricing.",
+   "exVi": "Dữ liệu định phí hướng dẫn việc định giá.",
+   "col": [
+    "actuarial data",
+    "an actuarial table"
+   ]
+  },
+  {
+   "id": "in044",
+   "topic": "Bảo hiểm",
+   "w": "life insurance",
+   "ipa": "/laɪf ɪnˈʃʊərəns/",
+   "pos": "n",
+   "vi": "bảo hiểm nhân thọ",
+   "ex": "Life insurance supports the family after a death.",
+   "exVi": "Bảo hiểm nhân thọ hỗ trợ gia đình sau khi qua đời.",
+   "col": [
+    "life insurance",
+    "take out life insurance"
+   ]
+  },
+  {
+   "id": "in045",
+   "topic": "Bảo hiểm",
+   "w": "health insurance",
+   "ipa": "/helθ ɪnˈʃʊərəns/",
+   "pos": "n",
+   "vi": "bảo hiểm y tế",
+   "ex": "Health insurance covers most hospital bills.",
+   "exVi": "Bảo hiểm y tế chi trả phần lớn viện phí.",
+   "col": [
+    "health insurance",
+    "a health insurance plan"
+   ]
+  },
+  {
+   "id": "in046",
+   "topic": "Bảo hiểm",
+   "w": "premiums",
+   "ipa": "/ˈpriːmiəmz/",
+   "pos": "n",
+   "vi": "các khoản phí bảo hiểm",
+   "ex": "Premiums are paid monthly by direct debit.",
+   "exVi": "Các khoản phí bảo hiểm được đóng hằng tháng bằng ghi nợ trực tiếp.",
+   "col": [
+    "monthly premiums",
+    "rising premiums"
+   ]
+  },
+  {
+   "id": "in047",
+   "topic": "Bảo hiểm",
+   "w": "annuity",
+   "ipa": "/əˈnjuːəti/",
+   "pos": "n",
+   "vi": "niên kim",
+   "ex": "The annuity pays a fixed sum each year.",
+   "exVi": "Niên kim trả một khoản cố định mỗi năm.",
+   "col": [
+    "an annuity",
+    "a fixed annuity"
+   ]
+  },
+  {
+   "id": "in048",
+   "topic": "Bảo hiểm",
+   "w": "pension",
+   "ipa": "/ˈpenʃn/",
+   "pos": "n",
+   "vi": "lương hưu",
+   "ex": "The firm offers a workplace pension scheme.",
+   "exVi": "Công ty cung cấp một chương trình lương hưu tại nơi làm.",
+   "col": [
+    "a pension",
+    "a pension plan"
+   ]
+  },
+  {
+   "id": "in049",
+   "topic": "Bảo hiểm",
+   "w": "contribution",
+   "ipa": "/ˌkɒntrɪˈbjuːʃn/",
+   "pos": "n",
+   "vi": "khoản đóng góp",
+   "ex": "The employer matches each pension contribution.",
+   "exVi": "Người sử dụng lao động đối ứng mỗi khoản đóng góp hưu.",
+   "col": [
+    "a contribution",
+    "a monthly contribution"
+   ]
+  },
+  {
+   "id": "in050",
+   "topic": "Bảo hiểm",
+   "w": "portfolio",
+   "ipa": "/pɔːtˈfəʊliəʊ/",
+   "pos": "n",
+   "vi": "danh mục hợp đồng",
+   "ex": "The insurer manages a large policy portfolio.",
+   "exVi": "Công ty bảo hiểm quản lý một danh mục hợp đồng lớn.",
+   "col": [
+    "a portfolio",
+    "an insurance portfolio"
+   ]
+  },
+  {
+   "id": "in051",
+   "topic": "Bảo hiểm",
+   "w": "premium hike",
+   "ipa": "/ˈpriːmiəm haɪk/",
+   "pos": "n",
+   "vi": "đợt tăng phí",
+   "ex": "A premium hike followed the run of claims.",
+   "exVi": "Một đợt tăng phí theo sau loạt yêu cầu bồi thường.",
+   "col": [
+    "a premium hike",
+    "a sharp premium hike"
+   ]
+  },
+  {
+   "id": "in052",
+   "topic": "Bảo hiểm",
+   "w": "quote",
+   "ipa": "/kwəʊt/",
+   "pos": "n",
+   "vi": "báo giá bảo hiểm",
+   "ex": "The broker gave a quote within an hour.",
+   "exVi": "Người môi giới đưa một báo giá trong một giờ.",
+   "col": [
+    "an insurance quote",
+    "get a quote"
+   ]
+  },
+  {
+   "id": "in053",
+   "topic": "Bảo hiểm",
+   "w": "broker",
+   "ipa": "/ˈbrəʊkə/",
+   "pos": "n",
+   "vi": "người môi giới bảo hiểm",
+   "ex": "A broker compares policies from many insurers.",
+   "exVi": "Một người môi giới so sánh hợp đồng từ nhiều hãng.",
+   "col": [
+    "an insurance broker",
+    "a broker fee"
+   ]
+  },
+  {
+   "id": "in054",
+   "topic": "Bảo hiểm",
+   "w": "carrier",
+   "ipa": "/ˈkæriə/",
+   "pos": "n",
+   "vi": "hãng bảo hiểm",
+   "ex": "The carrier processes claims within a week.",
+   "exVi": "Hãng bảo hiểm xử lý yêu cầu trong một tuần.",
+   "col": [
+    "an insurance carrier",
+    "a major carrier"
+   ]
+  },
+  {
+   "id": "in055",
+   "topic": "Bảo hiểm",
+   "w": "subrogation",
+   "ipa": "/ˌsʌbrəˈɡeɪʃn/",
+   "pos": "n",
+   "vi": "thế quyền đòi bồi thường",
+   "ex": "Subrogation lets the insurer recover its costs.",
+   "exVi": "Thế quyền cho phép hãng bảo hiểm thu lại chi phí.",
+   "col": [
+    "subrogation",
+    "a subrogation claim"
+   ]
+  },
+  {
+   "id": "in056",
+   "topic": "Bảo hiểm",
+   "w": "proceeds",
+   "ipa": "/ˈprəʊsiːdz/",
+   "pos": "n",
+   "vi": "khoản tiền nhận được",
+   "ex": "The insurance proceeds rebuilt the warehouse.",
+   "exVi": "Khoản tiền bảo hiểm dựng lại nhà kho.",
+   "col": [
+    "insurance proceeds",
+    "the proceeds"
+   ]
+  },
+  {
+   "id": "in057",
+   "topic": "Bảo hiểm",
+   "w": "disbursement",
+   "ipa": "/dɪsˈbɜːsmənt/",
+   "pos": "n",
+   "vi": "việc giải ngân",
+   "ex": "The disbursement of the payout took two days.",
+   "exVi": "Việc giải ngân khoản chi trả mất hai ngày.",
+   "col": [
+    "a disbursement",
+    "the disbursement of funds"
+   ]
+  },
+  {
+   "id": "in058",
+   "topic": "Bảo hiểm",
+   "w": "premium refund",
+   "ipa": "/ˈpriːmiəm ˈriːfʌnd/",
+   "pos": "n",
+   "vi": "hoàn phí bảo hiểm",
+   "ex": "A premium refund is due if you cancel early.",
+   "exVi": "Hoàn phí bảo hiểm được trả nếu bạn huỷ sớm.",
+   "col": [
+    "a premium refund",
+    "claim a premium refund"
+   ]
+  },
+  {
+   "id": "in059",
+   "topic": "Bảo hiểm",
+   "w": "grace period",
+   "ipa": "/ɡreɪs ˈpɪəriəd/",
+   "pos": "n",
+   "vi": "thời gian ân hạn",
+   "ex": "A grace period allows a late payment.",
+   "exVi": "Thời gian ân hạn cho phép đóng muộn một kỳ.",
+   "col": [
+    "a grace period",
+    "within the grace period"
+   ]
+  },
+  {
+   "id": "in060",
+   "topic": "Bảo hiểm",
+   "w": "waiting period",
+   "ipa": "/ˈweɪtɪŋ ˈpɪəriəd/",
+   "pos": "n",
+   "vi": "thời gian chờ",
+   "ex": "A short waiting period applies to new cover.",
+   "exVi": "Một thời gian chờ ngắn áp cho bảo hiểm mới.",
+   "col": [
+    "a waiting period",
+    "a long waiting period"
+   ]
+  },
+  {
+   "id": "in061",
+   "topic": "Bảo hiểm",
+   "w": "disability",
+   "ipa": "/ˌdɪsəˈbɪləti/",
+   "pos": "n",
+   "vi": "khuyết tật",
+   "ex": "Disability cover replaces part of the income.",
+   "exVi": "Bảo hiểm khuyết tật thay thế một phần thu nhập.",
+   "col": [
+    "disability cover",
+    "a disability claim"
+   ]
+  },
+  {
+   "id": "in062",
+   "topic": "Bảo hiểm",
+   "w": "casualty",
+   "ipa": "/ˈkæʒuəlti/",
+   "pos": "n",
+   "vi": "thiệt hại về người",
+   "ex": "Casualty insurance covers injury to others.",
+   "exVi": "Bảo hiểm thiệt hại về người bao gồm chấn thương của người khác.",
+   "col": [
+    "casualty insurance",
+    "a casualty claim"
+   ]
+  },
+  {
+   "id": "in063",
+   "topic": "Bảo hiểm",
+   "w": "appraisal",
+   "ipa": "/əˈpreɪzl/",
+   "pos": "n",
+   "vi": "định giá tổn thất",
+   "ex": "An appraisal set the value of the loss.",
+   "exVi": "Một cuộc định giá xác định giá trị tổn thất.",
+   "col": [
+    "an appraisal",
+    "a property appraisal"
+   ]
+  },
+  {
+   "id": "in064",
+   "topic": "Bảo hiểm",
+   "w": "valuation",
+   "ipa": "/ˌvæljuˈeɪʃn/",
+   "pos": "n",
+   "vi": "định giá tài sản",
+   "ex": "The valuation matched the insured amount.",
+   "exVi": "Việc định giá khớp với số tiền bảo hiểm.",
+   "col": [
+    "a valuation",
+    "a property valuation"
+   ]
+  },
+  {
+   "id": "in065",
+   "topic": "Bảo hiểm",
+   "w": "insured",
+   "ipa": "/ɪnˈʃʊəd/",
+   "pos": "n",
+   "vi": "người được bảo hiểm",
+   "ex": "The insured reported the theft the same day.",
+   "exVi": "Người được bảo hiểm báo vụ trộm ngay trong ngày.",
+   "col": [
+    "the insured",
+    "an insured party"
+   ]
+  },
+  {
+   "id": "in066",
+   "topic": "Bảo hiểm",
+   "w": "insurer",
+   "ipa": "/ɪnˈʃʊərə/",
+   "pos": "n",
+   "vi": "công ty bảo hiểm",
+   "ex": "The insurer approved the claim quickly.",
+   "exVi": "Công ty bảo hiểm duyệt yêu cầu nhanh chóng.",
+   "col": [
+    "an insurer",
+    "a major insurer"
+   ]
+  },
+  {
+   "id": "in067",
+   "topic": "Bảo hiểm",
+   "w": "premium notice",
+   "ipa": "/ˈpriːmiəm ˈnəʊtɪs/",
+   "pos": "n",
+   "vi": "thông báo đóng phí",
+   "ex": "A premium notice arrives before each due date.",
+   "exVi": "Một thông báo đóng phí tới trước mỗi hạn.",
+   "col": [
+    "a premium notice",
+    "send a premium notice"
+   ]
+  },
+  {
+   "id": "in068",
+   "topic": "Bảo hiểm",
+   "w": "reinsurance",
+   "ipa": "/ˌriːɪnˈʃʊərəns/",
+   "pos": "n",
+   "vi": "tái bảo hiểm",
+   "ex": "Reinsurance spreads the risk across firms.",
+   "exVi": "Tái bảo hiểm phân tán rủi ro qua các công ty.",
+   "col": [
+    "reinsurance",
+    "a reinsurance contract"
+   ]
+  },
+  {
+   "id": "in069",
+   "topic": "Bảo hiểm",
+   "w": "premium calculation",
+   "ipa": "/ˈpriːmiəm ˌkælkjuˈleɪʃn/",
+   "pos": "n",
+   "vi": "việc tính phí",
+   "ex": "Premium calculation uses age and health data.",
+   "exVi": "Việc tính phí dùng dữ liệu tuổi và sức khoẻ.",
+   "col": [
+    "premium calculation",
+    "accurate premium calculation"
+   ]
+  },
+  {
+   "id": "in070",
+   "topic": "Bảo hiểm",
+   "w": "enroll",
+   "ipa": "/ɪnˈrəʊl/",
+   "pos": "v",
+   "vi": "đăng ký tham gia",
+   "ex": "Staff can enroll in the health plan online.",
+   "exVi": "Nhân viên có thể đăng ký chương trình y tế trực tuyến.",
+   "col": [
+    "enroll in",
+    "enroll online"
+   ]
+  },
+  {
+   "id": "in071",
+   "topic": "Bảo hiểm",
+   "w": "opt out",
+   "ipa": "/ɒpt aʊt/",
+   "pos": "v",
+   "vi": "từ chối tham gia",
+   "ex": "Employees may opt out of the scheme.",
+   "exVi": "Nhân viên có thể từ chối tham gia chương trình.",
+   "col": [
+    "opt out of",
+    "choose to opt out"
+   ]
+  },
+  {
+   "id": "in072",
+   "topic": "Bảo hiểm",
+   "w": "renew",
+   "ipa": "/rɪˈnjuː/",
+   "pos": "v",
+   "vi": "gia hạn",
+   "ex": "The firm renewed its policy for another year.",
+   "exVi": "Công ty gia hạn hợp đồng thêm một năm.",
+   "col": [
+    "renew a policy",
+    "automatically renew"
+   ]
+  },
+  {
+   "id": "in073",
+   "topic": "Bảo hiểm",
+   "w": "cancel",
+   "ipa": "/ˈkænsl/",
+   "pos": "v",
+   "vi": "huỷ",
+   "ex": "You can cancel the cover with a month's notice.",
+   "exVi": "Bạn có thể huỷ bảo hiểm khi báo trước một tháng.",
+   "col": [
+    "cancel a policy",
+    "cancel cover"
+   ]
+  },
+  {
+   "id": "in074",
+   "topic": "Bảo hiểm",
+   "w": "lodge",
+   "ipa": "/lɒdʒ/",
+   "pos": "v",
+   "vi": "nộp, đệ trình",
+   "ex": "The claimant lodged a claim within a week.",
+   "exVi": "Người yêu cầu bồi thường nộp yêu cầu trong một tuần.",
+   "col": [
+    "lodge a claim",
+    "lodge a complaint"
+   ]
+  },
+  {
+   "id": "in075",
+   "topic": "Bảo hiểm",
+   "w": "process",
+   "ipa": "/ˈprəʊses/",
+   "pos": "v",
+   "vi": "xử lý",
+   "ex": "The insurer processes claims within ten days.",
+   "exVi": "Công ty bảo hiểm xử lý yêu cầu trong mười ngày.",
+   "col": [
+    "process a claim",
+    "process a payment"
+   ]
+  },
+  {
+   "id": "in076",
+   "topic": "Bảo hiểm",
+   "w": "approve",
+   "ipa": "/əˈpruːv/",
+   "pos": "v",
+   "vi": "duyệt",
+   "ex": "The adjuster approved the full payout.",
+   "exVi": "Người điều chỉnh duyệt toàn bộ khoản chi trả.",
+   "col": [
+    "approve a claim",
+    "approve a request"
+   ]
+  },
+  {
+   "id": "in077",
+   "topic": "Bảo hiểm",
+   "w": "decline",
+   "ipa": "/dɪˈklaɪn/",
+   "pos": "v",
+   "vi": "từ chối",
+   "ex": "The insurer declined the late claim.",
+   "exVi": "Công ty bảo hiểm từ chối yêu cầu muộn.",
+   "col": [
+    "decline a claim",
+    "decline cover"
+   ]
+  },
+  {
+   "id": "in078",
+   "topic": "Bảo hiểm",
+   "w": "premium adjustment",
+   "ipa": "/ˈpriːmiəm əˈdʒʌstmənt/",
+   "pos": "n",
+   "vi": "điều chỉnh phí",
+   "ex": "A premium adjustment followed the review.",
+   "exVi": "Một điều chỉnh phí theo sau cuộc rà soát.",
+   "col": [
+    "a premium adjustment",
+    "a premium adjustment notice"
+   ]
+  },
+  {
+   "id": "in079",
+   "topic": "Bảo hiểm",
+   "w": "comprehensive cover",
+   "ipa": "/ˌkɒmprɪˈhensɪv ˈkʌvə/",
+   "pos": "n",
+   "vi": "bảo hiểm toàn diện",
+   "ex": "Comprehensive cover protects against theft and fire.",
+   "exVi": "Bảo hiểm toàn diện bảo vệ trước trộm và cháy.",
+   "col": [
+    "comprehensive cover",
+    "full comprehensive cover"
+   ]
+  },
+  {
+   "id": "in080",
+   "topic": "Bảo hiểm",
+   "w": "premium loading",
+   "ipa": "/ˈpriːmiəm ˈləʊdɪŋ/",
+   "pos": "n",
+   "vi": "phụ phí bảo hiểm",
+   "ex": "A premium loading applies to high-risk cases.",
+   "exVi": "Một phụ phí bảo hiểm áp cho các trường hợp rủi ro cao.",
+   "col": [
+    "a premium loading",
+    "a premium loading charge"
+   ]
+  },
+  {
+   "id": "in081",
+   "topic": "Bảo hiểm",
+   "w": "liable",
+   "ipa": "/ˈlaɪəbl/",
+   "pos": "adj",
+   "vi": "chịu trách nhiệm",
+   "ex": "The driver was liable for the damage.",
+   "exVi": "Người lái chịu trách nhiệm cho thiệt hại.",
+   "col": [
+    "liable for",
+    "held liable"
+   ]
+  },
+  {
+   "id": "in082",
+   "topic": "Bảo hiểm",
+   "w": "underwritten",
+   "ipa": "/ˈʌndəraɪtn/",
+   "pos": "adj",
+   "vi": "được bảo lãnh",
+   "ex": "The risk was underwritten by two firms.",
+   "exVi": "Rủi ro được bảo lãnh bởi hai công ty.",
+   "col": [
+    "underwritten by",
+    "fully underwritten"
+   ]
+  },
+  {
+   "id": "in083",
+   "topic": "Bảo hiểm",
+   "w": "premium-free",
+   "ipa": "/ˈpriːmiəm friː/",
+   "pos": "adj",
+   "vi": "miễn phí đóng",
+   "ex": "The first month is premium-free for new members.",
+   "exVi": "Tháng đầu miễn phí đóng cho thành viên mới.",
+   "col": [
+    "premium-free cover",
+    "a premium-free period"
+   ]
+  },
+  {
+   "id": "in084",
+   "topic": "Bảo hiểm",
+   "w": "payable",
+   "ipa": "/ˈpeɪəbl/",
+   "pos": "adj",
+   "vi": "phải trả",
+   "ex": "The claim is payable within thirty days.",
+   "exVi": "Yêu cầu bồi thường phải trả trong ba mươi ngày.",
+   "col": [
+    "payable to",
+    "an amount payable"
+   ]
+  },
+  {
+   "id": "in085",
+   "topic": "Bảo hiểm",
+   "w": "premium quote",
+   "ipa": "/ˈpriːmiəm kwəʊt/",
+   "pos": "n",
+   "vi": "báo giá phí",
+   "ex": "The premium quote was lower than expected.",
+   "exVi": "Báo giá phí thấp hơn dự kiến.",
+   "col": [
+    "a premium quote",
+    "request a premium quote"
+   ]
+  }
+ ]
+}

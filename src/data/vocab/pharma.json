@@ -1,0 +1,1181 @@
+{
+ "topic": "Dược phẩm & phòng thí nghiệm",
+ "words": [
+  {
+   "id": "ph001",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "pharmaceutical",
+   "ipa": "/ˌfɑːməˈsuːtɪkl/",
+   "pos": "adj",
+   "vi": "thuộc dược phẩm",
+   "ex": "The pharmaceutical firm opened a new lab.",
+   "exVi": "Công ty dược phẩm mở một phòng thí nghiệm mới.",
+   "col": [
+    "a pharmaceutical company",
+    "the pharmaceutical industry"
+   ]
+  },
+  {
+   "id": "ph002",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "pharmacy",
+   "ipa": "/ˈfɑːməsi/",
+   "pos": "n",
+   "vi": "nhà thuốc",
+   "ex": "The pharmacy fills prescriptions all day.",
+   "exVi": "Nhà thuốc bán thuốc theo đơn cả ngày.",
+   "col": [
+    "a pharmacy",
+    "a hospital pharmacy"
+   ]
+  },
+  {
+   "id": "ph003",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "pharmacist",
+   "ipa": "/ˈfɑːməsɪst/",
+   "pos": "n",
+   "vi": "dược sĩ",
+   "ex": "The pharmacist checked the dosage carefully.",
+   "exVi": "Dược sĩ kiểm tra liều lượng cẩn thận.",
+   "col": [
+    "a pharmacist",
+    "a clinical pharmacist"
+   ]
+  },
+  {
+   "id": "ph004",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "prescription",
+   "ipa": "/prɪˈskrɪpʃn/",
+   "pos": "n",
+   "vi": "đơn thuốc",
+   "ex": "A prescription is needed for this drug.",
+   "exVi": "Thuốc này cần có đơn.",
+   "col": [
+    "a prescription",
+    "fill a prescription"
+   ]
+  },
+  {
+   "id": "ph005",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "dosage",
+   "ipa": "/ˈdəʊsɪdʒ/",
+   "pos": "n",
+   "vi": "liều lượng",
+   "ex": "The dosage depends on the patient's weight.",
+   "exVi": "Liều lượng tuỳ theo cân nặng bệnh nhân.",
+   "col": [
+    "dosage",
+    "a daily dosage"
+   ]
+  },
+  {
+   "id": "ph006",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "compound",
+   "ipa": "/ˈkɒmpaʊnd/",
+   "pos": "n",
+   "vi": "hợp chất",
+   "ex": "The new compound showed strong results.",
+   "exVi": "Hợp chất mới cho kết quả mạnh.",
+   "col": [
+    "a compound",
+    "a chemical compound"
+   ]
+  },
+  {
+   "id": "ph007",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "formulation",
+   "ipa": "/ˌfɔːmjuˈleɪʃn/",
+   "pos": "n",
+   "vi": "công thức bào chế",
+   "ex": "The formulation was changed to reduce side effects.",
+   "exVi": "Công thức bào chế được thay để giảm tác dụng phụ.",
+   "col": [
+    "a formulation",
+    "a new formulation"
+   ]
+  },
+  {
+   "id": "ph008",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "synthesis",
+   "ipa": "/ˈsɪnθəsɪs/",
+   "pos": "n",
+   "vi": "tổng hợp",
+   "ex": "The synthesis of the drug took months.",
+   "exVi": "Việc tổng hợp thuốc mất nhiều tháng.",
+   "col": [
+    "synthesis",
+    "chemical synthesis"
+   ]
+  },
+  {
+   "id": "ph009",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "molecule",
+   "ipa": "/ˈmɒlɪkjuːl/",
+   "pos": "n",
+   "vi": "phân tử",
+   "ex": "The molecule binds to a specific target.",
+   "exVi": "Phân tử gắn vào một mục tiêu cụ thể.",
+   "col": [
+    "a molecule",
+    "a small molecule"
+   ]
+  },
+  {
+   "id": "ph010",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "reagent",
+   "ipa": "/riˈeɪdʒənt/",
+   "pos": "n",
+   "vi": "thuốc thử",
+   "ex": "The reagent changes color in the test.",
+   "exVi": "Thuốc thử đổi màu trong phép thử.",
+   "col": [
+    "a reagent",
+    "a chemical reagent"
+   ]
+  },
+  {
+   "id": "ph011",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "solvent",
+   "ipa": "/ˈsɒlvənt/",
+   "pos": "n",
+   "vi": "dung môi",
+   "ex": "The solvent dissolves the active ingredient.",
+   "exVi": "Dung môi hoà tan thành phần hoạt tính.",
+   "col": [
+    "a solvent",
+    "an organic solvent"
+   ]
+  },
+  {
+   "id": "ph012",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "sample",
+   "ipa": "/ˈsɑːmpl/",
+   "pos": "n",
+   "vi": "mẫu",
+   "ex": "Each sample was tested twice.",
+   "exVi": "Mỗi mẫu được thử hai lần.",
+   "col": [
+    "a sample",
+    "a blood sample"
+   ]
+  },
+  {
+   "id": "ph013",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "specimen",
+   "ipa": "/ˈspesɪmən/",
+   "pos": "n",
+   "vi": "mẫu vật",
+   "ex": "The specimen was stored in a cold room.",
+   "exVi": "Mẫu vật được cất trong phòng lạnh.",
+   "col": [
+    "a specimen",
+    "a test specimen"
+   ]
+  },
+  {
+   "id": "ph014",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "assay",
+   "ipa": "/ˈæseɪ/",
+   "pos": "n",
+   "vi": "phép định lượng",
+   "ex": "The assay measured the drug's purity.",
+   "exVi": "Phép định lượng đo độ tinh khiết của thuốc.",
+   "col": [
+    "an assay",
+    "a lab assay"
+   ]
+  },
+  {
+   "id": "ph015",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "trial",
+   "ipa": "/ˈtraɪəl/",
+   "pos": "n",
+   "vi": "thử nghiệm",
+   "ex": "The clinical trial lasted two years.",
+   "exVi": "Thử nghiệm lâm sàng kéo dài hai năm.",
+   "col": [
+    "a trial",
+    "a clinical trial"
+   ]
+  },
+  {
+   "id": "ph016",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "placebo",
+   "ipa": "/pləˈsiːbəʊ/",
+   "pos": "n",
+   "vi": "giả dược",
+   "ex": "Half the group received a placebo.",
+   "exVi": "Một nửa nhóm nhận giả dược.",
+   "col": [
+    "a placebo",
+    "a placebo group"
+   ]
+  },
+  {
+   "id": "ph017",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "efficacy",
+   "ipa": "/ˈefɪkəsi/",
+   "pos": "n",
+   "vi": "hiệu lực",
+   "ex": "The study measured the drug's efficacy.",
+   "exVi": "Nghiên cứu đo hiệu lực của thuốc.",
+   "col": [
+    "efficacy",
+    "clinical efficacy"
+   ]
+  },
+  {
+   "id": "ph018",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "potency",
+   "ipa": "/ˈpəʊtnsi/",
+   "pos": "n",
+   "vi": "độ mạnh",
+   "ex": "The potency was tested in the lab.",
+   "exVi": "Độ mạnh được thử trong phòng thí nghiệm.",
+   "col": [
+    "potency",
+    "drug potency"
+   ]
+  },
+  {
+   "id": "ph019",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "toxicity",
+   "ipa": "/tɒkˈsɪsəti/",
+   "pos": "n",
+   "vi": "độc tính",
+   "ex": "Low toxicity made the drug safer.",
+   "exVi": "Độc tính thấp khiến thuốc an toàn hơn.",
+   "col": [
+    "toxicity",
+    "low toxicity"
+   ]
+  },
+  {
+   "id": "ph020",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "contamination",
+   "ipa": "/kənˌtæmɪˈneɪʃn/",
+   "pos": "n",
+   "vi": "nhiễm bẩn",
+   "ex": "Strict rules prevent sample contamination.",
+   "exVi": "Các quy tắc nghiêm ngặt ngăn nhiễm bẩn mẫu.",
+   "col": [
+    "contamination",
+    "prevent contamination"
+   ]
+  },
+  {
+   "id": "ph021",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "sterile",
+   "ipa": "/ˈsteraɪl/",
+   "pos": "adj",
+   "vi": "vô trùng",
+   "ex": "All equipment must be kept sterile.",
+   "exVi": "Mọi thiết bị phải được giữ vô trùng.",
+   "col": [
+    "sterile",
+    "a sterile environment"
+   ]
+  },
+  {
+   "id": "ph022",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "sterilize",
+   "ipa": "/ˈsterɪlaɪz/",
+   "pos": "v",
+   "vi": "khử trùng",
+   "ex": "Staff sterilize the tools after each use.",
+   "exVi": "Nhân viên khử trùng dụng cụ sau mỗi lần dùng.",
+   "col": [
+    "sterilize",
+    "sterilize equipment"
+   ]
+  },
+  {
+   "id": "ph023",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "incubate",
+   "ipa": "/ˈɪŋkjubeɪt/",
+   "pos": "v",
+   "vi": "ủ, nuôi cấy",
+   "ex": "The samples incubate overnight at body heat.",
+   "exVi": "Các mẫu được ủ qua đêm ở nhiệt độ cơ thể.",
+   "col": [
+    "incubate",
+    "incubate a sample"
+   ]
+  },
+  {
+   "id": "ph024",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "dilute",
+   "ipa": "/daɪˈluːt/",
+   "pos": "v",
+   "vi": "pha loãng",
+   "ex": "Dilute the solution before the test.",
+   "exVi": "Pha loãng dung dịch trước phép thử.",
+   "col": [
+    "dilute",
+    "dilute a solution"
+   ]
+  },
+  {
+   "id": "ph025",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "dispense",
+   "ipa": "/dɪˈspens/",
+   "pos": "v",
+   "vi": "cấp phát thuốc",
+   "ex": "The pharmacist dispenses the medicine.",
+   "exVi": "Dược sĩ cấp phát thuốc.",
+   "col": [
+    "dispense",
+    "dispense medicine"
+   ]
+  },
+  {
+   "id": "ph026",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "administer",
+   "ipa": "/ədˈmɪnɪstə/",
+   "pos": "v",
+   "vi": "cho dùng thuốc",
+   "ex": "A nurse administers the dose.",
+   "exVi": "Một y tá cho dùng liều thuốc.",
+   "col": [
+    "administer",
+    "administer a drug"
+   ]
+  },
+  {
+   "id": "ph027",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "approve",
+   "ipa": "/əˈpruːv/",
+   "pos": "v",
+   "vi": "phê duyệt",
+   "ex": "The regulator approved the new drug.",
+   "exVi": "Cơ quan quản lý phê duyệt thuốc mới.",
+   "col": [
+    "approve",
+    "approve a drug"
+   ]
+  },
+  {
+   "id": "ph028",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "regulate",
+   "ipa": "/ˈreɡjuleɪt/",
+   "pos": "v",
+   "vi": "quản lý",
+   "ex": "Authorities regulate every stage of testing.",
+   "exVi": "Cơ quan chức năng quản lý mọi giai đoạn thử nghiệm.",
+   "col": [
+    "regulate",
+    "regulate an industry"
+   ]
+  },
+  {
+   "id": "ph029",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "patent",
+   "ipa": "/ˈpætnt/",
+   "pos": "n",
+   "vi": "bằng sáng chế",
+   "ex": "The firm holds a patent on the drug.",
+   "exVi": "Công ty giữ bằng sáng chế cho thuốc.",
+   "col": [
+    "a patent",
+    "file a patent"
+   ]
+  },
+  {
+   "id": "ph030",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "generic",
+   "ipa": "/dʒəˈnerɪk/",
+   "pos": "adj",
+   "vi": "thuốc gốc, không nhãn hiệu",
+   "ex": "A generic version costs far less.",
+   "exVi": "Một phiên bản thuốc gốc rẻ hơn nhiều.",
+   "col": [
+    "generic",
+    "a generic drug"
+   ]
+  },
+  {
+   "id": "ph031",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "active ingredient",
+   "ipa": "/ˈæktɪv ɪnˈɡriːdiənt/",
+   "pos": "n",
+   "vi": "hoạt chất",
+   "ex": "The active ingredient fights the infection.",
+   "exVi": "Hoạt chất chống lại nhiễm trùng.",
+   "col": [
+    "an active ingredient",
+    "the active ingredient"
+   ]
+  },
+  {
+   "id": "ph032",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "side effect",
+   "ipa": "/saɪd ɪˈfekt/",
+   "pos": "n",
+   "vi": "tác dụng phụ",
+   "ex": "The main side effect is mild drowsiness.",
+   "exVi": "Tác dụng phụ chính là buồn ngủ nhẹ.",
+   "col": [
+    "a side effect",
+    "a mild side effect"
+   ]
+  },
+  {
+   "id": "ph033",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "contraindication",
+   "ipa": "/ˌkɒntrəˌɪndɪˈkeɪʃn/",
+   "pos": "n",
+   "vi": "chống chỉ định",
+   "ex": "The label lists every contraindication.",
+   "exVi": "Nhãn liệt kê mọi chống chỉ định.",
+   "col": [
+    "a contraindication",
+    "a serious contraindication"
+   ]
+  },
+  {
+   "id": "ph034",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "batch",
+   "ipa": "/bætʃ/",
+   "pos": "n",
+   "vi": "lô sản xuất",
+   "ex": "A whole batch was recalled for testing.",
+   "exVi": "Cả một lô được thu hồi để kiểm nghiệm.",
+   "col": [
+    "a batch",
+    "a faulty batch"
+   ]
+  },
+  {
+   "id": "ph035",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "protocol",
+   "ipa": "/ˈprəʊtəkɒl/",
+   "pos": "n",
+   "vi": "quy trình",
+   "ex": "The lab follows a strict safety protocol.",
+   "exVi": "Phòng thí nghiệm theo một quy trình an toàn nghiêm ngặt.",
+   "col": [
+    "a protocol",
+    "a lab protocol"
+   ]
+  },
+  {
+   "id": "ph036",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "calibration",
+   "ipa": "/ˌkælɪˈbreɪʃn/",
+   "pos": "n",
+   "vi": "hiệu chuẩn",
+   "ex": "Regular calibration keeps the results accurate.",
+   "exVi": "Hiệu chuẩn thường xuyên giữ kết quả chính xác.",
+   "col": [
+    "calibration",
+    "instrument calibration"
+   ]
+  },
+  {
+   "id": "ph037",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "centrifuge",
+   "ipa": "/ˈsentrɪfjuːdʒ/",
+   "pos": "n",
+   "vi": "máy ly tâm",
+   "ex": "The centrifuge separates the sample.",
+   "exVi": "Máy ly tâm tách mẫu.",
+   "col": [
+    "a centrifuge",
+    "a lab centrifuge"
+   ]
+  },
+  {
+   "id": "ph038",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "microscope",
+   "ipa": "/ˈmaɪkrəskəʊp/",
+   "pos": "n",
+   "vi": "kính hiển vi",
+   "ex": "The cells were viewed under a microscope.",
+   "exVi": "Các tế bào được quan sát dưới kính hiển vi.",
+   "col": [
+    "a microscope",
+    "an electron microscope"
+   ]
+  },
+  {
+   "id": "ph039",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "compound analysis",
+   "ipa": "/ˈkɒmpaʊnd əˈnæləsɪs/",
+   "pos": "n",
+   "vi": "phân tích hợp chất",
+   "ex": "Compound analysis confirmed the purity.",
+   "exVi": "Phân tích hợp chất xác nhận độ tinh khiết.",
+   "col": [
+    "compound analysis",
+    "detailed compound analysis"
+   ]
+  },
+  {
+   "id": "ph040",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "therapeutic",
+   "ipa": "/ˌθerəˈpjuːtɪk/",
+   "pos": "adj",
+   "vi": "có tác dụng chữa bệnh",
+   "ex": "The drug has a clear therapeutic effect.",
+   "exVi": "Thuốc có một tác dụng chữa bệnh rõ ràng.",
+   "col": [
+    "therapeutic",
+    "a therapeutic effect"
+   ]
+  },
+  {
+   "id": "ph041",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "soluble",
+   "ipa": "/ˈsɒljəbl/",
+   "pos": "adj",
+   "vi": "hoà tan được",
+   "ex": "The powder is fully soluble in water.",
+   "exVi": "Bột hoà tan hoàn toàn trong nước.",
+   "col": [
+    "soluble",
+    "water soluble"
+   ]
+  },
+  {
+   "id": "ph042",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "potent",
+   "ipa": "/ˈpəʊtnt/",
+   "pos": "adj",
+   "vi": "mạnh",
+   "ex": "The drug is potent even in small doses.",
+   "exVi": "Thuốc mạnh ngay cả ở liều nhỏ.",
+   "col": [
+    "potent",
+    "a potent drug"
+   ]
+  },
+  {
+   "id": "ph043",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "research",
+   "ipa": "/rɪˈsɜːtʃ/",
+   "pos": "n",
+   "vi": "nghiên cứu",
+   "ex": "The firm invests heavily in research.",
+   "exVi": "Công ty đầu tư mạnh vào nghiên cứu.",
+   "col": [
+    "research",
+    "medical research"
+   ]
+  },
+  {
+   "id": "ph044",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "development",
+   "ipa": "/dɪˈveləpmənt/",
+   "pos": "n",
+   "vi": "phát triển",
+   "ex": "Drug development can take many years.",
+   "exVi": "Việc phát triển thuốc có thể mất nhiều năm.",
+   "col": [
+    "development",
+    "drug development"
+   ]
+  },
+  {
+   "id": "ph045",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "laboratory",
+   "ipa": "/ləˈbɒrətri/",
+   "pos": "n",
+   "vi": "phòng thí nghiệm",
+   "ex": "The laboratory runs tests around the clock.",
+   "exVi": "Phòng thí nghiệm chạy các phép thử suốt ngày đêm.",
+   "col": [
+    "a laboratory",
+    "a research laboratory"
+   ]
+  },
+  {
+   "id": "ph046",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "experiment",
+   "ipa": "/ɪkˈsperɪmənt/",
+   "pos": "n",
+   "vi": "thí nghiệm",
+   "ex": "The experiment was repeated three times.",
+   "exVi": "Thí nghiệm được lặp lại ba lần.",
+   "col": [
+    "an experiment",
+    "a controlled experiment"
+   ]
+  },
+  {
+   "id": "ph047",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "hypothesis",
+   "ipa": "/haɪˈpɒθəsɪs/",
+   "pos": "n",
+   "vi": "giả thuyết",
+   "ex": "The results supported the hypothesis.",
+   "exVi": "Kết quả ủng hộ giả thuyết.",
+   "col": [
+    "a hypothesis",
+    "test a hypothesis"
+   ]
+  },
+  {
+   "id": "ph048",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "methodology",
+   "ipa": "/ˌmeθəˈdɒlədʒi/",
+   "pos": "n",
+   "vi": "phương pháp luận",
+   "ex": "The study used a clear methodology.",
+   "exVi": "Nghiên cứu dùng một phương pháp luận rõ ràng.",
+   "col": [
+    "methodology",
+    "a research methodology"
+   ]
+  },
+  {
+   "id": "ph049",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "analysis",
+   "ipa": "/əˈnæləsɪs/",
+   "pos": "n",
+   "vi": "phân tích",
+   "ex": "A careful analysis confirmed the finding.",
+   "exVi": "Một phân tích cẩn thận xác nhận phát hiện.",
+   "col": [
+    "analysis",
+    "data analysis"
+   ]
+  },
+  {
+   "id": "ph050",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "variable",
+   "ipa": "/ˈveəriəbl/",
+   "pos": "n",
+   "vi": "biến số",
+   "ex": "The team controlled every variable.",
+   "exVi": "Nhóm kiểm soát mọi biến số.",
+   "col": [
+    "a variable",
+    "a control variable"
+   ]
+  },
+  {
+   "id": "ph051",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "control group",
+   "ipa": "/kənˈtrəʊl ɡruːp/",
+   "pos": "n",
+   "vi": "nhóm đối chứng",
+   "ex": "The control group received no drug.",
+   "exVi": "Nhóm đối chứng không nhận thuốc.",
+   "col": [
+    "a control group",
+    "a placebo control group"
+   ]
+  },
+  {
+   "id": "ph052",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "dosimetry",
+   "ipa": "/dəʊˈsɪmɪtri/",
+   "pos": "n",
+   "vi": "đo liều",
+   "ex": "Dosimetry ensures a safe exposure level.",
+   "exVi": "Đo liều đảm bảo mức phơi nhiễm an toàn.",
+   "col": [
+    "dosimetry",
+    "radiation dosimetry"
+   ]
+  },
+  {
+   "id": "ph053",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "compliance",
+   "ipa": "/kəmˈplaɪəns/",
+   "pos": "n",
+   "vi": "tuân thủ",
+   "ex": "The lab passed its compliance check.",
+   "exVi": "Phòng thí nghiệm vượt qua kiểm tra tuân thủ.",
+   "col": [
+    "compliance",
+    "regulatory compliance"
+   ]
+  },
+  {
+   "id": "ph054",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "approval",
+   "ipa": "/əˈpruːvl/",
+   "pos": "n",
+   "vi": "phê duyệt",
+   "ex": "The drug awaits regulatory approval.",
+   "exVi": "Thuốc đang chờ phê duyệt của cơ quan quản lý.",
+   "col": [
+    "approval",
+    "regulatory approval"
+   ]
+  },
+  {
+   "id": "ph055",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "regulation",
+   "ipa": "/ˌreɡjuˈleɪʃn/",
+   "pos": "n",
+   "vi": "quy định",
+   "ex": "Strict regulation governs drug testing.",
+   "exVi": "Quy định nghiêm ngặt điều chỉnh việc thử thuốc.",
+   "col": [
+    "regulation",
+    "a strict regulation"
+   ]
+  },
+  {
+   "id": "ph056",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "documentation",
+   "ipa": "/ˌdɒkjumenˈteɪʃn/",
+   "pos": "n",
+   "vi": "hồ sơ tài liệu",
+   "ex": "Full documentation supports every trial.",
+   "exVi": "Hồ sơ tài liệu đầy đủ chứng minh mỗi thử nghiệm.",
+   "col": [
+    "documentation",
+    "detailed documentation"
+   ]
+  },
+  {
+   "id": "ph057",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "labeling",
+   "ipa": "/ˈleɪblɪŋ/",
+   "pos": "n",
+   "vi": "việc ghi nhãn",
+   "ex": "Clear labeling lists the dosage and warnings.",
+   "exVi": "Việc ghi nhãn rõ ràng liệt kê liều lượng và cảnh báo.",
+   "col": [
+    "labeling",
+    "drug labeling"
+   ]
+  },
+  {
+   "id": "ph058",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "packaging",
+   "ipa": "/ˈpækɪdʒɪŋ/",
+   "pos": "n",
+   "vi": "đóng gói",
+   "ex": "Child-proof packaging keeps the drug safe.",
+   "exVi": "Bao bì chống trẻ mở giữ thuốc an toàn.",
+   "col": [
+    "packaging",
+    "drug packaging"
+   ]
+  },
+  {
+   "id": "ph059",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "distribution",
+   "ipa": "/ˌdɪstrɪˈbjuːʃn/",
+   "pos": "n",
+   "vi": "phân phối",
+   "ex": "The distribution reaches pharmacies nationwide.",
+   "exVi": "Việc phân phối vươn tới các nhà thuốc toàn quốc.",
+   "col": [
+    "distribution",
+    "drug distribution"
+   ]
+  },
+  {
+   "id": "ph060",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "supply chain",
+   "ipa": "/səˈplaɪ tʃeɪn/",
+   "pos": "n",
+   "vi": "chuỗi cung ứng",
+   "ex": "A cold supply chain protects the vaccine.",
+   "exVi": "Một chuỗi cung ứng lạnh bảo vệ vắc-xin.",
+   "col": [
+    "a supply chain",
+    "a cold supply chain"
+   ]
+  },
+  {
+   "id": "ph061",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "inventory",
+   "ipa": "/ˈɪnvəntri/",
+   "pos": "n",
+   "vi": "hàng dự trữ",
+   "ex": "The pharmacy checks its inventory weekly.",
+   "exVi": "Nhà thuốc kiểm tra hàng dự trữ hằng tuần.",
+   "col": [
+    "inventory",
+    "manage inventory"
+   ]
+  },
+  {
+   "id": "ph062",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "expiration",
+   "ipa": "/ˌekspəˈreɪʃn/",
+   "pos": "n",
+   "vi": "hết hạn",
+   "ex": "Check the expiration date before use.",
+   "exVi": "Kiểm tra ngày hết hạn trước khi dùng.",
+   "col": [
+    "expiration",
+    "an expiration date"
+   ]
+  },
+  {
+   "id": "ph063",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "recall",
+   "ipa": "/rɪˈkɔːl/",
+   "pos": "n, v",
+   "vi": "thu hồi",
+   "ex": "A recall removed the faulty batch.",
+   "exVi": "Một đợt thu hồi loại bỏ lô lỗi.",
+   "col": [
+    "a recall",
+    "a drug recall"
+   ]
+  },
+  {
+   "id": "ph064",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "screening",
+   "ipa": "/ˈskriːnɪŋ/",
+   "pos": "n",
+   "vi": "sàng lọc",
+   "ex": "Early screening identifies the best compounds.",
+   "exVi": "Sàng lọc sớm xác định các hợp chất tốt nhất.",
+   "col": [
+    "screening",
+    "drug screening"
+   ]
+  },
+  {
+   "id": "ph065",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "purity",
+   "ipa": "/ˈpjʊərəti/",
+   "pos": "n",
+   "vi": "độ tinh khiết",
+   "ex": "The test confirmed a high purity.",
+   "exVi": "Phép thử xác nhận độ tinh khiết cao.",
+   "col": [
+    "purity",
+    "high purity"
+   ]
+  },
+  {
+   "id": "ph066",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "yield",
+   "ipa": "/jiːld/",
+   "pos": "n",
+   "vi": "hiệu suất thu được",
+   "ex": "The reaction gave a high yield.",
+   "exVi": "Phản ứng cho hiệu suất cao.",
+   "col": [
+    "yield",
+    "a high yield"
+   ]
+  },
+  {
+   "id": "ph067",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "concentration",
+   "ipa": "/ˌkɒnsnˈtreɪʃn/",
+   "pos": "n",
+   "vi": "nồng độ",
+   "ex": "The concentration was measured precisely.",
+   "exVi": "Nồng độ được đo chính xác.",
+   "col": [
+    "concentration",
+    "a high concentration"
+   ]
+  },
+  {
+   "id": "ph068",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "formulate",
+   "ipa": "/ˈfɔːmjuleɪt/",
+   "pos": "v",
+   "vi": "bào chế",
+   "ex": "Scientists formulated a new tablet.",
+   "exVi": "Các nhà khoa học bào chế một viên nén mới.",
+   "col": [
+    "formulate",
+    "formulate a drug"
+   ]
+  },
+  {
+   "id": "ph069",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "synthesize",
+   "ipa": "/ˈsɪnθəsaɪz/",
+   "pos": "v",
+   "vi": "tổng hợp",
+   "ex": "The team synthesized the compound in the lab.",
+   "exVi": "Nhóm tổng hợp hợp chất trong phòng thí nghiệm.",
+   "col": [
+    "synthesize",
+    "synthesize a compound"
+   ]
+  },
+  {
+   "id": "ph070",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "analyze",
+   "ipa": "/ˈænəlaɪz/",
+   "pos": "v",
+   "vi": "phân tích",
+   "ex": "Researchers analyze the results in detail.",
+   "exVi": "Các nhà nghiên cứu phân tích kết quả chi tiết.",
+   "col": [
+    "analyze",
+    "analyze data"
+   ]
+  },
+  {
+   "id": "ph071",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "validate",
+   "ipa": "/ˈvælɪdeɪt/",
+   "pos": "v",
+   "vi": "xác nhận",
+   "ex": "A second test validated the finding.",
+   "exVi": "Một phép thử thứ hai xác nhận phát hiện.",
+   "col": [
+    "validate",
+    "validate a result"
+   ]
+  },
+  {
+   "id": "ph072",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "replicate",
+   "ipa": "/ˈreplɪkeɪt/",
+   "pos": "v",
+   "vi": "lặp lại thí nghiệm",
+   "ex": "Other labs replicated the study.",
+   "exVi": "Các phòng thí nghiệm khác lặp lại nghiên cứu.",
+   "col": [
+    "replicate",
+    "replicate a study"
+   ]
+  },
+  {
+   "id": "ph073",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "monitor",
+   "ipa": "/ˈmɒnɪtə/",
+   "pos": "v",
+   "vi": "theo dõi",
+   "ex": "Staff monitor the reaction closely.",
+   "exVi": "Nhân viên theo dõi phản ứng sát sao.",
+   "col": [
+    "monitor",
+    "monitor a process"
+   ]
+  },
+  {
+   "id": "ph074",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "quarantine",
+   "ipa": "/ˈkwɒrəntiːn/",
+   "pos": "v",
+   "vi": "cách ly",
+   "ex": "Suspect batches are quarantined at once.",
+   "exVi": "Các lô nghi ngờ được cách ly ngay.",
+   "col": [
+    "quarantine",
+    "quarantine a batch"
+   ]
+  },
+  {
+   "id": "ph075",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "biopharmaceutical",
+   "ipa": "/ˌbaɪəʊˌfɑːməˈsuːtɪkl/",
+   "pos": "adj",
+   "vi": "thuộc dược phẩm sinh học",
+   "ex": "A biopharmaceutical firm developed the vaccine.",
+   "exVi": "Một công ty dược phẩm sinh học phát triển vắc-xin.",
+   "col": [
+    "biopharmaceutical",
+    "a biopharmaceutical company"
+   ]
+  },
+  {
+   "id": "ph076",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "clinical",
+   "ipa": "/ˈklɪnɪkl/",
+   "pos": "adj",
+   "vi": "lâm sàng",
+   "ex": "The drug passed all clinical tests.",
+   "exVi": "Thuốc vượt qua mọi thử nghiệm lâm sàng.",
+   "col": [
+    "clinical",
+    "a clinical trial"
+   ]
+  },
+  {
+   "id": "ph077",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "preclinical",
+   "ipa": "/ˌpriːˈklɪnɪkl/",
+   "pos": "adj",
+   "vi": "tiền lâm sàng",
+   "ex": "Preclinical work is done before human trials.",
+   "exVi": "Công việc tiền lâm sàng được làm trước thử nghiệm trên người.",
+   "col": [
+    "preclinical",
+    "a preclinical study"
+   ]
+  },
+  {
+   "id": "ph078",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "regulatory",
+   "ipa": "/ˈreɡjələtri/",
+   "pos": "adj",
+   "vi": "thuộc quản lý",
+   "ex": "Regulatory approval took a full year.",
+   "exVi": "Phê duyệt của cơ quan quản lý mất trọn một năm.",
+   "col": [
+    "regulatory",
+    "regulatory approval"
+   ]
+  },
+  {
+   "id": "ph079",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "volatile",
+   "ipa": "/ˈvɒlətaɪl/",
+   "pos": "adj",
+   "vi": "dễ bay hơi",
+   "ex": "The solvent is highly volatile.",
+   "exVi": "Dung môi rất dễ bay hơi.",
+   "col": [
+    "volatile",
+    "a volatile compound"
+   ]
+  },
+  {
+   "id": "ph080",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "aqueous",
+   "ipa": "/ˈeɪkwiəs/",
+   "pos": "adj",
+   "vi": "thuộc dung dịch nước",
+   "ex": "The drug dissolves in an aqueous solution.",
+   "exVi": "Thuốc hoà tan trong một dung dịch nước.",
+   "col": [
+    "aqueous",
+    "an aqueous solution"
+   ]
+  },
+  {
+   "id": "ph081",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "hazardous",
+   "ipa": "/ˈhæzədəs/",
+   "pos": "adj",
+   "vi": "nguy hại",
+   "ex": "Hazardous waste is stored separately.",
+   "exVi": "Chất thải nguy hại được cất riêng.",
+   "col": [
+    "hazardous",
+    "hazardous waste"
+   ]
+  },
+  {
+   "id": "ph082",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "precise",
+   "ipa": "/prɪˈsaɪs/",
+   "pos": "adj",
+   "vi": "chính xác",
+   "ex": "The instrument gives a precise reading.",
+   "exVi": "Dụng cụ cho một số đo chính xác.",
+   "col": [
+    "precise",
+    "a precise measurement"
+   ]
+  },
+  {
+   "id": "ph083",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "reproducible",
+   "ipa": "/ˌriːprəˈdjuːsəbl/",
+   "pos": "adj",
+   "vi": "có thể tái lập",
+   "ex": "The results were reproducible across labs.",
+   "exVi": "Kết quả có thể tái lập giữa các phòng thí nghiệm.",
+   "col": [
+    "reproducible",
+    "reproducible results"
+   ]
+  },
+  {
+   "id": "ph084",
+   "topic": "Dược phẩm & phòng thí nghiệm",
+   "w": "rigorous",
+   "ipa": "/ˈrɪɡərəs/",
+   "pos": "adj",
+   "vi": "nghiêm ngặt",
+   "ex": "The drug went through rigorous testing.",
+   "exVi": "Thuốc trải qua thử nghiệm nghiêm ngặt.",
+   "col": [
+    "rigorous",
+    "rigorous testing"
+   ]
+  }
+ ]
+}

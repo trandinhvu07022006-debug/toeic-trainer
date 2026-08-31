@@ -1,0 +1,1167 @@
+{
+ "topic": "Sân bay & hàng không",
+ "words": [
+  {
+   "id": "ai001",
+   "topic": "Sân bay & hàng không",
+   "w": "airport",
+   "ipa": "/ˈeəpɔːt/",
+   "pos": "n",
+   "vi": "sân bay",
+   "ex": "The airport handles millions of travelers a year.",
+   "exVi": "Sân bay phục vụ hàng triệu khách mỗi năm.",
+   "col": [
+    "an airport",
+    "a busy airport"
+   ]
+  },
+  {
+   "id": "ai002",
+   "topic": "Sân bay & hàng không",
+   "w": "terminal",
+   "ipa": "/ˈtɜːmɪnl/",
+   "pos": "n",
+   "vi": "nhà ga",
+   "ex": "The flight leaves from terminal two.",
+   "exVi": "Chuyến bay khởi hành từ nhà ga số hai.",
+   "col": [
+    "a terminal",
+    "a departure terminal"
+   ]
+  },
+  {
+   "id": "ai003",
+   "topic": "Sân bay & hàng không",
+   "w": "runway",
+   "ipa": "/ˈrʌnweɪ/",
+   "pos": "n",
+   "vi": "đường băng",
+   "ex": "The plane waited on the runway for clearance.",
+   "exVi": "Máy bay chờ trên đường băng để được phép.",
+   "col": [
+    "a runway",
+    "a long runway"
+   ]
+  },
+  {
+   "id": "ai004",
+   "topic": "Sân bay & hàng không",
+   "w": "gate",
+   "ipa": "/ɡeɪt/",
+   "pos": "n",
+   "vi": "cửa ra máy bay",
+   "ex": "Boarding begins at gate twelve.",
+   "exVi": "Việc lên máy bay bắt đầu tại cửa số mười hai.",
+   "col": [
+    "a gate",
+    "a boarding gate"
+   ]
+  },
+  {
+   "id": "ai005",
+   "topic": "Sân bay & hàng không",
+   "w": "boarding",
+   "ipa": "/ˈbɔːdɪŋ/",
+   "pos": "n",
+   "vi": "việc lên máy bay",
+   "ex": "Boarding starts thirty minutes before departure.",
+   "exVi": "Việc lên máy bay bắt đầu ba mươi phút trước giờ khởi hành.",
+   "col": [
+    "boarding",
+    "a boarding pass"
+   ]
+  },
+  {
+   "id": "ai006",
+   "topic": "Sân bay & hàng không",
+   "w": "departure",
+   "ipa": "/dɪˈpɑːtʃə/",
+   "pos": "n",
+   "vi": "khởi hành",
+   "ex": "The departure was delayed by an hour.",
+   "exVi": "Việc khởi hành bị hoãn một giờ.",
+   "col": [
+    "departure",
+    "a departure time"
+   ]
+  },
+  {
+   "id": "ai007",
+   "topic": "Sân bay & hàng không",
+   "w": "arrival",
+   "ipa": "/əˈraɪvl/",
+   "pos": "n",
+   "vi": "đến nơi",
+   "ex": "The arrival board shows every flight.",
+   "exVi": "Bảng đến hiển thị mọi chuyến bay.",
+   "col": [
+    "arrival",
+    "an arrival time"
+   ]
+  },
+  {
+   "id": "ai008",
+   "topic": "Sân bay & hàng không",
+   "w": "layover",
+   "ipa": "/ˈleɪəʊvə/",
+   "pos": "n",
+   "vi": "thời gian chờ nối chuyến",
+   "ex": "A short layover connected the two flights.",
+   "exVi": "Một thời gian chờ ngắn nối hai chuyến bay.",
+   "col": [
+    "a layover",
+    "a long layover"
+   ]
+  },
+  {
+   "id": "ai009",
+   "topic": "Sân bay & hàng không",
+   "w": "connection",
+   "ipa": "/kəˈnekʃn/",
+   "pos": "n",
+   "vi": "chuyến nối",
+   "ex": "The tight connection worried the passengers.",
+   "exVi": "Chuyến nối sát giờ khiến hành khách lo.",
+   "col": [
+    "a connection",
+    "a flight connection"
+   ]
+  },
+  {
+   "id": "ai010",
+   "topic": "Sân bay & hàng không",
+   "w": "transit",
+   "ipa": "/ˈtrænzɪt/",
+   "pos": "n",
+   "vi": "quá cảnh",
+   "ex": "Passengers in transit stay in the lounge.",
+   "exVi": "Hành khách quá cảnh ở lại phòng chờ.",
+   "col": [
+    "transit",
+    "a transit passenger"
+   ]
+  },
+  {
+   "id": "ai011",
+   "topic": "Sân bay & hàng không",
+   "w": "check-in",
+   "ipa": "/ˈtʃek ɪn/",
+   "pos": "n",
+   "vi": "làm thủ tục",
+   "ex": "Online check-in opens a day before.",
+   "exVi": "Làm thủ tục trực tuyến mở một ngày trước.",
+   "col": [
+    "check-in",
+    "a check-in desk"
+   ]
+  },
+  {
+   "id": "ai012",
+   "topic": "Sân bay & hàng không",
+   "w": "baggage",
+   "ipa": "/ˈbæɡɪdʒ/",
+   "pos": "n",
+   "vi": "hành lý",
+   "ex": "Baggage is collected at the carousel.",
+   "exVi": "Hành lý được nhận tại băng chuyền.",
+   "col": [
+    "baggage",
+    "checked baggage"
+   ]
+  },
+  {
+   "id": "ai013",
+   "topic": "Sân bay & hàng không",
+   "w": "luggage",
+   "ipa": "/ˈlʌɡɪdʒ/",
+   "pos": "n",
+   "vi": "hành lý xách tay",
+   "ex": "Carry-on luggage must fit in the locker.",
+   "exVi": "Hành lý xách tay phải vừa ngăn để đồ.",
+   "col": [
+    "luggage",
+    "hand luggage"
+   ]
+  },
+  {
+   "id": "ai014",
+   "topic": "Sân bay & hàng không",
+   "w": "carousel",
+   "ipa": "/ˌkærəˈsel/",
+   "pos": "n",
+   "vi": "băng chuyền hành lý",
+   "ex": "The bags appeared on carousel four.",
+   "exVi": "Các túi xuất hiện trên băng chuyền số bốn.",
+   "col": [
+    "a carousel",
+    "a baggage carousel"
+   ]
+  },
+  {
+   "id": "ai015",
+   "topic": "Sân bay & hàng không",
+   "w": "customs",
+   "ipa": "/ˈkʌstəmz/",
+   "pos": "n",
+   "vi": "hải quan",
+   "ex": "Passengers clear customs after landing.",
+   "exVi": "Hành khách qua hải quan sau khi hạ cánh.",
+   "col": [
+    "customs",
+    "customs control"
+   ]
+  },
+  {
+   "id": "ai016",
+   "topic": "Sân bay & hàng không",
+   "w": "immigration",
+   "ipa": "/ˌɪmɪˈɡreɪʃn/",
+   "pos": "n",
+   "vi": "xuất nhập cảnh",
+   "ex": "The immigration queue was long that morning.",
+   "exVi": "Hàng xuất nhập cảnh dài sáng đó.",
+   "col": [
+    "immigration",
+    "an immigration officer"
+   ]
+  },
+  {
+   "id": "ai017",
+   "topic": "Sân bay & hàng không",
+   "w": "passport",
+   "ipa": "/ˈpɑːspɔːt/",
+   "pos": "n",
+   "vi": "hộ chiếu",
+   "ex": "A valid passport is needed to board.",
+   "exVi": "Cần một hộ chiếu hợp lệ để lên máy bay.",
+   "col": [
+    "a passport",
+    "a valid passport"
+   ]
+  },
+  {
+   "id": "ai018",
+   "topic": "Sân bay & hàng không",
+   "w": "visa",
+   "ipa": "/ˈviːzə/",
+   "pos": "n",
+   "vi": "thị thực",
+   "ex": "A visa is required for entry.",
+   "exVi": "Cần một thị thực để nhập cảnh.",
+   "col": [
+    "a visa",
+    "an entry visa"
+   ]
+  },
+  {
+   "id": "ai019",
+   "topic": "Sân bay & hàng không",
+   "w": "itinerary",
+   "ipa": "/aɪˈtɪnərəri/",
+   "pos": "n",
+   "vi": "lịch trình bay",
+   "ex": "The itinerary lists every flight.",
+   "exVi": "Lịch trình bay liệt kê mọi chuyến.",
+   "col": [
+    "an itinerary",
+    "a travel itinerary"
+   ]
+  },
+  {
+   "id": "ai020",
+   "topic": "Sân bay & hàng không",
+   "w": "fare",
+   "ipa": "/feə/",
+   "pos": "n",
+   "vi": "giá vé",
+   "ex": "The fare includes one checked bag.",
+   "exVi": "Giá vé bao gồm một kiện ký gửi.",
+   "col": [
+    "a fare",
+    "an air fare"
+   ]
+  },
+  {
+   "id": "ai021",
+   "topic": "Sân bay & hàng không",
+   "w": "carrier",
+   "ipa": "/ˈkæriə/",
+   "pos": "n",
+   "vi": "hãng bay",
+   "ex": "The carrier operates flights across the region.",
+   "exVi": "Hãng bay khai thác chuyến khắp khu vực.",
+   "col": [
+    "a carrier",
+    "a low-cost carrier"
+   ]
+  },
+  {
+   "id": "ai022",
+   "topic": "Sân bay & hàng không",
+   "w": "aisle",
+   "ipa": "/aɪl/",
+   "pos": "n",
+   "vi": "lối đi giữa hàng ghế",
+   "ex": "She prefers an aisle seat for legroom.",
+   "exVi": "Bà thích ghế cạnh lối đi để duỗi chân.",
+   "col": [
+    "an aisle",
+    "an aisle seat"
+   ]
+  },
+  {
+   "id": "ai023",
+   "topic": "Sân bay & hàng không",
+   "w": "cockpit",
+   "ipa": "/ˈkɒkpɪt/",
+   "pos": "n",
+   "vi": "buồng lái",
+   "ex": "The captain checked the cockpit controls.",
+   "exVi": "Cơ trưởng kiểm tra bảng điều khiển buồng lái.",
+   "col": [
+    "a cockpit",
+    "the cockpit crew"
+   ]
+  },
+  {
+   "id": "ai024",
+   "topic": "Sân bay & hàng không",
+   "w": "cabin",
+   "ipa": "/ˈkæbɪn/",
+   "pos": "n",
+   "vi": "khoang hành khách",
+   "ex": "The cabin crew served drinks after takeoff.",
+   "exVi": "Tiếp viên phục vụ đồ uống sau khi cất cánh.",
+   "col": [
+    "a cabin",
+    "the cabin crew"
+   ]
+  },
+  {
+   "id": "ai025",
+   "topic": "Sân bay & hàng không",
+   "w": "turbulence",
+   "ipa": "/ˈtɜːbjələns/",
+   "pos": "n",
+   "vi": "nhiễu động",
+   "ex": "Light turbulence shook the plane briefly.",
+   "exVi": "Nhiễu động nhẹ làm máy bay rung trong chốc lát.",
+   "col": [
+    "turbulence",
+    "light turbulence"
+   ]
+  },
+  {
+   "id": "ai026",
+   "topic": "Sân bay & hàng không",
+   "w": "altitude",
+   "ipa": "/ˈæltɪtjuːd/",
+   "pos": "n",
+   "vi": "độ cao",
+   "ex": "The plane reached its cruising altitude.",
+   "exVi": "Máy bay đạt độ cao bay ổn định.",
+   "col": [
+    "altitude",
+    "cruising altitude"
+   ]
+  },
+  {
+   "id": "ai027",
+   "topic": "Sân bay & hàng không",
+   "w": "takeoff",
+   "ipa": "/ˈteɪkɒf/",
+   "pos": "n",
+   "vi": "cất cánh",
+   "ex": "Takeoff was smooth despite the wind.",
+   "exVi": "Việc cất cánh êm ả dù có gió.",
+   "col": [
+    "takeoff",
+    "a smooth takeoff"
+   ]
+  },
+  {
+   "id": "ai028",
+   "topic": "Sân bay & hàng không",
+   "w": "landing",
+   "ipa": "/ˈlændɪŋ/",
+   "pos": "n",
+   "vi": "hạ cánh",
+   "ex": "The landing was gentle and on time.",
+   "exVi": "Việc hạ cánh nhẹ nhàng và đúng giờ.",
+   "col": [
+    "a landing",
+    "a safe landing"
+   ]
+  },
+  {
+   "id": "ai029",
+   "topic": "Sân bay & hàng không",
+   "w": "delay",
+   "ipa": "/dɪˈleɪ/",
+   "pos": "n",
+   "vi": "sự chậm trễ",
+   "ex": "A weather delay held the flight.",
+   "exVi": "Một sự chậm trễ do thời tiết giữ chuyến bay.",
+   "col": [
+    "a delay",
+    "a long delay"
+   ]
+  },
+  {
+   "id": "ai030",
+   "topic": "Sân bay & hàng không",
+   "w": "cancellation",
+   "ipa": "/ˌkænsəˈleɪʃn/",
+   "pos": "n",
+   "vi": "việc huỷ chuyến",
+   "ex": "The cancellation left many stranded.",
+   "exVi": "Việc huỷ chuyến khiến nhiều người mắc kẹt.",
+   "col": [
+    "a cancellation",
+    "a flight cancellation"
+   ]
+  },
+  {
+   "id": "ai031",
+   "topic": "Sân bay & hàng không",
+   "w": "overbooking",
+   "ipa": "/ˌəʊvəˈbʊkɪŋ/",
+   "pos": "n",
+   "vi": "bán vượt chỗ",
+   "ex": "Overbooking left some passengers waiting.",
+   "exVi": "Bán vượt chỗ khiến một số khách phải chờ.",
+   "col": [
+    "overbooking",
+    "flight overbooking"
+   ]
+  },
+  {
+   "id": "ai032",
+   "topic": "Sân bay & hàng không",
+   "w": "upgrade",
+   "ipa": "/ˈʌpɡreɪd/",
+   "pos": "n",
+   "vi": "nâng hạng",
+   "ex": "An upgrade moved her to business class.",
+   "exVi": "Một lần nâng hạng đưa bà lên hạng thương gia.",
+   "col": [
+    "an upgrade",
+    "a seat upgrade"
+   ]
+  },
+  {
+   "id": "ai033",
+   "topic": "Sân bay & hàng không",
+   "w": "board",
+   "ipa": "/bɔːd/",
+   "pos": "v",
+   "vi": "lên máy bay",
+   "ex": "Passengers board through the front door.",
+   "exVi": "Hành khách lên máy bay qua cửa trước.",
+   "col": [
+    "board",
+    "board a flight"
+   ]
+  },
+  {
+   "id": "ai034",
+   "topic": "Sân bay & hàng không",
+   "w": "disembark",
+   "ipa": "/ˌdɪsɪmˈbɑːk/",
+   "pos": "v",
+   "vi": "xuống máy bay",
+   "ex": "Passengers disembark after the seatbelt sign goes off.",
+   "exVi": "Hành khách xuống máy bay sau khi đèn dây an toàn tắt.",
+   "col": [
+    "disembark",
+    "disembark the plane"
+   ]
+  },
+  {
+   "id": "ai035",
+   "topic": "Sân bay & hàng không",
+   "w": "taxi",
+   "ipa": "/ˈtæksi/",
+   "pos": "v",
+   "vi": "lăn bánh",
+   "ex": "The plane taxied slowly to the gate.",
+   "exVi": "Máy bay lăn bánh chậm tới cửa.",
+   "col": [
+    "taxi",
+    "taxi to the gate"
+   ]
+  },
+  {
+   "id": "ai036",
+   "topic": "Sân bay & hàng không",
+   "w": "divert",
+   "ipa": "/daɪˈvɜːt/",
+   "pos": "v",
+   "vi": "chuyển hướng",
+   "ex": "The flight was diverted due to fog.",
+   "exVi": "Chuyến bay bị chuyển hướng do sương mù.",
+   "col": [
+    "divert",
+    "divert a flight"
+   ]
+  },
+  {
+   "id": "ai037",
+   "topic": "Sân bay & hàng không",
+   "w": "reschedule",
+   "ipa": "/ˌriːˈʃedjuːl/",
+   "pos": "v",
+   "vi": "đổi lịch",
+   "ex": "The airline rescheduled the delayed flight.",
+   "exVi": "Hãng đổi lịch chuyến bay bị chậm.",
+   "col": [
+    "reschedule",
+    "reschedule a flight"
+   ]
+  },
+  {
+   "id": "ai038",
+   "topic": "Sân bay & hàng không",
+   "w": "book",
+   "ipa": "/bʊk/",
+   "pos": "v",
+   "vi": "đặt vé",
+   "ex": "She booked the flight two months ahead.",
+   "exVi": "Bà đặt vé hai tháng trước.",
+   "col": [
+    "book",
+    "book a flight"
+   ]
+  },
+  {
+   "id": "ai039",
+   "topic": "Sân bay & hàng không",
+   "w": "confirm",
+   "ipa": "/kənˈfɜːm/",
+   "pos": "v",
+   "vi": "xác nhận",
+   "ex": "Please confirm your seat online.",
+   "exVi": "Vui lòng xác nhận chỗ của bạn trực tuyến.",
+   "col": [
+    "confirm",
+    "confirm a booking"
+   ]
+  },
+  {
+   "id": "ai040",
+   "topic": "Sân bay & hàng không",
+   "w": "inbound",
+   "ipa": "/ˈɪnbaʊnd/",
+   "pos": "adj",
+   "vi": "chiều đến",
+   "ex": "The inbound flight landed early.",
+   "exVi": "Chuyến bay chiều đến hạ cánh sớm.",
+   "col": [
+    "inbound",
+    "an inbound flight"
+   ]
+  },
+  {
+   "id": "ai041",
+   "topic": "Sân bay & hàng không",
+   "w": "outbound",
+   "ipa": "/ˈaʊtbaʊnd/",
+   "pos": "adj",
+   "vi": "chiều đi",
+   "ex": "The outbound flight leaves at dawn.",
+   "exVi": "Chuyến bay chiều đi khởi hành lúc bình minh.",
+   "col": [
+    "outbound",
+    "an outbound flight"
+   ]
+  },
+  {
+   "id": "ai042",
+   "topic": "Sân bay & hàng không",
+   "w": "nonstop",
+   "ipa": "/ˌnɒnˈstɒp/",
+   "pos": "adj",
+   "vi": "bay thẳng",
+   "ex": "A nonstop flight saves several hours.",
+   "exVi": "Một chuyến bay thẳng tiết kiệm vài giờ.",
+   "col": [
+    "nonstop",
+    "a nonstop flight"
+   ]
+  },
+  {
+   "id": "ai043",
+   "topic": "Sân bay & hàng không",
+   "w": "concourse",
+   "ipa": "/ˈkɒŋkɔːs/",
+   "pos": "n",
+   "vi": "sảnh chờ",
+   "ex": "The concourse was crowded during the holidays.",
+   "exVi": "Sảnh chờ đông đúc trong kỳ nghỉ lễ.",
+   "col": [
+    "a concourse",
+    "a busy concourse"
+   ]
+  },
+  {
+   "id": "ai044",
+   "topic": "Sân bay & hàng không",
+   "w": "lounge",
+   "ipa": "/laʊndʒ/",
+   "pos": "n",
+   "vi": "phòng chờ",
+   "ex": "The business lounge offers free snacks.",
+   "exVi": "Phòng chờ thương gia có đồ ăn nhẹ miễn phí.",
+   "col": [
+    "a lounge",
+    "an airport lounge"
+   ]
+  },
+  {
+   "id": "ai045",
+   "topic": "Sân bay & hàng không",
+   "w": "jetway",
+   "ipa": "/ˈdʒetweɪ/",
+   "pos": "n",
+   "vi": "cầu ống dẫn khách",
+   "ex": "The jetway connects the gate to the plane.",
+   "exVi": "Cầu ống dẫn khách nối cửa với máy bay.",
+   "col": [
+    "a jetway",
+    "board via the jetway"
+   ]
+  },
+  {
+   "id": "ai046",
+   "topic": "Sân bay & hàng không",
+   "w": "tarmac",
+   "ipa": "/ˈtɑːmæk/",
+   "pos": "n",
+   "vi": "sân đỗ",
+   "ex": "The crew loaded bags on the tarmac.",
+   "exVi": "Đội xếp túi trên sân đỗ.",
+   "col": [
+    "the tarmac",
+    "on the tarmac"
+   ]
+  },
+  {
+   "id": "ai047",
+   "topic": "Sân bay & hàng không",
+   "w": "hangar",
+   "ipa": "/ˈhæŋə/",
+   "pos": "n",
+   "vi": "nhà chứa máy bay",
+   "ex": "The plane was towed into the hangar.",
+   "exVi": "Máy bay được kéo vào nhà chứa.",
+   "col": [
+    "a hangar",
+    "an aircraft hangar"
+   ]
+  },
+  {
+   "id": "ai048",
+   "topic": "Sân bay & hàng không",
+   "w": "apron",
+   "ipa": "/ˈeɪprən/",
+   "pos": "n",
+   "vi": "sân đỗ máy bay",
+   "ex": "Ground staff work on the apron.",
+   "exVi": "Nhân viên mặt đất làm việc trên sân đỗ.",
+   "col": [
+    "the apron",
+    "the airport apron"
+   ]
+  },
+  {
+   "id": "ai049",
+   "topic": "Sân bay & hàng không",
+   "w": "carousel belt",
+   "ipa": "/ˌkærəˈsel belt/",
+   "pos": "n",
+   "vi": "dây băng chuyền",
+   "ex": "The carousel belt started slowly.",
+   "exVi": "Dây băng chuyền bắt đầu chạy chậm.",
+   "col": [
+    "a carousel belt",
+    "a moving carousel belt"
+   ]
+  },
+  {
+   "id": "ai050",
+   "topic": "Sân bay & hàng không",
+   "w": "trolley",
+   "ipa": "/ˈtrɒli/",
+   "pos": "n",
+   "vi": "xe đẩy hành lý",
+   "ex": "A trolley helped carry the heavy bags.",
+   "exVi": "Một xe đẩy giúp mang các túi nặng.",
+   "col": [
+    "a trolley",
+    "a luggage trolley"
+   ]
+  },
+  {
+   "id": "ai051",
+   "topic": "Sân bay & hàng không",
+   "w": "steward",
+   "ipa": "/ˈstjuːəd/",
+   "pos": "n",
+   "vi": "tiếp viên nam",
+   "ex": "The steward checked every seatbelt.",
+   "exVi": "Tiếp viên kiểm tra mọi dây an toàn.",
+   "col": [
+    "a steward",
+    "a flight steward"
+   ]
+  },
+  {
+   "id": "ai052",
+   "topic": "Sân bay & hàng không",
+   "w": "stewardess",
+   "ipa": "/ˌstjuːəˈdes/",
+   "pos": "n",
+   "vi": "tiếp viên nữ",
+   "ex": "The stewardess served the meals.",
+   "exVi": "Tiếp viên nữ phục vụ các bữa ăn.",
+   "col": [
+    "a stewardess",
+    "a flight stewardess"
+   ]
+  },
+  {
+   "id": "ai053",
+   "topic": "Sân bay & hàng không",
+   "w": "pilot",
+   "ipa": "/ˈpaɪlət/",
+   "pos": "n",
+   "vi": "phi công",
+   "ex": "The pilot announced a smooth flight ahead.",
+   "exVi": "Phi công thông báo một chuyến bay êm ả phía trước.",
+   "col": [
+    "a pilot",
+    "an experienced pilot"
+   ]
+  },
+  {
+   "id": "ai054",
+   "topic": "Sân bay & hàng không",
+   "w": "copilot",
+   "ipa": "/ˈkəʊpaɪlət/",
+   "pos": "n",
+   "vi": "phi công phụ",
+   "ex": "The copilot handled the radio calls.",
+   "exVi": "Phi công phụ xử lý các cuộc gọi vô tuyến.",
+   "col": [
+    "a copilot",
+    "the copilot seat"
+   ]
+  },
+  {
+   "id": "ai055",
+   "topic": "Sân bay & hàng không",
+   "w": "captain",
+   "ipa": "/ˈkæptɪn/",
+   "pos": "n",
+   "vi": "cơ trưởng",
+   "ex": "The captain welcomed the passengers aboard.",
+   "exVi": "Cơ trưởng chào hành khách lên máy bay.",
+   "col": [
+    "a captain",
+    "the flight captain"
+   ]
+  },
+  {
+   "id": "ai056",
+   "topic": "Sân bay & hàng không",
+   "w": "crew",
+   "ipa": "/kruː/",
+   "pos": "n",
+   "vi": "phi hành đoàn",
+   "ex": "The crew prepared the cabin for takeoff.",
+   "exVi": "Phi hành đoàn chuẩn bị khoang cho việc cất cánh.",
+   "col": [
+    "a crew",
+    "the cabin crew"
+   ]
+  },
+  {
+   "id": "ai057",
+   "topic": "Sân bay & hàng không",
+   "w": "seatbelt",
+   "ipa": "/ˈsiːtbelt/",
+   "pos": "n",
+   "vi": "dây an toàn",
+   "ex": "Keep your seatbelt fastened during the flight.",
+   "exVi": "Giữ dây an toàn cài trong suốt chuyến bay.",
+   "col": [
+    "a seatbelt",
+    "fasten a seatbelt"
+   ]
+  },
+  {
+   "id": "ai058",
+   "topic": "Sân bay & hàng không",
+   "w": "overhead bin",
+   "ipa": "/ˌəʊvəˈhed bɪn/",
+   "pos": "n",
+   "vi": "ngăn hành lý trên đầu",
+   "ex": "Place small bags in the overhead bin.",
+   "exVi": "Đặt các túi nhỏ trong ngăn hành lý trên đầu.",
+   "col": [
+    "an overhead bin",
+    "a full overhead bin"
+   ]
+  },
+  {
+   "id": "ai059",
+   "topic": "Sân bay & hàng không",
+   "w": "tray table",
+   "ipa": "/treɪ ˈteɪbl/",
+   "pos": "n",
+   "vi": "bàn ăn gấp",
+   "ex": "Please raise your tray table for landing.",
+   "exVi": "Vui lòng nâng bàn ăn gấp khi hạ cánh.",
+   "col": [
+    "a tray table",
+    "a folding tray table"
+   ]
+  },
+  {
+   "id": "ai060",
+   "topic": "Sân bay & hàng không",
+   "w": "galley",
+   "ipa": "/ˈɡæli/",
+   "pos": "n",
+   "vi": "khoang bếp",
+   "ex": "The crew prepared drinks in the galley.",
+   "exVi": "Phi hành đoàn chuẩn bị đồ uống trong khoang bếp.",
+   "col": [
+    "a galley",
+    "the aircraft galley"
+   ]
+  },
+  {
+   "id": "ai061",
+   "topic": "Sân bay & hàng không",
+   "w": "fuselage",
+   "ipa": "/ˈfjuːzəlɑːʒ/",
+   "pos": "n",
+   "vi": "thân máy bay",
+   "ex": "The fuselage was checked before the flight.",
+   "exVi": "Thân máy bay được kiểm tra trước chuyến bay.",
+   "col": [
+    "the fuselage",
+    "the aircraft fuselage"
+   ]
+  },
+  {
+   "id": "ai062",
+   "topic": "Sân bay & hàng không",
+   "w": "propeller",
+   "ipa": "/prəˈpelə/",
+   "pos": "n",
+   "vi": "cánh quạt",
+   "ex": "A small plane uses a propeller.",
+   "exVi": "Một máy bay nhỏ dùng cánh quạt.",
+   "col": [
+    "a propeller",
+    "a spinning propeller"
+   ]
+  },
+  {
+   "id": "ai063",
+   "topic": "Sân bay & hàng không",
+   "w": "jet",
+   "ipa": "/dʒet/",
+   "pos": "n",
+   "vi": "máy bay phản lực",
+   "ex": "The jet climbed quickly after takeoff.",
+   "exVi": "Máy bay phản lực lên cao nhanh sau khi cất cánh.",
+   "col": [
+    "a jet",
+    "a passenger jet"
+   ]
+  },
+  {
+   "id": "ai064",
+   "topic": "Sân bay & hàng không",
+   "w": "airliner",
+   "ipa": "/ˈeəlaɪnə/",
+   "pos": "n",
+   "vi": "máy bay chở khách",
+   "ex": "The airliner seats over two hundred.",
+   "exVi": "Máy bay chở khách có hơn hai trăm chỗ.",
+   "col": [
+    "an airliner",
+    "a large airliner"
+   ]
+  },
+  {
+   "id": "ai065",
+   "topic": "Sân bay & hàng không",
+   "w": "aircraft",
+   "ipa": "/ˈeəkrɑːft/",
+   "pos": "n",
+   "vi": "phi cơ",
+   "ex": "The aircraft was towed for maintenance.",
+   "exVi": "Phi cơ được kéo đi bảo dưỡng.",
+   "col": [
+    "an aircraft",
+    "a modern aircraft"
+   ]
+  },
+  {
+   "id": "ai066",
+   "topic": "Sân bay & hàng không",
+   "w": "duty-free",
+   "ipa": "/ˌdjuːti ˈfriː/",
+   "pos": "adj",
+   "vi": "miễn thuế",
+   "ex": "The duty-free shop sells perfume and gifts.",
+   "exVi": "Cửa hàng miễn thuế bán nước hoa và quà.",
+   "col": [
+    "duty-free",
+    "a duty-free shop"
+   ]
+  },
+  {
+   "id": "ai067",
+   "topic": "Sân bay & hàng không",
+   "w": "standby",
+   "ipa": "/ˈstændbaɪ/",
+   "pos": "n",
+   "vi": "vé chờ",
+   "ex": "She flew standby on the next plane.",
+   "exVi": "Bà bay vé chờ trên chuyến kế tiếp.",
+   "col": [
+    "standby",
+    "a standby ticket"
+   ]
+  },
+  {
+   "id": "ai068",
+   "topic": "Sân bay & hàng không",
+   "w": "voucher",
+   "ipa": "/ˈvaʊtʃə/",
+   "pos": "n",
+   "vi": "phiếu bồi thường",
+   "ex": "The airline offered a meal voucher.",
+   "exVi": "Hãng cung cấp một phiếu ăn.",
+   "col": [
+    "a voucher",
+    "a meal voucher"
+   ]
+  },
+  {
+   "id": "ai069",
+   "topic": "Sân bay & hàng không",
+   "w": "refund",
+   "ipa": "/ˈriːfʌnd/",
+   "pos": "n",
+   "vi": "hoàn tiền",
+   "ex": "A full refund was given for the cancelled flight.",
+   "exVi": "Một khoản hoàn tiền đầy đủ được trả cho chuyến bị huỷ.",
+   "col": [
+    "a refund",
+    "a full refund"
+   ]
+  },
+  {
+   "id": "ai070",
+   "topic": "Sân bay & hàng không",
+   "w": "excess",
+   "ipa": "/ɪkˈses/",
+   "pos": "n",
+   "vi": "phần vượt mức",
+   "ex": "Excess baggage costs extra.",
+   "exVi": "Hành lý vượt mức tốn thêm.",
+   "col": [
+    "excess",
+    "excess baggage"
+   ]
+  },
+  {
+   "id": "ai071",
+   "topic": "Sân bay & hàng không",
+   "w": "allowance",
+   "ipa": "/əˈlaʊəns/",
+   "pos": "n",
+   "vi": "mức cho phép",
+   "ex": "The baggage allowance is two bags.",
+   "exVi": "Mức hành lý cho phép là hai túi.",
+   "col": [
+    "an allowance",
+    "a baggage allowance"
+   ]
+  },
+  {
+   "id": "ai072",
+   "topic": "Sân bay & hàng không",
+   "w": "scanner",
+   "ipa": "/ˈskænə/",
+   "pos": "n",
+   "vi": "máy quét an ninh",
+   "ex": "The scanner checks every bag.",
+   "exVi": "Máy quét kiểm tra mọi túi.",
+   "col": [
+    "a scanner",
+    "a security scanner"
+   ]
+  },
+  {
+   "id": "ai073",
+   "topic": "Sân bay & hàng không",
+   "w": "screening",
+   "ipa": "/ˈskriːnɪŋ/",
+   "pos": "n",
+   "vi": "kiểm tra an ninh",
+   "ex": "Security screening takes a few minutes.",
+   "exVi": "Kiểm tra an ninh mất vài phút.",
+   "col": [
+    "screening",
+    "security screening"
+   ]
+  },
+  {
+   "id": "ai074",
+   "topic": "Sân bay & hàng không",
+   "w": "boarding pass",
+   "ipa": "/ˈbɔːdɪŋ pɑːs/",
+   "pos": "n",
+   "vi": "thẻ lên máy bay",
+   "ex": "Show your boarding pass at the gate.",
+   "exVi": "Xuất trình thẻ lên máy bay tại cửa.",
+   "col": [
+    "a boarding pass",
+    "a mobile boarding pass"
+   ]
+  },
+  {
+   "id": "ai075",
+   "topic": "Sân bay & hàng không",
+   "w": "window seat",
+   "ipa": "/ˈwɪndəʊ siːt/",
+   "pos": "n",
+   "vi": "ghế cạnh cửa sổ",
+   "ex": "He chose a window seat for the view.",
+   "exVi": "Ông chọn một ghế cạnh cửa sổ để ngắm cảnh.",
+   "col": [
+    "a window seat",
+    "a window seat request"
+   ]
+  },
+  {
+   "id": "ai076",
+   "topic": "Sân bay & hàng không",
+   "w": "economy",
+   "ipa": "/ɪˈkɒnəmi/",
+   "pos": "n",
+   "vi": "hạng phổ thông",
+   "ex": "Most passengers travel in economy.",
+   "exVi": "Hầu hết hành khách đi hạng phổ thông.",
+   "col": [
+    "economy",
+    "economy class"
+   ]
+  },
+  {
+   "id": "ai077",
+   "topic": "Sân bay & hàng không",
+   "w": "business class",
+   "ipa": "/ˈbɪznəs klɑːs/",
+   "pos": "n",
+   "vi": "hạng thương gia",
+   "ex": "Business class offers more legroom.",
+   "exVi": "Hạng thương gia có nhiều chỗ để chân hơn.",
+   "col": [
+    "business class",
+    "a business class seat"
+   ]
+  },
+  {
+   "id": "ai078",
+   "topic": "Sân bay & hàng không",
+   "w": "first class",
+   "ipa": "/fɜːst klɑːs/",
+   "pos": "n",
+   "vi": "hạng nhất",
+   "ex": "First class includes a private cabin.",
+   "exVi": "Hạng nhất bao gồm một khoang riêng.",
+   "col": [
+    "first class",
+    "a first class ticket"
+   ]
+  },
+  {
+   "id": "ai079",
+   "topic": "Sân bay & hàng không",
+   "w": "frequent flyer",
+   "ipa": "/ˈfriːkwənt ˈflaɪə/",
+   "pos": "n",
+   "vi": "khách bay thường xuyên",
+   "ex": "A frequent flyer earns points each trip.",
+   "exVi": "Một khách bay thường xuyên kiếm điểm mỗi chuyến.",
+   "col": [
+    "a frequent flyer",
+    "a frequent flyer program"
+   ]
+  },
+  {
+   "id": "ai080",
+   "topic": "Sân bay & hàng không",
+   "w": "onboard",
+   "ipa": "/ˌɒnˈbɔːd/",
+   "pos": "adj",
+   "vi": "trên máy bay",
+   "ex": "Onboard meals are served after takeoff.",
+   "exVi": "Các bữa ăn trên máy bay được phục vụ sau khi cất cánh.",
+   "col": [
+    "onboard",
+    "onboard service"
+   ]
+  },
+  {
+   "id": "ai081",
+   "topic": "Sân bay & hàng không",
+   "w": "domestic",
+   "ipa": "/dəˈmestɪk/",
+   "pos": "adj",
+   "vi": "nội địa",
+   "ex": "A domestic flight needs no passport.",
+   "exVi": "Một chuyến bay nội địa không cần hộ chiếu.",
+   "col": [
+    "domestic",
+    "a domestic flight"
+   ]
+  },
+  {
+   "id": "ai082",
+   "topic": "Sân bay & hàng không",
+   "w": "international",
+   "ipa": "/ˌɪntəˈnæʃnəl/",
+   "pos": "adj",
+   "vi": "quốc tế",
+   "ex": "International flights leave from terminal one.",
+   "exVi": "Các chuyến bay quốc tế khởi hành từ nhà ga một.",
+   "col": [
+    "international",
+    "an international flight"
+   ]
+  },
+  {
+   "id": "ai083",
+   "topic": "Sân bay & hàng không",
+   "w": "scheduled",
+   "ipa": "/ˈʃedjuːld/",
+   "pos": "adj",
+   "vi": "theo lịch",
+   "ex": "The scheduled flight departs at noon.",
+   "exVi": "Chuyến bay theo lịch khởi hành lúc trưa.",
+   "col": [
+    "scheduled",
+    "a scheduled flight"
+   ]
+  }
+ ]
+}

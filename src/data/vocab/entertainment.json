@@ -1,0 +1,1139 @@
+{
+ "topic": "Thể thao, giải trí & đời sống",
+ "words": [
+  {
+   "id": "et001",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "venue",
+   "ipa": "/ˈvenjuː/",
+   "pos": "n",
+   "vi": "địa điểm",
+   "ex": "The concert venue holds ten thousand people.",
+   "exVi": "Địa điểm hoà nhạc chứa mười nghìn người.",
+   "col": [
+    "a venue",
+    "a concert venue"
+   ]
+  },
+  {
+   "id": "et002",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "stadium",
+   "ipa": "/ˈsteɪdiəm/",
+   "pos": "n",
+   "vi": "sân vận động",
+   "ex": "The stadium was full for the final.",
+   "exVi": "Sân vận động chật kín cho trận chung kết.",
+   "col": [
+    "a stadium",
+    "a football stadium"
+   ]
+  },
+  {
+   "id": "et003",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "arena",
+   "ipa": "/əˈriːnə/",
+   "pos": "n",
+   "vi": "nhà thi đấu",
+   "ex": "The arena hosts concerts and games.",
+   "exVi": "Nhà thi đấu tổ chức hoà nhạc và các trận đấu.",
+   "col": [
+    "an arena",
+    "an indoor arena"
+   ]
+  },
+  {
+   "id": "et004",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "audience",
+   "ipa": "/ˈɔːdiəns/",
+   "pos": "n",
+   "vi": "khán giả",
+   "ex": "The audience clapped after the show.",
+   "exVi": "Khán giả vỗ tay sau buổi diễn.",
+   "col": [
+    "an audience",
+    "a large audience"
+   ]
+  },
+  {
+   "id": "et005",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "spectator",
+   "ipa": "/spekˈteɪtə/",
+   "pos": "n",
+   "vi": "khán giả xem thi đấu",
+   "ex": "Spectators filled the seats early.",
+   "exVi": "Khán giả lấp đầy các chỗ ngồi sớm.",
+   "col": [
+    "a spectator",
+    "a spectator sport"
+   ]
+  },
+  {
+   "id": "et006",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "performance",
+   "ipa": "/pəˈfɔːməns/",
+   "pos": "n",
+   "vi": "buổi biểu diễn",
+   "ex": "The evening performance sold out.",
+   "exVi": "Buổi biểu diễn buổi tối bán hết vé.",
+   "col": [
+    "a performance",
+    "a live performance"
+   ]
+  },
+  {
+   "id": "et007",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "rehearsal",
+   "ipa": "/rɪˈhɜːsl/",
+   "pos": "n",
+   "vi": "buổi tập",
+   "ex": "A final rehearsal was held on Friday.",
+   "exVi": "Một buổi tập cuối được tổ chức vào thứ Sáu.",
+   "col": [
+    "a rehearsal",
+    "a dress rehearsal"
+   ]
+  },
+  {
+   "id": "et008",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "exhibition",
+   "ipa": "/ˌeksɪˈbɪʃn/",
+   "pos": "n",
+   "vi": "triển lãm",
+   "ex": "The art exhibition drew a big crowd.",
+   "exVi": "Triển lãm nghệ thuật thu hút đám đông lớn.",
+   "col": [
+    "an exhibition",
+    "an art exhibition"
+   ]
+  },
+  {
+   "id": "et009",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "tournament",
+   "ipa": "/ˈtʊənəmənt/",
+   "pos": "n",
+   "vi": "giải đấu",
+   "ex": "The tennis tournament runs for a week.",
+   "exVi": "Giải quần vợt diễn ra trong một tuần.",
+   "col": [
+    "a tournament",
+    "a golf tournament"
+   ]
+  },
+  {
+   "id": "et010",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "championship",
+   "ipa": "/ˈtʃæmpiənʃɪp/",
+   "pos": "n",
+   "vi": "giải vô địch",
+   "ex": "The team won the national championship.",
+   "exVi": "Đội giành giải vô địch quốc gia.",
+   "col": [
+    "a championship",
+    "a world championship"
+   ]
+  },
+  {
+   "id": "et011",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "competition",
+   "ipa": "/ˌkɒmpəˈtɪʃn/",
+   "pos": "n",
+   "vi": "cuộc thi",
+   "ex": "The baking competition drew many entries.",
+   "exVi": "Cuộc thi nướng bánh thu hút nhiều bài dự thi.",
+   "col": [
+    "a competition",
+    "a fierce competition"
+   ]
+  },
+  {
+   "id": "et012",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "contestant",
+   "ipa": "/kənˈtestənt/",
+   "pos": "n",
+   "vi": "thí sinh",
+   "ex": "Each contestant had five minutes to perform.",
+   "exVi": "Mỗi thí sinh có năm phút để trình diễn.",
+   "col": [
+    "a contestant",
+    "a young contestant"
+   ]
+  },
+  {
+   "id": "et013",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "referee",
+   "ipa": "/ˌrefəˈriː/",
+   "pos": "n",
+   "vi": "trọng tài",
+   "ex": "The referee stopped the match early.",
+   "exVi": "Trọng tài dừng trận đấu sớm.",
+   "col": [
+    "a referee",
+    "a match referee"
+   ]
+  },
+  {
+   "id": "et014",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "coach",
+   "ipa": "/kəʊtʃ/",
+   "pos": "n",
+   "vi": "huấn luyện viên",
+   "ex": "The coach praised the team's effort.",
+   "exVi": "Huấn luyện viên khen nỗ lực của đội.",
+   "col": [
+    "a coach",
+    "a head coach"
+   ]
+  },
+  {
+   "id": "et015",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "athlete",
+   "ipa": "/ˈæθliːt/",
+   "pos": "n",
+   "vi": "vận động viên",
+   "ex": "The athlete trains every morning.",
+   "exVi": "Vận động viên tập luyện mỗi sáng.",
+   "col": [
+    "an athlete",
+    "a professional athlete"
+   ]
+  },
+  {
+   "id": "et016",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "fixture",
+   "ipa": "/ˈfɪkstʃə/",
+   "pos": "n",
+   "vi": "trận đấu đã xếp lịch",
+   "ex": "The next fixture is on Saturday.",
+   "exVi": "Trận đấu tiếp theo vào thứ Bảy.",
+   "col": [
+    "a fixture",
+    "a home fixture"
+   ]
+  },
+  {
+   "id": "et017",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "admission",
+   "ipa": "/ədˈmɪʃn/",
+   "pos": "n",
+   "vi": "vé vào cửa",
+   "ex": "Admission to the museum is free.",
+   "exVi": "Vé vào bảo tàng miễn phí.",
+   "col": [
+    "admission",
+    "free admission"
+   ]
+  },
+  {
+   "id": "et018",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "ticket",
+   "ipa": "/ˈtɪkɪt/",
+   "pos": "n",
+   "vi": "vé",
+   "ex": "A ticket for the show costs little.",
+   "exVi": "Một vé cho buổi diễn rẻ.",
+   "col": [
+    "a ticket",
+    "a concert ticket"
+   ]
+  },
+  {
+   "id": "et019",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "booking",
+   "ipa": "/ˈbʊkɪŋ/",
+   "pos": "n",
+   "vi": "việc đặt chỗ",
+   "ex": "The booking was made online.",
+   "exVi": "Việc đặt chỗ được thực hiện trực tuyến.",
+   "col": [
+    "a booking",
+    "an online booking"
+   ]
+  },
+  {
+   "id": "et020",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "reservation",
+   "ipa": "/ˌrezəˈveɪʃn/",
+   "pos": "n",
+   "vi": "đặt trước",
+   "ex": "A reservation is needed for the event.",
+   "exVi": "Cần đặt trước cho sự kiện.",
+   "col": [
+    "a reservation",
+    "make a reservation"
+   ]
+  },
+  {
+   "id": "et021",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "matinee",
+   "ipa": "/ˈmætɪneɪ/",
+   "pos": "n",
+   "vi": "suất chiếu ban ngày",
+   "ex": "The matinee starts at two o'clock.",
+   "exVi": "Suất chiếu ban ngày bắt đầu lúc hai giờ.",
+   "col": [
+    "a matinee",
+    "a matinee show"
+   ]
+  },
+  {
+   "id": "et022",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "festival",
+   "ipa": "/ˈfestɪvl/",
+   "pos": "n",
+   "vi": "lễ hội",
+   "ex": "The music festival lasts three days.",
+   "exVi": "Lễ hội âm nhạc kéo dài ba ngày.",
+   "col": [
+    "a festival",
+    "a film festival"
+   ]
+  },
+  {
+   "id": "et023",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "premiere",
+   "ipa": "/ˈpremieə/",
+   "pos": "n",
+   "vi": "buổi công chiếu đầu tiên",
+   "ex": "The film premiere drew a big crowd.",
+   "exVi": "Buổi công chiếu phim thu hút đám đông lớn.",
+   "col": [
+    "a premiere",
+    "a film premiere"
+   ]
+  },
+  {
+   "id": "et024",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "gallery",
+   "ipa": "/ˈɡæləri/",
+   "pos": "n",
+   "vi": "phòng trưng bày",
+   "ex": "The gallery shows work by local artists.",
+   "exVi": "Phòng trưng bày giới thiệu tác phẩm của nghệ sĩ địa phương.",
+   "col": [
+    "a gallery",
+    "an art gallery"
+   ]
+  },
+  {
+   "id": "et025",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "recreation",
+   "ipa": "/ˌrekriˈeɪʃn/",
+   "pos": "n",
+   "vi": "giải trí",
+   "ex": "The park offers space for recreation.",
+   "exVi": "Công viên cung cấp không gian giải trí.",
+   "col": [
+    "recreation",
+    "a recreation area"
+   ]
+  },
+  {
+   "id": "et026",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "leisure",
+   "ipa": "/ˈleʒə/",
+   "pos": "n",
+   "vi": "thời gian rảnh",
+   "ex": "The center offers many leisure activities.",
+   "exVi": "Trung tâm cung cấp nhiều hoạt động lúc rảnh.",
+   "col": [
+    "leisure",
+    "leisure time"
+   ]
+  },
+  {
+   "id": "et027",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "hobby",
+   "ipa": "/ˈhɒbi/",
+   "pos": "n",
+   "vi": "sở thích",
+   "ex": "Photography is a popular hobby.",
+   "exVi": "Chụp ảnh là một sở thích phổ biến.",
+   "col": [
+    "a hobby",
+    "a favorite hobby"
+   ]
+  },
+  {
+   "id": "et028",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "membership",
+   "ipa": "/ˈmembəʃɪp/",
+   "pos": "n",
+   "vi": "tư cách thành viên",
+   "ex": "A gym membership costs less by the year.",
+   "exVi": "Tư cách thành viên phòng gym rẻ hơn khi tính theo năm.",
+   "col": [
+    "membership",
+    "a gym membership"
+   ]
+  },
+  {
+   "id": "et029",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "facility",
+   "ipa": "/fəˈsɪləti/",
+   "pos": "n",
+   "vi": "cơ sở vật chất",
+   "ex": "The sports facility has a new pool.",
+   "exVi": "Cơ sở thể thao có một bể bơi mới.",
+   "col": [
+    "a facility",
+    "a sports facility"
+   ]
+  },
+  {
+   "id": "et030",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "amenity",
+   "ipa": "/əˈmiːnəti/",
+   "pos": "n",
+   "vi": "tiện ích",
+   "ex": "The resort offers many amenities.",
+   "exVi": "Khu nghỉ dưỡng cung cấp nhiều tiện ích.",
+   "col": [
+    "an amenity",
+    "a modern amenity"
+   ]
+  },
+  {
+   "id": "et031",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "attraction",
+   "ipa": "/əˈtrækʃn/",
+   "pos": "n",
+   "vi": "điểm thu hút",
+   "ex": "The zoo is a popular attraction.",
+   "exVi": "Sở thú là một điểm thu hút phổ biến.",
+   "col": [
+    "an attraction",
+    "a tourist attraction"
+   ]
+  },
+  {
+   "id": "et032",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "excursion",
+   "ipa": "/ɪkˈskɜːʃn/",
+   "pos": "n",
+   "vi": "chuyến tham quan",
+   "ex": "The tour includes a day excursion.",
+   "exVi": "Chuyến du lịch bao gồm một chuyến tham quan trong ngày.",
+   "col": [
+    "an excursion",
+    "a day excursion"
+   ]
+  },
+  {
+   "id": "et033",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "scenic",
+   "ipa": "/ˈsiːnɪk/",
+   "pos": "adj",
+   "vi": "có phong cảnh đẹp",
+   "ex": "The scenic route passes the coast.",
+   "exVi": "Tuyến có phong cảnh đẹp đi qua bờ biển.",
+   "col": [
+    "scenic",
+    "a scenic route"
+   ]
+  },
+  {
+   "id": "et034",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "outdoor",
+   "ipa": "/ˈaʊtdɔː/",
+   "pos": "adj",
+   "vi": "ngoài trời",
+   "ex": "The venue hosts outdoor concerts.",
+   "exVi": "Địa điểm tổ chức các buổi hoà nhạc ngoài trời.",
+   "col": [
+    "outdoor",
+    "an outdoor event"
+   ]
+  },
+  {
+   "id": "et035",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "indoor",
+   "ipa": "/ˈɪndɔː/",
+   "pos": "adj",
+   "vi": "trong nhà",
+   "ex": "The center has an indoor court.",
+   "exVi": "Trung tâm có một sân trong nhà.",
+   "col": [
+    "indoor",
+    "an indoor pool"
+   ]
+  },
+  {
+   "id": "et036",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "sold-out",
+   "ipa": "/ˌsəʊld ˈaʊt/",
+   "pos": "adj",
+   "vi": "đã bán hết vé",
+   "ex": "The sold-out show pleased the organizers.",
+   "exVi": "Buổi diễn đã bán hết vé làm hài lòng ban tổ chức.",
+   "col": [
+    "sold-out",
+    "a sold-out show"
+   ]
+  },
+  {
+   "id": "et037",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "lively",
+   "ipa": "/ˈlaɪvli/",
+   "pos": "adj",
+   "vi": "sôi động",
+   "ex": "The festival had a lively atmosphere.",
+   "exVi": "Lễ hội có một bầu không khí sôi động.",
+   "col": [
+    "lively",
+    "a lively crowd"
+   ]
+  },
+  {
+   "id": "et038",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "entertaining",
+   "ipa": "/ˌentəˈteɪnɪŋ/",
+   "pos": "adj",
+   "vi": "giải trí, thú vị",
+   "ex": "The show was fun and entertaining.",
+   "exVi": "Buổi diễn vui và thú vị.",
+   "col": [
+    "entertaining",
+    "an entertaining show"
+   ]
+  },
+  {
+   "id": "et039",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "enthusiast",
+   "ipa": "/ɪnˈθjuːziæst/",
+   "pos": "n",
+   "vi": "người đam mê",
+   "ex": "The event drew many sports enthusiasts.",
+   "exVi": "Sự kiện thu hút nhiều người đam mê thể thao.",
+   "col": [
+    "an enthusiast",
+    "a sports enthusiast"
+   ]
+  },
+  {
+   "id": "et040",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "participant",
+   "ipa": "/pɑːˈtɪsɪpənt/",
+   "pos": "n",
+   "vi": "người tham gia",
+   "ex": "Each participant received a medal.",
+   "exVi": "Mỗi người tham gia nhận một huy chương.",
+   "col": [
+    "a participant",
+    "an event participant"
+   ]
+  },
+  {
+   "id": "et041",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "broadcast",
+   "ipa": "/ˈbrɔːdkɑːst/",
+   "pos": "n",
+   "vi": "buổi phát sóng",
+   "ex": "The broadcast reached millions of viewers.",
+   "exVi": "Buổi phát sóng đến với hàng triệu người xem.",
+   "col": [
+    "a broadcast",
+    "a live broadcast"
+   ]
+  },
+  {
+   "id": "et042",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "coverage",
+   "ipa": "/ˈkʌvərɪdʒ/",
+   "pos": "n",
+   "vi": "việc đưa tin",
+   "ex": "The match got full television coverage.",
+   "exVi": "Trận đấu được đưa tin trọn vẹn trên truyền hình.",
+   "col": [
+    "coverage",
+    "live coverage"
+   ]
+  },
+  {
+   "id": "et043",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "highlight",
+   "ipa": "/ˈhaɪlaɪt/",
+   "pos": "n",
+   "vi": "khoảnh khắc nổi bật",
+   "ex": "The highlights were shown after the game.",
+   "exVi": "Các khoảnh khắc nổi bật được chiếu sau trận đấu.",
+   "col": [
+    "a highlight",
+    "match highlights"
+   ]
+  },
+  {
+   "id": "et044",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "sponsor",
+   "ipa": "/ˈspɒnsə/",
+   "pos": "n",
+   "vi": "nhà tài trợ",
+   "ex": "A sports brand sponsored the event.",
+   "exVi": "Một thương hiệu thể thao tài trợ sự kiện.",
+   "col": [
+    "a sponsor",
+    "a main sponsor"
+   ]
+  },
+  {
+   "id": "et045",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "sponsorship",
+   "ipa": "/ˈspɒnsəʃɪp/",
+   "pos": "n",
+   "vi": "sự tài trợ",
+   "ex": "Sponsorship covered most of the cost.",
+   "exVi": "Sự tài trợ chi trả phần lớn chi phí.",
+   "col": [
+    "sponsorship",
+    "seek sponsorship"
+   ]
+  },
+  {
+   "id": "et046",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "merchandise",
+   "ipa": "/ˈmɜːtʃəndaɪz/",
+   "pos": "n",
+   "vi": "hàng lưu niệm",
+   "ex": "Team merchandise sold well at the stadium.",
+   "exVi": "Hàng lưu niệm của đội bán chạy tại sân.",
+   "col": [
+    "merchandise",
+    "official merchandise"
+   ]
+  },
+  {
+   "id": "et047",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "season",
+   "ipa": "/ˈsiːzn/",
+   "pos": "n",
+   "vi": "mùa giải",
+   "ex": "The team started the season strongly.",
+   "exVi": "Đội bắt đầu mùa giải mạnh mẽ.",
+   "col": [
+    "a season",
+    "the new season"
+   ]
+  },
+  {
+   "id": "et048",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "league",
+   "ipa": "/liːɡ/",
+   "pos": "n",
+   "vi": "giải hạng",
+   "ex": "The club plays in the top league.",
+   "exVi": "Câu lạc bộ chơi ở giải hạng cao nhất.",
+   "col": [
+    "a league",
+    "a football league"
+   ]
+  },
+  {
+   "id": "et049",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "squad",
+   "ipa": "/skwɒd/",
+   "pos": "n",
+   "vi": "đội hình",
+   "ex": "The coach named the squad for the game.",
+   "exVi": "Huấn luyện viên công bố đội hình cho trận đấu.",
+   "col": [
+    "a squad",
+    "the full squad"
+   ]
+  },
+  {
+   "id": "et050",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "lineup",
+   "ipa": "/ˈlaɪnʌp/",
+   "pos": "n",
+   "vi": "danh sách ra sân",
+   "ex": "The festival lineup was announced early.",
+   "exVi": "Danh sách biểu diễn của lễ hội được công bố sớm.",
+   "col": [
+    "a lineup",
+    "the full lineup"
+   ]
+  },
+  {
+   "id": "et051",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "fixture list",
+   "ipa": "/ˈfɪkstʃə lɪst/",
+   "pos": "n",
+   "vi": "lịch thi đấu",
+   "ex": "The fixture list is posted online.",
+   "exVi": "Lịch thi đấu được đăng trực tuyến.",
+   "col": [
+    "a fixture list",
+    "the full fixture list"
+   ]
+  },
+  {
+   "id": "et052",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "venue capacity",
+   "ipa": "/ˈvenjuː kəˈpæsəti/",
+   "pos": "n",
+   "vi": "sức chứa địa điểm",
+   "ex": "The venue capacity is around five thousand.",
+   "exVi": "Sức chứa địa điểm khoảng năm nghìn.",
+   "col": [
+    "venue capacity",
+    "full venue capacity"
+   ]
+  },
+  {
+   "id": "et053",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "turnout",
+   "ipa": "/ˈtɜːnaʊt/",
+   "pos": "n",
+   "vi": "lượng người dự",
+   "ex": "The turnout beat last year's figure.",
+   "exVi": "Lượng người dự vượt con số năm ngoái.",
+   "col": [
+    "turnout",
+    "a large turnout"
+   ]
+  },
+  {
+   "id": "et054",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "encore",
+   "ipa": "/ˈɒŋkɔː/",
+   "pos": "n",
+   "vi": "màn diễn thêm",
+   "ex": "The band played an encore at the end.",
+   "exVi": "Ban nhạc chơi một màn diễn thêm ở cuối.",
+   "col": [
+    "an encore",
+    "play an encore"
+   ]
+  },
+  {
+   "id": "et055",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "intermission",
+   "ipa": "/ˌɪntəˈmɪʃn/",
+   "pos": "n",
+   "vi": "giờ giải lao",
+   "ex": "Drinks were served during the intermission.",
+   "exVi": "Đồ uống được phục vụ trong giờ giải lao.",
+   "col": [
+    "an intermission",
+    "a short intermission"
+   ]
+  },
+  {
+   "id": "et056",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "usher",
+   "ipa": "/ˈʌʃə/",
+   "pos": "n",
+   "vi": "nhân viên hướng dẫn chỗ",
+   "ex": "An usher showed us to our seats.",
+   "exVi": "Một nhân viên hướng dẫn chúng tôi tới chỗ ngồi.",
+   "col": [
+    "an usher",
+    "a theater usher"
+   ]
+  },
+  {
+   "id": "et057",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "backstage",
+   "ipa": "/ˌbækˈsteɪdʒ/",
+   "pos": "adv",
+   "vi": "hậu trường",
+   "ex": "The crew worked backstage before the show.",
+   "exVi": "Đội làm việc ở hậu trường trước buổi diễn.",
+   "col": [
+    "backstage",
+    "go backstage"
+   ]
+  },
+  {
+   "id": "et058",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "stage",
+   "ipa": "/steɪdʒ/",
+   "pos": "n",
+   "vi": "sân khấu",
+   "ex": "The band set up on the main stage.",
+   "exVi": "Ban nhạc lắp đặt trên sân khấu chính.",
+   "col": [
+    "a stage",
+    "the main stage"
+   ]
+  },
+  {
+   "id": "et059",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "scoreboard",
+   "ipa": "/ˈskɔːbɔːd/",
+   "pos": "n",
+   "vi": "bảng điểm",
+   "ex": "The scoreboard showed a close game.",
+   "exVi": "Bảng điểm cho thấy một trận đấu sát nút.",
+   "col": [
+    "a scoreboard",
+    "the main scoreboard"
+   ]
+  },
+  {
+   "id": "et060",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "trophy",
+   "ipa": "/ˈtrəʊfi/",
+   "pos": "n",
+   "vi": "cúp",
+   "ex": "The winning team lifted the trophy.",
+   "exVi": "Đội thắng nâng cao chiếc cúp.",
+   "col": [
+    "a trophy",
+    "win a trophy"
+   ]
+  },
+  {
+   "id": "et061",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "medal",
+   "ipa": "/ˈmedl/",
+   "pos": "n",
+   "vi": "huy chương",
+   "ex": "Each finisher received a medal.",
+   "exVi": "Mỗi người về đích nhận một huy chương.",
+   "col": [
+    "a medal",
+    "a gold medal"
+   ]
+  },
+  {
+   "id": "et062",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "warm-up",
+   "ipa": "/ˈwɔːm ʌp/",
+   "pos": "n",
+   "vi": "khởi động",
+   "ex": "A short warm-up preceded the match.",
+   "exVi": "Một buổi khởi động ngắn đứng trước trận đấu.",
+   "col": [
+    "a warm-up",
+    "a warm-up session"
+   ]
+  },
+  {
+   "id": "et063",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "training",
+   "ipa": "/ˈtreɪnɪŋ/",
+   "pos": "n",
+   "vi": "tập luyện",
+   "ex": "The team's training runs every day.",
+   "exVi": "Việc tập luyện của đội diễn ra mỗi ngày.",
+   "col": [
+    "training",
+    "daily training"
+   ]
+  },
+  {
+   "id": "et064",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "fitness",
+   "ipa": "/ˈfɪtnəs/",
+   "pos": "n",
+   "vi": "thể lực",
+   "ex": "Good fitness helped the team win.",
+   "exVi": "Thể lực tốt giúp đội thắng.",
+   "col": [
+    "fitness",
+    "physical fitness"
+   ]
+  },
+  {
+   "id": "et065",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "endurance",
+   "ipa": "/ɪnˈdjʊərəns/",
+   "pos": "n",
+   "vi": "sức bền",
+   "ex": "The race tested the runners' endurance.",
+   "exVi": "Cuộc đua thử sức bền của các vận động viên.",
+   "col": [
+    "endurance",
+    "great endurance"
+   ]
+  },
+  {
+   "id": "et066",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "opponent",
+   "ipa": "/əˈpəʊnənt/",
+   "pos": "n",
+   "vi": "đối thủ",
+   "ex": "The team faced a strong opponent.",
+   "exVi": "Đội đối mặt một đối thủ mạnh.",
+   "col": [
+    "an opponent",
+    "a tough opponent"
+   ]
+  },
+  {
+   "id": "et067",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "victory",
+   "ipa": "/ˈvɪktəri/",
+   "pos": "n",
+   "vi": "chiến thắng",
+   "ex": "The victory lifted the team's spirits.",
+   "exVi": "Chiến thắng nâng tinh thần của đội.",
+   "col": [
+    "a victory",
+    "a clear victory"
+   ]
+  },
+  {
+   "id": "et068",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "defeat",
+   "ipa": "/dɪˈfiːt/",
+   "pos": "n",
+   "vi": "thất bại",
+   "ex": "The defeat ended their winning run.",
+   "exVi": "Thất bại chấm dứt chuỗi thắng của họ.",
+   "col": [
+    "a defeat",
+    "a narrow defeat"
+   ]
+  },
+  {
+   "id": "et069",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "draw",
+   "ipa": "/drɔː/",
+   "pos": "n",
+   "vi": "trận hoà",
+   "ex": "The match ended in a draw.",
+   "exVi": "Trận đấu kết thúc với tỷ số hoà.",
+   "col": [
+    "a draw",
+    "a goalless draw"
+   ]
+  },
+  {
+   "id": "et070",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "qualifier",
+   "ipa": "/ˈkwɒlɪfaɪə/",
+   "pos": "n",
+   "vi": "vòng loại",
+   "ex": "The team won the qualifier easily.",
+   "exVi": "Đội thắng vòng loại dễ dàng.",
+   "col": [
+    "a qualifier",
+    "a qualifier match"
+   ]
+  },
+  {
+   "id": "et071",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "finalist",
+   "ipa": "/ˈfaɪnəlɪst/",
+   "pos": "n",
+   "vi": "người vào chung kết",
+   "ex": "Each finalist gave a short talk.",
+   "exVi": "Mỗi người vào chung kết có một bài nói ngắn.",
+   "col": [
+    "a finalist",
+    "a young finalist"
+   ]
+  },
+  {
+   "id": "et072",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "commentator",
+   "ipa": "/ˈkɒmənteɪtə/",
+   "pos": "n",
+   "vi": "bình luận viên",
+   "ex": "The commentator described the action live.",
+   "exVi": "Bình luận viên tường thuật trực tiếp diễn biến.",
+   "col": [
+    "a commentator",
+    "a sports commentator"
+   ]
+  },
+  {
+   "id": "et073",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "enthusiastic",
+   "ipa": "/ɪnˌθjuːziˈæstɪk/",
+   "pos": "adj",
+   "vi": "đầy hào hứng",
+   "ex": "The crowd was loud and enthusiastic.",
+   "exVi": "Đám đông ồn ào và đầy hào hứng.",
+   "col": [
+    "enthusiastic",
+    "an enthusiastic crowd"
+   ]
+  },
+  {
+   "id": "et074",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "competitive",
+   "ipa": "/kəmˈpetətɪv/",
+   "pos": "adj",
+   "vi": "có tính cạnh tranh",
+   "ex": "The league is highly competitive.",
+   "exVi": "Giải đấu có tính cạnh tranh cao.",
+   "col": [
+    "competitive",
+    "a competitive team"
+   ]
+  },
+  {
+   "id": "et075",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "recreational",
+   "ipa": "/ˌrekriˈeɪʃənl/",
+   "pos": "adj",
+   "vi": "mang tính giải trí",
+   "ex": "The club offers recreational classes.",
+   "exVi": "Câu lạc bộ cung cấp các lớp mang tính giải trí.",
+   "col": [
+    "recreational",
+    "a recreational activity"
+   ]
+  },
+  {
+   "id": "et076",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "sporting",
+   "ipa": "/ˈspɔːtɪŋ/",
+   "pos": "adj",
+   "vi": "thuộc thể thao",
+   "ex": "The city hosts many sporting events.",
+   "exVi": "Thành phố tổ chức nhiều sự kiện thể thao.",
+   "col": [
+    "sporting",
+    "a sporting event"
+   ]
+  },
+  {
+   "id": "et077",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "memorable",
+   "ipa": "/ˈmemərəbl/",
+   "pos": "adj",
+   "vi": "đáng nhớ",
+   "ex": "The final was a memorable match.",
+   "exVi": "Trận chung kết là một trận đấu đáng nhớ.",
+   "col": [
+    "memorable",
+    "a memorable event"
+   ]
+  },
+  {
+   "id": "et078",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "thrilling",
+   "ipa": "/ˈθrɪlɪŋ/",
+   "pos": "adj",
+   "vi": "hồi hộp",
+   "ex": "The race had a thrilling finish.",
+   "exVi": "Cuộc đua có một cái kết hồi hộp.",
+   "col": [
+    "thrilling",
+    "a thrilling match"
+   ]
+  },
+  {
+   "id": "et079",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "spectacular",
+   "ipa": "/spekˈtækjələ/",
+   "pos": "adj",
+   "vi": "ngoạn mục",
+   "ex": "The show ended with a spectacular finale.",
+   "exVi": "Buổi diễn kết thúc với một màn cuối ngoạn mục.",
+   "col": [
+    "spectacular",
+    "a spectacular show"
+   ]
+  },
+  {
+   "id": "et080",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "festive",
+   "ipa": "/ˈfestɪv/",
+   "pos": "adj",
+   "vi": "mang không khí lễ hội",
+   "ex": "The town had a festive mood.",
+   "exVi": "Thị trấn có một tâm trạng mang không khí lễ hội.",
+   "col": [
+    "festive",
+    "a festive atmosphere"
+   ]
+  },
+  {
+   "id": "et081",
+   "topic": "Thể thao, giải trí & đời sống",
+   "w": "renowned",
+   "ipa": "/rɪˈnaʊnd/",
+   "pos": "adj",
+   "vi": "nổi tiếng",
+   "ex": "The festival is renowned across the region.",
+   "exVi": "Lễ hội nổi tiếng khắp khu vực.",
+   "col": [
+    "renowned",
+    "a renowned event"
+   ]
+  }
+ ]
+}

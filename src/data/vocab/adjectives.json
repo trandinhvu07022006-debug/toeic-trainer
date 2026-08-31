@@ -1,0 +1,1181 @@
+{
+ "topic": "Tính từ & trạng từ học thuật thường gặp",
+ "words": [
+  {
+   "id": "aj001",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "comprehensive",
+   "ipa": "/ˌkɒmprɪˈhensɪv/",
+   "pos": "adj",
+   "vi": "toàn diện",
+   "ex": "The report gives a comprehensive overview.",
+   "exVi": "Báo cáo cung cấp một cái nhìn toàn diện.",
+   "col": [
+    "a comprehensive review",
+    "comprehensive coverage"
+   ]
+  },
+  {
+   "id": "aj002",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "substantial",
+   "ipa": "/səbˈstænʃl/",
+   "pos": "adj",
+   "vi": "đáng kể",
+   "ex": "The firm made a substantial profit this year.",
+   "exVi": "Công ty đạt lợi nhuận đáng kể năm nay.",
+   "col": [
+    "a substantial amount",
+    "substantial growth"
+   ]
+  },
+  {
+   "id": "aj003",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "significant",
+   "ipa": "/sɪɡˈnɪfɪkənt/",
+   "pos": "adj",
+   "vi": "quan trọng, đáng kể",
+   "ex": "There was a significant rise in demand.",
+   "exVi": "Có một sự tăng đáng kể trong nhu cầu.",
+   "col": [
+    "a significant change",
+    "significant progress"
+   ]
+  },
+  {
+   "id": "aj004",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "considerable",
+   "ipa": "/kənˈsɪdərəbl/",
+   "pos": "adj",
+   "vi": "đáng kể",
+   "ex": "The project took considerable effort.",
+   "exVi": "Dự án đòi hỏi công sức đáng kể.",
+   "col": [
+    "a considerable amount",
+    "considerable interest"
+   ]
+  },
+  {
+   "id": "aj005",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "adequate",
+   "ipa": "/ˈædɪkwət/",
+   "pos": "adj",
+   "vi": "đủ, thoả đáng",
+   "ex": "The budget is adequate for the first phase.",
+   "exVi": "Ngân sách đủ cho giai đoạn đầu.",
+   "col": [
+    "adequate funding",
+    "adequate for"
+   ]
+  },
+  {
+   "id": "aj006",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "sufficient",
+   "ipa": "/səˈfɪʃnt/",
+   "pos": "adj",
+   "vi": "đủ",
+   "ex": "We have sufficient stock for the week.",
+   "exVi": "Chúng ta có đủ hàng cho cả tuần.",
+   "col": [
+    "sufficient time",
+    "sufficient funds"
+   ]
+  },
+  {
+   "id": "aj007",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "feasible",
+   "ipa": "/ˈfiːzəbl/",
+   "pos": "adj",
+   "vi": "khả thi",
+   "ex": "The plan is feasible within the budget.",
+   "exVi": "Kế hoạch khả thi trong phạm vi ngân sách.",
+   "col": [
+    "a feasible plan",
+    "technically feasible"
+   ]
+  },
+  {
+   "id": "aj008",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "viable",
+   "ipa": "/ˈvaɪəbl/",
+   "pos": "adj",
+   "vi": "có tính khả thi",
+   "ex": "The idea proved commercially viable.",
+   "exVi": "Ý tưởng chứng tỏ khả thi về mặt thương mại.",
+   "col": [
+    "a viable option",
+    "commercially viable"
+   ]
+  },
+  {
+   "id": "aj009",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "essential",
+   "ipa": "/ɪˈsenʃl/",
+   "pos": "adj",
+   "vi": "thiết yếu",
+   "ex": "Good communication is essential for the team.",
+   "exVi": "Giao tiếp tốt là điều thiết yếu cho nhóm.",
+   "col": [
+    "essential for",
+    "an essential part"
+   ]
+  },
+  {
+   "id": "aj010",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "crucial",
+   "ipa": "/ˈkruːʃl/",
+   "pos": "adj",
+   "vi": "then chốt",
+   "ex": "The next step is crucial to the plan.",
+   "exVi": "Bước tiếp theo là then chốt cho kế hoạch.",
+   "col": [
+    "a crucial role",
+    "crucial to"
+   ]
+  },
+  {
+   "id": "aj011",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "vital",
+   "ipa": "/ˈvaɪtl/",
+   "pos": "adj",
+   "vi": "sống còn",
+   "ex": "Timely delivery is vital to the business.",
+   "exVi": "Giao hàng kịp thời là điều sống còn với doanh nghiệp.",
+   "col": [
+    "a vital role",
+    "vital for"
+   ]
+  },
+  {
+   "id": "aj012",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "integral",
+   "ipa": "/ˈɪntɪɡrəl/",
+   "pos": "adj",
+   "vi": "không thể thiếu",
+   "ex": "Training is integral to the whole programme.",
+   "exVi": "Đào tạo là phần không thể thiếu của cả chương trình.",
+   "col": [
+    "an integral part",
+    "integral to"
+   ]
+  },
+  {
+   "id": "aj013",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "prominent",
+   "ipa": "/ˈprɒmɪnənt/",
+   "pos": "adj",
+   "vi": "nổi bật",
+   "ex": "A prominent figure opened the event.",
+   "exVi": "Một nhân vật nổi bật khai mạc sự kiện.",
+   "col": [
+    "a prominent role",
+    "a prominent figure"
+   ]
+  },
+  {
+   "id": "aj014",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "diverse",
+   "ipa": "/daɪˈvɜːs/",
+   "pos": "adj",
+   "vi": "đa dạng",
+   "ex": "The firm serves a diverse range of clients.",
+   "exVi": "Công ty phục vụ một loạt khách hàng đa dạng.",
+   "col": [
+    "a diverse range",
+    "a diverse group"
+   ]
+  },
+  {
+   "id": "aj015",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "extensive",
+   "ipa": "/ɪkˈstensɪv/",
+   "pos": "adj",
+   "vi": "rộng khắp, sâu rộng",
+   "ex": "The report required extensive research.",
+   "exVi": "Báo cáo đòi hỏi nghiên cứu sâu rộng.",
+   "col": [
+    "extensive experience",
+    "extensive coverage"
+   ]
+  },
+  {
+   "id": "aj016",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "efficient",
+   "ipa": "/ɪˈfɪʃnt/",
+   "pos": "adj",
+   "vi": "hiệu quả",
+   "ex": "An efficient system saves both time and money.",
+   "exVi": "Một hệ thống hiệu quả tiết kiệm cả thời gian và tiền.",
+   "col": [
+    "an efficient process",
+    "highly efficient"
+   ]
+  },
+  {
+   "id": "aj017",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "effective",
+   "ipa": "/ɪˈfektɪv/",
+   "pos": "adj",
+   "vi": "có hiệu quả",
+   "ex": "The new method proved highly effective.",
+   "exVi": "Phương pháp mới chứng tỏ rất hiệu quả.",
+   "col": [
+    "an effective way",
+    "highly effective"
+   ]
+  },
+  {
+   "id": "aj018",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "reliable",
+   "ipa": "/rɪˈlaɪəbl/",
+   "pos": "adj",
+   "vi": "đáng tin cậy",
+   "ex": "The supplier is fast and reliable.",
+   "exVi": "Nhà cung cấp nhanh và đáng tin cậy.",
+   "col": [
+    "a reliable source",
+    "a reliable partner"
+   ]
+  },
+  {
+   "id": "aj019",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "consistent",
+   "ipa": "/kənˈsɪstənt/",
+   "pos": "adj",
+   "vi": "nhất quán",
+   "ex": "The team delivered consistent results.",
+   "exVi": "Nhóm đưa ra kết quả nhất quán.",
+   "col": [
+    "consistent quality",
+    "a consistent approach"
+   ]
+  },
+  {
+   "id": "aj020",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "apparent",
+   "ipa": "/əˈpærənt/",
+   "pos": "adj",
+   "vi": "rõ ràng",
+   "ex": "The benefits soon became apparent.",
+   "exVi": "Lợi ích sớm trở nên rõ ràng.",
+   "col": [
+    "clearly apparent",
+    "an apparent reason"
+   ]
+  },
+  {
+   "id": "aj021",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "evident",
+   "ipa": "/ˈevɪdənt/",
+   "pos": "adj",
+   "vi": "hiển nhiên",
+   "ex": "The improvement was evident within weeks.",
+   "exVi": "Sự cải thiện hiển nhiên trong vài tuần.",
+   "col": [
+    "clearly evident",
+    "evident from"
+   ]
+  },
+  {
+   "id": "aj022",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "relevant",
+   "ipa": "/ˈreləvənt/",
+   "pos": "adj",
+   "vi": "liên quan",
+   "ex": "Please attach any relevant documents.",
+   "exVi": "Vui lòng đính kèm mọi tài liệu liên quan.",
+   "col": [
+    "relevant to",
+    "a relevant point"
+   ]
+  },
+  {
+   "id": "aj023",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "appropriate",
+   "ipa": "/əˈprəʊpriət/",
+   "pos": "adj",
+   "vi": "phù hợp",
+   "ex": "Choose the appropriate form for your request.",
+   "exVi": "Chọn biểu mẫu phù hợp cho yêu cầu của bạn.",
+   "col": [
+    "appropriate for",
+    "an appropriate response"
+   ]
+  },
+  {
+   "id": "aj024",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "suitable",
+   "ipa": "/ˈsuːtəbl/",
+   "pos": "adj",
+   "vi": "thích hợp",
+   "ex": "The room is suitable for a small meeting.",
+   "exVi": "Phòng thích hợp cho một cuộc họp nhỏ.",
+   "col": [
+    "suitable for",
+    "a suitable candidate"
+   ]
+  },
+  {
+   "id": "aj025",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "beneficial",
+   "ipa": "/ˌbenɪˈfɪʃl/",
+   "pos": "adj",
+   "vi": "có lợi",
+   "ex": "The change was beneficial to everyone.",
+   "exVi": "Sự thay đổi có lợi cho mọi người.",
+   "col": [
+    "beneficial to",
+    "mutually beneficial"
+   ]
+  },
+  {
+   "id": "aj026",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "favorable",
+   "ipa": "/ˈfeɪvərəbl/",
+   "pos": "adj",
+   "vi": "thuận lợi",
+   "ex": "The deal was made on favorable terms.",
+   "exVi": "Thoả thuận được thực hiện với các điều khoản thuận lợi.",
+   "col": [
+    "favorable conditions",
+    "a favorable outcome"
+   ]
+  },
+  {
+   "id": "aj027",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "optimal",
+   "ipa": "/ˈɒptɪml/",
+   "pos": "adj",
+   "vi": "tối ưu",
+   "ex": "The machine runs at its optimal speed.",
+   "exVi": "Máy chạy ở tốc độ tối ưu.",
+   "col": [
+    "optimal performance",
+    "an optimal solution"
+   ]
+  },
+  {
+   "id": "aj028",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "precise",
+   "ipa": "/prɪˈsaɪs/",
+   "pos": "adj",
+   "vi": "chính xác",
+   "ex": "The report gives precise figures.",
+   "exVi": "Báo cáo cho các con số chính xác.",
+   "col": [
+    "precise measurements",
+    "a precise figure"
+   ]
+  },
+  {
+   "id": "aj029",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "accurate",
+   "ipa": "/ˈækjərət/",
+   "pos": "adj",
+   "vi": "chính xác",
+   "ex": "Accurate records are kept for every order.",
+   "exVi": "Hồ sơ chính xác được giữ cho mỗi đơn.",
+   "col": [
+    "accurate data",
+    "highly accurate"
+   ]
+  },
+  {
+   "id": "aj030",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "thorough",
+   "ipa": "/ˈθʌrə/",
+   "pos": "adj",
+   "vi": "kỹ lưỡng",
+   "ex": "A thorough check found the small fault.",
+   "exVi": "Một cuộc kiểm tra kỹ lưỡng tìm ra lỗi nhỏ.",
+   "col": [
+    "a thorough review",
+    "a thorough check"
+   ]
+  },
+  {
+   "id": "aj031",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "rigorous",
+   "ipa": "/ˈrɪɡərəs/",
+   "pos": "adj",
+   "vi": "nghiêm ngặt",
+   "ex": "The product passed a rigorous test.",
+   "exVi": "Sản phẩm vượt qua một bài kiểm tra nghiêm ngặt.",
+   "col": [
+    "a rigorous process",
+    "rigorous testing"
+   ]
+  },
+  {
+   "id": "aj032",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "robust",
+   "ipa": "/rəʊˈbʌst/",
+   "pos": "adj",
+   "vi": "vững chắc",
+   "ex": "The system has a robust security setup.",
+   "exVi": "Hệ thống có một thiết lập bảo mật vững chắc.",
+   "col": [
+    "a robust system",
+    "robust growth"
+   ]
+  },
+  {
+   "id": "aj033",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "versatile",
+   "ipa": "/ˈvɜːsətaɪl/",
+   "pos": "adj",
+   "vi": "đa năng",
+   "ex": "The tool is versatile and easy to use.",
+   "exVi": "Công cụ đa năng và dễ dùng.",
+   "col": [
+    "a versatile tool",
+    "highly versatile"
+   ]
+  },
+  {
+   "id": "aj034",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "innovative",
+   "ipa": "/ˈɪnəveɪtɪv/",
+   "pos": "adj",
+   "vi": "đổi mới, sáng tạo",
+   "ex": "The firm is known for innovative designs.",
+   "exVi": "Công ty nổi tiếng vì các thiết kế sáng tạo.",
+   "col": [
+    "an innovative approach",
+    "innovative products"
+   ]
+  },
+  {
+   "id": "aj035",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "sustainable",
+   "ipa": "/səˈsteɪnəbl/",
+   "pos": "adj",
+   "vi": "bền vững",
+   "ex": "The plan supports sustainable growth.",
+   "exVi": "Kế hoạch hỗ trợ tăng trưởng bền vững.",
+   "col": [
+    "sustainable growth",
+    "a sustainable model"
+   ]
+  },
+  {
+   "id": "aj036",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "profitable",
+   "ipa": "/ˈprɒfɪtəbl/",
+   "pos": "adj",
+   "vi": "có lãi",
+   "ex": "The new line proved highly profitable.",
+   "exVi": "Dòng sản phẩm mới chứng tỏ rất có lãi.",
+   "col": [
+    "a profitable business",
+    "highly profitable"
+   ]
+  },
+  {
+   "id": "aj037",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "competitive",
+   "ipa": "/kəmˈpetətɪv/",
+   "pos": "adj",
+   "vi": "cạnh tranh",
+   "ex": "The firm offers competitive prices.",
+   "exVi": "Công ty đưa ra giá cạnh tranh.",
+   "col": [
+    "competitive prices",
+    "a competitive market"
+   ]
+  },
+  {
+   "id": "aj038",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "strategic",
+   "ipa": "/strəˈtiːdʒɪk/",
+   "pos": "adj",
+   "vi": "chiến lược",
+   "ex": "The move was a strategic decision.",
+   "exVi": "Động thái này là một quyết định chiến lược.",
+   "col": [
+    "a strategic decision",
+    "a strategic plan"
+   ]
+  },
+  {
+   "id": "aj039",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "preliminary",
+   "ipa": "/prɪˈlɪmɪnəri/",
+   "pos": "adj",
+   "vi": "sơ bộ",
+   "ex": "The preliminary results look promising.",
+   "exVi": "Kết quả sơ bộ có vẻ hứa hẹn.",
+   "col": [
+    "preliminary findings",
+    "a preliminary report"
+   ]
+  },
+  {
+   "id": "aj040",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "tentative",
+   "ipa": "/ˈtentətɪv/",
+   "pos": "adj",
+   "vi": "tạm thời, dè dặt",
+   "ex": "A tentative date was set for the launch.",
+   "exVi": "Một ngày tạm thời được đặt cho buổi ra mắt.",
+   "col": [
+    "a tentative plan",
+    "a tentative agreement"
+   ]
+  },
+  {
+   "id": "aj041",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "concise",
+   "ipa": "/kənˈsaɪs/",
+   "pos": "adj",
+   "vi": "súc tích",
+   "ex": "The summary is clear and concise.",
+   "exVi": "Bản tóm tắt rõ ràng và súc tích.",
+   "col": [
+    "a concise report",
+    "clear and concise"
+   ]
+  },
+  {
+   "id": "aj042",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "coherent",
+   "ipa": "/kəʊˈhɪərənt/",
+   "pos": "adj",
+   "vi": "mạch lạc",
+   "ex": "The plan was clear and coherent.",
+   "exVi": "Kế hoạch rõ ràng và mạch lạc.",
+   "col": [
+    "a coherent argument",
+    "a coherent plan"
+   ]
+  },
+  {
+   "id": "aj043",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "ambiguous",
+   "ipa": "/æmˈbɪɡjuəs/",
+   "pos": "adj",
+   "vi": "mơ hồ",
+   "ex": "The wording of the clause is ambiguous.",
+   "exVi": "Cách diễn đạt của điều khoản mơ hồ.",
+   "col": [
+    "an ambiguous statement",
+    "highly ambiguous"
+   ]
+  },
+  {
+   "id": "aj044",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "consequently",
+   "ipa": "/ˈkɒnsɪkwəntli/",
+   "pos": "adv",
+   "vi": "do đó",
+   "ex": "Sales fell; consequently, the firm cut costs.",
+   "exVi": "Doanh số giảm; do đó, công ty cắt giảm chi phí.",
+   "col": [
+    "consequently affected",
+    "consequently changed"
+   ]
+  },
+  {
+   "id": "aj045",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "subsequently",
+   "ipa": "/ˈsʌbsɪkwəntli/",
+   "pos": "adv",
+   "vi": "sau đó",
+   "ex": "The report was revised and subsequently approved.",
+   "exVi": "Báo cáo được sửa và sau đó được duyệt.",
+   "col": [
+    "subsequently added",
+    "subsequently released"
+   ]
+  },
+  {
+   "id": "aj046",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "accordingly",
+   "ipa": "/əˈkɔːdɪŋli/",
+   "pos": "adv",
+   "vi": "một cách phù hợp",
+   "ex": "Prices rose, and demand adjusted accordingly.",
+   "exVi": "Giá tăng, và nhu cầu điều chỉnh một cách phù hợp.",
+   "col": [
+    "act accordingly",
+    "adjust accordingly"
+   ]
+  },
+  {
+   "id": "aj047",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "considerably",
+   "ipa": "/kənˈsɪdərəbli/",
+   "pos": "adv",
+   "vi": "đáng kể",
+   "ex": "Output improved considerably after the upgrade.",
+   "exVi": "Sản lượng cải thiện đáng kể sau khi nâng cấp.",
+   "col": [
+    "considerably higher",
+    "improve considerably"
+   ]
+  },
+  {
+   "id": "aj048",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "substantially",
+   "ipa": "/səbˈstænʃəli/",
+   "pos": "adv",
+   "vi": "một cách đáng kể",
+   "ex": "Costs fell substantially over the year.",
+   "exVi": "Chi phí giảm đáng kể trong năm.",
+   "col": [
+    "substantially lower",
+    "substantially reduced"
+   ]
+  },
+  {
+   "id": "aj049",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "significantly",
+   "ipa": "/sɪɡˈnɪfɪkəntli/",
+   "pos": "adv",
+   "vi": "một cách đáng kể",
+   "ex": "The change significantly improved the results.",
+   "exVi": "Sự thay đổi cải thiện kết quả một cách đáng kể.",
+   "col": [
+    "significantly higher",
+    "significantly increase"
+   ]
+  },
+  {
+   "id": "aj050",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "thoroughly",
+   "ipa": "/ˈθʌrəli/",
+   "pos": "adv",
+   "vi": "một cách kỹ lưỡng",
+   "ex": "The report was thoroughly checked before release.",
+   "exVi": "Báo cáo được kiểm tra kỹ lưỡng trước khi phát hành.",
+   "col": [
+    "thoroughly reviewed",
+    "thoroughly tested"
+   ]
+  },
+  {
+   "id": "aj051",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "precisely",
+   "ipa": "/prɪˈsaɪsli/",
+   "pos": "adv",
+   "vi": "một cách chính xác",
+   "ex": "The parts must fit precisely together.",
+   "exVi": "Các bộ phận phải khớp với nhau một cách chính xác.",
+   "col": [
+    "precisely measured",
+    "precisely defined"
+   ]
+  },
+  {
+   "id": "aj052",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "accurately",
+   "ipa": "/ˈækjərətli/",
+   "pos": "adv",
+   "vi": "một cách chính xác",
+   "ex": "The figures were recorded accurately.",
+   "exVi": "Các con số được ghi lại một cách chính xác.",
+   "col": [
+    "accurately reflect",
+    "accurately measure"
+   ]
+  },
+  {
+   "id": "aj053",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "respectively",
+   "ipa": "/rɪˈspektɪvli/",
+   "pos": "adv",
+   "vi": "theo thứ tự tương ứng",
+   "ex": "The two branches earned five and six million respectively.",
+   "exVi": "Hai chi nhánh kiếm được năm và sáu triệu theo thứ tự.",
+   "col": [
+    "respectively assigned",
+    "listed respectively"
+   ]
+  },
+  {
+   "id": "aj054",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "initially",
+   "ipa": "/ɪˈnɪʃəli/",
+   "pos": "adv",
+   "vi": "ban đầu",
+   "ex": "The plan initially covered only one region.",
+   "exVi": "Kế hoạch ban đầu chỉ bao gồm một vùng.",
+   "col": [
+    "initially planned",
+    "initially proposed"
+   ]
+  },
+  {
+   "id": "aj055",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "ultimately",
+   "ipa": "/ˈʌltɪmətli/",
+   "pos": "adv",
+   "vi": "cuối cùng",
+   "ex": "The project was ultimately a success.",
+   "exVi": "Dự án cuối cùng là một thành công.",
+   "col": [
+    "ultimately responsible",
+    "ultimately decided"
+   ]
+  },
+  {
+   "id": "aj056",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "primarily",
+   "ipa": "/praɪˈmerəli/",
+   "pos": "adv",
+   "vi": "chủ yếu",
+   "ex": "The firm serves primarily local clients.",
+   "exVi": "Công ty phục vụ chủ yếu khách hàng địa phương.",
+   "col": [
+    "primarily used",
+    "primarily focused"
+   ]
+  },
+  {
+   "id": "aj057",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "notably",
+   "ipa": "/ˈnəʊtəbli/",
+   "pos": "adv",
+   "vi": "đáng chú ý",
+   "ex": "Several areas improved, notably customer service.",
+   "exVi": "Vài mảng cải thiện, đáng chú ý là dịch vụ khách hàng.",
+   "col": [
+    "most notably",
+    "notably absent"
+   ]
+  },
+  {
+   "id": "aj058",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "invariably",
+   "ipa": "/ɪnˈveəriəbli/",
+   "pos": "adv",
+   "vi": "luôn luôn",
+   "ex": "The morning train is invariably crowded.",
+   "exVi": "Chuyến tàu sáng luôn luôn đông.",
+   "col": [
+    "invariably late",
+    "invariably true"
+   ]
+  },
+  {
+   "id": "aj059",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "predominantly",
+   "ipa": "/prɪˈdɒmɪnəntli/",
+   "pos": "adv",
+   "vi": "phần lớn",
+   "ex": "The staff are predominantly part-time.",
+   "exVi": "Nhân viên phần lớn làm bán thời gian.",
+   "col": [
+    "predominantly used",
+    "predominantly male"
+   ]
+  },
+  {
+   "id": "aj060",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "approximately",
+   "ipa": "/əˈprɒksɪmətli/",
+   "pos": "adv",
+   "vi": "khoảng chừng",
+   "ex": "The trip takes approximately two hours.",
+   "exVi": "Chuyến đi mất khoảng chừng hai tiếng.",
+   "col": [
+    "approximately equal",
+    "approximately half"
+   ]
+  },
+  {
+   "id": "aj061",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "relatively",
+   "ipa": "/ˈrelətɪvli/",
+   "pos": "adv",
+   "vi": "tương đối",
+   "ex": "The cost was relatively low this year.",
+   "exVi": "Chi phí tương đối thấp năm nay.",
+   "col": [
+    "relatively small",
+    "relatively stable"
+   ]
+  },
+  {
+   "id": "aj062",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "particularly",
+   "ipa": "/pəˈtɪkjələli/",
+   "pos": "adv",
+   "vi": "đặc biệt",
+   "ex": "The demand was particularly strong in summer.",
+   "exVi": "Nhu cầu đặc biệt mạnh vào mùa hè.",
+   "col": [
+    "particularly important",
+    "particularly useful"
+   ]
+  },
+  {
+   "id": "aj063",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "exclusively",
+   "ipa": "/ɪkˈskluːsɪvli/",
+   "pos": "adv",
+   "vi": "riêng biệt, độc quyền",
+   "ex": "The lounge is exclusively for members.",
+   "exVi": "Phòng chờ dành riêng cho thành viên.",
+   "col": [
+    "exclusively available",
+    "exclusively used"
+   ]
+  },
+  {
+   "id": "aj064",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "increasingly",
+   "ipa": "/ɪnˈkriːsɪŋli/",
+   "pos": "adv",
+   "vi": "ngày càng",
+   "ex": "Customers increasingly shop online.",
+   "exVi": "Khách hàng ngày càng mua sắm trực tuyến.",
+   "col": [
+    "increasingly common",
+    "increasingly popular"
+   ]
+  },
+  {
+   "id": "aj065",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "consistently",
+   "ipa": "/kənˈsɪstəntli/",
+   "pos": "adv",
+   "vi": "một cách nhất quán",
+   "ex": "The team consistently meets its targets.",
+   "exVi": "Nhóm nhất quán đạt các mục tiêu.",
+   "col": [
+    "consistently high",
+    "consistently good"
+   ]
+  },
+  {
+   "id": "aj066",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "efficiently",
+   "ipa": "/ɪˈfɪʃntli/",
+   "pos": "adv",
+   "vi": "một cách hiệu quả",
+   "ex": "The office runs efficiently with fewer staff.",
+   "exVi": "Văn phòng vận hành hiệu quả với ít nhân viên hơn.",
+   "col": [
+    "work efficiently",
+    "run efficiently"
+   ]
+  },
+  {
+   "id": "aj067",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "effectively",
+   "ipa": "/ɪˈfektɪvli/",
+   "pos": "adv",
+   "vi": "một cách hiệu quả",
+   "ex": "The team communicates effectively across sites.",
+   "exVi": "Nhóm giao tiếp hiệu quả giữa các cơ sở.",
+   "col": [
+    "manage effectively",
+    "work effectively"
+   ]
+  },
+  {
+   "id": "aj068",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "promptly",
+   "ipa": "/ˈprɒmptli/",
+   "pos": "adv",
+   "vi": "một cách nhanh chóng",
+   "ex": "Orders are shipped promptly each day.",
+   "exVi": "Đơn hàng được gửi nhanh chóng mỗi ngày.",
+   "col": [
+    "reply promptly",
+    "act promptly"
+   ]
+  },
+  {
+   "id": "aj069",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "adequately",
+   "ipa": "/ˈædɪkwətli/",
+   "pos": "adv",
+   "vi": "một cách thoả đáng",
+   "ex": "The staff were adequately trained.",
+   "exVi": "Nhân viên được đào tạo một cách thoả đáng.",
+   "col": [
+    "adequately prepared",
+    "adequately funded"
+   ]
+  },
+  {
+   "id": "aj070",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "readily",
+   "ipa": "/ˈredɪli/",
+   "pos": "adv",
+   "vi": "một cách dễ dàng, sẵn sàng",
+   "ex": "The parts are readily available online.",
+   "exVi": "Các linh kiện có sẵn dễ dàng trên mạng.",
+   "col": [
+    "readily available",
+    "readily accept"
+   ]
+  },
+  {
+   "id": "aj071",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "frequently",
+   "ipa": "/ˈfriːkwəntli/",
+   "pos": "adv",
+   "vi": "thường xuyên",
+   "ex": "The site is frequently updated.",
+   "exVi": "Trang web được cập nhật thường xuyên.",
+   "col": [
+    "frequently used",
+    "frequently asked"
+   ]
+  },
+  {
+   "id": "aj072",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "occasionally",
+   "ipa": "/əˈkeɪʒnəli/",
+   "pos": "adv",
+   "vi": "thỉnh thoảng",
+   "ex": "The manager occasionally visits the branch.",
+   "exVi": "Quản lý thỉnh thoảng ghé chi nhánh.",
+   "col": [
+    "occasionally used",
+    "occasionally seen"
+   ]
+  },
+  {
+   "id": "aj073",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "inevitably",
+   "ipa": "/ɪnˈevɪtəbli/",
+   "pos": "adv",
+   "vi": "không thể tránh khỏi",
+   "ex": "Delays inevitably raise the cost.",
+   "exVi": "Chậm trễ không thể tránh khỏi làm tăng chi phí.",
+   "col": [
+    "inevitably lead to",
+    "inevitably follow"
+   ]
+  },
+  {
+   "id": "aj074",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "comparatively",
+   "ipa": "/kəmˈpærətɪvli/",
+   "pos": "adv",
+   "vi": "tương đối, so với",
+   "ex": "The winter was comparatively mild.",
+   "exVi": "Mùa đông tương đối ôn hoà.",
+   "col": [
+    "comparatively few",
+    "comparatively low"
+   ]
+  },
+  {
+   "id": "aj075",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "notoriously",
+   "ipa": "/nəʊˈtɔːriəsli/",
+   "pos": "adv",
+   "vi": "nổi tiếng (theo nghĩa xấu)",
+   "ex": "The road is notoriously busy at rush hour.",
+   "exVi": "Con đường nổi tiếng đông vào giờ cao điểm.",
+   "col": [
+    "notoriously difficult",
+    "notoriously slow"
+   ]
+  },
+  {
+   "id": "aj076",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "markedly",
+   "ipa": "/ˈmɑːkɪdli/",
+   "pos": "adv",
+   "vi": "rõ rệt",
+   "ex": "Sales rose markedly after the launch.",
+   "exVi": "Doanh số tăng rõ rệt sau khi ra mắt.",
+   "col": [
+    "markedly different",
+    "markedly higher"
+   ]
+  },
+  {
+   "id": "aj077",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "explicitly",
+   "ipa": "/ɪkˈsplɪsɪtli/",
+   "pos": "adv",
+   "vi": "một cách rõ ràng",
+   "ex": "The rules explicitly ban late entries.",
+   "exVi": "Quy tắc cấm rõ ràng các bài nộp muộn.",
+   "col": [
+    "explicitly stated",
+    "explicitly mention"
+   ]
+  },
+  {
+   "id": "aj078",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "implicitly",
+   "ipa": "/ɪmˈplɪsɪtli/",
+   "pos": "adv",
+   "vi": "một cách ngầm hiểu",
+   "ex": "The offer implicitly assumes early payment.",
+   "exVi": "Đề nghị ngầm giả định việc thanh toán sớm.",
+   "col": [
+    "implicitly agreed",
+    "implicitly understood"
+   ]
+  },
+  {
+   "id": "aj079",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "diligently",
+   "ipa": "/ˈdɪlɪdʒəntli/",
+   "pos": "adv",
+   "vi": "một cách chuyên cần",
+   "ex": "The team worked diligently to meet the deadline.",
+   "exVi": "Nhóm làm việc chuyên cần để kịp hạn.",
+   "col": [
+    "work diligently",
+    "search diligently"
+   ]
+  },
+  {
+   "id": "aj080",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "meticulously",
+   "ipa": "/məˈtɪkjələsli/",
+   "pos": "adv",
+   "vi": "một cách tỉ mỉ",
+   "ex": "The records were meticulously kept.",
+   "exVi": "Hồ sơ được giữ một cách tỉ mỉ.",
+   "col": [
+    "meticulously planned",
+    "meticulously checked"
+   ]
+  },
+  {
+   "id": "aj081",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "periodically",
+   "ipa": "/ˌpɪəriˈɒdɪkli/",
+   "pos": "adv",
+   "vi": "định kỳ",
+   "ex": "The equipment is checked periodically.",
+   "exVi": "Thiết bị được kiểm tra định kỳ.",
+   "col": [
+    "periodically reviewed",
+    "periodically updated"
+   ]
+  },
+  {
+   "id": "aj082",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "temporarily",
+   "ipa": "/ˈtemprərəli/",
+   "pos": "adv",
+   "vi": "tạm thời",
+   "ex": "The service is temporarily unavailable.",
+   "exVi": "Dịch vụ tạm thời không khả dụng.",
+   "col": [
+    "temporarily closed",
+    "temporarily suspended"
+   ]
+  },
+  {
+   "id": "aj083",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "simultaneously",
+   "ipa": "/ˌsɪmlˈteɪniəsli/",
+   "pos": "adv",
+   "vi": "đồng thời",
+   "ex": "The two tasks ran simultaneously.",
+   "exVi": "Hai nhiệm vụ chạy đồng thời.",
+   "col": [
+    "run simultaneously",
+    "simultaneously released"
+   ]
+  },
+  {
+   "id": "aj084",
+   "topic": "Tính từ & trạng từ học thuật thường gặp",
+   "w": "prudently",
+   "ipa": "/ˈpruːdntli/",
+   "pos": "adv",
+   "vi": "một cách thận trọng",
+   "ex": "The firm invested its funds prudently.",
+   "exVi": "Công ty đầu tư vốn của mình một cách thận trọng.",
+   "col": [
+    "prudently managed",
+    "act prudently"
+   ]
+  }
+ ]
+}

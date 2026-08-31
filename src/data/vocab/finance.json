@@ -1,0 +1,1381 @@
+{
+ "topic": "Ngân hàng & tài chính",
+ "words": [
+  {
+   "id": "v16",
+   "topic": "Ngân hàng & tài chính",
+   "w": "invoice",
+   "ipa": "/ˈɪnvɔɪs/",
+   "pos": "n, v",
+   "vi": "hóa đơn thanh toán",
+   "ex": "Please submit the invoice to the accounting department by Friday.",
+   "exVi": "Vui lòng nộp hóa đơn cho phòng kế toán trước thứ Sáu.",
+   "col": [
+    "issue an invoice",
+    "settle an invoice",
+    "an outstanding invoice"
+   ]
+  },
+  {
+   "id": "v17",
+   "topic": "Ngân hàng & tài chính",
+   "w": "budget",
+   "ipa": "/ˈbʌdʒɪt/",
+   "pos": "n",
+   "vi": "ngân sách",
+   "ex": "The marketing budget was cut by fifteen percent this year.",
+   "exVi": "Ngân sách marketing năm nay bị cắt 15%.",
+   "col": [
+    "stay within budget",
+    "allocate a budget",
+    "over budget"
+   ]
+  },
+  {
+   "id": "v18",
+   "topic": "Ngân hàng & tài chính",
+   "w": "revenue",
+   "ipa": "/ˈrevənjuː/",
+   "pos": "n",
+   "vi": "doanh thu",
+   "ex": "Quarterly revenue rose sharply after the product launch.",
+   "exVi": "Doanh thu quý tăng mạnh sau khi ra mắt sản phẩm.",
+   "col": [
+    "generate revenue",
+    "annual revenue",
+    "a decline in revenue"
+   ]
+  },
+  {
+   "id": "v19",
+   "topic": "Ngân hàng & tài chính",
+   "w": "expenditure",
+   "ipa": "/ɪkˈspendɪtʃə/",
+   "pos": "n",
+   "vi": "khoản chi tiêu",
+   "ex": "Capital expenditure must be approved by the board.",
+   "exVi": "Chi tiêu vốn phải được hội đồng quản trị phê duyệt.",
+   "col": [
+    "capital expenditure",
+    "reduce expenditure"
+   ]
+  },
+  {
+   "id": "v20",
+   "topic": "Ngân hàng & tài chính",
+   "w": "audit",
+   "ipa": "/ˈɔːdɪt/",
+   "pos": "n, v",
+   "vi": "kiểm toán",
+   "ex": "An external firm will audit our accounts in October.",
+   "exVi": "Một công ty bên ngoài sẽ kiểm toán sổ sách của chúng ta vào tháng Mười.",
+   "col": [
+    "conduct an audit",
+    "an annual audit",
+    "pass an audit"
+   ]
+  },
+  {
+   "id": "fi006",
+   "topic": "Ngân hàng & tài chính",
+   "w": "account",
+   "ipa": "/əˈkaʊnt/",
+   "pos": "n",
+   "vi": "tài khoản",
+   "ex": "Please transfer the funds to the company account.",
+   "exVi": "Vui lòng chuyển tiền vào tài khoản công ty.",
+   "col": [
+    "a bank account",
+    "open an account"
+   ]
+  },
+  {
+   "id": "fi007",
+   "topic": "Ngân hàng & tài chính",
+   "w": "deposit",
+   "ipa": "/dɪˈpɒzɪt/",
+   "pos": "n, v",
+   "vi": "khoản gửi; gửi tiền",
+   "ex": "She made a large deposit into the savings account.",
+   "exVi": "Bà gửi một khoản lớn vào tài khoản tiết kiệm.",
+   "col": [
+    "make a deposit",
+    "a cash deposit"
+   ]
+  },
+  {
+   "id": "fi008",
+   "topic": "Ngân hàng & tài chính",
+   "w": "withdrawal",
+   "ipa": "/wɪðˈdrɔːəl/",
+   "pos": "n",
+   "vi": "việc rút tiền",
+   "ex": "There is a daily limit on cash withdrawals.",
+   "exVi": "Có giới hạn hằng ngày cho việc rút tiền mặt.",
+   "col": [
+    "make a withdrawal",
+    "a cash withdrawal"
+   ]
+  },
+  {
+   "id": "fi009",
+   "topic": "Ngân hàng & tài chính",
+   "w": "withdraw",
+   "ipa": "/wɪðˈdrɔː/",
+   "pos": "v",
+   "vi": "rút tiền",
+   "ex": "You can withdraw up to five hundred dollars a day.",
+   "exVi": "Bạn có thể rút tới năm trăm đô mỗi ngày.",
+   "col": [
+    "withdraw cash",
+    "withdraw funds"
+   ]
+  },
+  {
+   "id": "fi010",
+   "topic": "Ngân hàng & tài chính",
+   "w": "balance",
+   "ipa": "/ˈbæləns/",
+   "pos": "n",
+   "vi": "số dư",
+   "ex": "Check your account balance before making the payment.",
+   "exVi": "Kiểm tra số dư tài khoản trước khi thanh toán.",
+   "col": [
+    "an account balance",
+    "an outstanding balance"
+   ]
+  },
+  {
+   "id": "fi011",
+   "topic": "Ngân hàng & tài chính",
+   "w": "statement",
+   "ipa": "/ˈsteɪtmənt/",
+   "pos": "n",
+   "vi": "bảng sao kê",
+   "ex": "Your monthly statement is available online.",
+   "exVi": "Bảng sao kê hằng tháng có sẵn trên mạng.",
+   "col": [
+    "a bank statement",
+    "a monthly statement"
+   ]
+  },
+  {
+   "id": "fi012",
+   "topic": "Ngân hàng & tài chính",
+   "w": "transaction",
+   "ipa": "/trænˈzækʃn/",
+   "pos": "n",
+   "vi": "giao dịch",
+   "ex": "Every transaction appears on your statement.",
+   "exVi": "Mọi giao dịch đều hiện trên sao kê của bạn.",
+   "col": [
+    "a cash transaction",
+    "a recent transaction"
+   ]
+  },
+  {
+   "id": "fi013",
+   "topic": "Ngân hàng & tài chính",
+   "w": "transfer",
+   "ipa": "/trænsˈfɜː/",
+   "pos": "n, v",
+   "vi": "chuyển khoản",
+   "ex": "The transfer will take two working days to clear.",
+   "exVi": "Việc chuyển khoản mất hai ngày làm việc để hoàn tất.",
+   "col": [
+    "a bank transfer",
+    "transfer funds"
+   ]
+  },
+  {
+   "id": "fi014",
+   "topic": "Ngân hàng & tài chính",
+   "w": "remittance",
+   "ipa": "/rɪˈmɪtəns/",
+   "pos": "n",
+   "vi": "khoản tiền gửi đi",
+   "ex": "A remittance of two thousand dollars was received today.",
+   "exVi": "Một khoản tiền gửi hai nghìn đô được nhận hôm nay.",
+   "col": [
+    "send a remittance",
+    "a remittance slip"
+   ]
+  },
+  {
+   "id": "fi015",
+   "topic": "Ngân hàng & tài chính",
+   "w": "loan",
+   "ipa": "/ləʊn/",
+   "pos": "n",
+   "vi": "khoản vay",
+   "ex": "The bank approved a loan for the new equipment.",
+   "exVi": "Ngân hàng duyệt một khoản vay cho thiết bị mới.",
+   "col": [
+    "apply for a loan",
+    "repay a loan"
+   ]
+  },
+  {
+   "id": "fi016",
+   "topic": "Ngân hàng & tài chính",
+   "w": "mortgage",
+   "ipa": "/ˈmɔːɡɪdʒ/",
+   "pos": "n",
+   "vi": "khoản vay thế chấp",
+   "ex": "They took out a mortgage to buy the warehouse.",
+   "exVi": "Họ vay thế chấp để mua nhà kho.",
+   "col": [
+    "a home mortgage",
+    "pay off a mortgage"
+   ]
+  },
+  {
+   "id": "fi017",
+   "topic": "Ngân hàng & tài chính",
+   "w": "interest",
+   "ipa": "/ˈɪntrəst/",
+   "pos": "n",
+   "vi": "lãi suất",
+   "ex": "The loan carries an interest rate of five percent.",
+   "exVi": "Khoản vay có lãi suất năm phần trăm.",
+   "col": [
+    "an interest rate",
+    "earn interest"
+   ]
+  },
+  {
+   "id": "fi018",
+   "topic": "Ngân hàng & tài chính",
+   "w": "principal",
+   "ipa": "/ˈprɪnsəpl/",
+   "pos": "n",
+   "vi": "tiền gốc",
+   "ex": "Each payment reduces the principal owed.",
+   "exVi": "Mỗi lần trả làm giảm tiền gốc còn nợ.",
+   "col": [
+    "repay the principal",
+    "the loan principal"
+   ]
+  },
+  {
+   "id": "fi019",
+   "topic": "Ngân hàng & tài chính",
+   "w": "installment",
+   "ipa": "/ɪnˈstɔːlmənt/",
+   "pos": "n",
+   "vi": "khoản trả góp",
+   "ex": "The loan is repaid in twelve monthly installments.",
+   "exVi": "Khoản vay được trả góp trong mười hai kỳ hằng tháng.",
+   "col": [
+    "a monthly installment",
+    "pay in installments"
+   ]
+  },
+  {
+   "id": "fi020",
+   "topic": "Ngân hàng & tài chính",
+   "w": "overdraft",
+   "ipa": "/ˈəʊvədrɑːft/",
+   "pos": "n",
+   "vi": "thấu chi",
+   "ex": "An overdraft fee applies if the balance goes negative.",
+   "exVi": "Có phí thấu chi nếu số dư âm.",
+   "col": [
+    "an overdraft facility",
+    "an overdraft fee"
+   ]
+  },
+  {
+   "id": "fi021",
+   "topic": "Ngân hàng & tài chính",
+   "w": "credit",
+   "ipa": "/ˈkredɪt/",
+   "pos": "n",
+   "vi": "tín dụng",
+   "ex": "The store offers thirty days' credit to regular clients.",
+   "exVi": "Cửa hàng cho khách quen mua chịu ba mươi ngày.",
+   "col": [
+    "a line of credit",
+    "a credit limit"
+   ]
+  },
+  {
+   "id": "fi022",
+   "topic": "Ngân hàng & tài chính",
+   "w": "debit",
+   "ipa": "/ˈdebɪt/",
+   "pos": "n, v",
+   "vi": "ghi nợ",
+   "ex": "The monthly fee is debited automatically.",
+   "exVi": "Phí hằng tháng được ghi nợ tự động.",
+   "col": [
+    "a direct debit",
+    "a debit card"
+   ]
+  },
+  {
+   "id": "fi023",
+   "topic": "Ngân hàng & tài chính",
+   "w": "creditor",
+   "ipa": "/ˈkredɪtə/",
+   "pos": "n",
+   "vi": "chủ nợ",
+   "ex": "The firm repaid its main creditors first.",
+   "exVi": "Công ty trả cho các chủ nợ chính trước.",
+   "col": [
+    "a major creditor",
+    "repay creditors"
+   ]
+  },
+  {
+   "id": "fi024",
+   "topic": "Ngân hàng & tài chính",
+   "w": "debtor",
+   "ipa": "/ˈdetə/",
+   "pos": "n",
+   "vi": "con nợ",
+   "ex": "The company chased slow debtors for payment.",
+   "exVi": "Công ty thúc các con nợ chậm trả thanh toán.",
+   "col": [
+    "a bad debtor",
+    "chase debtors"
+   ]
+  },
+  {
+   "id": "fi025",
+   "topic": "Ngân hàng & tài chính",
+   "w": "asset",
+   "ipa": "/ˈæset/",
+   "pos": "n",
+   "vi": "tài sản",
+   "ex": "The building is the firm's most valuable asset.",
+   "exVi": "Toà nhà là tài sản giá trị nhất của công ty.",
+   "col": [
+    "a fixed asset",
+    "total assets"
+   ]
+  },
+  {
+   "id": "fi026",
+   "topic": "Ngân hàng & tài chính",
+   "w": "liability",
+   "ipa": "/ˌlaɪəˈbɪləti/",
+   "pos": "n",
+   "vi": "khoản nợ phải trả",
+   "ex": "Total liabilities exceeded assets last year.",
+   "exVi": "Tổng nợ phải trả vượt tài sản năm ngoái.",
+   "col": [
+    "current liabilities",
+    "a financial liability"
+   ]
+  },
+  {
+   "id": "fi027",
+   "topic": "Ngân hàng & tài chính",
+   "w": "equity",
+   "ipa": "/ˈekwəti/",
+   "pos": "n",
+   "vi": "vốn chủ sở hữu",
+   "ex": "The owner has ninety percent equity in the business.",
+   "exVi": "Chủ sở hữu nắm chín mươi phần trăm vốn của doanh nghiệp.",
+   "col": [
+    "shareholder equity",
+    "raise equity"
+   ]
+  },
+  {
+   "id": "fi028",
+   "topic": "Ngân hàng & tài chính",
+   "w": "capital",
+   "ipa": "/ˈkæpɪtl/",
+   "pos": "n",
+   "vi": "vốn",
+   "ex": "The firm raised capital to fund the expansion.",
+   "exVi": "Công ty huy động vốn để tài trợ việc mở rộng.",
+   "col": [
+    "raise capital",
+    "working capital"
+   ]
+  },
+  {
+   "id": "fi029",
+   "topic": "Ngân hàng & tài chính",
+   "w": "turnover",
+   "ipa": "/ˈtɜːnəʊvə/",
+   "pos": "n",
+   "vi": "doanh thu",
+   "ex": "Annual turnover passed ten million for the first time.",
+   "exVi": "Doanh thu năm lần đầu vượt mười triệu.",
+   "col": [
+    "annual turnover",
+    "a rise in turnover"
+   ]
+  },
+  {
+   "id": "fi030",
+   "topic": "Ngân hàng & tài chính",
+   "w": "profit",
+   "ipa": "/ˈprɒfɪt/",
+   "pos": "n",
+   "vi": "lợi nhuận",
+   "ex": "The company made a healthy profit this quarter.",
+   "exVi": "Công ty đạt lợi nhuận tốt trong quý này.",
+   "col": [
+    "a net profit",
+    "make a profit"
+   ]
+  },
+  {
+   "id": "fi031",
+   "topic": "Ngân hàng & tài chính",
+   "w": "margin",
+   "ipa": "/ˈmɑːdʒɪn/",
+   "pos": "n",
+   "vi": "biên lợi nhuận",
+   "ex": "The profit margin on electronics is very thin.",
+   "exVi": "Biên lợi nhuận của hàng điện tử rất mỏng.",
+   "col": [
+    "a profit margin",
+    "a narrow margin"
+   ]
+  },
+  {
+   "id": "fi032",
+   "topic": "Ngân hàng & tài chính",
+   "w": "loss",
+   "ipa": "/lɒs/",
+   "pos": "n",
+   "vi": "khoản lỗ",
+   "ex": "The division reported a loss for the second year.",
+   "exVi": "Bộ phận này báo lỗ năm thứ hai.",
+   "col": [
+    "make a loss",
+    "a net loss"
+   ]
+  },
+  {
+   "id": "fi033",
+   "topic": "Ngân hàng & tài chính",
+   "w": "deficit",
+   "ipa": "/ˈdefɪsɪt/",
+   "pos": "n",
+   "vi": "thâm hụt",
+   "ex": "The budget deficit widened over the winter.",
+   "exVi": "Thâm hụt ngân sách nới rộng trong mùa đông.",
+   "col": [
+    "a budget deficit",
+    "a trade deficit"
+   ]
+  },
+  {
+   "id": "fi034",
+   "topic": "Ngân hàng & tài chính",
+   "w": "surplus",
+   "ipa": "/ˈsɜːpləs/",
+   "pos": "n",
+   "vi": "thặng dư",
+   "ex": "The department ended the year with a small surplus.",
+   "exVi": "Bộ phận kết thúc năm với một khoản thặng dư nhỏ.",
+   "col": [
+    "a budget surplus",
+    "a trade surplus"
+   ]
+  },
+  {
+   "id": "fi035",
+   "topic": "Ngân hàng & tài chính",
+   "w": "overhead",
+   "ipa": "/ˈəʊvəhed/",
+   "pos": "n",
+   "vi": "chi phí vận hành",
+   "ex": "Moving offices cut our overhead by a third.",
+   "exVi": "Chuyển văn phòng giảm chi phí vận hành của chúng tôi một phần ba.",
+   "col": [
+    "overhead costs",
+    "reduce overhead"
+   ]
+  },
+  {
+   "id": "fi036",
+   "topic": "Ngân hàng & tài chính",
+   "w": "forecast",
+   "ipa": "/ˈfɔːkɑːst/",
+   "pos": "n, v",
+   "vi": "dự báo",
+   "ex": "The sales forecast for next year looks strong.",
+   "exVi": "Dự báo doanh số năm tới có vẻ tốt.",
+   "col": [
+    "a sales forecast",
+    "forecast growth"
+   ]
+  },
+  {
+   "id": "fi037",
+   "topic": "Ngân hàng & tài chính",
+   "w": "projection",
+   "ipa": "/prəˈdʒekʃn/",
+   "pos": "n",
+   "vi": "dự phóng",
+   "ex": "Revenue projections were revised upward in March.",
+   "exVi": "Dự phóng doanh thu được điều chỉnh tăng vào tháng Ba.",
+   "col": [
+    "financial projections",
+    "a revenue projection"
+   ]
+  },
+  {
+   "id": "fi038",
+   "topic": "Ngân hàng & tài chính",
+   "w": "auditor",
+   "ipa": "/ˈɔːdɪtə/",
+   "pos": "n",
+   "vi": "kiểm toán viên",
+   "ex": "The auditor found no problems with the records.",
+   "exVi": "Kiểm toán viên không thấy vấn đề gì với sổ sách.",
+   "col": [
+    "an external auditor",
+    "an internal auditor"
+   ]
+  },
+  {
+   "id": "fi039",
+   "topic": "Ngân hàng & tài chính",
+   "w": "accountant",
+   "ipa": "/əˈkaʊntənt/",
+   "pos": "n",
+   "vi": "kế toán viên",
+   "ex": "The accountant prepares the monthly reports.",
+   "exVi": "Kế toán viên chuẩn bị các báo cáo hằng tháng.",
+   "col": [
+    "a chartered accountant",
+    "a company accountant"
+   ]
+  },
+  {
+   "id": "fi040",
+   "topic": "Ngân hàng & tài chính",
+   "w": "bookkeeping",
+   "ipa": "/ˈbʊkkiːpɪŋ/",
+   "pos": "n",
+   "vi": "việc ghi sổ sách",
+   "ex": "Accurate bookkeeping is essential for the audit.",
+   "exVi": "Ghi sổ sách chính xác là điều thiết yếu cho kiểm toán.",
+   "col": [
+    "do the bookkeeping",
+    "bookkeeping records"
+   ]
+  },
+  {
+   "id": "fi041",
+   "topic": "Ngân hàng & tài chính",
+   "w": "ledger",
+   "ipa": "/ˈledʒə/",
+   "pos": "n",
+   "vi": "sổ cái",
+   "ex": "Every payment is entered into the ledger.",
+   "exVi": "Mọi khoản thanh toán được ghi vào sổ cái.",
+   "col": [
+    "the general ledger",
+    "a ledger entry"
+   ]
+  },
+  {
+   "id": "fi042",
+   "topic": "Ngân hàng & tài chính",
+   "w": "receivable",
+   "ipa": "/rɪˈsiːvəbl/",
+   "pos": "n",
+   "vi": "khoản phải thu",
+   "ex": "Accounts receivable rose during the busy season.",
+   "exVi": "Các khoản phải thu tăng trong mùa bận rộn.",
+   "col": [
+    "accounts receivable",
+    "an outstanding receivable"
+   ]
+  },
+  {
+   "id": "fi043",
+   "topic": "Ngân hàng & tài chính",
+   "w": "payable",
+   "ipa": "/ˈpeɪəbl/",
+   "pos": "n",
+   "vi": "khoản phải trả",
+   "ex": "Accounts payable are settled at month's end.",
+   "exVi": "Các khoản phải trả được thanh toán cuối tháng.",
+   "col": [
+    "accounts payable",
+    "an amount payable"
+   ]
+  },
+  {
+   "id": "fi044",
+   "topic": "Ngân hàng & tài chính",
+   "w": "solvent",
+   "ipa": "/ˈsɒlvənt/",
+   "pos": "adj",
+   "vi": "có khả năng thanh toán",
+   "ex": "The company remained solvent throughout the downturn.",
+   "exVi": "Công ty vẫn có khả năng thanh toán suốt thời kỳ suy thoái.",
+   "col": [
+    "remain solvent",
+    "a solvent business"
+   ]
+  },
+  {
+   "id": "fi045",
+   "topic": "Ngân hàng & tài chính",
+   "w": "insolvent",
+   "ipa": "/ɪnˈsɒlvənt/",
+   "pos": "adj",
+   "vi": "mất khả năng thanh toán",
+   "ex": "The supplier became insolvent and closed abruptly.",
+   "exVi": "Nhà cung cấp mất khả năng thanh toán và đóng cửa đột ngột.",
+   "col": [
+    "declare insolvent",
+    "an insolvent firm"
+   ]
+  },
+  {
+   "id": "fi046",
+   "topic": "Ngân hàng & tài chính",
+   "w": "bankruptcy",
+   "ipa": "/ˈbæŋkrʌptsi/",
+   "pos": "n",
+   "vi": "sự phá sản",
+   "ex": "The chain filed for bankruptcy last month.",
+   "exVi": "Chuỗi cửa hàng nộp đơn phá sản tháng trước.",
+   "col": [
+    "file for bankruptcy",
+    "avoid bankruptcy"
+   ]
+  },
+  {
+   "id": "fi047",
+   "topic": "Ngân hàng & tài chính",
+   "w": "liquidate",
+   "ipa": "/ˈlɪkwɪdeɪt/",
+   "pos": "v",
+   "vi": "thanh lý",
+   "ex": "The firm liquidated its stock to raise cash.",
+   "exVi": "Công ty thanh lý hàng để có tiền mặt.",
+   "col": [
+    "liquidate assets",
+    "liquidate a company"
+   ]
+  },
+  {
+   "id": "fi048",
+   "topic": "Ngân hàng & tài chính",
+   "w": "dividend",
+   "ipa": "/ˈdɪvɪdend/",
+   "pos": "n",
+   "vi": "cổ tức",
+   "ex": "Shareholders will receive a dividend in June.",
+   "exVi": "Cổ đông sẽ nhận cổ tức vào tháng Sáu.",
+   "col": [
+    "pay a dividend",
+    "an annual dividend"
+   ]
+  },
+  {
+   "id": "fi049",
+   "topic": "Ngân hàng & tài chính",
+   "w": "shareholder",
+   "ipa": "/ˈʃeəhəʊldə/",
+   "pos": "n",
+   "vi": "cổ đông",
+   "ex": "Shareholders approved the plan at the annual meeting.",
+   "exVi": "Cổ đông thông qua kế hoạch tại đại hội thường niên.",
+   "col": [
+    "a major shareholder",
+    "shareholder approval"
+   ]
+  },
+  {
+   "id": "fi050",
+   "topic": "Ngân hàng & tài chính",
+   "w": "invest",
+   "ipa": "/ɪnˈvest/",
+   "pos": "v",
+   "vi": "đầu tư",
+   "ex": "The firm invested heavily in new machinery last year.",
+   "exVi": "Công ty đầu tư mạnh vào máy móc mới năm ngoái.",
+   "col": [
+    "invest in",
+    "invest heavily"
+   ]
+  },
+  {
+   "id": "fi051",
+   "topic": "Ngân hàng & tài chính",
+   "w": "investment",
+   "ipa": "/ɪnˈvestmənt/",
+   "pos": "n",
+   "vi": "khoản đầu tư",
+   "ex": "The investment paid off within eighteen months.",
+   "exVi": "Khoản đầu tư sinh lời trong mười tám tháng.",
+   "col": [
+    "a sound investment",
+    "return on investment"
+   ]
+  },
+  {
+   "id": "fi052",
+   "topic": "Ngân hàng & tài chính",
+   "w": "investor",
+   "ipa": "/ɪnˈvestə/",
+   "pos": "n",
+   "vi": "nhà đầu tư",
+   "ex": "Investors were pleased with the annual results.",
+   "exVi": "Nhà đầu tư hài lòng với kết quả cả năm.",
+   "col": [
+    "a major investor",
+    "attract investors"
+   ]
+  },
+  {
+   "id": "fi053",
+   "topic": "Ngân hàng & tài chính",
+   "w": "portfolio",
+   "ipa": "/pɔːtˈfəʊliəʊ/",
+   "pos": "n",
+   "vi": "danh mục đầu tư",
+   "ex": "A balanced portfolio spreads the risk across sectors.",
+   "exVi": "Một danh mục cân bằng phân tán rủi ro qua nhiều ngành.",
+   "col": [
+    "an investment portfolio",
+    "a diverse portfolio"
+   ]
+  },
+  {
+   "id": "fi054",
+   "topic": "Ngân hàng & tài chính",
+   "w": "stock",
+   "ipa": "/stɒk/",
+   "pos": "n",
+   "vi": "cổ phiếu",
+   "ex": "The company's stock rose three percent on Monday.",
+   "exVi": "Cổ phiếu công ty tăng ba phần trăm hôm thứ Hai.",
+   "col": [
+    "buy stock",
+    "a rise in stock"
+   ]
+  },
+  {
+   "id": "fi055",
+   "topic": "Ngân hàng & tài chính",
+   "w": "share",
+   "ipa": "/ʃeə/",
+   "pos": "n",
+   "vi": "cổ phần",
+   "ex": "She owns two thousand shares in the firm.",
+   "exVi": "Bà sở hữu hai nghìn cổ phần trong công ty.",
+   "col": [
+    "buy shares",
+    "a share price"
+   ]
+  },
+  {
+   "id": "fi056",
+   "topic": "Ngân hàng & tài chính",
+   "w": "bond",
+   "ipa": "/bɒnd/",
+   "pos": "n",
+   "vi": "trái phiếu",
+   "ex": "Government bonds offer a lower but safer return.",
+   "exVi": "Trái phiếu chính phủ cho lợi suất thấp hơn nhưng an toàn hơn.",
+   "col": [
+    "a government bond",
+    "issue a bond"
+   ]
+  },
+  {
+   "id": "fi057",
+   "topic": "Ngân hàng & tài chính",
+   "w": "securities",
+   "ipa": "/sɪˈkjʊərətiz/",
+   "pos": "n",
+   "vi": "chứng khoán",
+   "ex": "The bank trades securities on behalf of its clients.",
+   "exVi": "Ngân hàng giao dịch chứng khoán thay cho khách hàng.",
+   "col": [
+    "trade securities",
+    "government securities"
+   ]
+  },
+  {
+   "id": "fi058",
+   "topic": "Ngân hàng & tài chính",
+   "w": "brokerage",
+   "ipa": "/ˈbrəʊkərɪdʒ/",
+   "pos": "n",
+   "vi": "công ty môi giới",
+   "ex": "The brokerage charges a small fee on every trade.",
+   "exVi": "Công ty môi giới thu một khoản phí nhỏ trên mỗi giao dịch.",
+   "col": [
+    "a brokerage firm",
+    "a brokerage account"
+   ]
+  },
+  {
+   "id": "fi059",
+   "topic": "Ngân hàng & tài chính",
+   "w": "broker",
+   "ipa": "/ˈbrəʊkə/",
+   "pos": "n",
+   "vi": "người môi giới",
+   "ex": "A broker arranged the sale of the shares.",
+   "exVi": "Một người môi giới sắp xếp việc bán cổ phần.",
+   "col": [
+    "a stock broker",
+    "an insurance broker"
+   ]
+  },
+  {
+   "id": "fi060",
+   "topic": "Ngân hàng & tài chính",
+   "w": "yield",
+   "ipa": "/jiːld/",
+   "pos": "n",
+   "vi": "lợi suất",
+   "ex": "The bond offers a yield of four percent a year.",
+   "exVi": "Trái phiếu cho lợi suất bốn phần trăm mỗi năm.",
+   "col": [
+    "a high yield",
+    "an annual yield"
+   ]
+  },
+  {
+   "id": "fi061",
+   "topic": "Ngân hàng & tài chính",
+   "w": "return",
+   "ipa": "/rɪˈtɜːn/",
+   "pos": "n",
+   "vi": "lợi nhuận thu về",
+   "ex": "Investors expect a steady return on their capital.",
+   "exVi": "Nhà đầu tư mong một mức lợi nhuận ổn định trên vốn.",
+   "col": [
+    "a rate of return",
+    "a strong return"
+   ]
+  },
+  {
+   "id": "fi062",
+   "topic": "Ngân hàng & tài chính",
+   "w": "appreciate",
+   "ipa": "/əˈpriːʃieɪt/",
+   "pos": "v",
+   "vi": "tăng giá trị",
+   "ex": "The property has appreciated sharply since the purchase.",
+   "exVi": "Bất động sản đã tăng giá mạnh kể từ khi mua.",
+   "col": [
+    "appreciate in value",
+    "steadily appreciate"
+   ]
+  },
+  {
+   "id": "fi063",
+   "topic": "Ngân hàng & tài chính",
+   "w": "depreciate",
+   "ipa": "/dɪˈpriːʃieɪt/",
+   "pos": "v",
+   "vi": "giảm giá trị",
+   "ex": "Company vehicles depreciate quickly in the first year.",
+   "exVi": "Xe của công ty giảm giá nhanh trong năm đầu.",
+   "col": [
+    "depreciate over time",
+    "a depreciating asset"
+   ]
+  },
+  {
+   "id": "fi064",
+   "topic": "Ngân hàng & tài chính",
+   "w": "fluctuate",
+   "ipa": "/ˈflʌktʃueɪt/",
+   "pos": "v",
+   "vi": "dao động",
+   "ex": "Currency rates fluctuate throughout the trading day.",
+   "exVi": "Tỷ giá dao động suốt phiên giao dịch.",
+   "col": [
+    "prices fluctuate",
+    "fluctuate widely"
+   ]
+  },
+  {
+   "id": "fi065",
+   "topic": "Ngân hàng & tài chính",
+   "w": "volatile",
+   "ipa": "/ˈvɒlətaɪl/",
+   "pos": "adj",
+   "vi": "biến động mạnh",
+   "ex": "The market has been volatile since the announcement.",
+   "exVi": "Thị trường biến động mạnh kể từ khi có thông báo.",
+   "col": [
+    "a volatile market",
+    "highly volatile"
+   ]
+  },
+  {
+   "id": "fi066",
+   "topic": "Ngân hàng & tài chính",
+   "w": "downturn",
+   "ipa": "/ˈdaʊntɜːn/",
+   "pos": "n",
+   "vi": "thời kỳ suy giảm",
+   "ex": "Sales fell sharply during the economic downturn.",
+   "exVi": "Doanh số giảm mạnh trong thời kỳ suy giảm kinh tế.",
+   "col": [
+    "an economic downturn",
+    "a sharp downturn"
+   ]
+  },
+  {
+   "id": "fi067",
+   "topic": "Ngân hàng & tài chính",
+   "w": "recession",
+   "ipa": "/rɪˈseʃn/",
+   "pos": "n",
+   "vi": "suy thoái",
+   "ex": "Many small firms closed during the recession.",
+   "exVi": "Nhiều công ty nhỏ đóng cửa trong thời kỳ suy thoái.",
+   "col": [
+    "a deep recession",
+    "enter a recession"
+   ]
+  },
+  {
+   "id": "fi068",
+   "topic": "Ngân hàng & tài chính",
+   "w": "inflation",
+   "ipa": "/ɪnˈfleɪʃn/",
+   "pos": "n",
+   "vi": "lạm phát",
+   "ex": "Rising inflation pushed up the cost of materials.",
+   "exVi": "Lạm phát tăng đẩy chi phí nguyên liệu lên.",
+   "col": [
+    "high inflation",
+    "the inflation rate"
+   ]
+  },
+  {
+   "id": "fi069",
+   "topic": "Ngân hàng & tài chính",
+   "w": "recovery",
+   "ipa": "/rɪˈkʌvəri/",
+   "pos": "n",
+   "vi": "sự phục hồi",
+   "ex": "A slow recovery followed the difficult winter.",
+   "exVi": "Một sự phục hồi chậm theo sau mùa đông khó khăn.",
+   "col": [
+    "an economic recovery",
+    "a strong recovery"
+   ]
+  },
+  {
+   "id": "fi070",
+   "topic": "Ngân hàng & tài chính",
+   "w": "currency",
+   "ipa": "/ˈkʌrənsi/",
+   "pos": "n",
+   "vi": "tiền tệ",
+   "ex": "Payments in foreign currency incur a small fee.",
+   "exVi": "Thanh toán bằng ngoại tệ chịu một khoản phí nhỏ.",
+   "col": [
+    "foreign currency",
+    "a stable currency"
+   ]
+  },
+  {
+   "id": "fi071",
+   "topic": "Ngân hàng & tài chính",
+   "w": "exchange rate",
+   "ipa": "/ɪksˈtʃeɪndʒ reɪt/",
+   "pos": "n",
+   "vi": "tỷ giá hối đoái",
+   "ex": "The exchange rate moved against us this quarter.",
+   "exVi": "Tỷ giá hối đoái bất lợi cho chúng tôi trong quý này.",
+   "col": [
+    "the exchange rate",
+    "a fixed exchange rate"
+   ]
+  },
+  {
+   "id": "fi072",
+   "topic": "Ngân hàng & tài chính",
+   "w": "fund",
+   "ipa": "/fʌnd/",
+   "pos": "n, v",
+   "vi": "quỹ; cấp vốn",
+   "ex": "The project was funded by a government grant.",
+   "exVi": "Dự án được cấp vốn bằng một khoản trợ cấp của chính phủ.",
+   "col": [
+    "raise funds",
+    "a pension fund"
+   ]
+  },
+  {
+   "id": "fi073",
+   "topic": "Ngân hàng & tài chính",
+   "w": "grant",
+   "ipa": "/ɡrɑːnt/",
+   "pos": "n",
+   "vi": "khoản tài trợ",
+   "ex": "A research grant covered half the cost.",
+   "exVi": "Một khoản tài trợ nghiên cứu chi trả một nửa chi phí.",
+   "col": [
+    "apply for a grant",
+    "award a grant"
+   ]
+  },
+  {
+   "id": "fi074",
+   "topic": "Ngân hàng & tài chính",
+   "w": "subsidy",
+   "ipa": "/ˈsʌbsədi/",
+   "pos": "n",
+   "vi": "khoản trợ giá",
+   "ex": "The government offers a subsidy for solar panels.",
+   "exVi": "Chính phủ cấp trợ giá cho tấm pin mặt trời.",
+   "col": [
+    "a government subsidy",
+    "receive a subsidy"
+   ]
+  },
+  {
+   "id": "fi075",
+   "topic": "Ngân hàng & tài chính",
+   "w": "collateral",
+   "ipa": "/kəˈlætərəl/",
+   "pos": "n",
+   "vi": "tài sản thế chấp",
+   "ex": "The warehouse served as collateral for the loan.",
+   "exVi": "Nhà kho được dùng làm tài sản thế chấp cho khoản vay.",
+   "col": [
+    "put up collateral",
+    "loan collateral"
+   ]
+  },
+  {
+   "id": "fi076",
+   "topic": "Ngân hàng & tài chính",
+   "w": "default",
+   "ipa": "/dɪˈfɔːlt/",
+   "pos": "v",
+   "vi": "vỡ nợ",
+   "ex": "The borrower defaulted on three consecutive payments.",
+   "exVi": "Người vay vỡ nợ ba kỳ trả liên tiếp.",
+   "col": [
+    "default on a loan",
+    "risk of default"
+   ]
+  },
+  {
+   "id": "fi077",
+   "topic": "Ngân hàng & tài chính",
+   "w": "arrears",
+   "ipa": "/əˈrɪəz/",
+   "pos": "n",
+   "vi": "khoản nợ quá hạn",
+   "ex": "The account is three months in arrears.",
+   "exVi": "Tài khoản đang nợ quá hạn ba tháng.",
+   "col": [
+    "fall into arrears",
+    "rent arrears"
+   ]
+  },
+  {
+   "id": "fi078",
+   "topic": "Ngân hàng & tài chính",
+   "w": "outstanding",
+   "ipa": "/aʊtˈstændɪŋ/",
+   "pos": "adj",
+   "vi": "còn nợ chưa trả",
+   "ex": "The outstanding balance must be cleared by Friday.",
+   "exVi": "Số dư còn nợ phải được trả xong trước thứ Sáu.",
+   "col": [
+    "an outstanding loan",
+    "an outstanding amount"
+   ]
+  },
+  {
+   "id": "fi079",
+   "topic": "Ngân hàng & tài chính",
+   "w": "disburse",
+   "ipa": "/dɪsˈbɜːs/",
+   "pos": "v",
+   "vi": "giải ngân",
+   "ex": "The funds will be disbursed in three stages.",
+   "exVi": "Vốn sẽ được giải ngân trong ba đợt.",
+   "col": [
+    "disburse funds",
+    "disburse a loan"
+   ]
+  },
+  {
+   "id": "fi080",
+   "topic": "Ngân hàng & tài chính",
+   "w": "allocate",
+   "ipa": "/ˈæləkeɪt/",
+   "pos": "v",
+   "vi": "phân bổ",
+   "ex": "The board allocated more money to research.",
+   "exVi": "Hội đồng phân bổ thêm tiền cho nghiên cứu.",
+   "col": [
+    "allocate funds",
+    "allocate a budget"
+   ]
+  },
+  {
+   "id": "fi081",
+   "topic": "Ngân hàng & tài chính",
+   "w": "appropriation",
+   "ipa": "/əˌprəʊpriˈeɪʃn/",
+   "pos": "n",
+   "vi": "khoản kinh phí được duyệt",
+   "ex": "The appropriation for training was doubled this year.",
+   "exVi": "Khoản kinh phí cho đào tạo được tăng gấp đôi năm nay.",
+   "col": [
+    "a budget appropriation",
+    "approve an appropriation"
+   ]
+  },
+  {
+   "id": "fi082",
+   "topic": "Ngân hàng & tài chính",
+   "w": "tax",
+   "ipa": "/tæks/",
+   "pos": "n",
+   "vi": "thuế",
+   "ex": "Corporate tax is due at the end of the fiscal year.",
+   "exVi": "Thuế doanh nghiệp đến hạn vào cuối năm tài chính.",
+   "col": [
+    "pay tax",
+    "a tax return"
+   ]
+  },
+  {
+   "id": "fi083",
+   "topic": "Ngân hàng & tài chính",
+   "w": "taxable",
+   "ipa": "/ˈtæksəbl/",
+   "pos": "adj",
+   "vi": "chịu thuế",
+   "ex": "Only part of the allowance is taxable.",
+   "exVi": "Chỉ một phần khoản trợ cấp chịu thuế.",
+   "col": [
+    "taxable income",
+    "a taxable benefit"
+   ]
+  },
+  {
+   "id": "fi084",
+   "topic": "Ngân hàng & tài chính",
+   "w": "levy",
+   "ipa": "/ˈlevi/",
+   "pos": "n, v",
+   "vi": "khoản thu, đánh thuế",
+   "ex": "A small levy funds the industry regulator.",
+   "exVi": "Một khoản thu nhỏ tài trợ cho cơ quan quản lý ngành.",
+   "col": [
+    "impose a levy",
+    "an import levy"
+   ]
+  },
+  {
+   "id": "fi085",
+   "topic": "Ngân hàng & tài chính",
+   "w": "deduct",
+   "ipa": "/dɪˈdʌkt/",
+   "pos": "v",
+   "vi": "khấu trừ",
+   "ex": "Tax is deducted from your salary before payment.",
+   "exVi": "Thuế được khấu trừ khỏi lương của bạn trước khi chi trả.",
+   "col": [
+    "deduct tax",
+    "deduct an amount"
+   ]
+  },
+  {
+   "id": "fi086",
+   "topic": "Ngân hàng & tài chính",
+   "w": "exempt",
+   "ipa": "/ɪɡˈzempt/",
+   "pos": "adj",
+   "vi": "được miễn",
+   "ex": "Charitable donations are exempt from tax.",
+   "exVi": "Các khoản quyên góp từ thiện được miễn thuế.",
+   "col": [
+    "tax exempt",
+    "exempt from"
+   ]
+  },
+  {
+   "id": "fi087",
+   "topic": "Ngân hàng & tài chính",
+   "w": "fiscal",
+   "ipa": "/ˈfɪskl/",
+   "pos": "adj",
+   "vi": "thuộc tài khoá",
+   "ex": "The fiscal year ends on the thirty-first of March.",
+   "exVi": "Năm tài khoá kết thúc vào ngày 31 tháng Ba.",
+   "col": [
+    "a fiscal year",
+    "fiscal policy"
+   ]
+  },
+  {
+   "id": "fi088",
+   "topic": "Ngân hàng & tài chính",
+   "w": "monetary",
+   "ipa": "/ˈmʌnɪtri/",
+   "pos": "adj",
+   "vi": "thuộc tiền tệ",
+   "ex": "Monetary policy is set by the central bank.",
+   "exVi": "Chính sách tiền tệ do ngân hàng trung ương quyết định.",
+   "col": [
+    "monetary policy",
+    "a monetary union"
+   ]
+  },
+  {
+   "id": "fi089",
+   "topic": "Ngân hàng & tài chính",
+   "w": "insurance",
+   "ipa": "/ɪnˈʃʊərəns/",
+   "pos": "n",
+   "vi": "bảo hiểm",
+   "ex": "The premises are covered by comprehensive insurance.",
+   "exVi": "Mặt bằng được bảo hiểm toàn diện.",
+   "col": [
+    "take out insurance",
+    "an insurance policy"
+   ]
+  },
+  {
+   "id": "fi090",
+   "topic": "Ngân hàng & tài chính",
+   "w": "premium",
+   "ipa": "/ˈpriːmiəm/",
+   "pos": "n",
+   "vi": "phí bảo hiểm",
+   "ex": "The annual premium rose after the claim.",
+   "exVi": "Phí bảo hiểm năm tăng sau khi có yêu cầu bồi thường.",
+   "col": [
+    "an insurance premium",
+    "pay a premium"
+   ]
+  },
+  {
+   "id": "fi091",
+   "topic": "Ngân hàng & tài chính",
+   "w": "policyholder",
+   "ipa": "/ˈpɒləsihəʊldə/",
+   "pos": "n",
+   "vi": "người mua bảo hiểm",
+   "ex": "The policyholder must report any accident within a week.",
+   "exVi": "Người mua bảo hiểm phải báo mọi tai nạn trong một tuần.",
+   "col": [
+    "a policyholder",
+    "notify the policyholder"
+   ]
+  },
+  {
+   "id": "fi092",
+   "topic": "Ngân hàng & tài chính",
+   "w": "claim",
+   "ipa": "/kleɪm/",
+   "pos": "n, v",
+   "vi": "yêu cầu bồi thường",
+   "ex": "She filed a claim for the damaged goods.",
+   "exVi": "Bà nộp yêu cầu bồi thường cho hàng hỏng.",
+   "col": [
+    "file a claim",
+    "a valid claim"
+   ]
+  },
+  {
+   "id": "fi093",
+   "topic": "Ngân hàng & tài chính",
+   "w": "coverage",
+   "ipa": "/ˈkʌvərɪdʒ/",
+   "pos": "n",
+   "vi": "phạm vi bảo hiểm",
+   "ex": "The policy provides coverage for fire and theft.",
+   "exVi": "Hợp đồng bảo hiểm cho cả cháy và trộm.",
+   "col": [
+    "insurance coverage",
+    "full coverage"
+   ]
+  },
+  {
+   "id": "fi094",
+   "topic": "Ngân hàng & tài chính",
+   "w": "underwrite",
+   "ipa": "/ˌʌndəˈraɪt/",
+   "pos": "v",
+   "vi": "bảo lãnh, nhận bảo hiểm",
+   "ex": "Only a large insurer can underwrite a shipment of this size.",
+   "exVi": "Chỉ một hãng bảo hiểm lớn mới có thể nhận bảo hiểm một lô hàng cỡ này.",
+   "col": [
+    "underwrite a policy",
+    "underwrite a risk"
+   ]
+  },
+  {
+   "id": "fi095",
+   "topic": "Ngân hàng & tài chính",
+   "w": "actuary",
+   "ipa": "/ˈæktʃuəri/",
+   "pos": "n",
+   "vi": "chuyên viên định phí bảo hiểm",
+   "ex": "An actuary calculates the risk before setting the premium.",
+   "exVi": "Chuyên viên định phí tính rủi ro trước khi định mức phí.",
+   "col": [
+    "a qualified actuary",
+    "consult an actuary"
+   ]
+  },
+  {
+   "id": "fi096",
+   "topic": "Ngân hàng & tài chính",
+   "w": "liquidity",
+   "ipa": "/lɪˈkwɪdəti/",
+   "pos": "n",
+   "vi": "tính thanh khoản",
+   "ex": "The firm keeps enough liquidity to cover three months.",
+   "exVi": "Công ty giữ đủ thanh khoản để trang trải ba tháng.",
+   "col": [
+    "maintain liquidity",
+    "a liquidity problem"
+   ]
+  },
+  {
+   "id": "fi097",
+   "topic": "Ngân hàng & tài chính",
+   "w": "insolvency",
+   "ipa": "/ɪnˈsɒlvənsi/",
+   "pos": "n",
+   "vi": "tình trạng mất khả năng trả nợ",
+   "ex": "Poor cash flow pushed the firm toward insolvency.",
+   "exVi": "Dòng tiền kém đẩy công ty tới mất khả năng trả nợ.",
+   "col": [
+    "face insolvency",
+    "avoid insolvency"
+   ]
+  },
+  {
+   "id": "fi098",
+   "topic": "Ngân hàng & tài chính",
+   "w": "remuneration",
+   "ipa": "/rɪˌmjuːnəˈreɪʃn/",
+   "pos": "n",
+   "vi": "thù lao",
+   "ex": "The report lists the directors' total remuneration.",
+   "exVi": "Báo cáo liệt kê tổng thù lao của các giám đốc.",
+   "col": [
+    "total remuneration",
+    "a remuneration package"
+   ]
+  }
+ ]
+}

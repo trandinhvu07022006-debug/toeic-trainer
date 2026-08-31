@@ -1,0 +1,1195 @@
+{
+ "topic": "Giao thông & ô tô",
+ "words": [
+  {
+   "id": "au001",
+   "topic": "Giao thông & ô tô",
+   "w": "vehicle",
+   "ipa": "/ˈviːəkl/",
+   "pos": "n",
+   "vi": "phương tiện",
+   "ex": "The company added five vehicles to its fleet.",
+   "exVi": "Công ty thêm năm phương tiện vào đội xe.",
+   "col": [
+    "a vehicle",
+    "a commercial vehicle"
+   ]
+  },
+  {
+   "id": "au002",
+   "topic": "Giao thông & ô tô",
+   "w": "automobile",
+   "ipa": "/ˈɔːtəməbiːl/",
+   "pos": "n",
+   "vi": "xe hơi",
+   "ex": "The factory builds automobiles for export.",
+   "exVi": "Nhà máy sản xuất xe hơi để xuất khẩu.",
+   "col": [
+    "an automobile",
+    "the automobile industry"
+   ]
+  },
+  {
+   "id": "au003",
+   "topic": "Giao thông & ô tô",
+   "w": "fleet",
+   "ipa": "/fliːt/",
+   "pos": "n",
+   "vi": "đội xe",
+   "ex": "The firm renewed its delivery fleet.",
+   "exVi": "Công ty làm mới đội xe giao hàng.",
+   "col": [
+    "a fleet",
+    "a delivery fleet"
+   ]
+  },
+  {
+   "id": "au004",
+   "topic": "Giao thông & ô tô",
+   "w": "engine",
+   "ipa": "/ˈendʒɪn/",
+   "pos": "n",
+   "vi": "động cơ",
+   "ex": "The engine was serviced before the trip.",
+   "exVi": "Động cơ được bảo dưỡng trước chuyến đi.",
+   "col": [
+    "an engine",
+    "a diesel engine"
+   ]
+  },
+  {
+   "id": "au005",
+   "topic": "Giao thông & ô tô",
+   "w": "transmission",
+   "ipa": "/trænzˈmɪʃn/",
+   "pos": "n",
+   "vi": "hộp số",
+   "ex": "The car has an automatic transmission.",
+   "exVi": "Xe có hộp số tự động.",
+   "col": [
+    "a transmission",
+    "an automatic transmission"
+   ]
+  },
+  {
+   "id": "au006",
+   "topic": "Giao thông & ô tô",
+   "w": "chassis",
+   "ipa": "/ˈʃæsi/",
+   "pos": "n",
+   "vi": "khung gầm",
+   "ex": "The chassis is built from lightweight steel.",
+   "exVi": "Khung gầm được làm từ thép nhẹ.",
+   "col": [
+    "a chassis",
+    "a steel chassis"
+   ]
+  },
+  {
+   "id": "au007",
+   "topic": "Giao thông & ô tô",
+   "w": "component",
+   "ipa": "/kəmˈpəʊnənt/",
+   "pos": "n",
+   "vi": "linh kiện",
+   "ex": "Each component is tested before assembly.",
+   "exVi": "Mỗi linh kiện được kiểm tra trước khi lắp ráp.",
+   "col": [
+    "a component",
+    "a spare component"
+   ]
+  },
+  {
+   "id": "au008",
+   "topic": "Giao thông & ô tô",
+   "w": "assembly line",
+   "ipa": "/əˈsembli laɪn/",
+   "pos": "n",
+   "vi": "dây chuyền lắp ráp",
+   "ex": "The assembly line builds a car every minute.",
+   "exVi": "Dây chuyền lắp ráp cho ra một xe mỗi phút.",
+   "col": [
+    "an assembly line",
+    "an assembly line worker"
+   ]
+  },
+  {
+   "id": "au009",
+   "topic": "Giao thông & ô tô",
+   "w": "manufacturer",
+   "ipa": "/ˌmænjuˈfæktʃərə/",
+   "pos": "n",
+   "vi": "nhà sản xuất",
+   "ex": "The manufacturer offers a five-year warranty.",
+   "exVi": "Nhà sản xuất cung cấp bảo hành năm năm.",
+   "col": [
+    "a car manufacturer",
+    "a leading manufacturer"
+   ]
+  },
+  {
+   "id": "au010",
+   "topic": "Giao thông & ô tô",
+   "w": "dealership",
+   "ipa": "/ˈdiːləʃɪp/",
+   "pos": "n",
+   "vi": "đại lý xe",
+   "ex": "The dealership offers a test drive.",
+   "exVi": "Đại lý xe cho lái thử.",
+   "col": [
+    "a car dealership",
+    "a local dealership"
+   ]
+  },
+  {
+   "id": "au011",
+   "topic": "Giao thông & ô tô",
+   "w": "warranty",
+   "ipa": "/ˈwɒrənti/",
+   "pos": "n",
+   "vi": "bảo hành",
+   "ex": "The warranty covers parts and labour.",
+   "exVi": "Bảo hành bao gồm linh kiện và công.",
+   "col": [
+    "a warranty",
+    "a five-year warranty"
+   ]
+  },
+  {
+   "id": "au012",
+   "topic": "Giao thông & ô tô",
+   "w": "mileage",
+   "ipa": "/ˈmaɪlɪdʒ/",
+   "pos": "n",
+   "vi": "số quãng đường đi",
+   "ex": "The car has low mileage for its age.",
+   "exVi": "Xe có số quãng đường thấp so với tuổi.",
+   "col": [
+    "low mileage",
+    "high mileage"
+   ]
+  },
+  {
+   "id": "au013",
+   "topic": "Giao thông & ô tô",
+   "w": "odometer",
+   "ipa": "/əʊˈdɒmɪtə/",
+   "pos": "n",
+   "vi": "đồng hồ đo quãng đường",
+   "ex": "The odometer showed forty thousand miles.",
+   "exVi": "Đồng hồ đo hiển thị bốn mươi nghìn dặm.",
+   "col": [
+    "an odometer",
+    "an odometer reading"
+   ]
+  },
+  {
+   "id": "au014",
+   "topic": "Giao thông & ô tô",
+   "w": "fuel efficiency",
+   "ipa": "/fjuːəl ɪˈfɪʃnsi/",
+   "pos": "n",
+   "vi": "hiệu suất nhiên liệu",
+   "ex": "Fuel efficiency was a key selling point.",
+   "exVi": "Hiệu suất nhiên liệu là một điểm bán hàng quan trọng.",
+   "col": [
+    "fuel efficiency",
+    "improve fuel efficiency"
+   ]
+  },
+  {
+   "id": "au015",
+   "topic": "Giao thông & ô tô",
+   "w": "emissions",
+   "ipa": "/ɪˈmɪʃnz/",
+   "pos": "n",
+   "vi": "khí thải",
+   "ex": "New models produce lower emissions.",
+   "exVi": "Các mẫu mới thải ít khí thải hơn.",
+   "col": [
+    "emissions",
+    "low emissions"
+   ]
+  },
+  {
+   "id": "au016",
+   "topic": "Giao thông & ô tô",
+   "w": "electric vehicle",
+   "ipa": "/ɪˈlektrɪk ˈviːəkl/",
+   "pos": "n",
+   "vi": "xe điện",
+   "ex": "The city added electric vehicles to its fleet.",
+   "exVi": "Thành phố thêm xe điện vào đội xe.",
+   "col": [
+    "an electric vehicle",
+    "a fleet of electric vehicles"
+   ]
+  },
+  {
+   "id": "au017",
+   "topic": "Giao thông & ô tô",
+   "w": "hybrid",
+   "ipa": "/ˈhaɪbrɪd/",
+   "pos": "n",
+   "vi": "xe lai",
+   "ex": "The hybrid uses both fuel and electricity.",
+   "exVi": "Xe lai dùng cả nhiên liệu và điện.",
+   "col": [
+    "a hybrid",
+    "a hybrid car"
+   ]
+  },
+  {
+   "id": "au018",
+   "topic": "Giao thông & ô tô",
+   "w": "charging station",
+   "ipa": "/ˈtʃɑːdʒɪŋ ˈsteɪʃn/",
+   "pos": "n",
+   "vi": "trạm sạc",
+   "ex": "A charging station was built at the depot.",
+   "exVi": "Một trạm sạc được xây tại kho.",
+   "col": [
+    "a charging station",
+    "a public charging station"
+   ]
+  },
+  {
+   "id": "au019",
+   "topic": "Giao thông & ô tô",
+   "w": "maintenance",
+   "ipa": "/ˈmeɪntənəns/",
+   "pos": "n",
+   "vi": "bảo dưỡng",
+   "ex": "Regular maintenance keeps the fleet reliable.",
+   "exVi": "Bảo dưỡng đều đặn giữ đội xe đáng tin cậy.",
+   "col": [
+    "maintenance",
+    "routine maintenance"
+   ]
+  },
+  {
+   "id": "au020",
+   "topic": "Giao thông & ô tô",
+   "w": "inspection",
+   "ipa": "/ɪnˈspekʃn/",
+   "pos": "n",
+   "vi": "kiểm định",
+   "ex": "The vehicle passed its annual inspection.",
+   "exVi": "Phương tiện vượt qua kiểm định hằng năm.",
+   "col": [
+    "an inspection",
+    "a vehicle inspection"
+   ]
+  },
+  {
+   "id": "au021",
+   "topic": "Giao thông & ô tô",
+   "w": "repair",
+   "ipa": "/rɪˈpeə/",
+   "pos": "n, v",
+   "vi": "sửa chữa",
+   "ex": "The repair took two days at the garage.",
+   "exVi": "Việc sửa chữa mất hai ngày ở gara.",
+   "col": [
+    "a repair",
+    "a repair shop"
+   ]
+  },
+  {
+   "id": "au022",
+   "topic": "Giao thông & ô tô",
+   "w": "garage",
+   "ipa": "/ˈɡærɑːʒ/",
+   "pos": "n",
+   "vi": "gara sửa xe",
+   "ex": "The car is at the garage for a service.",
+   "exVi": "Xe đang ở gara để bảo dưỡng.",
+   "col": [
+    "a garage",
+    "a repair garage"
+   ]
+  },
+  {
+   "id": "au023",
+   "topic": "Giao thông & ô tô",
+   "w": "mechanic",
+   "ipa": "/məˈkænɪk/",
+   "pos": "n",
+   "vi": "thợ máy",
+   "ex": "The mechanic replaced the worn brakes.",
+   "exVi": "Thợ máy thay bộ phanh mòn.",
+   "col": [
+    "a mechanic",
+    "a car mechanic"
+   ]
+  },
+  {
+   "id": "au024",
+   "topic": "Giao thông & ô tô",
+   "w": "spare part",
+   "ipa": "/speə pɑːt/",
+   "pos": "n",
+   "vi": "phụ tùng thay thế",
+   "ex": "The garage keeps common spare parts in stock.",
+   "exVi": "Gara giữ sẵn các phụ tùng thay thế thông dụng.",
+   "col": [
+    "a spare part",
+    "order a spare part"
+   ]
+  },
+  {
+   "id": "au025",
+   "topic": "Giao thông & ô tô",
+   "w": "tire",
+   "ipa": "/ˈtaɪə/",
+   "pos": "n",
+   "vi": "lốp xe",
+   "ex": "The front tire needs replacing soon.",
+   "exVi": "Lốp trước cần thay sớm.",
+   "col": [
+    "a tire",
+    "a flat tire"
+   ]
+  },
+  {
+   "id": "au026",
+   "topic": "Giao thông & ô tô",
+   "w": "brake",
+   "ipa": "/breɪk/",
+   "pos": "n",
+   "vi": "phanh",
+   "ex": "The brakes were checked during the service.",
+   "exVi": "Phanh được kiểm tra trong lúc bảo dưỡng.",
+   "col": [
+    "a brake",
+    "the brakes"
+   ]
+  },
+  {
+   "id": "au027",
+   "topic": "Giao thông & ô tô",
+   "w": "battery",
+   "ipa": "/ˈbætəri/",
+   "pos": "n",
+   "vi": "ắc quy",
+   "ex": "A flat battery stopped the van this morning.",
+   "exVi": "Một ắc quy hết điện làm xe tải chết máy sáng nay.",
+   "col": [
+    "a battery",
+    "a flat battery"
+   ]
+  },
+  {
+   "id": "au028",
+   "topic": "Giao thông & ô tô",
+   "w": "ignition",
+   "ipa": "/ɪɡˈnɪʃn/",
+   "pos": "n",
+   "vi": "hệ thống đánh lửa",
+   "ex": "Turn the key in the ignition to start.",
+   "exVi": "Vặn chìa trong ổ đánh lửa để khởi động.",
+   "col": [
+    "the ignition",
+    "an ignition key"
+   ]
+  },
+  {
+   "id": "au029",
+   "topic": "Giao thông & ô tô",
+   "w": "dashboard",
+   "ipa": "/ˈdæʃbɔːd/",
+   "pos": "n",
+   "vi": "bảng đồng hồ",
+   "ex": "A warning light appeared on the dashboard.",
+   "exVi": "Một đèn báo hiện trên bảng đồng hồ.",
+   "col": [
+    "a dashboard",
+    "the dashboard display"
+   ]
+  },
+  {
+   "id": "au030",
+   "topic": "Giao thông & ô tô",
+   "w": "recall",
+   "ipa": "/rɪˈkɔːl/",
+   "pos": "n, v",
+   "vi": "thu hồi",
+   "ex": "A safety recall affected thousands of cars.",
+   "exVi": "Một đợt thu hồi vì an toàn ảnh hưởng hàng nghìn xe.",
+   "col": [
+    "a recall",
+    "a safety recall"
+   ]
+  },
+  {
+   "id": "au031",
+   "topic": "Giao thông & ô tô",
+   "w": "defect",
+   "ipa": "/ˈdiːfekt/",
+   "pos": "n",
+   "vi": "lỗi kỹ thuật",
+   "ex": "A minor defect delayed the delivery.",
+   "exVi": "Một lỗi kỹ thuật nhỏ làm chậm việc giao xe.",
+   "col": [
+    "a defect",
+    "a manufacturing defect"
+   ]
+  },
+  {
+   "id": "au032",
+   "topic": "Giao thông & ô tô",
+   "w": "lease",
+   "ipa": "/liːs/",
+   "pos": "n, v",
+   "vi": "thuê xe dài hạn",
+   "ex": "The firm leases its company cars.",
+   "exVi": "Công ty thuê xe công của mình.",
+   "col": [
+    "a lease",
+    "lease a vehicle"
+   ]
+  },
+  {
+   "id": "au033",
+   "topic": "Giao thông & ô tô",
+   "w": "registration",
+   "ipa": "/ˌredʒɪˈstreɪʃn/",
+   "pos": "n",
+   "vi": "đăng ký xe",
+   "ex": "The vehicle registration is renewed yearly.",
+   "exVi": "Đăng ký xe được gia hạn hằng năm.",
+   "col": [
+    "registration",
+    "vehicle registration"
+   ]
+  },
+  {
+   "id": "au034",
+   "topic": "Giao thông & ô tô",
+   "w": "insurance",
+   "ipa": "/ɪnˈʃʊərəns/",
+   "pos": "n",
+   "vi": "bảo hiểm xe",
+   "ex": "Vehicle insurance is required by law.",
+   "exVi": "Bảo hiểm xe là bắt buộc theo luật.",
+   "col": [
+    "vehicle insurance",
+    "car insurance"
+   ]
+  },
+  {
+   "id": "au035",
+   "topic": "Giao thông & ô tô",
+   "w": "license",
+   "ipa": "/ˈlaɪsns/",
+   "pos": "n",
+   "vi": "giấy phép lái xe",
+   "ex": "A valid license is needed to drive the van.",
+   "exVi": "Cần một giấy phép lái xe hợp lệ để lái xe tải.",
+   "col": [
+    "a driving license",
+    "a valid license"
+   ]
+  },
+  {
+   "id": "au036",
+   "topic": "Giao thông & ô tô",
+   "w": "commute",
+   "ipa": "/kəˈmjuːt/",
+   "pos": "n, v",
+   "vi": "hành trình đi làm",
+   "ex": "The daily commute takes about an hour.",
+   "exVi": "Hành trình đi làm hằng ngày mất khoảng một tiếng.",
+   "col": [
+    "a commute",
+    "a daily commute"
+   ]
+  },
+  {
+   "id": "au037",
+   "topic": "Giao thông & ô tô",
+   "w": "carpool",
+   "ipa": "/ˈkɑːpuːl/",
+   "pos": "n, v",
+   "vi": "đi chung xe",
+   "ex": "Staff carpool to reduce parking pressure.",
+   "exVi": "Nhân viên đi chung xe để giảm áp lực đỗ xe.",
+   "col": [
+    "a carpool",
+    "carpool to work"
+   ]
+  },
+  {
+   "id": "au038",
+   "topic": "Giao thông & ô tô",
+   "w": "congestion",
+   "ipa": "/kənˈdʒestʃən/",
+   "pos": "n",
+   "vi": "ùn tắc",
+   "ex": "Traffic congestion delays deliveries downtown.",
+   "exVi": "Ùn tắc giao thông làm chậm việc giao hàng ở trung tâm.",
+   "col": [
+    "congestion",
+    "traffic congestion"
+   ]
+  },
+  {
+   "id": "au039",
+   "topic": "Giao thông & ô tô",
+   "w": "toll",
+   "ipa": "/təʊl/",
+   "pos": "n",
+   "vi": "phí đường",
+   "ex": "A toll is charged on the new bridge.",
+   "exVi": "Một khoản phí được thu trên cầu mới.",
+   "col": [
+    "a toll",
+    "a toll road"
+   ]
+  },
+  {
+   "id": "au040",
+   "topic": "Giao thông & ô tô",
+   "w": "freight",
+   "ipa": "/freɪt/",
+   "pos": "n",
+   "vi": "hàng vận chuyển",
+   "ex": "The truck carries freight across the country.",
+   "exVi": "Xe tải chở hàng khắp cả nước.",
+   "col": [
+    "freight",
+    "road freight"
+   ]
+  },
+  {
+   "id": "au041",
+   "topic": "Giao thông & ô tô",
+   "w": "haulage",
+   "ipa": "/ˈhɔːlɪdʒ/",
+   "pos": "n",
+   "vi": "vận tải đường bộ",
+   "ex": "A local firm handles the haulage.",
+   "exVi": "Một công ty địa phương lo việc vận tải đường bộ.",
+   "col": [
+    "haulage",
+    "road haulage"
+   ]
+  },
+  {
+   "id": "au042",
+   "topic": "Giao thông & ô tô",
+   "w": "durable",
+   "ipa": "/ˈdjʊərəbl/",
+   "pos": "adj",
+   "vi": "bền",
+   "ex": "The parts are durable and easy to fit.",
+   "exVi": "Các linh kiện bền và dễ lắp.",
+   "col": [
+    "durable",
+    "a durable material"
+   ]
+  },
+  {
+   "id": "au043",
+   "topic": "Giao thông & ô tô",
+   "w": "roadworthy",
+   "ipa": "/ˈrəʊdwɜːði/",
+   "pos": "adj",
+   "vi": "đủ điều kiện lưu thông",
+   "ex": "The van was declared roadworthy after repairs.",
+   "exVi": "Xe tải được xác nhận đủ điều kiện lưu thông sau khi sửa.",
+   "col": [
+    "roadworthy",
+    "a roadworthy vehicle"
+   ]
+  },
+  {
+   "id": "au044",
+   "topic": "Giao thông & ô tô",
+   "w": "railway",
+   "ipa": "/ˈreɪlweɪ/",
+   "pos": "n",
+   "vi": "đường sắt",
+   "ex": "The railway links the port to the city.",
+   "exVi": "Đường sắt nối cảng với thành phố.",
+   "col": [
+    "a railway",
+    "a railway line"
+   ]
+  },
+  {
+   "id": "au045",
+   "topic": "Giao thông & ô tô",
+   "w": "platform",
+   "ipa": "/ˈplætfɔːm/",
+   "pos": "n",
+   "vi": "sân ga",
+   "ex": "The train leaves from platform three.",
+   "exVi": "Tàu khởi hành từ sân ga số ba.",
+   "col": [
+    "a platform",
+    "a train platform"
+   ]
+  },
+  {
+   "id": "au046",
+   "topic": "Giao thông & ô tô",
+   "w": "locomotive",
+   "ipa": "/ˌləʊkəˈməʊtɪv/",
+   "pos": "n",
+   "vi": "đầu máy xe lửa",
+   "ex": "A new locomotive pulls the freight train.",
+   "exVi": "Một đầu máy mới kéo đoàn tàu hàng.",
+   "col": [
+    "a locomotive",
+    "a diesel locomotive"
+   ]
+  },
+  {
+   "id": "au047",
+   "topic": "Giao thông & ô tô",
+   "w": "carriage",
+   "ipa": "/ˈkærɪdʒ/",
+   "pos": "n",
+   "vi": "toa tàu",
+   "ex": "The first carriage is reserved for staff.",
+   "exVi": "Toa đầu tiên dành riêng cho nhân viên.",
+   "col": [
+    "a carriage",
+    "a passenger carriage"
+   ]
+  },
+  {
+   "id": "au048",
+   "topic": "Giao thông & ô tô",
+   "w": "timetable",
+   "ipa": "/ˈtaɪmteɪbl/",
+   "pos": "n",
+   "vi": "thời gian biểu",
+   "ex": "The timetable changed for the winter season.",
+   "exVi": "Thời gian biểu thay đổi cho mùa đông.",
+   "col": [
+    "a timetable",
+    "a train timetable"
+   ]
+  },
+  {
+   "id": "au049",
+   "topic": "Giao thông & ô tô",
+   "w": "fare",
+   "ipa": "/feə/",
+   "pos": "n",
+   "vi": "giá vé",
+   "ex": "The fare rose slightly this year.",
+   "exVi": "Giá vé tăng nhẹ năm nay.",
+   "col": [
+    "a fare",
+    "a train fare"
+   ]
+  },
+  {
+   "id": "au050",
+   "topic": "Giao thông & ô tô",
+   "w": "terminal",
+   "ipa": "/ˈtɜːmɪnl/",
+   "pos": "n",
+   "vi": "bến, ga cuối",
+   "ex": "The bus terminal is next to the station.",
+   "exVi": "Bến xe buýt nằm cạnh nhà ga.",
+   "col": [
+    "a terminal",
+    "a bus terminal"
+   ]
+  },
+  {
+   "id": "au051",
+   "topic": "Giao thông & ô tô",
+   "w": "depot",
+   "ipa": "/ˈdepəʊ/",
+   "pos": "n",
+   "vi": "kho bãi xe",
+   "ex": "The buses return to the depot each night.",
+   "exVi": "Xe buýt về kho bãi mỗi đêm.",
+   "col": [
+    "a depot",
+    "a bus depot"
+   ]
+  },
+  {
+   "id": "au052",
+   "topic": "Giao thông & ô tô",
+   "w": "route",
+   "ipa": "/ruːt/",
+   "pos": "n",
+   "vi": "tuyến",
+   "ex": "The new route cuts the journey by ten minutes.",
+   "exVi": "Tuyến mới rút hành trình mười phút.",
+   "col": [
+    "a route",
+    "a bus route"
+   ]
+  },
+  {
+   "id": "au053",
+   "topic": "Giao thông & ô tô",
+   "w": "transit",
+   "ipa": "/ˈtrænzɪt/",
+   "pos": "n",
+   "vi": "giao thông công cộng",
+   "ex": "The city improved its public transit.",
+   "exVi": "Thành phố cải thiện giao thông công cộng.",
+   "col": [
+    "public transit",
+    "a transit system"
+   ]
+  },
+  {
+   "id": "au054",
+   "topic": "Giao thông & ô tô",
+   "w": "shuttle",
+   "ipa": "/ˈʃʌtl/",
+   "pos": "n",
+   "vi": "xe đưa đón",
+   "ex": "A shuttle runs between the two sites.",
+   "exVi": "Một xe đưa đón chạy giữa hai cơ sở.",
+   "col": [
+    "a shuttle",
+    "a shuttle bus"
+   ]
+  },
+  {
+   "id": "au055",
+   "topic": "Giao thông & ô tô",
+   "w": "freighter",
+   "ipa": "/ˈfreɪtə/",
+   "pos": "n",
+   "vi": "tàu chở hàng",
+   "ex": "The freighter docked at the port overnight.",
+   "exVi": "Tàu chở hàng cập cảng qua đêm.",
+   "col": [
+    "a freighter",
+    "a cargo freighter"
+   ]
+  },
+  {
+   "id": "au056",
+   "topic": "Giao thông & ô tô",
+   "w": "port",
+   "ipa": "/pɔːt/",
+   "pos": "n",
+   "vi": "cảng",
+   "ex": "The port handles thousands of containers daily.",
+   "exVi": "Cảng xử lý hàng nghìn công-ten-nơ mỗi ngày.",
+   "col": [
+    "a port",
+    "a sea port"
+   ]
+  },
+  {
+   "id": "au057",
+   "topic": "Giao thông & ô tô",
+   "w": "dock",
+   "ipa": "/dɒk/",
+   "pos": "n, v",
+   "vi": "bến tàu",
+   "ex": "The ship will dock at noon on Friday.",
+   "exVi": "Con tàu sẽ cập bến vào trưa thứ Sáu.",
+   "col": [
+    "a dock",
+    "dock at a port"
+   ]
+  },
+  {
+   "id": "au058",
+   "topic": "Giao thông & ô tô",
+   "w": "harbor",
+   "ipa": "/ˈhɑːbə/",
+   "pos": "n",
+   "vi": "bến cảng",
+   "ex": "Small boats fill the harbor at dawn.",
+   "exVi": "Thuyền nhỏ lấp đầy bến cảng lúc bình minh.",
+   "col": [
+    "a harbor",
+    "a busy harbor"
+   ]
+  },
+  {
+   "id": "au059",
+   "topic": "Giao thông & ô tô",
+   "w": "aviation",
+   "ipa": "/ˌeɪviˈeɪʃn/",
+   "pos": "n",
+   "vi": "hàng không",
+   "ex": "The aviation sector recovered after the downturn.",
+   "exVi": "Ngành hàng không phục hồi sau thời kỳ suy giảm.",
+   "col": [
+    "aviation",
+    "the aviation industry"
+   ]
+  },
+  {
+   "id": "au060",
+   "topic": "Giao thông & ô tô",
+   "w": "runway",
+   "ipa": "/ˈrʌnweɪ/",
+   "pos": "n",
+   "vi": "đường băng",
+   "ex": "The plane taxied slowly along the runway.",
+   "exVi": "Máy bay lăn chậm dọc đường băng.",
+   "col": [
+    "a runway",
+    "a long runway"
+   ]
+  },
+  {
+   "id": "au061",
+   "topic": "Giao thông & ô tô",
+   "w": "cargo",
+   "ipa": "/ˈkɑːɡəʊ/",
+   "pos": "n",
+   "vi": "hàng hoá chở",
+   "ex": "The plane carried cargo and mail.",
+   "exVi": "Máy bay chở hàng hoá và thư.",
+   "col": [
+    "cargo",
+    "air cargo"
+   ]
+  },
+  {
+   "id": "au062",
+   "topic": "Giao thông & ô tô",
+   "w": "logistics",
+   "ipa": "/ləˈdʒɪstɪks/",
+   "pos": "n",
+   "vi": "hậu cần",
+   "ex": "Good logistics keep the fleet moving.",
+   "exVi": "Hậu cần tốt giữ đội xe luôn hoạt động.",
+   "col": [
+    "logistics",
+    "transport logistics"
+   ]
+  },
+  {
+   "id": "au063",
+   "topic": "Giao thông & ô tô",
+   "w": "dispatch",
+   "ipa": "/dɪˈspætʃ/",
+   "pos": "n, v",
+   "vi": "điều phối, gửi đi",
+   "ex": "The dispatch team plans each route.",
+   "exVi": "Đội điều phối lên kế hoạch cho mỗi tuyến.",
+   "col": [
+    "dispatch",
+    "a dispatch center"
+   ]
+  },
+  {
+   "id": "au064",
+   "topic": "Giao thông & ô tô",
+   "w": "navigation",
+   "ipa": "/ˌnævɪˈɡeɪʃn/",
+   "pos": "n",
+   "vi": "dẫn đường",
+   "ex": "Satellite navigation guides the drivers.",
+   "exVi": "Dẫn đường vệ tinh hướng dẫn tài xế.",
+   "col": [
+    "navigation",
+    "satellite navigation"
+   ]
+  },
+  {
+   "id": "au065",
+   "topic": "Giao thông & ô tô",
+   "w": "detour",
+   "ipa": "/ˈdiːtʊə/",
+   "pos": "n",
+   "vi": "đường vòng",
+   "ex": "A detour was set up around the roadworks.",
+   "exVi": "Một đường vòng được dựng quanh công trường.",
+   "col": [
+    "a detour",
+    "take a detour"
+   ]
+  },
+  {
+   "id": "au066",
+   "topic": "Giao thông & ô tô",
+   "w": "diversion",
+   "ipa": "/daɪˈvɜːʃn/",
+   "pos": "n",
+   "vi": "lối tránh",
+   "ex": "A diversion guided traffic off the highway.",
+   "exVi": "Một lối tránh dẫn xe khỏi đường cao tốc.",
+   "col": [
+    "a diversion",
+    "a traffic diversion"
+   ]
+  },
+  {
+   "id": "au067",
+   "topic": "Giao thông & ô tô",
+   "w": "gridlock",
+   "ipa": "/ˈɡrɪdlɒk/",
+   "pos": "n",
+   "vi": "kẹt cứng",
+   "ex": "Morning gridlock delayed the whole fleet.",
+   "exVi": "Kẹt cứng buổi sáng làm chậm cả đội xe.",
+   "col": [
+    "gridlock",
+    "traffic gridlock"
+   ]
+  },
+  {
+   "id": "au068",
+   "topic": "Giao thông & ô tô",
+   "w": "overpass",
+   "ipa": "/ˈəʊvəpɑːs/",
+   "pos": "n",
+   "vi": "cầu vượt",
+   "ex": "The overpass eased the junction traffic.",
+   "exVi": "Cầu vượt giảm bớt giao thông tại nút giao.",
+   "col": [
+    "an overpass",
+    "a road overpass"
+   ]
+  },
+  {
+   "id": "au069",
+   "topic": "Giao thông & ô tô",
+   "w": "intersection",
+   "ipa": "/ˌɪntəˈsekʃn/",
+   "pos": "n",
+   "vi": "giao lộ",
+   "ex": "A new light was added at the intersection.",
+   "exVi": "Một đèn mới được thêm tại giao lộ.",
+   "col": [
+    "an intersection",
+    "a busy intersection"
+   ]
+  },
+  {
+   "id": "au070",
+   "topic": "Giao thông & ô tô",
+   "w": "pedestrian",
+   "ipa": "/pəˈdestriən/",
+   "pos": "n",
+   "vi": "người đi bộ",
+   "ex": "A crossing was built for pedestrians.",
+   "exVi": "Một lối qua đường được xây cho người đi bộ.",
+   "col": [
+    "a pedestrian",
+    "a pedestrian crossing"
+   ]
+  },
+  {
+   "id": "au071",
+   "topic": "Giao thông & ô tô",
+   "w": "transport",
+   "ipa": "/ˈtrænspɔːt/",
+   "pos": "n",
+   "vi": "vận tải",
+   "ex": "The firm relies on road transport for delivery.",
+   "exVi": "Công ty dựa vào vận tải đường bộ để giao hàng.",
+   "col": [
+    "transport",
+    "road transport"
+   ]
+  },
+  {
+   "id": "au072",
+   "topic": "Giao thông & ô tô",
+   "w": "courier",
+   "ipa": "/ˈkʊriə/",
+   "pos": "n",
+   "vi": "chuyển phát nhanh",
+   "ex": "A courier delivers the parcels by bike.",
+   "exVi": "Một chuyển phát nhanh giao bưu kiện bằng xe đạp.",
+   "col": [
+    "a courier",
+    "a courier service"
+   ]
+  },
+  {
+   "id": "au073",
+   "topic": "Giao thông & ô tô",
+   "w": "delivery",
+   "ipa": "/dɪˈlɪvəri/",
+   "pos": "n",
+   "vi": "việc giao hàng",
+   "ex": "Same-day delivery is available in the city.",
+   "exVi": "Giao hàng trong ngày có ở thành phố.",
+   "col": [
+    "delivery",
+    "same-day delivery"
+   ]
+  },
+  {
+   "id": "au074",
+   "topic": "Giao thông & ô tô",
+   "w": "scheduling",
+   "ipa": "/ˈʃedjuːlɪŋ/",
+   "pos": "n",
+   "vi": "việc lập lịch trình",
+   "ex": "Good scheduling keeps the buses on time.",
+   "exVi": "Việc lập lịch trình tốt giữ xe buýt đúng giờ.",
+   "col": [
+    "scheduling",
+    "route scheduling"
+   ]
+  },
+  {
+   "id": "au075",
+   "topic": "Giao thông & ô tô",
+   "w": "reroute",
+   "ipa": "/ˌriːˈruːt/",
+   "pos": "v",
+   "vi": "đổi tuyến",
+   "ex": "Drivers were told to reroute around the flood.",
+   "exVi": "Tài xế được yêu cầu đổi tuyến quanh vùng ngập.",
+   "col": [
+    "reroute traffic",
+    "reroute a bus"
+   ]
+  },
+  {
+   "id": "au076",
+   "topic": "Giao thông & ô tô",
+   "w": "board",
+   "ipa": "/bɔːd/",
+   "pos": "v",
+   "vi": "lên xe",
+   "ex": "Passengers board through the front door.",
+   "exVi": "Hành khách lên xe qua cửa trước.",
+   "col": [
+    "board a train",
+    "board a bus"
+   ]
+  },
+  {
+   "id": "au077",
+   "topic": "Giao thông & ô tô",
+   "w": "alight",
+   "ipa": "/əˈlaɪt/",
+   "pos": "v",
+   "vi": "xuống xe",
+   "ex": "Please alight at the next stop.",
+   "exVi": "Vui lòng xuống xe ở điểm dừng tiếp theo.",
+   "col": [
+    "alight from",
+    "alight at a stop"
+   ]
+  },
+  {
+   "id": "au078",
+   "topic": "Giao thông & ô tô",
+   "w": "refuel",
+   "ipa": "/ˌriːˈfjuːəl/",
+   "pos": "v",
+   "vi": "tiếp nhiên liệu",
+   "ex": "The truck stops to refuel halfway.",
+   "exVi": "Xe tải dừng tiếp nhiên liệu giữa đường.",
+   "col": [
+    "refuel",
+    "refuel a vehicle"
+   ]
+  },
+  {
+   "id": "au079",
+   "topic": "Giao thông & ô tô",
+   "w": "overtake",
+   "ipa": "/ˌəʊvəˈteɪk/",
+   "pos": "v",
+   "vi": "vượt",
+   "ex": "It is unsafe to overtake on the bend.",
+   "exVi": "Vượt xe ở khúc cua là không an toàn.",
+   "col": [
+    "overtake a car",
+    "overtake safely"
+   ]
+  },
+  {
+   "id": "au080",
+   "topic": "Giao thông & ô tô",
+   "w": "merge",
+   "ipa": "/mɜːdʒ/",
+   "pos": "v",
+   "vi": "nhập làn",
+   "ex": "Cars merge onto the highway here.",
+   "exVi": "Xe nhập làn vào đường cao tốc ở đây.",
+   "col": [
+    "merge onto",
+    "merge lanes"
+   ]
+  },
+  {
+   "id": "au081",
+   "topic": "Giao thông & ô tô",
+   "w": "punctual",
+   "ipa": "/ˈpʌŋktʃuəl/",
+   "pos": "adj",
+   "vi": "đúng giờ",
+   "ex": "The train service is fast and punctual.",
+   "exVi": "Dịch vụ tàu nhanh và đúng giờ.",
+   "col": [
+    "punctual",
+    "always punctual"
+   ]
+  },
+  {
+   "id": "au082",
+   "topic": "Giao thông & ô tô",
+   "w": "congested",
+   "ipa": "/kənˈdʒestɪd/",
+   "pos": "adj",
+   "vi": "tắc nghẽn",
+   "ex": "The roads are congested at rush hour.",
+   "exVi": "Đường tắc nghẽn vào giờ cao điểm.",
+   "col": [
+    "congested",
+    "a congested road"
+   ]
+  },
+  {
+   "id": "au083",
+   "topic": "Giao thông & ô tô",
+   "w": "inbound",
+   "ipa": "/ˈɪnbaʊnd/",
+   "pos": "adj",
+   "vi": "chiều vào",
+   "ex": "Inbound traffic slows near the center.",
+   "exVi": "Giao thông chiều vào chậm gần trung tâm.",
+   "col": [
+    "inbound traffic",
+    "an inbound lane"
+   ]
+  },
+  {
+   "id": "au084",
+   "topic": "Giao thông & ô tô",
+   "w": "outbound",
+   "ipa": "/ˈaʊtbaʊnd/",
+   "pos": "adj",
+   "vi": "chiều ra",
+   "ex": "Outbound trains leave every ten minutes.",
+   "exVi": "Tàu chiều ra khởi hành mỗi mười phút.",
+   "col": [
+    "outbound traffic",
+    "an outbound train"
+   ]
+  },
+  {
+   "id": "au085",
+   "topic": "Giao thông & ô tô",
+   "w": "oncoming",
+   "ipa": "/ˈɒnkʌmɪŋ/",
+   "pos": "adj",
+   "vi": "đi ngược chiều",
+   "ex": "Watch for oncoming traffic at the junction.",
+   "exVi": "Chú ý xe đi ngược chiều tại nút giao.",
+   "col": [
+    "oncoming traffic",
+    "an oncoming car"
+   ]
+  }
+ ]
+}

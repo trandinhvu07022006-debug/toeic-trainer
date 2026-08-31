@@ -1,0 +1,1181 @@
+{
+ "topic": "Thời trang & bán lẻ nâng cao",
+ "words": [
+  {
+   "id": "fs001",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "apparel",
+   "ipa": "/əˈpærəl/",
+   "pos": "n",
+   "vi": "trang phục",
+   "ex": "The store sells apparel for the whole family.",
+   "exVi": "Cửa hàng bán trang phục cho cả gia đình.",
+   "col": [
+    "apparel",
+    "men's apparel"
+   ]
+  },
+  {
+   "id": "fs002",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "garment",
+   "ipa": "/ˈɡɑːmənt/",
+   "pos": "n",
+   "vi": "món quần áo",
+   "ex": "Each garment is checked before it ships.",
+   "exVi": "Mỗi món quần áo được kiểm tra trước khi gửi.",
+   "col": [
+    "a garment",
+    "a finished garment"
+   ]
+  },
+  {
+   "id": "fs003",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "attire",
+   "ipa": "/əˈtaɪə/",
+   "pos": "n",
+   "vi": "trang phục",
+   "ex": "The event calls for formal attire.",
+   "exVi": "Sự kiện yêu cầu trang phục trang trọng.",
+   "col": [
+    "attire",
+    "formal attire"
+   ]
+  },
+  {
+   "id": "fs004",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "textile",
+   "ipa": "/ˈtekstaɪl/",
+   "pos": "n",
+   "vi": "hàng dệt",
+   "ex": "The firm imports textiles from overseas.",
+   "exVi": "Công ty nhập hàng dệt từ nước ngoài.",
+   "col": [
+    "textiles",
+    "a textile mill"
+   ]
+  },
+  {
+   "id": "fs005",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "fabric",
+   "ipa": "/ˈfæbrɪk/",
+   "pos": "n",
+   "vi": "vải",
+   "ex": "The dress is made of a soft fabric.",
+   "exVi": "Chiếc váy được làm từ một loại vải mềm.",
+   "col": [
+    "fabric",
+    "a cotton fabric"
+   ]
+  },
+  {
+   "id": "fs006",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "collection",
+   "ipa": "/kəˈlekʃn/",
+   "pos": "n",
+   "vi": "bộ sưu tập",
+   "ex": "The spring collection sold out fast.",
+   "exVi": "Bộ sưu tập xuân bán hết nhanh.",
+   "col": [
+    "a collection",
+    "a new collection"
+   ]
+  },
+  {
+   "id": "fs007",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "line",
+   "ipa": "/laɪn/",
+   "pos": "n",
+   "vi": "dòng sản phẩm",
+   "ex": "The firm launched a new clothing line.",
+   "exVi": "Công ty ra mắt một dòng quần áo mới.",
+   "col": [
+    "a product line",
+    "a clothing line"
+   ]
+  },
+  {
+   "id": "fs008",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "label",
+   "ipa": "/ˈleɪbl/",
+   "pos": "n",
+   "vi": "nhãn hiệu",
+   "ex": "The label is known for quality.",
+   "exVi": "Nhãn hiệu nổi tiếng vì chất lượng.",
+   "col": [
+    "a label",
+    "a fashion label"
+   ]
+  },
+  {
+   "id": "fs009",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "brand",
+   "ipa": "/brænd/",
+   "pos": "n",
+   "vi": "thương hiệu",
+   "ex": "The brand appeals to young shoppers.",
+   "exVi": "Thương hiệu thu hút người mua trẻ.",
+   "col": [
+    "a brand",
+    "a luxury brand"
+   ]
+  },
+  {
+   "id": "fs010",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "boutique",
+   "ipa": "/buːˈtiːk/",
+   "pos": "n",
+   "vi": "cửa hàng thời trang nhỏ",
+   "ex": "The boutique sells handmade items.",
+   "exVi": "Cửa hàng nhỏ bán các món làm thủ công.",
+   "col": [
+    "a boutique",
+    "a fashion boutique"
+   ]
+  },
+  {
+   "id": "fs011",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "runway",
+   "ipa": "/ˈrʌnweɪ/",
+   "pos": "n",
+   "vi": "sàn diễn thời trang",
+   "ex": "Models walked the runway at the show.",
+   "exVi": "Người mẫu bước trên sàn diễn tại buổi trình diễn.",
+   "col": [
+    "a runway",
+    "a runway show"
+   ]
+  },
+  {
+   "id": "fs012",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "mannequin",
+   "ipa": "/ˈmænɪkɪn/",
+   "pos": "n",
+   "vi": "ma-nơ-canh",
+   "ex": "A mannequin displays the new dress.",
+   "exVi": "Một ma-nơ-canh trưng bày chiếc váy mới.",
+   "col": [
+    "a mannequin",
+    "a shop mannequin"
+   ]
+  },
+  {
+   "id": "fs013",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "seamstress",
+   "ipa": "/ˈsiːmstrəs/",
+   "pos": "n",
+   "vi": "thợ may nữ",
+   "ex": "A skilled seamstress made the alterations.",
+   "exVi": "Một thợ may nữ lành nghề thực hiện việc sửa.",
+   "col": [
+    "a seamstress",
+    "a skilled seamstress"
+   ]
+  },
+  {
+   "id": "fs014",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "tailor",
+   "ipa": "/ˈteɪlə/",
+   "pos": "n",
+   "vi": "thợ may",
+   "ex": "The tailor adjusted the suit to fit.",
+   "exVi": "Thợ may chỉnh bộ vest cho vừa.",
+   "col": [
+    "a tailor",
+    "a skilled tailor"
+   ]
+  },
+  {
+   "id": "fs015",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "alteration",
+   "ipa": "/ˌɔːltəˈreɪʃn/",
+   "pos": "n",
+   "vi": "việc sửa đồ",
+   "ex": "The shop offers free alterations.",
+   "exVi": "Cửa hàng cung cấp việc sửa đồ miễn phí.",
+   "col": [
+    "an alteration",
+    "a minor alteration"
+   ]
+  },
+  {
+   "id": "fs016",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "fitting",
+   "ipa": "/ˈfɪtɪŋ/",
+   "pos": "n",
+   "vi": "thử đồ",
+   "ex": "A fitting is booked for tomorrow.",
+   "exVi": "Một buổi thử đồ được đặt cho ngày mai.",
+   "col": [
+    "a fitting",
+    "a fitting room"
+   ]
+  },
+  {
+   "id": "fs017",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "merchandising",
+   "ipa": "/ˈmɜːtʃəndaɪzɪŋ/",
+   "pos": "n",
+   "vi": "trưng bày hàng hoá",
+   "ex": "Good merchandising boosts the sales.",
+   "exVi": "Trưng bày hàng hoá tốt tăng doanh số.",
+   "col": [
+    "merchandising",
+    "visual merchandising"
+   ]
+  },
+  {
+   "id": "fs018",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "display",
+   "ipa": "/dɪˈspleɪ/",
+   "pos": "n",
+   "vi": "quầy trưng bày",
+   "ex": "A window display shows the new range.",
+   "exVi": "Một quầy trưng bày cửa sổ giới thiệu dòng mới.",
+   "col": [
+    "a display",
+    "a window display"
+   ]
+  },
+  {
+   "id": "fs019",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "inventory",
+   "ipa": "/ˈɪnvəntri/",
+   "pos": "n",
+   "vi": "hàng tồn kho",
+   "ex": "The store checks its inventory weekly.",
+   "exVi": "Cửa hàng kiểm tra hàng tồn kho hằng tuần.",
+   "col": [
+    "inventory",
+    "manage inventory"
+   ]
+  },
+  {
+   "id": "fs020",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "restock",
+   "ipa": "/ˌriːˈstɒk/",
+   "pos": "v",
+   "vi": "nhập hàng lại",
+   "ex": "The shelves are restocked each morning.",
+   "exVi": "Kệ được nhập hàng lại mỗi sáng.",
+   "col": [
+    "restock",
+    "restock shelves"
+   ]
+  },
+  {
+   "id": "fs021",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "markdown",
+   "ipa": "/ˈmɑːkdaʊn/",
+   "pos": "n",
+   "vi": "đợt hạ giá",
+   "ex": "A seasonal markdown cleared old stock.",
+   "exVi": "Một đợt hạ giá theo mùa giải phóng hàng cũ.",
+   "col": [
+    "a markdown",
+    "a price markdown"
+   ]
+  },
+  {
+   "id": "fs022",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "clearance",
+   "ipa": "/ˈklɪərəns/",
+   "pos": "n",
+   "vi": "thanh lý",
+   "ex": "The clearance sale drew big crowds.",
+   "exVi": "Đợt thanh lý thu hút đám đông lớn.",
+   "col": [
+    "a clearance",
+    "a clearance sale"
+   ]
+  },
+  {
+   "id": "fs023",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "seasonal",
+   "ipa": "/ˈsiːzənl/",
+   "pos": "adj",
+   "vi": "theo mùa",
+   "ex": "Seasonal stock changes four times a year.",
+   "exVi": "Hàng theo mùa thay đổi bốn lần một năm.",
+   "col": [
+    "seasonal",
+    "seasonal stock"
+   ]
+  },
+  {
+   "id": "fs024",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "trendy",
+   "ipa": "/ˈtrendi/",
+   "pos": "adj",
+   "vi": "hợp mốt",
+   "ex": "The trendy design sold out in a week.",
+   "exVi": "Thiết kế hợp mốt bán hết trong một tuần.",
+   "col": [
+    "trendy",
+    "a trendy style"
+   ]
+  },
+  {
+   "id": "fs025",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "fashionable",
+   "ipa": "/ˈfæʃnəbl/",
+   "pos": "adj",
+   "vi": "thời thượng",
+   "ex": "The store sells fashionable clothes.",
+   "exVi": "Cửa hàng bán quần áo thời thượng.",
+   "col": [
+    "fashionable",
+    "a fashionable brand"
+   ]
+  },
+  {
+   "id": "fs026",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "stylish",
+   "ipa": "/ˈstaɪlɪʃ/",
+   "pos": "adj",
+   "vi": "phong cách",
+   "ex": "The stylish coat became a best seller.",
+   "exVi": "Chiếc áo khoác phong cách trở thành hàng bán chạy.",
+   "col": [
+    "stylish",
+    "a stylish design"
+   ]
+  },
+  {
+   "id": "fs027",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "elegant",
+   "ipa": "/ˈelɪɡənt/",
+   "pos": "adj",
+   "vi": "thanh lịch",
+   "ex": "The elegant dress suits the event.",
+   "exVi": "Chiếc váy thanh lịch hợp với sự kiện.",
+   "col": [
+    "elegant",
+    "an elegant style"
+   ]
+  },
+  {
+   "id": "fs028",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "casual",
+   "ipa": "/ˈkæʒuəl/",
+   "pos": "adj",
+   "vi": "thường ngày",
+   "ex": "The brand focuses on casual wear.",
+   "exVi": "Thương hiệu tập trung vào đồ mặc thường ngày.",
+   "col": [
+    "casual",
+    "casual wear"
+   ]
+  },
+  {
+   "id": "fs029",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "formal",
+   "ipa": "/ˈfɔːml/",
+   "pos": "adj",
+   "vi": "trang trọng",
+   "ex": "The shop sells formal suits.",
+   "exVi": "Cửa hàng bán vest trang trọng.",
+   "col": [
+    "formal",
+    "formal wear"
+   ]
+  },
+  {
+   "id": "fs030",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "durable",
+   "ipa": "/ˈdjʊərəbl/",
+   "pos": "adj",
+   "vi": "bền",
+   "ex": "The fabric is durable and easy to wash.",
+   "exVi": "Loại vải bền và dễ giặt.",
+   "col": [
+    "durable",
+    "a durable fabric"
+   ]
+  },
+  {
+   "id": "fs031",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "lightweight",
+   "ipa": "/ˈlaɪtweɪt/",
+   "pos": "adj",
+   "vi": "nhẹ",
+   "ex": "The lightweight jacket suits warm days.",
+   "exVi": "Chiếc áo khoác nhẹ hợp những ngày ấm.",
+   "col": [
+    "lightweight",
+    "a lightweight fabric"
+   ]
+  },
+  {
+   "id": "fs032",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "waterproof",
+   "ipa": "/ˈwɔːtəpruːf/",
+   "pos": "adj",
+   "vi": "chống thấm nước",
+   "ex": "The coat is fully waterproof.",
+   "exVi": "Chiếc áo khoác hoàn toàn chống thấm nước.",
+   "col": [
+    "waterproof",
+    "a waterproof coat"
+   ]
+  },
+  {
+   "id": "fs033",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "size",
+   "ipa": "/saɪz/",
+   "pos": "n",
+   "vi": "kích cỡ",
+   "ex": "The dress comes in every size.",
+   "exVi": "Chiếc váy có mọi kích cỡ.",
+   "col": [
+    "a size",
+    "a large size"
+   ]
+  },
+  {
+   "id": "fs034",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "fit",
+   "ipa": "/fɪt/",
+   "pos": "n",
+   "vi": "độ vừa vặn",
+   "ex": "The suit has a slim fit.",
+   "exVi": "Bộ vest có độ vừa vặn thon.",
+   "col": [
+    "a good fit",
+    "a slim fit"
+   ]
+  },
+  {
+   "id": "fs035",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "material",
+   "ipa": "/məˈtɪəriəl/",
+   "pos": "n",
+   "vi": "chất liệu",
+   "ex": "The bag is made of a strong material.",
+   "exVi": "Chiếc túi được làm từ một chất liệu chắc.",
+   "col": [
+    "material",
+    "a soft material"
+   ]
+  },
+  {
+   "id": "fs036",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "pattern",
+   "ipa": "/ˈpætn/",
+   "pos": "n",
+   "vi": "hoạ tiết",
+   "ex": "The shirt has a bold pattern.",
+   "exVi": "Chiếc áo sơ mi có một hoạ tiết nổi bật.",
+   "col": [
+    "a pattern",
+    "a floral pattern"
+   ]
+  },
+  {
+   "id": "fs037",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "stitch",
+   "ipa": "/stɪtʃ/",
+   "pos": "n",
+   "vi": "đường may",
+   "ex": "A neat stitch holds the seam.",
+   "exVi": "Một đường may gọn giữ đường ghép.",
+   "col": [
+    "a stitch",
+    "a fine stitch"
+   ]
+  },
+  {
+   "id": "fs038",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "seam",
+   "ipa": "/siːm/",
+   "pos": "n",
+   "vi": "đường ghép nối",
+   "ex": "The seam was sewn by hand.",
+   "exVi": "Đường ghép được may bằng tay.",
+   "col": [
+    "a seam",
+    "a strong seam"
+   ]
+  },
+  {
+   "id": "fs039",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "wardrobe",
+   "ipa": "/ˈwɔːdrəʊb/",
+   "pos": "n",
+   "vi": "tủ quần áo",
+   "ex": "The new range fills the whole wardrobe.",
+   "exVi": "Dòng mới lấp đầy cả tủ quần áo.",
+   "col": [
+    "a wardrobe",
+    "a spring wardrobe"
+   ]
+  },
+  {
+   "id": "fs040",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "footwear",
+   "ipa": "/ˈfʊtweə/",
+   "pos": "n",
+   "vi": "giày dép",
+   "ex": "The store added a footwear section.",
+   "exVi": "Cửa hàng thêm một khu giày dép.",
+   "col": [
+    "footwear",
+    "a footwear range"
+   ]
+  },
+  {
+   "id": "fs041",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "accessory",
+   "ipa": "/əkˈsesəri/",
+   "pos": "n",
+   "vi": "phụ kiện",
+   "ex": "A scarf is a popular accessory.",
+   "exVi": "Một chiếc khăn là một phụ kiện phổ biến.",
+   "col": [
+    "an accessory",
+    "a fashion accessory"
+   ]
+  },
+  {
+   "id": "fs042",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "retailer",
+   "ipa": "/ˈriːteɪlə/",
+   "pos": "n",
+   "vi": "nhà bán lẻ",
+   "ex": "The retailer opened five new stores.",
+   "exVi": "Nhà bán lẻ mở năm cửa hàng mới.",
+   "col": [
+    "a retailer",
+    "a fashion retailer"
+   ]
+  },
+  {
+   "id": "fs043",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "supplier",
+   "ipa": "/səˈplaɪə/",
+   "pos": "n",
+   "vi": "nhà cung cấp",
+   "ex": "A reliable supplier delivers the fabric.",
+   "exVi": "Một nhà cung cấp đáng tin giao vải.",
+   "col": [
+    "a supplier",
+    "a fabric supplier"
+   ]
+  },
+  {
+   "id": "fs044",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "wholesaler",
+   "ipa": "/ˈhəʊlseɪlə/",
+   "pos": "n",
+   "vi": "nhà bán sỉ",
+   "ex": "The wholesaler sells to many shops.",
+   "exVi": "Nhà bán sỉ bán cho nhiều cửa hàng.",
+   "col": [
+    "a wholesaler",
+    "a clothing wholesaler"
+   ]
+  },
+  {
+   "id": "fs045",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "distributor",
+   "ipa": "/dɪˈstrɪbjʊtə/",
+   "pos": "n",
+   "vi": "nhà phân phối",
+   "ex": "The distributor covers the whole region.",
+   "exVi": "Nhà phân phối phủ cả khu vực.",
+   "col": [
+    "a distributor",
+    "a regional distributor"
+   ]
+  },
+  {
+   "id": "fs046",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "manufacturer",
+   "ipa": "/ˌmænjuˈfæktʃərə/",
+   "pos": "n",
+   "vi": "nhà sản xuất",
+   "ex": "The manufacturer makes the garments abroad.",
+   "exVi": "Nhà sản xuất may quần áo ở nước ngoài.",
+   "col": [
+    "a manufacturer",
+    "a garment manufacturer"
+   ]
+  },
+  {
+   "id": "fs047",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "factory",
+   "ipa": "/ˈfæktri/",
+   "pos": "n",
+   "vi": "nhà máy",
+   "ex": "The factory produces a thousand items a day.",
+   "exVi": "Nhà máy sản xuất một nghìn món mỗi ngày.",
+   "col": [
+    "a factory",
+    "a clothing factory"
+   ]
+  },
+  {
+   "id": "fs048",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "production",
+   "ipa": "/prəˈdʌkʃn/",
+   "pos": "n",
+   "vi": "sản xuất",
+   "ex": "Production of the new line began in spring.",
+   "exVi": "Sản xuất dòng mới bắt đầu vào mùa xuân.",
+   "col": [
+    "production",
+    "mass production"
+   ]
+  },
+  {
+   "id": "fs049",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "outlet",
+   "ipa": "/ˈaʊtlet/",
+   "pos": "n",
+   "vi": "cửa hàng giảm giá",
+   "ex": "The outlet sells last season's stock.",
+   "exVi": "Cửa hàng giảm giá bán hàng mùa trước.",
+   "col": [
+    "an outlet",
+    "a factory outlet"
+   ]
+  },
+  {
+   "id": "fs050",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "franchise",
+   "ipa": "/ˈfræntʃaɪz/",
+   "pos": "n",
+   "vi": "nhượng quyền",
+   "ex": "The brand grew through a franchise model.",
+   "exVi": "Thương hiệu phát triển qua mô hình nhượng quyền.",
+   "col": [
+    "a franchise",
+    "a franchise store"
+   ]
+  },
+  {
+   "id": "fs051",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "storefront",
+   "ipa": "/ˈstɔːfrʌnt/",
+   "pos": "n",
+   "vi": "mặt tiền cửa hàng",
+   "ex": "A bright storefront draws passing shoppers.",
+   "exVi": "Một mặt tiền sáng thu hút khách qua đường.",
+   "col": [
+    "a storefront",
+    "an attractive storefront"
+   ]
+  },
+  {
+   "id": "fs052",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "launch",
+   "ipa": "/lɔːntʃ/",
+   "pos": "n",
+   "vi": "buổi ra mắt",
+   "ex": "The launch drew fashion writers and buyers.",
+   "exVi": "Buổi ra mắt thu hút cây bút thời trang và người mua.",
+   "col": [
+    "a launch",
+    "a product launch"
+   ]
+  },
+  {
+   "id": "fs053",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "preview",
+   "ipa": "/ˈpriːvjuː/",
+   "pos": "n",
+   "vi": "buổi xem trước",
+   "ex": "A preview showed the coming range.",
+   "exVi": "Một buổi xem trước giới thiệu dòng sắp tới.",
+   "col": [
+    "a preview",
+    "a press preview"
+   ]
+  },
+  {
+   "id": "fs054",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "showcase",
+   "ipa": "/ˈʃəʊkeɪs/",
+   "pos": "v",
+   "vi": "giới thiệu",
+   "ex": "The show showcased the new collection.",
+   "exVi": "Buổi trình diễn giới thiệu bộ sưu tập mới.",
+   "col": [
+    "showcase",
+    "showcase a design"
+   ]
+  },
+  {
+   "id": "fs055",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "promote",
+   "ipa": "/prəˈməʊt/",
+   "pos": "v",
+   "vi": "quảng bá",
+   "ex": "The firm promoted the line online.",
+   "exVi": "Công ty quảng bá dòng sản phẩm trực tuyến.",
+   "col": [
+    "promote",
+    "promote a brand"
+   ]
+  },
+  {
+   "id": "fs056",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "endorse",
+   "ipa": "/ɪnˈdɔːs/",
+   "pos": "v",
+   "vi": "quảng bá bằng uy tín",
+   "ex": "A star endorsed the new perfume.",
+   "exVi": "Một ngôi sao quảng bá loại nước hoa mới.",
+   "col": [
+    "endorse",
+    "endorse a product"
+   ]
+  },
+  {
+   "id": "fs057",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "retail",
+   "ipa": "/ˈriːteɪl/",
+   "pos": "v",
+   "vi": "bán lẻ",
+   "ex": "The jacket retails at a fair price.",
+   "exVi": "Chiếc áo khoác bán lẻ với giá phải chăng.",
+   "col": [
+    "retail",
+    "retail at"
+   ]
+  },
+  {
+   "id": "fs058",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "source",
+   "ipa": "/sɔːs/",
+   "pos": "v",
+   "vi": "tìm nguồn cung",
+   "ex": "The firm sources its cotton locally.",
+   "exVi": "Công ty tìm nguồn bông tại địa phương.",
+   "col": [
+    "source",
+    "source materials"
+   ]
+  },
+  {
+   "id": "fs059",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "customize",
+   "ipa": "/ˈkʌstəmaɪz/",
+   "pos": "v",
+   "vi": "tuỳ chỉnh",
+   "ex": "Buyers can customize the design online.",
+   "exVi": "Người mua có thể tuỳ chỉnh thiết kế trực tuyến.",
+   "col": [
+    "customize",
+    "customize a product"
+   ]
+  },
+  {
+   "id": "fs060",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "tailor-make",
+   "ipa": "/ˈteɪlə meɪk/",
+   "pos": "v",
+   "vi": "may đo riêng",
+   "ex": "The shop can tailor-make a suit.",
+   "exVi": "Cửa hàng có thể may đo riêng một bộ vest.",
+   "col": [
+    "tailor-make",
+    "tailor-make a suit"
+   ]
+  },
+  {
+   "id": "fs061",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "mass-produce",
+   "ipa": "/mæs prəˈdjuːs/",
+   "pos": "v",
+   "vi": "sản xuất hàng loạt",
+   "ex": "The factory mass-produces basic shirts.",
+   "exVi": "Nhà máy sản xuất hàng loạt áo sơ mi cơ bản.",
+   "col": [
+    "mass-produce",
+    "mass-produce goods"
+   ]
+  },
+  {
+   "id": "fs062",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "bespoke",
+   "ipa": "/bɪˈspəʊk/",
+   "pos": "adj",
+   "vi": "may đo theo yêu cầu",
+   "ex": "A bespoke suit fits perfectly.",
+   "exVi": "Một bộ vest may đo theo yêu cầu vừa hoàn hảo.",
+   "col": [
+    "bespoke",
+    "a bespoke suit"
+   ]
+  },
+  {
+   "id": "fs063",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "handmade",
+   "ipa": "/ˌhændˈmeɪd/",
+   "pos": "adj",
+   "vi": "làm thủ công",
+   "ex": "The handmade bag costs more.",
+   "exVi": "Chiếc túi làm thủ công đắt hơn.",
+   "col": [
+    "handmade",
+    "a handmade item"
+   ]
+  },
+  {
+   "id": "fs064",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "luxury",
+   "ipa": "/ˈlʌkʃəri/",
+   "pos": "adj",
+   "vi": "xa xỉ",
+   "ex": "The luxury brand opened a flagship store.",
+   "exVi": "Thương hiệu xa xỉ mở một cửa hàng chủ lực.",
+   "col": [
+    "luxury",
+    "a luxury brand"
+   ]
+  },
+  {
+   "id": "fs065",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "premium",
+   "ipa": "/ˈpriːmiəm/",
+   "pos": "adj",
+   "vi": "cao cấp",
+   "ex": "Premium fabrics cost more to buy.",
+   "exVi": "Vải cao cấp đắt hơn khi mua.",
+   "col": [
+    "premium",
+    "a premium product"
+   ]
+  },
+  {
+   "id": "fs066",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "affordable",
+   "ipa": "/əˈfɔːdəbl/",
+   "pos": "adj",
+   "vi": "phải chăng",
+   "ex": "The brand offers affordable basics.",
+   "exVi": "Thương hiệu cung cấp đồ cơ bản phải chăng.",
+   "col": [
+    "affordable",
+    "an affordable price"
+   ]
+  },
+  {
+   "id": "fs067",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "exclusive",
+   "ipa": "/ɪkˈskluːsɪv/",
+   "pos": "adj",
+   "vi": "độc quyền",
+   "ex": "The design is exclusive to this store.",
+   "exVi": "Thiết kế độc quyền cho cửa hàng này.",
+   "col": [
+    "exclusive",
+    "an exclusive range"
+   ]
+  },
+  {
+   "id": "fs068",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "sustainable",
+   "ipa": "/səˈsteɪnəbl/",
+   "pos": "adj",
+   "vi": "bền vững",
+   "ex": "The brand uses sustainable fabrics.",
+   "exVi": "Thương hiệu dùng vải bền vững.",
+   "col": [
+    "sustainable",
+    "a sustainable brand"
+   ]
+  },
+  {
+   "id": "fs069",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "seasonal range",
+   "ipa": "/ˈsiːzənl reɪndʒ/",
+   "pos": "n",
+   "vi": "dòng hàng theo mùa",
+   "ex": "The seasonal range sells out fast.",
+   "exVi": "Dòng hàng theo mùa bán hết nhanh.",
+   "col": [
+    "a seasonal range",
+    "a new seasonal range"
+   ]
+  },
+  {
+   "id": "fs070",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "lookbook",
+   "ipa": "/ˈlʊkbʊk/",
+   "pos": "n",
+   "vi": "cẩm nang phối đồ",
+   "ex": "The lookbook shows the whole collection.",
+   "exVi": "Cẩm nang phối đồ giới thiệu cả bộ sưu tập.",
+   "col": [
+    "a lookbook",
+    "a seasonal lookbook"
+   ]
+  },
+  {
+   "id": "fs071",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "catalogue",
+   "ipa": "/ˈkætəlɒɡ/",
+   "pos": "n",
+   "vi": "danh mục sản phẩm",
+   "ex": "The catalogue lists every item and price.",
+   "exVi": "Danh mục liệt kê mọi món và giá.",
+   "col": [
+    "a catalogue",
+    "a product catalogue"
+   ]
+  },
+  {
+   "id": "fs072",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "markup",
+   "ipa": "/ˈmɑːkʌp/",
+   "pos": "n",
+   "vi": "phần chênh giá",
+   "ex": "The markup on the brand is high.",
+   "exVi": "Phần chênh giá của thương hiệu cao.",
+   "col": [
+    "a markup",
+    "a large markup"
+   ]
+  },
+  {
+   "id": "fs073",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "turnover",
+   "ipa": "/ˈtɜːnəʊvə/",
+   "pos": "n",
+   "vi": "doanh số",
+   "ex": "The store's turnover doubled in a year.",
+   "exVi": "Doanh số của cửa hàng tăng gấp đôi trong một năm.",
+   "col": [
+    "turnover",
+    "annual turnover"
+   ]
+  },
+  {
+   "id": "fs074",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "footfall",
+   "ipa": "/ˈfʊtfɔːl/",
+   "pos": "n",
+   "vi": "lượng khách vào",
+   "ex": "A new window raised the footfall.",
+   "exVi": "Một cửa sổ mới tăng lượng khách vào.",
+   "col": [
+    "footfall",
+    "increase footfall"
+   ]
+  },
+  {
+   "id": "fs075",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "clientele",
+   "ipa": "/ˌkliːɒnˈtel/",
+   "pos": "n",
+   "vi": "khách quen",
+   "ex": "The boutique has a loyal clientele.",
+   "exVi": "Cửa hàng nhỏ có một lượng khách quen trung thành.",
+   "col": [
+    "clientele",
+    "a loyal clientele"
+   ]
+  },
+  {
+   "id": "fs076",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "loyalty",
+   "ipa": "/ˈlɔɪəlti/",
+   "pos": "n",
+   "vi": "sự trung thành",
+   "ex": "A points card builds customer loyalty.",
+   "exVi": "Một thẻ điểm xây dựng sự trung thành của khách.",
+   "col": [
+    "loyalty",
+    "customer loyalty"
+   ]
+  },
+  {
+   "id": "fs077",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "refund",
+   "ipa": "/ˈriːfʌnd/",
+   "pos": "n",
+   "vi": "hoàn tiền",
+   "ex": "The store gives a full refund on returns.",
+   "exVi": "Cửa hàng hoàn tiền đầy đủ cho hàng trả.",
+   "col": [
+    "a refund",
+    "a full refund"
+   ]
+  },
+  {
+   "id": "fs078",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "exchange",
+   "ipa": "/ɪksˈtʃeɪndʒ/",
+   "pos": "n",
+   "vi": "đổi hàng",
+   "ex": "An exchange is allowed within two weeks.",
+   "exVi": "Được phép đổi hàng trong hai tuần.",
+   "col": [
+    "an exchange",
+    "a fair exchange"
+   ]
+  },
+  {
+   "id": "fs079",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "receipt",
+   "ipa": "/rɪˈsiːt/",
+   "pos": "n",
+   "vi": "hoá đơn",
+   "ex": "Keep the receipt for any return.",
+   "exVi": "Giữ hoá đơn cho việc trả hàng.",
+   "col": [
+    "a receipt",
+    "a sales receipt"
+   ]
+  },
+  {
+   "id": "fs080",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "warehouse",
+   "ipa": "/ˈweəhaʊs/",
+   "pos": "n",
+   "vi": "nhà kho",
+   "ex": "The stock is held in a central warehouse.",
+   "exVi": "Hàng được giữ trong một nhà kho trung tâm.",
+   "col": [
+    "a warehouse",
+    "a central warehouse"
+   ]
+  },
+  {
+   "id": "fs081",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "logistics",
+   "ipa": "/ləˈdʒɪstɪks/",
+   "pos": "n",
+   "vi": "hậu cần",
+   "ex": "Good logistics keep the stores stocked.",
+   "exVi": "Hậu cần tốt giữ các cửa hàng đủ hàng.",
+   "col": [
+    "logistics",
+    "retail logistics"
+   ]
+  },
+  {
+   "id": "fs082",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "packaging",
+   "ipa": "/ˈpækɪdʒɪŋ/",
+   "pos": "n",
+   "vi": "bao bì",
+   "ex": "The brand uses recycled packaging.",
+   "exVi": "Thương hiệu dùng bao bì tái chế.",
+   "col": [
+    "packaging",
+    "recycled packaging"
+   ]
+  },
+  {
+   "id": "fs083",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "craftsmanship",
+   "ipa": "/ˈkrɑːftsmənʃɪp/",
+   "pos": "n",
+   "vi": "tay nghề thủ công",
+   "ex": "The bag shows fine craftsmanship.",
+   "exVi": "Chiếc túi cho thấy tay nghề thủ công tinh xảo.",
+   "col": [
+    "craftsmanship",
+    "fine craftsmanship"
+   ]
+  },
+  {
+   "id": "fs084",
+   "topic": "Thời trang & bán lẻ nâng cao",
+   "w": "upscale",
+   "ipa": "/ˌʌpˈskeɪl/",
+   "pos": "adj",
+   "vi": "cao cấp sang trọng",
+   "ex": "The upscale store draws wealthy shoppers.",
+   "exVi": "Cửa hàng cao cấp thu hút khách giàu.",
+   "col": [
+    "upscale",
+    "an upscale brand"
+   ]
+  }
+ ]
+}

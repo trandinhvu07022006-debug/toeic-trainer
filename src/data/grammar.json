@@ -1,0 +1,1271 @@
+[
+ {
+  "id": "g1",
+  "name": "Từ loại",
+  "freq": "8–10 câu/đề",
+  "level": "Nền tảng",
+  "intro": "Khoảng một phần ba câu Part 5 chỉ hỏi từ loại. Nhìn 4 đáp án thấy cùng gốc khác đuôi thì không cần dịch cả câu — chỉ cần xét vị trí chỗ trống.",
+  "rules": [
+   {
+    "h": "Nhận biết qua đuôi từ",
+    "lines": [
+     "Danh từ: -tion, -ment, -ness, -ity, -ance/-ence, -er/-or, -ist",
+     "Động từ: -ize, -ify, -en, -ate",
+     "Tính từ: -ful, -less, -ive, -able, -ous, -al, -ic",
+     "Trạng từ: -ly (nhưng likely, friendly, costly là TÍNH TỪ)"
+    ]
+   },
+   {
+    "h": "Nhận biết qua vị trí",
+    "lines": [
+     "Sau a / an / the / sở hữu cách → danh từ",
+     "Trước danh từ, hoặc sau be, seem, become, remain, prove → tính từ",
+     "Sau động từ thường, hoặc giữa be và V-ed → trạng từ",
+     "Sau giới từ (of, for, in…) → danh từ hoặc V-ing"
+    ]
+   }
+  ],
+  "traps": [
+   "Thấy \"be\" là chọn ngay tính từ — sai khi sau đó còn V-ed (be thoroughly inspected).",
+   "responsible / responsive, economic / economical, considerable / considerate: cùng gốc nhưng khác nghĩa hoàn toàn."
+  ],
+  "questions": [
+   {
+    "id": "g1-1",
+    "text": "The company's ______ to renewable energy has attracted new investors.",
+    "options": [
+     "commit",
+     "commitment",
+     "committed",
+     "commits"
+    ],
+    "ans": 1,
+    "exp": "Sau sở hữu cách \"company's\" cần danh từ: commitment. (A), (D) là động từ, (C) là phân từ."
+   },
+   {
+    "id": "g1-2",
+    "text": "Ms. Ito reviewed the contract ______ before signing it.",
+    "options": [
+     "carefully",
+     "care",
+     "careful",
+     "caring"
+    ],
+    "ans": 0,
+    "exp": "Bổ nghĩa cho động từ \"reviewed\" → trạng từ carefully. Sau một động từ đã có tân ngữ đầy đủ, chỗ trống gần như luôn là trạng từ."
+   },
+   {
+    "id": "g1-3",
+    "text": "The training program has proven highly ______ for new employees.",
+    "options": [
+     "beneficial",
+     "beneficially",
+     "benefiting",
+     "benefit"
+    ],
+    "ans": 0,
+    "exp": "prove là động từ nối (linking verb) nên theo sau là tính từ: beneficial. \"highly\" là trạng từ bổ nghĩa cho tính từ, không đổi được vị trí này."
+   },
+   {
+    "id": "g1-4",
+    "text": "All visitors must show ______ at the reception desk.",
+    "options": [
+     "identifiable",
+     "identification",
+     "identify",
+     "identified"
+    ],
+    "ans": 1,
+    "exp": "Sau động từ \"show\" cần tân ngữ, tức danh từ: identification. (C) làm câu có hai động từ nguyên mẫu liên tiếp."
+   },
+   {
+    "id": "g1-5",
+    "text": "The manager responded ______ to the customer's complaint.",
+    "options": [
+     "promptness",
+     "prompted",
+     "promptly",
+     "prompt"
+    ],
+    "ans": 2,
+    "exp": "respond là nội động từ, sau nó không có tân ngữ mà là trạng từ: promptly. Đây là mẫu câu ra đi ra lại trong Part 5."
+   },
+   {
+    "id": "g1-6",
+    "text": "The new packaging design was praised for its ______.",
+    "options": [
+     "simply",
+     "simple",
+     "simplify",
+     "simplicity"
+    ],
+    "ans": 3,
+    "exp": "Sau tính từ sở hữu \"its\" cần danh từ: simplicity. Cụm \"praised for + N\" cũng đòi danh từ."
+   },
+   {
+    "id": "g1-7",
+    "text": "Employees are encouraged to work ______ with other departments.",
+    "options": [
+     "cooperation",
+     "cooperate",
+     "cooperatively",
+     "cooperative"
+    ],
+    "ans": 2,
+    "exp": "Bổ nghĩa cho \"work\" → trạng từ cooperatively. (D) tính từ chỉ đứng trước danh từ hoặc sau be."
+   },
+   {
+    "id": "g1-8",
+    "text": "The engineer gave a ______ explanation of the new system.",
+    "options": [
+     "detailing",
+     "detail",
+     "detailed",
+     "details"
+    ],
+    "ans": 2,
+    "exp": "Giữa mạo từ \"a\" và danh từ \"explanation\" là vị trí của tính từ: detailed. (A) detailing mang nghĩa chủ động, không hợp."
+   },
+   {
+    "text": "The marketing team worked ______ to meet the product launch deadline.",
+    "options": [
+     "collaborative",
+     "collaboratively",
+     "collaboration",
+     "collaborate"
+    ],
+    "ans": 1,
+    "exp": "Bổ nghĩa cho động từ \"worked\" cần trạng từ: collaboratively. (D) động từ, (A) tính từ, (C) danh từ. Mẹo: chỗ trống sau động từ, nghĩ ngay tới trạng từ.",
+    "id": "g1-9"
+   },
+   {
+    "text": "Ms. Delgado gave a ______ presentation that impressed the entire board.",
+    "options": [
+     "persuasion",
+     "persuasive",
+     "persuade",
+     "persuasively"
+    ],
+    "ans": 1,
+    "exp": "Bổ nghĩa cho danh từ \"presentation\" cần tính từ: persuasive. (C) động từ, (A) danh từ, (D) trạng từ. Trước danh từ luôn là tính từ.",
+    "id": "g1-10"
+   },
+   {
+    "text": "The success of the campaign depended on the ______ of the whole department.",
+    "options": [
+     "cooperation",
+     "cooperate",
+     "cooperative",
+     "cooperatively"
+    ],
+    "ans": 0,
+    "exp": "Sau \"the ... of\" cần danh từ: cooperation. (B) động từ, (C) tính từ, (D) trạng từ. Cấu trúc \"the [danh từ] of\" là dấu hiệu rất mạnh.",
+    "id": "g1-11"
+   },
+   {
+    "text": "Employees found the new software surprisingly ______ to learn.",
+    "options": [
+     "easy",
+     "easily",
+     "ease",
+     "easier"
+    ],
+    "ans": 0,
+    "exp": "Sau \"surprisingly\" (trạng từ) bổ nghĩa cho tính từ: easy. Cấu trúc \"find + O + adj\". (C) danh từ/động từ, (B) trạng từ, (D) so sánh hơn nhưng không có \"than\".",
+    "id": "g1-12"
+   },
+   {
+    "text": "The manager praised the intern for her ______ during the busy season.",
+    "options": [
+     "reliability",
+     "reliable",
+     "reliably",
+     "rely"
+    ],
+    "ans": 0,
+    "exp": "Sau sở hữu cách \"her\" cần danh từ: reliability. (B) tính từ, (C) trạng từ, (D) động từ.",
+    "id": "g1-13"
+   },
+   {
+    "text": "All visitors must wear an identification badge at ______ times.",
+    "options": [
+     "every",
+     "all",
+     "each",
+     "much"
+    ],
+    "ans": 1,
+    "exp": "\"at all times\" là cụm cố định nghĩa \"mọi lúc\". (A) every và (C) each đi với danh từ số ít (every time), (D) much đi với danh từ không đếm được.",
+    "id": "g1-14"
+   }
+  ]
+ },
+ {
+  "id": "g2",
+  "name": "Dạng động từ",
+  "freq": "3–4 câu/đề",
+  "level": "Nền tảng",
+  "intro": "Sau một động từ khác, động từ thứ hai phải đổi dạng: to V, V-ing hoặc V nguyên mẫu. Cách duy nhất là thuộc nhóm.",
+  "rules": [
+   {
+    "h": "Theo sau là to V",
+    "lines": [
+     "decide, plan, agree, offer, refuse, hope, expect, promise, fail, manage",
+     "be able / be likely / be expected / be designed / be required + to V"
+    ]
+   },
+   {
+    "h": "Theo sau là V-ing",
+    "lines": [
+     "suggest, recommend, consider, avoid, finish, enjoy, mind, postpone, deny",
+     "look forward to, be used to, be committed to, object to + V-ing (\"to\" ở đây là giới từ)"
+    ]
+   },
+   {
+    "h": "Theo sau là V nguyên mẫu",
+    "lines": [
+     "let, make, have (sai khiến) + tân ngữ + V nguyên mẫu",
+     "help + tân ngữ + (to) V — dùng cách nào cũng đúng"
+    ]
+   }
+  ],
+  "traps": [
+   "look forward to + V-ing chứ không phải to V — bẫy kinh điển vì nhìn thấy \"to\".",
+   "Sau modal (must, should, will, can) luôn là V nguyên mẫu, không bao giờ là to V."
+  ],
+  "questions": [
+   {
+    "id": "g2-1",
+    "text": "The committee decided ______ the product launch until spring.",
+    "options": [
+     "to delay",
+     "delaying",
+     "delay",
+     "delayed"
+    ],
+    "ans": 0,
+    "exp": "decide + to V. (B) là bẫy vì nhiều động từ khác dùng V-ing, nhưng decide thì không."
+   },
+   {
+    "id": "g2-2",
+    "text": "We look forward to ______ from you at your earliest convenience.",
+    "options": [
+     "heard",
+     "hearing",
+     "hear",
+     "be heard"
+    ],
+    "ans": 1,
+    "exp": "\"to\" trong look forward to là giới từ nên theo sau phải là V-ing: hearing. Đây là câu bẫy hay gặp nhất trong nhóm dạng động từ."
+   },
+   {
+    "id": "g2-3",
+    "text": "Mr. Ramos suggested ______ the meeting to Thursday morning.",
+    "options": [
+     "moved",
+     "to move",
+     "move",
+     "moving"
+    ],
+    "ans": 3,
+    "exp": "suggest + V-ing (hoặc suggest that S + V nguyên mẫu). Không bao giờ dùng suggest + to V."
+   },
+   {
+    "id": "g2-4",
+    "text": "The manual is designed ______ new technicians quickly.",
+    "options": [
+     "to train",
+     "trained",
+     "train",
+     "training"
+    ],
+    "ans": 0,
+    "exp": "be designed + to V = được thiết kế để. Nhóm be + V-ed + to V (be required, be expected, be intended) rất hay ra."
+   },
+   {
+    "id": "g2-5",
+    "text": "Please avoid ______ the emergency exit at any time.",
+    "options": [
+     "to block",
+     "block",
+     "blocked",
+     "blocking"
+    ],
+    "ans": 3,
+    "exp": "avoid + V-ing. (A) sai vì avoid không bao giờ đi với to V."
+   },
+   {
+    "id": "g2-6",
+    "text": "The supervisor let the team ______ an hour early on Friday.",
+    "options": [
+     "left",
+     "to leave",
+     "leaving",
+     "leave"
+    ],
+    "ans": 3,
+    "exp": "let + tân ngữ + V nguyên mẫu (không \"to\"). So sánh: allow the team TO leave — cùng nghĩa nhưng khác cấu trúc."
+   },
+   {
+    "text": "The board decided ______ the budget proposal until the next quarter.",
+    "options": [
+     "postpone",
+     "postponed",
+     "to postpone",
+     "postponing"
+    ],
+    "ans": 2,
+    "exp": "\"decide to + V\" (nguyên mẫu có to). (A) thiếu to, (D) V-ing sai sau decide, (B) quá khứ.",
+    "id": "g2-7"
+   },
+   {
+    "text": "We look forward to ______ from you soon.",
+    "options": [
+     "hearing",
+     "heard",
+     "hear",
+     "hears"
+    ],
+    "ans": 0,
+    "exp": "\"look forward to + V-ing\" — \"to\" ở đây là giới từ nên theo sau là V-ing: hearing. Đây là bẫy kinh điển: dễ tưởng \"to\" là nguyên mẫu.",
+    "id": "g2-8"
+   },
+   {
+    "text": "The manager suggested ______ the meeting to Thursday.",
+    "options": [
+     "moved",
+     "move",
+     "to move",
+     "moving"
+    ],
+    "ans": 3,
+    "exp": "\"suggest + V-ing\": moving. (B) thiếu dạng, (C) suggest không đi với to-V, (A) quá khứ.",
+    "id": "g2-9"
+   },
+   {
+    "text": "All staff are required ______ the safety training by the end of the month.",
+    "options": [
+     "completed",
+     "completing",
+     "to complete",
+     "complete"
+    ],
+    "ans": 2,
+    "exp": "\"be required to + V\": to complete. (D) thiếu to, (B) và (A) sai dạng sau \"required\".",
+    "id": "g2-10"
+   }
+  ]
+ },
+ {
+  "id": "g3",
+  "name": "Thì và hoà hợp chủ vị",
+  "freq": "3–5 câu/đề",
+  "level": "Nền tảng",
+  "intro": "Đề luôn cài sẵn một dấu hiệu thời gian. Tìm dấu hiệu trước, chọn thì sau — đừng dịch cả câu.",
+  "rules": [
+   {
+    "h": "Dấu hiệu thời gian",
+    "lines": [
+     "since + mốc / for + khoảng / over the past… → hiện tại hoàn thành",
+     "last week, yesterday, in 2019, ago → quá khứ đơn",
+     "next month, tomorrow, as of… → tương lai",
+     "By the time / By next year + mốc tương lai → tương lai hoàn thành"
+    ]
+   },
+   {
+    "h": "Hoà hợp chủ vị",
+    "lines": [
+     "Each / Every / Either / Neither + N số ít → động từ số ít",
+     "Neither A nor B / Either A or B → chia theo danh từ GẦN NHẤT",
+     "Cụm giới từ chen giữa (The list of items IS…) không đổi chủ ngữ"
+    ]
+   }
+  ],
+  "traps": [
+   "Mệnh đề bắt đầu bằng when, as soon as, before, after, until chỉ tương lai vẫn dùng hiện tại đơn.",
+   "\"The number of\" + số ít, nhưng \"A number of\" + số nhiều."
+  ],
+  "questions": [
+   {
+    "id": "g3-1",
+    "text": "By the time the shipment arrives, the store ______ for the day.",
+    "options": [
+     "closed",
+     "will close",
+     "has closed",
+     "will have closed"
+    ],
+    "ans": 3,
+    "exp": "\"By the time\" + hiện tại đơn ở mệnh đề phụ → mệnh đề chính dùng tương lai hoàn thành: will have closed (đóng cửa xong TRƯỚC khi hàng tới)."
+   },
+   {
+    "id": "g3-2",
+    "text": "Each of the departments ______ its own training budget.",
+    "options": [
+     "have managed",
+     "are managing",
+     "manage",
+     "manages"
+    ],
+    "ans": 3,
+    "exp": "Each of + danh từ số nhiều vẫn là chủ ngữ số ít → manages. \"the departments\" chỉ là cụm giới từ, không phải chủ ngữ."
+   },
+   {
+    "id": "g3-3",
+    "text": "Ms. Okonkwo ______ the Tokyo office since March.",
+    "options": [
+     "manages",
+     "will manage",
+     "has managed",
+     "managed"
+    ],
+    "ans": 2,
+    "exp": "\"since March\" là dấu hiệu bắt buộc của hiện tại hoàn thành. (D) quá khứ đơn không đi được với since."
+   },
+   {
+    "id": "g3-4",
+    "text": "The technicians ______ the equipment when the power suddenly failed.",
+    "options": [
+     "will test",
+     "were testing",
+     "test",
+     "have tested"
+    ],
+    "ans": 1,
+    "exp": "Hành động đang diễn ra thì bị cắt ngang → quá khứ tiếp diễn. Cặp \"was/were V-ing when + quá khứ đơn\" là mẫu cố định."
+   },
+   {
+    "id": "g3-5",
+    "text": "Neither the manager nor the assistants ______ available this afternoon.",
+    "options": [
+     "are",
+     "has been",
+     "is",
+     "was"
+    ],
+    "ans": 0,
+    "exp": "Neither A nor B chia theo danh từ gần nhất — ở đây là \"the assistants\" số nhiều → are. Đảo lại thứ tự thì đáp án cũng đảo."
+   },
+   {
+    "id": "g3-6",
+    "text": "Last quarter, the company ______ three new branches in the region.",
+    "options": [
+     "opens",
+     "will open",
+     "has opened",
+     "opened"
+    ],
+    "ans": 3,
+    "exp": "\"Last quarter\" là mốc quá khứ xác định → quá khứ đơn. (C) là bẫy vì hiện tại hoàn thành không đi với mốc quá khứ cụ thể."
+   },
+   {
+    "text": "The technician ______ the equipment every morning before the shift begins.",
+    "options": [
+     "inspects",
+     "inspect",
+     "to inspect",
+     "inspecting"
+    ],
+    "ans": 0,
+    "exp": "Chủ ngữ số ít \"The technician\" + thói quen (every morning) → hiện tại đơn ngôi thứ ba: inspects. (B) thiếu -s, (D) và (C) không phải dạng chia.",
+    "id": "g3-7"
+   },
+   {
+    "text": "By the time the manager arrived, the meeting ______ already started.",
+    "options": [
+     "had",
+     "having",
+     "have",
+     "has"
+    ],
+    "ans": 0,
+    "exp": "\"By the time\" + quá khứ → hành động xảy ra trước dùng quá khứ hoàn thành: had started. (D) has cho hiện tại hoàn thành, (C) sai chủ ngữ số ít, (B) không phải dạng chia.",
+    "id": "g3-8"
+   },
+   {
+    "text": "Neither the supervisor nor the workers ______ aware of the schedule change.",
+    "options": [
+     "were",
+     "has",
+     "is",
+     "was"
+    ],
+    "ans": 0,
+    "exp": "\"Neither A nor B\" chia theo B (the workers - số nhiều) → were. Quy tắc: động từ hoà hợp với chủ ngữ gần nhất.",
+    "id": "g3-9"
+   },
+   {
+    "text": "The company ______ its annual report next week.",
+    "options": [
+     "has released",
+     "releases",
+     "will release",
+     "released"
+    ],
+    "ans": 2,
+    "exp": "\"next week\" chỉ tương lai → will release. (B) hiện tại đơn, (D) quá khứ, (A) hiện tại hoàn thành đều không hợp mốc tương lai.",
+    "id": "g3-10"
+   },
+   {
+    "text": "Sales figures ______ steadily since the new store opened.",
+    "options": [
+     "rising",
+     "rose",
+     "have risen",
+     "rise"
+    ],
+    "ans": 2,
+    "exp": "\"since + mốc\" → hiện tại hoàn thành: have risen. (D) hiện tại đơn, (B) quá khứ đơn, (A) không phải dạng chia. Dấu hiệu: thấy \"since\" quét ngay thì hoàn thành.",
+    "id": "g3-11"
+   }
+  ]
+ },
+ {
+  "id": "g4",
+  "name": "Câu bị động",
+  "freq": "2–3 câu/đề",
+  "level": "Nền tảng",
+  "intro": "Hỏi một câu duy nhất: chủ ngữ tự làm hành động, hay bị làm? Vật vô tri gần như luôn ở thể bị động.",
+  "rules": [
+   {
+    "h": "Công thức",
+    "lines": [
+     "be + V-ed (was sent, is required, will be shipped)",
+     "modal + be + V-ed (must be submitted, may be returned)",
+     "hoàn thành: have/has been + V-ed"
+    ]
+   },
+   {
+    "h": "Dấu hiệu chọn bị động",
+    "lines": [
+     "Sau chỗ trống KHÔNG có tân ngữ → nhiều khả năng bị động",
+     "Chủ ngữ là tài liệu, đơn hàng, thiết bị, phòng họp… → bị động",
+     "Có \"by + người/tổ chức\" phía sau → bị động"
+    ]
+   }
+  ],
+  "traps": [
+   "Rút gọn mệnh đề quan hệ: the room located on the third floor (bị động, bỏ which is).",
+   "Một số động từ trông bị động nhưng là tính từ: be interested in, be involved in, be located at."
+  ],
+  "questions": [
+   {
+    "id": "g4-1",
+    "text": "The new safety guidelines ______ to all staff last week.",
+    "options": [
+     "have distributing",
+     "were distributed",
+     "distributed",
+     "distributing"
+    ],
+    "ans": 1,
+    "exp": "Hướng dẫn được phát chứ không tự phát, và \"last week\" là quá khứ → were distributed. (C) chủ động sẽ thiếu tân ngữ."
+   },
+   {
+    "id": "g4-2",
+    "text": "Your order ______ as soon as payment is confirmed.",
+    "options": [
+     "will ship",
+     "will be shipped",
+     "is shipping",
+     "shipped"
+    ],
+    "ans": 1,
+    "exp": "Đơn hàng được gửi đi → bị động tương lai. Lưu ý mệnh đề \"as soon as\" đã dùng hiện tại đơn thay cho tương lai."
+   },
+   {
+    "id": "g4-3",
+    "text": "Applicants ______ to submit two letters of reference.",
+    "options": [
+     "require",
+     "requiring",
+     "are required",
+     "requirement"
+    ],
+    "ans": 2,
+    "exp": "be required to V = được yêu cầu phải. (A) chủ động sẽ có nghĩa ứng viên đi yêu cầu người khác — sai logic."
+   },
+   {
+    "id": "g4-4",
+    "text": "The conference room ______ for renovation until 12 May.",
+    "options": [
+     "is closing",
+     "has closed",
+     "will be closed",
+     "closes"
+    ],
+    "ans": 2,
+    "exp": "Phòng được đóng để sửa → bị động. (D) và (B) chủ động khiến phòng tự đóng cửa."
+   },
+   {
+    "id": "g4-5",
+    "text": "The quarterly report must ______ before Friday afternoon.",
+    "options": [
+     "submitted",
+     "be submitted",
+     "submit",
+     "submitting"
+    ],
+    "ans": 1,
+    "exp": "modal + be + V-ed. (A) thiếu \"be\" nên sai cấu trúc — đây là bẫy hay gặp nhất ở dạng bị động có modal."
+   }
+  ]
+ },
+ {
+  "id": "g5",
+  "name": "Liên từ và giới từ",
+  "freq": "3–4 câu/đề",
+  "level": "Trọng tâm",
+  "intro": "Không cần dịch nghĩa trước. Nhìn phía sau chỗ trống: có S + V thì chọn liên từ, chỉ có cụm danh từ thì chọn giới từ.",
+  "rules": [
+   {
+    "h": "Cặp cùng nghĩa, khác loại",
+    "lines": [
+     "because (liên từ) ↔ because of / due to (giới từ)",
+     "although / even though (liên từ) ↔ despite / in spite of (giới từ)",
+     "while / when (liên từ) ↔ during (giới từ)",
+     "so that (liên từ) ↔ for / in order to (giới từ, to V)"
+    ]
+   },
+   {
+    "h": "Cặp liên từ tương quan",
+    "lines": [
+     "both A and B · either A or B · neither A nor B",
+     "not only A but also B"
+    ]
+   }
+  ],
+  "traps": [
+   "\"despite of\" luôn sai — chỉ có despite hoặc in spite of.",
+   "however, therefore, nevertheless là trạng từ nối, không nối được hai mệnh đề bằng dấu phẩy."
+  ],
+  "questions": [
+   {
+    "id": "g5-1",
+    "text": "______ the software update, several users reported slower performance.",
+    "options": [
+     "Whereas",
+     "Following",
+     "Although",
+     "Since"
+    ],
+    "ans": 1,
+    "exp": "Sau chỗ trống là cụm danh từ \"the software update\" → cần giới từ: Following (= sau). (C), (A) là liên từ, cần S + V."
+   },
+   {
+    "id": "g5-2",
+    "text": "The store will remain open ______ the renovation is being completed.",
+    "options": [
+     "while",
+     "because of",
+     "despite",
+     "during"
+    ],
+    "ans": 0,
+    "exp": "Sau chỗ trống có mệnh đề đầy đủ → liên từ while. (D) during là giới từ, chỉ đi với danh từ (during the renovation)."
+   },
+   {
+    "id": "g5-3",
+    "text": "______ his limited experience, Mr. Patel was selected for the role.",
+    "options": [
+     "Because",
+     "Even though",
+     "However",
+     "Despite"
+    ],
+    "ans": 3,
+    "exp": "\"his limited experience\" là cụm danh từ → giới từ chỉ sự nhượng bộ: Despite. (B) đúng nghĩa nhưng sai loại từ."
+   },
+   {
+    "id": "g5-4",
+    "text": "The shipment was delayed ______ an unexpected customs inspection.",
+    "options": [
+     "so",
+     "although",
+     "because",
+     "due to"
+    ],
+    "ans": 3,
+    "exp": "Theo sau là cụm danh từ → due to. (C) because cần mệnh đề: because an inspection WAS carried out."
+   },
+   {
+    "id": "g5-5",
+    "text": "Ms. Chen will lead the project ______ Mr. Alvarez returns from leave.",
+    "options": [
+     "among",
+     "by",
+     "during",
+     "until"
+    ],
+    "ans": 3,
+    "exp": "until vừa là liên từ vừa hợp nghĩa \"cho đến khi\". (B) by là giới từ chỉ hạn chót, không đi với mệnh đề."
+   },
+   {
+    "id": "g5-6",
+    "text": "The proposal was rejected ______ it exceeded the approved budget.",
+    "options": [
+     "because of",
+     "in spite of",
+     "because",
+     "despite"
+    ],
+    "ans": 2,
+    "exp": "Sau chỗ trống là \"it exceeded…\" tức S + V → liên từ because. Ba phương án còn lại đều là giới từ."
+   },
+   {
+    "id": "g5-7",
+    "text": "______ registering online, participants may sign up at the front desk.",
+    "options": [
+     "Instead",
+     "Rather",
+     "Instead of",
+     "Nevertheless"
+    ],
+    "ans": 2,
+    "exp": "instead of + V-ing = thay vì. (A) instead là trạng từ, đứng một mình cuối câu; (D) là trạng từ nối."
+   },
+   {
+    "text": "______ the heavy rain, the outdoor concert continued as planned.",
+    "options": [
+     "Because",
+     "Although",
+     "Despite",
+     "However"
+    ],
+    "ans": 2,
+    "exp": "Trước cụm danh từ \"the heavy rain\" cần giới từ chỉ nhượng bộ: Despite. (B) Although là liên từ cần mệnh đề (có chủ ngữ + động từ), (A) chỉ nguyên nhân, (D) là trạng từ nối. Mẹo: theo sau là danh từ → giới từ; theo sau là mệnh đề → liên từ.",
+    "id": "g5-8"
+   },
+   {
+    "text": "The shipment will be delayed ______ a problem at the port.",
+    "options": [
+     "because",
+     "so",
+     "although",
+     "due to"
+    ],
+    "ans": 3,
+    "exp": "Trước cụm danh từ \"a problem\" cần giới từ chỉ nguyên nhân: due to. (A) because là liên từ cần mệnh đề, (C) nghĩa nhượng bộ, (B) chỉ kết quả.",
+    "id": "g5-9"
+   },
+   {
+    "text": "Please review the contract carefully ______ you sign it.",
+    "options": [
+     "during",
+     "because of",
+     "before",
+     "despite"
+    ],
+    "ans": 2,
+    "exp": "Nối hai mệnh đề theo trình tự thời gian: before. (A) during là giới từ cần danh từ, (D) và (B) đều là giới từ, không nối được hai mệnh đề.",
+    "id": "g5-10"
+   },
+   {
+    "text": "The report must be finished ______ Friday afternoon.",
+    "options": [
+     "during",
+     "until",
+     "since",
+     "by"
+    ],
+    "ans": 3,
+    "exp": "\"by + thời điểm\" nghĩa \"trước/chậm nhất là\" cho hành động hoàn tất. (B) until dùng cho hành động kéo dài đến mốc đó, (C) since cần thì hoàn thành, (A) during cần khoảng thời gian.",
+    "id": "g5-11"
+   },
+   {
+    "text": "______ you submit the form online or by mail, you will receive a confirmation.",
+    "options": [
+     "Both",
+     "Whether",
+     "Neither",
+     "Either"
+    ],
+    "ans": 1,
+    "exp": "\"Whether ... or ...\" nghĩa \"dù ... hay ...\". (D) Either đi với \"or\" nhưng không mở đầu mệnh đề nhượng bộ kiểu này, (A) Both đi với \"and\", (C) Neither đi với \"nor\".",
+    "id": "g5-12"
+   },
+   {
+    "text": "The office will remain open ______ the renovation is completed.",
+    "options": [
+     "despite",
+     "during",
+     "by",
+     "until"
+    ],
+    "ans": 3,
+    "exp": "\"until + mệnh đề\" nghĩa \"cho đến khi\" — văn phòng mở suốt cho tới lúc xong. (C) by đi với mốc thời điểm, (A) despite là giới từ nhượng bộ, (B) during cần danh từ.",
+    "id": "g5-13"
+   }
+  ]
+ },
+ {
+  "id": "g6",
+  "name": "Mệnh đề quan hệ",
+  "freq": "1–2 câu/đề",
+  "level": "Trung cấp",
+  "intro": "Xác định danh từ đứng trước chỗ trống là người hay vật, rồi xem sau chỗ trống thiếu chủ ngữ hay thiếu tân ngữ.",
+  "rules": [
+   {
+    "h": "Chọn đại từ quan hệ",
+    "lines": [
+     "Người: who (chủ ngữ) / whom (tân ngữ) / whose (sở hữu)",
+     "Vật: which, that — whose vẫn dùng được cho vật",
+     "Nơi chốn: where · thời gian: when · lý do: why"
+    ]
+   },
+   {
+    "h": "Quy tắc dấu phẩy",
+    "lines": [
+     "Sau dấu phẩy KHÔNG bao giờ dùng that",
+     "Sau chỗ trống thiếu chủ ngữ → who/which/that; đủ chủ ngữ rồi → whom/which/whose"
+    ]
+   }
+  ],
+  "traps": [
+   "whose + danh từ (không có mạo từ ở giữa): the consultant whose report…",
+   "where chỉ dùng khi sau nó là mệnh đề đầy đủ; nếu thiếu chủ ngữ phải dùng which."
+  ],
+  "questions": [
+   {
+    "id": "g6-1",
+    "text": "The consultant ______ report was published yesterday will speak at the seminar.",
+    "options": [
+     "whom",
+     "whose",
+     "which",
+     "who"
+    ],
+    "ans": 1,
+    "exp": "Sau chỗ trống là danh từ trần \"report\" (không mạo từ) → sở hữu: whose. (D) who cần đi kèm động từ ngay sau."
+   },
+   {
+    "id": "g6-2",
+    "text": "Employees ______ complete the survey will receive a gift voucher.",
+    "options": [
+     "which",
+     "whose",
+     "whom",
+     "who"
+    ],
+    "ans": 3,
+    "exp": "Danh từ chỉ người + sau chỗ trống thiếu chủ ngữ cho \"complete\" → who. (C) whom chỉ dùng khi đã có chủ ngữ khác."
+   },
+   {
+    "id": "g6-3",
+    "text": "The building, ______ was constructed in 1975, will be renovated next year.",
+    "options": [
+     "who",
+     "where",
+     "which",
+     "that"
+    ],
+    "ans": 2,
+    "exp": "Có dấu phẩy nên loại that ngay; danh từ là vật nên dùng which. Quy tắc \"sau phẩy không dùng that\" giải quyết câu này trong 5 giây."
+   },
+   {
+    "id": "g6-4",
+    "text": "This is the warehouse ______ the damaged goods are currently stored.",
+    "options": [
+     "whose",
+     "which",
+     "where",
+     "that"
+    ],
+    "ans": 2,
+    "exp": "Sau chỗ trống là mệnh đề đầy đủ (the goods are stored) và danh từ chỉ nơi chốn → where. (B), (D) chỉ dùng khi mệnh đề còn thiếu thành phần."
+   },
+   {
+    "id": "g6-5",
+    "text": "The date ______ the current contract expires has not been confirmed.",
+    "options": [
+     "who",
+     "when",
+     "what",
+     "which"
+    ],
+    "ans": 1,
+    "exp": "Danh từ chỉ thời gian + mệnh đề đầy đủ phía sau → when. (C) what không bao giờ làm đại từ quan hệ."
+   }
+  ]
+ },
+ {
+  "id": "g7",
+  "name": "So sánh",
+  "freq": "1–2 câu/đề",
+  "level": "Trung cấp",
+  "intro": "Chỉ cần tìm từ khoá: thấy than là so sánh hơn, thấy the hoặc of the three là so sánh nhất, thấy as…as là so sánh bằng.",
+  "rules": [
+   {
+    "h": "Ba dạng",
+    "lines": [
+     "Hơn: adj-er / more + adj + than",
+     "Nhất: the + adj-est / the most + adj (+ in / of)",
+     "Bằng: as + adj nguyên cấp + as"
+    ]
+   },
+   {
+    "h": "Trạng từ bổ nghĩa so sánh hơn",
+    "lines": [
+     "much, far, significantly, considerably, slightly + so sánh hơn",
+     "KHÔNG dùng very, so, too với so sánh hơn"
+    ]
+   }
+  ],
+  "traps": [
+   "twice / three times + as + adj + as (gấp đôi, gấp ba).",
+   "the + so sánh hơn + …, the + so sánh hơn + … (càng… càng…)."
+  ],
+  "questions": [
+   {
+    "id": "g7-1",
+    "text": "The XR-5 model is ______ efficient than the previous version.",
+    "options": [
+     "more",
+     "much",
+     "most",
+     "very"
+    ],
+    "ans": 0,
+    "exp": "Có \"than\" → bắt buộc so sánh hơn: more efficient. (B) much chỉ bổ nghĩa cho dạng so sánh đã có sẵn (much more efficient)."
+   },
+   {
+    "id": "g7-2",
+    "text": "Nordwind is the ______ reliable supplier we have ever worked with.",
+    "options": [
+     "more",
+     "very",
+     "much",
+     "most"
+    ],
+    "ans": 3,
+    "exp": "Có mạo từ \"the\" và mệnh đề \"we have ever worked with\" → so sánh nhất: the most reliable."
+   },
+   {
+    "id": "g7-3",
+    "text": "The new office is twice ______ large as the previous one.",
+    "options": [
+     "more",
+     "as",
+     "so",
+     "very"
+    ],
+    "ans": 1,
+    "exp": "Cấu trúc twice as + adj + as = gấp đôi. Có chữ \"as\" thứ hai ở cuối câu là dấu hiệu bắt buộc."
+   },
+   {
+    "id": "g7-4",
+    "text": "Of the three proposals submitted, Ms. Duval's was ______.",
+    "options": [
+     "detailed",
+     "more detailed",
+     "detail",
+     "the most detailed"
+    ],
+    "ans": 3,
+    "exp": "\"Of the three\" so sánh từ ba đối tượng trở lên → so sánh nhất. (B) chỉ dùng khi so hai đối tượng."
+   },
+   {
+    "id": "g7-5",
+    "text": "Attendance this year was ______ higher than it was last year.",
+    "options": [
+     "so",
+     "very",
+     "too",
+     "significantly"
+    ],
+    "ans": 3,
+    "exp": "Trước dạng so sánh hơn \"higher\" phải dùng trạng từ như significantly, much, far. very / so / too không bao giờ đứng trước so sánh hơn."
+   },
+   {
+    "text": "This year's revenue is ______ than last year's.",
+    "options": [
+     "highly",
+     "high",
+     "higher",
+     "highest"
+    ],
+    "ans": 2,
+    "exp": "Có \"than\" → so sánh hơn: higher. (B) nguyên cấp, (D) so sánh nhất, (A) trạng từ. Thấy \"than\" là quét đáp án so sánh hơn.",
+    "id": "g7-6"
+   },
+   {
+    "text": "Of all the applicants, Ms. Farah has the ______ experience.",
+    "options": [
+     "more",
+     "many",
+     "most",
+     "much"
+    ],
+    "ans": 2,
+    "exp": "\"Of all\" + \"the ___\" → so sánh nhất: most. (D) và (B) nguyên cấp, (A) so sánh hơn cần \"than\".",
+    "id": "g7-7"
+   },
+   {
+    "text": "The new model runs ______ more quietly than the previous one.",
+    "options": [
+     "very",
+     "many",
+     "so",
+     "much"
+    ],
+    "ans": 3,
+    "exp": "Trước so sánh hơn (more quietly) để nhấn mạnh dùng much. (A) very không bổ nghĩa cho so sánh hơn, (B) many đi với danh từ đếm được, (C) so cần \"that\".",
+    "id": "g7-8"
+   },
+   {
+    "text": "The more customers we attract, the ______ our profits become.",
+    "options": [
+     "high",
+     "higher",
+     "highest",
+     "highly"
+    ],
+    "ans": 1,
+    "exp": "Cấu trúc \"the more ..., the + so sánh hơn\": the higher. (A) nguyên cấp, (C) so sánh nhất, (D) trạng từ.",
+    "id": "g7-9"
+   }
+  ]
+ },
+ {
+  "id": "g8",
+  "name": "Đại từ và giới từ thông dụng",
+  "freq": "2–4 câu/đề",
+  "level": "Nền tảng",
+  "intro": "Hai nhóm này cho điểm gần như miễn phí: chỉ cần nhớ bảng dạng đại từ và vài giới từ thời gian cơ bản.",
+  "rules": [
+   {
+    "h": "Bảng đại từ",
+    "lines": [
+     "Chủ ngữ: I, he, she, they — Tân ngữ: me, him, her, them",
+     "Sở hữu + N: my, his, her, their — Sở hữu đứng một mình: mine, his, hers, theirs",
+     "Phản thân: myself, himself, themselves (khi chủ ngữ và tân ngữ trùng nhau)"
+    ]
+   },
+   {
+    "h": "Giới từ thời gian và nơi chốn",
+    "lines": [
+     "at + giờ, at night · on + ngày, thứ · in + tháng, năm, buổi",
+     "by = trước hoặc đúng hạn · until = kéo dài cho đến",
+     "in + không gian kín · on + bề mặt · at + một điểm"
+    ]
+   }
+  ],
+  "traps": [
+   "by Friday (hạn chót) khác until Friday (kéo dài tới hết thứ Sáu).",
+   "Sau giới từ luôn dùng đại từ tân ngữ: between you and ME, không phải I."
+  ],
+  "questions": [
+   {
+    "id": "g8-1",
+    "text": "Anyone interested in the position should send ______ résumé to Human Resources.",
+    "options": [
+     "them",
+     "their",
+     "theirs",
+     "they"
+    ],
+    "ans": 1,
+    "exp": "Trước danh từ \"résumé\" cần tính từ sở hữu: their. (C) theirs đứng một mình, không kèm danh từ."
+   },
+   {
+    "id": "g8-2",
+    "text": "The design team completed the entire campaign by ______.",
+    "options": [
+     "themselves",
+     "they",
+     "their",
+     "them"
+    ],
+    "ans": 0,
+    "exp": "by oneself = tự mình. Chủ ngữ và đối tượng trùng nhau nên dùng đại từ phản thân themselves."
+   },
+   {
+    "id": "g8-3",
+    "text": "The orientation session will begin ______ 9:00 A.M. in the main hall.",
+    "options": [
+     "in",
+     "by",
+     "at",
+     "on"
+    ],
+    "ans": 2,
+    "exp": "at + giờ cụ thể. (D) on đi với ngày/thứ, (A) in đi với tháng/năm/buổi."
+   },
+   {
+    "id": "g8-4",
+    "text": "Please submit the completed form ______ Friday at the latest.",
+    "options": [
+     "for",
+     "until",
+     "since",
+     "by"
+    ],
+    "ans": 3,
+    "exp": "by = hạn chót, hợp với \"at the latest\". until nghĩa kéo dài liên tục cho đến, không dùng cho việc nộp một lần."
+   },
+   {
+    "id": "g8-5",
+    "text": "The archived contracts are stored ______ the cabinet next to the window.",
+    "options": [
+     "to",
+     "in",
+     "on",
+     "at"
+    ],
+    "ans": 1,
+    "exp": "in + không gian kín như tủ, ngăn kéo, phòng. (C) on chỉ bề mặt (on the cabinet = đặt trên nóc tủ)."
+   },
+   {
+    "id": "g8-6",
+    "text": "Ms. Haddad and ______ will represent the company at the trade fair.",
+    "options": [
+     "I",
+     "mine",
+     "my",
+     "me"
+    ],
+    "ans": 0,
+    "exp": "Chỗ trống là một phần của chủ ngữ kép → đại từ chủ ngữ I. Mẹo: bỏ \"Ms. Haddad and\" đi, còn lại phải đọc xuôi là \"I will represent\"."
+   },
+   {
+    "text": "The employees organized the event ______, without any help from management.",
+    "options": [
+     "their",
+     "themselves",
+     "they",
+     "them"
+    ],
+    "ans": 1,
+    "exp": "Nhấn mạnh chủ ngữ tự làm → đại từ phản thân themselves. (C) chủ ngữ, (D) tân ngữ, (A) sở hữu — đều không hợp.",
+    "id": "g8-7"
+   },
+   {
+    "text": "Each of the candidates presented ______ ideas to the panel.",
+    "options": [
+     "his or her",
+     "them",
+     "their",
+     "theirs"
+    ],
+    "ans": 0,
+    "exp": "\"Each\" là số ít → sở hữu số ít his or her. (C) their số nhiều không hợp \"each\", (B) tân ngữ, (D) sở hữu đứng một mình.",
+    "id": "g8-8"
+   },
+   {
+    "text": "The two departments must coordinate closely with ______ on this project.",
+    "options": [
+     "each other",
+     "themselves",
+     "one",
+     "other"
+    ],
+    "ans": 0,
+    "exp": "Hai bên phối hợp lẫn nhau → each other. (B) phản thân nghĩa tự làm cho chính mình, (C) và (D) không tạo nghĩa qua lại.",
+    "id": "g8-9"
+   },
+   {
+    "text": "The proposal was rejected because ______ lacked sufficient detail.",
+    "options": [
+     "it",
+     "they",
+     "itself",
+     "its"
+    ],
+    "ans": 0,
+    "exp": "Cần chủ ngữ cho mệnh đề, thay cho \"the proposal\" số ít → it. (D) sở hữu, (C) phản thân, (B) số nhiều.",
+    "id": "g8-10"
+   },
+   {
+    "text": "Congratulations ______ your promotion to regional director.",
+    "options": [
+     "for",
+     "on",
+     "to",
+     "with"
+    ],
+    "ans": 1,
+    "exp": "\"congratulations on\" là cụm giới từ cố định. Các giới từ khác không đi với congratulations. Đây là loại phải học thuộc theo cụm.",
+    "id": "g8-11"
+   }
+  ]
+ },
+ {
+  "id": "g9",
+  "name": "Điều kiện và giả định",
+  "freq": "1–2 câu/đề",
+  "level": "Nâng cao",
+  "intro": "Nhóm ít câu nhất nhưng dễ ăn điểm vì công thức cố định, đặc biệt là giả định thức sau recommend, suggest, require.",
+  "rules": [
+   {
+    "h": "Câu điều kiện",
+    "lines": [
+     "Loại 1: If + hiện tại đơn, S + will + V (có thật ở tương lai)",
+     "Loại 2: If + quá khứ đơn, S + would + V (trái hiện tại)",
+     "Loại 3: If + had + V-ed, S + would have + V-ed (trái quá khứ)"
+    ]
+   },
+   {
+    "h": "Giả định thức",
+    "lines": [
+     "recommend / suggest / request / require / insist / demand + that + S + V nguyên mẫu",
+     "It is essential / important / necessary + that + S + V nguyên mẫu",
+     "Không chia số ít số nhiều, không thêm s, phủ định là that S not V"
+    ]
+   }
+  ],
+  "traps": [
+   "Sau \"If\" ở loại 1 tuyệt đối không dùng will.",
+   "Giả định thức giữ nguyên mẫu kể cả khi chủ ngữ số ít: recommend that he COMPLETE."
+  ],
+  "questions": [
+   {
+    "id": "g9-1",
+    "text": "If the replacement parts ______ tomorrow, assembly can begin on Monday.",
+    "options": [
+     "arrive",
+     "arrived",
+     "would arrive",
+     "will arrive"
+    ],
+    "ans": 0,
+    "exp": "Điều kiện loại 1: sau If dùng hiện tại đơn dù nói về tương lai. (D) là bẫy phổ biến nhất của dạng này."
+   },
+   {
+    "id": "g9-2",
+    "text": "The director recommended that the deadline ______ extended by one week.",
+    "options": [
+     "is",
+     "be",
+     "will be",
+     "was"
+    ],
+    "ans": 1,
+    "exp": "recommend that + S + V nguyên mẫu; ở thể bị động là \"be extended\". Không chia theo chủ ngữ, không theo thì của động từ chính."
+   },
+   {
+    "id": "g9-3",
+    "text": "If we ______ more time, we would have tested the prototype twice.",
+    "options": [
+     "had had",
+     "would have",
+     "have",
+     "had"
+    ],
+    "ans": 0,
+    "exp": "Mệnh đề chính dùng would have tested → điều kiện loại 3, mệnh đề if phải là had + V-ed, tức had had."
+   },
+   {
+    "id": "g9-4",
+    "text": "It is essential that every employee ______ the safety training before July.",
+    "options": [
+     "completes",
+     "completed",
+     "complete",
+     "completing"
+    ],
+    "ans": 2,
+    "exp": "It is essential that + S + V nguyên mẫu. (A) completes là bẫy hoà hợp chủ vị — với giả định thức thì không thêm s."
+   }
+  ]
+ }
+]

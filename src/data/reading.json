@@ -1,0 +1,3373 @@
+{
+ "part5": [
+  {
+   "id": "p5-01",
+   "text": "All employees ______ submit their timesheets by 5:00 P.M. on Friday.",
+   "options": [
+    "might",
+    "would",
+    "must",
+    "could"
+   ],
+   "ans": 2,
+   "exp": "Câu nói về quy định bắt buộc → dùng must. (A) might và (D) could chỉ khả năng, (B) would chỉ giả định — đều không diễn tả nghĩa bắt buộc. Bẫy: thấy 4 modal thì phải dịch nghĩa, không đoán theo thì."
+  },
+  {
+   "id": "p5-02",
+   "text": "The new filing system has made document retrieval far ______ than before.",
+   "options": [
+    "efficiently",
+    "more efficient",
+    "efficiency",
+    "efficient"
+   ],
+   "ans": 1,
+   "exp": "Có \"than\" ở cuối → bắt buộc dạng so sánh hơn: more efficient. (D) là tính từ nguyên cấp, (A) trạng từ không đứng sau \"far ... than\", (C) là danh từ. Dấu hiệu: chỉ cần thấy \"than\" là quét ngay đáp án so sánh."
+  },
+  {
+   "id": "p5-03",
+   "text": "Ms. Tran will be ______ for training all new sales representatives.",
+   "options": [
+    "responsibly",
+    "responsibility",
+    "responsible",
+    "responsive"
+   ],
+   "ans": 2,
+   "exp": "Sau \"be\" cần tính từ, và cụm cố định là be responsible for = chịu trách nhiệm về. (D) responsive nghĩa \"phản hồi nhanh\" — bẫy từ gần giống. (B) là danh từ, (A) là trạng từ."
+  },
+  {
+   "id": "p5-04",
+   "text": "Please contact the help desk ______ you experience any difficulty logging in.",
+   "options": [
+    "if",
+    "despite",
+    "during",
+    "so"
+   ],
+   "ans": 0,
+   "exp": "Sau chỗ trống là một mệnh đề đầy đủ (S + V) → cần liên từ chỉ điều kiện: if. (B) despite và (C) during là giới từ, chỉ đi với danh từ. (D) so không hợp nghĩa ở vị trí này."
+  },
+  {
+   "id": "p5-05",
+   "text": "The conference room ______ on the third floor has been reserved for the interview.",
+   "options": [
+    "locating",
+    "locates",
+    "locate",
+    "located"
+   ],
+   "ans": 3,
+   "exp": "Rút gọn mệnh đề quan hệ bị động: the room which is located → located. Phòng \"được đặt ở\" nên dùng quá khứ phân từ. (A) locating mang nghĩa chủ động (phòng tự định vị) — sai logic. (C), (B) làm câu có hai động từ chia."
+  },
+  {
+   "id": "p5-06",
+   "text": "Sales of the XT-9 printer have increased ______ since the price reduction.",
+   "options": [
+    "steady",
+    "steadiness",
+    "steadily",
+    "steadier"
+   ],
+   "ans": 2,
+   "exp": "Chỗ trống bổ nghĩa cho động từ \"have increased\" → trạng từ steadily. Đây là dạng word form kinh điển: sau động từ thường, chọn đuôi -ly. (A) tính từ, (B) danh từ, (D) so sánh hơn của tính từ."
+  },
+  {
+   "id": "p5-07",
+   "text": "______ the heavy rain, the outdoor product demonstration was moved indoors.",
+   "options": [
+    "Because of",
+    "Although",
+    "Because",
+    "So that"
+   ],
+   "ans": 0,
+   "exp": "Sau chỗ trống là cụm danh từ \"the heavy rain\" (không có động từ chia) → phải dùng giới từ: because of. (C) Because và (B) Although là liên từ, cần theo sau bằng mệnh đề. Đây là bẫy liên từ / giới từ ra 3–4 câu mỗi đề."
+  },
+  {
+   "id": "p5-08",
+   "text": "The board approved the proposal ______ discussing it for less than an hour.",
+   "options": [
+    "since",
+    "after",
+    "until",
+    "while"
+   ],
+   "ans": 1,
+   "exp": "Duyệt đề xuất xảy ra SAU khi thảo luận → after + V-ing. (D) while nghĩa \"trong lúc\" sai logic thời gian, (C) until nghĩa \"cho đến khi\", (A) since dùng với mốc thời gian cụ thể."
+  },
+  {
+   "id": "p5-09",
+   "text": "Applicants must submit ______ résumés electronically no later than 15 May.",
+   "options": [
+    "theirs",
+    "their",
+    "they",
+    "them"
+   ],
+   "ans": 1,
+   "exp": "Trước danh từ \"résumés\" cần tính từ sở hữu: their. (C) đại từ chủ ngữ, (D) đại từ tân ngữ, (A) đại từ sở hữu (đứng một mình, không kèm danh từ). Mẹo: thấy chỗ trống + danh từ ngay sau → chọn dạng sở hữu."
+  },
+  {
+   "id": "p5-10",
+   "text": "The technician explained the procedure so ______ that everyone understood immediately.",
+   "options": [
+    "clear",
+    "clarity",
+    "clearer",
+    "clearly"
+   ],
+   "ans": 3,
+   "exp": "Bổ nghĩa cho động từ \"explained\" → trạng từ clearly. Cấu trúc so + adv + that. (A) tính từ, (B) danh từ, (C) so sánh hơn không đi với \"so ... that\"."
+  },
+  {
+   "id": "p5-11",
+   "text": "Ms. Alvarez has worked at Brightline Logistics ______ 2015.",
+   "options": [
+    "since",
+    "from",
+    "during",
+    "for"
+   ],
+   "ans": 0,
+   "exp": "Hiện tại hoàn thành + mốc thời gian cụ thể (2015) → since. (D) for đi với khoảng thời gian (for five years). (B) from cần cặp from ... to. (C) during đi với danh từ chỉ giai đoạn (during the meeting)."
+  },
+  {
+   "id": "p5-12",
+   "text": "Our client requested that we ______ the samples before the end of the month.",
+   "options": [
+    "delivers",
+    "delivering",
+    "deliver",
+    "to deliver"
+   ],
+   "ans": 2,
+   "exp": "Sau các động từ đề nghị/yêu cầu (request, suggest, recommend, insist) + that + S + V nguyên mẫu, bỏ \"to\" và không chia. Vì thế (A) delivers là bẫy hòa hợp chủ vị, (B) và (D) sai dạng."
+  },
+  {
+   "id": "p5-13",
+   "text": "The renovation of the lobby is expected ______ by early November.",
+   "options": [
+    "completing",
+    "complete",
+    "completion",
+    "to be completed"
+   ],
+   "ans": 3,
+   "exp": "be expected + to V; việc cải tạo \"được hoàn thành\" nên cần bị động → to be completed. (A) to complete (chủ động) sẽ sai logic vì sảnh không tự hoàn thành. (B), (C) sai dạng."
+  },
+  {
+   "id": "p5-14",
+   "text": "All packages must be ______ inspected before they leave the warehouse.",
+   "options": [
+    "thorough",
+    "thoroughly",
+    "thoroughness",
+    "more thorough"
+   ],
+   "ans": 1,
+   "exp": "Chỗ trống nằm giữa \"be\" và quá khứ phân từ \"inspected\" → vị trí của trạng từ: thoroughly. Nhiều bạn chọn (A) vì thấy \"be\" nên nghĩ cần tính từ — nhưng tính từ chỉ đứng sau be khi KHÔNG có V-ed theo sau."
+  },
+  {
+   "id": "p5-15",
+   "text": "______ the marketing team nor the design team was informed of the schedule change.",
+   "options": [
+    "Both",
+    "Not only",
+    "Neither",
+    "Either"
+   ],
+   "ans": 2,
+   "exp": "Có \"nor\" ở giữa → cặp cố định neither ... nor. (D) Either đi với or, (A) Both đi với and, (B) Not only đi với but also. Dạng cặp liên từ này gần như đề nào cũng có."
+  },
+  {
+   "id": "p5-16",
+   "text": "The updated software allows users to access files ______ any device.",
+   "options": [
+    "from",
+    "among",
+    "between",
+    "into"
+   ],
+   "ans": 0,
+   "exp": "access files from a device = truy cập tệp TỪ một thiết bị. (D) into chỉ chuyển động vào trong, (B) among dùng cho ba đối tượng trở lên, (C) between dùng cho hai đối tượng."
+  },
+  {
+   "id": "p5-17",
+   "text": "Ticket holders will receive a full ______ if the event is cancelled.",
+   "options": [
+    "reserve",
+    "refusal",
+    "reform",
+    "refund"
+   ],
+   "ans": 3,
+   "exp": "Câu từ vựng: sự kiện bị hủy → khách được hoàn tiền, a full refund. (B) refusal = sự từ chối, (C) reform = cải cách, (A) reserve = dự trữ. Với dạng 4 đáp án khác nghĩa hoàn toàn, bắt buộc phải đọc hiểu cả câu."
+  },
+  {
+   "id": "p5-18",
+   "text": "Mr. Osei is ______ to be promoted to regional director next quarter.",
+   "options": [
+    "alike",
+    "likely",
+    "likeness",
+    "liking"
+   ],
+   "ans": 1,
+   "exp": "Cấu trúc be likely to V = có khả năng sẽ. (A) alike (giống nhau) không đi với to V, (C) danh từ, (D) danh động từ. Lưu ý likely tuy có đuôi -ly nhưng là TÍNH TỪ."
+  },
+  {
+   "id": "p5-19",
+   "text": "The workshop was so popular ______ a second session had to be scheduled.",
+   "options": [
+    "than",
+    "for",
+    "as",
+    "that"
+   ],
+   "ans": 3,
+   "exp": "Cấu trúc so + adj + that + mệnh đề (quá ... đến nỗi mà). (C) as cần cặp as ... as, (A) than cần dạng so sánh hơn (popular chứ không phải more popular)."
+  },
+  {
+   "id": "p5-20",
+   "text": "Because of a scheduling ______, two departments booked the same room for Monday.",
+   "options": [
+    "content",
+    "conflict",
+    "contact",
+    "contract"
+   ],
+   "ans": 1,
+   "exp": "a scheduling conflict = trùng lịch. Ba đáp án còn lại là bẫy gần âm quen thuộc: contract (hợp đồng), content (nội dung), contact (liên hệ). Gặp nhóm từ na ná nhau, hãy dịch nghĩa cả cụm chứ đừng nhìn hình dạng từ."
+  },
+  {
+   "id": "p5-21",
+   "text": "The manual explains ______ to install the software on multiple computers.",
+   "options": [
+    "what",
+    "whose",
+    "how",
+    "why"
+   ],
+   "ans": 2,
+   "exp": "Cấu trúc how + to V = cách làm gì. (A) what to do cũng tồn tại nhưng \"what to install the software\" thiếu tân ngữ nên sai. (D) why và (B) whose không đi với to V trong cấu trúc này."
+  },
+  {
+   "id": "p5-22",
+   "text": "Anyone ______ in joining the volunteer program should speak with Ms. Park.",
+   "options": [
+    "interested",
+    "interests",
+    "interest",
+    "interesting"
+   ],
+   "ans": 0,
+   "exp": "Người CẢM THẤY hứng thú → dùng V-ed: interested in. (D) interesting nghĩa \"gây hứng thú\", dùng cho vật/sự việc — đây là bẫy V-ing/V-ed kinh điển. Cụm cố định: be interested IN + V-ing."
+  },
+  {
+   "id": "p5-23",
+   "text": "Production at the Da Nang plant has doubled ______ the past two years.",
+   "options": [
+    "over",
+    "beside",
+    "along",
+    "toward"
+   ],
+   "ans": 0,
+   "exp": "over the past two years = trong suốt hai năm qua, cụm cố định đi với hiện tại hoàn thành. (C), (D), (B) đều là giới từ chỉ nơi chốn/phương hướng, không dùng cho khoảng thời gian."
+  },
+  {
+   "id": "p5-24",
+   "text": "The new supplier offers lower prices ______ maintaining the same level of quality.",
+   "options": [
+    "unless",
+    "despite of",
+    "because",
+    "while"
+   ],
+   "ans": 3,
+   "exp": "while + V-ing = trong khi vẫn (rút gọn mệnh đề cùng chủ ngữ). (A) unless cần mệnh đề đầy đủ, (B) sai ngữ pháp (đúng là \"in spite of\" hoặc \"despite\"), (C) because cần S + V."
+  }
+ ],
+ "part6": [
+  {
+   "id": "p6-1",
+   "part": 6,
+   "kind": "E-mail",
+   "title": "Temporary Office Relocation",
+   "body": "To: All Staff\nFrom: Facilities Management\nSubject: Temporary Office Relocation\n\nBeginning on 14 March, the third floor will be closed for electrical work. During this period, all Accounting staff will ___(1)___ to meeting rooms 2B and 2C on the second floor. Please pack your personal belongings in the boxes ___(2)___ outside the copy room.\n\nWe understand that this move may cause some inconvenience. ___(3)___ You will be notified as soon as the third floor ___(4)___.\n\nThank you for your cooperation.",
+   "questions": [
+    {
+     "id": "p6-1-1",
+     "text": "Chỗ trống (1)",
+     "options": [
+      "relocating",
+      "relocate",
+      "relocated",
+      "have relocated"
+     ],
+     "ans": 1,
+     "exp": "Sau \"will\" luôn là động từ nguyên mẫu không \"to\" → relocate. (C), (D), (A) đều sai dạng sau modal. Đây là câu Part 6 dễ ăn điểm nhất, chỉ cần nhìn từ đứng trước chỗ trống."
+    },
+    {
+     "id": "p6-1-2",
+     "text": "Chỗ trống (2)",
+     "options": [
+      "provide",
+      "providing",
+      "provides",
+      "provided"
+     ],
+     "ans": 3,
+     "exp": "Rút gọn mệnh đề quan hệ bị động: the boxes which are provided → provided. Thùng \"được cung cấp\" nên dùng V-ed. (B) providing mang nghĩa chủ động, (A) và (C) làm câu có hai động từ chia."
+    },
+    {
+     "id": "p6-1-3",
+     "text": "Chỗ trống (3) — chọn câu phù hợp",
+     "options": [
+      "The third-floor cafeteria will reopen next week.",
+      "Applications for the position must be submitted by Friday.",
+      "Please contact the sales team for current pricing.",
+      "We appreciate your patience while the repairs are completed."
+     ],
+     "ans": 3,
+     "exp": "Câu trước nói \"may cause some inconvenience\" → câu tiếp theo phải nối mạch xin lỗi/cảm ơn sự thông cảm. (A) mâu thuẫn vì tầng ba đang đóng cửa, (B) và (C) lạc chủ đề. Với dạng chèn câu, hãy bám vào câu ngay trước và ngay sau."
+    },
+    {
+     "id": "p6-1-4",
+     "text": "Chỗ trống (4)",
+     "options": [
+      "reopens",
+      "reopened",
+      "will reopen",
+      "is reopening"
+     ],
+     "ans": 0,
+     "exp": "Sau \"as soon as\" (mệnh đề trạng ngữ chỉ thời gian) dùng hiện tại đơn thay cho tương lai. (C) will reopen là bẫy phổ biến nhất vì cả câu đang nói về tương lai. (B) sai thì, (D) không hợp ngữ cảnh."
+    }
+   ]
+  },
+  {
+   "id": "p6-2",
+   "part": 6,
+   "kind": "Notice",
+   "title": "Greenfield Market Rewards",
+   "body": "ATTENTION VALUED CUSTOMERS\n\nStarting 1 June, Greenfield Market will launch a new rewards program. Members will earn one point for every dollar ___(1)___ at any of our twelve locations. Points may be ___(2)___ for discounts on groceries, or donated to a local food bank.\n\nSigning up is simple and free. ___(3)___ Cards are also available at the customer service desk.\n\nFor ___(4)___ information, visit our Web site or ask any cashier.",
+   "questions": [
+    {
+     "id": "p6-2-1",
+     "text": "Chỗ trống (1)",
+     "options": [
+      "to spend",
+      "spent",
+      "spend",
+      "spending"
+     ],
+     "ans": 1,
+     "exp": "Rút gọn mệnh đề quan hệ bị động: every dollar that is spent → spent. Tiền \"được tiêu\" nên dùng V-ed. (D) spending mang nghĩa chủ động, (C) làm câu có hai động từ chia."
+    },
+    {
+     "id": "p6-2-2",
+     "text": "Chỗ trống (2)",
+     "options": [
+      "replaced",
+      "redeemed",
+      "returned",
+      "exchanged"
+     ],
+     "ans": 1,
+     "exp": "Câu từ vựng: redeem points for discounts là cụm chuẩn trong ngữ cảnh tích điểm. (D) exchange thường đi với \"exchange A for B\" về hàng hóa, (C) return = trả lại hàng, (A) replace = thay thế."
+    },
+    {
+     "id": "p6-2-3",
+     "text": "Chỗ trống (3) — chọn câu phù hợp",
+     "options": [
+      "Our produce section has recently been expanded.",
+      "The store will close for renovations throughout July.",
+      "Applications for seasonal positions are now closed.",
+      "Simply complete the short form on our Web site to receive your card by mail."
+     ],
+     "ans": 3,
+     "exp": "Câu trước nói \"Signing up is simple and free\", câu sau nói \"Cards are ALSO available at the desk\" → chỗ trống phải nêu cách đăng ký thứ nhất để chữ \"also\" có nghĩa. Từ nối \"also\" ở câu sau chính là manh mối."
+    },
+    {
+     "id": "p6-2-4",
+     "text": "Chỗ trống (4)",
+     "options": [
+      "addition",
+      "additionally",
+      "additional",
+      "added"
+     ],
+     "ans": 2,
+     "exp": "Trước danh từ \"information\" cần tính từ: additional information. (A) là danh từ (in addition), (B) là trạng từ, (D) added tuy có thể làm tính từ nhưng không dùng trong cụm cố định này."
+    }
+   ]
+  },
+  {
+   "id": "p6-3",
+   "part": 6,
+   "kind": "Memo",
+   "title": "Annual Performance Reviews",
+   "body": "MEMO\nTo: Department Managers\nFrom: Linh Pham, Human Resources\nDate: 9 October\nRe: Annual Performance Reviews\n\nPerformance reviews for this year must be ___(1)___ by 30 November. Each manager should schedule a one-hour meeting with every member of his or her team. ___(2)___\n\nEvaluation forms are now available on the HR portal. Please note that the rating scale ___(3)___ since last year; the new scale runs from one to five rather than one to four. If you are unfamiliar with the revised form, a short training video has been posted ___(4)___ the portal's main page.\n\nContact HR at extension 244 with any questions.",
+   "questions": [
+    {
+     "id": "p6-3-1",
+     "text": "Chỗ trống (1)",
+     "options": [
+      "complete",
+      "completion",
+      "completed",
+      "completing"
+     ],
+     "ans": 2,
+     "exp": "must be + V-ed = bị động: các bản đánh giá \"được hoàn thành\". (A) sẽ thành \"must be complete\" (tính từ, nghĩa là đầy đủ) — nghe được nhưng không hợp với mốc thời hạn \"by 30 November\". (D), (B) sai dạng sau \"be\"."
+    },
+    {
+     "id": "p6-3-2",
+     "text": "Chỗ trống (2) — chọn câu phù hợp",
+     "options": [
+      "New office chairs have been ordered for all departments.",
+      "Parking permits expire at the end of the month.",
+      "Meetings held after that date will not count toward this year's cycle.",
+      "The company picnic will take place in June."
+     ],
+     "ans": 2,
+     "exp": "Đoạn đang nói về hạn chót và việc xếp lịch họp → câu chèn phải tiếp tục nói về hạn chót đó (\"that date\" trỏ ngược về 30 November). (D), (A), (B) đều lạc đề. Mẹo: đại từ chỉ định (that, this, they) trong đáp án đúng luôn có chỗ để trỏ về."
+    },
+    {
+     "id": "p6-3-3",
+     "text": "Chỗ trống (3)",
+     "options": [
+      "is changing",
+      "has changed",
+      "will change",
+      "changes"
+     ],
+     "ans": 1,
+     "exp": "\"since last year\" là dấu hiệu bắt buộc của hiện tại hoàn thành → has changed. (D) hiện tại đơn và (A) hiện tại tiếp diễn không đi với since, (C) tương lai mâu thuẫn với việc thang điểm mới đã áp dụng."
+    },
+    {
+     "id": "p6-3-4",
+     "text": "Chỗ trống (4)",
+     "options": [
+      "among",
+      "through",
+      "on",
+      "in"
+     ],
+     "ans": 2,
+     "exp": "posted on a page / on a Web site — giới từ chuẩn cho việc đăng nội dung lên trang. (D) in dùng cho không gian bên trong, (A) among cần nhiều đối tượng, (B) through nghĩa xuyên qua/thông qua."
+    }
+   ]
+  },
+  {
+   "id": "p6-4",
+   "part": 6,
+   "kind": "E-mail",
+   "title": "New Expense-Reporting System",
+   "body": "To: All Staff\nFrom: Priya Nandakumar, Finance\nSubject: New expense-reporting system\n\nStarting 1 April, all travel and entertainment expenses ___(1)___ through the Orbit portal rather than on paper forms. The portal accepts photographs of receipts, so there is no longer any need to post originals to Finance.\n\nClaims submitted before 25 March will still be processed under the old system. ___(2)___\n\nReimbursements are issued twice a month, on the 10th and the 25th. A claim approved ___(3)___ the 20th will therefore appear in the payment made on the 25th. If your manager is away, the portal forwards the claim to the ___(4)___ approver listed in your department profile.",
+   "questions": [
+    {
+     "id": "p6-4-1",
+     "text": "Chỗ trống (1)",
+     "options": [
+      "submit",
+      "must submit",
+      "submitting",
+      "must be submitted"
+     ],
+     "ans": 3,
+     "exp": "Chủ ngữ là \"expenses\" (chi phí) — chi phí được nộp chứ không tự nộp → bị động must be submitted. (B) là bẫy chủ động phổ biến nhất ở dạng câu này."
+    },
+    {
+     "id": "p6-4-2",
+     "text": "Chỗ trống (2) — chọn câu phù hợp",
+     "options": [
+      "The cafeteria will be closed for cleaning next week.",
+      "After that date, paper forms will no longer be accepted.",
+      "New laptops have been ordered for the sales team.",
+      "Please contact IT to request a parking permit."
+     ],
+     "ans": 1,
+     "exp": "Câu trước nói đơn nộp trước 25/3 vẫn xử lý theo hệ thống cũ → câu tiếp phải nói điều gì xảy ra sau mốc đó. Cụm \"that date\" trỏ ngược về 25 March, đúng nguyên tắc bám đại từ chỉ định."
+    },
+    {
+     "id": "p6-4-3",
+     "text": "Chỗ trống (3)",
+     "options": [
+      "until",
+      "among",
+      "on",
+      "in"
+     ],
+     "ans": 2,
+     "exp": "Giới từ đi với ngày cụ thể là on (on the 20th). (D) in dùng cho tháng/năm, (A) until nghĩa \"cho đến\" làm sai logic vì đây là một thời điểm duyệt đơn."
+    },
+    {
+     "id": "p6-4-4",
+     "text": "Chỗ trống (4)",
+     "options": [
+      "alternately",
+      "alternation",
+      "alternate",
+      "alternating"
+     ],
+     "ans": 2,
+     "exp": "Trước danh từ \"approver\" cần tính từ: alternate approver = người duyệt thay. (A) trạng từ, (B) danh từ, (D) phân từ mang nghĩa \"luân phiên\" không hợp."
+    }
+   ]
+  },
+  {
+   "id": "p6-5",
+   "part": 6,
+   "kind": "Notice",
+   "title": "Parking Garage Resurfacing",
+   "body": "NOTICE TO ALL TENANTS\n\nThe parking garage on Level B1 will be resurfaced from 3 to 7 June. During that week, the garage will be ___(1)___ to all vehicles. Tenants may use the outdoor lot on Waverly Street at no extra charge.\n\n___(2)___ Spaces there are limited, so we encourage carpooling.\n\nVehicles left in the garage after 6 p.m. on 2 June will be towed at the owner's ___(3)___. Please make arrangements in advance.\n\nWe expect the work to be finished on schedule, ___(4)___ heavy rain could add one or two days.\n\n— Building Management",
+   "questions": [
+    {
+     "id": "p6-5-1",
+     "text": "Chỗ trống (1)",
+     "options": [
+      "closure",
+      "closely",
+      "closing",
+      "closed"
+     ],
+     "ans": 3,
+     "exp": "\"will be\" + V-ed là bị động → closed (bị đóng). (C) closing chỉ đúng nếu chủ động (we are closing), (A) closure là danh từ, (B) closely là trạng từ. Mẹo: thấy \"be\" đứng trước chỗ trống, nghĩ ngay tới bị động hoặc tính từ."
+    },
+    {
+     "id": "p6-5-2",
+     "text": "Chỗ trống (2) — chọn câu phù hợp",
+     "options": [
+      "A shuttle will run between the outdoor lot and the main lobby every fifteen minutes.",
+      "All tenants must renew their leases by 30 June.",
+      "Visitor passes can be purchased at the front desk.",
+      "The garage roof was replaced two years ago."
+     ],
+     "ans": 0,
+     "exp": "Câu ngay sau chỗ trống là \"Spaces there are limited\" — chữ \"there\" phải trỏ về bãi xe ngoài trời vừa nhắc. Chỉ (A) tiếp tục nói về bãi đó. (D), (B), (C) lạc mạch. Với dạng chèn câu, hãy tìm đại từ (there, this, they) ở câu sau và xem nó trỏ về đâu."
+    },
+    {
+     "id": "p6-5-3",
+     "text": "Chỗ trống (3)",
+     "options": [
+      "expenses",
+      "expensive",
+      "expense",
+      "expensively"
+     ],
+     "ans": 2,
+     "exp": "\"at the owner's expense\" là cụm cố định nghĩa \"chủ xe tự chịu chi phí\". Sau sở hữu cách cần danh từ số ít trong cụm này. (B) là tính từ, (D) trạng từ, (A) số nhiều không hợp cụm."
+    },
+    {
+     "id": "p6-5-4",
+     "text": "Chỗ trống (4)",
+     "options": [
+      "although",
+      "so that",
+      "therefore",
+      "because"
+     ],
+     "ans": 0,
+     "exp": "Vế trước: mong xong đúng hạn. Vế sau: mưa to có thể làm chậm — hai ý trái chiều nên dùng although. (D) chỉ nguyên nhân, (C) là trạng từ nối không dùng nối hai mệnh đề bằng dấu phẩy, (B) chỉ mục đích."
+    }
+   ]
+  },
+  {
+   "id": "p6-6",
+   "part": 6,
+   "kind": "Letter",
+   "title": "Subscription Renewal Notice",
+   "body": "Dear Ms. Alvarez,\n\nThank you for being a subscriber to Modern Architect for the past five years. Your current subscription ___(1)___ on 31 August.\n\nIf you renew before that date, you will receive twelve issues for £48 — the same rate you paid last year. ___(2)___\n\nRenewing is simple. Just visit our website and enter the account number ___(3)___ at the top of this letter.\n\nWe hope you will continue reading, and we ___(4)___ forward to serving you for another year.\n\nSincerely,\nPaul Hendricks\nCirculation Manager",
+   "questions": [
+    {
+     "id": "p6-6-1",
+     "text": "Chỗ trống (1)",
+     "options": [
+      "expires",
+      "expire",
+      "expiring",
+      "to expire"
+     ],
+     "ans": 0,
+     "exp": "Mệnh đề cần một động từ đã chia; chủ ngữ \"Your current subscription\" số ít → expires. Thì hiện tại đơn dùng cho lịch trình đã ấn định (giống \"The train leaves at six\"). (C), (B), (D) đều không phải dạng chia được."
+    },
+    {
+     "id": "p6-6-2",
+     "text": "Chỗ trống (2) — chọn câu phù hợp",
+     "options": [
+      "Please recycle this letter when you have finished with it.",
+      "After 31 August, the price will increase to £56.",
+      "Our editorial offices moved to Leeds last spring.",
+      "We no longer publish a print edition."
+     ],
+     "ans": 1,
+     "exp": "Câu trước nêu ưu đãi nếu gia hạn sớm; câu chèn hợp lý nhất là nêu hậu quả nếu gia hạn muộn — đó chính là lý do thuyết phục khách. (D) mâu thuẫn vì thư đang mời nhận 12 số báo. (C) và (A) lạc đề."
+    },
+    {
+     "id": "p6-6-3",
+     "text": "Chỗ trống (3)",
+     "options": [
+      "printed",
+      "prints",
+      "printing",
+      "to print"
+     ],
+     "ans": 0,
+     "exp": "Rút gọn mệnh đề quan hệ bị động: the account number which is printed → printed. Số tài khoản \"được in\", không tự in. (C) printing mang nghĩa chủ động. Mẹo: danh từ + V-ed thường là bị động rút gọn."
+    },
+    {
+     "id": "p6-6-4",
+     "text": "Chỗ trống (4)",
+     "options": [
+      "looking",
+      "look",
+      "looks",
+      "looked"
+     ],
+     "ans": 1,
+     "exp": "\"we look forward to + V-ing\" là cụm cố định trong thư trang trọng. Chủ ngữ \"we\" nên không thêm -s. (D) looked sai thì vì câu nói về tương lai."
+    }
+   ]
+  },
+  {
+   "id": "p6-7",
+   "part": 6,
+   "kind": "Advertisement",
+   "title": "Riverside Fitness Opening",
+   "body": "RIVERSIDE FITNESS — NOW OPEN ON PARK STREET\n\nRiverside Fitness has opened its fourth location, and this one is our ___(1)___ yet. At 2,000 square metres, the Park Street club has three studios, a 25-metre pool, and more than eighty machines.\n\nMembers enjoy unlimited access to all four clubs. ___(2)___ Classes range from beginner yoga to advanced cycling.\n\nJoin before 30 September and the registration fee ___(3)___. Simply mention this advertisement at the front desk.\n\nNot sure yet? Ask about our seven-day trial, which gives you full access ___(4)___ any obligation.",
+   "questions": [
+    {
+     "id": "p6-7-1",
+     "text": "Chỗ trống (1)",
+     "options": [
+      "largely",
+      "large",
+      "larger",
+      "largest"
+     ],
+     "ans": 3,
+     "exp": "\"our ___ yet\" (từ trước tới nay) đi với so sánh nhất → largest. Sở hữu cách our thay cho \"the\" trước so sánh nhất. (C) larger cần \"than\", (A) largely là trạng từ nghĩa \"phần lớn\"."
+    },
+    {
+     "id": "p6-7-2",
+     "text": "Chỗ trống (2) — chọn câu phù hợp",
+     "options": [
+      "Group classes are included in every membership.",
+      "The pool is reserved for competitive swimmers.",
+      "Parking is available on the fifth floor of the mall.",
+      "The company was founded in Riverside in 1998."
+     ],
+     "ans": 0,
+     "exp": "Câu ngay sau nói \"Classes range from…\" nên câu chèn phải là câu giới thiệu lớp học. (B) mâu thuẫn với \"unlimited access\", (C) và (D) không nối được với câu sau. Nguyên tắc: câu chèn phải làm câu kế tiếp có nghĩa."
+    },
+    {
+     "id": "p6-7-3",
+     "text": "Chỗ trống (3)",
+     "options": [
+      "has waived",
+      "waiving",
+      "waives",
+      "is waived"
+     ],
+     "ans": 3,
+     "exp": "Phí đăng ký là thứ \"được miễn\", không tự miễn → bị động is waived. (C) và (A) là chủ động nên sai nghĩa, (B) thiếu động từ chia. Hỏi \"ai làm gì cho ai\" là cách nhanh nhất để chọn chủ động hay bị động."
+    },
+    {
+     "id": "p6-7-4",
+     "text": "Chỗ trống (4)",
+     "options": [
+      "besides",
+      "despite",
+      "except",
+      "without"
+     ],
+     "ans": 3,
+     "exp": "\"without any obligation\" nghĩa là không ràng buộc gì — cụm quen thuộc trong quảng cáo. (B) despite cần ý nhượng bộ, (A) besides nghĩa \"ngoài ra còn\", (C) except cần một ngoại lệ cụ thể."
+    }
+   ]
+  },
+  {
+   "id": "p6-8",
+   "part": 6,
+   "kind": "Article",
+   "title": "Hale Manufacturing Recycling Programme",
+   "body": "CANTERBURY — Hale Manufacturing announced on Tuesday that it will begin ___(1)___ all of its packaging waste at its two local plants.\n\nThe programme, which starts in January, is expected to keep about 400 tonnes of cardboard and plastic out of landfills each year. ___(2)___\n\n\"Our customers ask about this at every trade show,\" said plant director Renata Oyelaran. \"It is ___(3)___ what they expect from a supplier now.\"\n\nHale will also install sorting bins in all break rooms. Employees ___(4)___ a short training session in December will learn how to use them.",
+   "questions": [
+    {
+     "id": "p6-8-1",
+     "text": "Chỗ trống (1)",
+     "options": [
+      "to recycling",
+      "recycled",
+      "recycle",
+      "recycling"
+     ],
+     "ans": 3,
+     "exp": "begin + V-ing (hoặc begin to V). Trong bốn phương án chỉ recycling hợp lệ. (C) thiếu \"to\", (B) sai dạng, (A) sai vì \"to\" ở đây phải là to nguyên mẫu chứ không phải giới từ."
+    },
+    {
+     "id": "p6-8-2",
+     "text": "Chỗ trống (2) — chọn câu phù hợp",
+     "options": [
+      "Ms. Oyelaran joined the company in 2019.",
+      "Applications for factory positions are accepted online.",
+      "The two plants will close at the end of the year.",
+      "The company estimates the change will also cut its waste-disposal costs by a fifth."
+     ],
+     "ans": 3,
+     "exp": "Câu trước nêu lợi ích môi trường; \"also\" trong (D) nối sang lợi ích thứ hai là chi phí — mạch rất tự nhiên. (C) mâu thuẫn vì chương trình mới bắt đầu tháng Một. (B) lạc đề. (A) sai vị trí vì bà Oyelaran mãi câu sau mới được giới thiệu."
+    },
+    {
+     "id": "p6-8-3",
+     "text": "Chỗ trống (3)",
+     "options": [
+      "exacting",
+      "exactness",
+      "exactly",
+      "exact"
+     ],
+     "ans": 2,
+     "exp": "Cần trạng từ bổ nghĩa cho cụm \"what they expect\" → exactly (đúng y như). (D) là tính từ cần danh từ theo sau, (A) nghĩa \"khắt khe\", (B) là danh từ."
+    },
+    {
+     "id": "p6-8-4",
+     "text": "Chỗ trống (4)",
+     "options": [
+      "attends",
+      "attend",
+      "attending",
+      "attended"
+     ],
+     "ans": 2,
+     "exp": "Rút gọn mệnh đề quan hệ chủ động: Employees who attend → attending. Nhân viên chủ động dự buổi tập huấn nên dùng V-ing. Nếu chọn (B) hay (A), câu sẽ có hai động từ chia mà không có liên từ."
+    }
+   ]
+  },
+  {
+   "id": "p6-9",
+   "part": 6,
+   "kind": "E-mail",
+   "title": "Software Update Notice",
+   "body": "To: All Staff\nFrom: IT Support\nSubject: System Upgrade This Weekend\n\nDear colleagues,\n\nOur accounting software will be upgraded to version 9 this Saturday. The system will be ___(1)___ from 6 p.m. Friday until noon Saturday while the work is carried out.\n\n___(2)___ We therefore recommend saving any open files before you leave on Friday.\n\nOnce the upgrade is complete, you will notice a redesigned dashboard and faster reporting. A short guide explaining the main changes ___(3)___ to your inbox on Monday morning.\n\nIf you experience any issues afterward, please contact the help desk ___(4)___ than trying to fix the problem yourself.\n\nThank you for your patience,\nIT Support",
+   "questions": [
+    {
+     "id": "p6-9-1",
+     "text": "Chỗ trống (1)",
+     "options": [
+      "available",
+      "unavailable",
+      "avoidable",
+      "favourable"
+     ],
+     "ans": 1,
+     "exp": "Hệ thống đang được nâng cấp nên không dùng được → unavailable. (A) available ngược nghĩa, (C) avoidable (tránh được) và (D) favourable (thuận lợi) đều sai ngữ cảnh."
+    },
+    {
+     "id": "p6-9-2",
+     "text": "Chỗ trống (2) — chọn câu phù hợp",
+     "options": [
+      "Staff may take Friday afternoon off.",
+      "The help desk will be closed all week.",
+      "Any work saved during this window may be lost.",
+      "The new version costs an additional fee."
+     ],
+     "ans": 2,
+     "exp": "Câu sau là \"We therefore recommend saving any open files\" — chữ \"therefore\" đòi một lý do ở câu trước. Chỉ (C) nêu lý do (công việc có thể bị mất) khiến lời khuyên lưu file hợp lý. Với câu chèn, tìm từ nối (therefore, so) ở câu kế và xem nó cần tiền đề gì."
+    },
+    {
+     "id": "p6-9-3",
+     "text": "Chỗ trống (3)",
+     "options": [
+      "will be sent",
+      "was sent",
+      "sends",
+      "sending"
+     ],
+     "ans": 0,
+     "exp": "Hướng dẫn \"được gửi\" (bị động) và mốc \"Monday morning\" chỉ tương lai → will be sent. (C) chủ động sai nghĩa, (B) quá khứ, (D) thiếu động từ chia."
+    },
+    {
+     "id": "p6-9-4",
+     "text": "Chỗ trống (4)",
+     "options": [
+      "sooner",
+      "rather",
+      "other",
+      "instead"
+     ],
+     "ans": 1,
+     "exp": "\"rather than\" nghĩa \"thay vì\" — liên hệ tới việc tự sửa. (C) other không tạo cụm này, (D) instead cần \"of\", (A) sooner cần ngữ cảnh so sánh thời gian."
+    }
+   ]
+  },
+  {
+   "id": "p6-10",
+   "part": 6,
+   "kind": "Article",
+   "title": "Bakery Wins Regional Award",
+   "body": "BRIDGEPORT — A small family bakery on Canal Street has won this year's regional award for best artisan bread. Flour & Stone, run by the Okafor family, ___(1)___ the prize at a ceremony on Tuesday.\n\nThe bakery opened just three years ago. ___(2)___ Since then, word of mouth has turned it into one of the busiest shops in the neighbourhood.\n\n\"We were completely surprised,\" said co-owner Ada Okafor. \"We never expected a shop as ___(3)___ as ours to be noticed.\"\n\nThe award has already had an effect. The bakery reports that sales ___(4)___ by nearly a third since the announcement.",
+   "questions": [
+    {
+     "id": "p6-10-1",
+     "text": "Chỗ trống (1)",
+     "options": [
+      "received",
+      "receiving",
+      "receives",
+      "to receive"
+     ],
+     "ans": 0,
+     "exp": "Sự việc đã xảy ra tại buổi lễ hôm thứ Ba → quá khứ received. (C) hiện tại, (B) và (D) không phải dạng chia cho mệnh đề chính."
+    },
+    {
+     "id": "p6-10-2",
+     "text": "Chỗ trống (2) — chọn câu phù hợp",
+     "options": [
+      "At first, it attracted only a handful of local customers.",
+      "The award ceremony was cancelled.",
+      "The owners plan to close it next year.",
+      "It is located far outside the town."
+     ],
+     "ans": 0,
+     "exp": "Câu sau bắt đầu \"Since then, word of mouth has turned it into one of the busiest shops\" — cần một khởi điểm khiêm tốn để tương phản. (A) (ban đầu chỉ vài khách) tạo đúng mạch \"từ ít thành đông\". (B) mâu thuẫn vì lễ trao giải đã diễn ra."
+    },
+    {
+     "id": "p6-10-3",
+     "text": "Chỗ trống (3)",
+     "options": [
+      "smallness",
+      "smallest",
+      "small",
+      "smaller"
+     ],
+     "ans": 2,
+     "exp": "Cấu trúc \"as + tính từ nguyên cấp + as\": as small as. (D) so sánh hơn, (B) so sánh nhất, (A) danh từ."
+    },
+    {
+     "id": "p6-10-4",
+     "text": "Chỗ trống (4)",
+     "options": [
+      "growing",
+      "have grown",
+      "grew",
+      "grows"
+     ],
+     "ans": 1,
+     "exp": "\"since the announcement\" → hiện tại hoàn thành have grown. (C) grew là quá khứ đơn không đi với since, (D) hiện tại đơn, (A) thiếu trợ động từ."
+    }
+   ]
+  },
+  {
+   "id": "p6-11",
+   "part": 6,
+   "kind": "Notice",
+   "title": "Gym Locker Policy",
+   "body": "NOTICE TO MEMBERS — Locker Use\n\nTo keep our changing rooms tidy, we are introducing a new locker policy from 1 April.\n\nLockers are for use during your visit only. Any items left ___(1)___ closing time will be removed and held at reception for one week. ___(2)___\n\nMembers who wish to store belongings overnight may rent a dedicated locker for a small monthly fee. These are ___(3)___ at the front desk.\n\nWe appreciate your cooperation. This change will help ensure that a locker is always ___(4)___ when you need one.",
+   "questions": [
+    {
+     "id": "p6-11-1",
+     "text": "Chỗ trống (1)",
+     "options": [
+      "among",
+      "within",
+      "after",
+      "during"
+     ],
+     "ans": 2,
+     "exp": "Đồ để lại \"sau\" giờ đóng cửa sẽ bị dọn → after closing time. (D) during (trong lúc), (A) among (giữa các), (B) within (trong vòng) đều sai nghĩa."
+    },
+    {
+     "id": "p6-11-2",
+     "text": "Chỗ trống (2) — chọn câu phù hợp",
+     "options": [
+      "Unclaimed items will then be donated to charity.",
+      "The gym will be closed for two weeks.",
+      "Membership fees will double next month.",
+      "Personal trainers are available on request."
+     ],
+     "ans": 0,
+     "exp": "Câu trước nói đồ bị giữ ở lễ tân một tuần; câu chèn hợp lý nêu điều xảy ra tiếp theo (sau một tuần không ai nhận → quyên góp). (A) tiếp nối logic thời gian. (B), (C), (D) lạc chủ đề tủ đồ."
+    },
+    {
+     "id": "p6-11-3",
+     "text": "Chỗ trống (3)",
+     "options": [
+      "available",
+      "avoidable",
+      "approachable",
+      "agreeable"
+     ],
+     "ans": 0,
+     "exp": "Tủ thuê \"có sẵn\" ở quầy → available. (B) tránh được, (C) dễ tiếp cận, (D) dễ chịu — đều sai ngữ cảnh."
+    },
+    {
+     "id": "p6-11-4",
+     "text": "Chỗ trống (4)",
+     "options": [
+      "freeing",
+      "freely",
+      "freedom",
+      "free"
+     ],
+     "ans": 3,
+     "exp": "\"a locker is always ___\" cần tính từ làm bổ ngữ: free (trống, còn chỗ). (B) trạng từ, (C) danh từ, (A) V-ing."
+    }
+   ]
+  },
+  {
+   "id": "p6-12",
+   "part": 6,
+   "kind": "Letter",
+   "title": "Thank-You to a Volunteer",
+   "body": "Dear Mr. Halvorsen,\n\nOn behalf of the Riverside Community Centre, I would like to thank you for the many hours you ___(1)___ over the past year. Your work with our after-school reading programme has made a real difference.\n\n___(2)___ Several parents have told us how much their children look forward to your sessions.\n\nAs a token of our appreciation, we would like to invite you to our annual volunteers' dinner on 12 May. The evening is our way of ___(3)___ everyone who gives their time so generously.\n\nPlease let us know whether you can attend. We do hope you ___(4)___ join us.\n\nWith gratitude,\nMarisol Vega, Director",
+   "questions": [
+    {
+     "id": "p6-12-1",
+     "text": "Chỗ trống (1)",
+     "options": [
+      "contributing",
+      "to contribute",
+      "contribute",
+      "have contributed"
+     ],
+     "ans": 3,
+     "exp": "\"over the past year\" → hiện tại hoàn thành have contributed. (C) hiện tại đơn, (A) và (B) không phải dạng chia cho mệnh đề quan hệ rút gọn ở đây."
+    },
+    {
+     "id": "p6-12-2",
+     "text": "Chỗ trống (2) — chọn câu phù hợp",
+     "options": [
+      "Unfortunately, the programme will end soon.",
+      "The impact of your dedication is clear.",
+      "We are unable to offer any payment.",
+      "The centre is looking for a new director."
+     ],
+     "ans": 1,
+     "exp": "Câu sau đưa bằng chứng cụ thể (phụ huynh khen) — cần một câu khái quát trước đó để câu sau minh hoạ. (B) (tác động của sự tận tâm đã rõ) đúng vai trò câu chủ đề. (A) mâu thuẫn với giọng cảm ơn của thư."
+    },
+    {
+     "id": "p6-12-3",
+     "text": "Chỗ trống (3)",
+     "options": [
+      "thankful",
+      "thanking",
+      "thank",
+      "thanks"
+     ],
+     "ans": 1,
+     "exp": "Sau giới từ \"of\" cần V-ing: thanking. (C) động từ nguyên thể, (D) danh từ/động từ chia, (A) tính từ."
+    },
+    {
+     "id": "p6-12-4",
+     "text": "Chỗ trống (4)",
+     "options": [
+      "will",
+      "have",
+      "are",
+      "would"
+     ],
+     "ans": 0,
+     "exp": "\"We hope you will join us\" — hope thường đi với will cho ý tương lai. (D) would dùng cho giả định, (C) và (B) không tạo nghĩa \"sẽ tham dự\"."
+    }
+   ]
+  }
+ ],
+ "part7": [
+  {
+   "id": "p7-1",
+   "part": 7,
+   "kind": "Notice",
+   "title": "Elevator Maintenance",
+   "body": "NOTICE — Riverside Business Center\nElevator Maintenance\n\nThe east elevator will be out of service from Monday, 5 May through Wednesday, 7 May while a new control panel is installed. The west elevator will operate normally throughout this period.\n\nTenants moving large equipment should use the freight elevator in the parking garage. A key can be borrowed from the security desk in the main lobby between 7:00 A.M. and 6:00 P.M.\n\nWe apologize for the inconvenience. Questions may be directed to building management at 555-0173.",
+   "questions": [
+    {
+     "id": "p7-1-1",
+     "text": "What is the purpose of the notice?",
+     "options": [
+      "To request payment from tenants",
+      "To announce a temporary service interruption",
+      "To introduce a new security team",
+      "To advertise available office space"
+     ],
+     "ans": 1,
+     "exp": "Câu hỏi mục đích → đọc 2–3 dòng đầu: thang máy phía đông ngừng hoạt động vài ngày. Đó là \"gián đoạn dịch vụ tạm thời\". (D), (C), (A) đều nhắc tới thứ không có trong bài. Lưu ý đáp án đúng là câu paraphrase, không lặp nguyên văn \"out of service\"."
+    },
+    {
+     "id": "p7-1-2",
+     "text": "What are tenants advised to do if they need to move large items?",
+     "options": [
+      "Use the west elevator",
+      "Borrow a key from the security desk",
+      "Contact building management in advance",
+      "Reschedule the move for after 7 May"
+     ],
+     "ans": 1,
+     "exp": "Đoạn 2 nói rõ: dùng thang chở hàng và mượn chìa khóa ở quầy bảo vệ. (A) là bẫy lặp từ — thang phía tây có được nhắc nhưng dành cho việc đi lại bình thường, không phải chuyển thiết bị lớn."
+    },
+    {
+     "id": "p7-1-3",
+     "text": "What is indicated about the west elevator?",
+     "options": [
+      "It will also be repaired.",
+      "It is reserved for deliveries.",
+      "It requires a key to operate.",
+      "It will remain available."
+     ],
+     "ans": 3,
+     "exp": "\"will operate normally throughout this period\" → vẫn dùng được bình thường. (A) mâu thuẫn với bài, (B) và (C) mô tả thang chở hàng chứ không phải thang phía tây — bẫy tráo đối tượng rất hay gặp."
+    }
+   ]
+  },
+  {
+   "id": "p7-2",
+   "part": 7,
+   "kind": "E-mail",
+   "title": "Order #4471",
+   "body": "To: r.okafor@nortexdesign.example\nFrom: services@printmasters.example\nDate: 12 June\nSubject: Order #4471\n\nDear Mr. Okafor,\n\nThank you for your order of 500 brochures. Your files have been received and have passed our quality check.\n\nHowever, the logo on page one is a low-resolution image and may appear blurry when printed at full size. If you can send a higher-resolution version by Thursday, 14 June, we can still meet your requested delivery date of 21 June. If we do not hear from you, we will print the files exactly as they were submitted.\n\nPlease also note that the balance from your March order has not yet been settled. Payment must be received before we can ship.\n\nSincerely,\nDana Whitfield\nCustomer Services, PrintMasters",
+   "questions": [
+    {
+     "id": "p7-2-1",
+     "text": "Why was the e-mail sent?",
+     "options": [
+      "To confirm a change of address",
+      "To offer a discount on a future order",
+      "To report a problem with a submitted file",
+      "To announce a delay in production"
+     ],
+     "ans": 2,
+     "exp": "Trọng tâm email nằm ở đoạn \"However...\": logo độ phân giải thấp. (D) là bẫy suy diễn — bài chưa hề nói đơn hàng bị trễ, ngược lại vẫn kịp hạn 21/6 nếu gửi file mới."
+    },
+    {
+     "id": "p7-2-2",
+     "text": "What is Mr. Okafor asked to do by 14 June?",
+     "options": [
+      "Visit the PrintMasters office",
+      "Reduce the number of brochures",
+      "Approve a printing sample",
+      "Provide a replacement image"
+     ],
+     "ans": 3,
+     "exp": "\"send a higher-resolution version\" = gửi ảnh thay thế. Câu hỏi có mốc thời gian cụ thể (14 June) → quét tìm đúng con số đó trong bài rồi đọc câu chứa nó."
+    },
+    {
+     "id": "p7-2-3",
+     "text": "What will happen if Mr. Okafor does not respond?",
+     "options": [
+      "A new invoice will be issued.",
+      "The order will be printed as submitted.",
+      "The order will be cancelled.",
+      "The delivery date will be moved to July."
+     ],
+     "ans": 1,
+     "exp": "\"If we do not hear from you, we will print the files exactly as they were submitted.\" Đáp án đúng gần như dịch lại câu này. (C) và (D) là suy diễn quá xa so với thông tin bài cho."
+    },
+    {
+     "id": "p7-2-4",
+     "text": "What is mentioned about Mr. Okafor's account?",
+     "options": [
+      "It has an unpaid balance.",
+      "It qualifies for free shipping.",
+      "It will be closed in June.",
+      "It was recently created."
+     ],
+     "ans": 0,
+     "exp": "\"the balance from your March order has not yet been settled\" → còn nợ chưa thanh toán. Ở đây bạn cần biết settle a balance = thanh toán dư nợ; đây là cụm từ vựng thương mại rất hay ra."
+    }
+   ]
+  },
+  {
+   "id": "p7-3",
+   "part": 7,
+   "kind": "Advertisement",
+   "title": "The Loft Workspace",
+   "body": "THE LOFT WORKSPACE — Now open in the Harbour District\nFlexible desks for freelancers and small teams, five minutes from Central Station.\n\n• Day Pass — $18 — open seating, high-speed Internet, unlimited coffee\n• Monthly Flex — $180 — open seating, 10 hours of meeting-room use\n• Dedicated Desk — $320 — your own desk, a locker, mail service\n• Team Suite — from $900 — a private room for up to six people\n\nAll members may book meeting rooms through our mobile app. Printing is charged separately at 10 cents per page.\n\nMention this advertisement before 31 August and receive your first week free with any monthly plan. Tours are offered every weekday at 11:00 A.M.; no appointment is needed.",
+   "questions": [
+    {
+     "id": "p7-3-1",
+     "text": "What is being advertised?",
+     "options": [
+      "A mobile application for freelancers",
+      "A hotel near a train station",
+      "A shared office facility",
+      "A printing and mailing service"
+     ],
+     "ans": 2,
+     "exp": "Toàn bài nói về chỗ ngồi làm việc linh hoạt, phòng họp, tủ khóa → không gian làm việc chung. (D) và (A) là bẫy lặp từ: printing và mobile app có xuất hiện nhưng chỉ là dịch vụ đi kèm."
+    },
+    {
+     "id": "p7-3-2",
+     "text": "What is NOT included in the membership fees?",
+     "options": [
+      "Internet access",
+      "Coffee",
+      "Printing",
+      "Use of meeting rooms"
+     ],
+     "ans": 2,
+     "exp": "\"Printing is charged separately\" = tính phí riêng, tức không nằm trong phí thành viên. Với câu hỏi dạng NOT / EXCEPT, hãy gạch bỏ từng phương án có trong bài rồi lấy phương án còn lại."
+    },
+    {
+     "id": "p7-3-3",
+     "text": "What must customers do to receive the special offer?",
+     "options": [
+      "Mention the advertisement before a certain date",
+      "Take a tour of the facility",
+      "Sign a one-year contract",
+      "Pay for three months in advance"
+     ],
+     "ans": 0,
+     "exp": "\"Mention this advertisement before 31 August\" là điều kiện duy nhất được nêu. (B) tuy có thật trong bài nhưng tour không liên quan tới ưu đãi — bẫy ghép hai thông tin rời nhau."
+    },
+    {
+     "id": "p7-3-4",
+     "text": "What is stated about the tours?",
+     "options": [
+      "They are available to members only.",
+      "They are held on weekends.",
+      "They last about one hour.",
+      "They do not require a reservation."
+     ],
+     "ans": 3,
+     "exp": "\"no appointment is needed\" → không cần đặt trước. (B) sai vì tour diễn ra vào ngày trong tuần (every weekday). (C) và (A) là thông tin bài không hề cung cấp."
+    }
+   ]
+  },
+  {
+   "id": "p7-4",
+   "part": 7,
+   "kind": "Article",
+   "title": "Kestrel Foods to Build Second Plant",
+   "body": "BRIGHT VALLEY — Kestrel Foods announced on Tuesday that it will open a second production facility in Bright Valley, creating an estimated 140 jobs over the next two years.\n\nThe company, founded in 1998 as a small bakery, now supplies frozen desserts to supermarkets in nine provinces. Demand rose sharply after Kestrel introduced its low-sugar line in 2023, and its existing plant has been operating at full capacity since last autumn.\n\n\"We looked at four sites, and Bright Valley offered the best combination of transport links and available workers,\" said chief operating officer Marisol Reyes. Construction is scheduled to begin in February, with production expected to start the following year.\n\nLocal officials welcomed the news. The town council has agreed to upgrade the road leading to the industrial park, a project that had been postponed twice because of funding shortages.",
+   "questions": [
+    {
+     "id": "p7-4-1",
+     "text": "What is the article mainly about?",
+     "options": [
+      "A company's plan to expand its production",
+      "The appointment of a new company executive",
+      "The launch of a new dessert product",
+      "A change in local road regulations"
+     ],
+     "ans": 0,
+     "exp": "Câu đầu đã nêu ý chính: mở nhà máy thứ hai. (C) và (B) là bẫy chi tiết — dòng sản phẩm ít đường và bà Reyes đều được nhắc nhưng chỉ là thông tin phụ."
+    },
+    {
+     "id": "p7-4-2",
+     "text": "What is suggested about Kestrel Foods' existing plant?",
+     "options": [
+      "It cannot produce more than it currently does.",
+      "It was built in 1998.",
+      "It will be closed next year.",
+      "It is located in Bright Valley."
+     ],
+     "ans": 0,
+     "exp": "\"operating at full capacity\" = chạy hết công suất, tức không thể sản xuất thêm. Đây là câu suy luận (suggested/indicated) nên đáp án không nằm nguyên văn trong bài. (B) sai: 1998 là năm thành lập công ty, không phải năm xây nhà máy."
+    },
+    {
+     "id": "p7-4-3",
+     "text": "According to Ms. Reyes, why was Bright Valley chosen?",
+     "options": [
+      "The town council offered a tax reduction.",
+      "It is close to the company's headquarters.",
+      "It offered the lowest land prices.",
+      "It has good transportation and a suitable workforce."
+     ],
+     "ans": 3,
+     "exp": "Lời dẫn trực tiếp nói rõ: transport links và available workers. (A) là bẫy ghép nhầm — hội đồng thị trấn có hành động, nhưng là nâng cấp đường, và diễn ra SAU khi quyết định đã công bố."
+    },
+    {
+     "id": "p7-4-4",
+     "text": "What is indicated about the road project?",
+     "options": [
+      "It was completed last autumn.",
+      "It has been delayed in the past.",
+      "It requires approval from the provincial government.",
+      "It will be paid for by Kestrel Foods."
+     ],
+     "ans": 1,
+     "exp": "\"had been postponed twice because of funding shortages\" → từng bị hoãn. Bạn cần nhận ra postpone = delay; đáp án đúng của Part 7 gần như luôn là từ đồng nghĩa chứ không lặp lại từ gốc."
+    }
+   ]
+  },
+  {
+   "id": "p7-5",
+   "part": 7,
+   "kind": "Text message chain",
+   "title": "Presentation moved up",
+   "body": "Ha Nguyen (9:12 A.M.)\nMorning, Peter. The client just moved our presentation from 2:00 to 11:30. Can you be ready?\n\nPeter Salib (9:14 A.M.)\nThe slides are done, but the sales figures for July aren't in the deck yet.\n\nHa Nguyen (9:15 A.M.)\nDao has them. She's working from the Riverside office today.\n\nPeter Salib (9:16 A.M.)\nI'll call her now. Do we still meet in Room 5?\n\nHa Nguyen (9:18 A.M.)\nThey asked for the video link instead — they're joining from Osaka.\n\nPeter Salib (9:19 A.M.)\nUnderstood. I'll send the invitation once the deck is final.\n\nHa Nguyen (9:20 A.M.)\nPerfect. Let's do a quick run-through at 11:00.",
+   "questions": [
+    {
+     "id": "p7-5-1",
+     "text": "Why did Ms. Nguyen contact Mr. Salib?",
+     "options": [
+      "To inform him of a schedule change",
+      "To ask him to prepare a new set of slides",
+      "To invite him to visit a client's office",
+      "To report a problem with a video system"
+     ],
+     "ans": 0,
+     "exp": "Tin nhắn đầu tiên: buổi thuyết trình dời từ 2:00 lên 11:30. Với dạng chat, câu hỏi mục đích gần như luôn nằm ở tin nhắn đầu tiên."
+    },
+    {
+     "id": "p7-5-2",
+     "text": "At 9:14 A.M., what does Mr. Salib most likely mean when he writes, \"the sales figures for July aren't in the deck yet\"?",
+     "options": [
+      "He believes the meeting should be cancelled.",
+      "He needs more time to design the slides.",
+      "Part of the presentation is still incomplete.",
+      "He disagrees with the figures Dao provided."
+     ],
+     "ans": 2,
+     "exp": "Câu hỏi ngụ ý: anh ấy nói slide xong rồi NHƯNG còn thiếu số liệu → bài thuyết trình chưa hoàn chỉnh. (B) là bẫy vì vấn đề nằm ở dữ liệu chứ không phải thiết kế. Dạng câu này phải đọc cả tin nhắn trước và sau."
+    },
+    {
+     "id": "p7-5-3",
+     "text": "What will Mr. Salib most likely do next?",
+     "options": [
+      "Book Room 5",
+      "Travel to Osaka",
+      "Postpone the run-through",
+      "Contact Dao"
+     ],
+     "ans": 3,
+     "exp": "\"I'll call her now\" ngay sau khi biết Dao giữ số liệu. Câu hỏi \"do next\" luôn lấy đáp án từ hành động được nêu gần cuối đoạn hội thoại."
+    },
+    {
+     "id": "p7-5-4",
+     "text": "How will the presentation be given?",
+     "options": [
+      "In Room 5",
+      "At the Riverside office",
+      "By video conference",
+      "At the client's headquarters"
+     ],
+     "ans": 2,
+     "exp": "\"They asked for the video link instead\" → họp trực tuyến. (A) là bẫy vì Room 5 được nhắc tới rồi bị bác bỏ ngay tin nhắn sau — hãy đọc hết chuỗi chat trước khi chọn."
+    }
+   ]
+  },
+  {
+   "id": "p7-6",
+   "part": 7,
+   "kind": "Double passage",
+   "title": "Autumn Training Series",
+   "bodyA": "AUTUMN TRAINING SERIES — Vantage Consulting\nAll sessions are held in the Willow Room, 9:00 A.M.–12:00 P.M.\n\n3 Oct — Data Privacy Basics — H. Iqbal\n10 Oct — Client Communication — M. Duarte\n17 Oct — Advanced Spreadsheets — T. Nakamura\n24 Oct — Project Budgeting — M. Duarte\n\nStaff must register at least three days before each session. Sessions with fewer than eight participants will be cancelled.",
+   "bodyB": "To: t.nakamura@vantage.example\nFrom: k.berg@vantage.example\nDate: 12 October\nSubject: Next week\n\nHi Toshi,\n\nOnly six people have signed up for your session so far, so under our policy it would normally be cancelled. Before I make that decision, I want to ask whether you would be willing to combine your session with the one on 24 October. Mateo has 15 participants, and several of them have asked for spreadsheet training as well.\n\nIf you agree, we would extend that session to a full day and move it to the Cedar Room, which seats 30. Please let me know by Monday afternoon so that I can notify everyone in time.\n\nThanks,\nKatrin Berg",
+   "questions": [
+    {
+     "id": "p7-6-1",
+     "text": "What is indicated about the training series?",
+     "options": [
+      "Every session is scheduled in the morning.",
+      "Each session is led by a different trainer.",
+      "It is open to clients as well as staff.",
+      "Registration closes one week in advance."
+     ],
+     "ans": 0,
+     "exp": "Dòng đầu bảng: 9:00 A.M.–12:00 P.M. cho tất cả các buổi. (B) sai vì M. Duarte dạy hai buổi. (D) sai chi tiết: hạn đăng ký là ba ngày, không phải một tuần — bẫy đổi con số."
+    },
+    {
+     "id": "p7-6-2",
+     "text": "Which session is at risk of being cancelled?",
+     "options": [
+      "Advanced Spreadsheets",
+      "Data Privacy Basics",
+      "Project Budgeting",
+      "Client Communication"
+     ],
+     "ans": 0,
+     "exp": "Câu nối hai văn bản: email gửi cho t.nakamura, tra bảng thấy T. Nakamura dạy Advanced Spreadsheets ngày 17/10, và email nói mới có sáu người đăng ký (dưới mức tám). Đây chính là dạng câu bắt buộc kết hợp hai bài."
+    },
+    {
+     "id": "p7-6-3",
+     "text": "Who leads the session that Ms. Berg proposes combining with?",
+     "options": [
+      "M. Duarte",
+      "H. Iqbal",
+      "T. Nakamura",
+      "K. Berg"
+     ],
+     "ans": 0,
+     "exp": "Email đề xuất gộp với buổi ngày 24 October; tra bảng thấy buổi đó do M. Duarte phụ trách (email gọi thân mật là Mateo). Lại là một câu nối hai văn bản."
+    },
+    {
+     "id": "p7-6-4",
+     "text": "What change would be necessary if Mr. Nakamura agrees?",
+     "options": [
+      "Reducing the number of participants",
+      "Hiring an additional trainer",
+      "Rescheduling to a different month",
+      "Moving to a larger room"
+     ],
+     "ans": 3,
+     "exp": "\"move it to the Cedar Room, which seats 30\" — vì gộp lại sẽ có hơn 20 người, phòng Willow không đủ chỗ. (A) đi ngược mục đích của đề xuất."
+    },
+    {
+     "id": "p7-6-5",
+     "text": "What is Mr. Nakamura asked to do?",
+     "options": [
+      "Reply by Monday afternoon",
+      "Contact the participants directly",
+      "Prepare additional course materials",
+      "Submit an attendance list"
+     ],
+     "ans": 0,
+     "exp": "\"Please let me know by Monday afternoon\" → trả lời trước chiều thứ Hai. (B) sai vì chính bà Berg mới là người sẽ thông báo cho mọi người (\"so that I can notify everyone\")."
+    }
+   ]
+  },
+  {
+   "id": "p7-7",
+   "part": 7,
+   "group": "single",
+   "kind": "E-mail",
+   "title": "Service visit SV-2288",
+   "body": "To: m.delacruz@brightlane.example\nFrom: service@nordicappliance.example\nDate: 3 August\nSubject: Service visit — reference SV-2288\n\nDear Ms. Dela Cruz,\n\nA technician will visit your office on Thursday, 8 August, between 1:00 P.M. and 3:00 P.M. to replace the compressor on your walk-in cooler. Please make sure the unit is emptied before the technician arrives; we cannot begin work on a fully stocked cooler.\n\nThe visit is covered by your service plan, so there is no charge for labour. Any additional parts will be billed separately.\n\nTo change the appointment, reply to this message at least 24 hours in advance.\n\nNordic Appliance Service Team",
+   "questions": [
+    {
+     "id": "p7-7-1",
+     "text": "What is Ms. Dela Cruz asked to do before the visit?",
+     "options": [
+      "Order a replacement part",
+      "Pay a deposit",
+      "Empty the cooler",
+      "Move the unit to the loading area"
+     ],
+     "ans": 2,
+     "exp": "\"make sure the unit is emptied before the technician arrives\" — yêu cầu duy nhất trước buổi hẹn. (A) sai vì linh kiện do bên dịch vụ mang tới."
+    },
+    {
+     "id": "p7-7-2",
+     "text": "What is indicated about the cost of the visit?",
+     "options": [
+      "It depends on how long the work takes.",
+      "Labour is included in her plan.",
+      "It must be paid in advance.",
+      "It will be refunded later."
+     ],
+     "ans": 1,
+     "exp": "\"covered by your service plan, so there is no charge for labour\". (A) là bẫy vì phí phát sinh chỉ liên quan tới linh kiện, không phải thời gian làm việc."
+    }
+   ]
+  },
+  {
+   "id": "p7-8",
+   "part": 7,
+   "group": "single",
+   "kind": "Notice",
+   "title": "Parking Lot B closure",
+   "body": "NOTICE TO ALL EMPLOYEES\nParking Lot B — Resurfacing\n\nParking Lot B will be closed from Friday, 12 September at 6:00 P.M. until Monday, 15 September at 7:00 A.M. while the surface is repaved and new lines are painted.\n\nDuring the closure, employees who normally park in Lot B may use the visitor spaces in Lot A. Please display your employee tag on the dashboard; vehicles without a tag may be towed.\n\nWeekend staff should enter the building through the north entrance, as the Lot B doors will be locked.",
+   "questions": [
+    {
+     "id": "p7-8-1",
+     "text": "What must employees do to park in Lot A?",
+     "options": [
+      "Pay a daily fee",
+      "Arrive before 7:00 A.M.",
+      "Register with security",
+      "Display an employee tag"
+     ],
+     "ans": 3,
+     "exp": "\"Please display your employee tag on the dashboard\" là điều kiện duy nhất được nêu; xe không có thẻ có thể bị kéo đi."
+    },
+    {
+     "id": "p7-8-2",
+     "text": "What is mentioned about weekend staff?",
+     "options": [
+      "They should park on the street.",
+      "They will be given a temporary pass.",
+      "They must use a different entrance.",
+      "They are not allowed on site."
+     ],
+     "ans": 2,
+     "exp": "Cửa phía Lot B bị khóa nên phải đi cửa bắc. (B) là suy diễn không có trong bài."
+    }
+   ]
+  },
+  {
+   "id": "p7-9",
+   "part": 7,
+   "group": "single",
+   "kind": "Advertisement",
+   "title": "SkillBridge courses",
+   "body": "SKILLBRIDGE — Learn at your own pace\n\nOver 400 short courses in business writing, spreadsheets, project management and public speaking. Every course is broken into 15-minute lessons you can finish on the train.\n\n• Individual — $12 per month, unlimited courses\n• Team (5–20 people) — $9 per person per month, plus a progress dashboard for managers\n• Enterprise — contact our sales team for pricing\n\nNew subscribers receive a 14-day trial. Certificates are issued after you complete a course and pass the final review.",
+   "questions": [
+    {
+     "id": "p7-9-1",
+     "text": "What is suggested about the courses?",
+     "options": [
+      "They are designed to be studied in short sessions.",
+      "They are only available to companies.",
+      "They are taught by live instructors.",
+      "They require a university degree."
+     ],
+     "ans": 0,
+     "exp": "\"broken into 15-minute lessons you can finish on the train\" → học từng đoạn ngắn. (B) mâu thuẫn vì có gói cá nhân."
+    },
+    {
+     "id": "p7-9-2",
+     "text": "What is offered to new subscribers?",
+     "options": [
+      "A discounted first year",
+      "A personal tutor",
+      "A free trial period",
+      "A printed workbook"
+     ],
+     "ans": 2,
+     "exp": "\"New subscribers receive a 14-day trial\". Các phương án còn lại đều là dịch vụ không hề được nhắc tới."
+    }
+   ]
+  },
+  {
+   "id": "p7-10",
+   "part": 7,
+   "group": "single",
+   "kind": "Online review",
+   "title": "Harbour Grand Hotel",
+   "body": "★★★★☆  Harbour Grand Hotel — reviewed by T. Ferreira, 14 June\n\nI stayed here for three nights during a trade fair. The location is excellent: the convention centre is a seven-minute walk away, and there is a tram stop directly outside.\n\nThe room was quiet and the desk was large enough to work at, which matters more to me than a view. Breakfast, however, ends at 8:30 A.M. — too early for anyone attending evening events. I asked the front desk about a later option and was told room service is available from 6:00 A.M. instead.\n\nI would stay again, but I would eat elsewhere.",
+   "questions": [
+    {
+     "id": "p7-10-1",
+     "text": "Why did Mr. Ferreira stay at the hotel?",
+     "options": [
+      "To inspect the property",
+      "To visit family",
+      "To attend a trade fair",
+      "To take a holiday"
+     ],
+     "ans": 2,
+     "exp": "Câu đầu nêu rõ mục đích. Câu hỏi lý do trong bài đánh giá gần như luôn nằm ở dòng mở đầu."
+    },
+    {
+     "id": "p7-10-2",
+     "text": "What does Mr. Ferreira complain about?",
+     "options": [
+      "The noise from the tram stop",
+      "The breakfast hours",
+      "The cost of room service",
+      "The size of the room"
+     ],
+     "ans": 1,
+     "exp": "\"Breakfast, however, ends at 8:30 A.M. — too early\". (A) là bẫy: trạm tram được nhắc như một điểm cộng, không phải điều phàn nàn."
+    }
+   ]
+  },
+  {
+   "id": "p7-11",
+   "part": 7,
+   "group": "single",
+   "kind": "Order confirmation",
+   "title": "Lumen Catering LC-7741",
+   "body": "LUMEN CATERING — Order confirmation\n\nOrder number: LC-7741\nClient: Vantage Consulting, 12th floor\nDelivery: Tuesday, 21 October, 11:30 A.M.\n\nSandwich platter (30 servings) ........ $180.00\nSeasonal fruit tray (30 servings) ..... $95.00\nCoffee urn, 60 cups ................... $70.00\nDelivery within city centre ........... $0.00\n                                Total: $345.00\n\nChanges to quantities may be made until 5:00 P.M. on 19 October. Cancellations after that time are charged at 50 percent. Serving staff are not included; they may be added at $28 per hour when ordering.",
+   "questions": [
+    {
+     "id": "p7-11-1",
+     "text": "What is NOT included in the total?",
+     "options": [
+      "Coffee",
+      "The fruit tray",
+      "Serving staff",
+      "Delivery"
+     ],
+     "ans": 2,
+     "exp": "\"Serving staff are not included\"; giao hàng nội thành ghi rõ $0.00 tức đã bao gồm. Với câu NOT, hãy gạch từng phương án có trong bảng giá."
+    },
+    {
+     "id": "p7-11-2",
+     "text": "What will happen if the order is cancelled on 20 October?",
+     "options": [
+      "The delivery will be rescheduled.",
+      "The full amount will be refunded.",
+      "Half the cost will be charged.",
+      "A new order must be placed."
+     ],
+     "ans": 2,
+     "exp": "Hạn đổi là 17:00 ngày 19/10; hủy sau mốc đó chịu 50%. Ngày 20/10 nằm sau mốc nên bị tính nửa tiền — dạng câu bắt đối chiếu ngày tháng."
+    }
+   ]
+  },
+  {
+   "id": "p7-12",
+   "part": 7,
+   "group": "double",
+   "kind": "Double passage",
+   "title": "Quality Assurance Coordinator",
+   "bodyA": "KESTREL FOODS — Quality Assurance Coordinator (Bright Valley)\n\nKestrel Foods is seeking a Quality Assurance Coordinator for its new Bright Valley facility, which opens next year.\n\nResponsibilities: monitor production lines, record test results, and prepare monthly compliance reports.\n\nRequirements:\n• A degree in food science or a related field\n• At least three years in a food-production environment\n• Familiarity with provincial safety regulations\n• Willingness to work occasional weekend shifts\n\nApplications close 30 November. Send a résumé and a short cover letter to careers@kestrelfoods.example. Only shortlisted candidates will be contacted.",
+   "bodyB": "To: careers@kestrelfoods.example\nFrom: n.abara@mailbox.example\nDate: 18 November\nSubject: Quality Assurance Coordinator\n\nDear Hiring Team,\n\nI am writing to apply for the position advertised on your Web site. I have spent the last five years as a laboratory technician at Halden Dairy, where I ran daily quality tests and wrote the monthly reports submitted to provincial inspectors.\n\nI hold a degree in chemistry rather than food science, but my work has been entirely within food production, and I completed the provincial food-safety certificate in 2024.\n\nI am available for weekend shifts and could relocate to Bright Valley by February. My résumé is attached.\n\nSincerely,\nNkem Abara",
+   "questions": [
+    {
+     "id": "p7-12-1",
+     "text": "What is indicated about the Bright Valley facility?",
+     "options": [
+      "It has recently been expanded.",
+      "It is the company's headquarters.",
+      "It is not yet in operation.",
+      "It produces dairy products."
+     ],
+     "ans": 2,
+     "exp": "\"its new Bright Valley facility, which opens next year\" → chưa vận hành. (D) là bẫy trộn thông tin từ văn bản 2 (Halden Dairy là chỗ làm cũ của ứng viên)."
+    },
+    {
+     "id": "p7-12-2",
+     "text": "According to the advertisement, what will the coordinator do every month?",
+     "options": [
+      "Prepare compliance reports",
+      "Meet with provincial officials",
+      "Inspect other facilities",
+      "Train new staff"
+     ],
+     "ans": 0,
+     "exp": "\"prepare monthly compliance reports\" nằm trong phần trách nhiệm. (B) là bẫy: bài chỉ nói báo cáo được nộp cho thanh tra, không nói gặp trực tiếp."
+    },
+    {
+     "id": "p7-12-3",
+     "text": "Which requirement does Ms. Abara NOT fully meet?",
+     "options": [
+      "The educational field",
+      "Weekend availability",
+      "Knowledge of provincial rules",
+      "Years of experience"
+     ],
+     "ans": 0,
+     "exp": "Câu nối hai văn bản: tin tuyển yêu cầu bằng food science, email nói bà có bằng chemistry. Ba yêu cầu còn lại đều được email đáp ứng rõ ràng."
+    },
+    {
+     "id": "p7-12-4",
+     "text": "What does Ms. Abara mention about her current position?",
+     "options": [
+      "She supervises a team.",
+      "She writes reports for inspectors.",
+      "She works only on weekends.",
+      "She recently transferred departments."
+     ],
+     "ans": 1,
+     "exp": "\"wrote the monthly reports submitted to provincial inspectors\" — cũng chính là kinh nghiệm khớp với công việc mới."
+    },
+    {
+     "id": "p7-12-5",
+     "text": "What is suggested about Ms. Abara's application?",
+     "options": [
+      "It was submitted before the deadline.",
+      "It arrived without a résumé.",
+      "It was sent to the wrong address.",
+      "It was requested by a manager."
+     ],
+     "ans": 0,
+     "exp": "Email đề ngày 18/11, hạn nộp là 30/11 → nộp đúng hạn. Đây là dạng câu bắt so ngày giữa hai văn bản."
+    }
+   ]
+  },
+  {
+   "id": "p7-13",
+   "part": 7,
+   "group": "triple",
+   "kind": "Triple passage",
+   "title": "Northern Logistics Forum",
+   "bodyA": "NORTHERN LOGISTICS FORUM — 4–5 March, Harbour Convention Centre\n\nTwo days of talks and workshops for supply-chain professionals. Registration includes all sessions, lunch on both days, and the Wednesday evening reception.\n\nEarly registration (before 15 January) — $220\nStandard registration — $290\nStudent rate (with valid ID) — $95\n\nWorkshops have limited seats and must be selected when you register.",
+   "bodyB": "DAY 1 — WEDNESDAY 4 MARCH\n09:00  Opening remarks — R. Sandoval\n10:00  Keynote: Rethinking last-mile delivery — Dr. P. Whitfield\n13:30  Workshop A: Warehouse automation basics (40 seats)\n15:30  Workshop B: Negotiating with carriers (25 seats)\n18:00  Evening reception\n\nDAY 2 — THURSDAY 5 MARCH\n09:30  Panel: Regional customs updates\n11:00  Workshop C: Demand forecasting (25 seats)\n14:00  Closing session — R. Sandoval",
+   "bodyC": "To: registration@nlforum.example\nFrom: h.tran@meridianfreight.example\nDate: 9 January\nSubject: Registration for two attendees\n\nHello,\n\nI would like to register two colleagues from Meridian Freight at the current rate. Both would like to attend the Wednesday workshop on automation.\n\nOne of them, Ms. Bui, must travel home on Wednesday evening and will miss the second day entirely. Is a one-day rate available, or should she pay the full fee?\n\nCould you also confirm whether the reception requires a separate ticket?\n\nThank you,\nHoa Tran",
+   "questions": [
+    {
+     "id": "p7-13-1",
+     "text": "What does the registration fee include?",
+     "options": [
+      "Transport from the airport",
+      "Accommodation near the venue",
+      "Lunch on both days",
+      "A recording of the sessions"
+     ],
+     "ans": 2,
+     "exp": "\"Registration includes all sessions, lunch on both days, and the Wednesday evening reception.\" Ba phương án còn lại không hề xuất hiện."
+    },
+    {
+     "id": "p7-13-2",
+     "text": "What rate will the Meridian Freight employees most likely pay?",
+     "options": [
+      "$290",
+      "$440",
+      "$95",
+      "$220"
+     ],
+     "ans": 3,
+     "exp": "Email đề ngày 9 January, tức trước mốc 15 January → hưởng giá early $220. Câu nối hai văn bản dựa vào ngày tháng."
+    },
+    {
+     "id": "p7-13-3",
+     "text": "Which workshop do Ms. Tran's colleagues want to attend?",
+     "options": [
+      "Workshop A",
+      "Workshop B",
+      "Workshop C",
+      "Both A and B"
+     ],
+     "ans": 0,
+     "exp": "Email nói \"the Wednesday workshop on automation\"; tra lịch thấy Workshop A là Warehouse automation basics, diễn ra thứ Tư."
+    },
+    {
+     "id": "p7-13-4",
+     "text": "What is suggested about Ms. Bui?",
+     "options": [
+      "She is registering as a student.",
+      "She will miss the closing session.",
+      "She will lead a workshop.",
+      "She has attended the forum before."
+     ],
+     "ans": 1,
+     "exp": "Bà về nhà tối thứ Tư nên vắng toàn bộ ngày 2; theo lịch, closing session nằm lúc 14:00 ngày 5 March. Câu này bắt ghép email với bảng lịch."
+    },
+    {
+     "id": "p7-13-5",
+     "text": "What does Ms. Tran ask about the reception?",
+     "options": [
+      "Whether an extra ticket is needed",
+      "Whether food will be served",
+      "Whether guests may attend",
+      "Whether it is held off site"
+     ],
+     "ans": 0,
+     "exp": "\"confirm whether the reception requires a separate ticket\". Lưu ý văn bản 1 đã trả lời sẵn là có bao gồm — nhưng câu hỏi hỏi bà ấy hỏi gì, không hỏi đáp án đúng."
+    }
+   ]
+  },
+  {
+   "id": "p7-14",
+   "part": 7,
+   "group": "triple",
+   "kind": "Triple passage",
+   "title": "Ferndale Books expansion",
+   "bodyA": "MILLBROOK — Ferndale Books will open a second shop on Cedar Street in April, owner Grace Ubalde announced last week.\n\nThe original shop, opened in 2016, has grown from a single room into the town's main venue for author readings. The new location will be nearly three times larger and will include a small café.\n\n\"We ran out of room for events two years ago,\" Ms. Ubalde said. \"The new shop is designed around them.\"\n\nRenovation work begins in January and is expected to take ten weeks.",
+   "bodyB": "To: g.ubalde@ferndalebooks.example\nFrom: orders@crestfurnishings.example\nDate: 6 February\nSubject: Quotation 5512 — café seating\n\nDear Ms. Ubalde,\n\nThank you for visiting our showroom. The quotation below covers seating for the café area only; the shelving units are quoted separately.\n\nWe can deliver within three weeks of receiving your order. If you order before 20 February, we will apply a 10 percent discount on the tables.\n\nPlease note that our vans cannot access Cedar Street before 9:00 A.M. because of the morning market, so delivery would be scheduled for late morning.\n\nRegards,\nDev Raman",
+   "bodyC": "CREST FURNISHINGS — Quotation 5512\nPrepared for: Ferndale Books, Cedar Street\n\n12 café chairs .................... $960.00\n4 round tables .................... $720.00\n1 counter stool set (3) ........... $285.00\nDelivery and assembly ............. $150.00\n                       Subtotal: $2,115.00",
+   "questions": [
+    {
+     "id": "p7-14-1",
+     "text": "What is the article mainly about?",
+     "options": [
+      "The expansion of a local business",
+      "The closing of a bookshop",
+      "A change of ownership",
+      "A new author reading series"
+     ],
+     "ans": 0,
+     "exp": "Cả bài xoay quanh việc mở cửa hàng thứ hai. (D) là bẫy chi tiết: sự kiện đọc sách chỉ giải thích lý do cần chỗ rộng hơn."
+    },
+    {
+     "id": "p7-14-2",
+     "text": "According to Ms. Ubalde, why is the new shop needed?",
+     "options": [
+      "Rent increased at the old location.",
+      "The shop lacked space for events.",
+      "Book sales have fallen.",
+      "The building was sold."
+     ],
+     "ans": 1,
+     "exp": "\"We ran out of room for events two years ago.\" Lời dẫn trực tiếp thường chứa đáp án cho câu hỏi lý do."
+    },
+    {
+     "id": "p7-14-3",
+     "text": "What is quoted separately from quotation 5512?",
+     "options": [
+      "Assembly",
+      "The shelving units",
+      "The counter stools",
+      "Delivery"
+     ],
+     "ans": 1,
+     "exp": "Email nói báo giá chỉ gồm ghế ngồi khu café, phần kệ báo giá riêng; bảng giá cũng không có dòng nào cho kệ. Câu nối văn bản 2 và 3."
+    },
+    {
+     "id": "p7-14-4",
+     "text": "If Ms. Ubalde orders on 15 February, which amount will be reduced?",
+     "options": [
+      "$720.00",
+      "$150.00",
+      "$960.00",
+      "$285.00"
+     ],
+     "ans": 0,
+     "exp": "Ưu đãi 10% chỉ áp cho tables; tra bảng thấy 4 round tables là $720.00. Đây là câu bắt ghép điều kiện ở văn bản 2 với con số ở văn bản 3."
+    },
+    {
+     "id": "p7-14-5",
+     "text": "What is indicated about deliveries to Cedar Street?",
+     "options": [
+      "They cannot arrive early in the morning.",
+      "They must be signed for by the owner.",
+      "They take three months to arrange.",
+      "They cost extra on weekends."
+     ],
+     "ans": 0,
+     "exp": "Xe tải không vào được trước 9:00 sáng vì chợ. (C) sai chi tiết: ba tuần chứ không phải ba tháng — bẫy đổi đơn vị thời gian."
+    }
+   ]
+  },
+  {
+   "id": "p7-15",
+   "part": 7,
+   "group": "triple",
+   "kind": "Triple passage",
+   "title": "Printer replacement",
+   "bodyA": "MEMO\nTo: All Department Heads\nFrom: Operations\nDate: 2 May\nRe: Printer replacement\n\nOur current printers are out of warranty, and repair costs rose sharply last year. We will replace all twelve units before the end of the quarter.\n\nEach department head should tell us by 16 May how many colour pages the department prints in a typical month. Departments printing more than 2,000 colour pages will receive the higher-capacity model.",
+   "bodyB": "PRINTER OPTIONS — reviewed by Operations\n\nModel        Colour pages/month    Price per unit    Warranty\nAlta 200          1,500                 $640           2 years\nAlta 400          3,000                 $910           3 years\nCorvus X            800                 $520           1 year\nCorvus XL         2,500               $1,050           3 years",
+   "bodyC": "To: operations@company.example\nFrom: d.moreau@company.example\nDate: 14 May\nSubject: Design department figures\n\nHi,\n\nWe print about 2,400 colour pages a month, and that number climbs to roughly 3,200 in the weeks before a campaign launch.\n\nGiven those peaks, I would rather not be at the limit of the machine. Could we be assigned the model with the highest monthly capacity, even if it costs more?\n\nAlso, our current printer is only three years old. Could it be moved to a department with lighter use instead of being discarded?\n\nThanks,\nDaniel Moreau",
+   "questions": [
+    {
+     "id": "p7-15-1",
+     "text": "Why will the printers be replaced?",
+     "options": [
+      "They are no longer produced.",
+      "Staff requested faster machines.",
+      "The office is moving.",
+      "Repairs have become expensive."
+     ],
+     "ans": 3,
+     "exp": "\"out of warranty, and repair costs rose sharply last year\" — hai lý do đều liên quan tới chi phí sửa chữa."
+    },
+    {
+     "id": "p7-15-2",
+     "text": "What are department heads asked to provide?",
+     "options": [
+      "A budget estimate",
+      "Their monthly colour printing volume",
+      "A list of broken equipment",
+      "Approval from Finance"
+     ],
+     "ans": 1,
+     "exp": "\"tell us by 16 May how many colour pages the department prints in a typical month\". (A) là bẫy vì giá chỉ xuất hiện ở bảng so sánh."
+    },
+    {
+     "id": "p7-15-3",
+     "text": "Which model does Mr. Moreau most likely want?",
+     "options": [
+      "Corvus XL",
+      "Alta 200",
+      "Alta 400",
+      "Corvus X"
+     ],
+     "ans": 2,
+     "exp": "Ông xin máy có công suất tháng cao nhất; tra bảng thấy Alta 400 đạt 3,000 trang — cao nhất. Corvus XL đắt hơn nhưng chỉ 2,500 nên là bẫy \"đắt hơn thì mạnh hơn\"."
+    },
+    {
+     "id": "p7-15-4",
+     "text": "What does the memo suggest about the Design department?",
+     "options": [
+      "It must share a printer with another team.",
+      "It will keep its current printer.",
+      "It qualifies for the higher-capacity model.",
+      "It has exceeded its budget."
+     ],
+     "ans": 2,
+     "exp": "Quy định: in trên 2,000 trang màu thì được máy công suất cao; email báo 2,400 trang. Câu nối memo với email."
+    },
+    {
+     "id": "p7-15-5",
+     "text": "What additional request does Mr. Moreau make?",
+     "options": [
+      "To extend the reporting deadline",
+      "To postpone the replacement",
+      "To reassign the old printer to another department",
+      "To order extra ink cartridges"
+     ],
+     "ans": 2,
+     "exp": "\"Could it be moved to a department with lighter use instead of being discarded?\" (B) đi ngược ý ông vì ông chỉ muốn đổi sang máy mạnh hơn."
+    }
+   ]
+  },
+  {
+   "id": "p7-16",
+   "part": 7,
+   "kind": "E-mail",
+   "title": "Order Delay Notification",
+   "body": "To: martina.holt@brightmail.com\nFrom: service@northgate-supplies.com\nSubject: Update on Order #45821\nDate: 14 March\n\nDear Ms. Holt,\n\nThank you for your recent order of office chairs placed on 10 March. We are writing to let you know that the model you selected, the ErgoLite 200, is currently being restocked at our warehouse and will not ship on the original date.\n\nYour order is now expected to leave our facility on 22 March and arrive within three to five business days. As an apology for the delay, we have applied a 15 percent discount to your invoice, which will appear on your final statement.\n\nIf you would prefer to switch to a similar model that is available for immediate shipping, simply reply to this message and our team will assist you. Otherwise, no action is needed and your order will proceed as described above.\n\nWe appreciate your patience.\n\nDaniel Osei\nCustomer Service, Northgate Supplies",
+   "questions": [
+    {
+     "id": "p7-16-1",
+     "text": "Why was the e-mail sent to Ms. Holt?",
+     "options": [
+      "To confirm that her order has been delivered",
+      "To request payment for a recent purchase",
+      "To announce a new product line",
+      "To inform her that her shipment will be late"
+     ],
+     "ans": 3,
+     "exp": "Câu hỏi mục đích → đọc dòng chủ đề và đoạn đầu: mẫu ghế đang được nhập lại kho nên 'will not ship on the original date'. Đó là thông báo giao hàng trễ. (A) sai vì hàng chưa gửi; (B) sai — email tặng giảm giá chứ không đòi tiền; (C) không có trong bài. Đáp án đúng là câu paraphrase của 'delay'."
+    },
+    {
+     "id": "p7-16-2",
+     "text": "What is offered to Ms. Holt because of the delay?",
+     "options": [
+      "Free installation",
+      "A full refund",
+      "An extended warranty",
+      "A price reduction"
+     ],
+     "ans": 3,
+     "exp": "Câu hỏi chi tiết → tìm từ khoá 'apology for the delay': 'we have applied a 15 percent discount'. 'Discount' = 'price reduction'. (B) hoàn tiền toàn bộ không được nhắc; (A) và (C) không xuất hiện. Chú ý paraphrase discount → price reduction."
+    },
+    {
+     "id": "p7-16-3",
+     "text": "What should Ms. Holt do if she wants a different model?",
+     "options": [
+      "Reply to the e-mail",
+      "Call the warehouse directly",
+      "Complete an online form",
+      "Visit a local store"
+     ],
+     "ans": 0,
+     "exp": "Câu hỏi hành động → tìm 'switch to a similar model': 'simply reply to this message'. Đáp án (A) khớp trực tiếp. Các lựa chọn khác nêu kênh liên hệ không được đề cập trong bài."
+    }
+   ]
+  },
+  {
+   "id": "p7-17",
+   "part": 7,
+   "kind": "Notice",
+   "title": "Library Renovation",
+   "body": "NOTICE TO ALL MEMBERS — Fairview Public Library\n\nBeginning Monday, 2 June, the second floor of the library will close for renovation. During this period, the reading rooms and study areas on that floor will be unavailable. All computers and printers normally located there have been moved temporarily to the ground floor near the main desk.\n\nThe children's section, periodicals, and borrowing services on the ground floor will remain open as usual. Members who have reserved study rooms on the second floor after 2 June will be contacted individually to arrange an alternative space.\n\nWork is scheduled to finish by the end of August. We apologize for any inconvenience and thank you for your understanding. For questions, please speak with a staff member at the front desk.",
+   "questions": [
+    {
+     "id": "p7-17-1",
+     "text": "What is the main purpose of the notice?",
+     "options": [
+      "To advertise a summer reading program",
+      "To request donations for new equipment",
+      "To introduce a new lending policy",
+      "To announce a temporary closure of part of the building"
+     ],
+     "ans": 3,
+     "exp": "Câu hỏi mục đích → đọc câu đầu: tầng hai đóng để cải tạo. Đó là việc đóng cửa tạm thời một phần toà nhà. Các lựa chọn khác nhắc tới nội dung không có trong thông báo."
+    },
+    {
+     "id": "p7-17-2",
+     "text": "Where have the computers been moved?",
+     "options": [
+      "To a nearby building",
+      "To the ground floor",
+      "To the study rooms",
+      "To the children's section"
+     ],
+     "ans": 1,
+     "exp": "Câu hỏi chi tiết → tìm 'computers and printers': 'moved temporarily to the ground floor near the main desk'. Đáp án (B). (D) và (C) là những khu vực khác được nhắc nhưng không phải nơi đặt máy tính."
+    },
+    {
+     "id": "p7-17-3",
+     "text": "What will happen to members who reserved second-floor study rooms?",
+     "options": [
+      "They will be contacted individually",
+      "They will receive a refund",
+      "They will lose their membership",
+      "They must cancel their reservations"
+     ],
+     "ans": 0,
+     "exp": "Câu hỏi chi tiết → tìm 'reserved study rooms': 'will be contacted individually to arrange an alternative space'. Đáp án (A) khớp. Các lựa chọn khác không được nêu trong bài."
+    }
+   ]
+  },
+  {
+   "id": "p7-18",
+   "part": 7,
+   "kind": "Advertisement",
+   "title": "Coworking Space Opening",
+   "body": "THE HUB — Now Open in Downtown Westbrook\n\nLooking for a professional place to work without the cost of a full office? The Hub offers flexible desk space, private meeting rooms, and high-speed internet in the heart of the business district.\n\nMembership options:\n- Day Pass: $25 for a single day of open-desk access\n- Monthly Flex: $180 for unlimited open-desk access during business hours\n- Dedicated Desk: $350 per month for your own reserved workspace and a locker\n\nAll members enjoy free coffee, printing credits, and access to networking events held every Thursday evening. Meeting rooms can be booked by the hour at a discounted rate for monthly members.\n\nVisit thehub-westbrook.com to book a free tour, or stop by between 9 a.m. and 6 p.m., Monday through Friday. Mention this advertisement to receive your first day pass at half price.",
+   "questions": [
+    {
+     "id": "p7-18-1",
+     "text": "What is being advertised?",
+     "options": [
+      "A shared workspace",
+      "A hotel conference center",
+      "A career training course",
+      "An internet provider"
+     ],
+     "ans": 0,
+     "exp": "Câu hỏi chủ đề → đọc tiêu đề và đoạn đầu: 'flexible desk space, private meeting rooms' — đây là không gian làm việc chung. (B), (D), (C) chỉ là dịch vụ phụ hoặc không liên quan."
+    },
+    {
+     "id": "p7-18-2",
+     "text": "How much does unlimited monthly open-desk access cost?",
+     "options": [
+      "$25",
+      "$350",
+      "$500",
+      "$180"
+     ],
+     "ans": 3,
+     "exp": "Câu hỏi chi tiết → tìm 'unlimited open-desk access': 'Monthly Flex: $180'. Đáp án (D). $25 là day pass, $350 là bàn riêng — đừng chọn nhầm con số."
+    },
+    {
+     "id": "p7-18-3",
+     "text": "What benefit is offered to readers of the advertisement?",
+     "options": [
+      "A free locker",
+      "A half-price day pass",
+      "A discounted meeting room",
+      "A free monthly membership"
+     ],
+     "ans": 1,
+     "exp": "Câu hỏi chi tiết → tìm 'Mention this advertisement': 'receive your first day pass at half price'. Đáp án (B). (C) giảm giá phòng họp chỉ cho hội viên tháng, không phải ưu đãi cho người đọc quảng cáo."
+    }
+   ]
+  },
+  {
+   "id": "p7-19",
+   "part": 7,
+   "kind": "Text message chain",
+   "title": "Schedule Change",
+   "body": "Renata Cruz [8:42 a.m.]: Hi Tom, are you still able to meet the client at 2 today?\n\nTom Blake [8:45 a.m.]: I can, but I just heard the meeting room on the fourth floor is double-booked. Do you know of another space?\n\nRenata Cruz [8:47 a.m.]: The small conference room on three is free until 4. I can reserve it now if you want.\n\nTom Blake [8:48 a.m.]: That would be great. Could you also let the client know the room has changed? I don't have their number saved.\n\nRenata Cruz [8:50 a.m.]: No problem, I'll email them right away with the new location. Anything else you need before the meeting?\n\nTom Blake [8:51 a.m.]: Just the printed proposal. I left a copy on your desk yesterday — could you bring it up?\n\nRenata Cruz [8:52 a.m.]: Found it. See you at 2.",
+   "questions": [
+    {
+     "id": "p7-19-1",
+     "text": "Why does Mr. Blake need a different room?",
+     "options": [
+      "The meeting time has changed",
+      "The original room is already reserved by others",
+      "The client requested a quieter space",
+      "The original room is too small"
+     ],
+     "ans": 1,
+     "exp": "Câu hỏi chi tiết → Tom nói phòng tầng bốn 'is double-booked' (bị đặt trùng). Đáp án (B). (D), (A), (C) không được nhắc — chú ý double-booked = đã có người khác đặt."
+    },
+    {
+     "id": "p7-19-2",
+     "text": "At 8:50 a.m., what does Ms. Cruz mean when she writes, \"No problem\"?",
+     "options": [
+      "She has solved a technical issue",
+      "She agrees to inform the client of the change",
+      "She will attend the meeting in Tom's place",
+      "She will reschedule the meeting"
+     ],
+     "ans": 1,
+     "exp": "Câu hỏi ý định người viết → 'No problem' trả lời ngay sau yêu cầu 'let the client know the room has changed'. Nghĩa là bà đồng ý báo cho khách. Đáp án (B). Đây là dạng câu hỏi hiểu ngữ cảnh câu chat."
+    },
+    {
+     "id": "p7-19-3",
+     "text": "What does Mr. Blake ask Ms. Cruz to bring?",
+     "options": [
+      "The client's contract",
+      "Coffee for the meeting",
+      "A laptop",
+      "A printed proposal"
+     ],
+     "ans": 3,
+     "exp": "Câu hỏi chi tiết → Tom nói 'Just the printed proposal'. Đáp án (D) khớp trực tiếp. Các lựa chọn khác không xuất hiện trong đoạn chat."
+    }
+   ]
+  },
+  {
+   "id": "p7-20",
+   "part": 7,
+   "kind": "Article",
+   "title": "Local Bakery Expands",
+   "body": "WESTBROOK — Cornerstone Bakery, a small shop that has served the Westbrook neighborhood for over a decade, will open a second location downtown next month. Owner Priya Naidu says the decision came after years of steady growth and repeated requests from customers who work in the city center.\n\nThe new branch, on Marlow Street, will offer the same fresh bread and pastries as the original but will also add a seating area and a small lunch menu. Naidu plans to hire eight additional staff members, most of them from the surrounding area.\n\n\"We wanted to stay close to our roots while making it easier for busy people to enjoy our food,\" Naidu said. The original shop on Elm Avenue will continue to operate as usual, and both locations will share the same early-morning baking schedule.\n\nThe downtown branch is expected to open its doors in early October.",
+   "questions": [
+    {
+     "id": "p7-20-1",
+     "text": "What is the article mainly about?",
+     "options": [
+      "A new recipe developed by a local chef",
+      "A change in a bakery's opening hours",
+      "A bakery opening an additional location",
+      "The closing of a longtime business"
+     ],
+     "ans": 2,
+     "exp": "Câu hỏi chủ đề → câu đầu: tiệm bánh 'will open a second location downtown'. Đó là mở thêm chi nhánh. (D) trái ngược — tiệm cũ vẫn hoạt động; (B), (A) không phải trọng tâm."
+    },
+    {
+     "id": "p7-20-2",
+     "text": "What is one difference at the new branch?",
+     "options": [
+      "It will open earlier in the morning",
+      "It will have a seating area",
+      "It will sell different bread",
+      "It will be run by a new owner"
+     ],
+     "ans": 1,
+     "exp": "Câu hỏi chi tiết → 'will also add a seating area and a small lunch menu'. Đáp án (B). (C) sai vì bánh giống hệt tiệm cũ; (A) sai vì hai nơi chung lịch nướng; (D) vẫn là bà Naidu."
+    },
+    {
+     "id": "p7-20-3",
+     "text": "What does Ms. Naidu say about the original shop?",
+     "options": [
+      "It will reduce its menu",
+      "It will move to Marlow Street",
+      "It will close temporarily",
+      "It will keep operating as before"
+     ],
+     "ans": 3,
+     "exp": "Câu hỏi chi tiết → 'The original shop on Elm Avenue will continue to operate as usual'. 'Continue as usual' = 'keep operating as before'. Đáp án (D). Các lựa chọn khác mâu thuẫn với bài."
+    }
+   ]
+  },
+  {
+   "id": "p7-21",
+   "part": 7,
+   "kind": "Online review",
+   "title": "Hotel Review",
+   "body": "Review of Harbor View Inn\nPosted by Kenji T. — ★★★★☆\n\nI stayed at the Harbor View Inn for three nights during a business trip and found it a comfortable, well-located choice. The room was clean and quiet, and the bed was very comfortable. The staff at the front desk were friendly and helped me arrange an early taxi to the airport without any trouble.\n\nThe main strength of this hotel is its location — it is a short walk from the train station and several good restaurants. The included breakfast was simple but fresh, with a good selection of fruit and bread.\n\nMy only complaint is that the internet in the room was slow, which made it hard to join video calls. When I mentioned this at the desk, they offered me a workspace in the lobby where the connection was much faster. That solved the problem, but I would have preferred reliable internet in the room itself.\n\nOverall, I would stay here again and recommend it to other travelers.",
+   "questions": [
+    {
+     "id": "p7-21-1",
+     "text": "What did the reviewer like most about the hotel?",
+     "options": [
+      "The room service menu",
+      "The convenient location",
+      "The swimming pool",
+      "The price of the rooms"
+     ],
+     "ans": 1,
+     "exp": "Câu hỏi chi tiết → 'The main strength of this hotel is its location'. Đáp án (B). Giá phòng, hồ bơi, dịch vụ phòng không được nhắc là điểm mạnh chính."
+    },
+    {
+     "id": "p7-21-2",
+     "text": "What problem did the reviewer experience?",
+     "options": [
+      "The breakfast was expensive",
+      "The staff were unhelpful",
+      "The internet was slow",
+      "The room was noisy"
+     ],
+     "ans": 2,
+     "exp": "Câu hỏi chi tiết → 'My only complaint is that the internet in the room was slow'. Đáp án (C). (D) sai — phòng yên tĩnh; (B) sai — nhân viên thân thiện; (A) không đề cập giá bữa sáng."
+    },
+    {
+     "id": "p7-21-3",
+     "text": "How did the hotel respond to the reviewer's concern?",
+     "options": [
+      "It gave him a discount",
+      "It offered him a workspace in the lobby",
+      "It moved him to another room",
+      "It refunded one night's stay"
+     ],
+     "ans": 1,
+     "exp": "Câu hỏi chi tiết → 'they offered me a workspace in the lobby where the connection was much faster'. Đáp án (B). Các phương án khác không được nêu."
+    }
+   ]
+  },
+  {
+   "id": "p7-22",
+   "part": 7,
+   "kind": "E-mail",
+   "title": "Conference Registration",
+   "body": "To: all-staff@meridian-tech.com\nFrom: events@meridian-tech.com\nSubject: Annual Industry Conference — Register by Friday\nDate: 8 September\n\nDear colleagues,\n\nThe annual Regional Technology Conference will take place this year on 3 and 4 October at the Grand Central Convention Center. As in previous years, the company will cover the registration fee for any employee who wishes to attend.\n\nTo register, please complete the online form linked on the staff portal by this Friday, 12 September. Space is limited, so we encourage you to sign up early. After registering, you will receive a confirmation e-mail with your badge and the full session schedule.\n\nPlease note that travel and hotel costs are the responsibility of each department, not the events team. If you plan to attend and need overnight accommodation, speak with your manager about arrangements before booking.\n\nWe look forward to seeing many of you there.\n\nThe Events Team",
+   "questions": [
+    {
+     "id": "p7-22-1",
+     "text": "What is the purpose of the e-mail?",
+     "options": [
+      "To encourage staff to register for an event",
+      "To introduce a new events team",
+      "To change the date of a meeting",
+      "To announce the results of a conference"
+     ],
+     "ans": 0,
+     "exp": "Câu hỏi mục đích → chủ đề 'Register by Friday' và nội dung mời nhân viên đăng ký hội nghị. Đáp án (A). (D), (B), (C) không phản ánh nội dung email."
+    },
+    {
+     "id": "p7-22-2",
+     "text": "What will the company pay for?",
+     "options": [
+      "Travel costs",
+      "Hotel accommodation",
+      "The registration fee",
+      "Meals during the conference"
+     ],
+     "ans": 2,
+     "exp": "Câu hỏi chi tiết → 'the company will cover the registration fee'. Đáp án (C). Bài nói rõ chi phí đi lại và khách sạn do từng phòng ban tự lo, không phải công ty — bẫy ở (A), (B)."
+    },
+    {
+     "id": "p7-22-3",
+     "text": "What should employees do before booking a hotel?",
+     "options": [
+      "Speak with their manager",
+      "Complete a second form",
+      "Contact the convention center",
+      "Pay a deposit"
+     ],
+     "ans": 0,
+     "exp": "Câu hỏi hành động → 'speak with your manager about arrangements before booking'. Đáp án (A). Các lựa chọn khác không được yêu cầu trong email."
+    }
+   ]
+  },
+  {
+   "id": "p7-23",
+   "part": 7,
+   "kind": "Notice",
+   "title": "Parking Lot Closure",
+   "body": "ATTENTION EMPLOYEES — Temporary Parking Change\n\nThe main parking lot behind the Harrington Building will be resurfaced from Wednesday, 16 April through Friday, 18 April. During these three days, the lot will be completely closed and no vehicles may be left there overnight.\n\nEmployees who normally park in the main lot may use the overflow lot on Chestnut Street, a five-minute walk away, at no additional cost. A shuttle will run between the overflow lot and the building entrance every fifteen minutes from 7:30 a.m. to 9:30 a.m. and again from 4:30 p.m. to 6:30 p.m.\n\nAny vehicles remaining in the main lot after 6 p.m. on Tuesday, 15 April will be towed at the owner's expense. Please plan ahead and share this notice with any colleagues who may not have seen it.\n\nWe expect the lot to reopen as normal on Monday, 21 April.",
+   "questions": [
+    {
+     "id": "p7-23-1",
+     "text": "Why will the main parking lot be closed?",
+     "options": [
+      "A special event is planned",
+      "It is being expanded",
+      "It is being converted to offices",
+      "It is being resurfaced"
+     ],
+     "ans": 3,
+     "exp": "Câu hỏi chi tiết → 'will be resurfaced from Wednesday'. Đáp án (D). Các lựa chọn khác không xuất hiện — chú ý 'resurfaced' = trải lại mặt đường."
+    },
+    {
+     "id": "p7-23-2",
+     "text": "What is provided for employees during the closure?",
+     "options": [
+      "Free public transit passes",
+      "A shuttle service",
+      "A parking discount",
+      "Reserved street parking"
+     ],
+     "ans": 1,
+     "exp": "Câu hỏi chi tiết → 'A shuttle will run between the overflow lot and the building entrance'. Đáp án (B). Các phương án khác không được cung cấp."
+    },
+    {
+     "id": "p7-23-3",
+     "text": "What will happen to cars left in the main lot after the deadline?",
+     "options": [
+      "They will be towed",
+      "They will be moved to the overflow lot",
+      "They will be fined",
+      "They will be locked in"
+     ],
+     "ans": 0,
+     "exp": "Câu hỏi chi tiết → 'will be towed at the owner's expense'. Đáp án (A). (C) phạt tiền và (B) không được nêu; bài nói rõ là kéo xe đi."
+    }
+   ]
+  },
+  {
+   "id": "p7-24",
+   "part": 7,
+   "kind": "Order confirmation",
+   "title": "Purchase Confirmation",
+   "body": "GREENLEAF GARDEN SUPPLY\nOrder Confirmation #GL-70932\nDate: 22 May\n\nThank you for your order, Mr. Alvarez!\n\nShipping to:\nCarlos Alvarez\n47 Birch Lane, Apt. 3\nMillbrook\n\nItems ordered:\n- Ceramic plant pots, medium (set of 3) — $28.00\n- Organic potting soil, 10 kg — $15.00\n- Watering can, 5 L — $12.00\n\nSubtotal: $55.00\nShipping: $6.00\nTotal: $61.00\n\nYour order will be shipped within two business days by standard delivery and should arrive within one week. A tracking number will be sent to your e-mail once the package leaves our warehouse.\n\nPlease note that the ceramic pots are fragile. If any item arrives damaged, contact us within seven days at support@greenleaf-supply.com and we will send a replacement at no charge. Returns of undamaged items are accepted within 30 days for a full refund, provided the items are unused.",
+   "questions": [
+    {
+     "id": "p7-24-1",
+     "text": "How much did Mr. Alvarez pay in total?",
+     "options": [
+      "$28.00",
+      "$55.00",
+      "$61.00",
+      "$67.00"
+     ],
+     "ans": 2,
+     "exp": "Câu hỏi chi tiết → tìm dòng 'Total': $61.00. Đáp án (C). $55.00 là subtotal chưa gồm phí ship — bẫy thường gặp ở dạng hoá đơn."
+    },
+    {
+     "id": "p7-24-2",
+     "text": "What should Mr. Alvarez do if an item arrives broken?",
+     "options": [
+      "Contact the company within seven days",
+      "Return it to a local store",
+      "Wait for an automatic replacement",
+      "Request a partial refund"
+     ],
+     "ans": 0,
+     "exp": "Câu hỏi hành động → 'If any item arrives damaged, contact us within seven days'. Đáp án (A). Các lựa chọn khác không đúng quy trình nêu trong bài."
+    },
+    {
+     "id": "p7-24-3",
+     "text": "What is the policy for returning undamaged items?",
+     "options": [
+      "They must be exchanged for store credit",
+      "They can be returned within 30 days if unused",
+      "They cannot be returned",
+      "They can be returned only within seven days"
+     ],
+     "ans": 1,
+     "exp": "Câu hỏi chi tiết → 'Returns of undamaged items are accepted within 30 days for a full refund, provided the items are unused'. Đáp án (B). Đừng nhầm mốc 7 ngày (dành cho hàng hỏng) với 30 ngày (hàng nguyên vẹn)."
+    }
+   ]
+  },
+  {
+   "id": "p7-25",
+   "part": 7,
+   "kind": "Advertisement",
+   "title": "Cooking Class Series",
+   "body": "LEARN TO COOK — Evening Classes at Maple Street Kitchen\n\nWhether you are a complete beginner or want to sharpen your skills, our evening cooking classes have something for you. All classes are led by professional chefs in our fully equipped teaching kitchen, and all ingredients are provided.\n\nUpcoming courses:\n- Everyday Basics (4 weeks) — knife skills, simple sauces, and weeknight meals. Tuesdays, 6:30–8:30 p.m. $160\n- Baking Fundamentals (3 weeks) — bread, pastry, and cakes. Wednesdays, 6:00–8:00 p.m. $140\n- World Flavors (6 weeks) — dishes from around the globe. Thursdays, 6:30–9:00 p.m. $260\n\nClass sizes are limited to twelve students to ensure everyone gets hands-on attention. Each participant takes home the food they prepare, along with a printed set of recipes.\n\nRegistration is open now at maplestreetkitchen.com. Sign up for two or more courses and receive 10 percent off your total. Gift certificates are also available — a great idea for the food lover in your life.",
+   "questions": [
+    {
+     "id": "p7-25-1",
+     "text": "Who are the classes suitable for?",
+     "options": [
+      "Both beginners and experienced cooks",
+      "Only restaurant owners",
+      "Only children",
+      "Only professional chefs"
+     ],
+     "ans": 0,
+     "exp": "Câu hỏi chi tiết → 'Whether you are a complete beginner or want to sharpen your skills'. Nghĩa là hợp cả người mới lẫn người đã có kỹ năng. Đáp án (A)."
+    },
+    {
+     "id": "p7-25-2",
+     "text": "What is included with every class?",
+     "options": [
+      "Transportation to the venue",
+      "A cookbook to keep",
+      "All ingredients",
+      "A free apron"
+     ],
+     "ans": 2,
+     "exp": "Câu hỏi chi tiết → 'all ingredients are provided'. Đáp án (C). Học viên có nhận bộ công thức in nhưng không phải 'cookbook'; các lựa chọn khác không được nêu."
+    },
+    {
+     "id": "p7-25-3",
+     "text": "How can a customer receive a discount?",
+     "options": [
+      "By paying in cash",
+      "By signing up for two or more courses",
+      "By bringing a friend",
+      "By registering before a deadline"
+     ],
+     "ans": 1,
+     "exp": "Câu hỏi chi tiết → 'Sign up for two or more courses and receive 10 percent off'. Đáp án (B). Các cách giảm giá khác không được đề cập."
+    }
+   ]
+  },
+  {
+   "id": "p7-26",
+   "part": 7,
+   "kind": "Double passage",
+   "title": "Venue Booking",
+   "bodyA": "To: events@lakesidehall.com\nFrom: rachel.tan@brightstart.org\nSubject: Availability for 14 November\nDate: 2 October\n\nHello,\n\nOur nonprofit organization is planning an awards dinner and we are interested in booking your main hall for the evening of Saturday, 14 November. We expect around 120 guests and will need a stage, a sound system for speeches, and space for a buffet dinner.\n\nCould you let me know whether the hall is available on that date, and what the rental fee would include? We would also appreciate information on any catering services you offer, as we would prefer not to arrange food separately.\n\nThank you,\nRachel Tan\nBrightStart Foundation",
+   "bodyB": "To: rachel.tan@brightstart.org\nFrom: events@lakesidehall.com\nSubject: RE: Availability for 14 November\nDate: 3 October\n\nDear Ms. Tan,\n\nThank you for your interest in Lakeside Hall. I am pleased to confirm that our main hall is available on the evening of 14 November. The hall comfortably seats up to 150 guests, so your group of 120 will fit well.\n\nThe standard evening rental is $900 and includes the stage, a full sound system, tables and chairs, and setup before your event. Unfortunately, we do not provide catering ourselves, but we work regularly with two local companies and can share their contact details.\n\nSince November dates book quickly, I would recommend confirming within the next two weeks. A deposit of $300 secures the date, with the balance due one week before the event.\n\nBest regards,\nMarcus Lee\nEvents Coordinator, Lakeside Hall",
+   "questions": [
+    {
+     "id": "p7-26-1",
+     "text": "Why did Ms. Tan write the first e-mail?",
+     "options": [
+      "To ask about renting a venue",
+      "To confirm a completed booking",
+      "To cancel a reservation",
+      "To complain about a past event"
+     ],
+     "ans": 0,
+     "exp": "Câu hỏi mục đích (văn bản 1) → bà hỏi hall có trống ngày 14/11 và chi phí thuê. Đó là hỏi về thuê địa điểm. Đáp án (A)."
+    },
+    {
+     "id": "p7-26-2",
+     "text": "What does the main hall include in its rental fee?",
+     "options": [
+      "A sound system and setup",
+      "Transportation for guests",
+      "Overnight accommodation",
+      "Catering and drinks"
+     ],
+     "ans": 0,
+     "exp": "Câu hỏi chi tiết (văn bản 2) → 'includes the stage, a full sound system, tables and chairs, and setup'. Đáp án (A). Bài nói rõ KHÔNG bao gồm catering — bẫy (D)."
+    },
+    {
+     "id": "p7-26-3",
+     "text": "What request from Ms. Tan can Lakeside Hall NOT fulfill directly?",
+     "options": [
+      "Setting up the room",
+      "Providing catering",
+      "Providing a stage",
+      "Seating 120 guests"
+     ],
+     "ans": 1,
+     "exp": "Câu hỏi liên kết hai văn bản → Ms. Tan (văn bản 1) muốn không phải tự lo đồ ăn; Marcus (văn bản 2) nói 'we do not provide catering ourselves'. Vậy yêu cầu về đồ ăn là thứ hall không đáp ứng trực tiếp. Đáp án (B) — dạng câu cross-reference điển hình."
+    },
+    {
+     "id": "p7-26-4",
+     "text": "How much is required to secure the date?",
+     "options": [
+      "$120",
+      "$600",
+      "$900",
+      "$300"
+     ],
+     "ans": 3,
+     "exp": "Câu hỏi chi tiết (văn bản 2) → 'A deposit of $300 secures the date'. Đáp án (D). $900 là tổng phí thuê — đừng nhầm với tiền đặt cọc."
+    },
+    {
+     "id": "p7-26-5",
+     "text": "What does Mr. Lee suggest Ms. Tan do soon?",
+     "options": [
+      "Choose a different date",
+      "Confirm the booking within two weeks",
+      "Pay the full amount immediately",
+      "Reduce the number of guests"
+     ],
+     "ans": 1,
+     "exp": "Câu hỏi chi tiết (văn bản 2) → 'I would recommend confirming within the next two weeks'. Đáp án (B). Các lựa chọn khác trái với nội dung email."
+    }
+   ]
+  },
+  {
+   "id": "p7-27",
+   "part": 7,
+   "kind": "Double passage",
+   "title": "Job Application",
+   "bodyA": "MERIDIAN DESIGN STUDIO — Now Hiring\nJunior Graphic Designer\n\nWe are seeking a creative junior graphic designer to join our growing team. The successful candidate will work on branding, social media graphics, and print materials for a range of clients.\n\nRequirements:\n- A degree or diploma in graphic design or a related field\n- At least one year of design experience (internships count)\n- Familiarity with standard design software\n- A portfolio showing a range of work\n\nThis is a full-time position based in our downtown office, with the option to work from home two days a week. To apply, send your resume and a link to your portfolio to careers@meridiandesign.com by 30 September. Applications without a portfolio link will not be considered.",
+   "bodyB": "To: careers@meridiandesign.com\nFrom: dev.patel@quickmail.com\nSubject: Application — Junior Graphic Designer\nDate: 24 September\n\nDear Hiring Team,\n\nI am writing to apply for the Junior Graphic Designer position. I recently completed a diploma in graphic design and have spent the past eighteen months working as a design intern at a small marketing agency, where I created social media graphics and helped redesign two client brochures.\n\nI am confident using the software mentioned in typical design roles and enjoy working on a variety of projects. I was especially drawn to your studio because of its focus on branding, which is the area I am most passionate about.\n\nMy resume is attached, and my portfolio can be viewed at devpatel-design.com. I would welcome the chance to discuss how I could contribute to your team.\n\nThank you for your consideration,\nDev Patel",
+   "questions": [
+    {
+     "id": "p7-27-1",
+     "text": "What is one requirement listed in the advertisement?",
+     "options": [
+      "Fluency in a second language",
+      "A degree in marketing",
+      "Five years of management experience",
+      "At least one year of design experience"
+     ],
+     "ans": 3,
+     "exp": "Câu hỏi chi tiết (văn bản 1) → 'At least one year of design experience'. Đáp án (D). Các lựa chọn khác không nằm trong yêu cầu."
+    },
+    {
+     "id": "p7-27-2",
+     "text": "How does Mr. Patel meet the experience requirement?",
+     "options": [
+      "Through a university teaching role",
+      "Through eighteen months as an intern",
+      "Through running his own studio",
+      "Through five years at an agency"
+     ],
+     "ans": 1,
+     "exp": "Câu hỏi liên kết hai văn bản → quảng cáo yêu cầu ≥1 năm kinh nghiệm (internship được tính); Dev có 'eighteen months working as a design intern'. Đủ điều kiện qua thực tập 18 tháng. Đáp án (B)."
+    },
+    {
+     "id": "p7-27-3",
+     "text": "Why is Mr. Patel especially interested in the studio?",
+     "options": [
+      "Its large client list",
+      "Its remote work policy",
+      "Its downtown location",
+      "Its focus on branding"
+     ],
+     "ans": 3,
+     "exp": "Câu hỏi chi tiết (văn bản 2) → 'especially drawn to your studio because of its focus on branding'. Đáp án (D). Các yếu tố khác không phải lý do ông nêu."
+    },
+    {
+     "id": "p7-27-4",
+     "text": "What did Mr. Patel include with his application?",
+     "options": [
+      "A portfolio link",
+      "A salary request",
+      "A reference letter",
+      "A cover photo"
+     ],
+     "ans": 0,
+     "exp": "Câu hỏi chi tiết (văn bản 2) → 'my portfolio can be viewed at devpatel-design.com'. Quảng cáo cũng nói đơn thiếu link portfolio sẽ bị loại. Đáp án (A)."
+    },
+    {
+     "id": "p7-27-5",
+     "text": "What can be inferred about Mr. Patel's application?",
+     "options": [
+      "It was missing a resume",
+      "It was submitted before the deadline",
+      "It will not be considered",
+      "It was submitted after the deadline"
+     ],
+     "ans": 1,
+     "exp": "Câu hỏi suy luận liên kết → hạn nộp là 30/9 (văn bản 1); email đề ngày 24/9 (văn bản 2). Vậy đơn nộp trước hạn. Đáp án (B) — cần đối chiếu ngày giữa hai văn bản."
+    }
+   ]
+  },
+  {
+   "id": "p7-28",
+   "part": 7,
+   "kind": "Double passage",
+   "title": "Product Feedback",
+   "bodyA": "To: support@homebrew-appliances.com\nFrom: linda.okafor@fastmail.com\nSubject: Problem with coffee maker\nDate: 11 July\n\nHello,\n\nI purchased your BrewMaster 500 coffee maker three weeks ago and have been happy with it until yesterday, when it stopped heating water. The machine turns on and the lights work, but the water stays cold. I have checked that it is plugged in correctly and tried a different outlet, but the problem continues.\n\nThe machine is still under warranty. Could you tell me how to arrange a repair or replacement? I have kept the original receipt and packaging.\n\nThank you,\nLinda Okafor",
+   "bodyB": "To: linda.okafor@fastmail.com\nFrom: support@homebrew-appliances.com\nSubject: RE: Problem with coffee maker\nDate: 12 July\n\nDear Ms. Okafor,\n\nI'm sorry to hear that your BrewMaster 500 is not heating properly. Based on your description, this is most likely a fault with the heating element, which is covered under your one-year warranty.\n\nPlease do not attempt to open the machine yourself, as this would end the warranty. Instead, we will send you a prepaid shipping label by e-mail today. Simply pack the machine in its original box, attach the label, and drop it at any postal office. Once we receive it, we will either repair or replace the unit and return it to you within ten business days at no cost.\n\nAs a gesture of goodwill, we will also include a voucher for a free box of coffee filters with your returned machine.\n\nBest regards,\nTomas Berg\nCustomer Support",
+   "questions": [
+    {
+     "id": "p7-28-1",
+     "text": "What problem is Ms. Okafor experiencing?",
+     "options": [
+      "The lights do not work",
+      "The machine leaks water",
+      "The machine does not heat water",
+      "The machine will not turn on"
+     ],
+     "ans": 2,
+     "exp": "Câu hỏi chi tiết (văn bản 1) → 'it stopped heating water ... the water stays cold'. Đáp án (C). Bài nói máy vẫn bật và đèn vẫn sáng — loại (D), (A)."
+    },
+    {
+     "id": "p7-28-2",
+     "text": "What does Mr. Berg identify as the likely cause?",
+     "options": [
+      "A faulty power cord",
+      "Incorrect use of the machine",
+      "A fault with the heating element",
+      "A cracked water tank"
+     ],
+     "ans": 2,
+     "exp": "Câu hỏi chi tiết (văn bản 2) → 'most likely a fault with the heating element'. Đáp án (C). Các nguyên nhân khác không được nêu."
+    },
+    {
+     "id": "p7-28-3",
+     "text": "What is Ms. Okafor warned NOT to do?",
+     "options": [
+      "Use a different outlet",
+      "Keep the receipt",
+      "Open the machine herself",
+      "Ship the machine"
+     ],
+     "ans": 2,
+     "exp": "Câu hỏi chi tiết (văn bản 2) → 'do not attempt to open the machine yourself, as this would end the warranty'. Đáp án (C). Các việc khác lại được khuyến khích hoặc yêu cầu."
+    },
+    {
+     "id": "p7-28-4",
+     "text": "How will Ms. Okafor send the machine back?",
+     "options": [
+      "By using a prepaid label at a postal office",
+      "By dropping it at a repair shop",
+      "By waiting for a technician to collect it",
+      "By paying for shipping herself"
+     ],
+     "ans": 0,
+     "exp": "Câu hỏi chi tiết (văn bản 2) → 'we will send you a prepaid shipping label ... drop it at any postal office'. Đáp án (A). Các cách khác không đúng quy trình."
+    },
+    {
+     "id": "p7-28-5",
+     "text": "What extra item will the company include?",
+     "options": [
+      "A new coffee maker manual",
+      "An extended warranty card",
+      "A voucher for coffee filters",
+      "A cash refund"
+     ],
+     "ans": 2,
+     "exp": "Câu hỏi chi tiết (văn bản 2) → 'a voucher for a free box of coffee filters'. Đáp án (C). Các món khác không được nhắc."
+    }
+   ]
+  },
+  {
+   "id": "p7-29",
+   "part": 7,
+   "kind": "Triple passage",
+   "group": "triple",
+   "title": "Workshop Registration",
+   "bodyA": "SPRING PROFESSIONAL WORKSHOPS — Greenwood Learning Center\n\nJoin us this spring for a series of half-day workshops designed for working professionals. All sessions run from 9 a.m. to 12:30 p.m. and include materials and refreshments.\n\n- Effective Presentations — 4 April — $75\n- Time Management — 11 April — $65\n- Business Writing — 18 April — $70\n- Team Leadership — 25 April — $85\n\nEarly registration (before 20 March) receives a 20 percent discount on any workshop. Register for three or more and receive an additional 10 percent off the total. Visit greenwood-learning.com to sign up.",
+   "bodyB": "To: registration@greenwood-learning.com\nFrom: nadia.reyes@zenmail.com\nSubject: Workshop sign-up\nDate: 15 March\n\nHello,\n\nI would like to register for two of your spring workshops: Business Writing on 18 April and Team Leadership on 25 April. I am signing up today, 15 March, so I believe I qualify for the early registration discount.\n\nCould you confirm my total cost and let me know how to pay? I look forward to attending.\n\nBest,\nNadia Reyes",
+   "bodyC": "To: nadia.reyes@zenmail.com\nFrom: registration@greenwood-learning.com\nSubject: RE: Workshop sign-up\nDate: 16 March\n\nDear Ms. Reyes,\n\nThank you for registering. I can confirm both workshops you selected, and since you signed up before 20 March, the early registration discount applies to each.\n\nAfter the discount, your total comes to $124. Payment can be made online through the link on your confirmation page, or by bank transfer using the details below. Please complete payment within five business days to hold your places.\n\nWe look forward to seeing you in April.\n\nGreenwood Registration Team",
+   "questions": [
+    {
+     "id": "p7-29-1",
+     "text": "What do all the workshops have in common?",
+     "options": [
+      "They last a full day",
+      "They are held on weekends",
+      "They cost the same amount",
+      "They run in the morning"
+     ],
+     "ans": 3,
+     "exp": "Câu hỏi chi tiết (văn bản A) → 'All sessions run from 9 a.m. to 12:30 p.m.' — tức buổi sáng. Đáp án (D). Chúng là nửa ngày, không cùng giá — loại (A), (C)."
+    },
+    {
+     "id": "p7-29-2",
+     "text": "Which discount does Ms. Reyes qualify for?",
+     "options": [
+      "Both discounts",
+      "The three-or-more discount",
+      "No discount",
+      "The early registration discount"
+     ],
+     "ans": 3,
+     "exp": "Câu hỏi liên kết A–B → giảm giá sớm cần đăng ký trước 20/3; bà đăng ký ngày 15/3 (văn bản B) nên đủ. Nhưng bà chỉ chọn 2 workshop, chưa đủ 3 để hưởng ưu đãi thêm. Vậy chỉ hưởng ưu đãi đăng ký sớm. Đáp án (D)."
+    },
+    {
+     "id": "p7-29-3",
+     "text": "Based on the original prices, what was the combined cost of Ms. Reyes's two workshops before any discount?",
+     "options": [
+      "$135",
+      "$155",
+      "$140",
+      "$160"
+     ],
+     "ans": 1,
+     "exp": "Câu hỏi liên kết A–B → Business Writing $70 + Team Leadership $85 = $155 (giá gốc, văn bản A). Đáp án (B). Sau giảm 20% còn $124 khớp văn bản C ($155 × 0,8 = $124)."
+    },
+    {
+     "id": "p7-29-4",
+     "text": "What is Ms. Reyes's final total after the discount?",
+     "options": [
+      "$155",
+      "$135",
+      "$110",
+      "$124"
+     ],
+     "ans": 3,
+     "exp": "Câu hỏi chi tiết (văn bản C) → 'your total comes to $124'. Đáp án (D). $155 là giá gốc trước giảm — bẫy."
+    },
+    {
+     "id": "p7-29-5",
+     "text": "What must Ms. Reyes do to hold her places?",
+     "options": [
+      "Call the center directly",
+      "Reply to confirm attendance",
+      "Pay within five business days",
+      "Sign up for a third workshop"
+     ],
+     "ans": 2,
+     "exp": "Câu hỏi chi tiết (văn bản C) → 'complete payment within five business days to hold your places'. Đáp án (C). Các việc khác không được yêu cầu."
+    }
+   ]
+  },
+  {
+   "id": "p7-30",
+   "part": 7,
+   "kind": "Triple passage",
+   "group": "triple",
+   "title": "Business Trip Arrangements",
+   "bodyA": "MEMO\nTo: Sales Team\nFrom: Operations\nDate: 5 February\nRe: Regional Sales Visit\n\nThree members of the sales team will travel to our Eastvale branch the week of 24 February for client meetings. Please book flights that arrive by the afternoon of Monday, 24 February, as the first meeting is scheduled for Tuesday morning. Hotel rooms have been reserved at the Cedar Court Hotel, a short walk from the branch office.\n\nRemember to submit your travel receipts to Operations within one week of returning so that expenses can be processed promptly.",
+   "bodyB": "CEDAR COURT HOTEL — Reservation Confirmation\n\nGuest: Sales Team, Northwind Corp (3 rooms)\nCheck-in: Monday, 24 February\nCheck-out: Friday, 28 February\nRoom type: Standard single\nRate: $110 per room, per night\n\nIncluded: breakfast, wireless internet, and access to the business center.\n\nParking is available on-site for $12 per day. Guests arriving after 10 p.m. should call ahead so that a late check-in can be arranged. The hotel is located at 15 Maple Road, a five-minute walk from the Eastvale business district.",
+   "bodyC": "To: operations@northwind-corp.com\nFrom: james.oduya@northwind-corp.com\nSubject: Travel receipts\nDate: 3 March\n\nHi,\n\nI've returned from the Eastvale trip and am submitting my receipts as requested. My flight cost $240 round trip, and I stayed all four nights at the Cedar Court Hotel as arranged. I also used the on-site parking for two of the days.\n\nPlease let me know if you need anything else to process the expenses. The meetings went very well, and the client has asked for a follow-up visit next month.\n\nThanks,\nJames Oduya",
+   "questions": [
+    {
+     "id": "p7-30-1",
+     "text": "By when should the sales team arrive in Eastvale?",
+     "options": [
+      "Monday morning",
+      "Tuesday morning",
+      "Monday afternoon",
+      "Friday evening"
+     ],
+     "ans": 2,
+     "exp": "Câu hỏi chi tiết (văn bản A) → 'book flights that arrive by the afternoon of Monday, 24 February'. Đáp án (C). Cuộc họp đầu là sáng thứ Ba, nhưng phải đến nơi từ chiều thứ Hai."
+    },
+    {
+     "id": "p7-30-2",
+     "text": "What is included in the hotel rate?",
+     "options": [
+      "Dinner",
+      "Breakfast",
+      "Airport transfer",
+      "Parking"
+     ],
+     "ans": 1,
+     "exp": "Câu hỏi chi tiết (văn bản B) → 'Included: breakfast, wireless internet, and access to the business center'. Đáp án (B). Đỗ xe tính phí $12/ngày, không bao gồm — bẫy (D)."
+    },
+    {
+     "id": "p7-30-3",
+     "text": "How many nights did Mr. Oduya stay at the hotel?",
+     "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+     ],
+     "ans": 2,
+     "exp": "Câu hỏi liên kết B–C → đặt phòng từ 24/2 đến 28/2 là bốn đêm; ông xác nhận 'stayed all four nights' (văn bản C). Đáp án (C)."
+    },
+    {
+     "id": "p7-30-4",
+     "text": "How much did Mr. Oduya's hotel stay cost in total?",
+     "options": [
+      "$240",
+      "$440",
+      "$110",
+      "$480"
+     ],
+     "ans": 1,
+     "exp": "Câu hỏi liên kết B–C → $110/đêm × 4 đêm = $440. Đáp án (B). $240 là tiền vé máy bay — đừng nhầm. Cần lấy giá phòng từ văn bản B và số đêm từ văn bản C."
+    },
+    {
+     "id": "p7-30-5",
+     "text": "What does Mr. Oduya mention about the client?",
+     "options": [
+      "The client will travel to Northwind",
+      "The client canceled the meeting",
+      "The client was unhappy with the visit",
+      "The client requested a follow-up visit"
+     ],
+     "ans": 3,
+     "exp": "Câu hỏi chi tiết (văn bản C) → 'the client has asked for a follow-up visit next month'. Đáp án (D). Các lựa chọn khác trái với nội dung email."
+    }
+   ]
+  },
+  {
+   "id": "p7-31",
+   "part": 7,
+   "kind": "Triple passage",
+   "group": "triple",
+   "title": "Store Grand Opening",
+   "bodyA": "GRAND OPENING — Riverside Books & Café\nSaturday, 10 May\n\nWe are delighted to announce the opening of our new bookshop and café at 22 Water Street. Join us all day from 9 a.m. for special offers, live music, and free coffee samples.\n\nOpening-day highlights:\n- 20 percent off all books\n- A local author reading at 2 p.m.\n- A prize draw for a $50 gift card (enter at the counter)\n\nWe can't wait to welcome you to our new space. Follow us online for updates and future events.",
+   "bodyB": "Riverside Books & Café — Online Post\nPosted 8 May\n\nA quick update ahead of Saturday's grand opening! Due to overwhelming interest, the local author reading has been moved from our café corner to the larger event room on the second floor. The start time remains 2 p.m., but seating is limited, so please arrive a few minutes early.\n\nWe've also added a children's story time at 11 a.m. for families. All other opening-day offers remain as announced. See you Saturday!",
+   "bodyC": "Online Review — Riverside Books & Café\nPosted by Amara S. — ★★★★★\n11 May\n\nI attended the grand opening yesterday and had a wonderful time. The shop is bright and welcoming, and the staff were friendly and helpful. I bought three books and was glad to get the opening-day discount on all of them.\n\nThe author reading was the highlight for me. I was happy they moved it upstairs, as the room was full and would have been far too crowded in the café corner. My only small regret is that I arrived just as the children's story time was ending, so my daughter missed it. Next time I'll check the schedule more carefully. I'll definitely be back.",
+   "questions": [
+    {
+     "id": "p7-31-1",
+     "text": "What is one offer advertised for the opening day?",
+     "options": [
+      "A discount on all books",
+      "Free books for children",
+      "Half-price coffee for a month",
+      "A free café membership"
+     ],
+     "ans": 0,
+     "exp": "Câu hỏi chi tiết (văn bản A) → '20 percent off all books'. Đáp án (A). Các ưu đãi khác không được nêu."
+    },
+    {
+     "id": "p7-31-2",
+     "text": "What change was announced before the opening?",
+     "options": [
+      "The prize draw was canceled",
+      "The author reading was moved to a larger room",
+      "The store hours were shortened",
+      "The opening date was postponed"
+     ],
+     "ans": 1,
+     "exp": "Câu hỏi chi tiết (văn bản B) → 'the local author reading has been moved ... to the larger event room on the second floor'. Đáp án (B). Các thay đổi khác không xảy ra."
+    },
+    {
+     "id": "p7-31-3",
+     "text": "What was added to the opening-day schedule?",
+     "options": [
+      "A book signing",
+      "A cooking demonstration",
+      "A live cooking class",
+      "A children's story time"
+     ],
+     "ans": 3,
+     "exp": "Câu hỏi chi tiết (văn bản B) → 'We've also added a children's story time at 11 a.m.'. Đáp án (D). Các hoạt động khác không được thêm."
+    },
+    {
+     "id": "p7-31-4",
+     "text": "Why was Amara glad the reading was moved?",
+     "options": [
+      "It was free to attend",
+      "It started earlier than planned",
+      "The café corner was closed",
+      "The larger room was less crowded"
+     ],
+     "ans": 3,
+     "exp": "Câu hỏi liên kết B–C → buổi đọc dời lên phòng lớn (văn bản B); Amara nói phòng đông và ở góc café thì 'would have been far too crowded' (văn bản C). Bà mừng vì phòng lớn đỡ chật. Đáp án (D)."
+    },
+    {
+     "id": "p7-31-5",
+     "text": "What does Amara say she will do differently next time?",
+     "options": [
+      "Buy fewer books",
+      "Bring more family members",
+      "Check the schedule more carefully",
+      "Arrive earlier in the day"
+     ],
+     "ans": 2,
+     "exp": "Câu hỏi chi tiết (văn bản C) → 'Next time I'll check the schedule more carefully'. Đáp án (C). Bà tiếc vì con lỡ giờ kể chuyện, nên rút kinh nghiệm xem lịch kỹ hơn."
+    }
+   ]
+  },
+  {
+   "id": "p7-32",
+   "part": 7,
+   "group": "double",
+   "kind": "Double passage",
+   "title": "Conference Room Booking Change",
+   "bodyA": "MEMO\n\nTo: All Department Heads\nFrom: Facilities Office\nDate: 6 May\nSubject: Booking the Aldgate Room\n\nStarting next Monday, the Aldgate conference room can no longer be reserved by email. All bookings must be made through the online calendar system, which shows real-time availability.\n\nThe room seats twenty and now includes a video-conferencing unit. Because demand is high, bookings are limited to two hours per team per day. If you need the room for longer, please contact the Facilities Office directly and we will review the request.\n\nThe smaller Corby Room remains available on a first-come basis and does not require a booking.",
+   "bodyB": "To: facilities@brightmark.example\nFrom: d.okonkwo@brightmark.example\nDate: 12 May\nSubject: Aldgate Room on 20 May\n\nHello,\n\nI tried to book the Aldgate Room through the calendar for the morning of 20 May, but the system would only let me reserve two hours. Our client workshop will run from nine until one — four hours in total.\n\nWe specifically need the video unit because two clients will join remotely, so the Corby Room will not work for us.\n\nCould you approve the longer booking? There are eight of us plus the two remote guests.\n\nThank you,\nDaniel Okonkwo",
+   "questions": [
+    {
+     "id": "p7-32-1",
+     "text": "What is the main purpose of the memo?",
+     "options": [
+      "To introduce a new department head",
+      "To report a problem with a video unit",
+      "To increase the size of a room",
+      "To announce a new booking procedure"
+     ],
+     "ans": 3,
+     "exp": "Memo mở đầu bằng việc phải chuyển sang đặt phòng qua lịch trực tuyến. Câu hỏi mục đích của văn bản đầu luôn dựa vào một hai câu đầu."
+    },
+    {
+     "id": "p7-32-2",
+     "text": "What is indicated about the Corby Room?",
+     "options": [
+      "It is closed for repairs",
+      "It does not need to be booked",
+      "It seats twenty people",
+      "It has a video-conferencing unit"
+     ],
+     "ans": 1,
+     "exp": "\"The smaller Corby Room remains available on a first-come basis and does not require a booking.\" (D) là bẫy: chính phòng Aldgate mới có video, không phải Corby."
+    },
+    {
+     "id": "p7-32-3",
+     "text": "Why does Mr. Okonkwo write to the Facilities Office?",
+     "options": [
+      "To report a broken calendar system",
+      "To cancel a reservation",
+      "To ask for more chairs",
+      "To request a longer booking"
+     ],
+     "ans": 3,
+     "exp": "Anh cần bốn giờ nhưng hệ thống chỉ cho hai. Memo đã nói ai cần lâu hơn thì liên hệ trực tiếp — đây là câu nối hai văn bản."
+    },
+    {
+     "id": "p7-32-4",
+     "text": "Why can't Mr. Okonkwo use the Corby Room?",
+     "options": [
+      "It is too small for eight people",
+      "It is on a different floor",
+      "It is already booked",
+      "It lacks a video-conferencing unit"
+     ],
+     "ans": 3,
+     "exp": "\"We specifically need the video unit because two clients will join remotely, so the Corby Room will not work.\" Lý do nằm ở văn bản 2, gắn với đặc điểm phòng nêu ở văn bản 1."
+    },
+    {
+     "id": "p7-32-5",
+     "text": "How many people will attend the workshop in person?",
+     "options": [
+      "Eight",
+      "Two",
+      "Ten",
+      "Twenty"
+     ],
+     "ans": 0,
+     "exp": "\"There are eight of us plus the two remote guests\" — tám người có mặt, hai người dự từ xa. (C) là bẫy cộng gộp cả người dự trực tuyến."
+    }
+   ]
+  },
+  {
+   "id": "p7-33",
+   "part": 7,
+   "group": "double",
+   "kind": "Double passage",
+   "title": "Online Order Problem",
+   "bodyA": "HARBOUR SUPPLY CO. — Order Confirmation\n\nOrder number: HS-4471\nDate: 3 August\nShip to: Lena Frost, 14 Marsh Lane\n\n2 × Desk lamp (model DL-9), white — £24 each\n1 × Cable tray, silver — £15\n1 × Monitor stand, oak — £39\n\nSubtotal: £102\nStandard delivery (3–5 working days): free\nTotal: £102\n\nItems are dispatched together. If any item is out of stock, the whole order is held until all items are available.",
+   "bodyB": "To: help@harboursupply.example\nFrom: lena.frost@mailbox.example\nDate: 12 August\nSubject: Order HS-4471 — still not here\n\nHello,\n\nMy order was placed on 3 August and I was told it would arrive within five working days. It is now the seventh working day and nothing has come.\n\nI checked my account and the status still says \"awaiting stock.\" If one item is causing the delay, I would rather receive the rest now and have the missing item sent later. I need the monitor stand in particular before Friday.\n\nPlease let me know what can be done.\n\nRegards,\nLena Frost",
+   "questions": [
+    {
+     "id": "p7-33-1",
+     "text": "How much did Ms. Frost pay in total?",
+     "options": [
+      "£102",
+      "£117",
+      "£63",
+      "£39"
+     ],
+     "ans": 0,
+     "exp": "Tổng cuối là £102, giao hàng miễn phí. (B) là bẫy cộng thêm một khoản không tồn tại."
+    },
+    {
+     "id": "p7-33-2",
+     "text": "According to the confirmation, what happens if an item is out of stock?",
+     "options": [
+      "The order is cancelled",
+      "The item is replaced",
+      "The whole order is held",
+      "A refund is issued"
+     ],
+     "ans": 2,
+     "exp": "\"If any item is out of stock, the whole order is held until all items are available.\" Chính chính sách này gây ra rắc rối ở văn bản 2."
+    },
+    {
+     "id": "p7-33-3",
+     "text": "Why is Ms. Frost's order delayed?",
+     "options": [
+      "The payment failed",
+      "Her address was wrong",
+      "A holiday closed the warehouse",
+      "An item is awaiting stock"
+     ],
+     "ans": 3,
+     "exp": "\"the status still says 'awaiting stock'\". Nối với chính sách ở văn bản 1: một món hết hàng thì giữ cả đơn."
+    },
+    {
+     "id": "p7-33-4",
+     "text": "What does Ms. Frost ask the company to do?",
+     "options": [
+      "Send the available items first",
+      "Give her a discount",
+      "Change her delivery address",
+      "Cancel the whole order"
+     ],
+     "ans": 0,
+     "exp": "\"I would rather receive the rest now and have the missing item sent later.\" Đây là yêu cầu chính của email."
+    },
+    {
+     "id": "p7-33-5",
+     "text": "Which item does Ms. Frost need most urgently?",
+     "options": [
+      "The whole order",
+      "The desk lamps",
+      "The cable tray",
+      "The monitor stand"
+     ],
+     "ans": 3,
+     "exp": "\"I need the monitor stand in particular before Friday.\" Câu hỏi chi tiết ở văn bản 2, phải bắt đúng món được nhấn mạnh."
+    }
+   ]
+  },
+  {
+   "id": "p7-34",
+   "part": 7,
+   "group": "double",
+   "kind": "Double passage",
+   "title": "Catering Enquiry",
+   "bodyA": "WILLOW LANE CATERING — Corporate Menus\n\nWe cater office events across the city. All menus include delivery, setup, and collection of equipment.\n\nMenu 1 — Sandwich lunch: £9 per person\nMenu 2 — Hot buffet: £16 per person\nMenu 3 — Three-course plated meal: £28 per person (minimum 20 guests)\n\nVegetarian and gluten-free options are available for every menu at no extra charge. Please give at least three working days' notice. Orders for more than fifty guests require one week's notice.",
+   "bodyB": "To: bookings@willowlane.example\nFrom: r.mensah@delta-partners.example\nDate: Monday 6 October\nSubject: Lunch for staff training — Thursday 9 October\n\nDear Willow Lane,\n\nWe are holding a staff training day this Thursday and would like a hot buffet for thirty-five people. Four of our staff are vegetarian and one requires gluten-free food.\n\nI realise Thursday is only three working days away, so I hope this is still possible. If the hot buffet cannot be arranged in time, we would accept the sandwich lunch instead.\n\nCould you also confirm the total cost?\n\nBest wishes,\nRuth Mensah",
+   "questions": [
+    {
+     "id": "p7-34-1",
+     "text": "What is included in every menu price?",
+     "options": [
+      "Printed menus",
+      "A serving assistant",
+      "A choice of drinks",
+      "Delivery and setup"
+     ],
+     "ans": 3,
+     "exp": "\"All menus include delivery, setup, and collection of equipment.\" Ba phương án còn lại không được nhắc."
+    },
+    {
+     "id": "p7-34-2",
+     "text": "What is stated about vegetarian options?",
+     "options": [
+      "They are only on Menu 3",
+      "They are free on every menu",
+      "They need a week's notice",
+      "They cost £2 extra"
+     ],
+     "ans": 1,
+     "exp": "\"Vegetarian and gluten-free options are available for every menu at no extra charge.\" (D) và (A) mâu thuẫn trực tiếp với câu này."
+    },
+    {
+     "id": "p7-34-3",
+     "text": "Which menu does Ms. Mensah first request?",
+     "options": [
+      "Hot buffet",
+      "Sandwich lunch",
+      "She does not specify",
+      "Three-course plated meal"
+     ],
+     "ans": 0,
+     "exp": "\"we would like a hot buffet for thirty-five people\". Sandwich lunch chỉ là phương án dự phòng nếu không kịp."
+    },
+    {
+     "id": "p7-34-4",
+     "text": "Why might there be a problem with the order?",
+     "options": [
+      "No vegetarian food is available",
+      "The group is too large",
+      "The date is a weekend",
+      "The notice is short"
+     ],
+     "ans": 3,
+     "exp": "Menu yêu cầu báo trước ít nhất ba ngày làm việc; email gửi thứ Hai cho sự kiện thứ Năm — sát hạn. Nối chính sách văn bản 1 với ngày ở văn bản 2."
+    },
+    {
+     "id": "p7-34-5",
+     "text": "If the hot buffet is ordered, how much will the event cost?",
+     "options": [
+      "£350",
+      "£560",
+      "£980",
+      "£315"
+     ],
+     "ans": 1,
+     "exp": "Hot buffet £16 × 35 người = £560. Đồ chay và không gluten miễn phí nên không cộng thêm. Câu tính toán nối giá ở văn bản 1 với số khách ở văn bản 2."
+    }
+   ]
+  },
+  {
+   "id": "p7-35",
+   "part": 7,
+   "group": "triple",
+   "kind": "Triple passage",
+   "title": "Regional Design Awards",
+   "bodyA": "REGIONAL DESIGN AWARDS — Call for Entries\n\nThe annual Regional Design Awards are now open. Studios may enter work completed in the past year in the following categories: Branding, Packaging, and Digital.\n\nEntry fees:\n• One category — $60\n• Two categories — $100\n• Three categories — $130\n\nThe deadline for entries is 28 February. Winners will be announced at the awards dinner on 15 April at the Lyric Hall. Each winning studio receives two dinner tickets; additional tickets cost $45 each.",
+   "bodyB": "To: entries@regionaldesign.example\nFrom: studio@fernandmoss.example\nDate: 20 February\nSubject: Fern & Moss — award entries\n\nHello,\n\nWe would like to enter two projects this year: our rebrand of a local bakery in the Branding category, and a tea packaging range in the Packaging category.\n\nPlease confirm the fee. Also, if we were to win, could we buy four extra dinner tickets? Our team has six people and we would like everyone to attend.\n\nThank you,\nAisha Fernand",
+   "bodyC": "REGIONAL DESIGN AWARDS — Results\n\nCongratulations to this year's winners:\n\nBranding — Fern & Moss, for the Copper Oven bakery rebrand\nPackaging — Harlow Studio, for the Riverbank juice range\nDigital — Beacon Interactive, for the CityGo travel app\n\nWinners should collect their tickets at the door. The dinner begins at 7 p.m. Please advise the organisers of any dietary requirements by 8 April.",
+   "questions": [
+    {
+     "id": "p7-35-1",
+     "text": "What is the deadline for submitting entries?",
+     "options": [
+      "15 April",
+      "8 April",
+      "28 February",
+      "20 February"
+     ],
+     "ans": 2,
+     "exp": "\"The deadline for entries is 28 February.\" (D) là ngày email được gửi, không phải hạn nộp."
+    },
+    {
+     "id": "p7-35-2",
+     "text": "How much will Fern & Moss pay in entry fees?",
+     "options": [
+      "$45",
+      "$60",
+      "$130",
+      "$100"
+     ],
+     "ans": 3,
+     "exp": "Studio dự thi hai hạng mục (Branding + Packaging) → $100. Nối số hạng mục ở văn bản 2 với bảng phí ở văn bản 1."
+    },
+    {
+     "id": "p7-35-3",
+     "text": "What did Fern & Moss win an award for?",
+     "options": [
+      "A juice range",
+      "A travel app",
+      "A bakery rebrand",
+      "A tea packaging range"
+     ],
+     "ans": 2,
+     "exp": "Văn bản 3: \"Branding — Fern & Moss, for the Copper Oven bakery rebrand.\" (D) là dự án Packaging họ cũng nộp nhưng không thắng ở đó — bẫy trộn hai văn bản."
+    },
+    {
+     "id": "p7-35-4",
+     "text": "How much will Fern & Moss pay for the extra dinner tickets they requested?",
+     "options": [
+      "$135",
+      "$270",
+      "$180",
+      "$90"
+     ],
+     "ans": 2,
+     "exp": "Người thắng được 2 vé; họ muốn mua thêm 4 vé × $45 = $180 để đủ 6 người. Câu tính toán nối yêu cầu ở văn bản 2 với giá vé ở văn bản 1."
+    },
+    {
+     "id": "p7-35-5",
+     "text": "What are winners asked to do by 8 April?",
+     "options": [
+      "Pay the entry fee",
+      "Submit a new project",
+      "Collect their award",
+      "Report dietary requirements"
+     ],
+     "ans": 3,
+     "exp": "Văn bản 3: \"Please advise the organisers of any dietary requirements by 8 April.\""
+    }
+   ]
+  },
+  {
+   "id": "p7-36",
+   "part": 7,
+   "group": "triple",
+   "kind": "Triple passage",
+   "title": "Office Furniture Refit",
+   "bodyA": "NORTHWIND OFFICE SOLUTIONS — Price List (per unit)\n\nAdjustable desk — $310\nErgonomic chair — $180\nFiling cabinet — $95\nBookshelf — $120\n\nOrders over $3,000 qualify for free assembly on site. Delivery is $75 per order regardless of size. Lead time is two weeks from the date the order is confirmed.",
+   "bodyB": "To: sales@northwindoffice.example\nFrom: p.almeida@craftlabs.example\nDate: 4 June\nSubject: Furniture for new floor\n\nHello,\n\nWe are fitting out a new floor and need the following: eight adjustable desks, eight ergonomic chairs, and three filing cabinets.\n\nWe move into the space on 20 June, so we need everything delivered and set up before then. Can you meet that date? Please also confirm whether our order qualifies for free assembly.\n\nRegards,\nPaulo Almeida",
+   "bodyC": "To: p.almeida@craftlabs.example\nFrom: sales@northwindoffice.example\nDate: 5 June\nSubject: RE: Furniture for new floor\n\nDear Mr. Almeida,\n\nThank you for your order. The total for the items comes to well above our $3,000 threshold, so on-site assembly is included at no charge.\n\nIf you confirm today, the two-week lead time means delivery on 19 June, which meets your move-in date. Only the delivery charge will be added.\n\nPlease reply to confirm and we will schedule everything.\n\nBest regards,\nNadia Costa",
+   "questions": [
+    {
+     "id": "p7-36-1",
+     "text": "What is the delivery charge?",
+     "options": [
+      "$75 per item",
+      "$75 per order",
+      "Free",
+      "$95"
+     ],
+     "ans": 1,
+     "exp": "\"Delivery is $75 per order regardless of size.\" (A) là bẫy đổi \"per order\" thành \"per item\"."
+    },
+    {
+     "id": "p7-36-2",
+     "text": "What is the cost of the desks and chairs Mr. Almeida orders?",
+     "options": [
+      "$2,480",
+      "$490",
+      "$3,920",
+      "$4,015"
+     ],
+     "ans": 2,
+     "exp": "8 desks × $310 = $2.480; 8 chairs × $180 = $1.440; cộng = $3.920. Câu tính nối số lượng ở văn bản 2 với giá ở văn bản 1 (chưa tính tủ hồ sơ vì câu chỉ hỏi bàn và ghế)."
+    },
+    {
+     "id": "p7-36-3",
+     "text": "Why does the order qualify for free assembly?",
+     "options": [
+      "It is a repeat order",
+      "It is delivered in one trip",
+      "It exceeds $3,000",
+      "It includes filing cabinets"
+     ],
+     "ans": 2,
+     "exp": "Văn bản 3 xác nhận tổng vượt ngưỡng $3.000. Nối điều kiện ở văn bản 1 với xác nhận ở văn bản 3."
+    },
+    {
+     "id": "p7-36-4",
+     "text": "When does Northwind say the furniture will be delivered?",
+     "options": [
+      "20 June",
+      "19 June",
+      "4 June",
+      "Two weeks after move-in"
+     ],
+     "ans": 1,
+     "exp": "Văn bản 3: \"delivery on 19 June, which meets your move-in date.\" (A) là ngày chuyển vào, không phải ngày giao."
+    },
+    {
+     "id": "p7-36-5",
+     "text": "What must Mr. Almeida do to secure the delivery date?",
+     "options": [
+      "Confirm the order today",
+      "Reduce the order size",
+      "Pay a deposit",
+      "Collect the items himself"
+     ],
+     "ans": 0,
+     "exp": "\"If you confirm today, the two-week lead time means delivery on 19 June.\" Điều kiện nằm ở văn bản 3."
+    }
+   ]
+  },
+  {
+   "id": "p7-37",
+   "part": 7,
+   "group": "triple",
+   "kind": "Triple passage",
+   "title": "Company Fun Run",
+   "bodyA": "MERIDIAN GROUP — Charity Fun Run\n\nJoin us for our annual 5-kilometre charity run on Saturday 11 October in Kelvin Park. All money raised goes to the City Children's Library fund.\n\nRegistration: $15, which includes a race T-shirt. Register by 30 September to guarantee your shirt size. Late entries are welcome on the day but cannot be guaranteed a shirt.\n\nStart time is 9 a.m. Runners should collect their race numbers from the registration tent between 8 and 8:45 a.m.",
+   "bodyB": "To: funrun@meridiangroup.example\nFrom: t.eriksson@meridiangroup.example\nDate: 24 September\nSubject: Registration — three runners\n\nHi,\n\nI'd like to register three people from the finance team: myself, Sam Ochoa, and Grace Bello. Our T-shirt sizes are medium, large, and small.\n\nOne question: two of us will be arriving from another event and may not reach the park until 8:50. Will we still be able to collect our race numbers, or is the tent strictly closed at 8:45?\n\nThanks,\nTove Eriksson",
+   "bodyC": "To: t.eriksson@meridiangroup.example\nFrom: funrun@meridiangroup.example\nDate: 25 September\nSubject: RE: Registration — three runners\n\nHi Tove,\n\nAll three of you are registered, and because you signed up before the deadline, your T-shirts in medium, large, and small are reserved.\n\nRegarding the timing: the tent officially closes at 8:45, but a volunteer will stay near the start line until 8:55 for late arrivals. Please go straight there rather than to the main tent.\n\nSee you on the day,\nRace Team",
+   "questions": [
+    {
+     "id": "p7-37-1",
+     "text": "What is the purpose of the run?",
+     "options": [
+      "To promote a new park",
+      "To raise money for a library fund",
+      "To celebrate a company anniversary",
+      "To train for a marathon"
+     ],
+     "ans": 1,
+     "exp": "\"All money raised goes to the City Children's Library fund.\""
+    },
+    {
+     "id": "p7-37-2",
+     "text": "Why should runners register by 30 September?",
+     "options": [
+      "To join a specific team",
+      "To guarantee a T-shirt size",
+      "To get a lower price",
+      "To choose a start time"
+     ],
+     "ans": 1,
+     "exp": "\"Register by 30 September to guarantee your shirt size.\" Chính vì đăng ký kịp mà nhóm ở văn bản 2 được giữ áo (xác nhận ở văn bản 3)."
+    },
+    {
+     "id": "p7-37-3",
+     "text": "Will Ms. Eriksson's team receive their chosen T-shirt sizes?",
+     "options": [
+      "Sizes cannot be reserved",
+      "Only two of them will",
+      "No, they registered too late",
+      "Yes, they registered before the deadline"
+     ],
+     "ans": 3,
+     "exp": "Email gửi 24 September, trước hạn 30 September; văn bản 3 xác nhận áo được giữ. Nối ngày ở văn bản 2 với chính sách ở văn bản 1."
+    },
+    {
+     "id": "p7-37-4",
+     "text": "What problem does Ms. Eriksson raise?",
+     "options": [
+      "Two runners may arrive after the tent closes",
+      "The start time is unclear",
+      "The registration fee is too high",
+      "There are no small T-shirts"
+     ],
+     "ans": 0,
+     "exp": "\"two of us … may not reach the park until 8:50. Will we still be able to collect our race numbers?\" Vấn đề nằm ở văn bản 2."
+    },
+    {
+     "id": "p7-37-5",
+     "text": "What does the Race Team tell the late arrivals to do?",
+     "options": [
+      "Go straight to the start line",
+      "Register again on the day",
+      "Skip collecting a race number",
+      "Arrive earlier"
+     ],
+     "ans": 0,
+     "exp": "Văn bản 3: \"a volunteer will stay near the start line until 8:55 … Please go straight there.\" Giải pháp nằm ở văn bản thứ ba."
+    }
+   ]
+  },
+  {
+   "id": "p7-38",
+   "part": 7,
+   "group": "single",
+   "kind": "E-mail",
+   "title": "Feedback Request",
+   "body": "To: jordan.pace@brightwave.example\nFrom: events@brightwave.example\nDate: 15 October\nSubject: How did we do?\n\nDear Jordan,\n\nThank you for attending our Autumn Product Showcase last week. We hope you found the sessions useful and enjoyed meeting our team.\n\nWe are always trying to improve, and your opinion matters to us. Would you take five minutes to complete a short survey? It contains just eight questions and asks about the venue, the presentations, and the catering.\n\nAs a thank-you, everyone who completes the survey by 31 October will be entered into a draw to win a one-year subscription to our premium service.\n\nThe survey link is below. Please note that responses are anonymous, so feel free to be honest.\n\nWith thanks,\nThe BrightWave Events Team",
+   "questions": [
+    {
+     "id": "p7-38-1",
+     "text": "Why was this e-mail sent?",
+     "options": [
+      "To advertise a new product",
+      "To invite Jordan to an event",
+      "To confirm a subscription",
+      "To request feedback about an event"
+     ],
+     "ans": 3,
+     "exp": "\"Would you take five minutes to complete a short survey?\" Mục đích chính là xin phản hồi. (B) là bẫy vì sự kiện đã diễn ra rồi."
+    },
+    {
+     "id": "p7-38-2",
+     "text": "What is NOT mentioned as a survey topic?",
+     "options": [
+      "The catering",
+      "The venue",
+      "The presentations",
+      "The ticket price"
+     ],
+     "ans": 3,
+     "exp": "Câu NOT-question. Bài liệt kê \"the venue, the presentations, and the catering\" — không nhắc giá vé. Với dạng này, gạch từng phương án khớp với văn bản, cái còn lại là đáp án."
+    },
+    {
+     "id": "p7-38-3",
+     "text": "What is suggested about the survey responses?",
+     "options": [
+      "They will be reviewed within a day",
+      "They must include a name",
+      "They will be published online",
+      "They cannot be traced to individuals"
+     ],
+     "ans": 3,
+     "exp": "\"responses are anonymous\" → không truy ra được cá nhân. Câu suy luận: 'anonymous' được diễn đạt lại thành 'cannot be traced to individuals'."
+    },
+    {
+     "id": "p7-38-4",
+     "text": "How can a recipient win a prize?",
+     "options": [
+      "By subscribing to the premium service",
+      "By referring a colleague",
+      "By completing the survey by 31 October",
+      "By attending another event"
+     ],
+     "ans": 2,
+     "exp": "\"everyone who completes the survey by 31 October will be entered into a draw\"."
+    }
+   ]
+  },
+  {
+   "id": "p7-39",
+   "part": 7,
+   "group": "single",
+   "kind": "Notice",
+   "title": "Building Water Shutoff",
+   "body": "NOTICE — Temporary Water Shutoff\n\nPlease be advised that the water supply to the Maple Court apartment building will be turned off on Wednesday, 8 November, from 9 a.m. to approximately 3 p.m.\n\nThis is necessary so that our contractors can replace an ageing section of pipe in the basement. We have scheduled the work for the middle of the day, when most residents are out, to cause the least possible disruption.\n\nDuring the shutoff, no water will be available in any unit. We strongly recommend filling a container or two beforehand for drinking and other needs.\n\nThe lifts will continue to operate as normal. If the work finishes early, we will restore the water sooner and post an update in the lobby.\n\nWe apologise for any inconvenience.\n\n— Maple Court Management",
+   "questions": [
+    {
+     "id": "p7-39-1",
+     "text": "What is the purpose of the notice?",
+     "options": [
+      "To introduce a new manager",
+      "To inform residents of a water shutoff",
+      "To announce a rent increase",
+      "To advertise available apartments"
+     ],
+     "ans": 1,
+     "exp": "\"the water supply … will be turned off\". Mục đích nêu ngay tiêu đề và câu đầu."
+    },
+    {
+     "id": "p7-39-2",
+     "text": "Why was the work scheduled for the middle of the day?",
+     "options": [
+      "The lifts are quieter then",
+      "Most residents are away then",
+      "It is cheaper at that time",
+      "The contractors are only free then"
+     ],
+     "ans": 1,
+     "exp": "\"when most residents are out, to cause the least possible disruption\". Câu hỏi lý do — nối trực tiếp với cụm giải thích."
+    },
+    {
+     "id": "p7-39-3",
+     "text": "What are residents advised to do?",
+     "options": [
+      "Contact the contractors",
+      "Leave the building",
+      "Store water in advance",
+      "Use the stairs"
+     ],
+     "ans": 2,
+     "exp": "\"filling a container or two beforehand\". (D) là bẫy vì thang máy được nhắc nhưng để nói vẫn chạy bình thường."
+    },
+    {
+     "id": "p7-39-4",
+     "text": "What will management do if the work finishes early?",
+     "options": [
+      "Restore the water sooner",
+      "Offer a refund",
+      "Close the lobby",
+      "Extend the shutoff"
+     ],
+     "ans": 0,
+     "exp": "\"If the work finishes early, we will restore the water sooner\"."
+    }
+   ]
+  },
+  {
+   "id": "p7-40",
+   "part": 7,
+   "group": "single",
+   "kind": "Text message chain",
+   "title": "Covering a shift",
+   "body": "Priya [8:02 a.m.]: Morning! Any chance you could cover my shift tomorrow afternoon? Something's come up.\n\nMarcus [8:05 a.m.]: Maybe. Is it the 1 to 6 slot at the front desk?\n\nPriya [8:06 a.m.]: Yes, exactly. I'd really owe you one.\n\nMarcus [8:09 a.m.]: I can do it, but I have a dentist appointment at noon. I might be five or ten minutes late getting there.\n\nPriya [8:10 a.m.]: That's no problem at all. I'll let the manager know you're covering.\n\nMarcus [8:11 a.m.]: Great. Just leave me a note about anything I need to watch for.\n\nPriya [8:12 a.m.]: Will do. Thanks so much — you're a lifesaver.",
+   "questions": [
+    {
+     "id": "p7-40-1",
+     "text": "Why did Priya message Marcus?",
+     "options": [
+      "To change a dentist appointment",
+      "To report a problem at the front desk",
+      "To ask him to cover a shift",
+      "To invite him to lunch"
+     ],
+     "ans": 2,
+     "exp": "\"could you cover my shift tomorrow afternoon?\" Lý do nhắn tin nêu ngay đầu."
+    },
+    {
+     "id": "p7-40-2",
+     "text": "At 8:10 a.m., what does Priya mean when she writes, \"That's no problem at all\"?",
+     "options": [
+      "She does not mind if Marcus arrives slightly late",
+      "She can find someone else",
+      "She disagrees with the schedule",
+      "She will cancel the shift"
+     ],
+     "ans": 0,
+     "exp": "Câu HÀM Ý. Marcus vừa nói có thể tới trễ 5–10 phút; \"That's no problem at all\" ngụ ý cô chấp nhận việc anh đến muộn chút. Dạng câu này trong đoạn chat rất hay hỏi — phải bám câu ngay trước."
+    },
+    {
+     "id": "p7-40-3",
+     "text": "What does Marcus ask Priya to do?",
+     "options": [
+      "Change the shift time",
+      "Call the manager",
+      "Reschedule his appointment",
+      "Leave him a note"
+     ],
+     "ans": 3,
+     "exp": "\"Just leave me a note about anything I need to watch for\"."
+    }
+   ]
+  },
+  {
+   "id": "p7-41",
+   "part": 7,
+   "group": "single",
+   "kind": "Online review",
+   "title": "Restaurant review",
+   "body": "★★★☆☆ Good food, slow service\nReviewed by Daniel R. — 3 September\n\nI visited Terrace Kitchen on Saturday evening with two friends, and my feelings are mixed.\n\nLet me start with the positives. The food was genuinely excellent. I had the grilled sea bass, which was cooked perfectly, and the desserts were the highlight of the meal. Portions were generous, and prices were fair for the quality.\n\nUnfortunately, the service let the evening down. We waited nearly twenty-five minutes just to place our order, and there were several empty tables, so it wasn't a question of the kitchen being overwhelmed. When we asked about the delay, the staff were apologetic but clearly stretched.\n\nI would still return, mainly because the food is worth it, but I hope management addresses the staffing. With a few more servers, this could easily be a five-star restaurant.",
+   "questions": [
+    {
+     "id": "p7-41-1",
+     "text": "What is the reviewer's overall opinion?",
+     "options": [
+      "The restaurant was too expensive",
+      "The food and service were both excellent",
+      "The restaurant was overcrowded",
+      "The food was good but the service was slow"
+     ],
+     "ans": 3,
+     "exp": "Tiêu đề \"Good food, slow service\" và \"my feelings are mixed\" tóm gọn ý kiến. (C) là bẫy: có nhắc bàn trống nhưng để nói bếp KHÔNG quá tải."
+    },
+    {
+     "id": "p7-41-2",
+     "text": "What did the reviewer like most?",
+     "options": [
+      "The atmosphere",
+      "The prices",
+      "The desserts",
+      "The sea bass"
+     ],
+     "ans": 2,
+     "exp": "\"the desserts were the highlight of the meal\". Chú ý 'highlight' = thích nhất; cá vược chỉ được khen 'cooked perfectly' nhưng không phải điểm nhấn — bẫy so sánh mức độ."
+    },
+    {
+     "id": "p7-41-3",
+     "text": "Why does the reviewer mention the empty tables?",
+     "options": [
+      "To show the delay was not due to a busy kitchen",
+      "To suggest making a reservation",
+      "To praise the spacious layout",
+      "To show the restaurant was unpopular"
+     ],
+     "ans": 0,
+     "exp": "Câu suy luận. Người viết nêu bàn trống để chứng minh chậm trễ không phải vì bếp quá tải mà vì thiếu nhân viên — nối với 'it wasn't a question of the kitchen being overwhelmed'."
+    },
+    {
+     "id": "p7-41-4",
+     "text": "What does the reviewer suggest management do?",
+     "options": [
+      "Lower the prices",
+      "Hire more servers",
+      "Extend opening hours",
+      "Change the menu"
+     ],
+     "ans": 1,
+     "exp": "\"With a few more servers, this could easily be a five-star restaurant\"."
+    }
+   ]
+  },
+  {
+   "id": "p7-42",
+   "part": 7,
+   "group": "single",
+   "kind": "Advertisement",
+   "title": "Language exchange meetup",
+   "body": "SPEAK & MEET — Free Language Exchange\n\nDo you want to practise a new language in a relaxed, friendly setting? Speak & Meet brings together people who are learning each other's languages for casual conversation.\n\nHow it works: each session is ninety minutes. You spend the first half speaking one language and the second half speaking another, so everyone gets to practise and to help. No teacher, no textbooks — just real conversation.\n\nAll levels are welcome, including complete beginners. Our friendly hosts make sure no one is left out, and there is always someone happy to explain a tricky word.\n\nWe meet every Thursday at 7 p.m. at the Corner Café on Elm Street. The event is free, though you are welcome to buy a drink. Seats are limited, so please reserve yours through our website.\n\nBring your curiosity — and maybe a notebook.",
+   "questions": [
+    {
+     "id": "p7-42-1",
+     "text": "What is being advertised?",
+     "options": [
+      "A book club",
+      "A language class with a teacher",
+      "A casual language exchange meetup",
+      "A translation service"
+     ],
+     "ans": 2,
+     "exp": "\"a relaxed … language exchange\" cùng \"No teacher, no textbooks\". (B) mâu thuẫn trực tiếp vì quảng cáo nói rõ không có giáo viên."
+    },
+    {
+     "id": "p7-42-2",
+     "text": "What is indicated about beginners?",
+     "options": [
+      "They are welcome to attend",
+      "They need to bring a textbook",
+      "They should come early",
+      "They must pay a higher fee"
+     ],
+     "ans": 0,
+     "exp": "\"All levels are welcome, including complete beginners\"."
+    },
+    {
+     "id": "p7-42-3",
+     "text": "What are attendees asked to do in advance?",
+     "options": [
+      "Prepare a short talk",
+      "Reserve a seat online",
+      "Buy a drink",
+      "Choose a language partner"
+     ],
+     "ans": 1,
+     "exp": "\"Seats are limited, so please reserve yours through our website\". (C) là bẫy: mua đồ uống chỉ là tuỳ ý, không bắt buộc và không cần làm trước."
+    }
+   ]
+  }
+ ],
+ "paceGuide": [
+  {
+   "part": "Part 5",
+   "n": 30,
+   "min": 11
+  },
+  {
+   "part": "Part 6",
+   "n": 16,
+   "min": 8
+  },
+  {
+   "part": "Part 7 single",
+   "n": 29,
+   "min": 26
+  },
+  {
+   "part": "Part 7 double + triple",
+   "n": 25,
+   "min": 28
+  }
+ ]
+}

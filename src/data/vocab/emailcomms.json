@@ -1,0 +1,1139 @@
+{
+ "topic": "Viết email & giao tiếp công sở",
+ "words": [
+  {
+   "id": "em001",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "correspondence",
+   "ipa": "/ˌkɒrəˈspɒndəns/",
+   "pos": "n",
+   "vi": "thư từ",
+   "ex": "All correspondence is kept on file.",
+   "exVi": "Mọi thư từ được lưu vào hồ sơ.",
+   "col": [
+    "correspondence",
+    "business correspondence"
+   ]
+  },
+  {
+   "id": "em002",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "memo",
+   "ipa": "/ˈmeməʊ/",
+   "pos": "n",
+   "vi": "bản ghi nhớ",
+   "ex": "A short memo announced the change.",
+   "exVi": "Một bản ghi nhớ ngắn thông báo sự thay đổi.",
+   "col": [
+    "a memo",
+    "an internal memo"
+   ]
+  },
+  {
+   "id": "em003",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "attachment",
+   "ipa": "/əˈtætʃmənt/",
+   "pos": "n",
+   "vi": "tệp đính kèm",
+   "ex": "Please see the attachment for details.",
+   "exVi": "Vui lòng xem tệp đính kèm để biết chi tiết.",
+   "col": [
+    "an attachment",
+    "an email attachment"
+   ]
+  },
+  {
+   "id": "em004",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "recipient",
+   "ipa": "/rɪˈsɪpiənt/",
+   "pos": "n",
+   "vi": "người nhận",
+   "ex": "The recipient replied within an hour.",
+   "exVi": "Người nhận trả lời trong một giờ.",
+   "col": [
+    "a recipient",
+    "the intended recipient"
+   ]
+  },
+  {
+   "id": "em005",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "sender",
+   "ipa": "/ˈsendə/",
+   "pos": "n",
+   "vi": "người gửi",
+   "ex": "The sender's name appears at the top.",
+   "exVi": "Tên người gửi xuất hiện ở đầu.",
+   "col": [
+    "a sender",
+    "the sender's address"
+   ]
+  },
+  {
+   "id": "em006",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "subject line",
+   "ipa": "/ˈsʌbdʒɪkt laɪn/",
+   "pos": "n",
+   "vi": "dòng chủ đề",
+   "ex": "A clear subject line helps the reader.",
+   "exVi": "Một dòng chủ đề rõ ràng giúp người đọc.",
+   "col": [
+    "a subject line",
+    "a clear subject line"
+   ]
+  },
+  {
+   "id": "em007",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "greeting",
+   "ipa": "/ˈɡriːtɪŋ/",
+   "pos": "n",
+   "vi": "lời chào",
+   "ex": "A polite greeting opens the email.",
+   "exVi": "Một lời chào lịch sự mở đầu email.",
+   "col": [
+    "a greeting",
+    "a polite greeting"
+   ]
+  },
+  {
+   "id": "em008",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "salutation",
+   "ipa": "/ˌsæljuˈteɪʃn/",
+   "pos": "n",
+   "vi": "lời xưng hô mở đầu",
+   "ex": "The salutation should match the tone.",
+   "exVi": "Lời xưng hô mở đầu nên hợp với giọng điệu.",
+   "col": [
+    "a salutation",
+    "a formal salutation"
+   ]
+  },
+  {
+   "id": "em009",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "signature",
+   "ipa": "/ˈsɪɡnətʃə/",
+   "pos": "n",
+   "vi": "chữ ký cuối thư",
+   "ex": "The signature includes a job title.",
+   "exVi": "Chữ ký cuối thư gồm một chức danh.",
+   "col": [
+    "a signature",
+    "an email signature"
+   ]
+  },
+  {
+   "id": "em010",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "enclosure",
+   "ipa": "/ɪnˈkləʊʒə/",
+   "pos": "n",
+   "vi": "tài liệu kèm theo",
+   "ex": "The enclosure lists the full terms.",
+   "exVi": "Tài liệu kèm theo liệt kê đầy đủ điều khoản.",
+   "col": [
+    "an enclosure",
+    "see the enclosure"
+   ]
+  },
+  {
+   "id": "em011",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "draft",
+   "ipa": "/drɑːft/",
+   "pos": "n",
+   "vi": "bản nháp",
+   "ex": "The draft was reviewed before sending.",
+   "exVi": "Bản nháp được rà soát trước khi gửi.",
+   "col": [
+    "a draft",
+    "a first draft"
+   ]
+  },
+  {
+   "id": "em012",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "reply",
+   "ipa": "/rɪˈplaɪ/",
+   "pos": "n",
+   "vi": "thư trả lời",
+   "ex": "A prompt reply was appreciated.",
+   "exVi": "Một thư trả lời nhanh được đánh giá cao.",
+   "col": [
+    "a reply",
+    "a quick reply"
+   ]
+  },
+  {
+   "id": "em013",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "follow-up",
+   "ipa": "/ˈfɒləʊ ʌp/",
+   "pos": "n",
+   "vi": "thư theo dõi",
+   "ex": "A follow-up was sent a week later.",
+   "exVi": "Một thư theo dõi được gửi một tuần sau.",
+   "col": [
+    "a follow-up",
+    "a follow-up email"
+   ]
+  },
+  {
+   "id": "em014",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "inquiry",
+   "ipa": "/ɪnˈkwaɪəri/",
+   "pos": "n",
+   "vi": "thư hỏi thông tin",
+   "ex": "The inquiry asked about the price.",
+   "exVi": "Thư hỏi thông tin hỏi về giá.",
+   "col": [
+    "an inquiry",
+    "a customer inquiry"
+   ]
+  },
+  {
+   "id": "em015",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "notification",
+   "ipa": "/ˌnəʊtɪfɪˈkeɪʃn/",
+   "pos": "n",
+   "vi": "thông báo",
+   "ex": "A notification confirmed the booking.",
+   "exVi": "Một thông báo xác nhận việc đặt chỗ.",
+   "col": [
+    "a notification",
+    "an email notification"
+   ]
+  },
+  {
+   "id": "em016",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "acknowledgment",
+   "ipa": "/əkˈnɒlɪdʒmənt/",
+   "pos": "n",
+   "vi": "thư xác nhận",
+   "ex": "An acknowledgment was sent on receipt.",
+   "exVi": "Một thư xác nhận được gửi khi nhận được.",
+   "col": [
+    "an acknowledgment",
+    "a written acknowledgment"
+   ]
+  },
+  {
+   "id": "em017",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "compose",
+   "ipa": "/kəmˈpəʊz/",
+   "pos": "v",
+   "vi": "soạn",
+   "ex": "She composed a clear and short email.",
+   "exVi": "Bà soạn một email rõ ràng và ngắn.",
+   "col": [
+    "compose",
+    "compose a message"
+   ]
+  },
+  {
+   "id": "em018",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "forward",
+   "ipa": "/ˈfɔːwəd/",
+   "pos": "v",
+   "vi": "chuyển tiếp",
+   "ex": "Please forward the note to the team.",
+   "exVi": "Vui lòng chuyển tiếp ghi chú tới nhóm.",
+   "col": [
+    "forward",
+    "forward an email"
+   ]
+  },
+  {
+   "id": "em019",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "attach",
+   "ipa": "/əˈtætʃ/",
+   "pos": "v",
+   "vi": "đính kèm",
+   "ex": "Please attach the report to the email.",
+   "exVi": "Vui lòng đính kèm báo cáo vào email.",
+   "col": [
+    "attach",
+    "attach a file"
+   ]
+  },
+  {
+   "id": "em020",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "enclose",
+   "ipa": "/ɪnˈkləʊz/",
+   "pos": "v",
+   "vi": "đính kèm (thư)",
+   "ex": "I enclose a copy of the invoice.",
+   "exVi": "Tôi đính kèm một bản sao hoá đơn.",
+   "col": [
+    "enclose",
+    "enclose a document"
+   ]
+  },
+  {
+   "id": "em021",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "notify",
+   "ipa": "/ˈnəʊtɪfaɪ/",
+   "pos": "v",
+   "vi": "thông báo",
+   "ex": "Please notify us of any change.",
+   "exVi": "Vui lòng thông báo cho chúng tôi về bất kỳ thay đổi nào.",
+   "col": [
+    "notify",
+    "notify staff"
+   ]
+  },
+  {
+   "id": "em022",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "acknowledge",
+   "ipa": "/əkˈnɒlɪdʒ/",
+   "pos": "v",
+   "vi": "xác nhận đã nhận",
+   "ex": "Please acknowledge receipt of the file.",
+   "exVi": "Vui lòng xác nhận đã nhận tệp.",
+   "col": [
+    "acknowledge",
+    "acknowledge receipt"
+   ]
+  },
+  {
+   "id": "em023",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "address",
+   "ipa": "/əˈdres/",
+   "pos": "v",
+   "vi": "gửi đến, xử lý",
+   "ex": "The letter was addressed to the manager.",
+   "exVi": "Lá thư được gửi đến quản lý.",
+   "col": [
+    "address",
+    "address a letter"
+   ]
+  },
+  {
+   "id": "em024",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "proofread",
+   "ipa": "/ˈpruːfriːd/",
+   "pos": "v",
+   "vi": "đọc soát lỗi",
+   "ex": "Please proofread the email before sending.",
+   "exVi": "Vui lòng đọc soát lỗi email trước khi gửi.",
+   "col": [
+    "proofread",
+    "proofread a draft"
+   ]
+  },
+  {
+   "id": "em025",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "clarify",
+   "ipa": "/ˈklærɪfaɪ/",
+   "pos": "v",
+   "vi": "làm rõ",
+   "ex": "The reply clarified the earlier point.",
+   "exVi": "Thư trả lời làm rõ điểm trước đó.",
+   "col": [
+    "clarify",
+    "clarify a point"
+   ]
+  },
+  {
+   "id": "em026",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "confirm",
+   "ipa": "/kənˈfɜːm/",
+   "pos": "v",
+   "vi": "xác nhận",
+   "ex": "Please confirm the meeting time.",
+   "exVi": "Vui lòng xác nhận giờ họp.",
+   "col": [
+    "confirm",
+    "confirm a booking"
+   ]
+  },
+  {
+   "id": "em027",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "request",
+   "ipa": "/rɪˈkwest/",
+   "pos": "v",
+   "vi": "yêu cầu",
+   "ex": "The email requested a quick reply.",
+   "exVi": "Email yêu cầu một thư trả lời nhanh.",
+   "col": [
+    "request",
+    "request information"
+   ]
+  },
+  {
+   "id": "em028",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "formal",
+   "ipa": "/ˈfɔːml/",
+   "pos": "adj",
+   "vi": "trang trọng",
+   "ex": "A formal tone suits a first email.",
+   "exVi": "Một giọng điệu trang trọng hợp với email đầu tiên.",
+   "col": [
+    "formal",
+    "a formal tone"
+   ]
+  },
+  {
+   "id": "em029",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "informal",
+   "ipa": "/ɪnˈfɔːml/",
+   "pos": "adj",
+   "vi": "thân mật",
+   "ex": "An informal note suits a close colleague.",
+   "exVi": "Một ghi chú thân mật hợp với một đồng nghiệp thân.",
+   "col": [
+    "informal",
+    "an informal message"
+   ]
+  },
+  {
+   "id": "em030",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "concise",
+   "ipa": "/kənˈsaɪs/",
+   "pos": "adj",
+   "vi": "súc tích",
+   "ex": "Keep the email clear and concise.",
+   "exVi": "Giữ email rõ ràng và súc tích.",
+   "col": [
+    "concise",
+    "clear and concise"
+   ]
+  },
+  {
+   "id": "em031",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "courteous",
+   "ipa": "/ˈkɜːtiəs/",
+   "pos": "adj",
+   "vi": "nhã nhặn",
+   "ex": "A courteous reply keeps the tone warm.",
+   "exVi": "Một thư trả lời nhã nhặn giữ giọng điệu ấm áp.",
+   "col": [
+    "courteous",
+    "a courteous reply"
+   ]
+  },
+  {
+   "id": "em032",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "prompt",
+   "ipa": "/prɒmpt/",
+   "pos": "adj",
+   "vi": "nhanh chóng",
+   "ex": "A prompt reply shows respect.",
+   "exVi": "Một thư trả lời nhanh thể hiện sự tôn trọng.",
+   "col": [
+    "prompt",
+    "a prompt reply"
+   ]
+  },
+  {
+   "id": "em033",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "professional",
+   "ipa": "/prəˈfeʃənl/",
+   "pos": "adj",
+   "vi": "chuyên nghiệp",
+   "ex": "The email had a professional tone.",
+   "exVi": "Email có một giọng điệu chuyên nghiệp.",
+   "col": [
+    "professional",
+    "a professional tone"
+   ]
+  },
+  {
+   "id": "em034",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "legible",
+   "ipa": "/ˈledʒəbl/",
+   "pos": "adj",
+   "vi": "dễ đọc",
+   "ex": "Keep the handwriting neat and legible.",
+   "exVi": "Giữ chữ viết gọn và dễ đọc.",
+   "col": [
+    "legible",
+    "clearly legible"
+   ]
+  },
+  {
+   "id": "em035",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "verbose",
+   "ipa": "/vɜːˈbəʊs/",
+   "pos": "adj",
+   "vi": "dài dòng",
+   "ex": "A verbose email loses the reader.",
+   "exVi": "Một email dài dòng làm mất người đọc.",
+   "col": [
+    "verbose",
+    "a verbose reply"
+   ]
+  },
+  {
+   "id": "em036",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "tone",
+   "ipa": "/təʊn/",
+   "pos": "n",
+   "vi": "giọng điệu",
+   "ex": "A warm tone builds a good relationship.",
+   "exVi": "Một giọng điệu ấm áp xây dựng một mối quan hệ tốt.",
+   "col": [
+    "tone",
+    "a warm tone"
+   ]
+  },
+  {
+   "id": "em037",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "etiquette",
+   "ipa": "/ˈetɪket/",
+   "pos": "n",
+   "vi": "phép lịch sự",
+   "ex": "Email etiquette matters at work.",
+   "exVi": "Phép lịch sự trong email quan trọng tại nơi làm.",
+   "col": [
+    "etiquette",
+    "email etiquette"
+   ]
+  },
+  {
+   "id": "em038",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "disclaimer",
+   "ipa": "/dɪsˈkleɪmə/",
+   "pos": "n",
+   "vi": "tuyên bố miễn trừ",
+   "ex": "A disclaimer appears at the end of the email.",
+   "exVi": "Một tuyên bố miễn trừ xuất hiện ở cuối email.",
+   "col": [
+    "a disclaimer",
+    "a legal disclaimer"
+   ]
+  },
+  {
+   "id": "em039",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "template",
+   "ipa": "/ˈtempleɪt/",
+   "pos": "n",
+   "vi": "mẫu có sẵn",
+   "ex": "The team uses a template for replies.",
+   "exVi": "Nhóm dùng một mẫu có sẵn cho các thư trả lời.",
+   "col": [
+    "a template",
+    "an email template"
+   ]
+  },
+  {
+   "id": "em040",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "autoreply",
+   "ipa": "/ˈɔːtəʊrɪplaɪ/",
+   "pos": "n",
+   "vi": "thư trả lời tự động",
+   "ex": "An autoreply covers the holiday period.",
+   "exVi": "Một thư trả lời tự động phủ kỳ nghỉ.",
+   "col": [
+    "an autoreply",
+    "an autoreply message"
+   ]
+  },
+  {
+   "id": "em041",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "communication",
+   "ipa": "/kəˌmjuːnɪˈkeɪʃn/",
+   "pos": "n",
+   "vi": "giao tiếp",
+   "ex": "Clear communication avoids mistakes.",
+   "exVi": "Giao tiếp rõ ràng tránh sai sót.",
+   "col": [
+    "communication",
+    "clear communication"
+   ]
+  },
+  {
+   "id": "em042",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "message",
+   "ipa": "/ˈmesɪdʒ/",
+   "pos": "n",
+   "vi": "tin nhắn",
+   "ex": "The message reached the team quickly.",
+   "exVi": "Tin nhắn tới nhóm nhanh chóng.",
+   "col": [
+    "a message",
+    "a short message"
+   ]
+  },
+  {
+   "id": "em043",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "memorandum",
+   "ipa": "/ˌmeməˈrændəm/",
+   "pos": "n",
+   "vi": "bản ghi nhớ",
+   "ex": "A memorandum set out the new rules.",
+   "exVi": "Một bản ghi nhớ trình bày các quy tắc mới.",
+   "col": [
+    "a memorandum",
+    "an internal memorandum"
+   ]
+  },
+  {
+   "id": "em044",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "circular",
+   "ipa": "/ˈsɜːkjələ/",
+   "pos": "n",
+   "vi": "thông báo lưu hành",
+   "ex": "A circular was sent to all staff.",
+   "exVi": "Một thông báo lưu hành được gửi tới toàn bộ nhân viên.",
+   "col": [
+    "a circular",
+    "an office circular"
+   ]
+  },
+  {
+   "id": "em045",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "bulletin",
+   "ipa": "/ˈbʊlətɪn/",
+   "pos": "n",
+   "vi": "bản tin nội bộ",
+   "ex": "The weekly bulletin lists key news.",
+   "exVi": "Bản tin hằng tuần liệt kê tin quan trọng.",
+   "col": [
+    "a bulletin",
+    "a weekly bulletin"
+   ]
+  },
+  {
+   "id": "em046",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "announcement",
+   "ipa": "/əˈnaʊnsmənt/",
+   "pos": "n",
+   "vi": "thông báo",
+   "ex": "An announcement confirmed the date.",
+   "exVi": "Một thông báo xác nhận ngày.",
+   "col": [
+    "an announcement",
+    "a formal announcement"
+   ]
+  },
+  {
+   "id": "em047",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "briefing",
+   "ipa": "/ˈbriːfɪŋ/",
+   "pos": "n",
+   "vi": "buổi phổ biến",
+   "ex": "A short briefing opened the day.",
+   "exVi": "Một buổi phổ biến ngắn mở đầu ngày.",
+   "col": [
+    "a briefing",
+    "a morning briefing"
+   ]
+  },
+  {
+   "id": "em048",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "minutes",
+   "ipa": "/ˈmɪnɪts/",
+   "pos": "n",
+   "vi": "biên bản họp",
+   "ex": "The minutes were shared after the meeting.",
+   "exVi": "Biên bản họp được chia sẻ sau cuộc họp.",
+   "col": [
+    "the minutes",
+    "take the minutes"
+   ]
+  },
+  {
+   "id": "em049",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "agenda",
+   "ipa": "/əˈdʒendə/",
+   "pos": "n",
+   "vi": "chương trình nghị sự",
+   "ex": "The agenda listed five topics.",
+   "exVi": "Chương trình nghị sự liệt kê năm chủ đề.",
+   "col": [
+    "an agenda",
+    "a meeting agenda"
+   ]
+  },
+  {
+   "id": "em050",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "memo trail",
+   "ipa": "/ˈmeməʊ treɪl/",
+   "pos": "n",
+   "vi": "chuỗi ghi nhớ",
+   "ex": "A clear memo trail records each step.",
+   "exVi": "Một chuỗi ghi nhớ rõ ràng ghi lại mỗi bước.",
+   "col": [
+    "a memo trail",
+    "a clear memo trail"
+   ]
+  },
+  {
+   "id": "em051",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "directive",
+   "ipa": "/dɪˈrektɪv/",
+   "pos": "n",
+   "vi": "chỉ thị",
+   "ex": "A new directive set out the process.",
+   "exVi": "Một chỉ thị mới trình bày quy trình.",
+   "col": [
+    "a directive",
+    "a company directive"
+   ]
+  },
+  {
+   "id": "em052",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "instruction",
+   "ipa": "/ɪnˈstrʌkʃn/",
+   "pos": "n",
+   "vi": "chỉ dẫn",
+   "ex": "The email gave clear instructions.",
+   "exVi": "Email đưa ra chỉ dẫn rõ ràng.",
+   "col": [
+    "instructions",
+    "clear instructions"
+   ]
+  },
+  {
+   "id": "em053",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "clarification",
+   "ipa": "/ˌklærɪfɪˈkeɪʃn/",
+   "pos": "n",
+   "vi": "sự làm rõ",
+   "ex": "The reply gave useful clarification.",
+   "exVi": "Thư trả lời cung cấp sự làm rõ hữu ích.",
+   "col": [
+    "clarification",
+    "seek clarification"
+   ]
+  },
+  {
+   "id": "em054",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "confirmation",
+   "ipa": "/ˌkɒnfəˈmeɪʃn/",
+   "pos": "n",
+   "vi": "sự xác nhận",
+   "ex": "A confirmation was sent by email.",
+   "exVi": "Một xác nhận được gửi qua email.",
+   "col": [
+    "confirmation",
+    "written confirmation"
+   ]
+  },
+  {
+   "id": "em055",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "reminder",
+   "ipa": "/rɪˈmaɪndə/",
+   "pos": "n",
+   "vi": "lời nhắc",
+   "ex": "A reminder was sent before the deadline.",
+   "exVi": "Một lời nhắc được gửi trước hạn chót.",
+   "col": [
+    "a reminder",
+    "a gentle reminder"
+   ]
+  },
+  {
+   "id": "em056",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "apology",
+   "ipa": "/əˈpɒlədʒi/",
+   "pos": "n",
+   "vi": "lời xin lỗi",
+   "ex": "The email included a brief apology.",
+   "exVi": "Email bao gồm một lời xin lỗi ngắn.",
+   "col": [
+    "an apology",
+    "a formal apology"
+   ]
+  },
+  {
+   "id": "em057",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "complaint",
+   "ipa": "/kəmˈpleɪnt/",
+   "pos": "n",
+   "vi": "lời phàn nàn",
+   "ex": "The complaint was handled the same day.",
+   "exVi": "Lời phàn nàn được xử lý trong cùng ngày.",
+   "col": [
+    "a complaint",
+    "a formal complaint"
+   ]
+  },
+  {
+   "id": "em058",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "feedback",
+   "ipa": "/ˈfiːdbæk/",
+   "pos": "n",
+   "vi": "phản hồi",
+   "ex": "The email asked for honest feedback.",
+   "exVi": "Email đề nghị phản hồi trung thực.",
+   "col": [
+    "feedback",
+    "honest feedback"
+   ]
+  },
+  {
+   "id": "em059",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "liaise",
+   "ipa": "/liˈeɪz/",
+   "pos": "v",
+   "vi": "phối hợp",
+   "ex": "The teams liaise by email each day.",
+   "exVi": "Các nhóm phối hợp qua email mỗi ngày.",
+   "col": [
+    "liaise",
+    "liaise with"
+   ]
+  },
+  {
+   "id": "em060",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "correspond",
+   "ipa": "/ˌkɒrəˈspɒnd/",
+   "pos": "v",
+   "vi": "trao đổi thư từ",
+   "ex": "The two offices correspond weekly.",
+   "exVi": "Hai văn phòng trao đổi thư từ hằng tuần.",
+   "col": [
+    "correspond",
+    "correspond with"
+   ]
+  },
+  {
+   "id": "em061",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "convey",
+   "ipa": "/kənˈveɪ/",
+   "pos": "v",
+   "vi": "truyền đạt",
+   "ex": "The note conveyed the main points.",
+   "exVi": "Ghi chú truyền đạt các điểm chính.",
+   "col": [
+    "convey",
+    "convey a message"
+   ]
+  },
+  {
+   "id": "em062",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "relay",
+   "ipa": "/rɪˈleɪ/",
+   "pos": "v",
+   "vi": "chuyển tiếp thông tin",
+   "ex": "Please relay the news to the team.",
+   "exVi": "Vui lòng chuyển tiếp tin cho nhóm.",
+   "col": [
+    "relay",
+    "relay information"
+   ]
+  },
+  {
+   "id": "em063",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "circulate",
+   "ipa": "/ˈsɜːkjəleɪt/",
+   "pos": "v",
+   "vi": "lưu hành",
+   "ex": "The memo was circulated to all staff.",
+   "exVi": "Bản ghi nhớ được lưu hành tới toàn bộ nhân viên.",
+   "col": [
+    "circulate",
+    "circulate a document"
+   ]
+  },
+  {
+   "id": "em064",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "distribute",
+   "ipa": "/dɪˈstrɪbjuːt/",
+   "pos": "v",
+   "vi": "phân phát",
+   "ex": "The agenda was distributed before the meeting.",
+   "exVi": "Chương trình nghị sự được phân phát trước cuộc họp.",
+   "col": [
+    "distribute",
+    "distribute copies"
+   ]
+  },
+  {
+   "id": "em065",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "summarize",
+   "ipa": "/ˈsʌməraɪz/",
+   "pos": "v",
+   "vi": "tóm tắt",
+   "ex": "The email summarized the decision.",
+   "exVi": "Email tóm tắt quyết định.",
+   "col": [
+    "summarize",
+    "summarize a report"
+   ]
+  },
+  {
+   "id": "em066",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "outline",
+   "ipa": "/ˈaʊtlaɪn/",
+   "pos": "v",
+   "vi": "phác thảo",
+   "ex": "The memo outlined the next steps.",
+   "exVi": "Bản ghi nhớ phác thảo các bước tiếp theo.",
+   "col": [
+    "outline",
+    "outline a plan"
+   ]
+  },
+  {
+   "id": "em067",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "brief",
+   "ipa": "/briːf/",
+   "pos": "v",
+   "vi": "thông báo tóm tắt",
+   "ex": "The manager briefed the team by email.",
+   "exVi": "Quản lý thông báo tóm tắt cho nhóm qua email.",
+   "col": [
+    "brief",
+    "brief the team"
+   ]
+  },
+  {
+   "id": "em068",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "respond",
+   "ipa": "/rɪˈspɒnd/",
+   "pos": "v",
+   "vi": "phản hồi",
+   "ex": "She responded to the email promptly.",
+   "exVi": "Bà phản hồi email nhanh chóng.",
+   "col": [
+    "respond",
+    "respond to"
+   ]
+  },
+  {
+   "id": "em069",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "escalate",
+   "ipa": "/ˈeskəleɪt/",
+   "pos": "v",
+   "vi": "báo lên cấp trên",
+   "ex": "The issue was escalated by email.",
+   "exVi": "Vấn đề được báo lên cấp trên qua email.",
+   "col": [
+    "escalate",
+    "escalate an issue"
+   ]
+  },
+  {
+   "id": "em070",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "timely",
+   "ipa": "/ˈtaɪmli/",
+   "pos": "adj",
+   "vi": "kịp thời",
+   "ex": "A timely reply solved the problem.",
+   "exVi": "Một thư trả lời kịp thời giải quyết vấn đề.",
+   "col": [
+    "timely",
+    "a timely response"
+   ]
+  },
+  {
+   "id": "em071",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "succinct",
+   "ipa": "/səkˈsɪŋkt/",
+   "pos": "adj",
+   "vi": "ngắn gọn",
+   "ex": "Keep each email succinct and clear.",
+   "exVi": "Giữ mỗi email ngắn gọn và rõ ràng.",
+   "col": [
+    "succinct",
+    "a succinct message"
+   ]
+  },
+  {
+   "id": "em072",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "coherent",
+   "ipa": "/kəʊˈhɪərənt/",
+   "pos": "adj",
+   "vi": "mạch lạc",
+   "ex": "A coherent email is easy to follow.",
+   "exVi": "Một email mạch lạc dễ theo dõi.",
+   "col": [
+    "coherent",
+    "a coherent message"
+   ]
+  },
+  {
+   "id": "em073",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "tactful",
+   "ipa": "/ˈtæktfl/",
+   "pos": "adj",
+   "vi": "khéo léo",
+   "ex": "A tactful reply avoided any offense.",
+   "exVi": "Một thư trả lời khéo léo tránh gây mất lòng.",
+   "col": [
+    "tactful",
+    "a tactful reply"
+   ]
+  },
+  {
+   "id": "em074",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "diplomatic",
+   "ipa": "/ˌdɪpləˈmætɪk/",
+   "pos": "adj",
+   "vi": "khéo ngoại giao",
+   "ex": "A diplomatic tone kept the peace.",
+   "exVi": "Một giọng điệu khéo ngoại giao giữ hoà khí.",
+   "col": [
+    "diplomatic",
+    "a diplomatic reply"
+   ]
+  },
+  {
+   "id": "em075",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "respectful",
+   "ipa": "/rɪˈspektfl/",
+   "pos": "adj",
+   "vi": "tôn trọng",
+   "ex": "The email kept a respectful tone.",
+   "exVi": "Email giữ một giọng điệu tôn trọng.",
+   "col": [
+    "respectful",
+    "a respectful tone"
+   ]
+  },
+  {
+   "id": "em076",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "articulate",
+   "ipa": "/ɑːˈtɪkjulət/",
+   "pos": "adj",
+   "vi": "rõ ràng, mạch lạc",
+   "ex": "An articulate email states the point well.",
+   "exVi": "Một email rõ ràng nêu ý tốt.",
+   "col": [
+    "articulate",
+    "an articulate message"
+   ]
+  },
+  {
+   "id": "em077",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "comprehensive",
+   "ipa": "/ˌkɒmprɪˈhensɪv/",
+   "pos": "adj",
+   "vi": "toàn diện",
+   "ex": "A comprehensive reply covered every question.",
+   "exVi": "Một thư trả lời toàn diện bao gồm mọi câu hỏi.",
+   "col": [
+    "comprehensive",
+    "a comprehensive reply"
+   ]
+  },
+  {
+   "id": "em078",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "brevity",
+   "ipa": "/ˈbrevəti/",
+   "pos": "n",
+   "vi": "tính ngắn gọn",
+   "ex": "Brevity keeps an email easy to read.",
+   "exVi": "Tính ngắn gọn giữ một email dễ đọc.",
+   "col": [
+    "brevity",
+    "brevity matters"
+   ]
+  },
+  {
+   "id": "em079",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "readability",
+   "ipa": "/ˌriːdəˈbɪləti/",
+   "pos": "n",
+   "vi": "tính dễ đọc",
+   "ex": "Short lines improve readability.",
+   "exVi": "Câu ngắn cải thiện tính dễ đọc.",
+   "col": [
+    "readability",
+    "good readability"
+   ]
+  },
+  {
+   "id": "em080",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "courtesy",
+   "ipa": "/ˈkɜːtəsi/",
+   "pos": "n",
+   "vi": "sự nhã nhặn",
+   "ex": "A note of courtesy softens the message.",
+   "exVi": "Một lời nhã nhặn làm dịu thông điệp.",
+   "col": [
+    "courtesy",
+    "common courtesy"
+   ]
+  },
+  {
+   "id": "em081",
+   "topic": "Viết email & giao tiếp công sở",
+   "w": "dispatch",
+   "ipa": "/dɪˈspætʃ/",
+   "pos": "v",
+   "vi": "gửi đi",
+   "ex": "The memo was dispatched to all branches.",
+   "exVi": "Bản ghi nhớ được gửi đi tới mọi chi nhánh.",
+   "col": [
+    "dispatch",
+    "dispatch a message"
+   ]
+  }
+ ]
+}

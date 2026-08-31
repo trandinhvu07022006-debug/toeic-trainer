@@ -1,0 +1,1223 @@
+{
+ "topic": "Nông nghiệp & thực phẩm",
+ "words": [
+  {
+   "id": "ag001",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "agriculture",
+   "ipa": "/ˈæɡrɪkʌltʃə/",
+   "pos": "n",
+   "vi": "nông nghiệp",
+   "ex": "Agriculture remains the region's main industry.",
+   "exVi": "Nông nghiệp vẫn là ngành chính của khu vực.",
+   "col": [
+    "modern agriculture",
+    "sustainable agriculture"
+   ]
+  },
+  {
+   "id": "ag002",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "farming",
+   "ipa": "/ˈfɑːmɪŋ/",
+   "pos": "n",
+   "vi": "việc canh tác",
+   "ex": "Organic farming has grown across the country.",
+   "exVi": "Canh tác hữu cơ đã phát triển khắp cả nước.",
+   "col": [
+    "organic farming",
+    "dairy farming"
+   ]
+  },
+  {
+   "id": "ag003",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "cultivate",
+   "ipa": "/ˈkʌltɪveɪt/",
+   "pos": "v",
+   "vi": "trồng trọt",
+   "ex": "Farmers cultivate rice in the flooded fields.",
+   "exVi": "Nông dân trồng lúa trên các cánh đồng ngập nước.",
+   "col": [
+    "cultivate crops",
+    "cultivate land"
+   ]
+  },
+  {
+   "id": "ag004",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "harvest",
+   "ipa": "/ˈhɑːvɪst/",
+   "pos": "n, v",
+   "vi": "thu hoạch",
+   "ex": "The wheat harvest was strong this year.",
+   "exVi": "Vụ thu hoạch lúa mì bội thu năm nay.",
+   "col": [
+    "the harvest",
+    "a good harvest"
+   ]
+  },
+  {
+   "id": "ag005",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "crop",
+   "ipa": "/krɒp/",
+   "pos": "n",
+   "vi": "cây trồng, vụ mùa",
+   "ex": "The main crop in this area is maize.",
+   "exVi": "Cây trồng chính ở vùng này là ngô.",
+   "col": [
+    "a cash crop",
+    "a failed crop"
+   ]
+  },
+  {
+   "id": "ag006",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "yield",
+   "ipa": "/jiːld/",
+   "pos": "n",
+   "vi": "sản lượng",
+   "ex": "Better seeds raised the yield per acre.",
+   "exVi": "Hạt giống tốt hơn nâng sản lượng mỗi mẫu.",
+   "col": [
+    "a high yield",
+    "improve yield"
+   ]
+  },
+  {
+   "id": "ag007",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "irrigation",
+   "ipa": "/ˌɪrɪˈɡeɪʃn/",
+   "pos": "n",
+   "vi": "thuỷ lợi, tưới tiêu",
+   "ex": "An efficient irrigation system saves water.",
+   "exVi": "Một hệ thống tưới tiêu hiệu quả tiết kiệm nước.",
+   "col": [
+    "an irrigation system",
+    "drip irrigation"
+   ]
+  },
+  {
+   "id": "ag008",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "fertilizer",
+   "ipa": "/ˈfɜːtəlaɪzə/",
+   "pos": "n",
+   "vi": "phân bón",
+   "ex": "The farmer spread fertilizer before planting.",
+   "exVi": "Nông dân rải phân bón trước khi gieo trồng.",
+   "col": [
+    "apply fertilizer",
+    "organic fertilizer"
+   ]
+  },
+  {
+   "id": "ag009",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "pesticide",
+   "ipa": "/ˈpestɪsaɪd/",
+   "pos": "n",
+   "vi": "thuốc trừ sâu",
+   "ex": "Careful pesticide use protects the harvest.",
+   "exVi": "Việc dùng thuốc trừ sâu cẩn thận bảo vệ mùa màng.",
+   "col": [
+    "use pesticide",
+    "a chemical pesticide"
+   ]
+  },
+  {
+   "id": "ag010",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "livestock",
+   "ipa": "/ˈlaɪvstɒk/",
+   "pos": "n",
+   "vi": "gia súc",
+   "ex": "The farm raises livestock and grows grain.",
+   "exVi": "Trang trại nuôi gia súc và trồng ngũ cốc.",
+   "col": [
+    "raise livestock",
+    "livestock farming"
+   ]
+  },
+  {
+   "id": "ag011",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "poultry",
+   "ipa": "/ˈpəʊltri/",
+   "pos": "n",
+   "vi": "gia cầm",
+   "ex": "The poultry farm supplies eggs to local shops.",
+   "exVi": "Trang trại gia cầm cung cấp trứng cho cửa hàng địa phương.",
+   "col": [
+    "a poultry farm",
+    "poultry products"
+   ]
+  },
+  {
+   "id": "ag012",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "dairy",
+   "ipa": "/ˈdeəri/",
+   "pos": "n",
+   "vi": "sản phẩm bơ sữa",
+   "ex": "The dairy processes milk from fifty cows.",
+   "exVi": "Xưởng bơ sữa chế biến sữa từ năm mươi con bò.",
+   "col": [
+    "a dairy farm",
+    "dairy products"
+   ]
+  },
+  {
+   "id": "ag013",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "produce",
+   "ipa": "/ˈprɒdjuːs/",
+   "pos": "n",
+   "vi": "nông sản",
+   "ex": "Fresh produce is sold at the weekend market.",
+   "exVi": "Nông sản tươi được bán ở chợ cuối tuần.",
+   "col": [
+    "fresh produce",
+    "local produce"
+   ]
+  },
+  {
+   "id": "ag014",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "grain",
+   "ipa": "/ɡreɪn/",
+   "pos": "n",
+   "vi": "ngũ cốc",
+   "ex": "Grain is stored in large silos.",
+   "exVi": "Ngũ cốc được trữ trong các xi lô lớn.",
+   "col": [
+    "store grain",
+    "a grain harvest"
+   ]
+  },
+  {
+   "id": "ag015",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "seed",
+   "ipa": "/siːd/",
+   "pos": "n",
+   "vi": "hạt giống",
+   "ex": "High-quality seed improves the crop.",
+   "exVi": "Hạt giống chất lượng cao cải thiện mùa màng.",
+   "col": [
+    "plant seed",
+    "a seed variety"
+   ]
+  },
+  {
+   "id": "ag016",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "soil",
+   "ipa": "/sɔɪl/",
+   "pos": "n",
+   "vi": "đất trồng",
+   "ex": "Rich soil produces a healthy crop.",
+   "exVi": "Đất màu mỡ cho một vụ mùa khoẻ mạnh.",
+   "col": [
+    "fertile soil",
+    "rich soil"
+   ]
+  },
+  {
+   "id": "ag017",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "plantation",
+   "ipa": "/plɑːnˈteɪʃn/",
+   "pos": "n",
+   "vi": "đồn điền",
+   "ex": "The tea plantation covers the hillside.",
+   "exVi": "Đồn điền chè phủ kín sườn đồi.",
+   "col": [
+    "a tea plantation",
+    "a coffee plantation"
+   ]
+  },
+  {
+   "id": "ag018",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "orchard",
+   "ipa": "/ˈɔːtʃəd/",
+   "pos": "n",
+   "vi": "vườn cây ăn quả",
+   "ex": "The apple orchard blooms in early spring.",
+   "exVi": "Vườn táo nở hoa vào đầu xuân.",
+   "col": [
+    "an apple orchard",
+    "a fruit orchard"
+   ]
+  },
+  {
+   "id": "ag019",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "greenhouse",
+   "ipa": "/ˈɡriːnhaʊs/",
+   "pos": "n",
+   "vi": "nhà kính",
+   "ex": "Tomatoes grow in the greenhouse all year.",
+   "exVi": "Cà chua mọc trong nhà kính quanh năm.",
+   "col": [
+    "a greenhouse",
+    "grow in a greenhouse"
+   ]
+  },
+  {
+   "id": "ag020",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "acreage",
+   "ipa": "/ˈeɪkərɪdʒ/",
+   "pos": "n",
+   "vi": "diện tích canh tác",
+   "ex": "The farm increased its acreage last year.",
+   "exVi": "Trang trại tăng diện tích canh tác năm ngoái.",
+   "col": [
+    "the acreage",
+    "a large acreage"
+   ]
+  },
+  {
+   "id": "ag021",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "cattle",
+   "ipa": "/ˈkætl/",
+   "pos": "n",
+   "vi": "đàn bò",
+   "ex": "The cattle graze in the open field.",
+   "exVi": "Đàn bò gặm cỏ trên cánh đồng rộng.",
+   "col": [
+    "raise cattle",
+    "a herd of cattle"
+   ]
+  },
+  {
+   "id": "ag022",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "herd",
+   "ipa": "/hɜːd/",
+   "pos": "n",
+   "vi": "đàn gia súc",
+   "ex": "The herd was moved to fresh pasture.",
+   "exVi": "Đàn gia súc được chuyển tới đồng cỏ mới.",
+   "col": [
+    "a herd",
+    "a herd of cattle"
+   ]
+  },
+  {
+   "id": "ag023",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "graze",
+   "ipa": "/ɡreɪz/",
+   "pos": "v",
+   "vi": "chăn thả",
+   "ex": "Sheep graze on the hills in summer.",
+   "exVi": "Cừu chăn thả trên đồi vào mùa hè.",
+   "col": [
+    "graze on",
+    "let animals graze"
+   ]
+  },
+  {
+   "id": "ag024",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "pasture",
+   "ipa": "/ˈpɑːstʃə/",
+   "pos": "n",
+   "vi": "đồng cỏ",
+   "ex": "The animals were moved to a green pasture.",
+   "exVi": "Đàn vật được chuyển tới một đồng cỏ xanh.",
+   "col": [
+    "open pasture",
+    "fresh pasture"
+   ]
+  },
+  {
+   "id": "ag025",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "cultivation",
+   "ipa": "/ˌkʌltɪˈveɪʃn/",
+   "pos": "n",
+   "vi": "việc canh tác",
+   "ex": "The land is under cultivation all year.",
+   "exVi": "Đất được canh tác quanh năm.",
+   "col": [
+    "under cultivation",
+    "crop cultivation"
+   ]
+  },
+  {
+   "id": "ag026",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "rotation",
+   "ipa": "/rəʊˈteɪʃn/",
+   "pos": "n",
+   "vi": "luân canh",
+   "ex": "Crop rotation keeps the soil healthy.",
+   "exVi": "Luân canh cây trồng giữ đất khoẻ.",
+   "col": [
+    "crop rotation",
+    "a rotation system"
+   ]
+  },
+  {
+   "id": "ag027",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "sustainable",
+   "ipa": "/səˈsteɪnəbl/",
+   "pos": "adj",
+   "vi": "bền vững",
+   "ex": "Sustainable farming protects the land for the future.",
+   "exVi": "Canh tác bền vững bảo vệ đất cho tương lai.",
+   "col": [
+    "sustainable farming",
+    "a sustainable method"
+   ]
+  },
+  {
+   "id": "ag028",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "organic",
+   "ipa": "/ɔːˈɡænɪk/",
+   "pos": "adj",
+   "vi": "hữu cơ",
+   "ex": "Organic vegetables sell at a higher price.",
+   "exVi": "Rau hữu cơ bán với giá cao hơn.",
+   "col": [
+    "organic produce",
+    "organic farming"
+   ]
+  },
+  {
+   "id": "ag029",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "arable",
+   "ipa": "/ˈærəbl/",
+   "pos": "adj",
+   "vi": "có thể canh tác",
+   "ex": "Most of the land here is arable.",
+   "exVi": "Phần lớn đất ở đây có thể canh tác.",
+   "col": [
+    "arable land",
+    "arable farming"
+   ]
+  },
+  {
+   "id": "ag030",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "perennial",
+   "ipa": "/pəˈreniəl/",
+   "pos": "adj",
+   "vi": "lâu năm",
+   "ex": "Perennial crops return each year without replanting.",
+   "exVi": "Cây lâu năm cho thu hoạch mỗi năm mà không cần trồng lại.",
+   "col": [
+    "a perennial crop",
+    "perennial plants"
+   ]
+  },
+  {
+   "id": "ag031",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "seasonal",
+   "ipa": "/ˈsiːzənl/",
+   "pos": "adj",
+   "vi": "theo mùa",
+   "ex": "Seasonal workers help during the harvest.",
+   "exVi": "Lao động thời vụ giúp trong vụ thu hoạch.",
+   "col": [
+    "seasonal work",
+    "seasonal produce"
+   ]
+  },
+  {
+   "id": "ag032",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "surplus",
+   "ipa": "/ˈsɜːpləs/",
+   "pos": "n",
+   "vi": "dư thừa",
+   "ex": "A grain surplus lowered the market price.",
+   "exVi": "Ngũ cốc dư thừa hạ giá thị trường.",
+   "col": [
+    "a surplus",
+    "a grain surplus"
+   ]
+  },
+  {
+   "id": "ag033",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "export",
+   "ipa": "/ɪkˈspɔːt/",
+   "pos": "v",
+   "vi": "xuất khẩu",
+   "ex": "The country exports rice to many markets.",
+   "exVi": "Nước này xuất khẩu gạo tới nhiều thị trường.",
+   "col": [
+    "export goods",
+    "export rice"
+   ]
+  },
+  {
+   "id": "ag034",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "import",
+   "ipa": "/ɪmˈpɔːt/",
+   "pos": "v",
+   "vi": "nhập khẩu",
+   "ex": "The region imports wheat during dry years.",
+   "exVi": "Vùng này nhập khẩu lúa mì trong những năm khô hạn.",
+   "col": [
+    "import goods",
+    "import grain"
+   ]
+  },
+  {
+   "id": "ag035",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "processing",
+   "ipa": "/ˈprəʊsesɪŋ/",
+   "pos": "n",
+   "vi": "chế biến",
+   "ex": "A processing plant turns milk into cheese.",
+   "exVi": "Một nhà máy chế biến biến sữa thành pho mát.",
+   "col": [
+    "food processing",
+    "a processing plant"
+   ]
+  },
+  {
+   "id": "ag036",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "storage",
+   "ipa": "/ˈstɔːrɪdʒ/",
+   "pos": "n",
+   "vi": "bảo quản",
+   "ex": "Cold storage keeps the produce fresh.",
+   "exVi": "Bảo quản lạnh giữ nông sản tươi.",
+   "col": [
+    "cold storage",
+    "grain storage"
+   ]
+  },
+  {
+   "id": "ag037",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "supply",
+   "ipa": "/səˈplaɪ/",
+   "pos": "n",
+   "vi": "nguồn cung",
+   "ex": "A poor harvest cut the food supply.",
+   "exVi": "Một vụ mùa kém làm giảm nguồn cung thực phẩm.",
+   "col": [
+    "food supply",
+    "a steady supply"
+   ]
+  },
+  {
+   "id": "ag038",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "farmland",
+   "ipa": "/ˈfɑːmlænd/",
+   "pos": "n",
+   "vi": "đất nông nghiệp",
+   "ex": "New roads cut across the farmland.",
+   "exVi": "Những con đường mới cắt ngang đất nông nghiệp.",
+   "col": [
+    "farmland",
+    "fertile farmland"
+   ]
+  },
+  {
+   "id": "ag039",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "cultivator",
+   "ipa": "/ˈkʌltɪveɪtə/",
+   "pos": "n",
+   "vi": "máy xới đất",
+   "ex": "A cultivator prepares the soil for planting.",
+   "exVi": "Một máy xới đất chuẩn bị đất cho việc gieo trồng.",
+   "col": [
+    "a cultivator",
+    "use a cultivator"
+   ]
+  },
+  {
+   "id": "ag040",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "tractor",
+   "ipa": "/ˈtræktə/",
+   "pos": "n",
+   "vi": "máy kéo",
+   "ex": "The tractor plows the field before dawn.",
+   "exVi": "Máy kéo cày ruộng trước bình minh.",
+   "col": [
+    "a tractor",
+    "drive a tractor"
+   ]
+  },
+  {
+   "id": "ag041",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "harvester",
+   "ipa": "/ˈhɑːvɪstə/",
+   "pos": "n",
+   "vi": "máy gặt",
+   "ex": "A combine harvester cuts the wheat quickly.",
+   "exVi": "Một máy gặt liên hợp cắt lúa mì nhanh chóng.",
+   "col": [
+    "a combine harvester",
+    "a harvester"
+   ]
+  },
+  {
+   "id": "ag042",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "drought",
+   "ipa": "/draʊt/",
+   "pos": "n",
+   "vi": "hạn hán",
+   "ex": "The drought ruined much of the crop.",
+   "exVi": "Hạn hán làm hỏng phần lớn mùa màng.",
+   "col": [
+    "a severe drought",
+    "a long drought"
+   ]
+  },
+  {
+   "id": "ag043",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "famine",
+   "ipa": "/ˈfæmɪn/",
+   "pos": "n",
+   "vi": "nạn đói",
+   "ex": "Aid was sent to the area hit by famine.",
+   "exVi": "Viện trợ được gửi tới vùng bị nạn đói.",
+   "col": [
+    "a famine",
+    "widespread famine"
+   ]
+  },
+  {
+   "id": "ag044",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "subsidy",
+   "ipa": "/ˈsʌbsədi/",
+   "pos": "n",
+   "vi": "trợ cấp nông nghiệp",
+   "ex": "A government subsidy supports small farms.",
+   "exVi": "Một khoản trợ cấp của chính phủ hỗ trợ các trang trại nhỏ.",
+   "col": [
+    "a subsidy",
+    "a farm subsidy"
+   ]
+  },
+  {
+   "id": "ag045",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "manufacturing",
+   "ipa": "/ˌmænjuˈfæktʃərɪŋ/",
+   "pos": "n",
+   "vi": "chế tạo",
+   "ex": "Food manufacturing employs thousands in the town.",
+   "exVi": "Ngành chế tạo thực phẩm tuyển hàng nghìn người trong thị trấn.",
+   "col": [
+    "food manufacturing",
+    "manufacturing costs"
+   ]
+  },
+  {
+   "id": "ag046",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "packaging",
+   "ipa": "/ˈpækɪdʒɪŋ/",
+   "pos": "n",
+   "vi": "đóng gói",
+   "ex": "New packaging keeps the food fresh longer.",
+   "exVi": "Bao bì mới giữ thực phẩm tươi lâu hơn.",
+   "col": [
+    "food packaging",
+    "recyclable packaging"
+   ]
+  },
+  {
+   "id": "ag047",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "preservation",
+   "ipa": "/ˌprezəˈveɪʃn/",
+   "pos": "n",
+   "vi": "bảo quản",
+   "ex": "Salt was once used for food preservation.",
+   "exVi": "Muối từng được dùng để bảo quản thực phẩm.",
+   "col": [
+    "food preservation",
+    "long-term preservation"
+   ]
+  },
+  {
+   "id": "ag048",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "preservative",
+   "ipa": "/prɪˈzɜːvətɪv/",
+   "pos": "n",
+   "vi": "chất bảo quản",
+   "ex": "The label lists no artificial preservatives.",
+   "exVi": "Nhãn không ghi chất bảo quản nhân tạo nào.",
+   "col": [
+    "a preservative",
+    "an artificial preservative"
+   ]
+  },
+  {
+   "id": "ag049",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "additive",
+   "ipa": "/ˈædɪtɪv/",
+   "pos": "n",
+   "vi": "phụ gia",
+   "ex": "The product contains no artificial additives.",
+   "exVi": "Sản phẩm không chứa phụ gia nhân tạo.",
+   "col": [
+    "a food additive",
+    "an artificial additive"
+   ]
+  },
+  {
+   "id": "ag050",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "ingredient",
+   "ipa": "/ɪnˈɡriːdiənt/",
+   "pos": "n",
+   "vi": "thành phần",
+   "ex": "Every ingredient is listed on the pack.",
+   "exVi": "Mọi thành phần được ghi trên bao bì.",
+   "col": [
+    "a natural ingredient",
+    "a key ingredient"
+   ]
+  },
+  {
+   "id": "ag051",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "nutrition",
+   "ipa": "/njuˈtrɪʃn/",
+   "pos": "n",
+   "vi": "dinh dưỡng",
+   "ex": "The label shows the nutrition per serving.",
+   "exVi": "Nhãn cho thấy dinh dưỡng mỗi khẩu phần.",
+   "col": [
+    "nutrition information",
+    "good nutrition"
+   ]
+  },
+  {
+   "id": "ag052",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "nutrient",
+   "ipa": "/ˈnjuːtriənt/",
+   "pos": "n",
+   "vi": "dưỡng chất",
+   "ex": "Fresh fruit is rich in nutrients.",
+   "exVi": "Trái cây tươi giàu dưỡng chất.",
+   "col": [
+    "a nutrient",
+    "essential nutrients"
+   ]
+  },
+  {
+   "id": "ag053",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "perishable",
+   "ipa": "/ˈperɪʃəbl/",
+   "pos": "adj",
+   "vi": "dễ hỏng",
+   "ex": "Perishable goods are shipped in cold trucks.",
+   "exVi": "Hàng dễ hỏng được chở trong xe tải lạnh.",
+   "col": [
+    "perishable goods",
+    "perishable food"
+   ]
+  },
+  {
+   "id": "ag054",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "processed",
+   "ipa": "/ˈprəʊsest/",
+   "pos": "adj",
+   "vi": "đã qua chế biến",
+   "ex": "Processed food often contains more salt.",
+   "exVi": "Thực phẩm đã qua chế biến thường chứa nhiều muối hơn.",
+   "col": [
+    "processed food",
+    "heavily processed"
+   ]
+  },
+  {
+   "id": "ag055",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "refrigerate",
+   "ipa": "/rɪˈfrɪdʒəreɪt/",
+   "pos": "v",
+   "vi": "làm lạnh",
+   "ex": "Refrigerate the product after opening.",
+   "exVi": "Làm lạnh sản phẩm sau khi mở.",
+   "col": [
+    "refrigerate food",
+    "refrigerate overnight"
+   ]
+  },
+  {
+   "id": "ag056",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "distribute",
+   "ipa": "/dɪˈstrɪbjuːt/",
+   "pos": "v",
+   "vi": "phân phối",
+   "ex": "The company distributes food to five regions.",
+   "exVi": "Công ty phân phối thực phẩm tới năm vùng.",
+   "col": [
+    "distribute goods",
+    "widely distribute"
+   ]
+  },
+  {
+   "id": "ag057",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "wholesale",
+   "ipa": "/ˈhəʊlseɪl/",
+   "pos": "n",
+   "vi": "bán sỉ",
+   "ex": "The farm sells its produce at wholesale.",
+   "exVi": "Trang trại bán nông sản của mình theo giá sỉ.",
+   "col": [
+    "wholesale",
+    "a wholesale price"
+   ]
+  },
+  {
+   "id": "ag058",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "retail",
+   "ipa": "/ˈriːteɪl/",
+   "pos": "n",
+   "vi": "bán lẻ",
+   "ex": "The brand moved into retail last year.",
+   "exVi": "Thương hiệu chuyển sang bán lẻ năm ngoái.",
+   "col": [
+    "retail",
+    "a retail price"
+   ]
+  },
+  {
+   "id": "ag059",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "label",
+   "ipa": "/ˈleɪbl/",
+   "pos": "n",
+   "vi": "nhãn",
+   "ex": "The label shows the expiry date clearly.",
+   "exVi": "Nhãn cho thấy hạn dùng rõ ràng.",
+   "col": [
+    "a food label",
+    "read the label"
+   ]
+  },
+  {
+   "id": "ag060",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "expiry",
+   "ipa": "/ɪkˈspaɪəri/",
+   "pos": "n",
+   "vi": "hạn sử dụng",
+   "ex": "Check the expiry date before you buy.",
+   "exVi": "Kiểm tra hạn sử dụng trước khi mua.",
+   "col": [
+    "an expiry date",
+    "past its expiry"
+   ]
+  },
+  {
+   "id": "ag061",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "batch",
+   "ipa": "/bætʃ/",
+   "pos": "n",
+   "vi": "lô hàng",
+   "ex": "A whole batch was recalled for testing.",
+   "exVi": "Cả một lô hàng được thu hồi để kiểm nghiệm.",
+   "col": [
+    "a batch",
+    "a faulty batch"
+   ]
+  },
+  {
+   "id": "ag062",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "traceability",
+   "ipa": "/ˌtreɪsəˈbɪləti/",
+   "pos": "n",
+   "vi": "khả năng truy xuất nguồn gốc",
+   "ex": "Traceability lets buyers know where food comes from.",
+   "exVi": "Khả năng truy xuất giúp người mua biết thực phẩm đến từ đâu.",
+   "col": [
+    "food traceability",
+    "full traceability"
+   ]
+  },
+  {
+   "id": "ag063",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "contamination",
+   "ipa": "/kənˌtæmɪˈneɪʃn/",
+   "pos": "n",
+   "vi": "nhiễm bẩn",
+   "ex": "Strict rules prevent food contamination.",
+   "exVi": "Các quy tắc nghiêm ngặt ngăn nhiễm bẩn thực phẩm.",
+   "col": [
+    "food contamination",
+    "prevent contamination"
+   ]
+  },
+  {
+   "id": "ag064",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "inspection",
+   "ipa": "/ɪnˈspekʃn/",
+   "pos": "n",
+   "vi": "kiểm tra",
+   "ex": "A food inspection is carried out each month.",
+   "exVi": "Một cuộc kiểm tra thực phẩm được tiến hành hằng tháng.",
+   "col": [
+    "a food inspection",
+    "a routine inspection"
+   ]
+  },
+  {
+   "id": "ag065",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "hygiene",
+   "ipa": "/ˈhaɪdʒiːn/",
+   "pos": "n",
+   "vi": "vệ sinh",
+   "ex": "Good hygiene is vital in food production.",
+   "exVi": "Vệ sinh tốt là điều thiết yếu trong sản xuất thực phẩm.",
+   "col": [
+    "food hygiene",
+    "good hygiene"
+   ]
+  },
+  {
+   "id": "ag066",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "standard",
+   "ipa": "/ˈstændəd/",
+   "pos": "n",
+   "vi": "tiêu chuẩn",
+   "ex": "The plant meets strict safety standards.",
+   "exVi": "Nhà máy đáp ứng tiêu chuẩn an toàn nghiêm ngặt.",
+   "col": [
+    "a safety standard",
+    "meet a standard"
+   ]
+  },
+  {
+   "id": "ag067",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "certification",
+   "ipa": "/ˌsɜːtɪfɪˈkeɪʃn/",
+   "pos": "n",
+   "vi": "chứng nhận",
+   "ex": "Organic certification requires yearly checks.",
+   "exVi": "Chứng nhận hữu cơ yêu cầu kiểm tra hằng năm.",
+   "col": [
+    "certification",
+    "organic certification"
+   ]
+  },
+  {
+   "id": "ag068",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "supply chain",
+   "ipa": "/səˈplaɪ tʃeɪn/",
+   "pos": "n",
+   "vi": "chuỗi cung ứng",
+   "ex": "A short supply chain keeps food fresher.",
+   "exVi": "Một chuỗi cung ứng ngắn giữ thực phẩm tươi hơn.",
+   "col": [
+    "the supply chain",
+    "a food supply chain"
+   ]
+  },
+  {
+   "id": "ag069",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "distributor",
+   "ipa": "/dɪˈstrɪbjʊtə/",
+   "pos": "n",
+   "vi": "nhà phân phối",
+   "ex": "A local distributor delivers to the shops.",
+   "exVi": "Một nhà phân phối địa phương giao tới các cửa hàng.",
+   "col": [
+    "a distributor",
+    "a food distributor"
+   ]
+  },
+  {
+   "id": "ag070",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "farmer",
+   "ipa": "/ˈfɑːmə/",
+   "pos": "n",
+   "vi": "nông dân",
+   "ex": "The farmer sells directly at the market.",
+   "exVi": "Nông dân bán trực tiếp tại chợ.",
+   "col": [
+    "a farmer",
+    "a local farmer"
+   ]
+  },
+  {
+   "id": "ag071",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "grower",
+   "ipa": "/ˈɡrəʊə/",
+   "pos": "n",
+   "vi": "người trồng",
+   "ex": "The grower supplies fruit to several stores.",
+   "exVi": "Người trồng cung cấp trái cây cho vài cửa hàng.",
+   "col": [
+    "a grower",
+    "a fruit grower"
+   ]
+  },
+  {
+   "id": "ag072",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "cooperative",
+   "ipa": "/kəʊˈɒpərətɪv/",
+   "pos": "n",
+   "vi": "hợp tác xã",
+   "ex": "Local farmers formed a cooperative to share costs.",
+   "exVi": "Nông dân địa phương lập một hợp tác xã để chia sẻ chi phí.",
+   "col": [
+    "a cooperative",
+    "a farming cooperative"
+   ]
+  },
+  {
+   "id": "ag073",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "mechanize",
+   "ipa": "/ˈmekənaɪz/",
+   "pos": "v",
+   "vi": "cơ giới hoá",
+   "ex": "The farm mechanized its harvest last year.",
+   "exVi": "Trang trại cơ giới hoá việc thu hoạch năm ngoái.",
+   "col": [
+    "mechanize a process",
+    "fully mechanized"
+   ]
+  },
+  {
+   "id": "ag074",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "irrigate",
+   "ipa": "/ˈɪrɪɡeɪt/",
+   "pos": "v",
+   "vi": "tưới",
+   "ex": "Farmers irrigate the fields during dry months.",
+   "exVi": "Nông dân tưới ruộng trong các tháng khô.",
+   "col": [
+    "irrigate the land",
+    "irrigate crops"
+   ]
+  },
+  {
+   "id": "ag075",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "fertile",
+   "ipa": "/ˈfɜːtaɪl/",
+   "pos": "adj",
+   "vi": "màu mỡ",
+   "ex": "The valley has very fertile soil.",
+   "exVi": "Thung lũng có đất rất màu mỡ.",
+   "col": [
+    "fertile soil",
+    "fertile land"
+   ]
+  },
+  {
+   "id": "ag076",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "barren",
+   "ipa": "/ˈbærən/",
+   "pos": "adj",
+   "vi": "cằn cỗi",
+   "ex": "Little grows on the barren hillside.",
+   "exVi": "Rất ít cây mọc trên sườn đồi cằn cỗi.",
+   "col": [
+    "barren land",
+    "a barren field"
+   ]
+  },
+  {
+   "id": "ag077",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "abundant",
+   "ipa": "/əˈbʌndənt/",
+   "pos": "adj",
+   "vi": "dồi dào",
+   "ex": "Rain made the harvest abundant this year.",
+   "exVi": "Mưa khiến vụ mùa dồi dào năm nay.",
+   "col": [
+    "an abundant harvest",
+    "abundant supply"
+   ]
+  },
+  {
+   "id": "ag078",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "scarce",
+   "ipa": "/skeəs/",
+   "pos": "adj",
+   "vi": "khan hiếm",
+   "ex": "Water became scarce during the long summer.",
+   "exVi": "Nước trở nên khan hiếm trong mùa hè dài.",
+   "col": [
+    "scarce resources",
+    "increasingly scarce"
+   ]
+  },
+  {
+   "id": "ag079",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "staple",
+   "ipa": "/ˈsteɪpl/",
+   "pos": "n",
+   "vi": "lương thực chính",
+   "ex": "Rice is the staple food of the region.",
+   "exVi": "Gạo là lương thực chính của vùng.",
+   "col": [
+    "a staple food",
+    "a staple crop"
+   ]
+  },
+  {
+   "id": "ag080",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "commodity",
+   "ipa": "/kəˈmɒdəti/",
+   "pos": "n",
+   "vi": "hàng hoá cơ bản",
+   "ex": "Wheat is traded as a global commodity.",
+   "exVi": "Lúa mì được giao dịch như một hàng hoá toàn cầu.",
+   "col": [
+    "a commodity",
+    "a commodity market"
+   ]
+  },
+  {
+   "id": "ag081",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "byproduct",
+   "ipa": "/ˈbaɪprɒdʌkt/",
+   "pos": "n",
+   "vi": "sản phẩm phụ",
+   "ex": "Bran is a byproduct of milling grain.",
+   "exVi": "Cám là sản phẩm phụ của việc xay xát ngũ cốc.",
+   "col": [
+    "a byproduct",
+    "a useful byproduct"
+   ]
+  },
+  {
+   "id": "ag082",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "livelihood",
+   "ipa": "/ˈlaɪvlihʊd/",
+   "pos": "n",
+   "vi": "sinh kế",
+   "ex": "Farming is the main livelihood in the valley.",
+   "exVi": "Nông nghiệp là sinh kế chính ở thung lũng.",
+   "col": [
+    "a livelihood",
+    "earn a livelihood"
+   ]
+  },
+  {
+   "id": "ag083",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "seasonal worker",
+   "ipa": "/ˈsiːzənl ˈwɜːkə/",
+   "pos": "n",
+   "vi": "lao động thời vụ",
+   "ex": "Seasonal workers arrive for the fruit picking.",
+   "exVi": "Lao động thời vụ tới để hái quả.",
+   "col": [
+    "a seasonal worker",
+    "hire seasonal workers"
+   ]
+  },
+  {
+   "id": "ag084",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "mechanization",
+   "ipa": "/ˌmekənaɪˈzeɪʃn/",
+   "pos": "n",
+   "vi": "cơ giới hoá",
+   "ex": "Mechanization raised output on large farms.",
+   "exVi": "Cơ giới hoá nâng sản lượng ở các trang trại lớn.",
+   "col": [
+    "farm mechanization",
+    "increased mechanization"
+   ]
+  },
+  {
+   "id": "ag085",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "export market",
+   "ipa": "/ˈekspɔːt ˈmɑːkɪt/",
+   "pos": "n",
+   "vi": "thị trường xuất khẩu",
+   "ex": "The export market for coffee keeps growing.",
+   "exVi": "Thị trường xuất khẩu cà phê tiếp tục tăng.",
+   "col": [
+    "an export market",
+    "a key export market"
+   ]
+  },
+  {
+   "id": "ag086",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "locally-grown",
+   "ipa": "/ˈləʊkəli ɡrəʊn/",
+   "pos": "adj",
+   "vi": "trồng tại địa phương",
+   "ex": "The café uses locally-grown vegetables.",
+   "exVi": "Quán cà phê dùng rau trồng tại địa phương.",
+   "col": [
+    "locally-grown produce",
+    "locally-grown food"
+   ]
+  },
+  {
+   "id": "ag087",
+   "topic": "Nông nghiệp & thực phẩm",
+   "w": "self-sufficient",
+   "ipa": "/ˌself səˈfɪʃnt/",
+   "pos": "adj",
+   "vi": "tự cung tự cấp",
+   "ex": "The village is nearly self-sufficient in food.",
+   "exVi": "Ngôi làng gần như tự cung tự cấp về thực phẩm.",
+   "col": [
+    "self-sufficient",
+    "become self-sufficient"
+   ]
+  }
+ ]
+}

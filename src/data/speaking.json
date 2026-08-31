@@ -1,0 +1,2890 @@
+{
+ "agenda": {
+  "title": "AUTUMN SALES TRAINING",
+  "sub": "Saturday, 12 October · Meridian Hotel, Room 3B",
+  "rows": [
+   {
+    "time": "9:00 – 9:15",
+    "item": "Opening remarks",
+    "by": "Karen Boyd"
+   },
+   {
+    "time": "9:15 – 10:30",
+    "item": "Understanding the new CRM",
+    "by": "Trung Le"
+   },
+   {
+    "time": "10:30 – 10:45",
+    "item": "Break",
+    "by": ""
+   },
+   {
+    "time": "10:45 – 11:45",
+    "item": "Customer service basics",
+    "by": "Ana Ruiz"
+   },
+   {
+    "time": "11:45 – 12:45",
+    "item": "Lunch",
+    "by": ""
+   },
+   {
+    "time": "12:45 – 14:00",
+    "item": "Handling objections",
+    "by": "Trung Le"
+   },
+   {
+    "time": "14:00 – 15:00",
+    "item": "Closing panel",
+    "by": "All speakers"
+   }
+  ]
+ },
+ "criteria": [
+  "Phát âm",
+  "Ngữ điệu",
+  "Ngữ pháp & từ vựng",
+  "Độ liên quan"
+ ],
+ "questions": [
+  {
+   "id": "s1",
+   "no": 1,
+   "group": "Q1–2 Read a text aloud",
+   "title": "Store announcement",
+   "kind": "read",
+   "prep": 45,
+   "speak": 45,
+   "task": "Đọc to đoạn văn dưới đây. Bạn có 45 giây chuẩn bị và 45 giây để đọc.",
+   "text": "Attention shoppers. Thank you for visiting Brightside Market. Our customer service desk is located near the main entrance, where you can find gift cards, parking validation, and information about our weekly specials. This week, all fresh produce is twenty percent off through Sunday. Please note that the store will close at eight o'clock this evening.",
+   "marks": [
+    {
+     "p": "Thank you for",
+     "t": "link",
+     "n": "nối thành \"than-kyu-fə\", đừng tách rời ba từ"
+    },
+    {
+     "p": "is located",
+     "t": "link",
+     "n": "nối phụ âm sang nguyên âm: \"i-zlou-kei-tid\""
+    },
+    {
+     "p": "information",
+     "t": "stress",
+     "n": "in-fə-MEI-shən — trọng âm rơi vào âm tiết thứ ba"
+    },
+    {
+     "p": "validation",
+     "t": "stress",
+     "n": "va-li-DEI-shən"
+    },
+    {
+     "p": "twenty percent off",
+     "t": "link",
+     "n": "\"twen-i-pə-sen-tɒf\", /t/ giữa của twenty gần như biến mất"
+    },
+    {
+     "p": "eight o'clock",
+     "t": "link",
+     "n": "\"ei-tə-clock\""
+    }
+   ],
+   "outline": [
+    "Câu đầu là lời chào — đọc chậm, xuống giọng ở cuối.",
+    "Đoạn liệt kê (gift cards, parking validation, information) — lên giọng ở hai mục đầu, xuống giọng ở mục cuối.",
+    "Con số và giờ đọc rõ và hơi chậm lại: twenty percent, eight o'clock."
+   ],
+   "phrases": [
+    "Attention shoppers",
+    "is located near",
+    "you can find",
+    "Please note that"
+   ],
+   "errors": [
+    "Bỏ âm cuối -s: shoppers, cards, specials — mất âm cuối là mất điểm phát âm ngay.",
+    "Đọc đều đều không lên xuống. Danh sách ba mục bắt buộc phải có ngữ điệu lên–lên–xuống.",
+    "Đọc \"percent\" thành PER-cent. Đúng là per-CENT, trọng âm ở âm tiết sau."
+   ],
+   "note": "Câu này không chấm nội dung, chỉ chấm phát âm và ngữ điệu. Đọc hết đoạn trong thời gian cho phép là đủ."
+  },
+  {
+   "id": "s2",
+   "no": 2,
+   "group": "Q1–2 Read a text aloud",
+   "title": "Tour introduction",
+   "kind": "read",
+   "prep": 45,
+   "speak": 45,
+   "text": "Good morning, and welcome to the Riverside Heritage Tour. Our first stop will be the old customs house, which was built in eighteen seventy-two. From there, we will walk along the harbour to the fish market, where you will have thirty minutes to explore on your own. Please stay with the group and keep your ticket visible at all times.",
+   "marks": [
+    {
+     "p": "welcome to",
+     "t": "link",
+     "n": "\"wel-kəm-tu\""
+    },
+    {
+     "p": "Heritage",
+     "t": "stress",
+     "n": "HE-ri-tij — trọng âm âm tiết đầu"
+    },
+    {
+     "p": "customs house",
+     "t": "stress",
+     "n": "trọng âm rơi vào CUS-toms, không phải house"
+    },
+    {
+     "p": "built in",
+     "t": "link",
+     "n": "\"bil-tin\""
+    },
+    {
+     "p": "walk along",
+     "t": "link",
+     "n": "\"wor-kə-long\""
+    },
+    {
+     "p": "at all times",
+     "t": "link",
+     "n": "\"ə-tol-taimz\""
+    }
+   ],
+   "outline": [
+    "Lời chào mở đầu đọc ấm và chậm — đây là giọng hướng dẫn viên.",
+    "\"eighteen seventy-two\" đọc tách hai cụm, đừng đọc thành một chuỗi số.",
+    "Hai câu dặn dò cuối xuống giọng dứt khoát để nghe ra là yêu cầu."
+   ],
+   "phrases": [
+    "welcome to",
+    "Our first stop will be",
+    "From there",
+    "Please stay with"
+   ],
+   "errors": [
+    "Đọc năm sai: eighteen seventy-two chứ không phải one thousand eight hundred…",
+    "Nuốt luôn âm /l/ trong walk, harbour — làm người nghe mất dấu từ.",
+    "Ngắt câu sai chỗ ở mệnh đề quan hệ \"which was built in…\" — nên ngắt nhẹ trước which."
+   ],
+   "note": "Câu này không chấm nội dung, chỉ chấm phát âm và ngữ điệu.",
+   "task": "Đọc to đoạn văn dưới đây. Bạn có 45 giây chuẩn bị và 45 giây để đọc."
+  },
+  {
+   "id": "s3",
+   "no": 3,
+   "group": "Q3–4 Describe a picture",
+   "title": "A meeting room",
+   "kind": "picture",
+   "scene": "meeting",
+   "prep": 45,
+   "speak": 30,
+   "task": "Mô tả bức tranh chi tiết nhất có thể. Bạn có 45 giây chuẩn bị và 30 giây để nói.",
+   "frame": [
+    {
+     "h": "Mở đầu",
+     "lines": [
+      "This picture was taken in…",
+      "There are ___ people in the picture."
+     ]
+    },
+    {
+     "h": "Vị trí",
+     "lines": [
+      "On the left / On the right…",
+      "In the middle of the picture…",
+      "In the background…"
+     ]
+    },
+    {
+     "h": "Hành động",
+     "lines": [
+      "A man is standing next to…",
+      "They are sitting around…",
+      "One of them is holding…"
+     ]
+    },
+    {
+     "h": "Phỏng đoán",
+     "lines": [
+      "It seems that…",
+      "They appear to be…",
+      "I would guess that…"
+     ]
+    }
+   ],
+   "vocab": [
+    "conference room",
+    "whiteboard",
+    "presentation",
+    "take notes",
+    "colleagues",
+    "gesture",
+    "discuss a project"
+   ],
+   "sample": "This picture was taken in a meeting room, probably at an office. There are four people in total. On the left, a man is standing next to a whiteboard and appears to be presenting something. The other three are sitting around a round table, and they seem to be listening carefully. Overall, it looks like a team is discussing a project.",
+   "outline": [
+    "Một câu mở: nơi chốn + số người.",
+    "Hai đến ba câu tả vị trí và hành động, đi từ trái sang phải.",
+    "Một câu phỏng đoán để kết — đây là chỗ ăn điểm mà nhiều người bỏ qua."
+   ],
+   "phrases": [
+    "This picture was taken in…",
+    "On the left / In the middle",
+    "appears to be + V-ing",
+    "Overall, it looks like…"
+   ],
+   "errors": [
+    "Dùng \"have\" thay \"there is / there are\": sai \"In the picture have four people\".",
+    "Quên đuôi -ing: \"a man stand\" thay vì \"a man is standing\". Part này gần như toàn thì hiện tại tiếp diễn.",
+    "Tả quá chi tiết một vật rồi hết giờ. Bao quát trước, chi tiết sau.",
+    "Không nói câu phỏng đoán nào — mất điểm ở tiêu chí độ liên quan và độ phong phú."
+   ]
+  },
+  {
+   "id": "s4",
+   "no": 4,
+   "group": "Q3–4 Describe a picture",
+   "title": "A train platform",
+   "kind": "picture",
+   "scene": "platform",
+   "prep": 45,
+   "speak": 30,
+   "task": "Mô tả bức tranh chi tiết nhất có thể. Bạn có 45 giây chuẩn bị và 30 giây để nói.",
+   "frame": [
+    {
+     "h": "Mở đầu",
+     "lines": [
+      "This photo shows…",
+      "It looks like a…"
+     ]
+    },
+    {
+     "h": "Vị trí",
+     "lines": [
+      "In the middle of the picture…",
+      "On the right side…",
+      "Next to her…"
+     ]
+    },
+    {
+     "h": "Hành động",
+     "lines": [
+      "She is standing / holding / waiting…",
+      "A train is approaching…"
+     ]
+    },
+    {
+     "h": "Phỏng đoán",
+     "lines": [
+      "Judging from…, I would guess…",
+      "She is probably…"
+     ]
+    }
+   ],
+   "vocab": [
+    "platform",
+    "suitcase",
+    "bench",
+    "approach",
+    "passenger",
+    "business trip",
+    "luggage"
+   ],
+   "sample": "This photo shows a train platform. In the middle of the picture, a woman is standing with a suitcase beside her, and she seems to be waiting for a train. On the right, a train is approaching the platform. There is an empty bench on the left side. Judging from the suitcase, I would guess she is going on a business trip.",
+   "outline": [
+    "Câu mở nêu loại địa điểm.",
+    "Nhân vật chính trước, bối cảnh sau.",
+    "Kết bằng phỏng đoán dựa trên một chi tiết cụ thể trong tranh."
+   ],
+   "phrases": [
+    "This photo shows…",
+    "beside her / on the right",
+    "seems to be waiting",
+    "Judging from…, I would guess…"
+   ],
+   "errors": [
+    "Nói \"luggages\" — luggage là danh từ không đếm được.",
+    "Dùng \"in the picture\" lặp lại ở mọi câu thay vì đổi sang on the left, in the background…",
+    "Im lặng ba bốn giây giữa chừng. Thà nói câu đơn giản còn hơn để trống."
+   ]
+  },
+  {
+   "id": "s5",
+   "no": 5,
+   "group": "Q5–7 Respond to questions",
+   "title": "Restaurants — câu 1",
+   "kind": "qa",
+   "prep": 3,
+   "speak": 15,
+   "scenario": "Imagine that a marketing firm is doing research in your area. You have agreed to take part in a telephone interview about restaurants.",
+   "question": "How often do you eat at restaurants, and who do you usually go with?",
+   "sample": "I eat out about twice a week, usually on weekends. I normally go with my colleagues after work, or with my family on Sunday evenings.",
+   "outline": [
+    "Trả lời thẳng cả hai vế của câu hỏi.",
+    "Thêm một chi tiết nhỏ cho đủ 15 giây."
+   ],
+   "phrases": [
+    "about twice a week",
+    "I normally go with…",
+    "after work"
+   ],
+   "errors": [
+    "Chỉ trả lời một vế rồi im. Câu hỏi có hai vế thì phải trả lời cả hai.",
+    "Nói \"I very like\" — đúng là I really like hoặc I like… a lot.",
+    "Bắt đầu bằng \"Ưm…\" mất ba giây quý giá. Cứ vào thẳng câu trả lời."
+   ]
+  },
+  {
+   "id": "s6",
+   "no": 6,
+   "group": "Q5–7 Respond to questions",
+   "title": "Restaurants — câu 2",
+   "kind": "qa",
+   "prep": 3,
+   "speak": 15,
+   "scenario": "Imagine that a marketing firm is doing research in your area. You have agreed to take part in a telephone interview about restaurants.",
+   "question": "What kind of restaurant do you prefer, and why?",
+   "sample": "I prefer small local restaurants, mainly because the food is fresh and the prices are reasonable. They are also quieter, so it's easier to have a conversation.",
+   "outline": [
+    "Nêu lựa chọn ngay câu đầu.",
+    "Một lý do chính, một lý do phụ."
+   ],
+   "phrases": [
+    "I prefer…",
+    "mainly because…",
+    "so it's easier to…"
+   ],
+   "errors": [
+    "Đưa ra lựa chọn nhưng không giải thích. Chữ \"why\" trong câu hỏi là bắt buộc phải trả lời.",
+    "Dùng \"because\" hai ba lần liền. Đổi sang since, as, that's why.",
+    "Nói \"price is cheap\" — đúng là the price is low hoặc the food is cheap."
+   ]
+  },
+  {
+   "id": "s7",
+   "no": 7,
+   "group": "Q5–7 Respond to questions",
+   "title": "Restaurants — câu 3",
+   "kind": "qa",
+   "prep": 3,
+   "speak": 30,
+   "scenario": "Imagine that a marketing firm is doing research in your area. You have agreed to take part in a telephone interview about restaurants.",
+   "question": "If a new restaurant opened near your home, what would make you decide to try it? Explain.",
+   "sample": "The first thing that would make me try a new restaurant is a recommendation from someone I trust. If a friend or a colleague tells me the food is good, I will usually go within a week. Online reviews matter too, but I pay more attention to comments about service and cleanliness than to the rating itself. Finally, I would definitely try it if the menu had dishes I can't find anywhere else nearby.",
+   "outline": [
+    "Lý do thứ nhất kèm ví dụ ngắn.",
+    "Lý do thứ hai kèm so sánh.",
+    "Một câu kết mở rộng."
+   ],
+   "phrases": [
+    "The first thing that would make me…",
+    "I pay more attention to… than to…",
+    "Finally, I would definitely…"
+   ],
+   "errors": [
+    "Câu 30 giây mà nói xong trong 12 giây rồi ngồi im — mất điểm nặng nhất ở dạng này.",
+    "Liệt kê lý do rời rạc, không có từ nối. Dùng first, also, finally để nghe có cấu trúc.",
+    "Sai thì trong câu điều kiện: \"If a friend tell me\" thiếu -s, hoặc dùng will ngay sau If."
+   ]
+  },
+  {
+   "id": "s8",
+   "no": 8,
+   "group": "Q8–10 Respond using information",
+   "title": "Hỏi thời gian và địa điểm",
+   "kind": "table",
+   "prep": 3,
+   "speak": 15,
+   "read": 45,
+   "scenario": "Hello, this is Michael. I'm signed up for the sales training but I've lost my copy of the schedule. Could you help me with a few questions?",
+   "question": "First of all, what day is the training, and where will it be held?",
+   "sample": "Sure. The training is on Saturday, October twelfth, and it will be held at the Meridian Hotel, in Room 3B.",
+   "outline": [
+    "Một từ mở đầu thân thiện: Sure / Of course.",
+    "Trả lời đúng hai thông tin được hỏi, không thêm gì thừa."
+   ],
+   "phrases": [
+    "Sure, let me check.",
+    "The training is on…",
+    "It will be held at…"
+   ],
+   "errors": [
+    "Đọc nguyên xi dòng trong bảng. Phải diễn đạt lại thành câu hoàn chỉnh.",
+    "Đọc ngày sai: October twelfth chứ không phải October twelve.",
+    "Bỏ giới từ: nói \"held Meridian Hotel\" thay vì \"held at the Meridian Hotel\"."
+   ],
+   "agenda": {
+    "title": "AUTUMN SALES TRAINING",
+    "sub": "Saturday, 12 October · Meridian Hotel, Room 3B",
+    "rows": [
+     {
+      "time": "9:00 – 9:15",
+      "item": "Opening remarks",
+      "by": "Karen Boyd"
+     },
+     {
+      "time": "9:15 – 10:30",
+      "item": "Understanding the new CRM",
+      "by": "Trung Le"
+     },
+     {
+      "time": "10:30 – 10:45",
+      "item": "Break",
+      "by": ""
+     },
+     {
+      "time": "10:45 – 11:45",
+      "item": "Customer service basics",
+      "by": "Ana Ruiz"
+     },
+     {
+      "time": "11:45 – 12:45",
+      "item": "Lunch",
+      "by": ""
+     },
+     {
+      "time": "12:45 – 14:00",
+      "item": "Handling objections",
+      "by": "Trung Le"
+     },
+     {
+      "time": "14:00 – 15:00",
+      "item": "Closing panel",
+      "by": "All speakers"
+     }
+    ]
+   },
+   "task": "Dùng thông tin trong bảng để trả lời. Bạn có 45 giây đọc bảng, sau đó 3 giây chuẩn bị và 15–30 giây cho mỗi câu."
+  },
+  {
+   "id": "s9",
+   "no": 9,
+   "group": "Q8–10 Respond using information",
+   "title": "Đính chính thông tin sai",
+   "kind": "table",
+   "prep": 3,
+   "speak": 15,
+   "scenario": "Hello, this is Michael. I'm signed up for the sales training but I've lost my copy of the schedule.",
+   "question": "I heard the session on customer service was cancelled. Is that right?",
+   "sample": "Actually, that's not correct. The session on customer service basics is still on the schedule. It runs from ten forty-five to eleven forty-five, and it will be led by Ana Ruiz.",
+   "outline": [
+    "Đính chính ngay câu đầu.",
+    "Đưa thông tin đúng: giờ và người phụ trách."
+   ],
+   "phrases": [
+    "Actually, that's not correct.",
+    "It runs from… to…",
+    "It will be led by…"
+   ],
+   "errors": [
+    "Chỉ nói \"No\" rồi dừng. Phải nêu thông tin đúng thay thế.",
+    "Đọc giờ sai: ten forty-five, không phải ten hour forty-five minutes.",
+    "Không dùng bị động: \"Ana Ruiz will lead\" cũng được, nhưng \"led by\" nghe tự nhiên hơn trong ngữ cảnh lịch trình."
+   ],
+   "agenda": {
+    "title": "AUTUMN SALES TRAINING",
+    "sub": "Saturday, 12 October · Meridian Hotel, Room 3B",
+    "rows": [
+     {
+      "time": "9:00 – 9:15",
+      "item": "Opening remarks",
+      "by": "Karen Boyd"
+     },
+     {
+      "time": "9:15 – 10:30",
+      "item": "Understanding the new CRM",
+      "by": "Trung Le"
+     },
+     {
+      "time": "10:30 – 10:45",
+      "item": "Break",
+      "by": ""
+     },
+     {
+      "time": "10:45 – 11:45",
+      "item": "Customer service basics",
+      "by": "Ana Ruiz"
+     },
+     {
+      "time": "11:45 – 12:45",
+      "item": "Lunch",
+      "by": ""
+     },
+     {
+      "time": "12:45 – 14:00",
+      "item": "Handling objections",
+      "by": "Trung Le"
+     },
+     {
+      "time": "14:00 – 15:00",
+      "item": "Closing panel",
+      "by": "All speakers"
+     }
+    ]
+   },
+   "read": 45,
+   "task": "Dùng thông tin trong bảng để trả lời. Bạn có 45 giây đọc bảng, sau đó 3 giây chuẩn bị và 15–30 giây cho mỗi câu."
+  },
+  {
+   "id": "s10",
+   "no": 10,
+   "group": "Q8–10 Respond using information",
+   "title": "Tổng hợp nhiều dòng",
+   "kind": "table",
+   "prep": 3,
+   "speak": 30,
+   "scenario": "Hello, this is Michael. I'm signed up for the sales training but I've lost my copy of the schedule.",
+   "question": "I have to leave right after lunch begins. Could you tell me all the sessions I'll be able to attend before then, and who leads them?",
+   "sample": "Of course. Before lunch there are three sessions. First, opening remarks from nine to nine fifteen with Karen Boyd. Then, from nine fifteen to ten thirty, understanding the new CRM, led by Trung Le. After a fifteen-minute break, there's customer service basics from ten forty-five to eleven forty-five with Ana Ruiz. Lunch begins at eleven forty-five, so you'll be able to attend all three.",
+   "outline": [
+    "Câu mở nói ngay có mấy mục: \"Before lunch there are three sessions.\"",
+    "Liệt kê theo thứ tự thời gian, mỗi mục một câu ngắn.",
+    "Câu kết chốt lại để nghe trọn vẹn."
+   ],
+   "phrases": [
+    "Before lunch there are three sessions.",
+    "First… Then… After that…",
+    "led by",
+    "so you'll be able to…"
+   ],
+   "errors": [
+    "Đọc liền tù tì cả bảng không có từ nối, người nghe không theo kịp.",
+    "Quên mục Break, hoặc kể luôn cả mục sau giờ ăn trưa — nghe không kỹ câu hỏi.",
+    "Nói hết trong 15 giây rồi im. Câu này 30 giây nên phải thêm câu chốt."
+   ],
+   "agenda": {
+    "title": "AUTUMN SALES TRAINING",
+    "sub": "Saturday, 12 October · Meridian Hotel, Room 3B",
+    "rows": [
+     {
+      "time": "9:00 – 9:15",
+      "item": "Opening remarks",
+      "by": "Karen Boyd"
+     },
+     {
+      "time": "9:15 – 10:30",
+      "item": "Understanding the new CRM",
+      "by": "Trung Le"
+     },
+     {
+      "time": "10:30 – 10:45",
+      "item": "Break",
+      "by": ""
+     },
+     {
+      "time": "10:45 – 11:45",
+      "item": "Customer service basics",
+      "by": "Ana Ruiz"
+     },
+     {
+      "time": "11:45 – 12:45",
+      "item": "Lunch",
+      "by": ""
+     },
+     {
+      "time": "12:45 – 14:00",
+      "item": "Handling objections",
+      "by": "Trung Le"
+     },
+     {
+      "time": "14:00 – 15:00",
+      "item": "Closing panel",
+      "by": "All speakers"
+     }
+    ]
+   },
+   "read": 45,
+   "task": "Dùng thông tin trong bảng để trả lời. Bạn có 45 giây đọc bảng, sau đó 3 giây chuẩn bị và 15–30 giây cho mỗi câu."
+  },
+  {
+   "id": "s11",
+   "no": 11,
+   "group": "Q11 Express an opinion",
+   "title": "Làm việc tại nhà",
+   "kind": "opinion",
+   "prep": 45,
+   "speak": 60,
+   "question": "Some companies allow employees to work from home two days a week. Do you agree that this is a good policy? Give reasons and examples to support your opinion.",
+   "sample": "I agree that allowing employees to work from home two days a week is a good policy, for two main reasons.\n\nFirst, it saves a great deal of time. In my city, many people spend more than an hour commuting each way. If they work from home twice a week, that is roughly four hours saved every week, and most people put that time back into their work or their families.\n\nSecond, it helps companies keep good staff. A friend of mine turned down a higher salary last year simply because the other company required five days in the office. Flexibility has become part of what people expect.\n\nThat said, I think two days is the right limit rather than working from home full time. New employees still learn fastest by sitting near experienced colleagues, and some discussions are simply faster in person. So a mix of the two is the best arrangement.",
+   "outline": [
+    "Câu đầu nêu rõ lập trường và báo trước có mấy lý do.",
+    "Lý do 1 kèm con số cụ thể.",
+    "Lý do 2 kèm ví dụ có thật.",
+    "Một câu nhượng bộ rồi chốt lại — đây là chỗ nâng band."
+   ],
+   "phrases": [
+    "I agree that…, for two main reasons.",
+    "First… Second…",
+    "A friend of mine…",
+    "That said, …",
+    "So a mix of the two is…"
+   ],
+   "errors": [
+    "Nói \"In my opinion, I think…\" — thừa, chọn một trong hai.",
+    "Không có ví dụ cụ thể, chỉ nói chung chung \"it is good for everyone\".",
+    "Hết ý ở giây thứ 30. Chuẩn bị sẵn hai lý do và một câu nhượng bộ là đủ 60 giây.",
+    "Đổi lập trường giữa chừng. Chọn một phía và giữ nguyên đến cuối."
+   ]
+  },
+  {
+   "id": "s12",
+   "no": 1,
+   "group": "Q1–2 Read a text aloud",
+   "title": "Airport announcement",
+   "kind": "read",
+   "prep": 45,
+   "speak": 45,
+   "task": "Đọc to đoạn văn dưới đây. Bạn có 45 giây chuẩn bị và 45 giây để đọc.",
+   "text": "Good afternoon, passengers. This is a boarding announcement for flight 274 to Chicago. We will begin boarding in approximately fifteen minutes at gate twelve. Passengers traveling with small children or requiring special assistance are welcome to board first. Please have your boarding pass and identification ready. We remind you that this is a non-smoking flight, and all electronic devices should be switched to airplane mode before departure.",
+   "marks": [
+    {
+     "p": "boarding announcement",
+     "t": "link",
+     "n": "nối thành \"bor-ding-ə-naun-smənt\""
+    },
+    {
+     "p": "approximately",
+     "t": "stress",
+     "n": "ə-PROK-si-mət-li — trọng âm âm tiết thứ hai"
+    },
+    {
+     "p": "special assistance",
+     "t": "link",
+     "n": "\"spe-shəl-ə-sis-təns\", nối /l/ sang nguyên âm"
+    },
+    {
+     "p": "identification",
+     "t": "stress",
+     "n": "ai-den-ti-fi-KEI-shən — trọng âm rơi gần cuối"
+    },
+    {
+     "p": "electronic devices",
+     "t": "link",
+     "n": "\"i-lek-tro-nik-di-vai-siz\""
+    },
+    {
+     "p": "airplane mode",
+     "t": "stress",
+     "n": "AIR-plane, trọng âm ở từ đầu"
+    }
+   ],
+   "note": "Đây là dạng thông báo — giọng cần rõ ràng, ngắt câu ở dấu phẩy, xuống giọng cuối câu.",
+   "outline": [
+    "Đọc chậm rãi, ngắt rõ ở mỗi dấu phẩy.",
+    "Nhấn các con số: flight 274, gate twelve, fifteen minutes."
+   ],
+   "phrases": [
+    "boarding announcement",
+    "special assistance",
+    "airplane mode"
+   ],
+   "errors": [
+    "Đọc số sai: \"two seventy-four\" cho flight 274 là ổn, nhưng đừng đọc \"two hundred seventy four\" nghe rối.",
+    "Bỏ /s/ cuối \"passengers\", \"devices\" — âm số nhiều rất dễ rơi.",
+    "Đọc liền một mạch không ngắt. Dấu phẩy là chỗ lấy hơi và ngắt nhẹ."
+   ]
+  },
+  {
+   "id": "s13",
+   "no": 2,
+   "group": "Q1–2 Read a text aloud",
+   "title": "Radio advertisement",
+   "kind": "read",
+   "prep": 45,
+   "speak": 45,
+   "task": "Đọc to đoạn văn dưới đây. Bạn có 45 giây chuẩn bị và 45 giây để đọc.",
+   "text": "Are you looking for a reliable way to stay fit this year? At Riverside Fitness, we offer flexible membership plans, modern equipment, and experienced trainers ready to help you reach your goals. New members who sign up this month will receive a free personal training session and a one-week trial. Visit our website or stop by our downtown location to learn more. Riverside Fitness — where your health comes first.",
+   "marks": [
+    {
+     "p": "reliable",
+     "t": "stress",
+     "n": "ri-LAI-ə-bl — trọng âm âm tiết thứ hai"
+    },
+    {
+     "p": "looking for a",
+     "t": "link",
+     "n": "\"lu-king-fə-rə\", nối liền ba từ"
+    },
+    {
+     "p": "flexible membership",
+     "t": "stress",
+     "n": "FLEK-si-bl, MEM-bər-ship — cả hai trọng âm ở đầu"
+    },
+    {
+     "p": "experienced trainers",
+     "t": "link",
+     "n": "\"ik-spi-ri-ənst-trei-nərz\""
+    },
+    {
+     "p": "sign up",
+     "t": "link",
+     "n": "\"sai-nʌp\", nối /n/ sang nguyên âm"
+    },
+    {
+     "p": "comes first",
+     "t": "stress",
+     "n": "nhấn FIRST để chốt câu quảng cáo mạnh mẽ"
+    }
+   ],
+   "note": "Quảng cáo cần giọng nhiệt tình, lên giọng ở câu hỏi mở đầu, nhấn tên thương hiệu.",
+   "outline": [
+    "Câu hỏi đầu lên giọng để thu hút.",
+    "Liệt kê ưu điểm rõ ràng, nhấn tên Riverside Fitness ở cuối."
+   ],
+   "phrases": [
+    "looking for a reliable way",
+    "flexible membership plans",
+    "where your health comes first"
+   ],
+   "errors": [
+    "Đọc đều đều như văn bản. Quảng cáo cần năng lượng và biến điệu giọng.",
+    "Không lên giọng ở câu hỏi \"Are you looking…?\" — mất sự lôi cuốn.",
+    "Đọc lướt tên thương hiệu. Riverside Fitness cần rõ và nhấn."
+   ]
+  },
+  {
+   "id": "s14",
+   "no": 3,
+   "group": "Q3–4 Describe a picture",
+   "title": "A busy café",
+   "kind": "picture",
+   "scene": "cafe",
+   "prep": 45,
+   "speak": 30,
+   "task": "Mô tả bức tranh chi tiết nhất có thể. Bạn có 45 giây chuẩn bị và 30 giây để nói.",
+   "frame": [
+    {
+     "h": "Mở đầu",
+     "lines": [
+      "This picture was taken in…",
+      "There are several people…"
+     ]
+    },
+    {
+     "h": "Vị trí",
+     "lines": [
+      "In the foreground…",
+      "Behind the counter…",
+      "By the window…"
+     ]
+    },
+    {
+     "h": "Hành động",
+     "lines": [
+      "A barista is making…",
+      "Some customers are sitting…",
+      "One woman is looking at…"
+     ]
+    },
+    {
+     "h": "Phỏng đoán",
+     "lines": [
+      "It looks like a busy morning.",
+      "They seem to be…",
+      "I would guess…"
+     ]
+    }
+   ],
+   "vocab": [
+    "barista",
+    "counter",
+    "customers",
+    "laptop",
+    "takeaway cup",
+    "chat",
+    "order a drink"
+   ],
+   "sample": "This picture was taken in a café, probably in the morning. There are several people inside. Behind the counter, a barista is making a drink. In the foreground, two customers are sitting at a table, and one of them is looking at a laptop. By the window, a man is holding a takeaway cup. Overall, it looks like a busy morning at a popular café.",
+   "outline": [
+    "Một câu mở: nơi chốn + số người.",
+    "Đi từ quầy ra bàn, tả vị trí và hành động.",
+    "Một câu phỏng đoán để kết."
+   ],
+   "phrases": [
+    "This picture was taken in…",
+    "Behind the counter…",
+    "is making + noun",
+    "Overall, it looks like…"
+   ],
+   "errors": [
+    "Dùng \"have\" thay \"there is / there are\".",
+    "Quên đuôi -ing: \"a barista make\" thay vì \"is making\".",
+    "Tả lộn xộn, nhảy từ chỗ này sang chỗ kia. Đi theo một hướng cố định.",
+    "Không có câu phỏng đoán kết bài."
+   ]
+  },
+  {
+   "id": "s15",
+   "no": 4,
+   "group": "Q3–4 Describe a picture",
+   "title": "A city park",
+   "kind": "picture",
+   "scene": "park",
+   "prep": 45,
+   "speak": 30,
+   "task": "Mô tả bức tranh chi tiết nhất có thể. Bạn có 45 giây chuẩn bị và 30 giây để nói.",
+   "frame": [
+    {
+     "h": "Mở đầu",
+     "lines": [
+      "This appears to be a park…",
+      "There are a number of people…"
+     ]
+    },
+    {
+     "h": "Vị trí",
+     "lines": [
+      "In the center…",
+      "On a bench…",
+      "Along the path…"
+     ]
+    },
+    {
+     "h": "Hành động",
+     "lines": [
+      "A couple is walking…",
+      "Children are playing…",
+      "Someone is riding a bike…"
+     ]
+    },
+    {
+     "h": "Phỏng đoán",
+     "lines": [
+      "It seems to be a sunny weekend.",
+      "They appear to be relaxing.",
+      "I imagine…"
+     ]
+    }
+   ],
+   "vocab": [
+    "bench",
+    "path",
+    "fountain",
+    "jog",
+    "stroller",
+    "green space",
+    "enjoy the weather"
+   ],
+   "sample": "This appears to be a city park on a sunny day. There are a number of people enjoying the outdoors. In the center, a couple is walking along a path. On a bench to the right, an elderly man is reading a newspaper. In the background, some children are playing near a fountain. It seems to be a relaxing weekend afternoon.",
+   "outline": [
+    "Một câu mở: nơi chốn + ấn tượng chung.",
+    "Tả vị trí và hành động từ trung tâm ra xung quanh.",
+    "Một câu phỏng đoán về thời điểm/không khí."
+   ],
+   "phrases": [
+    "This appears to be…",
+    "In the center…",
+    "In the background…",
+    "It seems to be…"
+   ],
+   "errors": [
+    "Nói \"very sunny day very nice\" — lặp very, thiếu cấu trúc.",
+    "Quên giới từ chỉ vị trí: \"on a bench\", \"in the background\".",
+    "Chỉ liệt kê danh từ mà không có hành động (V-ing).",
+    "Bỏ qua câu phỏng đoán kết."
+   ]
+  },
+  {
+   "id": "s16",
+   "no": 5,
+   "group": "Q5–7 Respond to questions",
+   "title": "Public transport — câu 1",
+   "kind": "qa",
+   "prep": 3,
+   "speak": 15,
+   "scenario": "Imagine that a transportation company is conducting a survey in your city. You have agreed to answer some questions about public transport.",
+   "question": "How often do you use public transport, and which type do you use most?",
+   "sample": "I use public transport almost every day, mainly to get to work. I take the bus most often because there's a stop right near my apartment, though I sometimes use the train when I'm in a hurry.",
+   "outline": [
+    "Trả lời cả hai vế: tần suất và loại phương tiện.",
+    "Thêm một lý do ngắn cho đủ 15 giây."
+   ],
+   "phrases": [
+    "almost every day",
+    "I take the bus most often",
+    "when I'm in a hurry"
+   ],
+   "errors": [
+    "Chỉ trả lời một vế. Câu có hai vế phải trả lời cả hai.",
+    "Nói \"I use bus\" thiếu mạo từ — đúng là \"I take the bus\".",
+    "Ngập ngừng \"ưm…\" mất mấy giây đầu. Vào thẳng câu trả lời."
+   ]
+  },
+  {
+   "id": "s17",
+   "no": 6,
+   "group": "Q5–7 Respond to questions",
+   "title": "Public transport — câu 2",
+   "kind": "qa",
+   "prep": 3,
+   "speak": 15,
+   "scenario": "Imagine that a transportation company is conducting a survey in your city. You have agreed to answer some questions about public transport.",
+   "question": "What is one thing you like and one thing you dislike about public transport in your area?",
+   "sample": "One thing I like is that it's cheap — a monthly pass costs very little. One thing I dislike is that buses get really crowded during rush hour, so sometimes I have to wait for the next one.",
+   "outline": [
+    "Nêu rõ một điều thích và một điều không thích, đúng như câu hỏi.",
+    "Mỗi ý kèm một lý do ngắn."
+   ],
+   "phrases": [
+    "One thing I like is…",
+    "One thing I dislike is…",
+    "during rush hour"
+   ],
+   "errors": [
+    "Chỉ nói điều thích, quên điều không thích (hoặc ngược lại).",
+    "Nói \"crowded\" nhưng phát âm sai thành \"crow-ded\" — đúng là /ˈkraʊ.dɪd/.",
+    "Lý do quá chung chung \"it is not good\". Cần cụ thể."
+   ]
+  },
+  {
+   "id": "s18",
+   "no": 7,
+   "group": "Q5–7 Respond to questions",
+   "title": "Public transport — câu 3",
+   "kind": "qa",
+   "prep": 3,
+   "speak": 30,
+   "scenario": "Imagine that a transportation company is conducting a survey in your city. You have agreed to answer some questions about public transport.",
+   "question": "If the city could make one improvement to public transport, what should it be, and why?",
+   "sample": "If the city could make one improvement, I think it should increase the number of buses during rush hour. Right now, buses come every twenty minutes in the morning, and they're always packed. If they ran every ten minutes instead, fewer people would be late for work, and the buses would be less crowded and more comfortable.",
+   "outline": [
+    "Câu 7 dài hơn (30 giây) nên cần một đề xuất + lý do + kết quả.",
+    "Nêu đề xuất rõ ràng.",
+    "Giải thích tại sao và điều tốt sẽ xảy ra."
+   ],
+   "phrases": [
+    "I think it should…",
+    "Right now…",
+    "If they ran… instead",
+    "fewer people would be…"
+   ],
+   "errors": [
+    "Trả lời quá ngắn như câu 5-6. Câu 7 có 30 giây, cần khai triển hơn.",
+    "Chỉ nêu đề xuất mà không giải thích lý do.",
+    "Dùng sai câu điều kiện: \"If they run every ten minutes, people will…\" trộn thì. Giữ nhất quán."
+   ]
+  },
+  {
+   "id": "s19",
+   "no": 8,
+   "group": "Q8–10 Respond using information",
+   "title": "Hội thảo — câu 1",
+   "kind": "table",
+   "prep": 3,
+   "speak": 15,
+   "read": 45,
+   "scenario": "Hi, this is Sarah. I'm planning to attend the digital marketing workshop next week, but I misplaced the details. Can I ask you a few quick questions?",
+   "question": "To start, what date is the workshop, and what time does it begin?",
+   "sample": "Of course. The workshop is on Thursday, November ninth, and it begins at nine thirty in the morning.",
+   "outline": [
+    "Một từ mở đầu thân thiện: Of course.",
+    "Trả lời đúng hai thông tin: ngày và giờ bắt đầu."
+   ],
+   "phrases": [
+    "Of course, let me check.",
+    "The workshop is on…",
+    "it begins at…"
+   ],
+   "errors": [
+    "Đọc nguyên dòng trong bảng thay vì diễn đạt thành câu.",
+    "Đọc ngày sai: November ninth chứ không phải November nine.",
+    "Nói \"begin at nine thirty\" thiếu chủ ngữ — cần \"it begins at…\"."
+   ],
+   "agenda": {
+    "title": "DIGITAL MARKETING WORKSHOP",
+    "sub": "Thursday, 9 November · Bexley Training Centre, Hall A",
+    "rows": [
+     {
+      "time": "9:30 – 10:45",
+      "item": "Fundamentals of SEO",
+      "by": "Ms. Chen"
+     },
+     {
+      "time": "10:45 – 11:00",
+      "item": "Break",
+      "by": ""
+     },
+     {
+      "time": "11:00 – 12:30",
+      "item": "Email marketing that works",
+      "by": "Ms. Chen"
+     },
+     {
+      "time": "12:30 – 13:00",
+      "item": "Lunch",
+      "by": ""
+     },
+     {
+      "time": "13:00 – 14:15",
+      "item": "Social media strategy",
+      "by": "Mr. Roberts"
+     },
+     {
+      "time": "14:30 – 15:45",
+      "item": "Hands-on: content creation",
+      "by": "Mr. Roberts"
+     },
+     {
+      "time": "16:00 – 16:45",
+      "item": "Q&A panel",
+      "by": "All speakers"
+     }
+    ]
+   },
+   "task": "Dùng thông tin trong bảng để trả lời. Bạn có 45 giây đọc bảng, sau đó 3 giây chuẩn bị và 15–30 giây cho mỗi câu."
+  },
+  {
+   "id": "s20",
+   "no": 9,
+   "group": "Q8–10 Respond using information",
+   "title": "Hội thảo — câu 2",
+   "kind": "table",
+   "prep": 3,
+   "speak": 15,
+   "read": 45,
+   "scenario": "Hi, this is Sarah. I'm planning to attend the digital marketing workshop next week. Can I ask you a few more questions?",
+   "question": "I heard the workshop is led by Mr. Roberts. Is that correct?",
+   "sample": "Actually, that's not quite right. The morning session is led by Ms. Chen. Mr. Roberts leads the afternoon session on social media strategy.",
+   "outline": [
+    "Đây là dạng đính chính: người hỏi nói sai, bạn sửa lại lịch sự.",
+    "Dùng \"Actually…\" rồi nêu thông tin đúng."
+   ],
+   "phrases": [
+    "Actually, that's not quite right.",
+    "is led by…",
+    "the afternoon session"
+   ],
+   "errors": [
+    "Trả lời \"Yes\" theo phản xạ dù thông tin trong bảng khác — phải kiểm tra và đính chính.",
+    "Đính chính cộc lốc \"No, wrong\". Dùng \"Actually, that's not quite right\" cho lịch sự.",
+    "Bỏ giới từ \"led by\" — nói \"led Ms. Chen\" là sai."
+   ],
+   "agenda": {
+    "title": "DIGITAL MARKETING WORKSHOP",
+    "sub": "Thursday, 9 November · Bexley Training Centre, Hall A",
+    "rows": [
+     {
+      "time": "9:30 – 10:45",
+      "item": "Fundamentals of SEO",
+      "by": "Ms. Chen"
+     },
+     {
+      "time": "10:45 – 11:00",
+      "item": "Break",
+      "by": ""
+     },
+     {
+      "time": "11:00 – 12:30",
+      "item": "Email marketing that works",
+      "by": "Ms. Chen"
+     },
+     {
+      "time": "12:30 – 13:00",
+      "item": "Lunch",
+      "by": ""
+     },
+     {
+      "time": "13:00 – 14:15",
+      "item": "Social media strategy",
+      "by": "Mr. Roberts"
+     },
+     {
+      "time": "14:30 – 15:45",
+      "item": "Hands-on: content creation",
+      "by": "Mr. Roberts"
+     },
+     {
+      "time": "16:00 – 16:45",
+      "item": "Q&A panel",
+      "by": "All speakers"
+     }
+    ]
+   },
+   "task": "Dùng thông tin trong bảng để trả lời. Bạn có 45 giây đọc bảng, sau đó 3 giây chuẩn bị và 15–30 giây cho mỗi câu."
+  },
+  {
+   "id": "s21",
+   "no": 10,
+   "group": "Q8–10 Respond using information",
+   "title": "Hội thảo — câu 3",
+   "kind": "table",
+   "prep": 3,
+   "speak": 30,
+   "read": 45,
+   "scenario": "Hi, this is Sarah. One last thing before I let you go.",
+   "question": "Could you tell me everything scheduled for the afternoon, after the lunch break?",
+   "sample": "Sure. After the lunch break, there are three sessions in the afternoon. At one o'clock, Mr. Roberts leads a session on social media strategy. At two thirty, there's a hands-on workshop on content creation. Finally, at four o'clock, the day ends with a question-and-answer panel.",
+   "outline": [
+    "Câu 10 tổng hợp nhiều dòng (30 giây).",
+    "Báo trước có mấy mục.",
+    "Liệt kê từng mục theo thứ tự thời gian, dùng từ nối."
+   ],
+   "phrases": [
+    "there are three sessions",
+    "At one o'clock…",
+    "Finally, at four…",
+    "the day ends with…"
+   ],
+   "errors": [
+    "Chỉ đọc một dòng rồi dừng. Câu 10 yêu cầu tổng hợp NHIỀU dòng.",
+    "Không dùng từ nối thời gian (At…, Then…, Finally…) nên nghe rời rạc.",
+    "Đọc giờ sai định dạng: \"two thirty\" chứ không \"two and half\"."
+   ],
+   "agenda": {
+    "title": "DIGITAL MARKETING WORKSHOP",
+    "sub": "Thursday, 9 November · Bexley Training Centre, Hall A",
+    "rows": [
+     {
+      "time": "9:30 – 10:45",
+      "item": "Fundamentals of SEO",
+      "by": "Ms. Chen"
+     },
+     {
+      "time": "10:45 – 11:00",
+      "item": "Break",
+      "by": ""
+     },
+     {
+      "time": "11:00 – 12:30",
+      "item": "Email marketing that works",
+      "by": "Ms. Chen"
+     },
+     {
+      "time": "12:30 – 13:00",
+      "item": "Lunch",
+      "by": ""
+     },
+     {
+      "time": "13:00 – 14:15",
+      "item": "Social media strategy",
+      "by": "Mr. Roberts"
+     },
+     {
+      "time": "14:30 – 15:45",
+      "item": "Hands-on: content creation",
+      "by": "Mr. Roberts"
+     },
+     {
+      "time": "16:00 – 16:45",
+      "item": "Q&A panel",
+      "by": "All speakers"
+     }
+    ]
+   },
+   "task": "Dùng thông tin trong bảng để trả lời. Bạn có 45 giây đọc bảng, sau đó 3 giây chuẩn bị và 15–30 giây cho mỗi câu."
+  },
+  {
+   "id": "s22",
+   "no": 11,
+   "group": "Q11 Express an opinion",
+   "title": "Học trực tuyến",
+   "kind": "opinion",
+   "prep": 45,
+   "speak": 60,
+   "question": "Some people believe that online courses are just as effective as traditional in-person classes. Do you agree or disagree? Give reasons and examples to support your opinion.",
+   "sample": "I disagree that online courses are just as effective as in-person classes, for two main reasons.\n\nFirst, in-person classes make it easier to stay focused. When I took an online course last year, I often got distracted by my phone or by things around the house. In a real classroom, the presence of a teacher and other students naturally keeps you engaged.\n\nSecond, in-person classes allow immediate interaction. If I don't understand something, I can raise my hand and get an answer right away. In many online courses, I have to post a question and wait hours or even days for a reply.\n\nThat said, I admit online courses have real advantages, such as flexibility and lower cost. But when it comes to how much I actually learn and remember, a traditional classroom still works better for me.",
+   "outline": [
+    "Câu đầu nêu rõ lập trường và báo trước có mấy lý do.",
+    "Lý do 1 kèm trải nghiệm cá nhân.",
+    "Lý do 2 kèm ví dụ cụ thể.",
+    "Một câu nhượng bộ rồi chốt lại — chỗ nâng band."
+   ],
+   "phrases": [
+    "I disagree that…, for two main reasons.",
+    "First… Second…",
+    "When I took…",
+    "That said, I admit…",
+    "still works better for me"
+   ],
+   "errors": [
+    "Nói \"In my opinion, I think…\" — thừa, chọn một.",
+    "Không có ví dụ cụ thể, chỉ nói chung chung.",
+    "Hết ý ở giây 30. Chuẩn bị hai lý do và một nhượng bộ là đủ 60 giây.",
+    "Đổi lập trường giữa chừng. Chọn một phía và giữ đến cuối."
+   ]
+  },
+  {
+   "id": "s23",
+   "no": 1,
+   "group": "Q1–2 Read a text aloud",
+   "title": "Museum welcome",
+   "kind": "read",
+   "prep": 45,
+   "speak": 45,
+   "task": "Đọc to đoạn văn dưới đây. Bạn có 45 giây chuẩn bị và 45 giây để đọc.",
+   "text": "Welcome to the National History Museum. We are delighted to have you here today. Guided tours begin every hour from the main hall, and audio guides are available in six languages at the information desk. Please remember that photography without flash is permitted throughout the building, but food and drinks are not allowed in the exhibition areas. We hope you enjoy your visit and discover something new.",
+   "marks": [
+    {
+     "p": "delighted",
+     "t": "stress",
+     "n": "di-LAI-tid — trọng âm âm tiết thứ hai"
+    },
+    {
+     "p": "have you here",
+     "t": "link",
+     "n": "\"ha-vyu-hir\", nối liền"
+    },
+    {
+     "p": "available",
+     "t": "stress",
+     "n": "ə-VEI-lə-bl — trọng âm thứ hai"
+    },
+    {
+     "p": "information desk",
+     "t": "stress",
+     "n": "in-fə-MEI-shən, trọng âm gần cuối"
+    },
+    {
+     "p": "not allowed",
+     "t": "link",
+     "n": "\"no-tə-laud\", nối /t/ sang nguyên âm"
+    },
+    {
+     "p": "exhibition",
+     "t": "stress",
+     "n": "ek-si-BI-shən — trọng âm rơi vào 'bi'"
+    }
+   ],
+   "note": "Giọng chào đón, ấm áp. Ngắt rõ giữa các ý, nhấn thông tin quan trọng.",
+   "outline": [
+    "Câu chào mở đầu ấm áp.",
+    "Đọc rõ các thông tin thực tế: giờ tour, số ngôn ngữ, quy định."
+   ],
+   "phrases": [
+    "We are delighted to…",
+    "audio guides are available",
+    "we hope you enjoy"
+   ],
+   "errors": [
+    "Đọc /s/ cuối bị rơi: \"tours\", \"guides\", \"languages\".",
+    "Đọc 'six languages' liền quá nhanh, nghe không rõ số.",
+    "Giọng đều đều, thiếu sự chào đón mà đoạn văn đòi hỏi."
+   ]
+  },
+  {
+   "id": "s24",
+   "no": 2,
+   "group": "Q1–2 Read a text aloud",
+   "title": "Weather report",
+   "kind": "read",
+   "prep": 45,
+   "speak": 45,
+   "task": "Đọc to đoạn văn dưới đây. Bạn có 45 giây chuẩn bị và 45 giây để đọc.",
+   "text": "And now for your local weather forecast. Today will be mostly sunny with a high of twenty-six degrees and a gentle breeze from the southwest. This evening, expect some clouds to move in, with a slight chance of rain after midnight. Tomorrow looks cooler and cloudier, so you may want to bring a light jacket. Temperatures will drop to around eighteen degrees by the afternoon.",
+   "marks": [
+    {
+     "p": "weather forecast",
+     "t": "stress",
+     "n": "WE-thər FOR-cast — trọng âm ở đầu mỗi từ"
+    },
+    {
+     "p": "mostly sunny",
+     "t": "link",
+     "n": "\"most-li-sʌ-ni\""
+    },
+    {
+     "p": "gentle breeze",
+     "t": "stress",
+     "n": "JEN-tl breeze"
+    },
+    {
+     "p": "chance of rain",
+     "t": "link",
+     "n": "\"chan-sə-vrein\", nối liền"
+    },
+    {
+     "p": "cooler and cloudier",
+     "t": "link",
+     "n": "\"cu-lə-rən-clau-di-ər\""
+    },
+    {
+     "p": "eighteen degrees",
+     "t": "stress",
+     "n": "eigh-TEEN — trọng âm cuối để phân biệt với eighty"
+    }
+   ],
+   "note": "Giọng dự báo thời tiết đều, rõ, nhấn các con số nhiệt độ.",
+   "outline": [
+    "Câu mở giới thiệu bản tin.",
+    "Đọc rõ nhiệt độ và các mốc thời gian: today, this evening, tomorrow."
+   ],
+   "phrases": [
+    "mostly sunny with a high of…",
+    "a slight chance of rain",
+    "you may want to bring…"
+   ],
+   "errors": [
+    "Nhầm 'eighteen' và 'eighty' — nhớ nhấn cuối cho -teen.",
+    "Đọc số nhiệt độ vội. Con số là thông tin chính, cần rõ.",
+    "Không ngắt giữa các mốc thời gian, nghe lẫn lộn today/tomorrow."
+   ]
+  },
+  {
+   "id": "s25",
+   "no": 3,
+   "group": "Q3–4 Describe a picture",
+   "title": "A kitchen",
+   "kind": "picture",
+   "scene": "kitchen",
+   "prep": 45,
+   "speak": 30,
+   "task": "Mô tả bức tranh chi tiết nhất có thể. Bạn có 45 giây chuẩn bị và 30 giây để nói.",
+   "frame": [
+    {
+     "h": "Mở đầu",
+     "lines": [
+      "This picture shows…",
+      "There are two people…"
+     ]
+    },
+    {
+     "h": "Vị trí",
+     "lines": [
+      "At the counter…",
+      "Near the stove…",
+      "On the table…"
+     ]
+    },
+    {
+     "h": "Hành động",
+     "lines": [
+      "A woman is chopping…",
+      "A man is stirring…",
+      "They are preparing…"
+     ]
+    },
+    {
+     "h": "Phỏng đoán",
+     "lines": [
+      "It looks like they're cooking dinner.",
+      "They seem to be enjoying it.",
+      "Perhaps…"
+     ]
+    }
+   ],
+   "vocab": [
+    "counter",
+    "stove",
+    "chop vegetables",
+    "stir",
+    "apron",
+    "ingredients",
+    "prepare a meal"
+   ],
+   "sample": "This picture shows a kitchen, probably in someone's home. There are two people preparing food. At the counter on the left, a woman is chopping vegetables. Near the stove, a man is stirring something in a pot. On the table, there are several ingredients ready to be used. It looks like they are cooking dinner together and enjoying it.",
+   "outline": [
+    "Câu mở: nơi chốn + số người.",
+    "Tả vị trí và hành động của từng người.",
+    "Câu phỏng đoán về việc họ đang làm."
+   ],
+   "phrases": [
+    "This picture shows…",
+    "At the counter…",
+    "is chopping / is stirring",
+    "It looks like…"
+   ],
+   "errors": [
+    "Dùng 'have' thay 'there are'.",
+    "Quên -ing với động từ hành động.",
+    "Tả một người rồi quên người kia. Cân đối cả hai.",
+    "Bỏ câu phỏng đoán kết bài."
+   ]
+  },
+  {
+   "id": "s26",
+   "no": 4,
+   "group": "Q3–4 Describe a picture",
+   "title": "A construction site",
+   "kind": "picture",
+   "scene": "construction",
+   "prep": 45,
+   "speak": 30,
+   "task": "Mô tả bức tranh chi tiết nhất có thể. Bạn có 45 giây chuẩn bị và 30 giây để nói.",
+   "frame": [
+    {
+     "h": "Mở đầu",
+     "lines": [
+      "This appears to be a construction site.",
+      "I can see several workers…"
+     ]
+    },
+    {
+     "h": "Vị trí",
+     "lines": [
+      "In the foreground…",
+      "On the right…",
+      "In the background…"
+     ]
+    },
+    {
+     "h": "Hành động",
+     "lines": [
+      "A worker is carrying…",
+      "Two men are examining…",
+      "A crane is lifting…"
+     ]
+    },
+    {
+     "h": "Phỏng đoán",
+     "lines": [
+      "They must be building…",
+      "It seems to be a busy day.",
+      "I would guess…"
+     ]
+    }
+   ],
+   "vocab": [
+    "hard hat",
+    "safety vest",
+    "crane",
+    "scaffolding",
+    "blueprint",
+    "machinery",
+    "under construction"
+   ],
+   "sample": "This appears to be a construction site, probably in a city. I can see several workers wearing hard hats and safety vests. In the foreground, a worker is carrying some materials. On the right, two men are examining a blueprint together. In the background, a crane is lifting a heavy load. They must be building a new structure, and it seems to be a busy working day.",
+   "outline": [
+    "Câu mở: nơi chốn + ấn tượng chung.",
+    "Tả trang phục an toàn và hành động, từ gần ra xa.",
+    "Câu phỏng đoán về công việc."
+   ],
+   "phrases": [
+    "This appears to be…",
+    "wearing hard hats",
+    "is carrying / is lifting",
+    "They must be…"
+   ],
+   "errors": [
+    "Không tả chi tiết an toàn (hard hat, vest) — đây là từ vựng ăn điểm.",
+    "Quên -ing hoặc dùng sai thì.",
+    "Nhảy vị trí lộn xộn thay vì đi theo thứ tự.",
+    "Thiếu câu phỏng đoán."
+   ]
+  },
+  {
+   "id": "s27",
+   "no": 5,
+   "group": "Q5–7 Respond to questions",
+   "title": "Reading habits — câu 1",
+   "kind": "qa",
+   "prep": 3,
+   "speak": 15,
+   "scenario": "Imagine that a publishing company is doing research about reading. You have agreed to answer some questions about your reading habits.",
+   "question": "How often do you read books, and what kind do you prefer?",
+   "sample": "I read almost every night before bed, usually for about half an hour. I mostly prefer non-fiction, especially books about history and business, because I like learning practical things.",
+   "outline": [
+    "Trả lời cả hai vế: tần suất và thể loại.",
+    "Thêm một lý do ngắn."
+   ],
+   "phrases": [
+    "almost every night",
+    "I mostly prefer…",
+    "because I like…"
+   ],
+   "errors": [
+    "Chỉ trả lời một vế.",
+    "Nói 'I read book' thiếu số nhiều/mạo từ — 'I read books'.",
+    "Ngập ngừng đầu câu."
+   ]
+  },
+  {
+   "id": "s28",
+   "no": 6,
+   "group": "Q5–7 Respond to questions",
+   "title": "Reading habits — câu 2",
+   "kind": "qa",
+   "prep": 3,
+   "speak": 15,
+   "scenario": "Imagine that a publishing company is doing research about reading. You have agreed to answer some questions about your reading habits.",
+   "question": "Do you prefer reading printed books or e-books? Why?",
+   "sample": "I prefer printed books, honestly. I like the feeling of turning real pages, and it's easier on my eyes than staring at a screen. Also, I find that I remember things better when I read on paper.",
+   "outline": [
+    "Chọn rõ một bên: printed hoặc e-books.",
+    "Đưa hai lý do ngắn gọn."
+   ],
+   "phrases": [
+    "I prefer…, honestly.",
+    "it's easier on my eyes",
+    "I remember things better"
+   ],
+   "errors": [
+    "Không chọn dứt khoát, nói 'both are good' rồi lan man.",
+    "Chỉ nói 'because I like it' — lý do rỗng.",
+    "Phát âm 'prefer' sai trọng âm: đúng là pri-FER."
+   ]
+  },
+  {
+   "id": "s29",
+   "no": 7,
+   "group": "Q5–7 Respond to questions",
+   "title": "Reading habits — câu 3",
+   "kind": "qa",
+   "prep": 3,
+   "speak": 30,
+   "scenario": "Imagine that a publishing company is doing research about reading. You have agreed to answer some questions about your reading habits.",
+   "question": "Some people say children today read less than before. What do you think could encourage children to read more?",
+   "sample": "I think the best way to encourage children to read more is to make it fun rather than a duty. For example, parents could read stories aloud together at home, or schools could let children choose books they're genuinely interested in. When reading feels like a choice instead of homework, children are much more likely to enjoy it and keep doing it.",
+   "outline": [
+    "Câu 7 dài 30 giây: nêu ý chính + ví dụ + kết quả.",
+    "Đề xuất rõ ràng.",
+    "Ví dụ cụ thể và điều tốt sẽ xảy ra."
+   ],
+   "phrases": [
+    "the best way to… is to…",
+    "For example…",
+    "When reading feels like…"
+   ],
+   "errors": [
+    "Trả lời quá ngắn cho câu 30 giây.",
+    "Nêu ý chung chung mà không có ví dụ.",
+    "Dùng sai cấu trúc 'encourage someone to do something'."
+   ]
+  },
+  {
+   "id": "s30",
+   "no": 8,
+   "group": "Q8–10 Respond using information",
+   "title": "Hội nghị — câu 1",
+   "kind": "table",
+   "prep": 3,
+   "speak": 15,
+   "read": 45,
+   "scenario": "Hi, this is David. I'm attending the technology conference tomorrow but I can't find the agenda. Could you help me with a couple of questions?",
+   "question": "First, where is the conference being held, and what time does registration open?",
+   "sample": "Of course. The conference is being held at the Grand Convention Center, and registration opens at eight o'clock in the morning.",
+   "outline": [
+    "Từ mở thân thiện: Of course.",
+    "Trả lời đúng hai thông tin: địa điểm và giờ đăng ký."
+   ],
+   "phrases": [
+    "Of course.",
+    "is being held at…",
+    "registration opens at…"
+   ],
+   "errors": [
+    "Đọc nguyên dòng bảng thay vì thành câu hoàn chỉnh.",
+    "Bỏ giới từ: 'held Grand Convention Center'.",
+    "Đọc giờ sai: 'eight o'clock' chứ không 'eight hour'."
+   ],
+   "agenda": {
+    "title": "TECHNOLOGY CONFERENCE",
+    "sub": "Friday, 14 March · Grand Convention Center",
+    "rows": [
+     {
+      "time": "8:00",
+      "item": "Registration opens",
+      "by": "Main lobby"
+     },
+     {
+      "time": "10:00 – 11:00",
+      "item": "Networking session",
+      "by": "Main lobby"
+     },
+     {
+      "time": "11:00 – 12:00",
+      "item": "Keynote: The future of tech",
+      "by": "Dr. Sania Malik"
+     },
+     {
+      "time": "12:00 – 13:30",
+      "item": "Lunch",
+      "by": ""
+     },
+     {
+      "time": "13:30 – 14:45",
+      "item": "Panel: Artificial intelligence",
+      "by": "Various"
+     },
+     {
+      "time": "15:00 – 16:15",
+      "item": "Cloud computing",
+      "by": "Dr. Lee"
+     },
+     {
+      "time": "16:30 – 17:30",
+      "item": "Closing networking reception",
+      "by": ""
+     }
+    ]
+   },
+   "task": "Dùng thông tin trong bảng để trả lời. Bạn có 45 giây đọc bảng, sau đó 3 giây chuẩn bị và 15–30 giây cho mỗi câu."
+  },
+  {
+   "id": "s31",
+   "no": 9,
+   "group": "Q8–10 Respond using information",
+   "title": "Hội nghị — câu 2",
+   "kind": "table",
+   "prep": 3,
+   "speak": 15,
+   "read": 45,
+   "scenario": "Hi, this is David. Just a couple more questions about the technology conference.",
+   "question": "I believe the keynote speech is at ten o'clock. Am I right?",
+   "sample": "Actually, that's not quite right. The keynote speech is scheduled for eleven o'clock. At ten o'clock, there's a networking session in the main lobby.",
+   "outline": [
+    "Dạng đính chính: người hỏi nói sai giờ, bạn sửa.",
+    "Dùng 'Actually…' và nêu thông tin đúng."
+   ],
+   "phrases": [
+    "Actually, that's not quite right.",
+    "is scheduled for…",
+    "there's a networking session"
+   ],
+   "errors": [
+    "Trả lời 'Yes' theo phản xạ dù bảng ghi khác.",
+    "Đính chính cộc lốc thay vì lịch sự.",
+    "Bỏ mạo từ 'a networking session'."
+   ],
+   "agenda": {
+    "title": "TECHNOLOGY CONFERENCE",
+    "sub": "Friday, 14 March · Grand Convention Center",
+    "rows": [
+     {
+      "time": "8:00",
+      "item": "Registration opens",
+      "by": "Main lobby"
+     },
+     {
+      "time": "10:00 – 11:00",
+      "item": "Networking session",
+      "by": "Main lobby"
+     },
+     {
+      "time": "11:00 – 12:00",
+      "item": "Keynote: The future of tech",
+      "by": "Dr. Sania Malik"
+     },
+     {
+      "time": "12:00 – 13:30",
+      "item": "Lunch",
+      "by": ""
+     },
+     {
+      "time": "13:30 – 14:45",
+      "item": "Panel: Artificial intelligence",
+      "by": "Various"
+     },
+     {
+      "time": "15:00 – 16:15",
+      "item": "Cloud computing",
+      "by": "Dr. Lee"
+     },
+     {
+      "time": "16:30 – 17:30",
+      "item": "Closing networking reception",
+      "by": ""
+     }
+    ]
+   },
+   "task": "Dùng thông tin trong bảng để trả lời. Bạn có 45 giây đọc bảng, sau đó 3 giây chuẩn bị và 15–30 giây cho mỗi câu."
+  },
+  {
+   "id": "s32",
+   "no": 10,
+   "group": "Q8–10 Respond using information",
+   "title": "Hội nghị — câu 3",
+   "kind": "table",
+   "prep": 3,
+   "speak": 30,
+   "read": 45,
+   "scenario": "Hi, this is David. One final question before the conference.",
+   "question": "Could you tell me about all the sessions happening in the afternoon?",
+   "sample": "Sure. There are three sessions in the afternoon. At one thirty, there's a panel discussion on artificial intelligence. At three o'clock, Dr. Lee gives a talk on cloud computing. Finally, at four thirty, the conference closes with a networking reception.",
+   "outline": [
+    "Câu 10 tổng hợp nhiều dòng (30 giây).",
+    "Báo trước có mấy mục.",
+    "Liệt kê theo thứ tự thời gian với từ nối."
+   ],
+   "phrases": [
+    "There are three sessions",
+    "At one thirty…",
+    "Finally…",
+    "closes with…"
+   ],
+   "errors": [
+    "Chỉ đọc một dòng rồi dừng. Câu 10 cần tổng hợp nhiều dòng.",
+    "Thiếu từ nối thời gian nên rời rạc.",
+    "Đọc giờ sai định dạng: 'one thirty' không phải 'one and thirty'."
+   ],
+   "agenda": {
+    "title": "TECHNOLOGY CONFERENCE",
+    "sub": "Friday, 14 March · Grand Convention Center",
+    "rows": [
+     {
+      "time": "8:00",
+      "item": "Registration opens",
+      "by": "Main lobby"
+     },
+     {
+      "time": "10:00 – 11:00",
+      "item": "Networking session",
+      "by": "Main lobby"
+     },
+     {
+      "time": "11:00 – 12:00",
+      "item": "Keynote: The future of tech",
+      "by": "Dr. Sania Malik"
+     },
+     {
+      "time": "12:00 – 13:30",
+      "item": "Lunch",
+      "by": ""
+     },
+     {
+      "time": "13:30 – 14:45",
+      "item": "Panel: Artificial intelligence",
+      "by": "Various"
+     },
+     {
+      "time": "15:00 – 16:15",
+      "item": "Cloud computing",
+      "by": "Dr. Lee"
+     },
+     {
+      "time": "16:30 – 17:30",
+      "item": "Closing networking reception",
+      "by": ""
+     }
+    ]
+   },
+   "task": "Dùng thông tin trong bảng để trả lời. Bạn có 45 giây đọc bảng, sau đó 3 giây chuẩn bị và 15–30 giây cho mỗi câu."
+  },
+  {
+   "id": "s33",
+   "no": 11,
+   "group": "Q11 Express an opinion",
+   "title": "Điện thoại ở trường",
+   "kind": "opinion",
+   "prep": 45,
+   "speak": 60,
+   "question": "Some schools have banned students from using smartphones during class hours. Do you think this is a good idea? Give reasons and examples to support your opinion.",
+   "sample": "I think banning smartphones during class hours is a good idea, for two main reasons.\n\nFirst, phones are a major distraction. When I was a student, even a single notification could pull my attention away from the lesson for several minutes. Without phones on their desks, students can concentrate far more easily on what the teacher is saying.\n\nSecond, it encourages real interaction. During breaks, students who aren't staring at screens are more likely to talk to each other and build friendships. I've seen classrooms where everyone just looks at their phone in silence, which seems a bit sad.\n\nThat said, I do think phones can be useful for certain activities, like looking up information for a project. So rather than a total ban, allowing them only when the teacher approves might be the ideal solution.",
+   "outline": [
+    "Câu đầu nêu lập trường và báo trước mấy lý do.",
+    "Lý do 1 kèm trải nghiệm cá nhân.",
+    "Lý do 2 kèm quan sát cụ thể.",
+    "Một câu nhượng bộ rồi chốt — chỗ nâng band."
+   ],
+   "phrases": [
+    "I think…, for two main reasons.",
+    "First… Second…",
+    "When I was a student…",
+    "That said…",
+    "the ideal solution"
+   ],
+   "errors": [
+    "Nói 'In my opinion, I think…' — thừa.",
+    "Không có ví dụ cụ thể.",
+    "Hết ý ở giây 30 vì không chuẩn bị đủ hai lý do.",
+    "Đổi lập trường giữa chừng."
+   ]
+  },
+  {
+   "id": "s34",
+   "no": 1,
+   "group": "Q1–2 Read a text aloud",
+   "title": "Airport announcement",
+   "kind": "read",
+   "prep": 45,
+   "speak": 45,
+   "task": "Đọc to đoạn văn dưới đây. Bạn có 45 giây chuẩn bị và 45 giây để đọc.",
+   "text": "Good afternoon, passengers. Welcome aboard this flight to Singapore. Before we depart, please make sure your seatbelt is fastened and your tray table is stored. Our flight time today will be approximately six hours and twenty minutes. During the flight, our cabin crew will offer a light meal and a selection of hot and cold drinks. We thank you for choosing our airline and wish you a pleasant journey.",
+   "marks": [
+    {
+     "p": "Welcome aboard",
+     "t": "link",
+     "n": "nối thành \"wel-kə-mə-bord\""
+    },
+    {
+     "p": "make sure",
+     "t": "link",
+     "n": "\"mei-kshor\", hai từ dính vào nhau"
+    },
+    {
+     "p": "approximately",
+     "t": "stress",
+     "n": "ə-PROK-si-mət-li — trọng âm âm tiết thứ hai"
+    },
+    {
+     "p": "selection",
+     "t": "stress",
+     "n": "si-LEK-shən"
+    },
+    {
+     "p": "hot and cold",
+     "t": "link",
+     "n": "\"hɒ-tən-kould\", and rút gọn thành /ən/"
+    },
+    {
+     "p": "pleasant journey",
+     "t": "link",
+     "n": "\"ple-zənt-jər-ni\""
+    }
+   ],
+   "outline": [
+    "Câu chào mở đầu — đọc chậm, thân thiện, xuống giọng cuối câu.",
+    "Hai câu hướng dẫn (seatbelt, tray table) — giọng đều, rõ ràng.",
+    "Con số 'six hours and twenty minutes' đọc tách rõ từng phần.",
+    "Câu cảm ơn cuối — lên giọng nhẹ ở 'pleasant journey' để nghe niềm nở."
+   ],
+   "phrases": [
+    "Welcome aboard",
+    "make sure…",
+    "We thank you for…"
+   ],
+   "errors": [
+    "Đọc số 'six hours and twenty minutes' quá nhanh, dính vào nhau.",
+    "Bỏ trọng âm 'approximately' — đọc đều làm mất tự nhiên.",
+    "Quên xuống giọng cuối câu khiến nghe như còn dở."
+   ]
+  },
+  {
+   "id": "s35",
+   "no": 2,
+   "group": "Q1–2 Read a text aloud",
+   "title": "Voicemail greeting",
+   "kind": "read",
+   "prep": 45,
+   "speak": 45,
+   "task": "Đọc to đoạn văn dưới đây. Bạn có 45 giây chuẩn bị và 45 giây để đọc.",
+   "text": "Thank you for calling Riverside Dental Clinic. Our office is currently closed. Our regular hours are Monday through Friday, from eight in the morning until six in the evening. If this is an emergency, please call our after-hours line at five five five, zero one nine two. Otherwise, please leave your name, number, and a brief message, and a member of our team will return your call on the next business day.",
+   "marks": [
+    {
+     "p": "Thank you for calling",
+     "t": "link",
+     "n": "\"than-kyu-fə-cor-ling\", cả cụm nối liền"
+    },
+    {
+     "p": "currently",
+     "t": "stress",
+     "n": "CUR-rənt-li — trọng âm âm đầu, chữ t giữa nhẹ"
+    },
+    {
+     "p": "Monday through Friday",
+     "t": "link",
+     "n": "through nghĩa 'đến hết', bao gồm cả thứ Sáu"
+    },
+    {
+     "p": "emergency",
+     "t": "stress",
+     "n": "i-MER-jən-si — trọng âm âm tiết thứ hai"
+    },
+    {
+     "p": "leave your",
+     "t": "link",
+     "n": "\"li-vyor\", v nối sang y"
+    },
+    {
+     "p": "business day",
+     "t": "stress",
+     "n": "BIZ-nis-dei, business đọc hai âm tiết không phải ba"
+    }
+   ],
+   "outline": [
+    "Câu chào công ty — đọc rõ tên phòng khám.",
+    "Đoạn giờ làm việc — đọc các mốc giờ tách bạch.",
+    "Số điện thoại đọc từng chữ số, ngắt nhẹ sau mỗi nhóm ba số.",
+    "Câu hướng dẫn để lại lời nhắn — liệt kê 'name, number, message' lên giọng dần."
+   ],
+   "phrases": [
+    "Thank you for calling…",
+    "Our regular hours are…",
+    "please leave your…"
+   ],
+   "errors": [
+    "Đọc số điện thoại liền một mạch không ngắt — người nghe không kịp ghi.",
+    "Nhấn sai 'emergency' thành EM-er-gen-cy.",
+    "Đọc 'business' thành ba âm tiết 'bu-si-ness'."
+   ]
+  },
+  {
+   "id": "s36",
+   "no": 3,
+   "group": "Q3–4 Describe a picture",
+   "title": "A busy café",
+   "kind": "picture",
+   "scene": "cafe",
+   "prep": 45,
+   "speak": 30,
+   "task": "Mô tả bức tranh chi tiết nhất có thể. Bạn có 45 giây chuẩn bị và 30 giây để nói.",
+   "frame": [
+    {
+     "h": "Mở đầu",
+     "lines": [
+      "This picture shows…",
+      "It looks like a busy…"
+     ]
+    },
+    {
+     "h": "Vị trí",
+     "lines": [
+      "In the foreground…",
+      "Behind the counter…",
+      "By the window…"
+     ]
+    },
+    {
+     "h": "Hành động",
+     "lines": [
+      "A barista is making…",
+      "Some customers are waiting…",
+      "A woman is sitting alone…"
+     ]
+    },
+    {
+     "h": "Phỏng đoán",
+     "lines": [
+      "It's probably…",
+      "They seem to be…",
+      "I imagine it's…"
+     ]
+    }
+   ],
+   "vocab": [
+    "barista",
+    "counter",
+    "order",
+    "takeaway cup",
+    "laptop",
+    "chatting",
+    "queue"
+   ],
+   "sample": "This picture shows the inside of a busy café, probably in the morning. Behind the counter, a barista is making a drink, and a few customers are waiting in a short queue. By the window, a woman is sitting alone with a laptop, and she seems to be working. Overall, it looks like a lively, relaxed place where people come to work or meet friends.",
+   "outline": [
+    "Câu mở: loại nơi chốn + thời điểm phỏng đoán.",
+    "Tả từ quầy (background) ra phía trước.",
+    "Một câu phỏng đoán không khí chung để chốt."
+   ],
+   "phrases": [
+    "This picture shows…",
+    "Behind the counter…",
+    "It looks like…"
+   ],
+   "errors": [
+    "Chỉ liệt kê đồ vật rời rạc mà không nói ai đang làm gì.",
+    "Dùng sai thì: phải là hiện tại tiếp diễn 'is making', không phải 'makes'.",
+    "Bỏ câu phỏng đoán tổng thể ở cuối — mất điểm mạch lạc."
+   ]
+  },
+  {
+   "id": "s37",
+   "no": 4,
+   "group": "Q3–4 Describe a picture",
+   "title": "A park in autumn",
+   "kind": "picture",
+   "scene": "park",
+   "prep": 45,
+   "speak": 30,
+   "task": "Mô tả bức tranh chi tiết nhất có thể. Bạn có 45 giây chuẩn bị và 30 giây để nói.",
+   "frame": [
+    {
+     "h": "Mở đầu",
+     "lines": [
+      "This is a picture of…",
+      "It seems to be a…day."
+     ]
+    },
+    {
+     "h": "Vị trí",
+     "lines": [
+      "In the middle…",
+      "On the path…",
+      "In the background…"
+     ]
+    },
+    {
+     "h": "Hành động",
+     "lines": [
+      "A couple is walking…",
+      "A child is playing…",
+      "Someone is sitting on a bench…"
+     ]
+    },
+    {
+     "h": "Phỏng đoán",
+     "lines": [
+      "The weather looks…",
+      "They appear to be enjoying…",
+      "It must be…"
+     ]
+    }
+   ],
+   "vocab": [
+    "path",
+    "bench",
+    "autumn leaves",
+    "jogging",
+    "stroller",
+    "fresh air",
+    "relaxing"
+   ],
+   "sample": "This is a picture of a park, and it seems to be a pleasant autumn day. In the middle, a couple is walking along a path covered with fallen leaves. On the right, someone is sitting on a bench, reading. In the background, a person is jogging. The weather looks cool but sunny, and everyone appears to be enjoying the fresh air.",
+   "outline": [
+    "Câu mở: nơi chốn + phỏng đoán thời tiết/mùa.",
+    "Hai đến ba câu tả người và hành động ở các vị trí khác nhau.",
+    "Câu chốt về thời tiết và không khí chung."
+   ],
+   "phrases": [
+    "This is a picture of…",
+    "In the middle…",
+    "The weather looks…"
+   ],
+   "errors": [
+    "Không định vị (trái/phải/giữa) khiến người nghe khó hình dung.",
+    "Nói 'autumn' nhưng quên mô tả chi tiết gợi mùa (lá rụng).",
+    "Dừng đột ngột khi hết ý thay vì chốt bằng một câu tổng."
+   ]
+  },
+  {
+   "id": "s38",
+   "no": 5,
+   "group": "Q5–7 Respond to questions",
+   "title": "Public transport — câu 1",
+   "kind": "qa",
+   "prep": 3,
+   "speak": 15,
+   "scenario": "Imagine that a transport company is doing research in your area. You have agreed to take part in a telephone interview about how you travel.",
+   "question": "How do you usually get to work or school, and how long does it take?",
+   "sample": "I usually take the bus to work, and it takes about thirty minutes. Sometimes, if the weather is nice, I ride my bike instead, which is a little faster.",
+   "outline": [
+    "Trả lời cả hai vế: phương tiện + thời gian.",
+    "Thêm một chi tiết nhỏ cho đủ 15 giây."
+   ],
+   "phrases": [
+    "I usually take…",
+    "it takes about…",
+    "if the weather is nice…"
+   ],
+   "errors": [
+    "Chỉ nói phương tiện mà quên thời gian — câu có hai vế.",
+    "Nói 'I go to work by walk' — đúng là 'I walk to work' hoặc 'on foot'.",
+    "Ngập ngừng mở đầu làm mất giây quý giá."
+   ]
+  },
+  {
+   "id": "s39",
+   "no": 6,
+   "group": "Q5–7 Respond to questions",
+   "title": "Public transport — câu 2",
+   "kind": "qa",
+   "prep": 3,
+   "speak": 15,
+   "scenario": "Imagine that a transport company is doing research in your area. You have agreed to take part in a telephone interview about how you travel.",
+   "question": "What do you like or dislike about public transport in your area?",
+   "sample": "I like that the buses are cheap and run quite often. However, I dislike that they can get very crowded during rush hour, so sometimes I have to stand the whole way.",
+   "outline": [
+    "Nêu một điểm thích và một điểm không thích — cân bằng.",
+    "Mỗi ý kèm một lý do ngắn."
+   ],
+   "phrases": [
+    "I like that…",
+    "However, I dislike…",
+    "during rush hour"
+   ],
+   "errors": [
+    "Chỉ nói thích hoặc không thích, không nêu cả hai như câu hỏi gợi ý.",
+    "Thiếu lý do — câu trả lời trống rỗng.",
+    "Dùng 'very crowd' thay vì 'very crowded'."
+   ]
+  },
+  {
+   "id": "s40",
+   "no": 7,
+   "group": "Q5–7 Respond to questions",
+   "title": "Public transport — câu 3",
+   "kind": "qa",
+   "prep": 3,
+   "speak": 30,
+   "scenario": "Imagine that a transport company is doing research in your area. You have agreed to take part in a telephone interview about how you travel.",
+   "question": "If your city built a new subway line, would you use it? Why or why not?",
+   "sample": "Yes, I would definitely use a new subway line. First, it would be much faster than the bus, especially during rush hour when the roads are jammed. Second, subways are usually more reliable because they aren't affected by traffic. For those two reasons, I think it would make my daily commute far easier.",
+   "outline": [
+    "Câu 7 dài hơn (30 giây) — nêu lập trường rồi đưa hai lý do.",
+    "Mỗi lý do một câu, có so sánh với hiện tại."
+   ],
+   "phrases": [
+    "Yes, I would definitely…",
+    "First… Second…",
+    "For those two reasons…"
+   ],
+   "errors": [
+    "Trả lời quá ngắn cho câu 30 giây — cần ít nhất hai lý do.",
+    "Không nêu lập trường rõ ngay đầu.",
+    "Lặp lại một lý do bằng hai cách nói khác nhau cho đầy giờ."
+   ]
+  },
+  {
+   "id": "s41",
+   "no": 8,
+   "group": "Q8–10 Respond using information",
+   "title": "Hỏi ngày giờ và địa điểm",
+   "kind": "table",
+   "prep": 3,
+   "speak": 15,
+   "read": 45,
+   "agenda": {
+    "title": "LEADERSHIP TRAINING DAY",
+    "sub": "Wednesday, 5 June · Kingsway Business Hotel, Room 210",
+    "rows": [
+     {
+      "time": "9:00 – 9:30",
+      "item": "Registration & coffee",
+      "by": ""
+     },
+     {
+      "time": "9:30 – 11:00",
+      "item": "Communicating with your team",
+      "by": "Dr. Alan Pierce"
+     },
+     {
+      "time": "11:00 – 11:15",
+      "item": "Break",
+      "by": ""
+     },
+     {
+      "time": "11:15 – 12:30",
+      "item": "Giving effective feedback",
+      "by": "Dr. Alan Pierce"
+     },
+     {
+      "time": "12:30 – 13:30",
+      "item": "Lunch",
+      "by": ""
+     },
+     {
+      "time": "13:30 – 15:00",
+      "item": "Managing conflict",
+      "by": "Ms. Grace Odei"
+     },
+     {
+      "time": "15:15 – 16:30",
+      "item": "Case-study workshop",
+      "by": "Ms. Grace Odei"
+     }
+    ]
+   },
+   "scenario": "Hello, this is Anna. I've registered for the leadership training but I don't have the schedule in front of me. Could you answer a few questions?",
+   "question": "First, what day is the training, and where is it being held?",
+   "sample": "Sure. The training is on Wednesday, June fifth, and it's being held at the Kingsway Business Hotel, in Room 210.",
+   "outline": [
+    "Một từ mở đầu thân thiện: Sure / Of course.",
+    "Trả lời đúng hai thông tin: ngày và địa điểm, thành câu hoàn chỉnh."
+   ],
+   "phrases": [
+    "Sure, let me check.",
+    "The training is on…",
+    "It's being held at…"
+   ],
+   "errors": [
+    "Đọc nguyên dòng trong bảng thay vì diễn đạt thành câu.",
+    "Nói 'June five' thay vì 'June fifth'.",
+    "Bỏ giới từ: 'held Kingsway Hotel' thiếu 'at the'."
+   ],
+   "task": "Dùng thông tin trong bảng để trả lời. Bạn có 45 giây đọc bảng, sau đó 3 giây chuẩn bị và 15–30 giây cho mỗi câu."
+  },
+  {
+   "id": "s42",
+   "no": 9,
+   "group": "Q8–10 Respond using information",
+   "title": "Đính chính thông tin sai",
+   "kind": "table",
+   "prep": 3,
+   "speak": 15,
+   "read": 45,
+   "agenda": {
+    "title": "LEADERSHIP TRAINING DAY",
+    "sub": "Wednesday, 5 June · Kingsway Business Hotel, Room 210",
+    "rows": [
+     {
+      "time": "9:00 – 9:30",
+      "item": "Registration & coffee",
+      "by": ""
+     },
+     {
+      "time": "9:30 – 11:00",
+      "item": "Communicating with your team",
+      "by": "Dr. Alan Pierce"
+     },
+     {
+      "time": "11:00 – 11:15",
+      "item": "Break",
+      "by": ""
+     },
+     {
+      "time": "11:15 – 12:30",
+      "item": "Giving effective feedback",
+      "by": "Dr. Alan Pierce"
+     },
+     {
+      "time": "12:30 – 13:30",
+      "item": "Lunch",
+      "by": ""
+     },
+     {
+      "time": "13:30 – 15:00",
+      "item": "Managing conflict",
+      "by": "Ms. Grace Odei"
+     },
+     {
+      "time": "15:15 – 16:30",
+      "item": "Case-study workshop",
+      "by": "Ms. Grace Odei"
+     }
+    ]
+   },
+   "scenario": "Hi again, this is Anna. I want to check something before I go.",
+   "question": "I heard that Ms. Odei runs the whole day. Is that correct?",
+   "sample": "Actually, that's not quite right. Ms. Odei only leads the two afternoon sessions. The morning sessions are led by Dr. Alan Pierce.",
+   "outline": [
+    "Bắt đầu bằng 'Actually, that's not quite right' để đính chính lịch sự.",
+    "Nêu thông tin đúng: buổi sáng là Dr. Pierce, buổi chiều mới là Ms. Odei."
+   ],
+   "phrases": [
+    "Actually, that's not quite right.",
+    "only leads…",
+    "are led by…"
+   ],
+   "errors": [
+    "Xác nhận đại 'Yes' rồi mới sửa — phải đính chính ngay từ đầu.",
+    "Nói 'led by Dr. Pierce' đúng nhưng quên nói Ms. Odei phụ trách phần nào.",
+    "Dùng 'she lead' thay vì 'she leads'."
+   ],
+   "task": "Dùng thông tin trong bảng để trả lời. Bạn có 45 giây đọc bảng, sau đó 3 giây chuẩn bị và 15–30 giây cho mỗi câu."
+  },
+  {
+   "id": "s43",
+   "no": 10,
+   "group": "Q8–10 Respond using information",
+   "title": "Tổng hợp nhiều thông tin",
+   "kind": "table",
+   "prep": 3,
+   "speak": 30,
+   "read": 45,
+   "agenda": {
+    "title": "LEADERSHIP TRAINING DAY",
+    "sub": "Wednesday, 5 June · Kingsway Business Hotel, Room 210",
+    "rows": [
+     {
+      "time": "9:00 – 9:30",
+      "item": "Registration & coffee",
+      "by": ""
+     },
+     {
+      "time": "9:30 – 11:00",
+      "item": "Communicating with your team",
+      "by": "Dr. Alan Pierce"
+     },
+     {
+      "time": "11:00 – 11:15",
+      "item": "Break",
+      "by": ""
+     },
+     {
+      "time": "11:15 – 12:30",
+      "item": "Giving effective feedback",
+      "by": "Dr. Alan Pierce"
+     },
+     {
+      "time": "12:30 – 13:30",
+      "item": "Lunch",
+      "by": ""
+     },
+     {
+      "time": "13:30 – 15:00",
+      "item": "Managing conflict",
+      "by": "Ms. Grace Odei"
+     },
+     {
+      "time": "15:15 – 16:30",
+      "item": "Case-study workshop",
+      "by": "Ms. Grace Odei"
+     }
+    ]
+   },
+   "scenario": "One last thing before I let you go.",
+   "question": "Could you tell me everything scheduled for the morning, before lunch?",
+   "sample": "Sure. In the morning, registration and coffee run from nine to nine thirty. Then, from nine thirty to eleven, Dr. Pierce leads a session on communicating with your team. After a short break, from eleven fifteen to twelve thirty, he leads a second session on giving effective feedback. Lunch begins at twelve thirty.",
+   "outline": [
+    "Câu 10 dài (30 giây) — liệt kê tất cả mục buổi sáng theo thứ tự thời gian.",
+    "Dùng từ nối: First / Then / After that để mạch trôi chảy."
+   ],
+   "phrases": [
+    "In the morning…",
+    "Then, from… to…",
+    "After a short break…"
+   ],
+   "errors": [
+    "Bỏ sót một mục trong buổi sáng — phải liệt kê đủ.",
+    "Không dùng từ nối, chỉ đọc bảng khiến rời rạc.",
+    "Đọc giờ sai: 'eleven fifteen' chứ không phải 'eleven and fifteen'."
+   ],
+   "task": "Dùng thông tin trong bảng để trả lời. Bạn có 45 giây đọc bảng, sau đó 3 giây chuẩn bị và 15–30 giây cho mỗi câu."
+  },
+  {
+   "id": "s44",
+   "no": 11,
+   "group": "Q11 Express an opinion",
+   "title": "Học trực tuyến",
+   "kind": "opinion",
+   "prep": 45,
+   "speak": 60,
+   "question": "Some universities now offer many of their courses online. Do you think online learning is as effective as learning in a classroom? Give reasons and examples to support your opinion.",
+   "sample": "In my opinion, online learning can be effective, but it is not quite as effective as learning in a classroom, for two main reasons.\n\nFirst, a classroom keeps students focused. At home, it is very easy to get distracted by your phone or by things around you. When I took an online course last year, I often paused the video and lost my concentration, which rarely happened in a real class.\n\nSecond, learning in person allows immediate discussion. If you don't understand something, you can raise your hand and ask straight away, and you can also learn from other students' questions. Online, that back-and-forth is much slower.\n\nThat said, online learning does have real advantages, such as flexibility and saving travel time. So I think the best approach is a mix: online for convenience, and classroom sessions for the parts that need discussion.",
+   "outline": [
+    "Câu đầu nêu lập trường có sắc thái (hiệu quả nhưng không bằng) và báo trước hai lý do.",
+    "Lý do 1 kèm trải nghiệm cá nhân cụ thể.",
+    "Lý do 2 giải thích cơ chế (thảo luận trực tiếp).",
+    "Câu nhượng bộ nêu ưu điểm phía kia rồi chốt bằng giải pháp trung hoà — chỗ nâng band."
+   ],
+   "phrases": [
+    "In my opinion…",
+    "First… Second…",
+    "That said…",
+    "the best approach is a mix"
+   ],
+   "errors": [
+    "Trả lời cụt cho câu 60 giây — cần hai lý do có khai triển.",
+    "Không cho ví dụ cụ thể, chỉ nói chung chung.",
+    "Quên câu nhượng bộ — bài một chiều khó đạt band cao."
+   ]
+  },
+  {
+   "id": "s45",
+   "no": 1,
+   "group": "Q1–2 Read a text aloud",
+   "title": "Museum tour welcome",
+   "kind": "read",
+   "prep": 45,
+   "speak": 45,
+   "task": "Đọc to đoạn văn dưới đây. Bạn có 45 giây chuẩn bị và 45 giây để đọc.",
+   "text": "Welcome to the National History Museum. We are delighted to have you here today. Your ticket gives you access to all three floors, including our new exhibition on ancient trade routes. Guided tours begin every hour on the ground floor, near the main staircase. Photography is allowed, but please turn off your flash to protect the artefacts. We hope you enjoy your visit and discover something new.",
+   "marks": [
+    {
+     "p": "delighted to",
+     "t": "link",
+     "n": "nuốt /d/, nghe thành \"di-lai-tə-tə\""
+    },
+    {
+     "p": "access to all",
+     "t": "link",
+     "n": "\"æk-se-stə-ol\", cả cụm nối liền"
+    },
+    {
+     "p": "exhibition",
+     "t": "stress",
+     "n": "ek-si-BI-shən — chú ý chữ h câm"
+    },
+    {
+     "p": "artefacts",
+     "t": "stress",
+     "n": "AR-tə-fakts — trọng âm âm đầu"
+    },
+    {
+     "p": "turn off",
+     "t": "link",
+     "n": "\"tər-nɒf\", n nối sang off"
+    },
+    {
+     "p": "enjoy your",
+     "t": "link",
+     "n": "\"in-joi-yor\""
+    }
+   ],
+   "outline": [
+    "Câu chào mở đầu niềm nở — giọng ấm, xuống cuối câu.",
+    "Đoạn thông tin vé và tầng — đọc rõ 'three floors'.",
+    "Câu hướng dẫn tour — nhấn 'every hour' và 'ground floor'.",
+    "Lưu ý về chụp ảnh — giọng nhẹ nhàng nhưng rõ ở 'turn off your flash'."
+   ],
+   "phrases": [
+    "Welcome to…",
+    "Your ticket gives you access to…",
+    "We hope you enjoy…"
+   ],
+   "errors": [
+    "Đọc 'exhibition' phát âm chữ h (sai) — h câm.",
+    "Bỏ trọng âm 'artefacts'.",
+    "Đọc liền 'turn off' không nối âm, nghe cứng."
+   ]
+  },
+  {
+   "id": "s46",
+   "no": 2,
+   "group": "Q1–2 Read a text aloud",
+   "title": "Radio traffic update",
+   "kind": "read",
+   "prep": 45,
+   "speak": 45,
+   "task": "Đọc to đoạn văn dưới đây. Bạn có 45 giây chuẩn bị và 45 giây để đọc.",
+   "text": "And now for your morning traffic update. Traffic is moving slowly on the main highway due to roadworks near exit twelve. Drivers heading downtown should expect delays of about fifteen minutes. As an alternative, we recommend taking Riverside Avenue, which is currently clear. Public transport is running normally, and the next weather report will follow after these messages. Drive safely, and have a great morning.",
+   "marks": [
+    {
+     "p": "traffic update",
+     "t": "link",
+     "n": "\"træ-fi-kʌp-deit\""
+    },
+    {
+     "p": "due to",
+     "t": "stress",
+     "n": "\"dju-tə\", cụm chỉ nguyên nhân"
+    },
+    {
+     "p": "heading downtown",
+     "t": "link",
+     "n": "\"he-ding-daun-taun\""
+    },
+    {
+     "p": "recommend",
+     "t": "stress",
+     "n": "re-kə-MEND — trọng âm âm cuối"
+    },
+    {
+     "p": "alternative",
+     "t": "stress",
+     "n": "ol-TER-nə-tiv — trọng âm âm tiết thứ hai"
+    },
+    {
+     "p": "Drive safely",
+     "t": "link",
+     "n": "\"drai-vseif-li\""
+    }
+   ],
+   "outline": [
+    "Câu mở kiểu phát thanh — giọng rõ ràng, hơi nhanh, chuyên nghiệp.",
+    "Đoạn mô tả kẹt xe — nhấn 'exit twelve' và 'fifteen minutes'.",
+    "Câu gợi ý đường thay thế — lên giọng ở 'Riverside Avenue'.",
+    "Câu chào cuối 'Drive safely' — thân thiện, xuống giọng."
+   ],
+   "phrases": [
+    "And now for…",
+    "we recommend taking…",
+    "Drive safely"
+   ],
+   "errors": [
+    "Nhấn sai 'recommend' và 'alternative'.",
+    "Đọc số 'exit twelve' và 'fifteen minutes' quá nhanh.",
+    "Giọng đều đều, thiếu chất phát thanh viên."
+   ]
+  },
+  {
+   "id": "s47",
+   "no": 3,
+   "group": "Q3–4 Describe a picture",
+   "title": "A construction site",
+   "kind": "picture",
+   "scene": "construction",
+   "prep": 45,
+   "speak": 30,
+   "task": "Mô tả bức tranh chi tiết nhất có thể. Bạn có 45 giây chuẩn bị và 30 giây để nói.",
+   "frame": [
+    {
+     "h": "Mở đầu",
+     "lines": [
+      "This picture shows…",
+      "It appears to be a…"
+     ]
+    },
+    {
+     "h": "Vị trí",
+     "lines": [
+      "In the foreground…",
+      "On the left…",
+      "High up…"
+     ]
+    },
+    {
+     "h": "Hành động",
+     "lines": [
+      "Workers are wearing…",
+      "A crane is lifting…",
+      "One man is operating…"
+     ]
+    },
+    {
+     "h": "Phỏng đoán",
+     "lines": [
+      "It looks like…",
+      "They seem to be building…",
+      "Safety is clearly…"
+     ]
+    }
+   ],
+   "vocab": [
+    "hard hat",
+    "crane",
+    "scaffolding",
+    "construction workers",
+    "safety vest",
+    "building site",
+    "machinery"
+   ],
+   "sample": "This picture shows a construction site, probably in a city. In the foreground, several workers are wearing hard hats and orange safety vests. On the left, a tall crane is lifting some materials up to an unfinished building. One man appears to be operating a machine. It looks like they are building an office block, and safety seems to be a clear priority here.",
+   "outline": [
+    "Câu mở: loại công trình + nơi chốn phỏng đoán.",
+    "Tả trang bị an toàn và hoạt động chính (cần cẩu).",
+    "Câu chốt phỏng đoán họ đang xây gì."
+   ],
+   "phrases": [
+    "This picture shows…",
+    "Workers are wearing…",
+    "It looks like…"
+   ],
+   "errors": [
+    "Quên nhắc trang bị an toàn (mũ, áo) — chi tiết dễ ghi điểm.",
+    "Nói 'they build' thay vì 'they are building'.",
+    "Không định vị cần cẩu (cao/bên trái) khiến khó hình dung."
+   ]
+  },
+  {
+   "id": "s48",
+   "no": 4,
+   "group": "Q3–4 Describe a picture",
+   "title": "A busy kitchen",
+   "kind": "picture",
+   "scene": "kitchen",
+   "prep": 45,
+   "speak": 30,
+   "task": "Mô tả bức tranh chi tiết nhất có thể. Bạn có 45 giây chuẩn bị và 30 giây để nói.",
+   "frame": [
+    {
+     "h": "Mở đầu",
+     "lines": [
+      "This is a picture of…",
+      "It seems to be a…kitchen."
+     ]
+    },
+    {
+     "h": "Vị trí",
+     "lines": [
+      "In the centre…",
+      "Next to the stove…",
+      "Along the counter…"
+     ]
+    },
+    {
+     "h": "Hành động",
+     "lines": [
+      "A chef is chopping…",
+      "Someone is stirring…",
+      "They are wearing…"
+     ]
+    },
+    {
+     "h": "Phỏng đoán",
+     "lines": [
+      "It must be…",
+      "They look…",
+      "I'd guess it's…"
+     ]
+    }
+   ],
+   "vocab": [
+    "chef",
+    "apron",
+    "stove",
+    "chopping vegetables",
+    "saucepan",
+    "uniform",
+    "restaurant kitchen"
+   ],
+   "sample": "This is a picture of a busy restaurant kitchen. In the centre, a chef in a white uniform is chopping vegetables on a wooden board. Next to the stove, another cook is stirring something in a large saucepan. They are all wearing aprons and look very focused. It must be a busy time, perhaps just before the restaurant opens for dinner.",
+   "outline": [
+    "Câu mở: loại bếp (nhà hàng).",
+    "Tả hai người và hành động ở vị trí khác nhau.",
+    "Câu chốt phỏng đoán thời điểm (giờ cao điểm)."
+   ],
+   "phrases": [
+    "This is a picture of…",
+    "In the centre…",
+    "It must be…"
+   ],
+   "errors": [
+    "Chỉ nói 'people are cooking' — quá chung, cần hành động cụ thể.",
+    "Bỏ chi tiết trang phục (đồng phục, tạp dề).",
+    "Không chốt phỏng đoán bối cảnh."
+   ]
+  },
+  {
+   "id": "s49",
+   "no": 5,
+   "group": "Q5–7 Respond to questions",
+   "title": "Reading habits — câu 1",
+   "kind": "qa",
+   "prep": 3,
+   "speak": 15,
+   "scenario": "Imagine that a publishing company is doing research. You have agreed to take part in a telephone interview about reading habits.",
+   "question": "How often do you read books, and what kind do you prefer?",
+   "sample": "I read fairly often, maybe three or four times a week, usually before bed. I mostly prefer novels, especially mysteries, because they keep me curious about what happens next.",
+   "outline": [
+    "Trả lời cả hai vế: tần suất + thể loại.",
+    "Thêm một lý do ngắn cho đủ 15 giây."
+   ],
+   "phrases": [
+    "I read fairly often…",
+    "I mostly prefer…",
+    "because they keep me…"
+   ],
+   "errors": [
+    "Chỉ nói tần suất mà quên thể loại.",
+    "Nói 'I read book' thiếu số nhiều — 'books'.",
+    "Ngập ngừng mở đầu quá lâu."
+   ]
+  },
+  {
+   "id": "s50",
+   "no": 6,
+   "group": "Q5–7 Respond to questions",
+   "title": "Reading habits — câu 2",
+   "kind": "qa",
+   "prep": 3,
+   "speak": 15,
+   "scenario": "Imagine that a publishing company is doing research. You have agreed to take part in a telephone interview about reading habits.",
+   "question": "Do you prefer reading printed books or reading on a screen? Why?",
+   "sample": "I prefer printed books, mainly because they are easier on my eyes. Also, I like the feeling of turning real pages, and I don't get distracted by notifications the way I do on a screen.",
+   "outline": [
+    "Nêu lựa chọn rõ ràng rồi cho lý do.",
+    "Thêm một lý do phụ để đủ giờ."
+   ],
+   "phrases": [
+    "I prefer…",
+    "mainly because…",
+    "Also, I like…"
+   ],
+   "errors": [
+    "Không nêu lựa chọn rõ, trả lời lấp lửng.",
+    "Thiếu lý do — câu hỏi có 'Why'.",
+    "Dùng 'more easy' thay vì 'easier'."
+   ]
+  },
+  {
+   "id": "s51",
+   "no": 7,
+   "group": "Q5–7 Respond to questions",
+   "title": "Reading habits — câu 3",
+   "kind": "qa",
+   "prep": 3,
+   "speak": 30,
+   "scenario": "Imagine that a publishing company is doing research. You have agreed to take part in a telephone interview about reading habits.",
+   "question": "Some people say children read less than they used to. What could parents do to encourage children to read more?",
+   "sample": "I think there are two useful things parents can do. First, they can read to their children from a young age, which makes reading feel enjoyable rather than like homework. Second, they can keep plenty of interesting books at home and let children choose whatever appeals to them. In my experience, children read far more when they pick the books themselves.",
+   "outline": [
+    "Câu 7 dài (30 giây) — nêu hai gợi ý cụ thể.",
+    "Mỗi gợi ý một câu, kèm lý do hoặc ví dụ."
+   ],
+   "phrases": [
+    "I think there are two…",
+    "First… Second…",
+    "In my experience…"
+   ],
+   "errors": [
+    "Chỉ đưa một gợi ý rồi hết ý — câu 30 giây cần ít nhất hai.",
+    "Nói chung chung 'parents should help' mà không cụ thể.",
+    "Không liên hệ kinh nghiệm/ví dụ để thuyết phục."
+   ]
+  },
+  {
+   "id": "s52",
+   "no": 8,
+   "group": "Q8–10 Respond using information",
+   "title": "Hỏi giờ và giá",
+   "kind": "table",
+   "prep": 3,
+   "speak": 15,
+   "read": 45,
+   "agenda": {
+    "title": "COMMUNITY FITNESS CLASSES",
+    "sub": "This week · Elmwood Community Centre",
+    "rows": [
+     {
+      "time": "Mon 18:00",
+      "item": "Beginner Yoga — $8",
+      "by": "Studio 1"
+     },
+     {
+      "time": "Tue 19:00",
+      "item": "Spin Cycling — $10",
+      "by": "Studio 2"
+     },
+     {
+      "time": "Wed 18:30",
+      "item": "Pilates — $9",
+      "by": "Studio 1"
+     },
+     {
+      "time": "Thu 19:00",
+      "item": "Boxing Fitness — $12",
+      "by": "Main Hall"
+     },
+     {
+      "time": "Sat 10:00",
+      "item": "Family Zumba — $6",
+      "by": "Main Hall"
+     }
+    ]
+   },
+   "scenario": "Hi, this is Kevin. I'm interested in joining a fitness class this week but I don't have the timetable. Can I ask you a few things?",
+   "question": "First, what time is the Pilates class, and how much does it cost?",
+   "sample": "Sure. The Pilates class is on Wednesday at six thirty in the evening, and it costs nine dollars.",
+   "outline": [
+    "Từ mở đầu thân thiện.",
+    "Trả lời đúng giờ và giá, thành câu hoàn chỉnh."
+   ],
+   "phrases": [
+    "Sure, let me check.",
+    "The Pilates class is on…",
+    "it costs…"
+   ],
+   "errors": [
+    "Đọc trống 'Pilates six thirty nine dollars' thay vì câu đầy đủ.",
+    "Nói 'nine dollar' thiếu số nhiều.",
+    "Bỏ 'in the evening' làm giờ mơ hồ."
+   ],
+   "task": "Dùng thông tin trong bảng để trả lời. Bạn có 45 giây đọc bảng, sau đó 3 giây chuẩn bị và 15–30 giây cho mỗi câu."
+  },
+  {
+   "id": "s53",
+   "no": 9,
+   "group": "Q8–10 Respond using information",
+   "title": "Đính chính giá sai",
+   "kind": "table",
+   "prep": 3,
+   "speak": 15,
+   "read": 45,
+   "agenda": {
+    "title": "COMMUNITY FITNESS CLASSES",
+    "sub": "This week · Elmwood Community Centre",
+    "rows": [
+     {
+      "time": "Mon 18:00",
+      "item": "Beginner Yoga — $8",
+      "by": "Studio 1"
+     },
+     {
+      "time": "Tue 19:00",
+      "item": "Spin Cycling — $10",
+      "by": "Studio 2"
+     },
+     {
+      "time": "Wed 18:30",
+      "item": "Pilates — $9",
+      "by": "Studio 1"
+     },
+     {
+      "time": "Thu 19:00",
+      "item": "Boxing Fitness — $12",
+      "by": "Main Hall"
+     },
+     {
+      "time": "Sat 10:00",
+      "item": "Family Zumba — $6",
+      "by": "Main Hall"
+     }
+    ]
+   },
+   "scenario": "Thanks. Just one more thing I want to confirm.",
+   "question": "I think the Boxing Fitness class is only eight dollars, right?",
+   "sample": "Actually, that's not quite right. The Boxing Fitness class costs twelve dollars. The eight-dollar class is the Beginner Yoga on Monday.",
+   "outline": [
+    "Đính chính ngay bằng 'Actually, that's not quite right'.",
+    "Nêu giá đúng, rồi làm rõ lớp nào mới là 8 đô."
+   ],
+   "phrases": [
+    "Actually, that's not quite right.",
+    "costs twelve dollars",
+    "The eight-dollar class is…"
+   ],
+   "errors": [
+    "Xác nhận đại rồi mới sửa.",
+    "Chỉ sửa giá mà không chỉ ra lớp 8 đô là lớp nào — nên bổ sung cho rõ.",
+    "Nói 'twelve dollar' thiếu số nhiều."
+   ],
+   "task": "Dùng thông tin trong bảng để trả lời. Bạn có 45 giây đọc bảng, sau đó 3 giây chuẩn bị và 15–30 giây cho mỗi câu."
+  },
+  {
+   "id": "s54",
+   "no": 10,
+   "group": "Q8–10 Respond using information",
+   "title": "Liệt kê theo tiêu chí",
+   "kind": "table",
+   "prep": 3,
+   "speak": 30,
+   "read": 45,
+   "agenda": {
+    "title": "COMMUNITY FITNESS CLASSES",
+    "sub": "This week · Elmwood Community Centre",
+    "rows": [
+     {
+      "time": "Mon 18:00",
+      "item": "Beginner Yoga — $8",
+      "by": "Studio 1"
+     },
+     {
+      "time": "Tue 19:00",
+      "item": "Spin Cycling — $10",
+      "by": "Studio 2"
+     },
+     {
+      "time": "Wed 18:30",
+      "item": "Pilates — $9",
+      "by": "Studio 1"
+     },
+     {
+      "time": "Thu 19:00",
+      "item": "Boxing Fitness — $12",
+      "by": "Main Hall"
+     },
+     {
+      "time": "Sat 10:00",
+      "item": "Family Zumba — $6",
+      "by": "Main Hall"
+     }
+    ]
+   },
+   "scenario": "Actually, my evenings are busy on weekdays.",
+   "question": "Could you tell me about any classes that cost ten dollars or less?",
+   "sample": "Sure. There are several. On Monday at six, there's Beginner Yoga for eight dollars. On Tuesday at seven, Spin Cycling is ten dollars. On Wednesday at six thirty, Pilates is nine dollars. And on Saturday morning at ten, there's Family Zumba for just six dollars.",
+   "outline": [
+    "Câu 10 dài (30 giây) — lọc và liệt kê mọi lớp thoả tiêu chí (≤ 10 đô).",
+    "Mỗi lớp: ngày, giờ, tên, giá. Dùng từ nối."
+   ],
+   "phrases": [
+    "There are several.",
+    "On Monday… there's…",
+    "for just… dollars"
+   ],
+   "errors": [
+    "Liệt kê cả lớp 12 đô (Boxing) — không thoả tiêu chí, sai yêu cầu.",
+    "Bỏ sót một lớp đủ điều kiện.",
+    "Chỉ đọc tên lớp mà quên giờ và giá."
+   ],
+   "task": "Dùng thông tin trong bảng để trả lời. Bạn có 45 giây đọc bảng, sau đó 3 giây chuẩn bị và 15–30 giây cho mỗi câu."
+  },
+  {
+   "id": "s55",
+   "no": 11,
+   "group": "Q11 Express an opinion",
+   "title": "Điện thoại ở nơi làm việc",
+   "kind": "opinion",
+   "prep": 45,
+   "speak": 60,
+   "question": "Some companies ban the use of personal mobile phones during working hours. Do you think this is a good idea? Give reasons and examples to support your opinion.",
+   "sample": "On the whole, I think banning personal phones during working hours is a reasonable idea, though it should be applied with some flexibility.\n\nThe main reason is that phones are a huge source of distraction. A quick glance at a message can easily turn into ten minutes of scrolling. When I worked at a busy office, I noticed that people who kept their phones in a drawer got their tasks done much faster.\n\nAnother reason is fairness to customers. If a staff member is checking social media while a customer waits, it gives a very poor impression of the company.\n\nHowever, I don't think the ban should be total. People may need their phones for emergencies or family matters. So the best policy is to allow phone use during breaks, but keep phones away during actual work. That way, employees stay focused without feeling completely cut off.",
+   "outline": [
+    "Câu đầu nêu lập trường có sắc thái (đồng ý nhưng cần linh hoạt).",
+    "Lý do 1 kèm quan sát thực tế.",
+    "Lý do 2 về ấn tượng với khách hàng.",
+    "Câu nhượng bộ (trường hợp khẩn cấp) rồi chốt bằng chính sách trung hoà."
+   ],
+   "phrases": [
+    "On the whole…",
+    "The main reason is…",
+    "Another reason is…",
+    "However…",
+    "the best policy is…"
+   ],
+   "errors": [
+    "Trả lời một chiều, không có câu nhượng bộ.",
+    "Thiếu ví dụ cụ thể minh hoạ cho lý do.",
+    "Không chốt bằng một giải pháp rõ ràng ở cuối."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1223 @@
+{
+ "topic": "Ngân hàng bán lẻ & mua sắm",
+ "words": [
+  {
+   "id": "sh001",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "retailer",
+   "ipa": "/ˈriːteɪlə/",
+   "pos": "n",
+   "vi": "nhà bán lẻ",
+   "ex": "The retailer opened three new stores this year.",
+   "exVi": "Nhà bán lẻ mở ba cửa hàng mới năm nay.",
+   "col": [
+    "a major retailer",
+    "an online retailer"
+   ]
+  },
+  {
+   "id": "sh002",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "storefront",
+   "ipa": "/ˈstɔːfrʌnt/",
+   "pos": "n",
+   "vi": "mặt tiền cửa hàng",
+   "ex": "The bright storefront draws passing shoppers.",
+   "exVi": "Mặt tiền cửa hàng sáng sủa thu hút khách qua đường.",
+   "col": [
+    "a storefront",
+    "an attractive storefront"
+   ]
+  },
+  {
+   "id": "sh003",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "merchandise",
+   "ipa": "/ˈmɜːtʃəndaɪz/",
+   "pos": "n",
+   "vi": "hàng hoá",
+   "ex": "Seasonal merchandise fills the front display.",
+   "exVi": "Hàng hoá theo mùa lấp đầy quầy trưng bày phía trước.",
+   "col": [
+    "display merchandise",
+    "seasonal merchandise"
+   ]
+  },
+  {
+   "id": "sh004",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "aisle",
+   "ipa": "/aɪl/",
+   "pos": "n",
+   "vi": "lối đi giữa kệ",
+   "ex": "Household goods are in the third aisle.",
+   "exVi": "Đồ gia dụng ở lối đi thứ ba.",
+   "col": [
+    "a supermarket aisle",
+    "along the aisle"
+   ]
+  },
+  {
+   "id": "sh005",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "checkout",
+   "ipa": "/ˈtʃekaʊt/",
+   "pos": "n",
+   "vi": "quầy thanh toán",
+   "ex": "The self-service checkout speeds up busy hours.",
+   "exVi": "Quầy thanh toán tự phục vụ giúp giờ cao điểm nhanh hơn.",
+   "col": [
+    "a checkout counter",
+    "a self-service checkout"
+   ]
+  },
+  {
+   "id": "sh006",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "cashier",
+   "ipa": "/kæˈʃɪə/",
+   "pos": "n",
+   "vi": "thu ngân",
+   "ex": "The cashier scanned each item quickly.",
+   "exVi": "Thu ngân quét từng món nhanh chóng.",
+   "col": [
+    "a cashier",
+    "a checkout cashier"
+   ]
+  },
+  {
+   "id": "sh007",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "receipt",
+   "ipa": "/rɪˈsiːt/",
+   "pos": "n",
+   "vi": "hoá đơn",
+   "ex": "Keep your receipt for any returns.",
+   "exVi": "Giữ hoá đơn của bạn cho việc trả hàng.",
+   "col": [
+    "a sales receipt",
+    "print a receipt"
+   ]
+  },
+  {
+   "id": "sh008",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "transaction",
+   "ipa": "/trænˈzækʃn/",
+   "pos": "n",
+   "vi": "giao dịch",
+   "ex": "Each transaction is recorded automatically.",
+   "exVi": "Mỗi giao dịch được ghi lại tự động.",
+   "col": [
+    "a cash transaction",
+    "a card transaction"
+   ]
+  },
+  {
+   "id": "sh009",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "purchase",
+   "ipa": "/ˈpɜːtʃəs/",
+   "pos": "n, v",
+   "vi": "việc mua",
+   "ex": "A large purchase earns bonus points.",
+   "exVi": "Một lần mua lớn được điểm thưởng.",
+   "col": [
+    "make a purchase",
+    "a recent purchase"
+   ]
+  },
+  {
+   "id": "sh010",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "refund",
+   "ipa": "/ˈriːfʌnd/",
+   "pos": "n, v",
+   "vi": "hoàn tiền",
+   "ex": "The store gave a full refund without question.",
+   "exVi": "Cửa hàng hoàn tiền đầy đủ không thắc mắc.",
+   "col": [
+    "a full refund",
+    "a refund policy"
+   ]
+  },
+  {
+   "id": "sh011",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "exchange",
+   "ipa": "/ɪksˈtʃeɪndʒ/",
+   "pos": "n, v",
+   "vi": "đổi hàng",
+   "ex": "An exchange is allowed within two weeks.",
+   "exVi": "Được phép đổi hàng trong hai tuần.",
+   "col": [
+    "exchange an item",
+    "a fair exchange"
+   ]
+  },
+  {
+   "id": "sh012",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "discount",
+   "ipa": "/ˈdɪskaʊnt/",
+   "pos": "n",
+   "vi": "giảm giá",
+   "ex": "Members receive a discount on every purchase.",
+   "exVi": "Thành viên được giảm giá cho mỗi lần mua.",
+   "col": [
+    "a discount",
+    "a bulk discount"
+   ]
+  },
+  {
+   "id": "sh013",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "markdown",
+   "ipa": "/ˈmɑːkdaʊn/",
+   "pos": "n",
+   "vi": "đợt hạ giá",
+   "ex": "A seasonal markdown cleared the old stock.",
+   "exVi": "Một đợt hạ giá theo mùa giải phóng hàng cũ.",
+   "col": [
+    "a markdown",
+    "a price markdown"
+   ]
+  },
+  {
+   "id": "sh014",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "clearance",
+   "ipa": "/ˈklɪərəns/",
+   "pos": "n",
+   "vi": "thanh lý",
+   "ex": "The clearance sale drew large crowds.",
+   "exVi": "Đợt thanh lý thu hút đám đông lớn.",
+   "col": [
+    "a clearance sale",
+    "on clearance"
+   ]
+  },
+  {
+   "id": "sh015",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "bargain",
+   "ipa": "/ˈbɑːɡɪn/",
+   "pos": "n",
+   "vi": "món hời",
+   "ex": "The jacket was a real bargain at half price.",
+   "exVi": "Chiếc áo là một món hời thực sự với giá nửa.",
+   "col": [
+    "a real bargain",
+    "a bargain price"
+   ]
+  },
+  {
+   "id": "sh016",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "voucher",
+   "ipa": "/ˈvaʊtʃə/",
+   "pos": "n",
+   "vi": "phiếu mua hàng",
+   "ex": "A voucher gives ten percent off the next visit.",
+   "exVi": "Một phiếu mua hàng giảm mười phần trăm cho lần tới.",
+   "col": [
+    "a gift voucher",
+    "redeem a voucher"
+   ]
+  },
+  {
+   "id": "sh017",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "coupon",
+   "ipa": "/ˈkuːpɒn/",
+   "pos": "n",
+   "vi": "phiếu giảm giá",
+   "ex": "Print the coupon before you shop.",
+   "exVi": "In phiếu giảm giá trước khi mua sắm.",
+   "col": [
+    "a discount coupon",
+    "redeem a coupon"
+   ]
+  },
+  {
+   "id": "sh018",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "loyalty card",
+   "ipa": "/ˈlɔɪəlti kɑːd/",
+   "pos": "n",
+   "vi": "thẻ tích điểm",
+   "ex": "Show your loyalty card to earn points.",
+   "exVi": "Xuất trình thẻ tích điểm để nhận điểm.",
+   "col": [
+    "a loyalty card",
+    "a store loyalty card"
+   ]
+  },
+  {
+   "id": "sh019",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "inventory",
+   "ipa": "/ˈɪnvəntri/",
+   "pos": "n",
+   "vi": "hàng tồn kho",
+   "ex": "The store checks inventory every night.",
+   "exVi": "Cửa hàng kiểm tra hàng tồn kho mỗi đêm.",
+   "col": [
+    "manage inventory",
+    "an inventory count"
+   ]
+  },
+  {
+   "id": "sh020",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "stock",
+   "ipa": "/stɒk/",
+   "pos": "n",
+   "vi": "hàng có sẵn",
+   "ex": "The item is out of stock until Friday.",
+   "exVi": "Món hàng hết cho tới thứ Sáu.",
+   "col": [
+    "in stock",
+    "out of stock"
+   ]
+  },
+  {
+   "id": "sh021",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "restock",
+   "ipa": "/ˌriːˈstɒk/",
+   "pos": "v",
+   "vi": "nhập hàng lại",
+   "ex": "Shelves are restocked before opening.",
+   "exVi": "Kệ được nhập hàng lại trước giờ mở cửa.",
+   "col": [
+    "restock shelves",
+    "restock an item"
+   ]
+  },
+  {
+   "id": "sh022",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "shelf",
+   "ipa": "/ʃelf/",
+   "pos": "n",
+   "vi": "kệ hàng",
+   "ex": "The top shelf holds the newest arrivals.",
+   "exVi": "Kệ trên cùng chứa hàng mới về.",
+   "col": [
+    "a shelf",
+    "an empty shelf"
+   ]
+  },
+  {
+   "id": "sh023",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "display",
+   "ipa": "/dɪˈspleɪ/",
+   "pos": "n, v",
+   "vi": "trưng bày",
+   "ex": "A window display shows the season's best sellers.",
+   "exVi": "Một quầy trưng bày ở cửa sổ giới thiệu hàng bán chạy của mùa.",
+   "col": [
+    "a window display",
+    "on display"
+   ]
+  },
+  {
+   "id": "sh024",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "promotion",
+   "ipa": "/prəˈməʊʃn/",
+   "pos": "n",
+   "vi": "chương trình khuyến mãi",
+   "ex": "A weekend promotion boosted foot traffic.",
+   "exVi": "Một khuyến mãi cuối tuần tăng lượng khách vào cửa hàng.",
+   "col": [
+    "a sales promotion",
+    "run a promotion"
+   ]
+  },
+  {
+   "id": "sh025",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "sale",
+   "ipa": "/seɪl/",
+   "pos": "n",
+   "vi": "đợt giảm giá",
+   "ex": "The summer sale starts on Monday.",
+   "exVi": "Đợt giảm giá mùa hè bắt đầu vào thứ Hai.",
+   "col": [
+    "a summer sale",
+    "a clearance sale"
+   ]
+  },
+  {
+   "id": "sh026",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "retail price",
+   "ipa": "/ˈriːteɪl praɪs/",
+   "pos": "n",
+   "vi": "giá bán lẻ",
+   "ex": "The retail price includes tax.",
+   "exVi": "Giá bán lẻ đã bao gồm thuế.",
+   "col": [
+    "a retail price",
+    "a suggested retail price"
+   ]
+  },
+  {
+   "id": "sh027",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "wholesale",
+   "ipa": "/ˈhəʊlseɪl/",
+   "pos": "adj",
+   "vi": "bán sỉ",
+   "ex": "The wholesale price is lower for bulk orders.",
+   "exVi": "Giá bán sỉ thấp hơn cho đơn hàng lớn.",
+   "col": [
+    "a wholesale price",
+    "buy wholesale"
+   ]
+  },
+  {
+   "id": "sh028",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "retail outlet",
+   "ipa": "/ˈriːteɪl ˈaʊtlet/",
+   "pos": "n",
+   "vi": "điểm bán lẻ",
+   "ex": "The brand runs fifty retail outlets nationwide.",
+   "exVi": "Thương hiệu có năm mươi điểm bán lẻ toàn quốc.",
+   "col": [
+    "a retail outlet",
+    "a factory retail outlet"
+   ]
+  },
+  {
+   "id": "sh029",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "shopper",
+   "ipa": "/ˈʃɒpə/",
+   "pos": "n",
+   "vi": "người mua sắm",
+   "ex": "Shoppers filled the mall on the holiday weekend.",
+   "exVi": "Người mua sắm lấp đầy trung tâm thương mại vào cuối tuần lễ.",
+   "col": [
+    "a regular shopper",
+    "an online shopper"
+   ]
+  },
+  {
+   "id": "sh030",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "consumer",
+   "ipa": "/kənˈsjuːmə/",
+   "pos": "n",
+   "vi": "người tiêu dùng",
+   "ex": "Consumers compare prices before they buy.",
+   "exVi": "Người tiêu dùng so giá trước khi mua.",
+   "col": [
+    "a typical consumer",
+    "consumer demand"
+   ]
+  },
+  {
+   "id": "sh031",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "customer",
+   "ipa": "/ˈkʌstəmə/",
+   "pos": "n",
+   "vi": "khách hàng",
+   "ex": "A returning customer receives a small gift.",
+   "exVi": "Một khách hàng quay lại nhận một món quà nhỏ.",
+   "col": [
+    "a loyal customer",
+    "a returning customer"
+   ]
+  },
+  {
+   "id": "sh032",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "account",
+   "ipa": "/əˈkaʊnt/",
+   "pos": "n",
+   "vi": "tài khoản ngân hàng",
+   "ex": "Open a savings account to earn interest.",
+   "exVi": "Mở một tài khoản tiết kiệm để hưởng lãi.",
+   "col": [
+    "a savings account",
+    "open an account"
+   ]
+  },
+  {
+   "id": "sh033",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "teller",
+   "ipa": "/ˈtelə/",
+   "pos": "n",
+   "vi": "giao dịch viên ngân hàng",
+   "ex": "The teller handled the deposit in minutes.",
+   "exVi": "Giao dịch viên xử lý khoản gửi trong vài phút.",
+   "col": [
+    "a bank teller",
+    "a teller window"
+   ]
+  },
+  {
+   "id": "sh034",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "ATM",
+   "ipa": "/ˌeɪ tiː ˈem/",
+   "pos": "n",
+   "vi": "máy rút tiền tự động",
+   "ex": "An ATM in the lobby is open all day.",
+   "exVi": "Một máy rút tiền ở sảnh mở cả ngày.",
+   "col": [
+    "an ATM",
+    "use an ATM"
+   ]
+  },
+  {
+   "id": "sh035",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "deposit",
+   "ipa": "/dɪˈpɒzɪt/",
+   "pos": "n, v",
+   "vi": "khoản gửi",
+   "ex": "She made a deposit at the branch this morning.",
+   "exVi": "Bà gửi một khoản tại chi nhánh sáng nay.",
+   "col": [
+    "make a deposit",
+    "a cash deposit"
+   ]
+  },
+  {
+   "id": "sh036",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "withdrawal",
+   "ipa": "/wɪðˈdrɔːəl/",
+   "pos": "n",
+   "vi": "việc rút tiền",
+   "ex": "A small fee applies to each withdrawal.",
+   "exVi": "Một khoản phí nhỏ áp cho mỗi lần rút tiền.",
+   "col": [
+    "a cash withdrawal",
+    "make a withdrawal"
+   ]
+  },
+  {
+   "id": "sh037",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "statement",
+   "ipa": "/ˈsteɪtmənt/",
+   "pos": "n",
+   "vi": "sao kê",
+   "ex": "Your monthly statement lists every purchase.",
+   "exVi": "Sao kê hằng tháng của bạn liệt kê mọi lần mua.",
+   "col": [
+    "a bank statement",
+    "a monthly statement"
+   ]
+  },
+  {
+   "id": "sh038",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "overdraft",
+   "ipa": "/ˈəʊvədrɑːft/",
+   "pos": "n",
+   "vi": "thấu chi",
+   "ex": "An overdraft fee applies if you overspend.",
+   "exVi": "Một khoản phí thấu chi áp nếu bạn chi vượt.",
+   "col": [
+    "an overdraft",
+    "an overdraft fee"
+   ]
+  },
+  {
+   "id": "sh039",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "installment",
+   "ipa": "/ɪnˈstɔːlmənt/",
+   "pos": "n",
+   "vi": "trả góp",
+   "ex": "The sofa can be paid in six installments.",
+   "exVi": "Chiếc ghế sofa có thể trả góp trong sáu kỳ.",
+   "col": [
+    "pay in installments",
+    "a monthly installment"
+   ]
+  },
+  {
+   "id": "sh040",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "mobile banking",
+   "ipa": "/ˈməʊbaɪl ˈbæŋkɪŋ/",
+   "pos": "n",
+   "vi": "ngân hàng di động",
+   "ex": "Mobile banking lets you pay bills anywhere.",
+   "exVi": "Ngân hàng di động cho phép bạn trả hoá đơn ở bất cứ đâu.",
+   "col": [
+    "mobile banking",
+    "use mobile banking"
+   ]
+  },
+  {
+   "id": "sh041",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "contactless",
+   "ipa": "/ˈkɒntæktləs/",
+   "pos": "adj",
+   "vi": "thanh toán không chạm",
+   "ex": "Contactless payment speeds up the queue.",
+   "exVi": "Thanh toán không chạm giúp hàng đợi nhanh hơn.",
+   "col": [
+    "contactless payment",
+    "a contactless card"
+   ]
+  },
+  {
+   "id": "sh042",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "affordable",
+   "ipa": "/əˈfɔːdəbl/",
+   "pos": "adj",
+   "vi": "phải chăng",
+   "ex": "The store is known for affordable prices.",
+   "exVi": "Cửa hàng nổi tiếng vì giá phải chăng.",
+   "col": [
+    "affordable prices",
+    "an affordable option"
+   ]
+  },
+  {
+   "id": "sh043",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "overpriced",
+   "ipa": "/ˌəʊvəˈpraɪst/",
+   "pos": "adj",
+   "vi": "đắt quá mức",
+   "ex": "Customers found the brand overpriced.",
+   "exVi": "Khách hàng thấy thương hiệu đắt quá mức.",
+   "col": [
+    "overpriced goods",
+    "slightly overpriced"
+   ]
+  },
+  {
+   "id": "sh044",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "in-store",
+   "ipa": "/ˌɪn ˈstɔː/",
+   "pos": "adj",
+   "vi": "tại cửa hàng",
+   "ex": "An in-store event drew many families.",
+   "exVi": "Một sự kiện tại cửa hàng thu hút nhiều gia đình.",
+   "col": [
+    "in-store promotions",
+    "an in-store event"
+   ]
+  },
+  {
+   "id": "sh045",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "mall",
+   "ipa": "/mɔːl/",
+   "pos": "n",
+   "vi": "trung tâm mua sắm",
+   "ex": "The new mall has over a hundred shops.",
+   "exVi": "Trung tâm mua sắm mới có hơn một trăm cửa hàng.",
+   "col": [
+    "a shopping mall",
+    "a large mall"
+   ]
+  },
+  {
+   "id": "sh046",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "boutique",
+   "ipa": "/buːˈtiːk/",
+   "pos": "n",
+   "vi": "cửa hàng thời trang nhỏ",
+   "ex": "The boutique sells handmade jewellery.",
+   "exVi": "Cửa hàng nhỏ bán trang sức làm thủ công.",
+   "col": [
+    "a boutique",
+    "a fashion boutique"
+   ]
+  },
+  {
+   "id": "sh047",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "department store",
+   "ipa": "/dɪˈpɑːtmənt stɔː/",
+   "pos": "n",
+   "vi": "cửa hàng bách hoá",
+   "ex": "The department store spans five floors.",
+   "exVi": "Cửa hàng bách hoá trải rộng năm tầng.",
+   "col": [
+    "a department store",
+    "a large department store"
+   ]
+  },
+  {
+   "id": "sh048",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "supermarket",
+   "ipa": "/ˈsuːpəmɑːkɪt/",
+   "pos": "n",
+   "vi": "siêu thị",
+   "ex": "The supermarket stays open until midnight.",
+   "exVi": "Siêu thị mở tới nửa đêm.",
+   "col": [
+    "a supermarket",
+    "a local supermarket"
+   ]
+  },
+  {
+   "id": "sh049",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "warehouse store",
+   "ipa": "/ˈweəhaʊs stɔː/",
+   "pos": "n",
+   "vi": "cửa hàng kho",
+   "ex": "The warehouse store sells goods in bulk.",
+   "exVi": "Cửa hàng kho bán hàng theo số lượng lớn.",
+   "col": [
+    "a warehouse store",
+    "a warehouse store membership"
+   ]
+  },
+  {
+   "id": "sh050",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "kiosk",
+   "ipa": "/ˈkiːɒsk/",
+   "pos": "n",
+   "vi": "quầy hàng nhỏ",
+   "ex": "A kiosk near the entrance sells tickets.",
+   "exVi": "Một quầy hàng nhỏ gần lối vào bán vé.",
+   "col": [
+    "a kiosk",
+    "a ticket kiosk"
+   ]
+  },
+  {
+   "id": "sh051",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "vendor",
+   "ipa": "/ˈvendə/",
+   "pos": "n",
+   "vi": "người bán hàng",
+   "ex": "Street vendors line the busy market.",
+   "exVi": "Người bán hàng rong xếp dọc khu chợ nhộn nhịp.",
+   "col": [
+    "a street vendor",
+    "a food vendor"
+   ]
+  },
+  {
+   "id": "sh052",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "outlet mall",
+   "ipa": "/ˈaʊtlet mɔːl/",
+   "pos": "n",
+   "vi": "khu bán hàng giảm giá",
+   "ex": "The outlet mall offers last season's brands.",
+   "exVi": "Khu bán hàng giảm giá bán các thương hiệu mùa trước.",
+   "col": [
+    "an outlet mall",
+    "a designer outlet mall"
+   ]
+  },
+  {
+   "id": "sh053",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "browse",
+   "ipa": "/braʊz/",
+   "pos": "v",
+   "vi": "xem hàng",
+   "ex": "Customers browse the shelves before deciding.",
+   "exVi": "Khách xem hàng trên kệ trước khi quyết định.",
+   "col": [
+    "browse the shelves",
+    "browse online"
+   ]
+  },
+  {
+   "id": "sh054",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "purchase order",
+   "ipa": "/ˈpɜːtʃəs ˈɔːdə/",
+   "pos": "n",
+   "vi": "đơn đặt mua",
+   "ex": "The store placed a purchase order for more stock.",
+   "exVi": "Cửa hàng đặt một đơn mua thêm hàng.",
+   "col": [
+    "a purchase order",
+    "place a purchase order"
+   ]
+  },
+  {
+   "id": "sh055",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "checkout line",
+   "ipa": "/ˈtʃekaʊt laɪn/",
+   "pos": "n",
+   "vi": "hàng chờ thanh toán",
+   "ex": "The checkout line moved quickly at lunchtime.",
+   "exVi": "Hàng chờ thanh toán di chuyển nhanh vào giờ trưa.",
+   "col": [
+    "a checkout line",
+    "a long checkout line"
+   ]
+  },
+  {
+   "id": "sh056",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "barcode",
+   "ipa": "/ˈbɑːkəʊd/",
+   "pos": "n",
+   "vi": "mã vạch",
+   "ex": "The scanner reads the barcode instantly.",
+   "exVi": "Máy quét đọc mã vạch tức thì.",
+   "col": [
+    "scan a barcode",
+    "a product barcode"
+   ]
+  },
+  {
+   "id": "sh057",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "scanner",
+   "ipa": "/ˈskænə/",
+   "pos": "n",
+   "vi": "máy quét",
+   "ex": "The scanner failed to read the damaged label.",
+   "exVi": "Máy quét không đọc được nhãn hư.",
+   "col": [
+    "a barcode scanner",
+    "use the scanner"
+   ]
+  },
+  {
+   "id": "sh058",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "price tag",
+   "ipa": "/praɪs tæɡ/",
+   "pos": "n",
+   "vi": "nhãn giá",
+   "ex": "Every item carries a clear price tag.",
+   "exVi": "Mỗi món có một nhãn giá rõ ràng.",
+   "col": [
+    "a price tag",
+    "a clear price tag"
+   ]
+  },
+  {
+   "id": "sh059",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "label",
+   "ipa": "/ˈleɪbl/",
+   "pos": "n",
+   "vi": "nhãn",
+   "ex": "The label lists the size and material.",
+   "exVi": "Nhãn ghi kích cỡ và chất liệu.",
+   "col": [
+    "a product label",
+    "read the label"
+   ]
+  },
+  {
+   "id": "sh060",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "warranty card",
+   "ipa": "/ˈwɒrənti kɑːd/",
+   "pos": "n",
+   "vi": "thẻ bảo hành",
+   "ex": "Keep the warranty card with your receipt.",
+   "exVi": "Giữ thẻ bảo hành cùng hoá đơn của bạn.",
+   "col": [
+    "a warranty card",
+    "a product warranty card"
+   ]
+  },
+  {
+   "id": "sh061",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "returns policy",
+   "ipa": "/rɪˈtɜːnz ˈpɒləsi/",
+   "pos": "n",
+   "vi": "chính sách trả hàng",
+   "ex": "The returns policy allows thirty days.",
+   "exVi": "Chính sách trả hàng cho phép ba mươi ngày.",
+   "col": [
+    "a returns policy",
+    "a clear returns policy"
+   ]
+  },
+  {
+   "id": "sh062",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "exchange rate",
+   "ipa": "/ɪksˈtʃeɪndʒ reɪt/",
+   "pos": "n",
+   "vi": "tỷ giá",
+   "ex": "The bank posts the exchange rate daily.",
+   "exVi": "Ngân hàng niêm yết tỷ giá hằng ngày.",
+   "col": [
+    "the exchange rate",
+    "a fixed exchange rate"
+   ]
+  },
+  {
+   "id": "sh063",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "credit limit",
+   "ipa": "/ˈkredɪt ˈlɪmɪt/",
+   "pos": "n",
+   "vi": "hạn mức tín dụng",
+   "ex": "The card has a modest credit limit.",
+   "exVi": "Thẻ có một hạn mức tín dụng khiêm tốn.",
+   "col": [
+    "a credit limit",
+    "raise the credit limit"
+   ]
+  },
+  {
+   "id": "sh064",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "interest rate",
+   "ipa": "/ˈɪntrəst reɪt/",
+   "pos": "n",
+   "vi": "lãi suất",
+   "ex": "A low interest rate makes the loan attractive.",
+   "exVi": "Lãi suất thấp khiến khoản vay hấp dẫn.",
+   "col": [
+    "a low interest rate",
+    "the interest rate"
+   ]
+  },
+  {
+   "id": "sh065",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "mortgage",
+   "ipa": "/ˈmɔːɡɪdʒ/",
+   "pos": "n",
+   "vi": "khoản vay mua nhà",
+   "ex": "The couple applied for a mortgage at the bank.",
+   "exVi": "Cặp đôi nộp đơn vay mua nhà tại ngân hàng.",
+   "col": [
+    "a mortgage",
+    "a home mortgage"
+   ]
+  },
+  {
+   "id": "sh066",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "savings",
+   "ipa": "/ˈseɪvɪŋz/",
+   "pos": "n",
+   "vi": "tiền tiết kiệm",
+   "ex": "She put part of her salary into savings.",
+   "exVi": "Bà bỏ một phần lương vào tiền tiết kiệm.",
+   "col": [
+    "savings",
+    "a savings account"
+   ]
+  },
+  {
+   "id": "sh067",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "branch",
+   "ipa": "/brɑːntʃ/",
+   "pos": "n",
+   "vi": "chi nhánh",
+   "ex": "The nearest branch is two streets away.",
+   "exVi": "Chi nhánh gần nhất cách hai con phố.",
+   "col": [
+    "a bank branch",
+    "a local branch"
+   ]
+  },
+  {
+   "id": "sh068",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "banknote",
+   "ipa": "/ˈbæŋknəʊt/",
+   "pos": "n",
+   "vi": "tờ tiền",
+   "ex": "The machine rejected the torn banknote.",
+   "exVi": "Máy từ chối tờ tiền rách.",
+   "col": [
+    "a banknote",
+    "a fifty-dollar banknote"
+   ]
+  },
+  {
+   "id": "sh069",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "currency",
+   "ipa": "/ˈkʌrənsi/",
+   "pos": "n",
+   "vi": "tiền tệ",
+   "ex": "The counter exchanges foreign currency.",
+   "exVi": "Quầy đổi ngoại tệ.",
+   "col": [
+    "foreign currency",
+    "a stable currency"
+   ]
+  },
+  {
+   "id": "sh070",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "cash",
+   "ipa": "/kæʃ/",
+   "pos": "n",
+   "vi": "tiền mặt",
+   "ex": "Some small shops accept only cash.",
+   "exVi": "Vài cửa hàng nhỏ chỉ nhận tiền mặt.",
+   "col": [
+    "pay in cash",
+    "a cash payment"
+   ]
+  },
+  {
+   "id": "sh071",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "change",
+   "ipa": "/tʃeɪndʒ/",
+   "pos": "n",
+   "vi": "tiền thối lại",
+   "ex": "The cashier gave the correct change.",
+   "exVi": "Thu ngân đưa đúng tiền thối lại.",
+   "col": [
+    "small change",
+    "give change"
+   ]
+  },
+  {
+   "id": "sh072",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "invoice",
+   "ipa": "/ˈɪnvɔɪs/",
+   "pos": "n",
+   "vi": "hoá đơn",
+   "ex": "The supplier sent an invoice for the order.",
+   "exVi": "Nhà cung cấp gửi một hoá đơn cho đơn hàng.",
+   "col": [
+    "an invoice",
+    "an unpaid invoice"
+   ]
+  },
+  {
+   "id": "sh073",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "retail chain",
+   "ipa": "/ˈriːteɪl tʃeɪn/",
+   "pos": "n",
+   "vi": "chuỗi bán lẻ",
+   "ex": "The retail chain has stores in ten cities.",
+   "exVi": "Chuỗi bán lẻ có cửa hàng ở mười thành phố.",
+   "col": [
+    "a retail chain",
+    "a national retail chain"
+   ]
+  },
+  {
+   "id": "sh074",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "franchise",
+   "ipa": "/ˈfræntʃaɪz/",
+   "pos": "n",
+   "vi": "nhượng quyền",
+   "ex": "The coffee shop is run as a franchise.",
+   "exVi": "Quán cà phê được vận hành theo hình thức nhượng quyền.",
+   "col": [
+    "a franchise",
+    "buy a franchise"
+   ]
+  },
+  {
+   "id": "sh075",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "window shopping",
+   "ipa": "/ˈwɪndəʊ ˈʃɒpɪŋ/",
+   "pos": "n",
+   "vi": "ngắm hàng qua cửa kính",
+   "ex": "They spent the afternoon window shopping downtown.",
+   "exVi": "Họ dành buổi chiều ngắm hàng qua cửa kính ở trung tâm.",
+   "col": [
+    "window shopping",
+    "go window shopping"
+   ]
+  },
+  {
+   "id": "sh076",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "impulse buy",
+   "ipa": "/ˈɪmpʌls baɪ/",
+   "pos": "n",
+   "vi": "mua bốc đồng",
+   "ex": "The chocolate near the till is an impulse buy.",
+   "exVi": "Thanh sô cô la gần quầy là một món mua bốc đồng.",
+   "col": [
+    "an impulse buy",
+    "a common impulse buy"
+   ]
+  },
+  {
+   "id": "sh077",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "markup",
+   "ipa": "/ˈmɑːkʌp/",
+   "pos": "n",
+   "vi": "phần chênh giá",
+   "ex": "The markup on imported goods is high.",
+   "exVi": "Phần chênh giá của hàng nhập cao.",
+   "col": [
+    "a markup",
+    "a large markup"
+   ]
+  },
+  {
+   "id": "sh078",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "overhead",
+   "ipa": "/ˈəʊvəhed/",
+   "pos": "n",
+   "vi": "chi phí vận hành",
+   "ex": "Lower rent reduced the store's overhead.",
+   "exVi": "Tiền thuê thấp hơn giảm chi phí vận hành của cửa hàng.",
+   "col": [
+    "overhead costs",
+    "reduce overhead"
+   ]
+  },
+  {
+   "id": "sh079",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "turnover",
+   "ipa": "/ˈtɜːnəʊvə/",
+   "pos": "n",
+   "vi": "doanh số",
+   "ex": "The shop's turnover doubled in December.",
+   "exVi": "Doanh số cửa hàng tăng gấp đôi trong tháng Mười hai.",
+   "col": [
+    "a rise in turnover",
+    "annual turnover"
+   ]
+  },
+  {
+   "id": "sh080",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "footfall",
+   "ipa": "/ˈfʊtfɔːl/",
+   "pos": "n",
+   "vi": "lượng khách vào",
+   "ex": "A new sign increased footfall to the store.",
+   "exVi": "Một tấm biển mới tăng lượng khách vào cửa hàng.",
+   "col": [
+    "footfall",
+    "increase footfall"
+   ]
+  },
+  {
+   "id": "sh081",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "convenient",
+   "ipa": "/kənˈviːniənt/",
+   "pos": "adj",
+   "vi": "tiện lợi",
+   "ex": "The store's location is very convenient.",
+   "exVi": "Vị trí của cửa hàng rất tiện lợi.",
+   "col": [
+    "a convenient location",
+    "convenient hours"
+   ]
+  },
+  {
+   "id": "sh082",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "spacious",
+   "ipa": "/ˈspeɪʃəs/",
+   "pos": "adj",
+   "vi": "rộng rãi",
+   "ex": "The spacious aisles make shopping easy.",
+   "exVi": "Các lối đi rộng rãi giúp mua sắm dễ dàng.",
+   "col": [
+    "a spacious store",
+    "spacious aisles"
+   ]
+  },
+  {
+   "id": "sh083",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "stocked",
+   "ipa": "/stɒkt/",
+   "pos": "adj",
+   "vi": "có đầy hàng",
+   "ex": "The shelves are well stocked before the weekend.",
+   "exVi": "Kệ được chất đầy hàng trước cuối tuần.",
+   "col": [
+    "well stocked",
+    "fully stocked"
+   ]
+  },
+  {
+   "id": "sh084",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "reasonable",
+   "ipa": "/ˈriːznəbl/",
+   "pos": "adj",
+   "vi": "hợp lý",
+   "ex": "The prices here are very reasonable.",
+   "exVi": "Giá ở đây rất hợp lý.",
+   "col": [
+    "a reasonable price",
+    "reasonably priced"
+   ]
+  },
+  {
+   "id": "sh085",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "premium",
+   "ipa": "/ˈpriːmiəm/",
+   "pos": "adj",
+   "vi": "cao cấp",
+   "ex": "Premium brands sit on the top floor.",
+   "exVi": "Các thương hiệu cao cấp nằm ở tầng trên cùng.",
+   "col": [
+    "a premium brand",
+    "a premium product"
+   ]
+  },
+  {
+   "id": "sh086",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "refundable",
+   "ipa": "/rɪˈfʌndəbl/",
+   "pos": "adj",
+   "vi": "có thể hoàn tiền",
+   "ex": "The deposit is fully refundable.",
+   "exVi": "Khoản đặt cọc được hoàn tiền đầy đủ.",
+   "col": [
+    "a refundable deposit",
+    "fully refundable"
+   ]
+  },
+  {
+   "id": "sh087",
+   "topic": "Ngân hàng bán lẻ & mua sắm",
+   "w": "purchasing",
+   "ipa": "/ˈpɜːtʃəsɪŋ/",
+   "pos": "n",
+   "vi": "việc mua sắm",
+   "ex": "The purchasing team negotiates with suppliers.",
+   "exVi": "Bộ phận mua sắm thương lượng với nhà cung cấp.",
+   "col": [
+    "a purchasing decision",
+    "the purchasing department"
+   ]
+  }
+ ]
+}

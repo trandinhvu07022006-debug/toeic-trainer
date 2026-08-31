@@ -1,0 +1,1321 @@
+{
+ "topic": "Bất động sản & xây dựng",
+ "words": [
+  {
+   "id": "re001",
+   "topic": "Bất động sản & xây dựng",
+   "w": "property",
+   "ipa": "/ˈprɒpəti/",
+   "pos": "n",
+   "vi": "bất động sản",
+   "ex": "The company owns several commercial properties downtown.",
+   "exVi": "Công ty sở hữu vài bất động sản thương mại ở trung tâm.",
+   "col": [
+    "a commercial property",
+    "buy a property"
+   ]
+  },
+  {
+   "id": "re002",
+   "topic": "Bất động sản & xây dựng",
+   "w": "premises",
+   "ipa": "/ˈpremɪsɪz/",
+   "pos": "n",
+   "vi": "mặt bằng",
+   "ex": "The firm moved to larger premises last spring.",
+   "exVi": "Công ty chuyển tới mặt bằng lớn hơn mùa xuân năm ngoái.",
+   "col": [
+    "business premises",
+    "on the premises"
+   ]
+  },
+  {
+   "id": "re003",
+   "topic": "Bất động sản & xây dựng",
+   "w": "lease",
+   "ipa": "/liːs/",
+   "pos": "n, v",
+   "vi": "hợp đồng thuê",
+   "ex": "The lease runs for five years with an option to renew.",
+   "exVi": "Hợp đồng thuê kéo dài năm năm kèm lựa chọn gia hạn.",
+   "col": [
+    "sign a lease",
+    "a commercial lease"
+   ]
+  },
+  {
+   "id": "re004",
+   "topic": "Bất động sản & xây dựng",
+   "w": "tenant",
+   "ipa": "/ˈtenənt/",
+   "pos": "n",
+   "vi": "người thuê",
+   "ex": "The tenant pays rent on the first of each month.",
+   "exVi": "Người thuê trả tiền thuê vào ngày một hằng tháng.",
+   "col": [
+    "a long-term tenant",
+    "a commercial tenant"
+   ]
+  },
+  {
+   "id": "re005",
+   "topic": "Bất động sản & xây dựng",
+   "w": "landlord",
+   "ipa": "/ˈlændlɔːd/",
+   "pos": "n",
+   "vi": "chủ nhà",
+   "ex": "The landlord agreed to repaint the office.",
+   "exVi": "Chủ nhà đồng ý sơn lại văn phòng.",
+   "col": [
+    "a private landlord",
+    "the landlord's consent"
+   ]
+  },
+  {
+   "id": "re006",
+   "topic": "Bất động sản & xây dựng",
+   "w": "rent",
+   "ipa": "/rent/",
+   "pos": "n, v",
+   "vi": "tiền thuê",
+   "ex": "The rent increased by five percent this year.",
+   "exVi": "Tiền thuê tăng năm phần trăm năm nay.",
+   "col": [
+    "pay rent",
+    "monthly rent"
+   ]
+  },
+  {
+   "id": "re007",
+   "topic": "Bất động sản & xây dựng",
+   "w": "rental",
+   "ipa": "/ˈrentl/",
+   "pos": "n",
+   "vi": "việc cho thuê",
+   "ex": "The rental includes water and maintenance.",
+   "exVi": "Việc cho thuê bao gồm cả nước và bảo trì.",
+   "col": [
+    "a rental agreement",
+    "a rental property"
+   ]
+  },
+  {
+   "id": "re008",
+   "topic": "Bất động sản & xây dựng",
+   "w": "sublet",
+   "ipa": "/ˌsʌbˈlet/",
+   "pos": "v",
+   "vi": "cho thuê lại",
+   "ex": "The tenant sublet part of the office to a startup.",
+   "exVi": "Người thuê cho một công ty khởi nghiệp thuê lại một phần văn phòng.",
+   "col": [
+    "sublet a room",
+    "sublet a property"
+   ]
+  },
+  {
+   "id": "re009",
+   "topic": "Bất động sản & xây dựng",
+   "w": "vacate",
+   "ipa": "/vəˈkeɪt/",
+   "pos": "v",
+   "vi": "dọn đi, trả lại",
+   "ex": "Tenants must vacate the premises by the end of June.",
+   "exVi": "Người thuê phải dọn đi trước cuối tháng Sáu.",
+   "col": [
+    "vacate the premises",
+    "vacate a property"
+   ]
+  },
+  {
+   "id": "re010",
+   "topic": "Bất động sản & xây dựng",
+   "w": "occupy",
+   "ipa": "/ˈɒkjupaɪ/",
+   "pos": "v",
+   "vi": "sử dụng, chiếm giữ",
+   "ex": "The firm occupies two floors of the building.",
+   "exVi": "Công ty sử dụng hai tầng của toà nhà.",
+   "col": [
+    "occupy a building",
+    "occupy space"
+   ]
+  },
+  {
+   "id": "re011",
+   "topic": "Bất động sản & xây dựng",
+   "w": "occupancy",
+   "ipa": "/ˈɒkjupənsi/",
+   "pos": "n",
+   "vi": "tình trạng sử dụng",
+   "ex": "Occupancy rates rose after the renovation.",
+   "exVi": "Tỷ lệ lấp đầy tăng sau khi cải tạo.",
+   "col": [
+    "an occupancy rate",
+    "full occupancy"
+   ]
+  },
+  {
+   "id": "re012",
+   "topic": "Bất động sản & xây dựng",
+   "w": "deposit",
+   "ipa": "/dɪˈpɒzɪt/",
+   "pos": "n",
+   "vi": "tiền đặt cọc",
+   "ex": "A month's rent is held as a deposit.",
+   "exVi": "Một tháng tiền thuê được giữ làm tiền đặt cọc.",
+   "col": [
+    "a security deposit",
+    "pay a deposit"
+   ]
+  },
+  {
+   "id": "re013",
+   "topic": "Bất động sản & xây dựng",
+   "w": "mortgage",
+   "ipa": "/ˈmɔːɡɪdʒ/",
+   "pos": "n",
+   "vi": "khoản vay mua nhà",
+   "ex": "They took out a mortgage on the new office.",
+   "exVi": "Họ vay mua văn phòng mới.",
+   "col": [
+    "a mortgage",
+    "a mortgage payment"
+   ]
+  },
+  {
+   "id": "re014",
+   "topic": "Bất động sản & xây dựng",
+   "w": "estate agent",
+   "ipa": "/ɪˈsteɪt ˈeɪdʒənt/",
+   "pos": "n",
+   "vi": "môi giới nhà đất",
+   "ex": "An estate agent showed us three properties.",
+   "exVi": "Một môi giới nhà đất cho chúng tôi xem ba bất động sản.",
+   "col": [
+    "an estate agent",
+    "a local estate agent"
+   ]
+  },
+  {
+   "id": "re015",
+   "topic": "Bất động sản & xây dựng",
+   "w": "valuation",
+   "ipa": "/ˌvæljuˈeɪʃn/",
+   "pos": "n",
+   "vi": "định giá",
+   "ex": "A professional valuation set the asking price.",
+   "exVi": "Một cuộc định giá chuyên nghiệp ấn định giá chào bán.",
+   "col": [
+    "a property valuation",
+    "a formal valuation"
+   ]
+  },
+  {
+   "id": "re016",
+   "topic": "Bất động sản & xây dựng",
+   "w": "appraisal",
+   "ipa": "/əˈpreɪzl/",
+   "pos": "n",
+   "vi": "thẩm định giá",
+   "ex": "The bank ordered an appraisal before the loan.",
+   "exVi": "Ngân hàng yêu cầu thẩm định giá trước khi cho vay.",
+   "col": [
+    "a property appraisal",
+    "an independent appraisal"
+   ]
+  },
+  {
+   "id": "re017",
+   "topic": "Bất động sản & xây dựng",
+   "w": "survey",
+   "ipa": "/ˈsɜːveɪ/",
+   "pos": "n",
+   "vi": "khảo sát công trình",
+   "ex": "A survey found no structural problems.",
+   "exVi": "Một cuộc khảo sát không thấy vấn đề kết cấu.",
+   "col": [
+    "a building survey",
+    "a structural survey"
+   ]
+  },
+  {
+   "id": "re018",
+   "topic": "Bất động sản & xây dựng",
+   "w": "inspection",
+   "ipa": "/ɪnˈspekʃn/",
+   "pos": "n",
+   "vi": "kiểm tra",
+   "ex": "A safety inspection is required before opening.",
+   "exVi": "Cần kiểm tra an toàn trước khi mở cửa.",
+   "col": [
+    "a building inspection",
+    "a routine inspection"
+   ]
+  },
+  {
+   "id": "re019",
+   "topic": "Bất động sản & xây dựng",
+   "w": "zoning",
+   "ipa": "/ˈzəʊnɪŋ/",
+   "pos": "n",
+   "vi": "quy hoạch phân khu",
+   "ex": "Zoning rules limit the height of new buildings.",
+   "exVi": "Quy định phân khu giới hạn chiều cao công trình mới.",
+   "col": [
+    "zoning regulations",
+    "a zoning permit"
+   ]
+  },
+  {
+   "id": "re020",
+   "topic": "Bất động sản & xây dựng",
+   "w": "permit",
+   "ipa": "/ˈpɜːmɪt/",
+   "pos": "n",
+   "vi": "giấy phép",
+   "ex": "A building permit is needed for the extension.",
+   "exVi": "Cần giấy phép xây dựng cho phần mở rộng.",
+   "col": [
+    "a building permit",
+    "apply for a permit"
+   ]
+  },
+  {
+   "id": "re021",
+   "topic": "Bất động sản & xây dựng",
+   "w": "zoning permit",
+   "ipa": "/ˈzəʊnɪŋ ˈpɜːmɪt/",
+   "pos": "n",
+   "vi": "giấy phép phân khu",
+   "ex": "The zoning permit took two months to obtain.",
+   "exVi": "Giấy phép phân khu mất hai tháng để có được.",
+   "col": [
+    "a zoning permit",
+    "grant a zoning permit"
+   ]
+  },
+  {
+   "id": "re022",
+   "topic": "Bất động sản & xây dựng",
+   "w": "commercial",
+   "ipa": "/kəˈmɜːʃl/",
+   "pos": "adj",
+   "vi": "thương mại",
+   "ex": "Commercial rents are highest near the station.",
+   "exVi": "Giá thuê thương mại cao nhất gần ga.",
+   "col": [
+    "commercial property",
+    "a commercial lease"
+   ]
+  },
+  {
+   "id": "re023",
+   "topic": "Bất động sản & xây dựng",
+   "w": "residential",
+   "ipa": "/ˌrezɪˈdenʃl/",
+   "pos": "adj",
+   "vi": "thuộc nhà ở",
+   "ex": "The area is mostly residential with a few shops.",
+   "exVi": "Khu vực này chủ yếu là nhà ở với vài cửa hàng.",
+   "col": [
+    "a residential area",
+    "residential property"
+   ]
+  },
+  {
+   "id": "re024",
+   "topic": "Bất động sản & xây dựng",
+   "w": "industrial",
+   "ipa": "/ɪnˈdʌstriəl/",
+   "pos": "adj",
+   "vi": "thuộc khu công nghiệp",
+   "ex": "The warehouse sits in an industrial park.",
+   "exVi": "Nhà kho nằm trong một khu công nghiệp.",
+   "col": [
+    "an industrial estate",
+    "an industrial zone"
+   ]
+  },
+  {
+   "id": "re025",
+   "topic": "Bất động sản & xây dựng",
+   "w": "plot",
+   "ipa": "/plɒt/",
+   "pos": "n",
+   "vi": "lô đất",
+   "ex": "The firm bought a plot of land near the highway.",
+   "exVi": "Công ty mua một lô đất gần đường cao tốc.",
+   "col": [
+    "a plot of land",
+    "a vacant plot"
+   ]
+  },
+  {
+   "id": "re026",
+   "topic": "Bất động sản & xây dựng",
+   "w": "lot",
+   "ipa": "/lɒt/",
+   "pos": "n",
+   "vi": "khu đất",
+   "ex": "The parking lot holds two hundred cars.",
+   "exVi": "Bãi đỗ chứa được hai trăm xe.",
+   "col": [
+    "a parking lot",
+    "a vacant lot"
+   ]
+  },
+  {
+   "id": "re027",
+   "topic": "Bất động sản & xây dựng",
+   "w": "site",
+   "ipa": "/saɪt/",
+   "pos": "n",
+   "vi": "khu đất, công trường",
+   "ex": "The construction site is fenced off for safety.",
+   "exVi": "Công trường được rào lại để an toàn.",
+   "col": [
+    "a building site",
+    "a construction site"
+   ]
+  },
+  {
+   "id": "re028",
+   "topic": "Bất động sản & xây dựng",
+   "w": "premise",
+   "ipa": "/ˈpremɪs/",
+   "pos": "n",
+   "vi": "cơ sở",
+   "ex": "The new premise offers double the floor space.",
+   "exVi": "Cơ sở mới có diện tích sàn gấp đôi.",
+   "col": [
+    "a business premise",
+    "a retail premise"
+   ]
+  },
+  {
+   "id": "re029",
+   "topic": "Bất động sản & xây dựng",
+   "w": "freehold",
+   "ipa": "/ˈfriːhəʊld/",
+   "pos": "n",
+   "vi": "quyền sở hữu vĩnh viễn",
+   "ex": "The freehold of the building was sold last year.",
+   "exVi": "Quyền sở hữu vĩnh viễn của toà nhà được bán năm ngoái.",
+   "col": [
+    "buy the freehold",
+    "a freehold property"
+   ]
+  },
+  {
+   "id": "re030",
+   "topic": "Bất động sản & xây dựng",
+   "w": "leasehold",
+   "ipa": "/ˈliːshəʊld/",
+   "pos": "n",
+   "vi": "quyền thuê dài hạn",
+   "ex": "The shop is sold on a ninety-year leasehold.",
+   "exVi": "Cửa hàng được bán theo quyền thuê chín mươi năm.",
+   "col": [
+    "a leasehold property",
+    "a long leasehold"
+   ]
+  },
+  {
+   "id": "re031",
+   "topic": "Bất động sản & xây dựng",
+   "w": "deed",
+   "ipa": "/diːd/",
+   "pos": "n",
+   "vi": "văn tự sở hữu",
+   "ex": "The deed proves who owns the property.",
+   "exVi": "Văn tự sở hữu chứng minh ai sở hữu bất động sản.",
+   "col": [
+    "a title deed",
+    "sign a deed"
+   ]
+  },
+  {
+   "id": "re032",
+   "topic": "Bất động sản & xây dựng",
+   "w": "title",
+   "ipa": "/ˈtaɪtl/",
+   "pos": "n",
+   "vi": "quyền sở hữu",
+   "ex": "The title to the land was transferred in May.",
+   "exVi": "Quyền sở hữu đất được chuyển vào tháng Năm.",
+   "col": [
+    "a land title",
+    "transfer title"
+   ]
+  },
+  {
+   "id": "re033",
+   "topic": "Bất động sản & xây dựng",
+   "w": "conveyancing",
+   "ipa": "/kənˈveɪənsɪŋ/",
+   "pos": "n",
+   "vi": "thủ tục sang tên",
+   "ex": "A solicitor handled the conveyancing.",
+   "exVi": "Một luật sư lo thủ tục sang tên.",
+   "col": [
+    "conveyancing fees",
+    "handle conveyancing"
+   ]
+  },
+  {
+   "id": "re034",
+   "topic": "Bất động sản & xây dựng",
+   "w": "utilities",
+   "ipa": "/juːˈtɪlətiz/",
+   "pos": "n",
+   "vi": "dịch vụ tiện ích",
+   "ex": "Utilities are billed separately from the rent.",
+   "exVi": "Dịch vụ tiện ích được tính riêng ngoài tiền thuê.",
+   "col": [
+    "utility bills",
+    "pay for utilities"
+   ]
+  },
+  {
+   "id": "re035",
+   "topic": "Bất động sản & xây dựng",
+   "w": "amenity",
+   "ipa": "/əˈmiːnəti/",
+   "pos": "n",
+   "vi": "tiện ích",
+   "ex": "The building offers amenities such as parking and a gym.",
+   "exVi": "Toà nhà có các tiện ích như bãi đỗ và phòng gym.",
+   "col": [
+    "shared amenities",
+    "local amenities"
+   ]
+  },
+  {
+   "id": "re036",
+   "topic": "Bất động sản & xây dựng",
+   "w": "square footage",
+   "ipa": "/skweə ˈfʊtɪdʒ/",
+   "pos": "n",
+   "vi": "diện tích sàn",
+   "ex": "The office has generous square footage for the price.",
+   "exVi": "Văn phòng có diện tích sàn rộng rãi so với giá.",
+   "col": [
+    "square footage",
+    "total square footage"
+   ]
+  },
+  {
+   "id": "re037",
+   "topic": "Bất động sản & xây dựng",
+   "w": "floor plan",
+   "ipa": "/flɔː plæn/",
+   "pos": "n",
+   "vi": "sơ đồ mặt bằng",
+   "ex": "The floor plan shows four separate offices.",
+   "exVi": "Sơ đồ mặt bằng cho thấy bốn văn phòng riêng.",
+   "col": [
+    "a floor plan",
+    "an open floor plan"
+   ]
+  },
+  {
+   "id": "re038",
+   "topic": "Bất động sản & xây dựng",
+   "w": "layout",
+   "ipa": "/ˈleɪaʊt/",
+   "pos": "n",
+   "vi": "bố cục",
+   "ex": "The open layout suits a collaborative team.",
+   "exVi": "Bố cục mở phù hợp với một nhóm làm việc chung.",
+   "col": [
+    "an office layout",
+    "an open layout"
+   ]
+  },
+  {
+   "id": "re039",
+   "topic": "Bất động sản & xây dựng",
+   "w": "renovation",
+   "ipa": "/ˌrenəˈveɪʃn/",
+   "pos": "n",
+   "vi": "cải tạo",
+   "ex": "The renovation added a second meeting room.",
+   "exVi": "Việc cải tạo thêm một phòng họp thứ hai.",
+   "col": [
+    "a major renovation",
+    "undergo renovation"
+   ]
+  },
+  {
+   "id": "re040",
+   "topic": "Bất động sản & xây dựng",
+   "w": "refurbish",
+   "ipa": "/ˌriːˈfɜːbɪʃ/",
+   "pos": "v",
+   "vi": "tân trang",
+   "ex": "The lobby was refurbished over the summer.",
+   "exVi": "Sảnh được tân trang trong mùa hè.",
+   "col": [
+    "refurbish a building",
+    "fully refurbished"
+   ]
+  },
+  {
+   "id": "re041",
+   "topic": "Bất động sản & xây dựng",
+   "w": "remodel",
+   "ipa": "/ˌriːˈmɒdl/",
+   "pos": "v",
+   "vi": "sửa lại kết cấu",
+   "ex": "They remodelled the ground floor into a showroom.",
+   "exVi": "Họ sửa lại tầng trệt thành một phòng trưng bày.",
+   "col": [
+    "remodel a space",
+    "remodel an office"
+   ]
+  },
+  {
+   "id": "re042",
+   "topic": "Bất động sản & xây dựng",
+   "w": "extension",
+   "ipa": "/ɪkˈstenʃn/",
+   "pos": "n",
+   "vi": "phần mở rộng",
+   "ex": "The extension doubled the warehouse capacity.",
+   "exVi": "Phần mở rộng làm tăng gấp đôi sức chứa nhà kho.",
+   "col": [
+    "a building extension",
+    "build an extension"
+   ]
+  },
+  {
+   "id": "re043",
+   "topic": "Bất động sản & xây dựng",
+   "w": "foundation",
+   "ipa": "/faʊnˈdeɪʃn/",
+   "pos": "n",
+   "vi": "nền móng",
+   "ex": "The foundation was laid before the winter.",
+   "exVi": "Nền móng được đổ trước mùa đông.",
+   "col": [
+    "lay a foundation",
+    "a solid foundation"
+   ]
+  },
+  {
+   "id": "re044",
+   "topic": "Bất động sản & xây dựng",
+   "w": "scaffold",
+   "ipa": "/ˈskæfəld/",
+   "pos": "n",
+   "vi": "giàn giáo",
+   "ex": "A scaffold surrounds the building during the repairs.",
+   "exVi": "Một giàn giáo bao quanh toà nhà trong lúc sửa chữa.",
+   "col": [
+    "erect a scaffold",
+    "a metal scaffold"
+   ]
+  },
+  {
+   "id": "re045",
+   "topic": "Bất động sản & xây dựng",
+   "w": "contractor",
+   "ipa": "/kənˈtræktə/",
+   "pos": "n",
+   "vi": "nhà thầu",
+   "ex": "The contractor promised to finish by autumn.",
+   "exVi": "Nhà thầu hứa hoàn thành trước mùa thu.",
+   "col": [
+    "a building contractor",
+    "hire a contractor"
+   ]
+  },
+  {
+   "id": "re046",
+   "topic": "Bất động sản & xây dựng",
+   "w": "blueprint",
+   "ipa": "/ˈbluːprɪnt/",
+   "pos": "n",
+   "vi": "bản vẽ thiết kế",
+   "ex": "The architect handed over the final blueprint.",
+   "exVi": "Kiến trúc sư bàn giao bản vẽ thiết kế cuối cùng.",
+   "col": [
+    "a detailed blueprint",
+    "follow the blueprint"
+   ]
+  },
+  {
+   "id": "re047",
+   "topic": "Bất động sản & xây dựng",
+   "w": "architect",
+   "ipa": "/ˈɑːkɪtekt/",
+   "pos": "n",
+   "vi": "kiến trúc sư",
+   "ex": "The architect designed a bright, open workspace.",
+   "exVi": "Kiến trúc sư thiết kế một không gian làm việc sáng và mở.",
+   "col": [
+    "a chief architect",
+    "a landscape architect"
+   ]
+  },
+  {
+   "id": "re048",
+   "topic": "Bất động sản & xây dựng",
+   "w": "construction",
+   "ipa": "/kənˈstrʌkʃn/",
+   "pos": "n",
+   "vi": "xây dựng",
+   "ex": "Construction of the new wing starts in March.",
+   "exVi": "Việc xây dựng khu mới bắt đầu vào tháng Ba.",
+   "col": [
+    "under construction",
+    "a construction project"
+   ]
+  },
+  {
+   "id": "re049",
+   "topic": "Bất động sản & xây dựng",
+   "w": "demolish",
+   "ipa": "/dɪˈmɒlɪʃ/",
+   "pos": "v",
+   "vi": "phá dỡ",
+   "ex": "The old warehouse will be demolished next month.",
+   "exVi": "Nhà kho cũ sẽ bị phá dỡ tháng sau.",
+   "col": [
+    "demolish a building",
+    "demolish a structure"
+   ]
+  },
+  {
+   "id": "re050",
+   "topic": "Bất động sản & xây dựng",
+   "w": "demolition",
+   "ipa": "/ˌdeməˈlɪʃn/",
+   "pos": "n",
+   "vi": "việc phá dỡ",
+   "ex": "Demolition of the site took just three days.",
+   "exVi": "Việc phá dỡ khu đất chỉ mất ba ngày.",
+   "col": [
+    "a demolition crew",
+    "begin demolition"
+   ]
+  },
+  {
+   "id": "re051",
+   "topic": "Bất động sản & xây dựng",
+   "w": "excavate",
+   "ipa": "/ˈekskəveɪt/",
+   "pos": "v",
+   "vi": "đào",
+   "ex": "Workers excavated the site for the foundation.",
+   "exVi": "Công nhân đào khu đất để làm móng.",
+   "col": [
+    "excavate a site",
+    "excavate the ground"
+   ]
+  },
+  {
+   "id": "re052",
+   "topic": "Bất động sản & xây dựng",
+   "w": "girder",
+   "ipa": "/ˈɡɜːdə/",
+   "pos": "n",
+   "vi": "dầm thép",
+   "ex": "Steel girders support the upper floors.",
+   "exVi": "Dầm thép đỡ các tầng trên.",
+   "col": [
+    "a steel girder",
+    "a support girder"
+   ]
+  },
+  {
+   "id": "re053",
+   "topic": "Bất động sản & xây dựng",
+   "w": "beam",
+   "ipa": "/biːm/",
+   "pos": "n",
+   "vi": "xà, dầm",
+   "ex": "A wooden beam runs across the ceiling.",
+   "exVi": "Một cây xà gỗ chạy ngang trần.",
+   "col": [
+    "a support beam",
+    "a wooden beam"
+   ]
+  },
+  {
+   "id": "re054",
+   "topic": "Bất động sản & xây dựng",
+   "w": "insulation",
+   "ipa": "/ˌɪnsjuˈleɪʃn/",
+   "pos": "n",
+   "vi": "vật liệu cách nhiệt",
+   "ex": "Good insulation lowers the heating bill.",
+   "exVi": "Vật liệu cách nhiệt tốt giảm hoá đơn sưởi.",
+   "col": [
+    "thermal insulation",
+    "install insulation"
+   ]
+  },
+  {
+   "id": "re055",
+   "topic": "Bất động sản & xây dựng",
+   "w": "ventilation",
+   "ipa": "/ˌventɪˈleɪʃn/",
+   "pos": "n",
+   "vi": "thông gió",
+   "ex": "Proper ventilation keeps the workshop safe.",
+   "exVi": "Thông gió tốt giữ xưởng an toàn.",
+   "col": [
+    "a ventilation system",
+    "proper ventilation"
+   ]
+  },
+  {
+   "id": "re056",
+   "topic": "Bất động sản & xây dựng",
+   "w": "plumbing",
+   "ipa": "/ˈplʌmɪŋ/",
+   "pos": "n",
+   "vi": "hệ thống ống nước",
+   "ex": "The plumbing was replaced during the renovation.",
+   "exVi": "Hệ thống ống nước được thay trong lúc cải tạo.",
+   "col": [
+    "the plumbing",
+    "check the plumbing"
+   ]
+  },
+  {
+   "id": "re057",
+   "topic": "Bất động sản & xây dựng",
+   "w": "wiring",
+   "ipa": "/ˈwaɪərɪŋ/",
+   "pos": "n",
+   "vi": "hệ thống dây điện",
+   "ex": "Faulty wiring caused the power to fail.",
+   "exVi": "Hệ thống dây điện lỗi khiến mất điện.",
+   "col": [
+    "electrical wiring",
+    "replace the wiring"
+   ]
+  },
+  {
+   "id": "re058",
+   "topic": "Bất động sản & xây dựng",
+   "w": "fixture",
+   "ipa": "/ˈfɪkstʃə/",
+   "pos": "n",
+   "vi": "thiết bị gắn cố định",
+   "ex": "Light fixtures are included in the sale.",
+   "exVi": "Các thiết bị chiếu sáng gắn cố định được tính trong giá bán.",
+   "col": [
+    "a light fixture",
+    "a bathroom fixture"
+   ]
+  },
+  {
+   "id": "re059",
+   "topic": "Bất động sản & xây dựng",
+   "w": "furnishing",
+   "ipa": "/ˈfɜːnɪʃɪŋ/",
+   "pos": "n",
+   "vi": "đồ nội thất",
+   "ex": "The office comes with basic furnishings.",
+   "exVi": "Văn phòng đi kèm nội thất cơ bản.",
+   "col": [
+    "office furnishings",
+    "soft furnishings"
+   ]
+  },
+  {
+   "id": "re060",
+   "topic": "Bất động sản & xây dựng",
+   "w": "partition",
+   "ipa": "/pɑːˈtɪʃn/",
+   "pos": "n",
+   "vi": "vách ngăn",
+   "ex": "Movable partitions divide the large hall.",
+   "exVi": "Các vách ngăn di động chia phòng lớn.",
+   "col": [
+    "a partition wall",
+    "install a partition"
+   ]
+  },
+  {
+   "id": "re061",
+   "topic": "Bất động sản & xây dựng",
+   "w": "storey",
+   "ipa": "/ˈstɔːri/",
+   "pos": "n",
+   "vi": "tầng nhà",
+   "ex": "The building has twelve storeys above ground.",
+   "exVi": "Toà nhà có mười hai tầng trên mặt đất.",
+   "col": [
+    "a two-storey building",
+    "the top storey"
+   ]
+  },
+  {
+   "id": "re062",
+   "topic": "Bất động sản & xây dựng",
+   "w": "basement",
+   "ipa": "/ˈbeɪsmənt/",
+   "pos": "n",
+   "vi": "tầng hầm",
+   "ex": "Extra stock is kept in the basement.",
+   "exVi": "Hàng dự phòng được cất ở tầng hầm.",
+   "col": [
+    "a basement",
+    "the basement level"
+   ]
+  },
+  {
+   "id": "re063",
+   "topic": "Bất động sản & xây dựng",
+   "w": "mezzanine",
+   "ipa": "/ˈmezəniːn/",
+   "pos": "n",
+   "vi": "tầng lửng",
+   "ex": "A mezzanine overlooks the main floor.",
+   "exVi": "Một tầng lửng nhìn xuống sàn chính.",
+   "col": [
+    "a mezzanine floor",
+    "a mezzanine level"
+   ]
+  },
+  {
+   "id": "re064",
+   "topic": "Bất động sản & xây dựng",
+   "w": "lobby",
+   "ipa": "/ˈlɒbi/",
+   "pos": "n",
+   "vi": "sảnh",
+   "ex": "The marble lobby impresses new visitors.",
+   "exVi": "Sảnh lát đá cẩm thạch gây ấn tượng với khách mới.",
+   "col": [
+    "a hotel lobby",
+    "a spacious lobby"
+   ]
+  },
+  {
+   "id": "re065",
+   "topic": "Bất động sản & xây dựng",
+   "w": "elevator",
+   "ipa": "/ˈelɪveɪtə/",
+   "pos": "n",
+   "vi": "thang máy",
+   "ex": "The elevator serves all fifteen floors.",
+   "exVi": "Thang máy phục vụ cả mười lăm tầng.",
+   "col": [
+    "a service elevator",
+    "take the elevator"
+   ]
+  },
+  {
+   "id": "re066",
+   "topic": "Bất động sản & xây dựng",
+   "w": "staircase",
+   "ipa": "/ˈsteəkeɪs/",
+   "pos": "n",
+   "vi": "cầu thang",
+   "ex": "A wide staircase leads to the second floor.",
+   "exVi": "Một cầu thang rộng dẫn lên tầng hai.",
+   "col": [
+    "a spiral staircase",
+    "a grand staircase"
+   ]
+  },
+  {
+   "id": "re067",
+   "topic": "Bất động sản & xây dựng",
+   "w": "corridor",
+   "ipa": "/ˈkɒrɪdɔː/",
+   "pos": "n",
+   "vi": "hành lang",
+   "ex": "Offices open onto a central corridor.",
+   "exVi": "Các văn phòng mở ra một hành lang trung tâm.",
+   "col": [
+    "a long corridor",
+    "a narrow corridor"
+   ]
+  },
+  {
+   "id": "re068",
+   "topic": "Bất động sản & xây dựng",
+   "w": "facade",
+   "ipa": "/fəˈsɑːd/",
+   "pos": "n",
+   "vi": "mặt tiền",
+   "ex": "The glass facade reflects the whole square.",
+   "exVi": "Mặt tiền kính phản chiếu cả quảng trường.",
+   "col": [
+    "a glass facade",
+    "the building facade"
+   ]
+  },
+  {
+   "id": "re069",
+   "topic": "Bất động sản & xây dựng",
+   "w": "exterior",
+   "ipa": "/ɪkˈstɪəriə/",
+   "pos": "n",
+   "vi": "bên ngoài",
+   "ex": "The exterior was repainted a soft grey.",
+   "exVi": "Bên ngoài được sơn lại màu xám nhạt.",
+   "col": [
+    "the building exterior",
+    "an exterior wall"
+   ]
+  },
+  {
+   "id": "re070",
+   "topic": "Bất động sản & xây dựng",
+   "w": "interior",
+   "ipa": "/ɪnˈtɪəriə/",
+   "pos": "n",
+   "vi": "nội thất bên trong",
+   "ex": "The interior features exposed brick walls.",
+   "exVi": "Nội thất bên trong có tường gạch để trần.",
+   "col": [
+    "the interior",
+    "interior design"
+   ]
+  },
+  {
+   "id": "re071",
+   "topic": "Bất động sản & xây dựng",
+   "w": "accessibility",
+   "ipa": "/əkˌsesəˈbɪləti/",
+   "pos": "n",
+   "vi": "khả năng tiếp cận",
+   "ex": "Ramps improve accessibility for wheelchair users.",
+   "exVi": "Đường dốc cải thiện khả năng tiếp cận cho người dùng xe lăn.",
+   "col": [
+    "improve accessibility",
+    "wheelchair accessibility"
+   ]
+  },
+  {
+   "id": "re072",
+   "topic": "Bất động sản & xây dựng",
+   "w": "vacancy",
+   "ipa": "/ˈveɪkənsi/",
+   "pos": "n",
+   "vi": "chỗ trống cho thuê",
+   "ex": "The building has one vacancy on the third floor.",
+   "exVi": "Toà nhà có một chỗ trống cho thuê ở tầng ba.",
+   "col": [
+    "a vacancy",
+    "fill a vacancy"
+   ]
+  },
+  {
+   "id": "re073",
+   "topic": "Bất động sản & xây dựng",
+   "w": "letting",
+   "ipa": "/ˈletɪŋ/",
+   "pos": "n",
+   "vi": "việc cho thuê",
+   "ex": "The letting agent arranged three viewings.",
+   "exVi": "Nhân viên cho thuê sắp xếp ba buổi xem nhà.",
+   "col": [
+    "a letting agent",
+    "a holiday letting"
+   ]
+  },
+  {
+   "id": "re074",
+   "topic": "Bất động sản & xây dựng",
+   "w": "viewing",
+   "ipa": "/ˈvjuːɪŋ/",
+   "pos": "n",
+   "vi": "buổi xem nhà",
+   "ex": "A viewing is scheduled for Saturday morning.",
+   "exVi": "Một buổi xem nhà được xếp vào sáng thứ Bảy.",
+   "col": [
+    "arrange a viewing",
+    "a property viewing"
+   ]
+  },
+  {
+   "id": "re075",
+   "topic": "Bất động sản & xây dựng",
+   "w": "prospective",
+   "ipa": "/prəˈspektɪv/",
+   "pos": "adj",
+   "vi": "tiềm năng",
+   "ex": "Prospective tenants toured the office yesterday.",
+   "exVi": "Người thuê tiềm năng tham quan văn phòng hôm qua.",
+   "col": [
+    "a prospective buyer",
+    "a prospective tenant"
+   ]
+  },
+  {
+   "id": "re076",
+   "topic": "Bất động sản & xây dựng",
+   "w": "adjacent",
+   "ipa": "/əˈdʒeɪsnt/",
+   "pos": "adj",
+   "vi": "liền kề",
+   "ex": "The car park is adjacent to the main building.",
+   "exVi": "Bãi đỗ liền kề toà nhà chính.",
+   "col": [
+    "an adjacent property",
+    "adjacent to"
+   ]
+  },
+  {
+   "id": "re077",
+   "topic": "Bất động sản & xây dựng",
+   "w": "spacious",
+   "ipa": "/ˈspeɪʃəs/",
+   "pos": "adj",
+   "vi": "rộng rãi",
+   "ex": "The apartment is bright and surprisingly spacious.",
+   "exVi": "Căn hộ sáng sủa và rộng rãi đến bất ngờ.",
+   "col": [
+    "a spacious room",
+    "spacious offices"
+   ]
+  },
+  {
+   "id": "re078",
+   "topic": "Bất động sản & xây dựng",
+   "w": "furnished",
+   "ipa": "/ˈfɜːnɪʃt/",
+   "pos": "adj",
+   "vi": "có sẵn nội thất",
+   "ex": "The office is fully furnished and ready to use.",
+   "exVi": "Văn phòng có sẵn đầy đủ nội thất và sẵn sàng dùng.",
+   "col": [
+    "fully furnished",
+    "a furnished apartment"
+   ]
+  },
+  {
+   "id": "re079",
+   "topic": "Bất động sản & xây dựng",
+   "w": "unfurnished",
+   "ipa": "/ˌʌnˈfɜːnɪʃt/",
+   "pos": "adj",
+   "vi": "không kèm nội thất",
+   "ex": "The unfurnished unit rents for less.",
+   "exVi": "Căn không kèm nội thất cho thuê rẻ hơn.",
+   "col": [
+    "an unfurnished flat",
+    "rent unfurnished"
+   ]
+  },
+  {
+   "id": "re080",
+   "topic": "Bất động sản & xây dựng",
+   "w": "dilapidated",
+   "ipa": "/dɪˈlæpɪdeɪtɪd/",
+   "pos": "adj",
+   "vi": "xuống cấp",
+   "ex": "The dilapidated warehouse needs major repairs.",
+   "exVi": "Nhà kho xuống cấp cần sửa chữa lớn.",
+   "col": [
+    "a dilapidated building",
+    "in a dilapidated state"
+   ]
+  },
+  {
+   "id": "re081",
+   "topic": "Bất động sản & xây dựng",
+   "w": "structural",
+   "ipa": "/ˈstrʌktʃərəl/",
+   "pos": "adj",
+   "vi": "thuộc kết cấu",
+   "ex": "A structural survey checks the walls and roof.",
+   "exVi": "Một cuộc khảo sát kết cấu kiểm tra tường và mái.",
+   "col": [
+    "structural damage",
+    "a structural survey"
+   ]
+  },
+  {
+   "id": "re082",
+   "topic": "Bất động sản & xây dựng",
+   "w": "occupant",
+   "ipa": "/ˈɒkjupənt/",
+   "pos": "n",
+   "vi": "người sử dụng",
+   "ex": "Each occupant has a swipe card for the door.",
+   "exVi": "Mỗi người sử dụng có một thẻ quẹt cho cửa.",
+   "col": [
+    "the current occupant",
+    "a new occupant"
+   ]
+  },
+  {
+   "id": "re083",
+   "topic": "Bất động sản & xây dựng",
+   "w": "landlordism",
+   "ipa": "/ˈlændlɔːdɪzm/",
+   "pos": "n",
+   "vi": "chế độ chủ đất",
+   "ex": "Local rules aim to curb aggressive landlordism.",
+   "exVi": "Quy định địa phương nhằm hạn chế chế độ chủ đất hà khắc.",
+   "col": [
+    "curb landlordism",
+    "absentee landlordism"
+   ]
+  },
+  {
+   "id": "re084",
+   "topic": "Bất động sản & xây dựng",
+   "w": "maintenance fee",
+   "ipa": "/ˈmeɪntənəns fiː/",
+   "pos": "n",
+   "vi": "phí bảo trì",
+   "ex": "A monthly maintenance fee covers the shared areas.",
+   "exVi": "Một khoản phí bảo trì hằng tháng chi trả cho khu vực chung.",
+   "col": [
+    "a maintenance fee",
+    "an annual maintenance fee"
+   ]
+  },
+  {
+   "id": "re085",
+   "topic": "Bất động sản & xây dựng",
+   "w": "tenancy",
+   "ipa": "/ˈtenənsi/",
+   "pos": "n",
+   "vi": "thời hạn thuê",
+   "ex": "The tenancy begins on the first of the month.",
+   "exVi": "Thời hạn thuê bắt đầu từ ngày một của tháng.",
+   "col": [
+    "a tenancy agreement",
+    "a short tenancy"
+   ]
+  },
+  {
+   "id": "re086",
+   "topic": "Bất động sản & xây dựng",
+   "w": "eviction",
+   "ipa": "/ɪˈvɪkʃn/",
+   "pos": "n",
+   "vi": "việc trục xuất người thuê",
+   "ex": "Eviction is a last resort for unpaid rent.",
+   "exVi": "Trục xuất là biện pháp cuối cùng cho việc nợ tiền thuê.",
+   "col": [
+    "an eviction notice",
+    "face eviction"
+   ]
+  },
+  {
+   "id": "re087",
+   "topic": "Bất động sản & xây dựng",
+   "w": "relocate",
+   "ipa": "/ˌriːləʊˈkeɪt/",
+   "pos": "v",
+   "vi": "di dời",
+   "ex": "The company relocated to a larger site downtown.",
+   "exVi": "Công ty di dời tới một khu lớn hơn ở trung tâm.",
+   "col": [
+    "relocate an office",
+    "relocate staff"
+   ]
+  },
+  {
+   "id": "re088",
+   "topic": "Bất động sản & xây dựng",
+   "w": "relocation",
+   "ipa": "/ˌriːləʊˈkeɪʃn/",
+   "pos": "n",
+   "vi": "việc di dời",
+   "ex": "The relocation was completed over one weekend.",
+   "exVi": "Việc di dời hoàn tất trong một cuối tuần.",
+   "col": [
+    "office relocation",
+    "a relocation plan"
+   ]
+  },
+  {
+   "id": "re089",
+   "topic": "Bất động sản & xây dựng",
+   "w": "premises manager",
+   "ipa": "/ˈpremɪsɪz ˈmænɪdʒə/",
+   "pos": "n",
+   "vi": "quản lý cơ sở",
+   "ex": "The premises manager handles all repairs.",
+   "exVi": "Quản lý cơ sở lo mọi việc sửa chữa.",
+   "col": [
+    "a premises manager",
+    "the site premises manager"
+   ]
+  },
+  {
+   "id": "re090",
+   "topic": "Bất động sản & xây dựng",
+   "w": "janitorial",
+   "ipa": "/ˌdʒænɪˈtɔːriəl/",
+   "pos": "adj",
+   "vi": "thuộc tạp vụ",
+   "ex": "Janitorial staff clean the offices each evening.",
+   "exVi": "Nhân viên tạp vụ dọn văn phòng mỗi tối.",
+   "col": [
+    "janitorial services",
+    "janitorial staff"
+   ]
+  },
+  {
+   "id": "re091",
+   "topic": "Bất động sản & xây dựng",
+   "w": "signage",
+   "ipa": "/ˈsaɪnɪdʒ/",
+   "pos": "n",
+   "vi": "hệ thống biển chỉ dẫn",
+   "ex": "Clear signage guides visitors to reception.",
+   "exVi": "Biển chỉ dẫn rõ ràng dẫn khách tới lễ tân.",
+   "col": [
+    "clear signage",
+    "install signage"
+   ]
+  },
+  {
+   "id": "re092",
+   "topic": "Bất động sản & xây dựng",
+   "w": "frontage",
+   "ipa": "/ˈfrʌntɪdʒ/",
+   "pos": "n",
+   "vi": "mặt tiền phố",
+   "ex": "The shop has a wide frontage on the main street.",
+   "exVi": "Cửa hàng có mặt tiền rộng trên phố chính.",
+   "col": [
+    "street frontage",
+    "a wide frontage"
+   ]
+  },
+  {
+   "id": "re093",
+   "topic": "Bất động sản & xây dựng",
+   "w": "overlook",
+   "ipa": "/ˌəʊvəˈlʊk/",
+   "pos": "v",
+   "vi": "nhìn ra",
+   "ex": "The top-floor office overlooks the river.",
+   "exVi": "Văn phòng tầng cao nhìn ra dòng sông.",
+   "col": [
+    "overlook a park",
+    "overlook the sea"
+   ]
+  },
+  {
+   "id": "re094",
+   "topic": "Bất động sản & xây dựng",
+   "w": "appreciation",
+   "ipa": "/əˌpriːʃiˈeɪʃn/",
+   "pos": "n",
+   "vi": "sự tăng giá trị",
+   "ex": "Property appreciation was strong over the decade.",
+   "exVi": "Sự tăng giá bất động sản mạnh suốt thập kỷ.",
+   "col": [
+    "capital appreciation",
+    "price appreciation"
+   ]
+  }
+ ]
+}

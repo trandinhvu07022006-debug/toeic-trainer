@@ -1,0 +1,1181 @@
+{
+ "topic": "Cơ thể người & y tế thường ngày",
+ "words": [
+  {
+   "id": "bd001",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "symptom",
+   "ipa": "/ˈsɪmptəm/",
+   "pos": "n",
+   "vi": "triệu chứng",
+   "ex": "A fever is a common symptom of flu.",
+   "exVi": "Sốt là một triệu chứng thường gặp của cúm.",
+   "col": [
+    "a symptom",
+    "a mild symptom"
+   ]
+  },
+  {
+   "id": "bd002",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "headache",
+   "ipa": "/ˈhedeɪk/",
+   "pos": "n",
+   "vi": "đau đầu",
+   "ex": "She took a pill for her headache.",
+   "exVi": "Bà uống một viên cho cơn đau đầu.",
+   "col": [
+    "a headache",
+    "a bad headache"
+   ]
+  },
+  {
+   "id": "bd003",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "fever",
+   "ipa": "/ˈfiːvə/",
+   "pos": "n",
+   "vi": "sốt",
+   "ex": "The child had a high fever overnight.",
+   "exVi": "Đứa trẻ sốt cao qua đêm.",
+   "col": [
+    "a fever",
+    "a high fever"
+   ]
+  },
+  {
+   "id": "bd004",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "cough",
+   "ipa": "/kɒf/",
+   "pos": "n",
+   "vi": "ho",
+   "ex": "A dry cough kept him awake.",
+   "exVi": "Một cơn ho khan khiến ông thức.",
+   "col": [
+    "a cough",
+    "a dry cough"
+   ]
+  },
+  {
+   "id": "bd005",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "sneeze",
+   "ipa": "/sniːz/",
+   "pos": "n",
+   "vi": "hắt hơi",
+   "ex": "A loud sneeze broke the silence.",
+   "exVi": "Một tiếng hắt hơi lớn phá vỡ sự im lặng.",
+   "col": [
+    "a sneeze",
+    "a sudden sneeze"
+   ]
+  },
+  {
+   "id": "bd006",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "sore throat",
+   "ipa": "/sɔː θrəʊt/",
+   "pos": "n",
+   "vi": "đau họng",
+   "ex": "A sore throat made it hard to speak.",
+   "exVi": "Đau họng khiến khó nói.",
+   "col": [
+    "a sore throat",
+    "a bad sore throat"
+   ]
+  },
+  {
+   "id": "bd007",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "rash",
+   "ipa": "/ræʃ/",
+   "pos": "n",
+   "vi": "phát ban",
+   "ex": "A red rash appeared on her arm.",
+   "exVi": "Một vết ban đỏ xuất hiện trên tay bà.",
+   "col": [
+    "a rash",
+    "a skin rash"
+   ]
+  },
+  {
+   "id": "bd008",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "bruise",
+   "ipa": "/bruːz/",
+   "pos": "n",
+   "vi": "vết bầm",
+   "ex": "A dark bruise formed on his knee.",
+   "exVi": "Một vết bầm sẫm hình thành trên đầu gối ông.",
+   "col": [
+    "a bruise",
+    "a nasty bruise"
+   ]
+  },
+  {
+   "id": "bd009",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "sprain",
+   "ipa": "/spreɪn/",
+   "pos": "n",
+   "vi": "bong gân",
+   "ex": "A sprain kept her off the field.",
+   "exVi": "Một chỗ bong gân khiến bà nghỉ thi đấu.",
+   "col": [
+    "a sprain",
+    "an ankle sprain"
+   ]
+  },
+  {
+   "id": "bd010",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "fracture",
+   "ipa": "/ˈfræktʃə/",
+   "pos": "n",
+   "vi": "gãy xương",
+   "ex": "The fall caused a small fracture.",
+   "exVi": "Cú ngã gây một chỗ gãy nhỏ.",
+   "col": [
+    "a fracture",
+    "a hairline fracture"
+   ]
+  },
+  {
+   "id": "bd011",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "nausea",
+   "ipa": "/ˈnɔːziə/",
+   "pos": "n",
+   "vi": "buồn nôn",
+   "ex": "The medicine caused mild nausea.",
+   "exVi": "Thuốc gây buồn nôn nhẹ.",
+   "col": [
+    "nausea",
+    "mild nausea"
+   ]
+  },
+  {
+   "id": "bd012",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "fatigue",
+   "ipa": "/fəˈtiːɡ/",
+   "pos": "n",
+   "vi": "mệt mỏi",
+   "ex": "Fatigue set in after the long shift.",
+   "exVi": "Mệt mỏi ập tới sau ca dài.",
+   "col": [
+    "fatigue",
+    "extreme fatigue"
+   ]
+  },
+  {
+   "id": "bd013",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "dizziness",
+   "ipa": "/ˈdɪzinəs/",
+   "pos": "n",
+   "vi": "chóng mặt",
+   "ex": "Sudden dizziness made her sit down.",
+   "exVi": "Chóng mặt đột ngột khiến bà ngồi xuống.",
+   "col": [
+    "dizziness",
+    "sudden dizziness"
+   ]
+  },
+  {
+   "id": "bd014",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "allergy",
+   "ipa": "/ˈælədʒi/",
+   "pos": "n",
+   "vi": "dị ứng",
+   "ex": "A pollen allergy troubles him in spring.",
+   "exVi": "Một dị ứng phấn hoa làm phiền ông vào mùa xuân.",
+   "col": [
+    "an allergy",
+    "a food allergy"
+   ]
+  },
+  {
+   "id": "bd015",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "infection",
+   "ipa": "/ɪnˈfekʃn/",
+   "pos": "n",
+   "vi": "nhiễm trùng",
+   "ex": "The wound showed signs of infection.",
+   "exVi": "Vết thương có dấu hiệu nhiễm trùng.",
+   "col": [
+    "an infection",
+    "a minor infection"
+   ]
+  },
+  {
+   "id": "bd016",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "prescription",
+   "ipa": "/prɪˈskrɪpʃn/",
+   "pos": "n",
+   "vi": "đơn thuốc",
+   "ex": "The doctor wrote a prescription.",
+   "exVi": "Bác sĩ viết một đơn thuốc.",
+   "col": [
+    "a prescription",
+    "fill a prescription"
+   ]
+  },
+  {
+   "id": "bd017",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "dose",
+   "ipa": "/dəʊs/",
+   "pos": "n",
+   "vi": "liều",
+   "ex": "Take one dose after each meal.",
+   "exVi": "Uống một liều sau mỗi bữa ăn.",
+   "col": [
+    "a dose",
+    "a daily dose"
+   ]
+  },
+  {
+   "id": "bd018",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "tablet",
+   "ipa": "/ˈtæblət/",
+   "pos": "n",
+   "vi": "viên nén",
+   "ex": "Swallow the tablet with water.",
+   "exVi": "Nuốt viên nén với nước.",
+   "col": [
+    "a tablet",
+    "a small tablet"
+   ]
+  },
+  {
+   "id": "bd019",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "capsule",
+   "ipa": "/ˈkæpsjuːl/",
+   "pos": "n",
+   "vi": "viên nang",
+   "ex": "Take one capsule twice a day.",
+   "exVi": "Uống một viên nang hai lần một ngày.",
+   "col": [
+    "a capsule",
+    "a soft capsule"
+   ]
+  },
+  {
+   "id": "bd020",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "ointment",
+   "ipa": "/ˈɔɪntmənt/",
+   "pos": "n",
+   "vi": "thuốc mỡ",
+   "ex": "Apply the ointment to the rash.",
+   "exVi": "Bôi thuốc mỡ lên vết ban.",
+   "col": [
+    "ointment",
+    "an antiseptic ointment"
+   ]
+  },
+  {
+   "id": "bd021",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "bandage",
+   "ipa": "/ˈbændɪdʒ/",
+   "pos": "n",
+   "vi": "băng gạc",
+   "ex": "A clean bandage covered the cut.",
+   "exVi": "Một băng gạc sạch phủ vết cắt.",
+   "col": [
+    "a bandage",
+    "a sterile bandage"
+   ]
+  },
+  {
+   "id": "bd022",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "checkup",
+   "ipa": "/ˈtʃekʌp/",
+   "pos": "n",
+   "vi": "khám sức khoẻ",
+   "ex": "An annual checkup keeps him healthy.",
+   "exVi": "Một cuộc khám hằng năm giữ ông khoẻ.",
+   "col": [
+    "a checkup",
+    "a routine checkup"
+   ]
+  },
+  {
+   "id": "bd023",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "appointment",
+   "ipa": "/əˈpɔɪntmənt/",
+   "pos": "n",
+   "vi": "lịch hẹn khám",
+   "ex": "She made an appointment with the dentist.",
+   "exVi": "Bà đặt một lịch hẹn với nha sĩ.",
+   "col": [
+    "an appointment",
+    "a doctor's appointment"
+   ]
+  },
+  {
+   "id": "bd024",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "diagnosis",
+   "ipa": "/ˌdaɪəɡˈnəʊsɪs/",
+   "pos": "n",
+   "vi": "chẩn đoán",
+   "ex": "The diagnosis was made after tests.",
+   "exVi": "Chẩn đoán được đưa ra sau các xét nghiệm.",
+   "col": [
+    "a diagnosis",
+    "an early diagnosis"
+   ]
+  },
+  {
+   "id": "bd025",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "treatment",
+   "ipa": "/ˈtriːtmənt/",
+   "pos": "n",
+   "vi": "điều trị",
+   "ex": "The treatment lasted six weeks.",
+   "exVi": "Việc điều trị kéo dài sáu tuần.",
+   "col": [
+    "treatment",
+    "medical treatment"
+   ]
+  },
+  {
+   "id": "bd026",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "recovery",
+   "ipa": "/rɪˈkʌvəri/",
+   "pos": "n",
+   "vi": "hồi phục",
+   "ex": "Her recovery was quick and full.",
+   "exVi": "Sự hồi phục của bà nhanh và trọn vẹn.",
+   "col": [
+    "recovery",
+    "a full recovery"
+   ]
+  },
+  {
+   "id": "bd027",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "immunity",
+   "ipa": "/ɪˈmjuːnəti/",
+   "pos": "n",
+   "vi": "miễn dịch",
+   "ex": "A vaccine builds immunity to the virus.",
+   "exVi": "Một vắc-xin xây dựng miễn dịch với virus.",
+   "col": [
+    "immunity",
+    "natural immunity"
+   ]
+  },
+  {
+   "id": "bd028",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "vaccine",
+   "ipa": "/ˈvæksiːn/",
+   "pos": "n",
+   "vi": "vắc-xin",
+   "ex": "The vaccine protects against the flu.",
+   "exVi": "Vắc-xin bảo vệ chống lại cúm.",
+   "col": [
+    "a vaccine",
+    "a flu vaccine"
+   ]
+  },
+  {
+   "id": "bd029",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "hygiene",
+   "ipa": "/ˈhaɪdʒiːn/",
+   "pos": "n",
+   "vi": "vệ sinh",
+   "ex": "Good hygiene prevents illness.",
+   "exVi": "Vệ sinh tốt ngăn ngừa bệnh.",
+   "col": [
+    "hygiene",
+    "personal hygiene"
+   ]
+  },
+  {
+   "id": "bd030",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "nutrition",
+   "ipa": "/njuˈtrɪʃn/",
+   "pos": "n",
+   "vi": "dinh dưỡng",
+   "ex": "Good nutrition supports recovery.",
+   "exVi": "Dinh dưỡng tốt hỗ trợ hồi phục.",
+   "col": [
+    "nutrition",
+    "good nutrition"
+   ]
+  },
+  {
+   "id": "bd031",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "posture",
+   "ipa": "/ˈpɒstʃə/",
+   "pos": "n",
+   "vi": "tư thế",
+   "ex": "Poor posture caused her back pain.",
+   "exVi": "Tư thế xấu gây đau lưng cho bà.",
+   "col": [
+    "posture",
+    "good posture"
+   ]
+  },
+  {
+   "id": "bd032",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "circulation",
+   "ipa": "/ˌsɜːkjəˈleɪʃn/",
+   "pos": "n",
+   "vi": "tuần hoàn máu",
+   "ex": "Exercise improves blood circulation.",
+   "exVi": "Tập thể dục cải thiện tuần hoàn máu.",
+   "col": [
+    "circulation",
+    "blood circulation"
+   ]
+  },
+  {
+   "id": "bd033",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "recover",
+   "ipa": "/rɪˈkʌvə/",
+   "pos": "v",
+   "vi": "hồi phục",
+   "ex": "He recovered fully within a month.",
+   "exVi": "Ông hồi phục hoàn toàn trong một tháng.",
+   "col": [
+    "recover",
+    "recover fully"
+   ]
+  },
+  {
+   "id": "bd034",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "heal",
+   "ipa": "/hiːl/",
+   "pos": "v",
+   "vi": "lành",
+   "ex": "The wound healed without a scar.",
+   "exVi": "Vết thương lành mà không để sẹo.",
+   "col": [
+    "heal",
+    "heal quickly"
+   ]
+  },
+  {
+   "id": "bd035",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "diagnose",
+   "ipa": "/ˈdaɪəɡnəʊz/",
+   "pos": "v",
+   "vi": "chẩn đoán",
+   "ex": "The doctor diagnosed a mild infection.",
+   "exVi": "Bác sĩ chẩn đoán một nhiễm trùng nhẹ.",
+   "col": [
+    "diagnose",
+    "diagnose a condition"
+   ]
+  },
+  {
+   "id": "bd036",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "prescribe",
+   "ipa": "/prɪˈskraɪb/",
+   "pos": "v",
+   "vi": "kê đơn",
+   "ex": "The doctor prescribed a short course.",
+   "exVi": "Bác sĩ kê một đợt điều trị ngắn.",
+   "col": [
+    "prescribe",
+    "prescribe medicine"
+   ]
+  },
+  {
+   "id": "bd037",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "inhale",
+   "ipa": "/ɪnˈheɪl/",
+   "pos": "v",
+   "vi": "hít vào",
+   "ex": "Inhale slowly through the nose.",
+   "exVi": "Hít vào chậm qua mũi.",
+   "col": [
+    "inhale",
+    "inhale deeply"
+   ]
+  },
+  {
+   "id": "bd038",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "exhale",
+   "ipa": "/eksˈheɪl/",
+   "pos": "v",
+   "vi": "thở ra",
+   "ex": "Exhale gently after each breath.",
+   "exVi": "Thở ra nhẹ sau mỗi hơi.",
+   "col": [
+    "exhale",
+    "exhale slowly"
+   ]
+  },
+  {
+   "id": "bd039",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "contagious",
+   "ipa": "/kənˈteɪdʒəs/",
+   "pos": "adj",
+   "vi": "dễ lây",
+   "ex": "The flu is highly contagious.",
+   "exVi": "Cúm rất dễ lây.",
+   "col": [
+    "contagious",
+    "a contagious illness"
+   ]
+  },
+  {
+   "id": "bd040",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "chronic",
+   "ipa": "/ˈkrɒnɪk/",
+   "pos": "adj",
+   "vi": "mãn tính",
+   "ex": "A chronic cough needs a checkup.",
+   "exVi": "Một cơn ho mãn tính cần được khám.",
+   "col": [
+    "chronic",
+    "a chronic condition"
+   ]
+  },
+  {
+   "id": "bd041",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "acute",
+   "ipa": "/əˈkjuːt/",
+   "pos": "adj",
+   "vi": "cấp tính",
+   "ex": "Acute pain sent him to the clinic.",
+   "exVi": "Cơn đau cấp tính đưa ông tới phòng khám.",
+   "col": [
+    "acute",
+    "acute pain"
+   ]
+  },
+  {
+   "id": "bd042",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "sore",
+   "ipa": "/sɔː/",
+   "pos": "adj",
+   "vi": "đau nhức",
+   "ex": "Her muscles were sore after the run.",
+   "exVi": "Cơ của bà đau nhức sau khi chạy.",
+   "col": [
+    "sore",
+    "sore muscles"
+   ]
+  },
+  {
+   "id": "bd043",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "forehead",
+   "ipa": "/ˈfɔːhed/",
+   "pos": "n",
+   "vi": "trán",
+   "ex": "She wiped the sweat from her forehead.",
+   "exVi": "Bà lau mồ hôi khỏi trán.",
+   "col": [
+    "a forehead",
+    "a high forehead"
+   ]
+  },
+  {
+   "id": "bd044",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "eyebrow",
+   "ipa": "/ˈaɪbraʊ/",
+   "pos": "n",
+   "vi": "lông mày",
+   "ex": "He raised an eyebrow in surprise.",
+   "exVi": "Ông nhướn một bên lông mày vì ngạc nhiên.",
+   "col": [
+    "an eyebrow",
+    "raise an eyebrow"
+   ]
+  },
+  {
+   "id": "bd045",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "eyelash",
+   "ipa": "/ˈaɪlæʃ/",
+   "pos": "n",
+   "vi": "lông mi",
+   "ex": "A long eyelash fell on her cheek.",
+   "exVi": "Một sợi lông mi dài rơi trên má bà.",
+   "col": [
+    "an eyelash",
+    "a long eyelash"
+   ]
+  },
+  {
+   "id": "bd046",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "cheek",
+   "ipa": "/tʃiːk/",
+   "pos": "n",
+   "vi": "má",
+   "ex": "A cold wind reddened his cheek.",
+   "exVi": "Một cơn gió lạnh làm má ông ửng đỏ.",
+   "col": [
+    "a cheek",
+    "a rosy cheek"
+   ]
+  },
+  {
+   "id": "bd047",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "chin",
+   "ipa": "/tʃɪn/",
+   "pos": "n",
+   "vi": "cằm",
+   "ex": "He rested his chin on his hand.",
+   "exVi": "Ông tựa cằm lên tay.",
+   "col": [
+    "a chin",
+    "a pointed chin"
+   ]
+  },
+  {
+   "id": "bd048",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "jaw",
+   "ipa": "/dʒɔː/",
+   "pos": "n",
+   "vi": "hàm",
+   "ex": "A sore jaw made chewing hard.",
+   "exVi": "Một cái hàm đau khiến việc nhai khó.",
+   "col": [
+    "a jaw",
+    "a stiff jaw"
+   ]
+  },
+  {
+   "id": "bd049",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "throat",
+   "ipa": "/θrəʊt/",
+   "pos": "n",
+   "vi": "họng",
+   "ex": "A dry throat made her cough.",
+   "exVi": "Một cái họng khô khiến bà ho.",
+   "col": [
+    "a throat",
+    "a dry throat"
+   ]
+  },
+  {
+   "id": "bd050",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "shoulder",
+   "ipa": "/ˈʃəʊldə/",
+   "pos": "n",
+   "vi": "vai",
+   "ex": "He carried the bag on one shoulder.",
+   "exVi": "Ông mang túi trên một vai.",
+   "col": [
+    "a shoulder",
+    "a stiff shoulder"
+   ]
+  },
+  {
+   "id": "bd051",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "elbow",
+   "ipa": "/ˈelbəʊ/",
+   "pos": "n",
+   "vi": "khuỷu tay",
+   "ex": "She leaned on her elbow at the desk.",
+   "exVi": "Bà tựa khuỷu tay lên bàn.",
+   "col": [
+    "an elbow",
+    "a bent elbow"
+   ]
+  },
+  {
+   "id": "bd052",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "wrist",
+   "ipa": "/rɪst/",
+   "pos": "n",
+   "vi": "cổ tay",
+   "ex": "A watch sat on his wrist.",
+   "exVi": "Một chiếc đồng hồ nằm trên cổ tay ông.",
+   "col": [
+    "a wrist",
+    "a sore wrist"
+   ]
+  },
+  {
+   "id": "bd053",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "palm",
+   "ipa": "/pɑːm/",
+   "pos": "n",
+   "vi": "lòng bàn tay",
+   "ex": "She held the coin in her palm.",
+   "exVi": "Bà giữ đồng xu trong lòng bàn tay.",
+   "col": [
+    "a palm",
+    "an open palm"
+   ]
+  },
+  {
+   "id": "bd054",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "thumb",
+   "ipa": "/θʌm/",
+   "pos": "n",
+   "vi": "ngón cái",
+   "ex": "He gave a thumb up in approval.",
+   "exVi": "Ông giơ ngón cái tỏ ý tán thành.",
+   "col": [
+    "a thumb",
+    "a sore thumb"
+   ]
+  },
+  {
+   "id": "bd055",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "knuckle",
+   "ipa": "/ˈnʌkl/",
+   "pos": "n",
+   "vi": "khớp ngón tay",
+   "ex": "He tapped the door with a knuckle.",
+   "exVi": "Ông gõ cửa bằng một khớp ngón tay.",
+   "col": [
+    "a knuckle",
+    "a bruised knuckle"
+   ]
+  },
+  {
+   "id": "bd056",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "hip",
+   "ipa": "/hɪp/",
+   "pos": "n",
+   "vi": "hông",
+   "ex": "She rested a hand on her hip.",
+   "exVi": "Bà đặt một tay lên hông.",
+   "col": [
+    "a hip",
+    "a sore hip"
+   ]
+  },
+  {
+   "id": "bd057",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "thigh",
+   "ipa": "/θaɪ/",
+   "pos": "n",
+   "vi": "đùi",
+   "ex": "The runner stretched his thigh.",
+   "exVi": "Người chạy giãn cơ đùi.",
+   "col": [
+    "a thigh",
+    "an aching thigh"
+   ]
+  },
+  {
+   "id": "bd058",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "knee",
+   "ipa": "/niː/",
+   "pos": "n",
+   "vi": "đầu gối",
+   "ex": "He bent his knee to tie the lace.",
+   "exVi": "Ông gập đầu gối để buộc dây.",
+   "col": [
+    "a knee",
+    "a sore knee"
+   ]
+  },
+  {
+   "id": "bd059",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "ankle",
+   "ipa": "/ˈæŋkl/",
+   "pos": "n",
+   "vi": "mắt cá chân",
+   "ex": "She twisted her ankle on the step.",
+   "exVi": "Bà trẹo mắt cá chân trên bậc thềm.",
+   "col": [
+    "an ankle",
+    "a swollen ankle"
+   ]
+  },
+  {
+   "id": "bd060",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "heel",
+   "ipa": "/hiːl/",
+   "pos": "n",
+   "vi": "gót chân",
+   "ex": "A blister formed on his heel.",
+   "exVi": "Một vết phồng hình thành trên gót chân ông.",
+   "col": [
+    "a heel",
+    "a sore heel"
+   ]
+  },
+  {
+   "id": "bd061",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "spine",
+   "ipa": "/spaɪn/",
+   "pos": "n",
+   "vi": "cột sống",
+   "ex": "Good posture keeps the spine straight.",
+   "exVi": "Tư thế tốt giữ cột sống thẳng.",
+   "col": [
+    "the spine",
+    "a curved spine"
+   ]
+  },
+  {
+   "id": "bd062",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "rib",
+   "ipa": "/rɪb/",
+   "pos": "n",
+   "vi": "xương sườn",
+   "ex": "He bruised a rib in the fall.",
+   "exVi": "Ông bầm một xương sườn khi ngã.",
+   "col": [
+    "a rib",
+    "a broken rib"
+   ]
+  },
+  {
+   "id": "bd063",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "lung",
+   "ipa": "/lʌŋ/",
+   "pos": "n",
+   "vi": "phổi",
+   "ex": "Deep breathing fills the lungs.",
+   "exVi": "Thở sâu làm đầy phổi.",
+   "col": [
+    "a lung",
+    "the lungs"
+   ]
+  },
+  {
+   "id": "bd064",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "liver",
+   "ipa": "/ˈlɪvə/",
+   "pos": "n",
+   "vi": "gan",
+   "ex": "A healthy diet protects the liver.",
+   "exVi": "Một chế độ ăn lành mạnh bảo vệ gan.",
+   "col": [
+    "the liver",
+    "a healthy liver"
+   ]
+  },
+  {
+   "id": "bd065",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "kidney",
+   "ipa": "/ˈkɪdni/",
+   "pos": "n",
+   "vi": "thận",
+   "ex": "Drinking water helps the kidneys.",
+   "exVi": "Uống nước giúp ích cho thận.",
+   "col": [
+    "a kidney",
+    "the kidneys"
+   ]
+  },
+  {
+   "id": "bd066",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "nerve",
+   "ipa": "/nɜːv/",
+   "pos": "n",
+   "vi": "dây thần kinh",
+   "ex": "A pinched nerve caused the pain.",
+   "exVi": "Một dây thần kinh bị chèn gây đau.",
+   "col": [
+    "a nerve",
+    "a pinched nerve"
+   ]
+  },
+  {
+   "id": "bd067",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "muscle",
+   "ipa": "/ˈmʌsl/",
+   "pos": "n",
+   "vi": "cơ",
+   "ex": "Exercise builds strong muscles.",
+   "exVi": "Tập thể dục xây dựng cơ khoẻ.",
+   "col": [
+    "a muscle",
+    "a strong muscle"
+   ]
+  },
+  {
+   "id": "bd068",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "tendon",
+   "ipa": "/ˈtendən/",
+   "pos": "n",
+   "vi": "gân",
+   "ex": "He strained a tendon while running.",
+   "exVi": "Ông căng một sợi gân khi chạy.",
+   "col": [
+    "a tendon",
+    "a torn tendon"
+   ]
+  },
+  {
+   "id": "bd069",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "joint",
+   "ipa": "/dʒɔɪnt/",
+   "pos": "n",
+   "vi": "khớp",
+   "ex": "Cold weather stiffens the joints.",
+   "exVi": "Thời tiết lạnh làm cứng các khớp.",
+   "col": [
+    "a joint",
+    "a stiff joint"
+   ]
+  },
+  {
+   "id": "bd070",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "bloodstream",
+   "ipa": "/ˈblʌdstriːm/",
+   "pos": "n",
+   "vi": "dòng máu",
+   "ex": "The drug enters the bloodstream quickly.",
+   "exVi": "Thuốc đi vào dòng máu nhanh chóng.",
+   "col": [
+    "the bloodstream",
+    "enter the bloodstream"
+   ]
+  },
+  {
+   "id": "bd071",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "pulse",
+   "ipa": "/pʌls/",
+   "pos": "n",
+   "vi": "mạch",
+   "ex": "The nurse checked his pulse.",
+   "exVi": "Y tá kiểm tra mạch của ông.",
+   "col": [
+    "a pulse",
+    "a steady pulse"
+   ]
+  },
+  {
+   "id": "bd072",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "breathing",
+   "ipa": "/ˈbriːðɪŋ/",
+   "pos": "n",
+   "vi": "hơi thở",
+   "ex": "Slow breathing calmed her down.",
+   "exVi": "Hơi thở chậm giúp bà bình tĩnh lại.",
+   "col": [
+    "breathing",
+    "deep breathing"
+   ]
+  },
+  {
+   "id": "bd073",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "digestion",
+   "ipa": "/daɪˈdʒestʃən/",
+   "pos": "n",
+   "vi": "tiêu hoá",
+   "ex": "A light meal aids digestion.",
+   "exVi": "Một bữa nhẹ hỗ trợ tiêu hoá.",
+   "col": [
+    "digestion",
+    "good digestion"
+   ]
+  },
+  {
+   "id": "bd074",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "metabolism",
+   "ipa": "/məˈtæbəlɪzm/",
+   "pos": "n",
+   "vi": "trao đổi chất",
+   "ex": "Exercise speeds up the metabolism.",
+   "exVi": "Tập thể dục tăng tốc trao đổi chất.",
+   "col": [
+    "metabolism",
+    "a fast metabolism"
+   ]
+  },
+  {
+   "id": "bd075",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "stamina",
+   "ipa": "/ˈstæmɪnə/",
+   "pos": "n",
+   "vi": "sức bền",
+   "ex": "Running builds stamina over time.",
+   "exVi": "Chạy bộ xây dựng sức bền theo thời gian.",
+   "col": [
+    "stamina",
+    "build stamina"
+   ]
+  },
+  {
+   "id": "bd076",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "flexibility",
+   "ipa": "/ˌfleksəˈbɪləti/",
+   "pos": "n",
+   "vi": "sự dẻo dai",
+   "ex": "Stretching improves flexibility.",
+   "exVi": "Giãn cơ cải thiện sự dẻo dai.",
+   "col": [
+    "flexibility",
+    "improve flexibility"
+   ]
+  },
+  {
+   "id": "bd077",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "stretch",
+   "ipa": "/stretʃ/",
+   "pos": "v",
+   "vi": "kéo giãn",
+   "ex": "She stretches before every run.",
+   "exVi": "Bà kéo giãn trước mỗi lần chạy.",
+   "col": [
+    "stretch",
+    "stretch a muscle"
+   ]
+  },
+  {
+   "id": "bd078",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "flex",
+   "ipa": "/fleks/",
+   "pos": "v",
+   "vi": "gập, co cơ",
+   "ex": "He flexed his arm to show the muscle.",
+   "exVi": "Ông gập tay để khoe cơ bắp.",
+   "col": [
+    "flex",
+    "flex a muscle"
+   ]
+  },
+  {
+   "id": "bd079",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "massage",
+   "ipa": "/ˈmæsɑːʒ/",
+   "pos": "v",
+   "vi": "xoa bóp",
+   "ex": "The therapist massaged his stiff neck.",
+   "exVi": "Nhà trị liệu xoa bóp cổ cứng của ông.",
+   "col": [
+    "massage",
+    "massage a muscle"
+   ]
+  },
+  {
+   "id": "bd080",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "swell",
+   "ipa": "/swel/",
+   "pos": "v",
+   "vi": "sưng",
+   "ex": "The ankle began to swell after the fall.",
+   "exVi": "Mắt cá bắt đầu sưng sau cú ngã.",
+   "col": [
+    "swell",
+    "swell up"
+   ]
+  },
+  {
+   "id": "bd081",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "throb",
+   "ipa": "/θrɒb/",
+   "pos": "v",
+   "vi": "đau nhói theo nhịp",
+   "ex": "His head throbbed after the long day.",
+   "exVi": "Đầu ông đau nhói theo nhịp sau một ngày dài.",
+   "col": [
+    "throb",
+    "throb with pain"
+   ]
+  },
+  {
+   "id": "bd082",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "sturdy",
+   "ipa": "/ˈstɜːdi/",
+   "pos": "adj",
+   "vi": "khoẻ mạnh",
+   "ex": "The child grew into a sturdy teen.",
+   "exVi": "Đứa trẻ lớn thành một thiếu niên khoẻ mạnh.",
+   "col": [
+    "sturdy",
+    "a sturdy build"
+   ]
+  },
+  {
+   "id": "bd083",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "robust",
+   "ipa": "/rəʊˈbʌst/",
+   "pos": "adj",
+   "vi": "cường tráng",
+   "ex": "Regular exercise keeps him robust.",
+   "exVi": "Tập thể dục đều giữ ông cường tráng.",
+   "col": [
+    "robust",
+    "robust health"
+   ]
+  },
+  {
+   "id": "bd084",
+   "topic": "Cơ thể người & y tế thường ngày",
+   "w": "frail",
+   "ipa": "/freɪl/",
+   "pos": "adj",
+   "vi": "yếu ớt",
+   "ex": "The frail patient needed help walking.",
+   "exVi": "Bệnh nhân yếu ớt cần giúp đi lại.",
+   "col": [
+    "frail",
+    "a frail patient"
+   ]
+  }
+ ]
+}
