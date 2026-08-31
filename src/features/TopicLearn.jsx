@@ -1,206 +1,252 @@
 import React from "react";
 import { useEffect, useMemo, useState } from "react";
-import { ArrowLeft, Check, ChevronRight, PartyPopper, RotateCcw, Volume2 } from "lucide-react";
-import { VOCAB_TOPICS } from "../data/vocab.js";
+import { ArrowLeft, Check, ChevronRight, PartyPopper, RotateCcw, Volume2, X, List, MonitorPlay } from "lucide-react";
+import { VOCAB_TOPICS, VOCAB } from "../data/vocab.js";
 import { pct } from "../lib/scoring.js";
-import { Bar, Ghost, Primary } from "../ui/index.jsx";
+import { Bar, Ghost, Primary, SectionTitle } from "../ui/index.jsx";
 import { VocabArt } from "../ui/art.jsx";
 
 /* ═══════════════════════════════════════════════════════════════════
-   HỌC THEO CHỦ ĐỀ — giao diện thẻ chia nhóm (kiểu Parroto)
-   Ba tầng: (1) danh sách chủ đề, (2) lật thẻ theo nhóm, (3) chúc mừng.
-   Dùng chung srs/onGrade với chế độ SRS nên tiến độ được lưu thật.
+   KMG CLUB - HỌC TỪ VỰNG CHUẨN WEB (2 CỘT PARROTO CLONE)
    ═══════════════════════════════════════════════════════════════════ */
 
-/* Một thẻ chủ đề trong lưới danh sách */
-function TopicCard({ topic, learnedSet, dark, T, onOpen }) {
+/* ---------- Bảng Liệt Kê Các Từ Trong Nhóm (Modal) ---------- */
+function WordListModal({ topic, onClose, dark, T, tts }) {
+  return (
+    <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/60 backdrop-blur-sm animate-fade">
+      <div className={"w-full max-w-4xl max-h-[85vh] flex flex-col rounded-xl border-4 border-black overflow-hidden " + (dark ? "bg-[#111]" : "bg-white")}>
+        {/* Header Modal */}
+        <div className="flex items-center justify-between p-4 border-b-4 border-black bg-black text-white">
+          <p className="font-display text-lg tracking-wide uppercase">Các từ trong nhóm này: {topic.topic}</p>
+          <button onClick={onClose} className="p-1 hover:bg-white/20 rounded transition-colors"><X size={24} /></button>
+        </div>
+
+        {/* Bảng Từ */}
+        <div className="flex-1 overflow-auto p-0">
+          <table className="w-full text-left border-collapse">
+            <thead className={"sticky top-0 z-10 border-b-4 border-black uppercase text-xs font-bold " + (dark ? "bg-gray-900" : "bg-gray-100")}>
+              <tr>
+                <th className="p-4">Từ Vựng</th>
+                <th className="p-4">IPA / Đọc</th>
+                <th className="p-4 hidden sm:table-cell">Loại Từ</th>
+                <th className="p-4">Bản Dịch</th>
+                <th className="p-4 hidden md:table-cell">Ví dụ</th>
+              </tr>
+            </thead>
+            <tbody className="text-sm">
+              {topic.words.map((w, idx) => (
+                <tr key={w.id} className={"border-b border-gray-300 dark:border-gray-800 transition-colors " + (dark ? "hover:bg-gray-800" : "hover:bg-gray-50")}>
+                  <td className="p-4 font-bold text-[16px] text-accent">{w.w}</td>
+                  <td className="p-4">
+                    <div className="flex flex-col gap-1 items-start">
+                      <span className="text-xs opacity-70 mb-1">{w.ipa}</span>
+                      <button aria-label="Nghe US" onClick={() => tts.speak(w.w, 0.9)} className="border-2 border-black rounded px-2 py-0.5 w-auto inline-flex items-center gap-1 hover:bg-gray-200 dark:hover:bg-gray-700 text-[11px] font-bold"><Volume2 size={12} /> US</button>
+                    </div>
+                  </td>
+                  <td className="p-4 hidden sm:table-cell"><span className="border-2 border-black rounded px-2 py-0.5 text-[10px] font-bold uppercase">{w.pos}</span></td>
+                  <td className="p-4 font-semibold">{w.vi}</td>
+                  <td className="p-4 hidden md:table-cell text-xs leading-relaxed italic opacity-80">&quot;{w.ex}&quot;</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+
+/* ---------- Cột Trái: Danh sách chủ đề ---------- */
+function TopicCard({ topic, learnedSet, dark, T, onOpen, isActive, onOpenStats }) {
   const total = topic.words.length;
   const learned = topic.words.filter((w) => learnedSet.has(w.id)).length;
   const done = learned >= total && total > 0;
   const sampleId = topic.words[0]?.id;
   return (
-    <button
-      onClick={onOpen}
-      style={{ minHeight: 88 }}
-      className={"w-full text-left rounded-2xl border p-3 flex items-center gap-3 transition-colors active:scale-[0.99] " +
-        (done
-          ? (dark ? "bg-emerald-950 border-emerald-800" : "bg-emerald-50 border-emerald-300")
-          : T.card + " " + T.line)}>
-      <div className={"shrink-0 rounded-xl overflow-hidden " + T.soft} style={{ width: 52, height: 52 }}>
-        <VocabArt id={sampleId} dark={dark} size={52} />
-      </div>
-      <div className="flex-1 min-w-0">
-        <div className="flex items-center gap-2">
-          <p className="font-semibold truncate">{topic.topic}</p>
-          {done && <Check size={16} className={dark ? "text-emerald-400" : "text-emerald-600"} />}
+    <div className={"w-full rounded-xl border-4 p-3 flex items-center gap-3 transition-colors " +
+      (isActive ? "border-accent bg-accent/5 dark:bg-accent/10 " : (dark ? "border-gray-800 bg-[#111]" : "border-black bg-white"))}>
+
+      <button onClick={onOpen} className="flex-1 flex items-center gap-3 min-w-0 text-left active:scale-[0.98]">
+        <div className={"shrink-0 flex items-center justify-center border-2 border-black rounded-lg overflow-hidden " + (dark ? "bg-[#222]" : "bg-gray-200")} style={{ width: 56, height: 56 }}>
+          <VocabArt id={sampleId} dark={dark} size={56} />
         </div>
-        <p className={"text-sm mb-1.5 " + T.sub}>{total} thẻ</p>
-        <div className="h-1.5 rounded-full overflow-hidden" style={{ background: dark ? "#27272a" : "#e2e8f0" }}>
-          <div className="h-full rounded-full transition-all"
-            style={{ width: pct(learned, total) + "%", background: done ? "#10b981" : "var(--accent)" }} />
+        <div className="flex-1 min-w-0 pr-2">
+          <div className="flex items-center justify-between mb-1">
+            <p className="font-display text-[15px] truncate max-w-[140px] uppercase">{topic.topic}</p>
+            <span className={"text-[11px] font-bold px-1.5 py-0.5 rounded border-2 border-black " + (done ? "bg-black text-white" : "")}>{pct(learned, total)}%</span>
+          </div>
+          <div className="h-2 border-2 border-black rounded-full overflow-hidden bg-white dark:bg-gray-900 mt-1">
+            <div className="h-full bg-accent transition-all" style={{ width: pct(learned, total) + "%" }} />
+          </div>
+          <p className={"text-[11px] font-semibold mt-1 opacity-70"}>{learned}/{total} thẻ</p>
         </div>
-      </div>
-      <ChevronRight size={18} className={"shrink-0 " + T.sub} />
-    </button>
-  );
-}
+      </button>
 
-/* Màn danh sách chủ đề */
-function TopicList({ learnedSet, dark, T, onOpen }) {
-  const totalWords = useMemo(() => VOCAB_TOPICS.reduce((n, t) => n + t.words.length, 0), []);
-  const learnedTotal = useMemo(
-    () => VOCAB_TOPICS.reduce((n, t) => n + t.words.filter((w) => learnedSet.has(w.id)).length, 0),
-    [learnedSet]);
-  const doneTopics = VOCAB_TOPICS.filter((t) => t.words.every((w) => learnedSet.has(w.id))).length;
-
-  return (
-    <div className="px-4 pt-4">
-      <div className="mb-4">
-        <p className="text-lg font-bold">Học theo chủ đề</p>
-        <p className={"text-sm " + T.sub}>
-          {VOCAB_TOPICS.length} chủ đề · đã xong {doneTopics} · {learnedTotal}/{totalWords} từ
-        </p>
-      </div>
-      <div className="mb-5"><Bar value={pct(learnedTotal, totalWords)} T={T} /></div>
-
-      <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 pb-4">
-        {VOCAB_TOPICS.map((t) => (
-          <TopicCard key={t.key} topic={t} learnedSet={learnedSet} dark={dark} T={T} onOpen={() => onOpen(t.key)} />
-        ))}
-      </div>
+      <button onClick={onOpenStats} aria-label="Xem từ vựng" className={"shrink-0 p-2.5 rounded-lg border-2 border-black transition-colors hover:bg-black hover:text-white " + (dark ? "bg-[#222] text-white" : "bg-gray-100")}>
+        <List size={20} />
+      </button>
     </div>
   );
 }
 
-/* Màn chúc mừng khi học xong một nhóm */
-function TopicDone({ topic, count, dark, T, onReview, onNext, onRestart, onBack, hasNext }) {
-  return (
-    <div className="px-4 pt-4">
-      <div className="flex items-center gap-3 mb-4">
-        <button onClick={onBack} aria-label="Quay lại" style={{ minHeight: 44, minWidth: 44 }} className={"rounded-full p-3 " + T.soft}>
-          <ArrowLeft size={18} />
-        </button>
-        <p className="text-lg font-bold truncate flex-1">{topic.topic}</p>
-      </div>
 
-      <div className={"rounded-2xl border p-8 text-center mb-4 " + T.card + " " + T.line}>
-        <PartyPopper className={"mx-auto mb-3 " + T.accentText} size={44} />
-        <p className="text-xl font-bold mb-1">Tuyệt vời!</p>
-        <p className={"text-sm mb-1 " + T.sub}>Bạn đã học xong các thẻ trong nhóm này</p>
-        <p className={"text-sm mb-5 " + T.sub}>Hãy nhớ ôn tập thường xuyên để nhớ lâu dài nhé!</p>
-        <p className={"text-2xl font-bold mb-6 " + T.accentText}>Đã học {count}/{count} từ</p>
-
-        <div className="space-y-2">
-          {hasNext && (
-            <Primary onClick={onNext}>
-              <span className="flex items-center justify-center gap-2">Học nhóm tiếp theo <ChevronRight size={18} /></span>
-            </Primary>
-          )}
-          <Ghost onClick={onReview} T={T} className="w-full">Xem lại từ vựng</Ghost>
-          <button onClick={onRestart} style={{ minHeight: 48 }}
-            className={"w-full rounded-2xl border font-semibold flex items-center justify-center gap-2 " +
-              (dark ? "bg-rose-950 border-rose-800 text-rose-300" : "bg-rose-50 border-rose-200 text-rose-700")}>
-            <RotateCcw size={17} /> Học lại từ đầu
-          </button>
-        </div>
-      </div>
-    </div>
-  );
-}
-
-/* Màn lật thẻ cho một chủ đề */
-function TopicFlashcards({ topic, dark, T, tts, onGrade, onDone, onBack }) {
+/* ---------- Cột Phải: Khung Gõ Từ (Thay thế Lật Thẻ) ---------- */
+function InteractiveCard({ topic, dark, T, tts, onGrade, onDone, onBack }) {
   const [i, setI] = useState(0);
-  const [flipped, setFlipped] = useState(false);
   const words = topic.words;
+  const current = words[i];
+
+  const [input, setInput] = useState("");
+  const [reveal, setReveal] = useState(false);
+  const [incorrect, setIncorrect] = useState(false);
+
+  // Normalize checking
+  const checkNormalize = (s) => {
+    let t = (s || "").toLowerCase();
+    try { t = t.normalize("NFD").replace(/[\u0300-\u036f]/g, ""); } catch (e) { }
+    return t.replace(/[^a-z0-9 ]/g, "").replace(/\s+/g, " ").trim();
+  };
+
   useEffect(() => () => tts.stop(), []); // eslint-disable-line react-hooks/exhaustive-deps
 
-  const current = words[i];
   const next = (grade) => {
     onGrade(current.id, grade);
     tts.stop();
     if (i + 1 >= words.length) { onDone(); return; }
-    setFlipped(false);
+
+    // Reset state for next card
+    setInput("");
+    setReveal(false);
+    setIncorrect(false);
     setI(i + 1);
   };
 
+  const handleCheck = () => {
+    if (reveal) return; // If already revealed, do nothing or go next.
+    if (!input.trim()) return;
+
+    if (checkNormalize(input) === checkNormalize(current.w)) { // Correct
+      tts.speak(current.w, 0.9);
+      setReveal(true);
+      setIncorrect(false);
+      // Auto advance after correct or just show it glowing green?
+      // Let's force them to hit "Tiếp tục" or auto next after 1.5s
+    } else { // Wrong
+      setIncorrect(true);
+    }
+  };
+
+  const handleSurrender = () => {
+    setReveal(true);
+    setIncorrect(true); // Treat as wrong/unknown
+  };
+
   return (
-    <div className="px-4 pt-4">
-      <div className="flex items-center gap-3 mb-4">
-        <button onClick={onBack} aria-label="Quay lại" style={{ minHeight: 44, minWidth: 44 }} className={"rounded-full p-3 " + T.soft}>
-          <ArrowLeft size={18} />
+    <div className="flex flex-col h-full">
+      {/* Header Topic */}
+      <div className="flex items-center gap-3 mb-6">
+        <button onClick={onBack} aria-label="Quay lại list (Mobile)" style={{ minHeight: 44, minWidth: 44 }} className="lg:hidden rounded-full border-2 border-black p-2 flex items-center justify-center">
+          <ArrowLeft size={20} />
         </button>
-        <div className="flex-1 min-w-0">
-          <p className="text-base font-bold truncate">{topic.topic}</p>
-          <p className={"text-sm " + T.sub}>Thẻ {i + 1}/{words.length}</p>
+        <div className="flex-1 min-w-0 text-center lg:text-left">
+          <p className="font-display text-xl uppercase tracking-widest text-accent">{topic.topic}</p>
+          <div className="mt-2 h-1.5 border-black border max-w-[200px] lg:max-w-md mx-auto lg:mx-0 overflow-hidden bg-gray-200 dark:bg-gray-800">
+            <div className="h-full bg-accent transition-all duration-300" style={{ width: (i / words.length) * 100 + "%" }} />
+          </div>
         </div>
+        <p className="font-display text-2xl px-2">{i + 1}/{words.length}</p>
       </div>
-      <div className="mb-4"><Bar value={((i) / words.length) * 100} T={T} /></div>
 
-      <div style={{ perspective: 1200 }} className="h-96 mb-5">
-        <div onClick={() => setFlipped((f) => !f)}
-          style={{ transformStyle: "preserve-3d", transform: flipped ? "rotateY(180deg)" : "rotateY(0deg)", transition: "transform 0.55s" }}
-          className="relative w-full h-full cursor-pointer">
+      {/* Main Container Học */}
+      <div className={"flex-1 flex flex-col items-center justify-center rounded-2xl border-4 p-5 lg:p-8 " + (dark ? "bg-[#0a0a0a] border-[#222]" : "bg-white border-black")}>
 
-          {/* Mặt trước */}
-          <div style={{ backfaceVisibility: "hidden", WebkitBackfaceVisibility: "hidden" }}
-            className={"absolute inset-0 rounded-2xl border flex flex-col items-center justify-center p-5 " + T.card + " " + T.line}>
-            <VocabArt id={current.id} dark={dark} size={104} />
-            <p className="font-display text-3xl font-semibold text-center mt-2">{current.w}</p>
-            <p className={"text-base mb-4 " + T.sub}>{current.ipa} · ({current.pos})</p>
-            <button aria-label="Nghe phát âm" onClick={(e) => { e.stopPropagation(); tts.speak(current.w, 0.9); }}
-              style={{ minHeight: 48, minWidth: 48 }}
-              className="rounded-full bg-accent text-white p-3 active:brightness-95 transition-colors">
-              <Volume2 size={20} />
-            </button>
-            <p className={"text-sm mt-4 " + T.sub}>Chạm vào thẻ để xem nghĩa</p>
+        <div className="w-full max-w-lg flex flex-col items-center text-center animate-fade">
+          <div className="rounded-2xl border-4 border-black overflow-hidden mb-6 shadow-md" style={{ width: 140, height: 140 }}>
+            <VocabArt id={current.id} dark={dark} size={140} />
           </div>
 
-          {/* Mặt sau */}
-          <div style={{ backfaceVisibility: "hidden", WebkitBackfaceVisibility: "hidden", transform: "rotateY(180deg)" }}
-            className={"absolute inset-0 rounded-2xl border p-5 overflow-y-auto " + T.card + " " + T.line}>
-            <div className="flex items-start justify-between gap-3 mb-3">
-              <p className="font-display text-2xl font-semibold">{current.w}</p>
-              <button aria-label="Nghe phát âm" onClick={(e) => { e.stopPropagation(); tts.speak(current.ex, 0.9); }}
-                style={{ minHeight: 44, minWidth: 44 }} className={"shrink-0 rounded-full p-3 " + T.soft}>
-                <Volume2 size={18} />
+          <p className="font-display text-[26px] mb-2">{current.vi}</p>
+          <div className="inline-block px-3 py-1 bg-black text-white rounded textxs font-bold uppercase mb-4">{current.pos}</div>
+
+          {/* Hint / Definitions - Hiện lên nếu sai quá nhiều hoặc khi Reveal */}
+          <div className="mb-6 w-full text-[15px] space-y-2 opacity-80 px-2 lg:px-6">
+            <p className="italic">&quot;{current.exVi}&quot;</p>
+          </div>
+
+          {/* Input Gõ Khác Thường */}
+          <div className="w-full mb-6 relative">
+            {reveal ? (
+              <div className={"font-display text-4xl py-3 border-b-4 tracking-wider transition-colors " + (!incorrect ? "border-green-500 text-green-500" : "border-red-600 text-red-600")}>
+                {current.w}
+              </div>
+            ) : (
+              <input
+                autoFocus
+                value={input}
+                onChange={(e) => { setInput(e.target.value); setIncorrect(false); }}
+                onKeyDown={(e) => { if (e.key === "Enter") handleCheck(); }}
+                placeholder="Nhập từ tiếng Anh..."
+                className={"w-full text-center font-display text-2xl lg:text-3xl py-4 border-b-4 bg-transparent outline-none transition-colors " +
+                  (incorrect ? "border-red-500 text-red-500 animate-pulse" : (dark ? "border-gray-700 text-white focus:border-accent" : "border-gray-300 text-black focus:border-black"))}
+              />
+            )}
+          </div>
+
+          {/* Actions */}
+          <div className="w-full flex gap-3">
+            {!reveal ? (
+              <>
+                <button onClick={handleSurrender} className="flex-1 py-4 font-display uppercase tracking-widest text-sm lg:text-base border-4 border-black bg-white hover:bg-gray-100 text-black transition-transform active:translate-y-1">
+                  Không biết
+                </button>
+                <button onClick={handleCheck} disabled={!input} className="flex-1 py-4 font-display uppercase tracking-widest text-sm lg:text-base border-4 border-black bg-accent hover:bg-red-700 text-white transition-transform active:translate-y-1 disabled:opacity-50 disabled:active:translate-y-0">
+                  Kiểm tra
+                </button>
+              </>
+            ) : (
+              <button onClick={() => next(incorrect ? 0 : 2)} className={"w-full py-4 font-display uppercase tracking-widest text-lg border-4 border-black transition-transform active:translate-y-1 text-white " + (!incorrect ? "bg-green-600 hover:bg-green-700" : "bg-black hover:bg-gray-900")}>
+                Tiếp tục
               </button>
-            </div>
-            <p className="text-lg font-medium mb-4">{current.vi}</p>
-            <p className={"text-xs font-semibold uppercase tracking-wide mb-1 " + T.sub}>Ví dụ</p>
-            <p className="text-base mb-1">{current.ex}</p>
-            <p className={"text-sm mb-4 " + T.sub}>{current.exVi}</p>
-            <p className={"text-xs font-semibold uppercase tracking-wide mb-2 " + T.sub}>Collocation hay gặp</p>
-            <div className="flex flex-wrap gap-2">
-              {current.col.map((c) => (
-                <span key={c} className={"px-3 py-1 rounded-full text-sm " + T.soft + " " + T.softText}>{c}</span>
-              ))}
-            </div>
+            )}
           </div>
         </div>
-      </div>
 
-      <div className="grid grid-cols-2 gap-2">
-        <button onClick={() => next(0)} style={{ minHeight: 56 }}
-          className={"rounded-2xl border text-base font-semibold px-2 " +
-            (dark ? "bg-amber-950 border-amber-800 text-amber-300" : "bg-amber-50 border-amber-200 text-amber-700")}>
-          Cần ôn thêm
-        </button>
-        <button onClick={() => next(2)} style={{ minHeight: 56 }}
-          className={"rounded-2xl border text-base font-semibold px-2 " +
-            (dark ? "bg-emerald-950 border-emerald-800 text-emerald-300" : "bg-emerald-50 border-emerald-200 text-emerald-700")}>
-          Đã thuộc
-        </button>
       </div>
-      <p className={"text-sm text-center mt-3 mb-4 " + T.sub}>Lật thẻ xem nghĩa rồi tự đánh giá để lưu tiến độ.</p>
     </div>
   );
 }
 
-/* Điều phối ba tầng của chế độ học theo chủ đề */
+
+/* ---------- Cột Phải: Màn hình Chúc Mừng (Done) ---------- */
+function TopicDone({ topic, count, dark, T, onReview, onNext, onRestart, hasNext }) {
+  return (
+    <div className={"flex flex-col items-center justify-center mt-12 w-full max-w-lg mx-auto rounded-3xl border-4 border-black p-8 text-center " + (dark ? "bg-[#111]" : "bg-white")}>
+      <PartyPopper className={"mx-auto mb-4 text-accent"} size={56} />
+      <p className="font-display text-3xl mb-2">QUÁ ĐỈNH!</p>
+      <p className={"text-base mb-6 font-bold " + T.sub}>Bạn đã cày xong bài {topic.topic}</p>
+      <p className={"font-display text-4xl mb-8 " + T.accentText}>+ {count} TỪ VỰNG</p>
+
+      <div className="w-full space-y-3">
+        {hasNext && (
+          <button onClick={onNext} className="w-full py-4 text-lg border-4 border-black bg-accent text-white font-display uppercase tracking-widest hover:bg-red-700 active:translate-y-1 transition-all">
+            Học nhóm tiếp theo
+          </button>
+        )}
+        <button onClick={onRestart} className={"w-full py-4 text-lg border-4 border-black font-display uppercase tracking-widest active:translate-y-1 transition-all " + (dark ? "bg-[#222] text-white hover:bg-gray-800" : "bg-gray-100 text-black hover:bg-gray-200")}>
+          Luyện lại từ đầu
+        </button>
+      </div>
+    </div>
+  );
+}
+
+
+/* ---------- Điều phối Layout 2 Cột Desktop / Trượt Mobile ---------- */
 export function TopicLearnScreen({ T, dark, tts, learnedSet, onGrade, onExitMode }) {
-  const [openKey, setOpenKey] = useState(null);   // chủ đề đang mở
+  const [openKey, setOpenKey] = useState(null);
   const [phase, setPhase] = useState("list");     // "list" | "cards" | "done"
+  const [modalTopic, setModalTopic] = useState(null);
 
   const topicIdx = useMemo(() => VOCAB_TOPICS.findIndex((t) => t.key === openKey), [openKey]);
   const topic = topicIdx >= 0 ? VOCAB_TOPICS[topicIdx] : null;
@@ -209,21 +255,74 @@ export function TopicLearnScreen({ T, dark, tts, learnedSet, onGrade, onExitMode
   const openTopic = (key) => { setOpenKey(key); setPhase("cards"); };
   const backToList = () => { tts.stop(); setOpenKey(null); setPhase("list"); };
 
-  if (phase === "list" || !topic) {
-    return <TopicList learnedSet={learnedSet} dark={dark} T={T} onOpen={openTopic} />;
-  }
-  if (phase === "cards") {
-    return (
-      <TopicFlashcards topic={topic} dark={dark} T={T} tts={tts} onGrade={onGrade}
-        onDone={() => setPhase("done")} onBack={backToList} />
+  // Nếu Desktop, tự động mở Topic đầu tiên nếu chưa chọn
+  useEffect(() => {
+    if (!openKey && window.innerWidth >= 1024) {
+      openTopic(VOCAB_TOPICS[0].key);
+    }
+  }, [openKey]);
+
+  // View cho Cột Phải
+  let rightContent = null;
+  if (!topic) {
+    rightContent = (
+      <div className={"flex-1 flex flex-col items-center justify-center p-12 text-center rounded-2xl border-4 border-dashed border-gray-300 dark:border-gray-800 " + T.sub}>
+        <MonitorPlay size={64} className="opacity-30 mb-4" />
+        <p className="font-display text-xl uppercase opacity-60">Chọn chủ đề bên trái để bắt đầu luyện</p>
+      </div>
+    );
+  } else if (phase === "cards") {
+    rightContent = (
+      <InteractiveCard topic={topic} dark={dark} T={T} tts={tts} onGrade={onGrade} onDone={() => setPhase("done")} onBack={backToList} />
+    );
+  } else if (phase === "done") {
+    rightContent = (
+      <TopicDone topic={topic} count={topic.words.length} dark={dark} T={T} hasNext={hasNext}
+        onReview={() => setPhase("cards")}
+        onRestart={() => setPhase("cards")}
+        onNext={() => { if (hasNext) openTopic(VOCAB_TOPICS[topicIdx + 1].key); }} />
     );
   }
-  // phase === "done"
+
+  // Tracking progress
+  const totalWords = useMemo(() => VOCAB_TOPICS.reduce((n, t) => n + t.words.length, 0), []);
+  const learnedTotal = useMemo(() => VOCAB_TOPICS.reduce((n, t) => n + t.words.filter((w) => learnedSet.has(w.id)).length, 0), [learnedSet]);
+
   return (
-    <TopicDone topic={topic} count={topic.words.length} dark={dark} T={T} hasNext={hasNext}
-      onReview={() => setPhase("cards")}
-      onRestart={() => setPhase("cards")}
-      onNext={() => { if (hasNext) { setOpenKey(VOCAB_TOPICS[topicIdx + 1].key); setPhase("cards"); } }}
-      onBack={backToList} />
+    <>
+      <div className="grid lg:grid-cols-[380px_1fr] gap-6 px-4 pt-4 items-start w-full max-w-[1400px] mx-auto min-h-[80vh]">
+
+        {/* CỘT TRÁI (DANH SÁCH CHỦ ĐỀ) - Ẩn trên mobile khi đang học */}
+        <div className={`flex flex-col gap-4 ${openKey ? 'hidden lg:flex' : 'flex'} w-full bg-white dark:bg-[#0a0a0a] rounded-xl lg:border-4 border-black p-2 lg:p-4 h-[80vh] overflow-y-auto`}>
+          <div className="sticky top-0 bg-white dark:bg-[#0a0a0a] pb-2 z-10 border-b-4 border-black mb-2">
+            <SectionTitle T={T}>DANH SÁCH CHỦ ĐỀ</SectionTitle>
+            <p className={"text-sm font-bold uppercase " + T.sub}>Tiến độ: {learnedTotal}/{totalWords} từ</p>
+          </div>
+
+          <div className="flex flex-col gap-3 pb-8">
+            {VOCAB_TOPICS.map((t) => (
+              <TopicCard
+                key={t.key}
+                topic={t}
+                learnedSet={learnedSet}
+                dark={dark} T={T}
+                isActive={t.key === openKey}
+                onOpen={() => openTopic(t.key)}
+                onOpenStats={(e) => { e.stopPropagation(); setModalTopic(t); }}
+              />
+            ))}
+          </div>
+        </div>
+
+        {/* CỘT PHẢI (MAIN INTERACTION) - Ẩn trên mobile khi chưa chọn Topic */}
+        <div className={`w-full h-full flex flex-col ${!openKey ? 'hidden lg:flex' : 'flex'}`}>
+          {rightContent}
+        </div>
+      </div>
+
+      {modalTopic && (
+        <WordListModal topic={modalTopic} onClose={() => setModalTopic(null)} dark={dark} T={T} tts={tts} />
+      )}
+    </>
   );
 }

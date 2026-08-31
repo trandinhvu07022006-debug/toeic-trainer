@@ -549,13 +549,13 @@ export function VocabScreen({ T, dark, tts, srs, onGrade }) {
 
   const learned = VOCAB.filter((v) => isLearned(srs[v.id])).length;
 
-  /* Thanh chuyển đổi giữa hai chế độ học */
+  /* Thanh chuyển đổi giữa hai chế độ học (KMG Club Style) */
   const ModeToggle = () => (
-    <div className={"flex gap-1 p-1 rounded-2xl mb-5 " + T.soft}>
-      {[["srs", "Ôn theo SRS"], ["topic", "Học theo chủ đề"]].map(([k, label]) => (
-        <button key={k} onClick={() => setLearnMode(k)} style={{ minHeight: 40 }}
-          className={"flex-1 rounded-xl text-sm font-semibold transition-colors " +
-            (learnMode === k ? "bg-accent text-white" : T.softText)}>
+    <div className={"flex gap-2 p-1.5 rounded-lg border-4 border-black mb-6 " + (dark ? "bg-[#111]" : "bg-gray-100")}>
+      {[["srs", "Ôn luyện SRS"], ["topic", "Học theo Chủ Đề"]].map(([k, label]) => (
+        <button key={k} onClick={() => setLearnMode(k)} style={{ minHeight: 44 }}
+          className={"flex-1 font-display tracking-widest text-[14px] uppercase transition-colors border-2 " +
+            (learnMode === k ? "bg-accent text-white border-black shadow-[2px_2px_0_0_#000]" : "bg-transparent border-transparent text-gray-500 hover:text-black hover:border-black")}>
           {label}
         </button>
       ))}
