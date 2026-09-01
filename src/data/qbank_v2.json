@@ -1,0 +1,452 @@
+{
+  "total_questions": 17,
+  "questions": [
+    {
+      "question_id": "q_p1_001",
+      "source_book": "ĐA Mô phỏng đề thi TOEIC New Format thật (Đề số 01)",
+      "test_part": 1,
+      "question_text": "Look at the picture marked No. 1 in your test book.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Some customers are leaving a shop."
+        },
+        {
+          "label": "B",
+          "text": "A seating area is decorated with plants."
+        },
+        {
+          "label": "C",
+          "text": "A worker is repairing some light fixtures."
+        },
+        {
+          "label": "D",
+          "text": "A bench is being moved into a corner."
+        }
+      ],
+      "correct_answer": "B",
+      "transcript_vi": "(A) Một số khách hàng đang rời khỏi cửa hàng.\n(B) Khu vực tiếp khách được trang trí bằng những chậu cây.\n(C) Người công nhân đang sửa chữa một số thiết bị chiếu sáng.\n(D) Cái ghế băng đang được chuyển vào góc nhà.",
+      "explanation_vi": "Hình ảnh thể hiện khu vực chờ/tiếp khách có trang trí các chậu cây cảnh."
+    },
+    {
+      "question_id": "q_p2_010",
+      "source_book": "ĐA Mô phỏng đề thi TOEIC New Format thật (Đề số 01)",
+      "test_part": 2,
+      "question_text": "When is the safety inspector due to visit the factory?",
+      "options": [
+        {
+          "label": "A",
+          "text": "I didn't expect it."
+        },
+        {
+          "label": "B",
+          "text": "Monday at the latest."
+        },
+        {
+          "label": "C",
+          "text": "On the factory floor."
+        }
+      ],
+      "correct_answer": "B",
+      "transcript_vi": "Khi nào thì thanh tra an toàn đến thăm nhà máy vậy?\n(A) Tôi không mong đợi điều đó.\n(B) Chậm nhất là thứ Hai.\n(C) Trong nhà máy.",
+      "explanation_vi": "Câu hỏi bắt đầu bằng 'When' (Khi nào). Phương án (B) 'Monday at the latest' cung cấp mốc thời gian cụ thể."
+    },
+    {
+      "question_id": "q_sparta_p1_001",
+      "source_book": "Sách Sparta TOEIC LCRC",
+      "test_part": 1,
+      "question_text": "Look at the picture marked No. 7 in your test book.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Some suitcases are being loaded onto a bus."
+        },
+        {
+          "label": "B",
+          "text": "Some people are crossing an intersection."
+        },
+        {
+          "label": "C",
+          "text": "Some buses are parked in a garage."
+        },
+        {
+          "label": "D",
+          "text": "Some people are lined up at the side of a road."
+        }
+      ],
+      "correct_answer": "D",
+      "transcript_vi": "(A) Một số va li đang được chất lên xe bus.\n(B) Một số người đang băng qua ngã tư.\n(C) Một số xe bus đang đỗ trong nhà để xe.\n(D) Một số người đang xếp hàng bên vệ đường.",
+      "explanation_vi": "Bức ảnh chụp mọi người đang đứng xếp hàng ở trạm dừng xe bus ven đường. Đáp án (D) miêu tả chính xác nhất."
+    },
+    {
+      "question_id": "q_sparta_p2_001",
+      "source_book": "Sách Sparta TOEIC LCRC",
+      "test_part": 2,
+      "question_text": "Who did you contact at the bank for your business loan?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Her name was Leslie."
+        },
+        {
+          "label": "B",
+          "text": "Sorry, I can't lend it to you."
+        },
+        {
+          "label": "C",
+          "text": "Yes, I opened an account."
+        }
+      ],
+      "correct_answer": "A",
+      "transcript_vi": "Bạn đã liên lạc với ai ở ngân hàng về khoản vay kinh doanh của bạn thế?\n(A) Tên cô ấy là Leslie.\n(B) Xin lỗi, tôi không thể cho bạn mượn.\n(C) Có, tôi đã mở một tài khoản.",
+      "explanation_vi": "Câu hỏi dùng từ hỏi người 'Who'. Đáp án (A) cung cấp thông tin người đại diện ngân hàng 'Her name was Leslie'."
+    },
+    {
+      "question_id": "q_sparta_p2_002",
+      "source_book": "Sách Sparta TOEIC LCRC",
+      "test_part": 2,
+      "question_text": "What's the membership fee at the fitness center on Oak Street?",
+      "options": [
+        {
+          "label": "A",
+          "text": "They were highly recommended."
+        },
+        {
+          "label": "B",
+          "text": "The shop's on Washington Way."
+        },
+        {
+          "label": "C",
+          "text": "Twenty euros a month."
+        }
+      ],
+      "correct_answer": "C",
+      "transcript_vi": "Phí hội viên tại trung tâm thể hình trên đường Oak là bao nhiêu?\n(A) Chúng đã được giới thiệu rất nhiệt tình.\n(B) Cửa hàng nằm trên đường Washington.\n(C) 20 euro một tháng.",
+      "explanation_vi": "Câu hỏi hỏi về phí hội viên 'membership fee'. Đáp án (C) nêu mức chi phí cụ thể 'Twenty euros a month'."
+    },
+    {
+      "question_id": "q_sparta_p3_032",
+      "source_book": "Sách Sparta TOEIC LCRC",
+      "test_part": 3,
+      "question_text": "Who most likely are the speakers?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Architects"
+        },
+        {
+          "label": "B",
+          "text": "Tour guides"
+        },
+        {
+          "label": "C",
+          "text": "Construction workers"
+        },
+        {
+          "label": "D",
+          "text": "Event planners"
+        }
+      ],
+      "correct_answer": "A",
+      "transcript_vi": "Họ đang thảo luận về thiết kế và bản vẽ cho tòa nhà mới. Dựa vào ngữ cảnh, người nói nhiều khả năng là các kiến trúc sư (Architects).",
+      "explanation_vi": "Từ khóa trong hội thoại đề cập đến 'building design', 'blueprints'. Đáp án đúng là (A)."
+    },
+    {
+      "question_id": "q_sparta_p3_033",
+      "source_book": "Sách Sparta TOEIC LCRC",
+      "test_part": 3,
+      "question_text": "What are the speakers discussing?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A motorcycle"
+        },
+        {
+          "label": "B",
+          "text": "A mobile phone"
+        },
+        {
+          "label": "C",
+          "text": "A laptop computer"
+        },
+        {
+          "label": "D",
+          "text": "An exercise machine"
+        }
+      ],
+      "correct_answer": "B",
+      "transcript_vi": "(M-Cn) Tôi rất vui vì cửa hàng của cô có bán chiếc điện thoại thông minh EPG8 mới...\n(W-Br) Vâng, chiếc điện thoại này đã thu hút rất nhiều sự quan tâm...",
+      "explanation_vi": "Đoạn hội thoại nhắc trực tiếp tới chiếc điện thoại thông minh 'smartphone EPG8'. Đáp án (B) A mobile phone."
+    },
+    {
+      "question_id": "q_sparta_p3_034",
+      "source_book": "Sách Sparta TOEIC LCRC",
+      "test_part": 3,
+      "question_text": "What does the man ask about?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The prices"
+        },
+        {
+          "label": "B",
+          "text": "The battery life"
+        },
+        {
+          "label": "C",
+          "text": "The warranty"
+        },
+        {
+          "label": "D",
+          "text": "The color options"
+        }
+      ],
+      "correct_answer": "D",
+      "transcript_vi": "(M-Cn) Nó có những màu gì nhỉ? (What colors do you have?)\n(W-Br) Có 3 màu: trắng, đen và vàng...",
+      "explanation_vi": "Người đàn ông hỏi 'What colors do you have?', hỏi về các tùy chọn màu sắc (color options)."
+    },
+    {
+      "question_id": "q_sparta_p3_045",
+      "source_book": "Sách Sparta TOEIC LCRC",
+      "test_part": 3,
+      "question_text": "What does the man say about his office?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It does not have air conditioning."
+        },
+        {
+          "label": "B",
+          "text": "Its lease has expired."
+        },
+        {
+          "label": "C",
+          "text": "It is located in the city center."
+        },
+        {
+          "label": "D",
+          "text": "It is close to public transportation."
+        }
+      ],
+      "correct_answer": "C",
+      "transcript_vi": "Người đàn ông đề cập rằng văn phòng của ông ấy nằm ở vị trí trung tâm thành phố (city center).",
+      "explanation_vi": "Đáp án (C) thể hiện đúng chi tiết địa điểm văn phòng ở trung tâm."
+    },
+    {
+      "question_id": "q_sparta_p3_048",
+      "source_book": "Sách Sparta TOEIC LCRC",
+      "test_part": 3,
+      "question_text": "What has the man recently done?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Won an award"
+        },
+        {
+          "label": "B",
+          "text": "Hired a new caterer"
+        },
+        {
+          "label": "C",
+          "text": "Given a presentation"
+        },
+        {
+          "label": "D",
+          "text": "Expanded a business"
+        }
+      ],
+      "correct_answer": "B",
+      "transcript_vi": "(M-Cn) We hired Capers Caterers to create healthy menu options. They now provide all of the food for the cafeteria.",
+      "explanation_vi": "Người đàn ông cho biết công ty vừa thuê đơn vị cung cấp thực phẩm mới (Hired a new caterer) cho căng tin."
+    },
+    {
+      "question_id": "q_sparta_p3_049",
+      "source_book": "Sách Sparta TOEIC LCRC",
+      "test_part": 3,
+      "question_text": "What does the man say about the cost of the program?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It is not being changed."
+        },
+        {
+          "label": "B",
+          "text": "It is justified by the benefits."
+        },
+        {
+          "label": "C",
+          "text": "It is still being determined."
+        },
+        {
+          "label": "D",
+          "text": "It was published in a newspaper."
+        }
+      ],
+      "correct_answer": "B",
+      "transcript_vi": "(M-Cn) But we feel the increase in cost is worth it in terms of employee health and morale.",
+      "explanation_vi": "Người đàn ông nói việc tăng chi phí là hoàn toàn xứng đáng với sức khỏe và tinh thần nhân viên ('justified by the benefits')."
+    },
+    {
+      "question_id": "q_sparta_p4_071",
+      "source_book": "Sách Sparta TOEIC LCRC",
+      "test_part": 4,
+      "question_text": "Where does the speaker most likely work?",
+      "options": [
+        {
+          "label": "A",
+          "text": "At a graphic design company"
+        },
+        {
+          "label": "B",
+          "text": "At a computer store"
+        },
+        {
+          "label": "C",
+          "text": "At a furniture store"
+        },
+        {
+          "label": "D",
+          "text": "At a building construction firm"
+        }
+      ],
+      "correct_answer": "B",
+      "transcript_vi": "Bài nói hướng dẫn khách hàng về máy tính và phụ kiện công nghệ tại cửa hàng.",
+      "explanation_vi": "Đáp án (B) thể hiện chính xác địa điểm làm việc là cửa hàng máy tính."
+    },
+    {
+      "question_id": "q_sparta_p5_101",
+      "source_book": "Sách Sparta TOEIC LCRC",
+      "test_part": 5,
+      "question_text": "All financial reports must be reviewed ------- by the accounting department before submission.",
+      "options": [
+        {
+          "label": "A",
+          "text": "thorough"
+        },
+        {
+          "label": "B",
+          "text": "thoroughly"
+        },
+        {
+          "label": "C",
+          "text": "thoroughness"
+        },
+        {
+          "label": "D",
+          "text": "thoroughbred"
+        }
+      ],
+      "correct_answer": "B",
+      "transcript_vi": "Tất cả các báo cáo tài chính phải được phòng kế toán xem xét một cách kỹ lưỡng trước khi nộp.",
+      "explanation_vi": "Chỗ trống đứng sau động từ 'reviewed' cần một trạng từ (Adverb) để bổ nghĩa. Phương án đúng là (B) thoroughly."
+    },
+    {
+      "question_id": "q_sparta_p5_102",
+      "source_book": "Sách Sparta TOEIC LCRC",
+      "test_part": 5,
+      "question_text": "The new safety regulations will take effect next month, so all staff members are requested to ------- them.",
+      "options": [
+        {
+          "label": "A",
+          "text": "abide by"
+        },
+        {
+          "label": "B",
+          "text": "apply for"
+        },
+        {
+          "label": "C",
+          "text": "call off"
+        },
+        {
+          "label": "D",
+          "text": "turn down"
+        }
+      ],
+      "correct_answer": "A",
+      "transcript_vi": "Quy định an toàn mới sẽ có hiệu lực vào tháng tới, vì vậy tất cả nhân viên được yêu cầu phải tuân thủ chúng.",
+      "explanation_vi": "Cụm động từ 'abide by' có nghĩa là tuân theo/tuân thủ (quy định, hợp đồng). Đáp án đúng là (A)."
+    },
+    {
+      "question_id": "q_sparta_p5_103",
+      "source_book": "Sách Sparta TOEIC LCRC",
+      "test_part": 5,
+      "question_text": "Ms. Medrano submitted the ------- contract to the publication department yesterday.",
+      "options": [
+        {
+          "label": "A",
+          "text": "revise"
+        },
+        {
+          "label": "B",
+          "text": "revised"
+        },
+        {
+          "label": "C",
+          "text": "revision"
+        },
+        {
+          "label": "D",
+          "text": "revising"
+        }
+      ],
+      "correct_answer": "B",
+      "transcript_vi": "Cô Medrano đã nộp bản hợp đồng đã được sửa đổi cho phòng xuất bản vào ngày hôm qua.",
+      "explanation_vi": "Cần một tính từ/quá khứ phân từ 'revised' để bổ nghĩa cho danh từ 'contract' (hợp đồng đã được chỉnh sửa)."
+    },
+    {
+      "question_id": "q_sparta_p7_165",
+      "source_book": "Sách Sparta TOEIC LCRC",
+      "test_part": 7,
+      "question_text": "The word 'retains' in paragraph 2, line 9, is closest in meaning to",
+      "options": [
+        {
+          "label": "A",
+          "text": "contributes to"
+        },
+        {
+          "label": "B",
+          "text": "agrees with"
+        },
+        {
+          "label": "C",
+          "text": "remembers"
+        },
+        {
+          "label": "D",
+          "text": "keeps"
+        }
+      ],
+      "correct_answer": "D",
+      "transcript_vi": "Từ 'retains' trong đoạn văn có nghĩa là 'giữ lại / duy trì'.",
+      "explanation_vi": "Đồng nghĩa với 'retains' là 'keeps' (giữ lại, duy trì). Đáp án đúng là (D)."
+    },
+    {
+      "question_id": "q_sparta_p7_167",
+      "source_book": "Sách Sparta TOEIC LCRC",
+      "test_part": 7,
+      "question_text": "What is indicated about the contract revision in the chat conversation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The payment per accepted article was increased to 175€."
+        },
+        {
+          "label": "B",
+          "text": "The deadline was extended by two weeks."
+        },
+        {
+          "label": "C",
+          "text": "The author requested a higher royalties rate."
+        },
+        {
+          "label": "D",
+          "text": "The publication was cancelled."
+        }
+      ],
+      "correct_answer": "A",
+      "transcript_vi": "Losif Volkov [11:07 A.M.]: The contract now states that you will be paid 175€ per accepted article rather than 125€.",
+      "explanation_vi": "Tin nhắn khẳng định hợp đồng sửa đổi nâng mức thù lao mỗi bài viết chấp nhận từ 125€ lên 175€. Đáp án (A)."
+    }
+  ]
+}

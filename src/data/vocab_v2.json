@@ -1,0 +1,2337 @@
+{
+  "book_title": "600 ESSENTIAL WORDS FOR THE TOEIC",
+  "total_lessons_included": 15,
+  "lessons": [
+    {
+      "lesson_id": 1,
+      "title": "Contracts",
+      "topic": "General Business",
+      "words": [
+        {
+          "word_id": "v001",
+          "word": "abide by",
+          "part_of_speech": "verb",
+          "definition": "to comply with; to conform",
+          "vietnamese_meaning": "tuân theo, tôn trọng (hợp đồng)",
+          "examples": [
+            "The two parties agreed to abide by the judge's decision.",
+            "For years he has abided by a commitment to annual employee raises."
+          ]
+        },
+        {
+          "word_id": "v002",
+          "word": "agreement",
+          "part_of_speech": "noun",
+          "definition": "a mutual arrangement, a contract",
+          "vietnamese_meaning": "hợp đồng, sự thỏa thuận",
+          "examples": [
+            "The landlord and tenant were in agreement that the rent should be prorated.",
+            "According to the agreement, the caterer will also supply the flowers."
+          ],
+          "word_family": [
+            {
+              "part_of_speech": "verb",
+              "word": "agree",
+              "example": "If both parties agree to the terms, we can finalize the contract."
+            },
+            {
+              "part_of_speech": "noun",
+              "word": "agreement",
+              "example": "As soon as the labor agreement was signed, production resumed."
+            },
+            {
+              "part_of_speech": "adjective",
+              "word": "agreeable",
+              "example": "The parties are agreeable to the terms."
+            }
+          ]
+        },
+        {
+          "word_id": "v003",
+          "word": "assurance",
+          "part_of_speech": "noun",
+          "definition": "a guarantee; confidence",
+          "vietnamese_meaning": "sự cam đoan, sự tự tin",
+          "examples": [
+            "The sales associate gave his assurance that the missing keyboard would be replaced the next day.",
+            "Her self-assurance made it easy to see why she was in charge of negotiations."
+          ],
+          "word_family": [
+            {
+              "part_of_speech": "verb",
+              "word": "assure",
+              "example": "I assure you that our drug-testing policy is applied fairly."
+            },
+            {
+              "part_of_speech": "noun",
+              "word": "assurance",
+              "example": "What assurance is there that the company will still be in business?"
+            },
+            {
+              "part_of_speech": "adverb",
+              "word": "assuredly",
+              "example": "He spoke assuredly, but his memo showed less conviction."
+            }
+          ]
+        },
+        {
+          "word_id": "v004",
+          "word": "cancellation",
+          "part_of_speech": "noun",
+          "definition": "annulment; stopping",
+          "vietnamese_meaning": "sự hủy bỏ",
+          "examples": [
+            "The cancellation of her flight caused her problems for the rest of the week.",
+            "The cancellation clause appears at the back of the contract."
+          ],
+          "word_family": [
+            {
+              "part_of_speech": "verb",
+              "word": "cancel",
+              "example": "The man canceled his magazine subscription and got his money back."
+            },
+            {
+              "part_of_speech": "noun",
+              "word": "cancellation",
+              "example": "Writers usually receive a cancellation fee if their articles are not published."
+            },
+            {
+              "part_of_speech": "adjective",
+              "word": "canceled",
+              "example": "The canceled concert ended up costing our agency millions."
+            }
+          ]
+        },
+        {
+          "word_id": "v005",
+          "word": "determine",
+          "part_of_speech": "verb",
+          "definition": "to find out; to influence",
+          "vietnamese_meaning": "xác định, quyết định",
+          "examples": [
+            "After reading the contract, I was still unable to determine if our company was liable for back wages.",
+            "The skill of the union bargainers will determine whether the automotive plant will open next week."
+          ]
+        },
+        {
+          "word_id": "v006",
+          "word": "engage",
+          "part_of_speech": "verb",
+          "definition": "to participate; to involve",
+          "vietnamese_meaning": "tham gia, đính ước, thu hút",
+          "examples": [
+            "Before engaging in a new business, it is important to do thorough research.",
+            "He engaged us in a fascinating discussion about current business law."
+          ]
+        },
+        {
+          "word_id": "v007",
+          "word": "establish",
+          "part_of_speech": "verb",
+          "definition": "to institute permanently; to bring about",
+          "vietnamese_meaning": "thành lập, thiết lập",
+          "examples": [
+            "Through her many books and interviews, Dr. Wan established herself as an authority on conflict resolution.",
+            "The merger of the two companies established a powerful new corporation."
+          ]
+        },
+        {
+          "word_id": "v008",
+          "word": "obligate",
+          "part_of_speech": "verb",
+          "definition": "to bind legally or morally",
+          "vietnamese_meaning": "bắt buộc, ép buộc",
+          "examples": [
+            "The contractor was obligated by the contract to work 40 hours a week.",
+            "I felt obligated to finish the project even though I could have exercised my option to quit."
+          ],
+          "word_family": [
+            {
+              "part_of_speech": "verb",
+              "word": "obligate",
+              "example": "The terms of the contracts obligate us to work for at least one more month."
+            },
+            {
+              "part_of_speech": "noun",
+              "word": "obligation",
+              "example": "The factory managers have a legal and moral obligation to provide a safe work site."
+            },
+            {
+              "part_of_speech": "adjective",
+              "word": "obligatory",
+              "example": "He finished his obligatory military service."
+            }
+          ]
+        },
+        {
+          "word_id": "v009",
+          "word": "party",
+          "part_of_speech": "noun",
+          "definition": "a person or group participating in an action or plan",
+          "vietnamese_meaning": "bên (trong hợp đồng), đương sự",
+          "examples": [
+            "The parties agreed to a settlement in their contract dispute.",
+            "The party that prepares the contract has a distinct advantage."
+          ]
+        },
+        {
+          "word_id": "v010",
+          "word": "provision",
+          "part_of_speech": "noun",
+          "definition": "a measure taken beforehand; a stipulation",
+          "vietnamese_meaning": "dự phòng, điều khoản quy định",
+          "examples": [
+            "The father made provisions for his children through his will.",
+            "The contract contains a provision to deal with how payments are made if John loses his job."
+          ],
+          "word_family": [
+            {
+              "part_of_speech": "verb",
+              "word": "provide",
+              "example": "Since the machine is reliable, why don't we cancel the service contract they provided?"
+            },
+            {
+              "part_of_speech": "noun",
+              "word": "provider",
+              "example": "We must negotiate a new contract with our Internet service provider."
+            },
+            {
+              "part_of_speech": "noun",
+              "word": "provision",
+              "example": "The provision for canceling the contract is in the last clause."
+            }
+          ]
+        },
+        {
+          "word_id": "v011",
+          "word": "resolve",
+          "part_of_speech": "verb",
+          "definition": "to deal with successfully; to declare",
+          "vietnamese_meaning": "giải quyết, quyết tâm",
+          "examples": [
+            "The mediator was able to resolve the problem to everyone's satisfaction.",
+            "The businessman resolved to clean out all the files by the end of the week."
+          ]
+        },
+        {
+          "word_id": "v012",
+          "word": "specific",
+          "part_of_speech": "adjective",
+          "definition": "particular; explicit",
+          "vietnamese_meaning": "cụ thể, rành rọt",
+          "examples": [
+            "The customer's specific complaint was not addressed in his e-mail.",
+            "In a contract, one specific word can change the meaning dramatically."
+          ],
+          "word_family": [
+            {
+              "part_of_speech": "verb",
+              "word": "specify",
+              "example": "The contract specifies the percentage of raise the workers will see next year."
+            },
+            {
+              "part_of_speech": "noun",
+              "word": "specification",
+              "example": "The work was done according to our specifications."
+            },
+            {
+              "part_of_speech": "adjective",
+              "word": "specific",
+              "example": "We have not chosen a specific location for the reunion."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": 2,
+      "title": "Marketing",
+      "topic": "General Business",
+      "words": [
+        {
+          "word_id": "v013",
+          "word": "attract",
+          "part_of_speech": "verb",
+          "definition": "to draw by appeal",
+          "vietnamese_meaning": "thu hút, hấp dẫn",
+          "examples": [
+            "The display attracted a number of people at the convention.",
+            "The new advertising attracts the wrong kind of customer into the store."
+          ],
+          "word_family": [
+            {
+              "part_of_speech": "verb",
+              "word": "attract",
+              "example": "The store's poor location did not help it attract customers."
+            },
+            {
+              "part_of_speech": "noun",
+              "word": "attraction",
+              "example": "Having a clown in the toy store was a foolproof attraction for getting kids to enter."
+            },
+            {
+              "part_of_speech": "adjective",
+              "word": "attractive",
+              "example": "Lou ran his store on an old-fashioned premise: quality merchandise at attractive prices."
+            }
+          ]
+        },
+        {
+          "word_id": "v014",
+          "word": "compare",
+          "part_of_speech": "verb",
+          "definition": "to examine similarities and differences",
+          "vietnamese_meaning": "so sánh, đối chiếu",
+          "examples": [
+            "Once the customer compared the two products, her choice was easy.",
+            "The price for this brand is high compared to the other brands on the market."
+          ],
+          "word_family": [
+            {
+              "part_of_speech": "verb",
+              "word": "compare",
+              "example": "She compared the prices before she made a decision."
+            },
+            {
+              "part_of_speech": "noun",
+              "word": "comparison",
+              "example": "There was no comparison in the quality of the two brands."
+            },
+            {
+              "part_of_speech": "adjective",
+              "word": "comparable",
+              "example": "To get an average for home costs, the agent sought prices on comparable homes."
+            }
+          ]
+        },
+        {
+          "word_id": "v015",
+          "word": "competition",
+          "part_of_speech": "noun",
+          "definition": "a contest or struggle",
+          "vietnamese_meaning": "sự cạnh tranh, cuộc tranh tài",
+          "examples": [
+            "In the competition for afternoon diners, Hector's has come out on top.",
+            "The company has decided not to join the growing competition for dominance in the semiconductor market."
+          ],
+          "word_family": [
+            {
+              "part_of_speech": "noun",
+              "word": "competition",
+              "example": "Try to think of yourself as someone who leads the competition."
+            },
+            {
+              "part_of_speech": "verb",
+              "word": "compete",
+              "example": "We competed against three or four other agencies to get this contract."
+            },
+            {
+              "part_of_speech": "adjective",
+              "word": "competitive",
+              "example": "His competitive character made him quite successful in his department."
+            }
+          ]
+        },
+        {
+          "word_id": "v016",
+          "word": "consume",
+          "part_of_speech": "verb",
+          "definition": "to absorb; to use up",
+          "vietnamese_meaning": "tiêu thụ, tiêu dùng",
+          "examples": [
+            "The business plans consumed all of Fritz's attention this fall.",
+            "This printer consumes more toner than the downstairs printer."
+          ],
+          "word_family": [
+            {
+              "part_of_speech": "verb",
+              "word": "consume",
+              "example": "The analyst was able to consume new information quickly."
+            },
+            {
+              "part_of_speech": "noun",
+              "word": "consumer",
+              "example": "The government tracks consumer spending closely."
+            },
+            {
+              "part_of_speech": "adjective",
+              "word": "consumable",
+              "example": "He ran a study of the use of consumable goods."
+            }
+          ]
+        },
+        {
+          "word_id": "v017",
+          "word": "convince",
+          "part_of_speech": "verb",
+          "definition": "to bring to believe by argument; to persuade",
+          "vietnamese_meaning": "thuyết phục",
+          "examples": [
+            "The salesman convinced his customer to buy his entire inventory of pens.",
+            "Before a business can convince customers that it provides a quality product, it must convince its marketing staff."
+          ]
+        },
+        {
+          "word_id": "v018",
+          "word": "currently",
+          "part_of_speech": "adverb",
+          "definition": "happening at the present time; now",
+          "vietnamese_meaning": "hiện tại, vào lúc này",
+          "examples": [
+            "We are currently exploring plans to update the MX3 model.",
+            "Currently, customers are demanding big discounts for bulk orders."
+          ]
+        },
+        {
+          "word_id": "v019",
+          "word": "fad",
+          "part_of_speech": "noun",
+          "definition": "a practice followed enthusiastically for a short time; a craze",
+          "vietnamese_meaning": "mốt nhất thời, sự thích thú ngắn hạn",
+          "examples": [
+            "The mini dress was a fad once thought to be finished, but now it is making a comeback.",
+            "Classic tastes may seem boring but they have proven to resist fads."
+          ]
+        },
+        {
+          "word_id": "v020",
+          "word": "inspiration",
+          "part_of_speech": "noun",
+          "definition": "a thing or person that arouses a feeling",
+          "vietnamese_meaning": "cảm hứng, nguồn cảm hứng",
+          "examples": [
+            "His work is an inspiration to the marketing department.",
+            "Marta's high sales in Spain were an inspiration to other European reps."
+          ]
+        },
+        {
+          "word_id": "v021",
+          "word": "market",
+          "part_of_speech": "verb/noun",
+          "definition": "the course of buying and selling a product; to promote",
+          "vietnamese_meaning": "thị trường, tiếp thị",
+          "examples": [
+            "When Omar first began making his chutneys, he marketed them door-to-door to gourmet shops.",
+            "The market for brightly colored clothing was brisk last year."
+          ],
+          "word_family": [
+            {
+              "part_of_speech": "verb",
+              "word": "market",
+              "example": "The sales department disagreed about how to market their newest product."
+            },
+            {
+              "part_of_speech": "noun",
+              "word": "marketing",
+              "example": "A good director of marketing can find a way to sell even an unattractive product."
+            },
+            {
+              "part_of_speech": "adjective",
+              "word": "marketable",
+              "example": "Once the sales manager decided to change the packaging, the product became much more marketable."
+            }
+          ]
+        },
+        {
+          "word_id": "v022",
+          "word": "persuasion",
+          "part_of_speech": "noun",
+          "definition": "the power to influence; a deep conviction or belief",
+          "vietnamese_meaning": "sự thuyết phục",
+          "examples": [
+            "The seminar teaches techniques of persuasion to increase sales.",
+            "Under his persuasion, she returned to school for her MBA."
+          ]
+        },
+        {
+          "word_id": "v023",
+          "word": "productive",
+          "part_of_speech": "adjective",
+          "definition": "constructive; high yield",
+          "vietnamese_meaning": "năng suất, có hiệu quả",
+          "examples": [
+            "The unproductive sales meeting brought many staff complaints.",
+            "Alonzo is excited about his productive staff."
+          ]
+        },
+        {
+          "word_id": "v024",
+          "word": "satisfaction",
+          "part_of_speech": "noun",
+          "definition": "happiness; fulfillment",
+          "vietnamese_meaning": "sự hài lòng, sự thỏa mãn",
+          "examples": [
+            "Your satisfaction is guaranteed or you'll get your money back.",
+            "We will print the advertisement to your satisfaction."
+          ],
+          "word_family": [
+            {
+              "part_of_speech": "noun",
+              "word": "satisfaction",
+              "example": "Our highest priority is customer satisfaction."
+            },
+            {
+              "part_of_speech": "verb",
+              "word": "satisfy",
+              "example": "Henri was perfectly satisfied with his new fishing rod."
+            },
+            {
+              "part_of_speech": "adjective",
+              "word": "satisfactory",
+              "example": "The rods were not in satisfactory condition."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": 3,
+      "title": "Warranties",
+      "topic": "General Business",
+      "words": [
+        {
+          "word_id": "v025",
+          "word": "characteristic",
+          "part_of_speech": "adjective/noun",
+          "definition": "revealing of individual traits; an individual trait",
+          "vietnamese_meaning": "đặc điểm, đặc tính",
+          "examples": [
+            "The cooking pot has features characteristic of the brand, such as heat-resistant handles.",
+            "One characteristic of the store is that it is slow in mailing refund checks."
+          ],
+          "word_family": [
+            {
+              "part_of_speech": "adjective",
+              "word": "characteristic",
+              "example": "One characteristic of the new Lexus is its computerized seat settings."
+            },
+            {
+              "part_of_speech": "verb",
+              "word": "characterize",
+              "example": "This line is characterized by its bold flavor and spicy aftertaste."
+            },
+            {
+              "part_of_speech": "adverb",
+              "word": "characteristically",
+              "example": "Characteristically, she accused middle-level management of the accounting error."
+            }
+          ]
+        },
+        {
+          "word_id": "v026",
+          "word": "consequence",
+          "part_of_speech": "noun",
+          "definition": "that which follows necessarily",
+          "vietnamese_meaning": "hậu quả, kết quả",
+          "examples": [
+            "The consequence of not following the service instructions for your car is that the warranty is invalidated.",
+            "As a consequence of not having seen a dentist for several years, Lydia had several cavities."
+          ]
+        },
+        {
+          "word_id": "v027",
+          "word": "consider",
+          "part_of_speech": "verb",
+          "definition": "to think about carefully",
+          "vietnamese_meaning": "cân nhắc, xem xét",
+          "examples": [
+            "The customer considered buying the DVD player until he learned that the warranty coverage was very limited.",
+            "After considering all the options, Della decided to buy a used car."
+          ],
+          "word_family": [
+            {
+              "part_of_speech": "verb",
+              "word": "consider",
+              "example": "You should consider carefully whether a product will meet your needs."
+            },
+            {
+              "part_of_speech": "noun",
+              "word": "consideration",
+              "example": "After long consideration, Heloise decided that the five-year warranty would be sufficient."
+            },
+            {
+              "part_of_speech": "adjective",
+              "word": "considerable",
+              "example": "The fee for the extra year of protection was a considerable expense."
+            }
+          ]
+        },
+        {
+          "word_id": "v028",
+          "word": "cover",
+          "part_of_speech": "verb",
+          "definition": "to provide protection against",
+          "vietnamese_meaning": "bao gồm, bảo hiểm, chi trả",
+          "examples": [
+            "Will my medical insurance cover this surgery?",
+            "Her car insurance provided for complete coverage against collision."
+          ]
+        },
+        {
+          "word_id": "v029",
+          "word": "expiration",
+          "part_of_speech": "noun",
+          "definition": "the end; termination",
+          "vietnamese_meaning": "sự hết hạn",
+          "examples": [
+            "Have you checked the expiration date on this yogurt?",
+            "We can expect that the expiration of our Japan contract will impact sales next year."
+          ]
+        },
+        {
+          "word_id": "v030",
+          "word": "frequently",
+          "part_of_speech": "adverb",
+          "definition": "occurring commonly; widespread",
+          "vietnamese_meaning": "thường xuyên",
+          "examples": [
+            "Appliances frequently come with a one-year warranty.",
+            "Warranties for this kind of appliance are frequently limited in their coverage."
+          ]
+        },
+        {
+          "word_id": "v031",
+          "word": "imply",
+          "part_of_speech": "verb",
+          "definition": "to indicate by inference",
+          "vietnamese_meaning": "ngụ ý, hàm ý",
+          "examples": [
+            "The guarantee on the iPod implied that all damages were covered under warranty for one year.",
+            "The travel agent implied that our hotel was not in the safest part of the city."
+          ],
+          "word_family": [
+            {
+              "part_of_speech": "verb",
+              "word": "imply",
+              "example": "She implied that she had graduated from Harvard."
+            },
+            {
+              "part_of_speech": "noun",
+              "word": "implication",
+              "example": "What are the implications of the accident?"
+            },
+            {
+              "part_of_speech": "adjective",
+              "word": "implicit",
+              "example": "It is implicit in her demands that if she doesn't get the promotion, she will leave."
+            }
+          ]
+        },
+        {
+          "word_id": "v032",
+          "word": "promise",
+          "part_of_speech": "noun/verb",
+          "definition": "a pledge, a commitment; to pledge to do",
+          "vietnamese_meaning": "lời hứa, hứa hẹn",
+          "examples": [
+            "A warranty is a promise the manufacturer makes to the consumer.",
+            "The sales associate promised that our new mattress would arrive by noon on Saturday."
+          ]
+        },
+        {
+          "word_id": "v033",
+          "word": "protect",
+          "part_of_speech": "verb",
+          "definition": "to guard; to defend",
+          "vietnamese_meaning": "bảo vệ",
+          "examples": [
+            "Consumer laws are designed to protect the public against unscrupulous vendors.",
+            "You can protect yourself from scams by getting detailed information on the seller."
+          ],
+          "word_family": [
+            {
+              "part_of_speech": "verb",
+              "word": "protect",
+              "example": "Juan protected the warranty by taking excellent care of his lawn mower."
+            },
+            {
+              "part_of_speech": "noun",
+              "word": "protection",
+              "example": "For your own protection, you should have a warranty that provides for a replacement product."
+            },
+            {
+              "part_of_speech": "adjective",
+              "word": "protective",
+              "example": "Alfredo is very protective of the condition of his car."
+            }
+          ]
+        },
+        {
+          "word_id": "v034",
+          "word": "reputation",
+          "part_of_speech": "noun",
+          "definition": "the overall quality of character",
+          "vietnamese_meaning": "danh tiếng, uy tín",
+          "examples": [
+            "Even though the salesperson showed me a product I had never heard of, I bought it because of the good reputation of the manufacturer.",
+            "The company knew that the reputation of its products was the most important asset it had."
+          ],
+          "word_family": [
+            {
+              "part_of_speech": "noun",
+              "word": "reputation",
+              "example": "The good reputation of the manufacturer inspired Maria Jose to try the new product."
+            },
+            {
+              "part_of_speech": "adjective",
+              "word": "reputable",
+              "example": "Because the company had a reputable name, I did not spend sufficient time reading the details."
+            },
+            {
+              "part_of_speech": "adjective",
+              "word": "reputed",
+              "example": "The new store is reputed to carry items that are not of the highest quality."
+            }
+          ]
+        },
+        {
+          "word_id": "v035",
+          "word": "require",
+          "part_of_speech": "verb",
+          "definition": "to deem necessary or essential",
+          "vietnamese_meaning": "yêu cầu, đòi hỏi",
+          "examples": [
+            "A car warranty may require the owner to have it serviced by a certified mechanic.",
+            "The law requires that each item clearly display the warranty information."
+          ],
+          "word_family": [
+            {
+              "part_of_speech": "verb",
+              "word": "require",
+              "example": "The warranty requires that you send the watch to an approved repair shop."
+            },
+            {
+              "part_of_speech": "noun",
+              "word": "requirement",
+              "example": "The terms of the warranty divulge the legal requirement the manufacturer has."
+            },
+            {
+              "part_of_speech": "adjective",
+              "word": "requisite",
+              "example": "The warranty spelled out the requisite steps to take to request a replacement."
+            }
+          ]
+        },
+        {
+          "word_id": "v036",
+          "word": "variety",
+          "part_of_speech": "noun",
+          "definition": "many different kinds",
+          "vietnamese_meaning": "sự đa dạng, loại khác nhau",
+          "examples": [
+            "There's a variety of standard terms that you'll find in warranties.",
+            "A variety of unexpected problems appeared after the product had been on the market for six months."
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": 4,
+      "title": "Business Planning",
+      "topic": "General Business",
+      "words": [
+        {
+          "word_id": "v037",
+          "word": "address",
+          "part_of_speech": "noun/verb",
+          "definition": "a formal speech; to direct attention to",
+          "vietnamese_meaning": "nhắm vào, giải quyết, bài phát biểu",
+          "examples": [
+            "The article praised her address to the steering committee.",
+            "Marco's business plan addresses the needs of small business owners."
+          ]
+        },
+        {
+          "word_id": "v038",
+          "word": "avoid",
+          "part_of_speech": "verb",
+          "definition": "to stay clear of; to keep from happening",
+          "vietnamese_meaning": "tránh, né tránh",
+          "examples": [
+            "To avoid going out of business, owners should prepare a proper business plan.",
+            "Lloyd's errors in accounting could have been avoided by a business consultation."
+          ],
+          "word_family": [
+            {
+              "part_of_speech": "verb",
+              "word": "avoid",
+              "example": "It is best to avoid get-rich-quick schemes."
+            },
+            {
+              "part_of_speech": "noun",
+              "word": "avoidance",
+              "example": "Your avoidance of these issues will not make them go away."
+            },
+            {
+              "part_of_speech": "adjective",
+              "word": "avoided",
+              "example": "The avoided question became more important over time."
+            }
+          ]
+        },
+        {
+          "word_id": "v039",
+          "word": "demonstrate",
+          "part_of_speech": "verb",
+          "definition": "to show clearly and deliberately",
+          "vietnamese_meaning": "chứng minh, minh họa",
+          "examples": [
+            "Alban's business plan demonstrated that he had put a lot of thought into making his dream a reality.",
+            "The professor demonstrated through a case study that a business plan can impress a lender."
+          ],
+          "word_family": [
+            {
+              "part_of_speech": "verb",
+              "word": "demonstrate",
+              "example": "Let me demonstrate how this computer program works."
+            },
+            {
+              "part_of_speech": "noun",
+              "word": "demonstration",
+              "example": "After the lecture, there was a demonstration of new marketing techniques."
+            },
+            {
+              "part_of_speech": "adjective",
+              "word": "demonstrative",
+              "example": "The densely encoded programming was demonstrative of the computer language."
+            }
+          ]
+        },
+        {
+          "word_id": "v040",
+          "word": "develop",
+          "part_of_speech": "verb",
+          "definition": "to expand, progress, or improve",
+          "vietnamese_meaning": "phát triển, mở rộng",
+          "examples": [
+            "Lily developed her ideas into a business plan by taking a class.",
+            "The restaurant Wanda opened ten years ago has developed into a national chain."
+          ],
+          "word_family": [
+            {
+              "part_of_speech": "verb",
+              "word": "develop",
+              "example": "Our assignment is to develop a cogent business plan."
+            },
+            {
+              "part_of_speech": "noun",
+              "word": "development",
+              "example": "The plan was under development and would not be ready for months."
+            },
+            {
+              "part_of_speech": "noun",
+              "word": "developer",
+              "example": "The job developer was kept busy trying to place graduates."
+            }
+          ]
+        },
+        {
+          "word_id": "v041",
+          "word": "evaluate",
+          "part_of_speech": "verb",
+          "definition": "to determine the value or impact of",
+          "vietnamese_meaning": "đánh giá, định giá",
+          "examples": [
+            "It's important to evaluate your competition when making a business plan.",
+            "The lenders evaluated our creditability and decided to loan us money."
+          ],
+          "word_family": [
+            {
+              "part_of_speech": "verb",
+              "word": "evaluate",
+              "example": "Please review these articles and evaluate their usefulness."
+            },
+            {
+              "part_of_speech": "noun",
+              "word": "evaluation",
+              "example": "Yoko feared the professor's evaluation of her business plan."
+            },
+            {
+              "part_of_speech": "noun",
+              "word": "evaluator",
+              "example": "The independent evaluator reviewed our business plan."
+            }
+          ]
+        },
+        {
+          "word_id": "v042",
+          "word": "gather",
+          "part_of_speech": "verb",
+          "definition": "to accumulate; to conclude",
+          "vietnamese_meaning": "thu thập, tập hợp",
+          "examples": [
+            "We gathered information for our plan from many sources.",
+            "I gather that interest rates for small businesses will soon change."
+          ]
+        },
+        {
+          "word_id": "v043",
+          "word": "offer",
+          "part_of_speech": "noun/verb",
+          "definition": "a proposal; to propose",
+          "vietnamese_meaning": "đề nghị, cung cấp",
+          "examples": [
+            "Devon accepted our offer to write the business plan.",
+            "Jackie must offer her banker new statistics to encourage the bank to lend money."
+          ]
+        },
+        {
+          "word_id": "v044",
+          "word": "primarily",
+          "part_of_speech": "adverb",
+          "definition": "first; most importantly",
+          "vietnamese_meaning": "chủ yếu, trước hết",
+          "examples": [
+            "We are primarily concerned with convincing the board of directors.",
+            "The developers are thinking primarily of how to enter the market."
+          ]
+        },
+        {
+          "word_id": "v045",
+          "word": "risk",
+          "part_of_speech": "noun",
+          "definition": "the chance of loss or damage",
+          "vietnamese_meaning": "rủi ro, nguy cơ",
+          "examples": [
+            "The primary risk for most start-up businesses is insufficient capital.",
+            "Expanding into a new market is a big risk."
+          ]
+        },
+        {
+          "word_id": "v046",
+          "word": "strategy",
+          "part_of_speech": "noun",
+          "definition": "a plan of action",
+          "vietnamese_meaning": "chiến lược",
+          "examples": [
+            "A business plan is a strategy for running a business and avoiding problems.",
+            "Let's develop a strategy for promoting our ice cream parlor."
+          ],
+          "word_family": [
+            {
+              "part_of_speech": "verb",
+              "word": "strategize",
+              "example": "Let's strategize the best way to meet the deadline."
+            },
+            {
+              "part_of_speech": "noun",
+              "word": "strategy",
+              "example": "The business plan lays out a strategy for future growth."
+            },
+            {
+              "part_of_speech": "adjective",
+              "word": "strategic",
+              "example": "The handout outlined the strategic points to cover."
+            }
+          ]
+        },
+        {
+          "word_id": "v047",
+          "word": "strong",
+          "part_of_speech": "adjective",
+          "definition": "powerful; economically sound",
+          "vietnamese_meaning": "mạnh mẽ, kiên cố, vững chắc",
+          "examples": [
+            "The professor made a strong argument for the value of a good business plan.",
+            "Even in a strong economic climate many businesses fail."
+          ]
+        },
+        {
+          "word_id": "v048",
+          "word": "substitution",
+          "part_of_speech": "noun",
+          "definition": "replacement",
+          "vietnamese_meaning": "sự thay thế",
+          "examples": [
+            "Your substitution of fake names for real ones makes the document seem insincere.",
+            "There is no substitution for hard work and perseverance."
+          ],
+          "word_family": [
+            {
+              "part_of_speech": "noun",
+              "word": "substitution",
+              "example": "The substitution of gasses is not so easy in this experiment."
+            },
+            {
+              "part_of_speech": "verb",
+              "word": "substitute",
+              "example": "Don't try to substitute intuition for good planning."
+            },
+            {
+              "part_of_speech": "adjective",
+              "word": "substituted",
+              "example": "Customers complain whenever the substituted product is of lesser value."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": 6,
+      "title": "Computers",
+      "topic": "Office Issues",
+      "words": [
+        {
+          "word_id": "v049",
+          "word": "access",
+          "part_of_speech": "noun/verb",
+          "definition": "the ability to enter or use; to obtain",
+          "vietnamese_meaning": "truy cập, lối vào",
+          "examples": [
+            "You can't gain access to the files unless you know the password.",
+            "We accessed the information on the company's web site."
+          ],
+          "word_family": [
+            {
+              "part_of_speech": "noun",
+              "word": "access",
+              "example": "To gain access to the computer lab, users must have a valid ID."
+            },
+            {
+              "part_of_speech": "verb",
+              "word": "access",
+              "example": "Internet cafés allow you to access your web-based e-mail account."
+            },
+            {
+              "part_of_speech": "adjective",
+              "word": "accessible",
+              "example": "The door is kept open so she is accessible."
+            }
+          ]
+        },
+        {
+          "word_id": "v050",
+          "word": "allocate",
+          "part_of_speech": "verb",
+          "definition": "to designate for a specific purpose",
+          "vietnamese_meaning": "phân bổ, chỉ định",
+          "examples": [
+            "The office manager did not allocate enough money to purchase software.",
+            "The software architect did not allocate enough memory for the sound card."
+          ],
+          "word_family": [
+            {
+              "part_of_speech": "verb",
+              "word": "allocate",
+              "example": "Marla didn't allocate enough time to train the new hires."
+            },
+            {
+              "part_of_speech": "noun",
+              "word": "allocation",
+              "example": "A different allocation of resources could strengthen R&D."
+            },
+            {
+              "part_of_speech": "adjective",
+              "word": "allocated",
+              "example": "The allocated money was never spent on new monitors."
+            }
+          ]
+        },
+        {
+          "word_id": "v051",
+          "word": "compatible",
+          "part_of_speech": "adjective",
+          "definition": "able to function together",
+          "vietnamese_meaning": "tương thích, hợp nhau",
+          "examples": [
+            "This operating system is not compatible with this model computer.",
+            "Users of software applications want new versions to be compatible."
+          ]
+        },
+        {
+          "word_id": "v052",
+          "word": "delete",
+          "part_of_speech": "verb",
+          "definition": "to remove; to erase",
+          "vietnamese_meaning": "xóa bỏ",
+          "examples": [
+            "The technicians deleted all the data on the disk accidentally.",
+            "This button on the keyboard deletes the characters from the screen."
+          ]
+        },
+        {
+          "word_id": "v053",
+          "word": "display",
+          "part_of_speech": "noun/verb",
+          "definition": "what is visible on a monitor; to show",
+          "vietnamese_meaning": "hiển thị, màn hình biểu diễn",
+          "examples": [
+            "The light on the LCD display is too weak.",
+            "The accounting program displays a current balance when opened."
+          ]
+        },
+        {
+          "word_id": "v054",
+          "word": "duplicate",
+          "part_of_speech": "verb",
+          "definition": "to produce something equal; to copy",
+          "vietnamese_meaning": "nhân bản, sao chép",
+          "examples": [
+            "I think the new word processing program will duplicate the success of the old one.",
+            "Please duplicate that file by making a copy on the CD-ROM."
+          ],
+          "word_family": [
+            {
+              "part_of_speech": "verb",
+              "word": "duplicate",
+              "example": "If we work hard, we can duplicate last year's sales records."
+            },
+            {
+              "part_of_speech": "noun",
+              "word": "duplicate",
+              "example": "Don't worry, I have a duplicate on my hard drive."
+            },
+            {
+              "part_of_speech": "noun",
+              "word": "duplication",
+              "example": "His success was based on duplication of management techniques."
+            }
+          ]
+        },
+        {
+          "word_id": "v055",
+          "word": "failure",
+          "part_of_speech": "noun",
+          "definition": "an unsuccessful work or effort",
+          "vietnamese_meaning": "sự thất bại, sự hỏng hóc",
+          "examples": [
+            "Your failure to inform us about the changed password cost the company a day's work.",
+            "The repeated failure of her printer baffled the technician."
+          ],
+          "word_family": [
+            {
+              "part_of_speech": "noun",
+              "word": "failure",
+              "example": "The power failure caused the system to shut down."
+            },
+            {
+              "part_of_speech": "verb",
+              "word": "fail",
+              "example": "We failed to tell you that your records were deleted."
+            },
+            {
+              "part_of_speech": "adjective",
+              "word": "fallible",
+              "example": "Everyone can make a mistake. Even a computer is fallible."
+            }
+          ]
+        },
+        {
+          "word_id": "v056",
+          "word": "figure out",
+          "part_of_speech": "verb",
+          "definition": "to understand; to solve",
+          "vietnamese_meaning": "tìm hiểu ra, tính toán ra",
+          "examples": [
+            "By examining all of the errors, the technicians figured out how to fix the problem.",
+            "We figured out that it would take us at least ten minutes to download the file."
+          ]
+        },
+        {
+          "word_id": "v057",
+          "word": "ignore",
+          "part_of_speech": "verb",
+          "definition": "not to notice; to disregard",
+          "vietnamese_meaning": "phớt lờ, bỏ qua",
+          "examples": [
+            "When the director is working at the computer, she ignores everything around her.",
+            "Don't ignore the technician's advice when connecting cables."
+          ],
+          "word_family": [
+            {
+              "part_of_speech": "verb",
+              "word": "ignore",
+              "example": "Unfortunately, she ignored the warning about the virus."
+            },
+            {
+              "part_of_speech": "noun",
+              "word": "ignorance",
+              "example": "His ignorance of this word processing program surprised everyone."
+            },
+            {
+              "part_of_speech": "adjective",
+              "word": "ignored",
+              "example": "The ignored computer glitch caused the database to function improperly."
+            }
+          ]
+        },
+        {
+          "word_id": "v058",
+          "word": "search",
+          "part_of_speech": "noun/verb",
+          "definition": "investigation; to look for",
+          "vietnamese_meaning": "tìm kiếm",
+          "examples": [
+            "Our search of the database produced very little information.",
+            "The computer searched for all names that began with W."
+          ]
+        },
+        {
+          "word_id": "v059",
+          "word": "shut down",
+          "part_of_speech": "verb",
+          "definition": "to turn off; to cease operations",
+          "vietnamese_meaning": "tắt máy, ngừng hoạt động",
+          "examples": [
+            "Please shut down the computer before you leave.",
+            "We always shut down the air conditioning system on the weekend."
+          ]
+        },
+        {
+          "word_id": "v060",
+          "word": "warning",
+          "part_of_speech": "noun",
+          "definition": "an alert to danger or problems",
+          "vietnamese_meaning": "sự cảnh báo",
+          "examples": [
+            "The red flashing light gives a warning to users that the battery is low.",
+            "Flashing images on a web page are warnings to attract users' attention."
+          ],
+          "word_family": [
+            {
+              "part_of_speech": "verb",
+              "word": "warn",
+              "example": "We were warned that our e-mail was not private."
+            },
+            {
+              "part_of_speech": "noun",
+              "word": "warning",
+              "example": "The warning was written on the box."
+            },
+            {
+              "part_of_speech": "adjective",
+              "word": "warning",
+              "example": "The warning signs were all there; we should have paid attention."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": 14,
+      "title": "Salaries and Benefits",
+      "topic": "Personnel",
+      "words": [
+        {
+          "word_id": "v061",
+          "word": "basis",
+          "part_of_speech": "noun",
+          "definition": "the main reason for something; a base or foundation",
+          "vietnamese_meaning": "nền tảng, cơ sở",
+          "examples": [
+            "The manager didn't have any basis for firing the employee.",
+            "On the basis of my ten years of loyalty, I feel that I deserve three weeks vacation."
+          ],
+          "word_family": [
+            {
+              "part_of_speech": "noun",
+              "word": "basis",
+              "example": "Your raise will be determined on the basis of performance alone."
+            },
+            {
+              "part_of_speech": "verb",
+              "word": "base",
+              "example": "We base promotions on seniority."
+            },
+            {
+              "part_of_speech": "adjective",
+              "word": "based",
+              "example": "Based on the assumption that you will earn more, you can afford a new car."
+            }
+          ]
+        },
+        {
+          "word_id": "v062",
+          "word": "be aware of",
+          "part_of_speech": "verb",
+          "definition": "to be conscious of; to be knowledgeable about",
+          "vietnamese_meaning": "nhận thức được, biết về",
+          "examples": [
+            "The new staff member wasn't aware of the company's position on working a second job.",
+            "Are you aware of the new employee's past work history?"
+          ]
+        },
+        {
+          "word_id": "v063",
+          "word": "benefit",
+          "part_of_speech": "noun/verb",
+          "definition": "an advantage provided to an employee; to take advantage of",
+          "vietnamese_meaning": "phúc lợi, lợi ích",
+          "examples": [
+            "Although the analyst earned a better salary at his new job, his benefits were better at his previous job.",
+            "We all benefit from the company's policy of semiannual reviews."
+          ],
+          "word_family": [
+            {
+              "part_of_speech": "verb",
+              "word": "benefit",
+              "example": "In order to benefit from the plan, you must fill out the paperwork."
+            },
+            {
+              "part_of_speech": "noun",
+              "word": "benefits",
+              "example": "The new employee's benefits went into effect three months after his start date."
+            },
+            {
+              "part_of_speech": "adjective",
+              "word": "beneficial",
+              "example": "The service that the insurance provided has been very beneficial."
+            }
+          ]
+        },
+        {
+          "word_id": "v064",
+          "word": "compensate",
+          "part_of_speech": "verb",
+          "definition": "to pay; to make up for",
+          "vietnamese_meaning": "bồi thường, đền bù, trả lương",
+          "examples": [
+            "The company compensates employees for overtime by paying double for extra hours.",
+            "The company will compensate employees for any travel expenses."
+          ],
+          "word_family": [
+            {
+              "part_of_speech": "verb",
+              "word": "compensate",
+              "example": "The company compensates its full-time employees well."
+            },
+            {
+              "part_of_speech": "noun",
+              "word": "compensation",
+              "example": "Compensation will be based on your work performance."
+            },
+            {
+              "part_of_speech": "adjective",
+              "word": "compensatory",
+              "example": "Compensatory time is given in lieu of overtime pay."
+            }
+          ]
+        },
+        {
+          "word_id": "v065",
+          "word": "eligible",
+          "part_of_speech": "adjective",
+          "definition": "able to participate in something; qualified",
+          "vietnamese_meaning": "đủ điều kiện, đủ tư cách",
+          "examples": [
+            "Some employees may be eligible for the tuition reimbursement plan.",
+            "I don't understand why I'm not eligible if I have been with the company for over a year."
+          ]
+        },
+        {
+          "word_id": "v066",
+          "word": "flexibly",
+          "part_of_speech": "adverb",
+          "definition": "with the ability to change; loosely",
+          "vietnamese_meaning": "linh hoạt",
+          "examples": [
+            "My manager thinks flexibly, enabling herself to solve many sticky problems.",
+            "We need to respond flexibly if we want to keep customers in this competitive market."
+          ]
+        },
+        {
+          "word_id": "v067",
+          "word": "negotiate",
+          "part_of_speech": "verb",
+          "definition": "to talk for the purpose of reaching an agreement",
+          "vietnamese_meaning": "đàm phán, thương lượng",
+          "examples": [
+            "You must know what you want and what you can accept when you negotiate a salary.",
+            "The associate looked forward to the day that she would be able to negotiate her own contracts."
+          ],
+          "word_family": [
+            {
+              "part_of_speech": "verb",
+              "word": "negotiate",
+              "example": "The employee prepared a list of accomplishments to negotiate a higher salary."
+            },
+            {
+              "part_of_speech": "noun",
+              "word": "negotiation",
+              "example": "The director was very pleased that the negotiations brought an end to the strike."
+            },
+            {
+              "part_of_speech": "noun",
+              "word": "negotiator",
+              "example": "I should take lessons from Mr. Tarsa; he is such a skilled negotiator."
+            }
+          ]
+        },
+        {
+          "word_id": "v068",
+          "word": "raise",
+          "part_of_speech": "noun/verb",
+          "definition": "an increase in salary; to move up",
+          "vietnamese_meaning": "sự tăng lương, nâng cao",
+          "examples": [
+            "With his raise, Mr. Drvoshanov was able to afford to buy a new car.",
+            "We need to raise the standard for timeliness."
+          ]
+        },
+        {
+          "word_id": "v069",
+          "word": "retire",
+          "part_of_speech": "verb",
+          "definition": "to stop working; to withdraw from a business",
+          "vietnamese_meaning": "nghỉ hưu",
+          "examples": [
+            "She retired at the age of 64 but continued to be very active with volunteer work.",
+            "Many people would like to win the lottery and retire."
+          ],
+          "word_family": [
+            {
+              "part_of_speech": "verb",
+              "word": "retire",
+              "example": "Many people don't know what to do with all their time when they retire."
+            },
+            {
+              "part_of_speech": "noun",
+              "word": "retirement",
+              "example": "The administrator added more money to the fund for her retirement."
+            },
+            {
+              "part_of_speech": "adjective",
+              "word": "retired",
+              "example": "The retired worker came back to the office to see his friends."
+            }
+          ]
+        },
+        {
+          "word_id": "v070",
+          "word": "vested",
+          "part_of_speech": "adjective",
+          "definition": "guaranteed as a right, involved",
+          "vietnamese_meaning": "được đảm bảo, quyền lợi được thụ hưởng",
+          "examples": [
+            "The day that Ms. Weng became fully vested in the retirement plan, she gave her two weeks' notice.",
+            "The company has a vested interest in the happiness of its employees."
+          ]
+        },
+        {
+          "word_id": "v071",
+          "word": "wage",
+          "part_of_speech": "noun",
+          "definition": "the money paid for work done, usually hourly",
+          "vietnamese_meaning": "tiền công (trả theo giờ/ngày)",
+          "examples": [
+            "Hourly wages have increased by 20 percent over the last two years.",
+            "The intern spends more than half of her wages on rent."
+          ]
+        },
+        {
+          "word_id": "v072",
+          "word": "delicately",
+          "part_of_speech": "adverb",
+          "definition": "with sensitivity",
+          "vietnamese_meaning": "tế nhị, khéo léo",
+          "examples": [
+            "Senior management is handling these contract negotiations delicately.",
+            "The manager delicately asked about the health of his client."
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": 16,
+      "title": "Shopping",
+      "topic": "Purchasing",
+      "words": [
+        {
+          "word_id": "v073",
+          "word": "bargain",
+          "part_of_speech": "verb/noun",
+          "definition": "to negotiate; an advantageous purchase",
+          "vietnamese_meaning": "mặc cả, món hời",
+          "examples": [
+            "She bargained for over an hour, finally reducing the price by half.",
+            "Lois compared the sweaters carefully to determine which was a better bargain."
+          ]
+        },
+        {
+          "word_id": "v074",
+          "word": "bear",
+          "part_of_speech": "verb",
+          "definition": "to have tolerance for; to endure",
+          "vietnamese_meaning": "chịu đựng",
+          "examples": [
+            "Moya doesn't like crowds so she cannot bear to shop during the holiday rush.",
+            "If you can bear with me, I'd like to stop in one more store."
+          ]
+        },
+        {
+          "word_id": "v075",
+          "word": "behavior",
+          "part_of_speech": "noun",
+          "definition": "the manner of one's actions",
+          "vietnamese_meaning": "hành vi, cách ứng xử",
+          "examples": [
+            "Annu is conducting a survey on whether consumer behavior differs between men and women.",
+            "Suspicious behavior in a department store will draw the attention of the security guards."
+          ]
+        },
+        {
+          "word_id": "v076",
+          "word": "checkout",
+          "part_of_speech": "noun",
+          "definition": "the act, time, or place of checking out",
+          "vietnamese_meaning": "quầy thanh toán",
+          "examples": [
+            "The line at this checkout is too long, so let's look for another.",
+            "Get in the checkout line now and I'll join you with the last items."
+          ]
+        },
+        {
+          "word_id": "v077",
+          "word": "comfort",
+          "part_of_speech": "verb/noun",
+          "definition": "to calm somebody; a condition of ease",
+          "vietnamese_meaning": "sự thoải mái, an ủi",
+          "examples": [
+            "Comfort yourself with a down quilt this winter.",
+            "I like to dress for comfort if I'm spending the day shopping."
+          ],
+          "word_family": [
+            {
+              "part_of_speech": "noun",
+              "word": "comfort",
+              "example": "This car is designed with plush seats for your comfort."
+            },
+            {
+              "part_of_speech": "adjective",
+              "word": "comfortable",
+              "example": "I prefer this sweater because it's more comfortable."
+            },
+            {
+              "part_of_speech": "adverb",
+              "word": "comfortably",
+              "example": "I'd suggest buying the larger table, which comfortably seats six."
+            }
+          ]
+        },
+        {
+          "word_id": "v078",
+          "word": "expand",
+          "part_of_speech": "verb",
+          "definition": "to increase the size, volume, quantity, or scope",
+          "vietnamese_meaning": "mở rộng",
+          "examples": [
+            "The new manager has significantly expanded the store's inventory.",
+            "The shoe store is out of room and is thinking about expanding into the adjacent vacant building."
+          ],
+          "word_family": [
+            {
+              "part_of_speech": "verb",
+              "word": "expand",
+              "example": "The music store expanded its selection by offering classical music."
+            },
+            {
+              "part_of_speech": "noun",
+              "word": "expansion",
+              "example": "The expansion of our sales territory into a new region will mean more stock."
+            },
+            {
+              "part_of_speech": "adjective",
+              "word": "expanded",
+              "example": "The expanded inventory is great, but it's hard to find room to store it."
+            }
+          ]
+        },
+        {
+          "word_id": "v079",
+          "word": "explore",
+          "part_of_speech": "verb",
+          "definition": "to investigate systematically",
+          "vietnamese_meaning": "khám phá, tìm hiểu",
+          "examples": [
+            "The collector likes to explore antique shops looking for bargains.",
+            "While his mother shopped for clothes, Michael wandered off to explore the toy section."
+          ]
+        },
+        {
+          "word_id": "v080",
+          "word": "item",
+          "part_of_speech": "noun",
+          "definition": "a single article or unit",
+          "vietnamese_meaning": "mặt hàng, đơn vị sản phẩm",
+          "examples": [
+            "The grocery store has a special checkout line for people who are purchasing fewer than ten items.",
+            "Do you think I can get all these items into one bag?"
+          ]
+        },
+        {
+          "word_id": "v081",
+          "word": "mandatory",
+          "part_of_speech": "adjective",
+          "definition": "required or commanded; obligatory",
+          "vietnamese_meaning": "bắt buộc",
+          "examples": [
+            "The jewelry store has a mandatory policy of showing customers only one item at a time.",
+            "There is a mandatory limit of nine items for use of this checkout line."
+          ]
+        },
+        {
+          "word_id": "v082",
+          "word": "merchandise",
+          "part_of_speech": "noun",
+          "definition": "items available in stores",
+          "vietnamese_meaning": "hàng hóa",
+          "examples": [
+            "I am very impressed with the selection of merchandise at this store.",
+            "Helen wanted to make sure that the store had a wide variety of merchandise before buying a gift certificate."
+          ]
+        },
+        {
+          "word_id": "v083",
+          "word": "strictly",
+          "part_of_speech": "adverb",
+          "definition": "rigidly, without flexibility",
+          "vietnamese_meaning": "nghiêm ngặt",
+          "examples": [
+            "Our store strictly enforces its return policy.",
+            "Their high turnover rate is no surprise, considering how strictly the manager deals with them."
+          ]
+        },
+        {
+          "word_id": "v084",
+          "word": "trend",
+          "part_of_speech": "noun",
+          "definition": "the current style; vogue",
+          "vietnamese_meaning": "xu hướng, mốt",
+          "examples": [
+            "The clothing store tries to stay on top of all the new trends.",
+            "Mioshi followed market trends closely before she bought a clothing franchise."
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": 19,
+      "title": "Invoices",
+      "topic": "Purchasing",
+      "words": [
+        {
+          "word_id": "v085",
+          "word": "charge",
+          "part_of_speech": "verb/noun",
+          "definition": "to demand payment; an expense or cost",
+          "vietnamese_meaning": "tính phí, chi phí",
+          "examples": [
+            "The customer service representative was responsible for telling all existing customers that higher prices would be charged next month.",
+            "The extra charge for gift wrapping your purchase will appear on your invoice."
+          ]
+        },
+        {
+          "word_id": "v086",
+          "word": "compile",
+          "part_of_speech": "verb",
+          "definition": "to gather together from several sources",
+          "vietnamese_meaning": "biên soạn, tổng hợp",
+          "examples": [
+            "I have compiled a list of the most popular items in our sales catalog.",
+            "The clerk is responsible for compiling the orders at the end of the day."
+          ]
+        },
+        {
+          "word_id": "v087",
+          "word": "customer",
+          "part_of_speech": "noun",
+          "definition": "one who purchases a commodity or service",
+          "vietnamese_meaning": "khách hàng",
+          "examples": [
+            "Let's make sure all invoices sent to customers are kept in alphabetical order.",
+            "As part of our customer satisfaction plan, let's offer a discount to customers who pay their invoices within a week."
+          ]
+        },
+        {
+          "word_id": "v088",
+          "word": "discount",
+          "part_of_speech": "noun/verb",
+          "definition": "a reduction in price; to reduce in price",
+          "vietnamese_meaning": "giảm giá, sự chiết khấu",
+          "examples": [
+            "We are offering a 10 percent discount to all new customers.",
+            "They discounted the price on the merchandise damaged in shipment."
+          ]
+        },
+        {
+          "word_id": "v089",
+          "word": "efficient",
+          "part_of_speech": "adjective",
+          "definition": "acting or producing effectively with a minimum of waste",
+          "vietnamese_meaning": "có hiệu suất cao, hiệu quả",
+          "examples": [
+            "The accountant was so efficient in processing the customer receipts that she had the job done before lunch.",
+            "Electronic invoicing has helped us to be efficient."
+          ]
+        },
+        {
+          "word_id": "v090",
+          "word": "estimate",
+          "part_of_speech": "verb/noun",
+          "definition": "to approximate the amount or value; an approximation",
+          "vietnamese_meaning": "ước tính, sự đánh giá",
+          "examples": [
+            "We estimated our losses this year at about five thousand dollars.",
+            "In the owner's estimation, the high level of customer satisfaction was an adequate measure."
+          ]
+        },
+        {
+          "word_id": "v091",
+          "word": "impose",
+          "part_of_speech": "verb",
+          "definition": "to establish or apply as compulsory",
+          "vietnamese_meaning": "áp đặt, gánh áp lực",
+          "examples": [
+            "The company will impose a surcharge for any items returned.",
+            "We should not impose upon our staff by requiring them to work on weekends."
+          ]
+        },
+        {
+          "word_id": "v092",
+          "word": "mistake",
+          "part_of_speech": "noun",
+          "definition": "an error or a fault",
+          "vietnamese_meaning": "lỗi, sai lầm",
+          "examples": [
+            "I made a mistake in adding up your bill and we overcharged you twenty dollars.",
+            "It was a mistake thinking that my boss would be reasonable when I explained my situation."
+          ]
+        },
+        {
+          "word_id": "v093",
+          "word": "order",
+          "part_of_speech": "noun/verb",
+          "definition": "a request made to purchase something; to command",
+          "vietnamese_meaning": "đơn đặt hàng, đặt hàng",
+          "examples": [
+            "The customer placed an order for ten new chairs.",
+            "We were ordered to take inventory immediately."
+          ]
+        },
+        {
+          "word_id": "v094",
+          "word": "promptly",
+          "part_of_speech": "adverb",
+          "definition": "on time, punctually",
+          "vietnamese_meaning": "kịp thời, nhanh chóng",
+          "examples": [
+            "We always reply promptly to customers' letters.",
+            "The new sales agent promptly offered a full refund for the damaged goods."
+          ]
+        },
+        {
+          "word_id": "v095",
+          "word": "rectify",
+          "part_of_speech": "verb",
+          "definition": "to set right or correct",
+          "vietnamese_meaning": "sửa chữa, khắc phục",
+          "examples": [
+            "He rectified the problem by giving the customer credit for the unused items that she returned.",
+            "Embarrassed at his behavior, he rectified the situation by writing a letter of apology."
+          ]
+        },
+        {
+          "word_id": "v096",
+          "word": "terms",
+          "part_of_speech": "noun",
+          "definition": "conditions",
+          "vietnamese_meaning": "các điều khoản (thanh toán/hợp đồng)",
+          "examples": [
+            "The terms of payment were clearly listed at the bottom of the invoice.",
+            "The terms of the agreement required that items be fully paid for before they would be shipped."
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": 21,
+      "title": "Banking",
+      "topic": "Financing and Budgeting",
+      "words": [
+        {
+          "word_id": "v097",
+          "word": "accept",
+          "part_of_speech": "verb",
+          "definition": "to receive; to respond favorably",
+          "vietnamese_meaning": "chấp nhận",
+          "examples": [
+            "The receptionist accepted the package from the courier.",
+            "Without hesitating, she accepted the job of teller."
+          ],
+          "word_family": [
+            {
+              "part_of_speech": "verb",
+              "word": "accept",
+              "example": "The bank will not accept a student ID as a valid form of identification."
+            },
+            {
+              "part_of_speech": "noun",
+              "word": "acceptance",
+              "example": "The bank's acceptance of checks allows extra time for out-of-state checks to clear."
+            },
+            {
+              "part_of_speech": "adjective",
+              "word": "acceptable",
+              "example": "Shorter banking hours would not be acceptable to many customers."
+            }
+          ]
+        },
+        {
+          "word_id": "v098",
+          "word": "balance",
+          "part_of_speech": "noun/verb",
+          "definition": "the remainder; to compute difference between credits and debits",
+          "vietnamese_meaning": "số dư tài khoản, cân bằng",
+          "examples": [
+            "His healthy bank balance showed a long habit of savings.",
+            "It took him over an hour to balance his checkbook."
+          ]
+        },
+        {
+          "word_id": "v099",
+          "word": "borrow",
+          "part_of_speech": "verb",
+          "definition": "to use temporarily",
+          "vietnamese_meaning": "vay, mượn",
+          "examples": [
+            "Do you want to borrow a pen?",
+            "The couple borrowed money from the bank to buy a home."
+          ]
+        },
+        {
+          "word_id": "v100",
+          "word": "cautiously",
+          "part_of_speech": "adverb",
+          "definition": "carefully, warily",
+          "vietnamese_meaning": "cẩn trọng",
+          "examples": [
+            "The bank manager spoke cautiously when giving out information.",
+            "Act cautiously when signing contracts and read them thoroughly first."
+          ]
+        },
+        {
+          "word_id": "v101",
+          "word": "deduct",
+          "part_of_speech": "verb",
+          "definition": "to take away from a total; to subtract",
+          "vietnamese_meaning": "khấu trừ, trừ đi",
+          "examples": [
+            "Before computing his taxes, Christophe remembered to deduct allowable home improvement expenses.",
+            "By deducting the monthly fee from her checking account, Yi was able to make her account balance."
+          ]
+        },
+        {
+          "word_id": "v102",
+          "word": "dividend",
+          "part_of_speech": "noun",
+          "definition": "a share in a distribution",
+          "vietnamese_meaning": "cổ tức, tiền lời cổ phần",
+          "examples": [
+            "The stockholders were outraged when their quarterly dividends were so small.",
+            "The dividend was calculated and distributed to the group."
+          ]
+        },
+        {
+          "word_id": "v103",
+          "word": "down payment",
+          "part_of_speech": "noun",
+          "definition": "an initial partial payment",
+          "vietnamese_meaning": "tiền đặt cọc, khoản trả trước",
+          "examples": [
+            "By making a large down payment, the couple saved a great deal in mortgage interest.",
+            "Karl was disappointed when the real estate agent told him he needed a larger down payment on the house."
+          ]
+        },
+        {
+          "word_id": "v104",
+          "word": "mortgage",
+          "part_of_speech": "noun/verb",
+          "definition": "the amount due on a property; to borrow money with house as collateral",
+          "vietnamese_meaning": "thế chấp, thế chấp tài sản",
+          "examples": [
+            "Due to low interest rates, Sheila moved quickly to find a good deal on a mortgage.",
+            "Hiram mortgaged his home to get extra money to invest in his business."
+          ]
+        },
+        {
+          "word_id": "v105",
+          "word": "restricted",
+          "part_of_speech": "adjective",
+          "definition": "limited",
+          "vietnamese_meaning": "bị hạn chế, giới hạn",
+          "examples": [
+            "The number of free withdrawals a customer can make each month is restricted to five.",
+            "Access to the safe deposit box vault is restricted to key holders."
+          ]
+        },
+        {
+          "word_id": "v106",
+          "word": "signature",
+          "part_of_speech": "noun",
+          "definition": "the name of a person written by the person",
+          "vietnamese_meaning": "chữ ký",
+          "examples": [
+            "Once we have your signature, the contract will be complete.",
+            "The customer's signature was kept on file for identification purposes."
+          ]
+        },
+        {
+          "word_id": "v107",
+          "word": "take out",
+          "part_of_speech": "verb",
+          "definition": "withdraw; remove",
+          "vietnamese_meaning": "rút (tiền), lấy ra",
+          "examples": [
+            "My checking account allows me to take out money at any bank branch without a fee.",
+            "They took out the chairs in the bank lobby so now there is no place to sit."
+          ]
+        },
+        {
+          "word_id": "v108",
+          "word": "transaction",
+          "part_of_speech": "noun",
+          "definition": "a business deal",
+          "vietnamese_meaning": "giao dịch",
+          "examples": [
+            "Banking transactions will appear on your monthly statement.",
+            "The most common transactions can be made from your personal computer."
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": 23,
+      "title": "Investments",
+      "topic": "Financing and Budgeting",
+      "words": [
+        {
+          "word_id": "v109",
+          "word": "aggressively",
+          "part_of_speech": "adverb",
+          "definition": "competitively, assertively",
+          "vietnamese_meaning": "xông xáo, tích cực, hăng hái",
+          "examples": [
+            "Some people are risk takers and prefer to invest aggressively.",
+            "His ideas were not well received because he spoke so aggressively."
+          ]
+        },
+        {
+          "word_id": "v110",
+          "word": "attitude",
+          "part_of_speech": "noun",
+          "definition": "a feeling about something or someone",
+          "vietnamese_meaning": "thái độ, quan điểm",
+          "examples": [
+            "The new fund manager's attitude changed quickly after the first big downturn.",
+            "Each investor should assess his or her own attitude toward investment."
+          ]
+        },
+        {
+          "word_id": "v111",
+          "word": "commit",
+          "part_of_speech": "verb",
+          "definition": "to consign for future use, to promise",
+          "vietnamese_meaning": "cam kết, dành (vốn/thời gian)",
+          "examples": [
+            "It is a good idea to commit a certain percentage of your income to investments.",
+            "The stockbroker committed himself to finding the best investments for each client."
+          ]
+        },
+        {
+          "word_id": "v112",
+          "word": "conservative",
+          "part_of_speech": "adjective",
+          "definition": "cautious, restrained",
+          "vietnamese_meaning": "thận trọng, bảo thủ",
+          "examples": [
+            "Her conservative strategy paid off over the years.",
+            "Generally, older people should be more conservative in their investing."
+          ]
+        },
+        {
+          "word_id": "v113",
+          "word": "fund",
+          "part_of_speech": "noun/verb",
+          "definition": "an amount of money for something specific; to provide money for",
+          "vietnamese_meaning": "quỹ, cấp vốn",
+          "examples": [
+            "He will have access to his trust fund when he is 21 years old.",
+            "The company will fund the trip to the conference."
+          ]
+        },
+        {
+          "word_id": "v114",
+          "word": "invest",
+          "part_of_speech": "verb",
+          "definition": "to put money into a business or activity",
+          "vietnamese_meaning": "đầu tư",
+          "examples": [
+            "The chief financial officer invested in the stock at a very good time.",
+            "Don't invest all of your time in just one project."
+          ],
+          "word_family": [
+            {
+              "part_of_speech": "verb",
+              "word": "invest",
+              "example": "The company has been successful because it has invested wisely in its resources."
+            },
+            {
+              "part_of_speech": "noun",
+              "word": "investment",
+              "example": "The CFO is responsible for corporate investment."
+            },
+            {
+              "part_of_speech": "noun",
+              "word": "investor",
+              "example": "The fall in the stock market shook up the investors."
+            }
+          ]
+        },
+        {
+          "word_id": "v115",
+          "word": "long-term",
+          "part_of_speech": "adjective",
+          "definition": "involving or extending over a long period",
+          "vietnamese_meaning": "dài hạn",
+          "examples": [
+            "The CEO's long-term goal was to increase the return on investment.",
+            "Over the long-term forecast, unemployment is expected to remain steady."
+          ]
+        },
+        {
+          "word_id": "v116",
+          "word": "portfolio",
+          "part_of_speech": "noun",
+          "definition": "a list of investments",
+          "vietnamese_meaning": "danh mục đầu tư",
+          "examples": [
+            "Investors are advised to have diverse portfolios.",
+            "The investor's portfolio consisted of blue chip company stocks and government bonds."
+          ]
+        },
+        {
+          "word_id": "v117",
+          "word": "pull out",
+          "part_of_speech": "verb/noun",
+          "definition": "to withdraw; a withdrawal",
+          "vietnamese_meaning": "rút vốn, rút khỏi",
+          "examples": [
+            "His advisor suggested that she pull out her investments in the troubled country.",
+            "The pull out of the bank has left the company without financing."
+          ]
+        },
+        {
+          "word_id": "v118",
+          "word": "resource",
+          "part_of_speech": "noun",
+          "definition": "assets; valuable things",
+          "vietnamese_meaning": "nguồn lực, tài nguyên",
+          "examples": [
+            "If you don't invest in petroleum resources now, you will find that stock prices get away.",
+            "The company's most valuable resource was its staff."
+          ]
+        },
+        {
+          "word_id": "v119",
+          "word": "return",
+          "part_of_speech": "noun",
+          "definition": "the amount of money gained as profit",
+          "vietnamese_meaning": "lợi nhuận thu về, tiền lãi",
+          "examples": [
+            "The 44 percent return on the new stock was far more than anticipated.",
+            "Some investors are satisfied with a 15 percent return."
+          ]
+        },
+        {
+          "word_id": "v120",
+          "word": "wisely",
+          "part_of_speech": "adverb",
+          "definition": "knowledgeably, smartly",
+          "vietnamese_meaning": "khôn ngoan, sáng suốt",
+          "examples": [
+            "If you invest wisely, you will be able to retire early.",
+            "Mary wisely followed her stockbroker's advice."
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": 25,
+      "title": "Financial Statements",
+      "topic": "Financing and Budgeting",
+      "words": [
+        {
+          "word_id": "v121",
+          "word": "desire",
+          "part_of_speech": "verb/noun",
+          "definition": "to wish for; a strong wish",
+          "vietnamese_meaning": "khao khát, mong muốn",
+          "examples": [
+            "We desire to have our own home.",
+            "He desires to retire when he becomes forty."
+          ]
+        },
+        {
+          "word_id": "v122",
+          "word": "detail",
+          "part_of_speech": "verb/noun",
+          "definition": "to report in particulars; minute parts",
+          "vietnamese_meaning": "trình bày chi tiết, chi tiết",
+          "examples": [
+            "The office manager detailed each step of the inventory process at the staff meeting.",
+            "Fabio created a financial statement that detailed every expected expenditure."
+          ]
+        },
+        {
+          "word_id": "v123",
+          "word": "forecast",
+          "part_of_speech": "noun/verb",
+          "definition": "a prediction of a future event; to estimate in advance",
+          "vietnamese_meaning": "dự báo",
+          "examples": [
+            "The financial forecast indicates a deficit in the next quarter.",
+            "Analysts forecast a strong economic outlook."
+          ]
+        },
+        {
+          "word_id": "v124",
+          "word": "level",
+          "part_of_speech": "noun",
+          "definition": "a relative position or rank on a scale",
+          "vietnamese_meaning": "mức độ, cấp độ",
+          "examples": [
+            "We have never had an accountant work at such a sophisticated level before.",
+            "The meeting was only open to staff at the assistant director level or higher."
+          ]
+        },
+        {
+          "word_id": "v125",
+          "word": "overall",
+          "part_of_speech": "adjective",
+          "definition": "regarded as a whole; general",
+          "vietnamese_meaning": "tổng thể, toàn bộ",
+          "examples": [
+            "The company's overall expectations were out of proportion.",
+            "Overall, our costs are running true to prediction."
+          ]
+        },
+        {
+          "word_id": "v126",
+          "word": "perspective",
+          "part_of_speech": "noun",
+          "definition": "a mental view or outlook",
+          "vietnamese_meaning": "góc nhìn, viễn cảnh",
+          "examples": [
+            "The budget statement will give the manager some perspective on costs.",
+            "Joseph's accountant gave him some perspective as well as data."
+          ]
+        },
+        {
+          "word_id": "v127",
+          "word": "project",
+          "part_of_speech": "verb",
+          "definition": "to estimate or predict",
+          "vietnamese_meaning": "dự tính, ước tính",
+          "examples": [
+            "We need to project our earnings and expenses in order to plan next year's budget.",
+            "The director projects that the company will need to hire ten new employees."
+          ]
+        },
+        {
+          "word_id": "v128",
+          "word": "realistic",
+          "part_of_speech": "adjective",
+          "definition": "tending to express awareness of things as they really are",
+          "vietnamese_meaning": "thực tế",
+          "examples": [
+            "Stefano found that an accurate accounting gave him a realistic idea.",
+            "Realistic expectations are important when you review financial statements."
+          ]
+        },
+        {
+          "word_id": "v129",
+          "word": "target",
+          "part_of_speech": "verb/noun",
+          "definition": "to establish as a goal; a goal",
+          "vietnamese_meaning": "mục tiêu, nhắm tới",
+          "examples": [
+            "We targeted March as the deadline for completing the financial statement.",
+            "Most managers target desired income as the primary criterion."
+          ]
+        },
+        {
+          "word_id": "v130",
+          "word": "translation",
+          "part_of_speech": "noun",
+          "definition": "the act or process of translating",
+          "vietnamese_meaning": "bản dịch, sự chuyển đổi",
+          "examples": [
+            "The translation of the statement from Japanese into English was very helpful.",
+            "The accountant was able to provide a translation of economic terms."
+          ]
+        },
+        {
+          "word_id": "v131",
+          "word": "typically",
+          "part_of_speech": "adverb",
+          "definition": "acting in conformity to a type; characteristically",
+          "vietnamese_meaning": "thông thường, đặc trưng",
+          "examples": [
+            "Office expenses typically include such things as salaries, rent, and office supplies.",
+            "The director typically dominates the staff meetings."
+          ]
+        },
+        {
+          "word_id": "v132",
+          "word": "yield",
+          "part_of_speech": "noun/verb",
+          "definition": "an amount produced; to produce a profit",
+          "vietnamese_meaning": "sản lượng, sinh lời",
+          "examples": [
+            "Henry's budget gave him the desired yield: a better indication of expected profit.",
+            "The company's investment yielded high returns."
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": 30,
+      "title": "Renting and Leasing",
+      "topic": "Property and Departments",
+      "words": [
+        {
+          "word_id": "v133",
+          "word": "apprehensive",
+          "part_of_speech": "adjective",
+          "definition": "anxious about the future",
+          "vietnamese_meaning": "lo lắng, e sợ",
+          "examples": [
+            "Most new home buyers are apprehensive about their decision.",
+            "The mortgage lender was apprehensive about the company's ability to pay."
+          ]
+        },
+        {
+          "word_id": "v134",
+          "word": "circumstance",
+          "part_of_speech": "noun",
+          "definition": "a condition; a situation",
+          "vietnamese_meaning": "hoàn cảnh, trường hợp",
+          "examples": [
+            "Under the current economic circumstances, they will not be able to purchase the property.",
+            "If the circumstances change in the near future, we will be sure to call you."
+          ]
+        },
+        {
+          "word_id": "v135",
+          "word": "condition",
+          "part_of_speech": "noun",
+          "definition": "the state of something; a requirement",
+          "vietnamese_meaning": "điều kiện, trạng thái",
+          "examples": [
+            "Except for some minor repairs, the building is in very good condition.",
+            "There are certain conditions that are unique to leasing a property."
+          ]
+        },
+        {
+          "word_id": "v136",
+          "word": "due to",
+          "part_of_speech": "preposition",
+          "definition": "because of",
+          "vietnamese_meaning": "do, bởi vì",
+          "examples": [
+            "Due to the low interest rates, good office space is difficult to find.",
+            "He didn't believe that the low prices were due only to the neighborhood."
+          ]
+        },
+        {
+          "word_id": "v137",
+          "word": "fluctuate",
+          "part_of_speech": "verb",
+          "definition": "to go up and down; to change",
+          "vietnamese_meaning": "biến động, dao động",
+          "examples": [
+            "No one is very comfortable making a large investment while currency values fluctuate.",
+            "Prime business areas fluctuate with local economies, crime rates, and cost of living indices."
+          ]
+        },
+        {
+          "word_id": "v138",
+          "word": "get out of",
+          "part_of_speech": "verb",
+          "definition": "to escape; to exit",
+          "vietnamese_meaning": "thoát khỏi, hủy bỏ (hợp đồng)",
+          "examples": [
+            "The agent wasn't sure if the executives could get out of their prior real estate arrangement.",
+            "The company wanted to get out of the area before property values declined further."
+          ]
+        },
+        {
+          "word_id": "v139",
+          "word": "indicator",
+          "part_of_speech": "noun",
+          "definition": "a sign, a signal",
+          "vietnamese_meaning": "chỉ số, dấu hiệu",
+          "examples": [
+            "If the economy is an accurate indicator, rental prices will increase rapidly.",
+            "The results of the elections were seen as an important indicator of stability."
+          ]
+        },
+        {
+          "word_id": "v140",
+          "word": "lease",
+          "part_of_speech": "noun/verb",
+          "definition": "a contract to pay to use property; to make a contract to use property",
+          "vietnamese_meaning": "hợp đồng cho thuê, thuê lại",
+          "examples": [
+            "With the lease expiring next year, they need to start looking for a new location.",
+            "They decided to lease the property rather than buy it."
+          ]
+        },
+        {
+          "word_id": "v141",
+          "word": "lock into",
+          "part_of_speech": "verb",
+          "definition": "to commit; to be unable to change",
+          "vietnamese_meaning": "ràng buộc, cam kết cố định",
+          "examples": [
+            "The company locked itself into a ten-year lease that they didn't want.",
+            "Before you lock yourself into something, check all your options."
+          ]
+        },
+        {
+          "word_id": "v142",
+          "word": "occupy",
+          "part_of_speech": "verb",
+          "definition": "to dwell or reside in",
+          "vietnamese_meaning": "chiếm giữ, cư ngụ",
+          "examples": [
+            "Tenants are usually allowed to occupy their space beginning on the first day of the month.",
+            "Our company has occupied this office for more than five years."
+          ]
+        },
+        {
+          "word_id": "v143",
+          "word": "option",
+          "part_of_speech": "noun",
+          "definition": "a choice, an alternative",
+          "vietnamese_meaning": "tùy chọn, sự lựa chọn",
+          "examples": [
+            "You could arrange the lease with an option to buy after a certain amount of time.",
+            "With the real estate market so tight right now, you don't have that many options."
+          ]
+        },
+        {
+          "word_id": "v144",
+          "word": "subject to",
+          "part_of_speech": "adjective",
+          "definition": "under legal power; dependent",
+          "vietnamese_meaning": "tùy thuộc vào, tuân theo",
+          "examples": [
+            "This contract is subject to all the laws and regulations of the state.",
+            "The go-ahead to buy is subject to the president's approval."
+          ]
+        }
+      ]
+    }
+  ]
+}
