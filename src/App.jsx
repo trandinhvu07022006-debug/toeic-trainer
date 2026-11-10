@@ -25,6 +25,7 @@ import {
   BookmarkCheck,
   Sparkles,
   X,
+  PenTool,
 } from "lucide-react";
 
 import { useDarkMode, theme } from "./ui/theme.js";
@@ -36,9 +37,9 @@ import { HomeScreen } from "./features/Home.jsx";
 /* Lazy-load từng màn: mỗi tab thành một chunk riêng, chỉ tải khi mở.
    Trang đầu nhờ vậy nhẹ hơn nhiều khi đưa lên web. */
 const VocabScreen = lazy(() => import("./features/Vocab.jsx").then((m) => ({ default: m.VocabScreen })));
-const ListenScreen = lazy(() => import("./features/Listening.jsx").then((m) => ({ default: m.ListenScreen })));
-const SpeakScreen = lazy(() => import("./features/Speaking.jsx").then((m) => ({ default: m.SpeakScreen })));
+const WritingScreen = lazy(() => import("./features/Writing.jsx").then((m) => ({ default: m.WritingScreen })));
 const ReadingScreen = lazy(() => import("./features/Reading.jsx").then((m) => ({ default: m.ReadingScreen })));
+const ListenScreen = lazy(() => import("./features/Listening.jsx").then((m) => ({ default: m.ListenScreen })));
 const ExamScreen = lazy(() => import("./features/Exam.jsx").then((m) => ({ default: m.ExamScreen })));
 const ProgressScreen = lazy(() => import("./features/Progress.jsx").then((m) => ({ default: m.ProgressScreen })));
 const DictionaryScreen = lazy(() => import("./features/Dictionary.jsx").then((m) => ({ default: m.DictionaryScreen })));
@@ -232,6 +233,9 @@ export default function App() {
         {tab === "vocab" && (
           <VocabScreen T={T} dark={dark} tts={tts} srs={state.srs} onGrade={gradeWord} />
         )}
+        {tab === "write" && (
+          <WritingScreen T={T} dark={dark} tts={tts} srs={state.srs} onSaveWord={saveWordToSRS} />
+        )}
         {tab === "read" && (
           <ReadingScreen T={T} dark={dark} stats={state.stats} grammarStats={state.grammarStats}
             onAnswer={onAnswer} onGrammarAnswer={onGrammarAnswer}
@@ -288,17 +292,30 @@ export default function App() {
         {/* Danh mục menu chính */}
         <nav aria-label="Điều hướng chính" className="flex-1 px-3 py-3 space-y-1 overflow-y-auto">
           <NavRow t={{ key: "home", label: "Trang chủ", Icon: Home }} active={tab === "home"} onClick={() => setTab("home")} T={T} collapsed={collapsed} />
-          <NavRow t={{ key: "topics", label: "Chủ đề", Icon: Layers }} active={tab === "vocab"} onClick={() => setTab("vocab")} T={T} collapsed={collapsed} />
-          <NavRow t={{ key: "listen", label: "Luyện nghe", Icon: Headphones }} active={tab === "listen"} onClick={() => setTab("listen")} T={T} collapsed={collapsed} />
-          <NavRow t={{ key: "read", label: "Đọc hiểu", Icon: FileText }} active={tab === "read"} onClick={() => setTab("read")} T={T} collapsed={collapsed} />
           <NavRow
-            t={{ key: "vocab", label: "Từ vựng", Icon: BookOpen }}
+            t={{ key: "vocab", label: "Học từ vựng", Icon: BookOpen }}
             active={tab === "vocab"}
             onClick={() => setTab("vocab")}
             T={T}
             collapsed={collapsed}
             badge="100"
             badgeColor="accent"
+          />
+          <NavRow
+            t={{ key: "write", label: "Luyện tập viết", Icon: PenTool }}
+            active={tab === "write"}
+            onClick={() => setTab("write")}
+            T={T}
+            collapsed={collapsed}
+            badge="Mới"
+            badgeColor="amber"
+          />
+          <NavRow
+            t={{ key: "read", label: "Luyện đọc hiểu", Icon: FileText }}
+            active={tab === "read"}
+            onClick={() => setTab("read")}
+            T={T}
+            collapsed={collapsed}
           />
 
           {/* NÚT MỞ KHÓA PRO PARROTO (RED GRADIENT KMG) */}
@@ -325,9 +342,9 @@ export default function App() {
           <div className={"my-2 border-t " + (dark ? "border-white/5" : "border-gray-100")} />
 
           {/* Các mục bổ trợ phía dưới */}
-          <NavRow t={{ key: "saved", label: "Ghi chú của tôi", Icon: BookmarkCheck }} active={tab === "saved"} onClick={() => setTab("read")} T={T} collapsed={collapsed} />
-          <NavRow t={{ key: "dict", label: "Từ vựng của tôi", Icon: Sparkles }} active={tab === "dict"} onClick={() => setTab("dict")} T={T} collapsed={collapsed} />
+          <NavRow t={{ key: "dict", label: "Tra từ & Lưu thẻ", Icon: Sparkles }} active={tab === "dict"} onClick={() => setTab("dict")} T={T} collapsed={collapsed} />
           <NavRow t={{ key: "mistakes", label: "Sổ tay lỗi sai", Icon: NotebookPen }} active={tab === "mistakes"} onClick={() => setTab("mistakes")} T={T} collapsed={collapsed} badge={(state.mistakes || []).length || null} badgeColor="amber" />
+          <NavRow t={{ key: "progress", label: "Báo cáo tiến độ", Icon: BarChart3 }} active={tab === "progress"} onClick={() => setTab("progress")} T={T} collapsed={collapsed} />
           <NavRow t={{ key: "logout", label: "Đăng xuất", Icon: LogOut }} active={false} onClick={() => setState(store.reset())} T={T} collapsed={collapsed} isDanger={true} />
         </nav>
 
@@ -421,7 +438,13 @@ export default function App() {
                 onClick={() => setTab("vocab")}
                 className="px-3 py-1 rounded-full bg-accent text-white font-bold text-[11px] shadow-sm hover:brightness-110 active:scale-95 transition-all"
               >
-                Học từ vựng
+                📚 Từ vựng
+              </button>
+              <button
+                onClick={() => setTab("write")}
+                className="px-3 py-1 rounded-full bg-amber-500 hover:bg-amber-600 text-white font-bold text-[11px] shadow-sm active:scale-95 transition-all"
+              >
+                ✍️ Tập viết
               </button>
               <button
                 onClick={() => setTab("read")}
@@ -430,7 +453,8 @@ export default function App() {
                   (dark ? "bg-white/10 border-white/15 text-white hover:bg-white/20" : "bg-gray-100 border-gray-300 text-gray-800")
                 }
               >
-                Đọc hiểu Part 7
+                📑 Tập đọc
+              </button>
               </button>
               <button
                 onClick={() => setShowPromoBanner(false)}
@@ -552,11 +576,11 @@ export default function App() {
           style={{ boxShadow: dark ? "0 10px 40px rgba(0,0,0,0.8)" : "0 10px 30px rgba(0,0,0,0.1)" }}
         >
           {[
-            { key: "home", label: "Trang chủ", Icon: Home },
             { key: "vocab", label: "Từ vựng", Icon: BookOpen, badge: "100" },
-            { key: "read", label: "Đọc hiểu", Icon: FileText },
+            { key: "write", label: "Tập viết", Icon: PenTool },
+            { key: "read", label: "Tập đọc", Icon: FileText },
             { key: "dict", label: "Tra từ", Icon: Search },
-            { key: "mistakes", label: "Sổ lỗi", Icon: NotebookPen, badge: (state.mistakes || []).length || null },
+            { key: "home", label: "Trang chủ", Icon: Home },
           ].map((t) => {
             const active = tab === t.key;
             const Icon = t.Icon;

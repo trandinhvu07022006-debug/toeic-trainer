@@ -18,6 +18,7 @@ import {
   Award,
   Compass,
   Flag,
+  PenTool,
 } from "lucide-react";
 import { Bar } from "../ui/index.jsx";
 import { buildDailyPlan } from "../lib/dailyplan.js";
@@ -82,6 +83,15 @@ export function HomeScreen({
       tagColor: dueCount > 0 ? "accent" : "neutral",
       Icon: BookOpen,
       action: "Vào học từ",
+    },
+    {
+      key: "write",
+      label: "Luyện Tập Viết Thông Minh",
+      desc: "Gõ chính tả cơ bắp (Spelling), điền từ vào câu (Cloze Deletion) và ghép câu hoàn chỉnh",
+      tag: "3 Phương pháp",
+      tagColor: "amber",
+      Icon: PenTool,
+      action: "Luyện viết ngay",
     },
     {
       key: "read",
@@ -196,30 +206,39 @@ export function HomeScreen({
                 Ghi nhớ từ vựng qua phương pháp Spaced Repetition (SRS), kết hợp giải đề đọc hiểu Part 5, 6, 7 với tính năng chạm là tra từ tức thì.
               </p>
 
-              {/* 2 NÚT HÀNH ĐỘNG NHANH CỐT LÕI */}
+              {/* 3 NÚT HÀNH ĐỘNG NHANH CỐT LÕI (TỪ VỰNG - TẬP VIẾT - TẬP ĐỌC) */}
               <div className="flex flex-wrap items-center gap-3 mb-6">
                 <button
                   onClick={() => onGo("vocab")}
-                  style={{ minHeight: 48 }}
-                  className="px-6 rounded-2xl bg-accent text-white font-bold text-sm flex items-center gap-2 shadow-lg shadow-accent/25 hover:brightness-110 active:scale-[0.98] transition-all"
+                  style={{ minHeight: 46 }}
+                  className="px-5 rounded-2xl bg-accent text-white font-bold text-xs sm:text-sm flex items-center gap-2 shadow-lg shadow-accent/25 hover:brightness-110 active:scale-[0.98] transition-all"
                 >
-                  <BookOpen size={18} />
-                  <span>Ôn từ vựng ({dueCount > 0 ? `${dueCount} từ đến hạn` : "Bắt đầu ngay"})</span>
-                  <ArrowRight size={16} />
+                  <BookOpen size={17} />
+                  <span>Học từ vựng ({dueCount > 0 ? `${dueCount} từ đến hạn` : "64 chủ đề"})</span>
+                  <ArrowRight size={15} />
+                </button>
+
+                <button
+                  onClick={() => onGo("write")}
+                  style={{ minHeight: 46 }}
+                  className="px-5 rounded-2xl bg-amber-500 hover:bg-amber-600 text-white font-bold text-xs sm:text-sm flex items-center gap-2 shadow-md shadow-amber-500/20 active:scale-[0.98] transition-all"
+                >
+                  <PenTool size={17} />
+                  <span>Luyện tập viết (Spelling / Cloze)</span>
                 </button>
 
                 <button
                   onClick={() => onGo("read")}
-                  style={{ minHeight: 48 }}
+                  style={{ minHeight: 46 }}
                   className={
-                    "px-5 rounded-2xl font-bold text-sm flex items-center gap-2 border transition-all active:scale-[0.98] " +
+                    "px-5 rounded-2xl font-bold text-xs sm:text-sm flex items-center gap-2 border transition-all active:scale-[0.98] " +
                     (dark
                       ? "bg-white/10 hover:bg-white/15 border-white/15 text-white"
                       : "bg-white hover:bg-gray-50 border-gray-300 text-gray-900 shadow-sm")
                   }
                 >
-                  <FileText size={18} className={T.accentText} />
-                  <span>Luyện đọc Part 7 (Split-View)</span>
+                  <FileText size={17} className={T.accentText} />
+                  <span>Đọc hiểu (Split-View)</span>
                 </button>
               </div>
             </div>
