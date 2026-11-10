@@ -521,20 +521,25 @@ export function VocabScreen({ T, dark, tts, srs, onGrade }) {
   const TOPICS = useMemo(() => VOCAB_TOPICS.map((t) => t.topic), []);
   const [deckKey, setDeckKey] = useState("__due");
   const [mode, setMode] = useState(null);
-  const [learnMode, setLearnMode] = useState("srs"); // "srs" | "topic"
+  const [learnMode, setLearnMode] = useState("topic"); // Mặc định vào thẳng chế độ 2 cột Parroto
 
   const parts = useMemo(() => partition(VOCAB, srs), [srs]);
   const dueList = parts.due;
   const newList = parts.fresh;
   const todayQueue = useMemo(() => buildQueue(VOCAB, srs, 20, 8), [srs]);
+  const readingWords = useMemo(
+    () => VOCAB.filter((v) => srs && srs[v.id] && srs[v.id].fromReading),
+    [srs]
+  );
 
   const deck = useMemo(() => {
     if (deckKey === "__due") return todayQueue;
     if (deckKey === "__due_all") return dueList;
+    if (deckKey === "__from_reading") return readingWords;
     if (deckKey === "__new") return newList;
     if (deckKey === "__all") return VOCAB;
     return VOCAB.filter((v) => v.topic === deckKey);
-  }, [deckKey, todayQueue, newList]);
+  }, [deckKey, todayQueue, dueList, readingWords, newList]);
 
   /* Các chế độ trắc nghiệm chấm đúng/sai, quy về thang SRS 0..2 */
   const grade = useCallback((id, ok) => onGrade(id, ok ? 2 : 0), [onGrade]);
@@ -549,13 +554,13 @@ export function VocabScreen({ T, dark, tts, srs, onGrade }) {
 
   const learned = VOCAB.filter((v) => isLearned(srs[v.id])).length;
 
-  /* Thanh chuyển đổi giữa hai chế độ học (Premium Glow Toggle) */
+  /* Thanh chuyển đổi giữa hai chế độ học (KMG Club Red Theme Toggle) */
   const ModeToggle = () => (
-    <div className={"flex gap-2 p-1.5 rounded-xl border backdrop-blur-md mb-6 shadow-inner " + (dark ? "bg-white/5 border-white/10" : "bg-gray-100 border-gray-200")}>
-      {[["srs", "Ôn luyện SRS"], ["topic", "Học theo Chủ Đề"]].map(([k, label]) => (
-        <button key={k} onClick={() => setLearnMode(k)} style={{ minHeight: 44 }}
-          className={"flex-1 font-display tracking-widest text-[14px] uppercase transition-all rounded-lg " +
-            (learnMode === k ? "bg-white/20 text-white shadow-lg drop-shadow-[0_0_8px_rgba(255,255,255,0.4)]" : "bg-transparent text-gray-500 hover:text-white hover:bg-white/5")}>
+    <div className={"flex gap-1.5 p-1 rounded-2xl border backdrop-blur-md mb-5 " + (dark ? "bg-[#101520] border-[#1f283a]" : "bg-gray-100 border-gray-200")}>
+      {[["topic", "📚 Học theo Chủ Đề (Parroto)"], ["srs", "⚡ Ôn luyện hàng ngày (SRS)"]].map(([k, label]) => (
+        <button key={k} onClick={() => setLearnMode(k)} style={{ minHeight: 40 }}
+          className={"flex-1 font-bold text-xs uppercase tracking-wider transition-all rounded-xl " +
+            (learnMode === k ? "bg-accent text-white shadow-md shadow-accent/30" : "bg-transparent text-gray-400 hover:text-white hover:bg-white/5")}>
           {label}
         </button>
       ))}
@@ -573,6 +578,9 @@ export function VocabScreen({ T, dark, tts, srs, onGrade }) {
   const decks = [
     { key: "__due", label: "Hôm nay", n: todayQueue.length },
     { key: "__due_all", label: "Đến hạn", n: dueList.length },
+    ...(readingWords.length > 0
+      ? [{ key: "__from_reading", label: "📖 Từ bài đọc", n: readingWords.length }]
+      : []),
     { key: "__new", label: "Chưa học", n: newList.length },
     { key: "__all", label: "Tất cả", n: VOCAB.length },
   ].concat(TOPICS.map((t) => ({ key: t, label: t, n: VOCAB.filter((v) => v.topic === t).length })));

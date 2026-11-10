@@ -1,5 +1,31 @@
 import React, { useState, useEffect, useMemo, useCallback, useRef, lazy, Suspense } from "react";
-import { BookOpen, Headphones, Mic, FileText, BarChart3, Clock, Flame, Home, Sun, Moon, Search, NotebookPen } from "lucide-react";
+import {
+  BookOpen,
+  Headphones,
+  Mic,
+  FileText,
+  BarChart3,
+  Clock,
+  Flame,
+  Home,
+  Sun,
+  Moon,
+  Search,
+  NotebookPen,
+  Layers,
+  Crown,
+  Gem,
+  Target,
+  Bell,
+  Globe,
+  Settings,
+  LogOut,
+  ChevronLeft,
+  ChevronRight,
+  BookmarkCheck,
+  Sparkles,
+  X,
+} from "lucide-react";
 
 import { useDarkMode, theme } from "./ui/theme.js";
 import { useTTS } from "./lib/tts.js";
@@ -21,8 +47,8 @@ const MistakeBookScreen = lazy(() => import("./features/MistakeBook.jsx").then((
 const TABS = [
   { key: "home", label: "Trang chủ", Icon: Home },
   { key: "vocab", label: "Từ vựng", Icon: BookOpen },
+  { key: "read", label: "Đọc hiểu", Icon: FileText },
   { key: "listen", label: "Nghe", Icon: Headphones },
-  { key: "read", label: "Đọc", Icon: FileText },
   { key: "exam", label: "Thi thử", Icon: Clock },
   { key: "progress", label: "Tiến độ", Icon: BarChart3 },
 ];
@@ -33,6 +59,7 @@ export default function App() {
   const tts = useTTS();
 
   const [tab, setTab] = useState("home");
+  const [showPromoBanner, setShowPromoBanner] = useState(true);
   const [state, setState] = useState(() => store.load());
   const first = useRef(true);
 
@@ -59,6 +86,27 @@ export default function App() {
     srs: { ...s.srs, [id]: review(s.srs[id], grade) },
     vocabDrill: { done: s.vocabDrill.done + 1, correct: s.vocabDrill.correct + (grade === 2 ? 1 : 0) },
   })), [patch]);
+
+  /* ---- Thêm / Xoá từ vào danh sách ôn tập SRS từ bài đọc hoặc tra từ điển ---- */
+  const saveWordToSRS = useCallback((id) => patch((s) => {
+    if (!id) return s;
+    const cur = s.srs || {};
+    if (cur[id]) return s;
+    return {
+      ...s,
+      srs: {
+        ...cur,
+        [id]: { box: 0, due: Date.now(), seen: 0, right: 0, fromReading: true, addedAt: Date.now() },
+      },
+    };
+  }), [patch]);
+
+  const removeWordFromSRS = useCallback((id) => patch((s) => {
+    if (!id || !s.srs || !s.srs[id]) return s;
+    const nextSrs = { ...s.srs };
+    delete nextSrs[id];
+    return { ...s, srs: nextSrs };
+  }), [patch]);
 
   /* ---- Chấm câu hỏi (id tùy chọn: nếu sai và có id thì lưu vào sổ lỗi) ---- */
   const onAnswer = useCallback((part, ok, id) => patch((s) => {
@@ -149,6 +197,10 @@ export default function App() {
   }), [patch]);
 
   const streak = useMemo(() => streakOf(state.days), [state.days]);
+  const dueCount = useMemo(
+    () => Object.values(state.srs || {}).filter((c) => c && c.due <= Date.now()).length,
+    [state.srs]
+  );
 
   /* Nhiệm vụ hằng ngày đã xong hôm nay (tự reset khi sang ngày mới) */
   const todayKey = dayKey();
@@ -170,7 +222,8 @@ export default function App() {
             onStartTask={(taskId, targetTab) => { markTaskDone(taskId); setTab(targetTab); }} />
         )}
         {tab === "dict" && (
-          <DictionaryScreen T={T} dark={dark} tts={tts} onBack={() => setTab("home")} />
+          <DictionaryScreen T={T} dark={dark} tts={tts} onBack={() => setTab("home")}
+            srs={state.srs} onSaveWord={saveWordToSRS} onRemoveWord={removeWordFromSRS} />
         )}
         {tab === "mistakes" && (
           <MistakeBookScreen T={T} dark={dark} tts={tts} mistakes={state.mistakes}
@@ -179,16 +232,15 @@ export default function App() {
         {tab === "vocab" && (
           <VocabScreen T={T} dark={dark} tts={tts} srs={state.srs} onGrade={gradeWord} />
         )}
-        {tab === "listen" && (
-          <ListenScreen T={T} dark={dark} tts={tts} stats={state.stats} onAnswer={onListenAnswer} />
-        )}
-        {tab === "speak" && (
-          <SpeakScreen T={T} dark={dark} tts={tts} speakScores={state.speakScores} onScore={onSpeakScore} />
-        )}
         {tab === "read" && (
           <ReadingScreen T={T} dark={dark} stats={state.stats} grammarStats={state.grammarStats}
             onAnswer={onAnswer} onGrammarAnswer={onGrammarAnswer}
-            saved={state.saved} onToggleSave={toggleSave} />
+            saved={state.saved} onToggleSave={toggleSave}
+            srs={state.srs} onSaveWord={saveWordToSRS} onRemoveWord={removeWordFromSRS}
+            tts={tts} />
+        )}
+        {tab === "listen" && (
+          <ListenScreen T={T} dark={dark} tts={tts} stats={state.stats} onAnswer={onListenAnswer} />
         )}
         {tab === "exam" && (
           <ExamScreen T={T} dark={dark} tts={tts} onTestDone={onTestDone} lastResults={state.lastResults}
@@ -204,59 +256,346 @@ export default function App() {
     </Suspense>
   );
 
+  const [collapsed, setCollapsed] = useState(false);
+
   return (
-    <div className={"min-h-screen w-full " + (dark ? "paper-grain-dark " : "paper-grain ") + T.app}>
-      {/* ===== SIDEBAR cho màn hình lớn (máy tính) ===== */}
-      <aside className={"hidden lg:flex fixed top-0 left-0 bottom-0 w-64 flex-col border-r z-30 " + T.bar + " " + T.line}>
-        <div className="px-5 pt-6 pb-5">
-          <Wordmark T={T} />
+    <div className={"min-h-screen w-full " + (dark ? "bg-[#0b0f15] text-[#f8fafc] " : "bg-[#f8fafc] text-[#0f172a] ") + T.app}>
+      {/* ===== SIDEBAR CHUẨN PARROTO (THEO TONE MÀU LOGO KMG) ===== */}
+      <aside
+        className={
+          "hidden lg:flex fixed top-0 left-0 bottom-0 flex-col border-r z-30 transition-all duration-300 " +
+          (collapsed ? "w-20 " : "w-64 ") +
+          (dark ? "bg-[#0c1017] border-[#1d2636]" : "bg-white border-gray-200")
+        }
+      >
+        {/* Logo & Brand Header */}
+        <div className={"px-4 pt-5 pb-4 border-b flex items-center justify-between " + (dark ? "border-white/5" : "border-gray-100")}>
+          <div className="flex items-center gap-3 overflow-hidden cursor-pointer" onClick={() => setTab("home")}>
+            <img
+              src="/kmg_logo.jpg"
+              alt="KMG Logo"
+              className="h-10 w-10 rounded-xl object-contain shadow-md bg-black border border-white/10 shrink-0"
+            />
+            {!collapsed && (
+              <div className="leading-tight truncate">
+                <p className="font-extrabold text-base tracking-wide text-white">KMG CLUB</p>
+                <p className="text-[10px] font-bold uppercase tracking-wider text-accent">English Training</p>
+              </div>
+            )}
+          </div>
         </div>
 
-        <nav aria-label="Điều hướng chính" className="flex-1 px-3 py-2 space-y-0.5 overflow-y-auto">
-          {TABS.map((t) => <NavRow key={t.key} t={t} active={tab === t.key} onClick={() => setTab(t.key)} T={T} />)}
-          <div className={"my-3 mx-3 border-t " + T.line} />
-          <NavRow t={{ key: "dict", label: "Tra từ điển", Icon: Search }} active={tab === "dict"} onClick={() => setTab("dict")} T={T} />
-          <NavRow t={{ key: "mistakes", label: "Sổ tay lỗi sai", Icon: NotebookPen }} active={tab === "mistakes"} onClick={() => setTab("mistakes")} T={T} badge={(state.mistakes || []).length} />
+        {/* Danh mục menu chính */}
+        <nav aria-label="Điều hướng chính" className="flex-1 px-3 py-3 space-y-1 overflow-y-auto">
+          <NavRow t={{ key: "home", label: "Trang chủ", Icon: Home }} active={tab === "home"} onClick={() => setTab("home")} T={T} collapsed={collapsed} />
+          <NavRow t={{ key: "topics", label: "Chủ đề", Icon: Layers }} active={tab === "vocab"} onClick={() => setTab("vocab")} T={T} collapsed={collapsed} />
+          <NavRow t={{ key: "listen", label: "Luyện nghe", Icon: Headphones }} active={tab === "listen"} onClick={() => setTab("listen")} T={T} collapsed={collapsed} />
+          <NavRow t={{ key: "read", label: "Đọc hiểu", Icon: FileText }} active={tab === "read"} onClick={() => setTab("read")} T={T} collapsed={collapsed} />
+          <NavRow
+            t={{ key: "vocab", label: "Từ vựng", Icon: BookOpen }}
+            active={tab === "vocab"}
+            onClick={() => setTab("vocab")}
+            T={T}
+            collapsed={collapsed}
+            badge="100"
+            badgeColor="accent"
+          />
+
+          {/* NÚT MỞ KHÓA PRO PARROTO (RED GRADIENT KMG) */}
+          <div className="pt-3 pb-2">
+            {!collapsed ? (
+              <button
+                onClick={() => setTab("exam")}
+                className="w-full py-2.5 px-3 rounded-2xl bg-gradient-to-r from-red-600 via-rose-600 to-amber-600 text-white font-bold text-xs uppercase tracking-wider shadow-lg shadow-red-600/30 flex items-center justify-center gap-2 hover:brightness-110 active:scale-95 transition-all"
+              >
+                <Crown size={16} className="text-amber-200" />
+                <span>MỞ KHÓA PRO</span>
+              </button>
+            ) : (
+              <button
+                onClick={() => setTab("exam")}
+                className="w-full h-11 rounded-2xl bg-gradient-to-r from-red-600 to-rose-600 text-white flex items-center justify-center shadow-md active:scale-95"
+                title="MỞ KHÓA PRO"
+              >
+                <Crown size={18} className="text-amber-200" />
+              </button>
+            )}
+          </div>
+
+          <div className={"my-2 border-t " + (dark ? "border-white/5" : "border-gray-100")} />
+
+          {/* Các mục bổ trợ phía dưới */}
+          <NavRow t={{ key: "saved", label: "Ghi chú của tôi", Icon: BookmarkCheck }} active={tab === "saved"} onClick={() => setTab("read")} T={T} collapsed={collapsed} />
+          <NavRow t={{ key: "dict", label: "Từ vựng của tôi", Icon: Sparkles }} active={tab === "dict"} onClick={() => setTab("dict")} T={T} collapsed={collapsed} />
+          <NavRow t={{ key: "mistakes", label: "Sổ tay lỗi sai", Icon: NotebookPen }} active={tab === "mistakes"} onClick={() => setTab("mistakes")} T={T} collapsed={collapsed} badge={(state.mistakes || []).length || null} badgeColor="amber" />
+          <NavRow t={{ key: "logout", label: "Đăng xuất", Icon: LogOut }} active={false} onClick={() => setState(store.reset())} T={T} collapsed={collapsed} isDanger={true} />
         </nav>
 
-        <div className={"px-4 py-4 border-t " + T.line + " flex items-center justify-between"}>
-          <StreakChip streak={streak} T={T} />
-          <ThemeToggle dark={dark} onToggle={toggleDark} T={T} />
+        {/* User Profile Card ở chân Sidebar */}
+        <div className={"p-3 border-t " + (dark ? "border-white/5 bg-[#0a0d14]" : "border-gray-100 bg-gray-50")}>
+          <div className="flex items-center justify-between gap-2">
+            <div className="flex items-center gap-2.5 min-w-0">
+              <div className="relative shrink-0">
+                <img
+                  src="/kmg_logo.jpg"
+                  alt="Avatar"
+                  className="h-9 w-9 rounded-full object-cover ring-2 ring-accent"
+                />
+                <span className="absolute -bottom-1 -right-1 text-[8px] font-black bg-accent text-white rounded-full px-1 py-0.2 leading-none">
+                  Lv.2
+                </span>
+              </div>
+              {!collapsed && (
+                <div className="min-w-0 leading-tight">
+                  <p className="text-xs font-bold truncate">Vũ Trần Đình</p>
+                  <p className={"text-[10px] " + T.sub}>Hồ sơ học viên</p>
+                </div>
+              )}
+            </div>
+            {!collapsed && (
+              <button
+                onClick={() => setTab("progress")}
+                aria-label="Cài đặt"
+                className={"p-1.5 rounded-lg hover:bg-white/10 transition-colors " + T.sub}
+              >
+                <Settings size={15} />
+              </button>
+            )}
+          </div>
+
+          {/* Nút thu gọn / mở rộng Sidebar */}
+          <button
+            onClick={() => setCollapsed(!collapsed)}
+            className={"w-full mt-2.5 py-1 text-[11px] font-semibold flex items-center justify-center gap-1 opacity-70 hover:opacity-100 transition-opacity " + T.sub}
+          >
+            {collapsed ? <ChevronRight size={14} /> : <ChevronLeft size={14} />}
+            <span>{!collapsed && "Thu gọn"}</span>
+          </button>
         </div>
       </aside>
 
-      {/* ===== HEADER cho điện thoại (ẩn trên máy tính) ===== */}
-      <header className={"lg:hidden sticky top-0 z-20 border-b backdrop-blur-2xl " + T.app + " " + T.line}
-        style={{ background: dark ? "rgba(5, 5, 5, 0.75)" : "rgba(248, 250, 252, 0.85)" }}>
+      {/* ===== HEADER DÀNH CHO ĐIỆN THOẠI ===== */}
+      <header
+        className={"lg:hidden sticky top-0 z-20 border-b backdrop-blur-2xl " + (dark ? "bg-[#0b0f15]/90 border-white/10" : "bg-white/90 border-gray-200")}
+      >
         <div className="mx-auto w-full max-w-2xl px-4 py-3 flex items-center justify-between">
-          <Wordmark T={T} compact />
+          <div className="flex items-center gap-2.5 cursor-pointer" onClick={() => setTab("home")}>
+            <img src="/kmg_logo.jpg" alt="Logo" className="h-8 w-8 rounded-lg object-contain bg-black border border-white/10" />
+            <span className="font-extrabold text-sm tracking-wide">KMG TOEIC</span>
+          </div>
           <div className="flex items-center gap-2">
-            <StreakChip streak={streak} T={T} compact />
+            <div className={"flex items-center gap-1 px-2.5 py-1 rounded-full text-xs font-bold " + T.soft}>
+              <Flame size={14} className="text-amber-500" />
+              <span>{streak}</span>
+            </div>
             <ThemeToggle dark={dark} onToggle={toggleDark} T={T} />
           </div>
         </div>
       </header>
 
-      {/* ===== NỘI DUNG: hẹp trên điện thoại, rộng và lệch phải trên máy tính ===== */}
-      <div className="lg:pl-64">
-        <div className="mx-auto w-full max-w-2xl lg:max-w-4xl px-0 lg:px-10 pb-28 lg:pb-12 lg:pt-6">
+      {/* ===== VÙNG NỘI DUNG CHÍNH (CÓ TOP BAR CHUẨN PARROTO) ===== */}
+      <div className={"transition-all duration-300 " + (collapsed ? "lg:pl-20" : "lg:pl-64")}>
+        {/* BANNER THÔNG BÁO PARROTO (TÔNG MÀU ĐỎ KMG) */}
+        {showPromoBanner && (
+          <div
+            className={
+              "border-b px-4 sm:px-6 py-2 flex items-center justify-between text-xs transition-all " +
+              (dark
+                ? "bg-gradient-to-r from-red-950/70 via-[#150a0e] to-[#0c1017] border-red-500/20 text-white"
+                : "bg-gradient-to-r from-red-50 via-rose-50 to-white border-red-200 text-gray-800")
+            }
+          >
+            <div className="flex items-center gap-2.5 min-w-0">
+              <img
+                src="/kmg_logo.jpg"
+                alt="KMG"
+                className="h-6 w-6 rounded-lg object-contain bg-black border border-white/10 shrink-0"
+              />
+              <p className="font-medium truncate">
+                <span className="font-extrabold text-accent">KMG TOEIC:</span> Ôn luyện chuyên sâu 4.500 từ vựng và bài đọc hiểu Part 5, 6, 7
+              </p>
+            </div>
+
+            <div className="flex items-center gap-2 shrink-0">
+              <button
+                onClick={() => setTab("vocab")}
+                className="px-3 py-1 rounded-full bg-accent text-white font-bold text-[11px] shadow-sm hover:brightness-110 active:scale-95 transition-all"
+              >
+                Học từ vựng
+              </button>
+              <button
+                onClick={() => setTab("read")}
+                className={
+                  "hidden md:inline-flex px-3 py-1 rounded-full font-bold text-[11px] border transition-all " +
+                  (dark ? "bg-white/10 border-white/15 text-white hover:bg-white/20" : "bg-gray-100 border-gray-300 text-gray-800")
+                }
+              >
+                Đọc hiểu Part 7
+              </button>
+              <button
+                onClick={() => setShowPromoBanner(false)}
+                className={"p-1 rounded-full opacity-60 hover:opacity-100 transition-opacity ml-1 " + T.sub}
+                aria-label="Đóng thông báo"
+              >
+                <X size={15} />
+              </button>
+            </div>
+          </div>
+        )}
+
+        {/* PARROTO TOP BAR TRÊN DESKTOP */}
+        <header
+          className={
+            "hidden lg:flex sticky top-0 z-20 h-16 items-center justify-between px-6 sm:px-8 border-b backdrop-blur-xl " +
+            (dark ? "bg-[#0b0f15]/85 border-[#1d2636]" : "bg-white/85 border-gray-200")
+          }
+        >
+          {/* Vùng bên trái: Ô tìm kiếm + Link cộng đồng */}
+          <div className="flex items-center gap-3">
+            <button
+              onClick={() => setTab("dict")}
+              style={{ minHeight: 38 }}
+              className={
+                "flex items-center gap-2.5 px-4 rounded-full border text-xs font-semibold transition-all " +
+                (dark
+                  ? "bg-[#141923] hover:bg-[#1a212f] border-[#222b3d] text-gray-300"
+                  : "bg-gray-100 hover:bg-gray-200 border-gray-200 text-gray-700")
+              }
+            >
+              <Search size={14} className={T.sub} />
+              <span>Tra từ điển</span>
+            </button>
+
+            <a
+              href="https://facebook.com"
+              target="_blank"
+              rel="noreferrer"
+              style={{ minHeight: 38 }}
+              className="flex items-center gap-1.5 px-3.5 rounded-full bg-[#1877f2]/15 text-[#1877f2] hover:bg-[#1877f2]/25 border border-[#1877f2]/30 text-xs font-bold transition-all"
+            >
+              <span className="font-black text-sm leading-none">f</span>
+              <span>Facebook Community</span>
+            </a>
+          </div>
+
+          {/* Vùng bên phải: Cài đặt, Dark mode, Cờ ngôn ngữ, Chuông, Kim cương, Mục tiêu, PRO, Lửa streak */}
+          <div className="flex items-center gap-2.5">
+            <button
+              onClick={() => setTab("progress")}
+              aria-label="Cài đặt"
+              className={"p-2 rounded-full transition-colors " + T.soft + " " + T.sub}
+            >
+              <Settings size={16} />
+            </button>
+
+            <ThemeToggle dark={dark} onToggle={toggleDark} T={T} />
+
+            {/* Ngôn ngữ */}
+            <div className={"flex items-center gap-1.5 px-2.5 py-1.5 rounded-full text-xs font-bold border " + T.soft + " " + T.line}>
+              <span>🇻🇳</span>
+              <span className="hidden xl:inline text-[11px]">Tiếng Việt</span>
+            </div>
+
+            {/* Chuông thông báo */}
+            <button
+              aria-label="Thông báo"
+              className={"relative p-2 rounded-full transition-colors " + T.soft + " " + T.sub}
+            >
+              <Bell size={16} />
+              <span className="absolute top-1.5 right-1.5 h-2 w-2 rounded-full bg-accent ring-2 ring-[#0b0f15]" />
+            </button>
+
+            {/* Kim cương (Diamonds) */}
+            <div className="flex items-center gap-1 px-3 py-1.5 rounded-full text-xs font-black bg-sky-500/15 text-sky-400 border border-sky-500/30">
+              <Gem size={14} />
+              <span className="tnum">268</span>
+            </div>
+
+            {/* Mục tiêu ngày (Coins / Target) */}
+            <div className="flex items-center gap-1 px-3 py-1.5 rounded-full text-xs font-black bg-amber-500/15 text-amber-400 border border-amber-500/30">
+              <Target size={14} />
+              <span className="tnum">0/3</span>
+            </div>
+
+            {/* Badge PRO (KMG Red / Crimson Gradient) */}
+            <button
+              onClick={() => setTab("exam")}
+              className="flex items-center gap-1 px-3 py-1.5 rounded-full text-xs font-black bg-gradient-to-r from-red-600 via-rose-600 to-amber-600 text-white shadow-md shadow-red-600/30 active:scale-95 transition-all"
+            >
+              <Crown size={13} className="text-amber-200" />
+              <span>PRO</span>
+            </button>
+
+            {/* Lửa Streak */}
+            <div className="flex items-center gap-1 px-3 py-1.5 rounded-full text-xs font-black bg-orange-500/15 text-orange-400 border border-orange-500/30">
+              <Flame size={15} />
+              <span className="tnum">{streak}</span>
+            </div>
+          </div>
+        </header>
+
+        {/* Nội dung từng màn hình */}
+        <div className="mx-auto w-full max-w-7xl px-3 sm:px-6 lg:px-8 pb-28 lg:pb-12 pt-4">
           {content}
         </div>
       </div>
 
-      {/* ===== BOTTOM NAV cho điện thoại (Glassmorphism Floating Bar) ===== */}
-      <nav aria-label="Điều hướng chính" className="lg:hidden fixed bottom-0 left-0 right-0 z-20 px-4"
-        style={{ paddingBottom: "calc(env(safe-area-inset-bottom) + 16px)", paddingTop: 8 }}>
-        <div className={"mx-auto max-w-[360px] rounded-[24px] grid grid-cols-6 p-1.5 backdrop-blur-xl border shadow-xl " + (dark ? "bg-white/5 border-white/10" : "bg-white/80 border-gray-200")}
-          style={{ boxShadow: dark ? "0 10px 40px rgba(0,0,0,0.8)" : "0 10px 30px rgba(0,0,0,0.1)" }}>
-          {TABS.map((t) => {
+      {/* ===== BOTTOM NAV CHO ĐIỆN THOẠI (FLOATING BAR) ===== */}
+      <nav aria-label="Điều hướng di động" className="lg:hidden fixed bottom-0 left-0 right-0 z-20 px-4"
+        style={{ paddingBottom: "calc(env(safe-area-inset-bottom) + 16px)", paddingTop: 8 }}
+      >
+        <div
+          className={
+            "mx-auto max-w-[380px] rounded-[24px] grid grid-cols-5 p-1.5 backdrop-blur-xl border shadow-xl " +
+            (dark ? "bg-[#0c1017]/95 border-white/10" : "bg-white/90 border-gray-200")
+          }
+          style={{ boxShadow: dark ? "0 10px 40px rgba(0,0,0,0.8)" : "0 10px 30px rgba(0,0,0,0.1)" }}
+        >
+          {[
+            { key: "home", label: "Trang chủ", Icon: Home },
+            { key: "vocab", label: "Từ vựng", Icon: BookOpen, badge: "100" },
+            { key: "read", label: "Đọc hiểu", Icon: FileText },
+            { key: "dict", label: "Tra từ", Icon: Search },
+            { key: "mistakes", label: "Sổ lỗi", Icon: NotebookPen, badge: (state.mistakes || []).length || null },
+          ].map((t) => {
             const active = tab === t.key;
             const Icon = t.Icon;
             return (
-              <button key={t.key} onClick={() => setTab(t.key)} aria-current={active ? "page" : undefined} aria-label={t.label} style={{ minHeight: 56 }}
-                className={"relative flex flex-col items-center justify-center gap-1 py-1 px-1 rounded-[20px] transition-all " + (active ? (dark ? "bg-white/15 drop-shadow-[0_0_10px_rgba(255,255,255,0.1)]" : "bg-black text-white") : "hover:bg-white/5")}>
-                <Icon size={24} className={active ? (dark ? T.accentText : "text-white") : T.sub} strokeWidth={active ? 2.5 : 2} />
-                <span className={"text-[9px] font-display mt-0.5 leading-none " + (active ? (dark ? T.accentText : "text-white") : T.sub)}>{t.label}</span>
+              <button
+                key={t.key}
+                onClick={() => setTab(t.key)}
+                aria-current={active ? "page" : undefined}
+                aria-label={t.label}
+                style={{ minHeight: 52 }}
+                className={
+                  "relative flex flex-col items-center justify-center gap-1 py-1 px-1 rounded-[18px] transition-all " +
+                  (active
+                    ? dark
+                      ? "bg-white/15 drop-shadow-[0_0_10px_rgba(255,255,255,0.1)] text-accent"
+                      : "bg-black text-white"
+                    : "hover:bg-white/5")
+                }
+              >
+                <div className="relative">
+                  <Icon
+                    size={22}
+                    className={active ? (dark ? T.accentText : "text-white") : T.sub}
+                    strokeWidth={active ? 2.5 : 2}
+                  />
+                  {t.badge && (
+                    <span className="absolute -top-1 -right-2 text-[9px] font-bold rounded-full h-3.5 min-w-[14px] px-1 flex items-center justify-center bg-accent text-white leading-none">
+                      {t.badge}
+                    </span>
+                  )}
+                </div>
+                <span
+                  className={
+                    "text-[10px] font-semibold mt-0.5 leading-none " +
+                    (active ? (dark ? T.accentText : "text-white") : T.sub)
+                  }
+                >
+                  {t.label}
+                </span>
               </button>
             );
           })}
@@ -266,33 +605,62 @@ export default function App() {
   );
 }
 
-/* Chữ hiệu (wordmark): Tùy biến KMG Club Logo chuẩn Premium */
+/* Chữ hiệu (wordmark): Hiện đại, chuẩn trọng tâm Từ vựng & Đọc hiểu */
 function Wordmark({ T, compact }) {
   return (
     <div className="flex items-center gap-3">
-      <img src="/kmg_logo.jpg" alt="KMG Club" className="rounded-xl object-contain shadow-lg bg-black"
-        style={{ width: compact ? 42 : 54, height: compact ? 42 : 54, border: "1px solid rgba(255,255,255,0.1)" }} />
-      <div className="leading-tight">
-        <p className={"font-display tracking-wide " + (compact ? "text-[18px]" : "text-[22px]")}>KMG CLUB</p>
-        <p className={"text-[11px] font-bold uppercase tracking-widest " + T.sub}>English Training</p>
+      <div className="h-10 w-10 sm:h-11 sm:w-11 rounded-2xl bg-gradient-to-tr from-accent to-red-600 flex items-center justify-center text-white font-bold shadow-lg shadow-accent/25 shrink-0">
+        <BookOpen size={20} />
+      </div>
+      <div className="leading-tight min-w-0">
+        <p className={"font-display tracking-wider font-bold " + (compact ? "text-base" : "text-lg")}>
+          TOEIC MASTER
+        </p>
+        <p className={"text-[10px] font-bold uppercase tracking-widest text-accent"}>
+          Vocab & Reading Hub
+        </p>
       </div>
     </div>
   );
 }
 
-/* Một dòng điều hướng trong sidebar: gạch nhấn bên trái khi đang mở,
-   thay cho khối gradient tô kín. */
-function NavRow({ t, active, onClick, T, badge }) {
+/* Một dòng điều hướng trong sidebar */
+function NavRow({ t, active, onClick, T, badge, badgeColor, isDanger }) {
   const Icon = t.Icon;
+  const badgeCls =
+    badgeColor === "accent"
+      ? "bg-accent text-white"
+      : badgeColor === "amber"
+      ? "bg-amber-500 text-white"
+      : T.soft + " " + T.sub;
+
   return (
-    <button onClick={onClick} aria-current={active ? "page" : undefined} style={{ minHeight: 46 }}
-      className={"relative w-full flex items-center gap-3 rounded-lg pl-4 pr-3 text-left transition-colors " +
-        (active ? T.soft + " " + T.accentText : T.softText + " hover:" + T.soft)}>
-      {active && <span className="absolute left-0 top-1/2 -translate-y-1/2 h-5 w-1 rounded-full" style={{ background: "var(--accent)" }} />}
-      <Icon size={19} strokeWidth={active ? 2.3 : 1.8} />
-      <span className="text-[15px] font-semibold flex-1">{t.label}</span>
-      {badge > 0 && (
-        <span className="text-[11px] font-bold tnum rounded-full px-1.5 py-0.5 text-white" style={{ background: "var(--amber)" }}>{badge}</span>
+    <button
+      onClick={onClick}
+      aria-current={active ? "page" : undefined}
+      style={{ minHeight: 44 }}
+      className={
+        "relative w-full flex items-center gap-3 rounded-xl px-3.5 text-left transition-all " +
+        (active
+          ? "bg-accent/15 text-accent font-bold shadow-sm"
+          : isDanger
+          ? "text-red-500 hover:text-red-400 hover:bg-red-500/10 font-medium"
+          : T.softText + " hover:" + T.soft + " font-medium")
+      }
+    >
+      {active && (
+        <span className="absolute left-0 top-1/2 -translate-y-1/2 h-5 w-1 rounded-r-full bg-accent" />
+      )}
+      <Icon
+        size={18}
+        strokeWidth={active ? 2.4 : 1.8}
+        className={active ? "text-accent" : isDanger ? "text-red-500" : T.sub}
+      />
+      <span className="text-[14px] flex-1 truncate">{t.label}</span>
+      {badge && (
+        <span className={"text-[11px] font-bold tnum rounded-full px-2 py-0.5 " + badgeCls}>
+          {badge}
+        </span>
       )}
     </button>
   );

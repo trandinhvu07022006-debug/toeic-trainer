@@ -24,12 +24,12 @@ const newVocabTopics = vocabV2.lessons.map(lesson => {
         id: w.word_id,
         topic: lesson.title,
         w: w.word,
-        ipa: "", // Add IPA if available later
+        ipa: w.ipa || `/${w.word.toLowerCase()}/`,
         pos: pos,
-        vi: w.vietnamese_meaning,
-        ex: w.examples && w.examples.length > 0 ? w.examples[0] : "",
-        exVi: w.definition,
-        col: w.word_family ? w.word_family.map(f => f.word) : []
+        vi: w.vietnamese_meaning || w.definition,
+        ex: w.examples && w.examples.length > 0 ? w.examples[0] : `Example sentence with ${w.word}.`,
+        exVi: w.definition || w.vietnamese_meaning,
+        col: w.word_family && w.word_family.length > 0 ? w.word_family.map(f => f.word) : [w.word]
       };
     })
   };
