@@ -58,7 +58,7 @@ export default function App() {
   const T = useMemo(() => theme(dark), [dark]);
   const tts = useTTS();
 
-  const [tab, setTab] = useState("home");
+  const [tab, setTab] = useState("vocab"); // Mặc định mở thẳng phân hệ Từ vựng (Giao diện 2 cột Parroto)
   const [showPromoBanner, setShowPromoBanner] = useState(true);
   const [state, setState] = useState(() => store.load());
   const first = useRef(true);
