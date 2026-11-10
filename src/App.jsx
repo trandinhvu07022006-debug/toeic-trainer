@@ -26,6 +26,7 @@ import {
   Sparkles,
   X,
   PenTool,
+  CheckCircle2,
 } from "lucide-react";
 
 import { useDarkMode, theme } from "./ui/theme.js";
@@ -33,6 +34,7 @@ import { useTTS } from "./lib/tts.js";
 import * as store from "./lib/storage.js";
 import { review, dayKey, streakOf } from "./lib/srs.js";
 import { HomeScreen } from "./features/Home.jsx";
+import { ProModal } from "./ui/ProModal.jsx";
 
 /* Lazy-load từng màn: mỗi tab thành một chunk riêng, chỉ tải khi mở.
    Trang đầu nhờ vậy nhẹ hơn nhiều khi đưa lên web. */
@@ -61,6 +63,7 @@ export default function App() {
 
   const [tab, setTab] = useState("vocab"); // Mặc định mở thẳng phân hệ Từ vựng (Giao diện 2 cột Parroto)
   const [showPromoBanner, setShowPromoBanner] = useState(true);
+  const [showProModal, setShowProModal] = useState(false);
   const [state, setState] = useState(() => store.load());
   const first = useRef(true);
 
@@ -322,7 +325,7 @@ export default function App() {
           <div className="pt-3 pb-2">
             {!collapsed ? (
               <button
-                onClick={() => setTab("exam")}
+                onClick={() => setShowProModal(true)}
                 className="w-full py-2.5 px-3 rounded-2xl bg-gradient-to-r from-red-600 via-rose-600 to-amber-600 text-white font-bold text-xs uppercase tracking-wider shadow-lg shadow-red-600/30 flex items-center justify-center gap-2 hover:brightness-110 active:scale-95 transition-all"
               >
                 <Crown size={16} className="text-amber-200" />
@@ -330,7 +333,7 @@ export default function App() {
               </button>
             ) : (
               <button
-                onClick={() => setTab("exam")}
+                onClick={() => setShowProModal(true)}
                 className="w-full h-11 rounded-2xl bg-gradient-to-r from-red-600 to-rose-600 text-white flex items-center justify-center shadow-md active:scale-95"
                 title="MỞ KHÓA PRO"
               >
@@ -383,10 +386,10 @@ export default function App() {
           {/* Nút thu gọn / mở rộng Sidebar */}
           <button
             onClick={() => setCollapsed(!collapsed)}
+            aria-label={collapsed ? "Mở rộng thanh điều hướng" : "Thu gọn thanh điều hướng"}
             className={"w-full mt-2.5 py-1 text-[11px] font-semibold flex items-center justify-center gap-1 opacity-70 hover:opacity-100 transition-opacity " + T.sub}
           >
-            {collapsed ? <ChevronRight size={14} /> : <ChevronLeft size={14} />}
-            <span>{!collapsed && "Thu gọn"}</span>
+            <span>{collapsed ? "» Mở rộng" : "« Thu gọn"}</span>
           </button>
         </div>
       </aside>
@@ -542,7 +545,8 @@ export default function App() {
 
             {/* Badge PRO (KMG Red / Crimson Gradient) */}
             <button
-              onClick={() => setTab("exam")}
+              onClick={() => setShowProModal(true)}
+              aria-label="Mở khóa KMG Pro"
               className="flex items-center gap-1 px-3 py-1.5 rounded-full text-xs font-black bg-gradient-to-r from-red-600 via-rose-600 to-amber-600 text-white shadow-md shadow-red-600/30 active:scale-95 transition-all"
             >
               <Crown size={13} className="text-amber-200" />
@@ -624,6 +628,11 @@ export default function App() {
           })}
         </div>
       </nav>
+
+      {/* Modal Mở Khóa KMG PRO */}
+      {showProModal && (
+        <ProModal onClose={() => setShowProModal(false)} dark={dark} T={T} />
+      )}
     </div>
   );
 }

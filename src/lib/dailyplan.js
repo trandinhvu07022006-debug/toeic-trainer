@@ -14,15 +14,15 @@ import { pct } from "./scoring.js";
 /* Mục tiêu mặc định mỗi ngày */
 export const DAILY_VOCAB_GOAL = 15;
 
-/* Các dạng bài luân phiên theo ngày, để buổi học không nhàm và phủ đều kỹ năng */
+/* Các dạng bài luân phiên theo ngày cho 3 TRỤ CỘT: TỪ VỰNG - TẬP VIẾT - TẬP ĐỌC */
 const ROTATION = [
-  { tab: "listen", label: "Luyện nghe Part 2", desc: "Hỏi – đáp ngắn, rèn phản xạ", icon: "headphones" },
-  { tab: "read", label: "Ngữ pháp Part 5", desc: "Chọn từ đúng điền vào câu", icon: "file" },
-  { tab: "listen", label: "Luyện nghe Part 3", desc: "Hội thoại có phụ đề", icon: "headphones" },
-  { tab: "read", label: "Đọc hiểu Part 7", desc: "Đoạn văn và câu hỏi", icon: "file" },
-  { tab: "speak", label: "Luyện nói", desc: "Trả lời theo mẫu, tự chấm", icon: "mic" },
-  { tab: "listen", label: "Luyện nghe Part 4", desc: "Bài nói ngắn có phụ đề", icon: "headphones" },
-  { tab: "read", label: "Đọc hiểu Part 6", desc: "Điền vào đoạn văn", icon: "file" },
+  { tab: "write", label: "Luyện viết: Gõ chính tả", desc: "Gõ từ theo nghĩa tiếng Việt, rèn cơ bắp", icon: "pencil" },
+  { tab: "read", label: "Đọc hiểu: Ngữ pháp Part 5", desc: "Chọn từ đúng điền vào câu", icon: "file" },
+  { tab: "write", label: "Luyện viết: Điền từ vào câu", desc: "Phương pháp Cloze Deletion ngữ cảnh", icon: "pencil" },
+  { tab: "read", label: "Đọc hiểu: Part 7 Split-View", desc: "Đoạn văn và câu hỏi phân loại", icon: "file" },
+  { tab: "write", label: "Luyện viết: Ghép câu", desc: "Sắp xếp từ thành câu chuẩn ngữ pháp", icon: "pencil" },
+  { tab: "read", label: "Đọc hiểu: Part 6 Điền đoạn", desc: "Điền từ vào đoạn văn công sở", icon: "file" },
+  { tab: "vocab", label: "Từ vựng: Học theo chủ đề", desc: "Luyện thẻ ghi nhớ và trắc nghiệm đảo", icon: "book" },
 ];
 
 /* Số thứ tự ngày trong năm — để chọn dạng bài luân phiên ổn định trong cùng một ngày */
@@ -34,19 +34,14 @@ function dayIndex(dateStr) {
   return (y * 372 + m * 31 + d) % ROTATION.length;
 }
 
-/* Tìm phần (Part) yếu nhất đã có đủ dữ liệu, để ưu tiên ôn */
+/* Tìm phần (Part) yếu nhất đã có đủ dữ liệu, ưu tiên phần Đọc hiểu Part 5, 6, 7 */
 function weakestPart(stats) {
+  if (!stats || !stats.reading) return null;
   const entries = [];
-  const nameLC = { 1: "Nghe · Part 1", 2: "Nghe · Part 2", 3: "Nghe · Part 3", 4: "Nghe · Part 4" };
   const nameRC = { 5: "Đọc · Part 5", 6: "Đọc · Part 6", 7: "Đọc · Part 7" };
-  const tabOf = { 1: "listen", 2: "listen", 3: "listen", 4: "listen", 5: "read", 6: "read", 7: "read" };
-  for (const p of [1, 2, 3, 4]) {
-    const s = stats.listening[p];
-    if (s && s.t >= 5) entries.push({ part: p, name: nameLC[p], tab: tabOf[p], acc: pct(s.c, s.t) });
-  }
   for (const p of [5, 6, 7]) {
     const s = stats.reading[p];
-    if (s && s.t >= 5) entries.push({ part: p, name: nameRC[p], tab: tabOf[p], acc: pct(s.c, s.t) });
+    if (s && s.t >= 5) entries.push({ part: p, name: nameRC[p], tab: "read", acc: pct(s.c, s.t) });
   }
   if (!entries.length) return null;
   entries.sort((a, b) => a.acc - b.acc);

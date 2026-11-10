@@ -121,18 +121,9 @@ export function HomeScreen({
       action: "Ôn lỗi sai",
     },
     {
-      key: "exam",
-      label: "Thi Thử Giả Lập",
-      desc: "Luyện đề bấm giờ theo format đề thi thật (Mini test, Nửa đề, Đề chuẩn)",
-      tag: "Bấm giờ",
-      tagColor: "neutral",
-      Icon: Clock,
-      action: "Làm đề thi",
-    },
-    {
       key: "progress",
       label: "Báo Cáo Năng Lực",
-      desc: "Theo dõi chuỗi ngày học, điểm thi thử và độ thành thạo từng Part",
+      desc: "Theo dõi chuỗi ngày học và mức độ thành thạo Từ vựng, Tập viết, Đọc hiểu",
       tag: `${streak} ngày liên tục`,
       tagColor: "neutral",
       Icon: BarChart3,
@@ -383,6 +374,8 @@ export function HomeScreen({
               >
                 {task.icon === "book" ? (
                   <BookOpen size={22} />
+                ) : task.icon === "pencil" ? (
+                  <PenTool size={22} />
                 ) : (
                   <FileText size={22} />
                 )}
@@ -461,12 +454,12 @@ export function HomeScreen({
           {
             phase: "Phase 4",
             target: "Target 650+",
-            title: "Luyện Đề Thi Thật",
-            desc: "Giải đề Full 200 câu TOEIC New Format bấm giờ thực chiến, xem giải thích chi tiết.",
-            tag: "Full Test New Format",
+            title: "Làm Chủ Viết & Đọc Hiểu",
+            desc: "Hoàn thiện kỹ năng viết câu thương mại và chinh phục các bài đọc Part 7 độ khó cao.",
+            tag: "Viết & Đọc Nâng Cao",
             tagColor: "border-emerald-500/30 text-emerald-400 bg-emerald-500/10",
-            action: () => onGo("exam"),
-            btnText: "Làm đề thi",
+            action: () => onGo("write"),
+            btnText: "Luyện Tập Viết",
           },
         ].map((p, idx) => (
           <div

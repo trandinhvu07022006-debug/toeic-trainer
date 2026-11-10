@@ -740,3 +740,4 @@ export function WritingScreen({ T, dark, tts, srs = {}, onSaveWord }) {
     </div>
   );
 }
+
