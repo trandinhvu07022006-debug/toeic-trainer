@@ -455,7 +455,6 @@ export default function App() {
               >
                 📑 Tập đọc
               </button>
-              </button>
               <button
                 onClick={() => setShowPromoBanner(false)}
                 className={"p-1 rounded-full opacity-60 hover:opacity-100 transition-opacity ml-1 " + T.sub}
