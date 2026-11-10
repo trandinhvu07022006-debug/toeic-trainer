@@ -46,7 +46,7 @@ export function MistakeBookScreen({ T, dark, tts, mistakes, onClear, onBack }) {
         <div className={"rounded-2xl border p-8 text-center " + T.card + " " + T.line}>
           <NotebookPen size={32} className={"mx-auto mb-3 " + T.sub} />
           <p className="font-semibold mb-1">Chưa có câu nào sai</p>
-          <p className={"text-sm " + T.sub}>Khi bạn làm sai một câu ở phần Nghe, Đọc hay Ngữ pháp, câu đó sẽ tự được lưu vào đây để ôn lại.</p>
+          <p className={"text-sm " + T.sub}>Khi bạn làm sai một câu ở phần Đọc hiểu (Part 5, 6, 7) hay Ngữ pháp, câu đó sẽ tự được lưu vào đây để ôn lại.</p>
         </div>
       </div>
     );
