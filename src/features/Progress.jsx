@@ -84,7 +84,7 @@ export function ProgressScreen({
   }
 
   if (learned < 15) {
-    tips.push("Mục tiêu từ vựng: Duy trì 15–20 từ mỗi ngày trên giao diện 2 cột Parroto để tích lũy đủ 4.568 từ.");
+    tips.push("Mục tiêu từ vựng: Duy trì 15–20 từ mỗi ngày trên phân hệ Từ vựng KMG Club để tích lũy đủ 4.568 từ.");
   } else if (dueToday > 5) {
     tips.push(`Hôm nay có ${dueToday} thẻ từ vựng đến hạn ôn tập — hãy duyệt lại để chuyển từ sang Hộp ghi nhớ lâu dài.`);
   }

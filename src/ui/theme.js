@@ -1,7 +1,7 @@
 import { useState, useEffect, useCallback } from "react";
 
 /* Chế độ nền sáng/tối.
-   Hướng thiết kế Parroto/Spotify: Dark-first (Mặc định là Tối) */
+   Hướng thiết kế KMG Club: Dark-first (Mặc định là Tối) */
 export function useDarkMode() {
   const [dark, setDark] = useState(() => {
     try {
@@ -30,7 +30,7 @@ export function usePrefersDark() {
 }
 
 /* ============================================================
-   Bảng màu "Spotify x Parroto" Neon Dark Mode.
+   Bảng màu KMG CLUB Neon Dark Mode.
    Tập trung vào Chiều sâu không gian (Space Dark), Dạ quang (Neon), và Kính mờ (Glassmorphism).
    ============================================================ */
 export function theme(d) {

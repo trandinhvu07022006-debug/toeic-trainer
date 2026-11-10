@@ -61,7 +61,7 @@ export default function App() {
   const T = useMemo(() => theme(dark), [dark]);
   const tts = useTTS();
 
-  const [tab, setTab] = useState("vocab"); // Mặc định mở thẳng phân hệ Từ vựng (Giao diện 2 cột Parroto)
+  const [tab, setTab] = useState("vocab"); // Mặc định mở thẳng phân hệ Từ vựng KMG Club
   const [showPromoBanner, setShowPromoBanner] = useState(true);
   const [showProModal, setShowProModal] = useState(false);
   const [state, setState] = useState(() => store.load());
@@ -267,7 +267,7 @@ export default function App() {
 
   return (
     <div className={"min-h-screen w-full " + (dark ? "bg-[#0b0f15] text-[#f8fafc] " : "bg-[#f8fafc] text-[#0f172a] ") + T.app}>
-      {/* ===== SIDEBAR CHUẨN PARROTO (THEO TONE MÀU LOGO KMG) ===== */}
+      {/* ===== SIDEBAR KMG CLUB (THEO TONE MÀU LOGO KMG) ===== */}
       <aside
         className={
           "hidden lg:flex fixed top-0 left-0 bottom-0 flex-col border-r z-30 transition-all duration-300 " +
@@ -321,7 +321,7 @@ export default function App() {
             collapsed={collapsed}
           />
 
-          {/* NÚT MỞ KHÓA PRO PARROTO (RED GRADIENT KMG) */}
+          {/* NÚT MỞ KHÓA KMG PRO (RED GRADIENT KMG) */}
           <div className="pt-3 pb-2">
             {!collapsed ? (
               <button
@@ -368,7 +368,7 @@ export default function App() {
               {!collapsed && (
                 <div className="min-w-0 leading-tight">
                   <p className="text-xs font-bold truncate">Vũ Trần Đình</p>
-                  <p className={"text-[10px] " + T.sub}>Hồ sơ học viên</p>
+                  <p className={"text-[10px] " + T.sub}>Học viên KMG Club</p>
                 </div>
               )}
             </div>
@@ -413,9 +413,9 @@ export default function App() {
         </div>
       </header>
 
-      {/* ===== VÙNG NỘI DUNG CHÍNH (CÓ TOP BAR CHUẨN PARROTO) ===== */}
+      {/* ===== VÙNG NỘI DUNG CHÍNH (GIAO DIỆN KMG CLUB) ===== */}
       <div className={"transition-all duration-300 " + (collapsed ? "lg:pl-20" : "lg:pl-64")}>
-        {/* BANNER THÔNG BÁO PARROTO (TÔNG MÀU ĐỎ KMG) */}
+        {/* BANNER THÔNG BÁO KMG CLUB (TÔNG MÀU ĐỎ KMG) */}
         {showPromoBanner && (
           <div
             className={
@@ -432,7 +432,7 @@ export default function App() {
                 className="h-6 w-6 rounded-lg object-contain bg-black border border-white/10 shrink-0"
               />
               <p className="font-medium truncate">
-                <span className="font-extrabold text-accent">KMG TOEIC:</span> Ôn luyện chuyên sâu 4.500 từ vựng và bài đọc hiểu Part 5, 6, 7
+                <span className="font-extrabold text-accent">KMG CLUB:</span> Nền tảng chuyên biệt Từ Vựng · Luyện Viết · Đọc Hiểu cho học viên Vũ Trần Đình
               </p>
             </div>
 
@@ -469,14 +469,14 @@ export default function App() {
           </div>
         )}
 
-        {/* PARROTO TOP BAR TRÊN DESKTOP */}
+        {/* KMG CLUB TOP BAR TRÊN DESKTOP */}
         <header
           className={
             "hidden lg:flex sticky top-0 z-20 h-16 items-center justify-between px-6 sm:px-8 border-b backdrop-blur-xl " +
             (dark ? "bg-[#0b0f15]/85 border-[#1d2636]" : "bg-white/85 border-gray-200")
           }
         >
-          {/* Vùng bên trái: Ô tìm kiếm + Link cộng đồng */}
+          {/* Vùng bên trái: Ô tìm kiếm + Link cộng đồng KMG */}
           <div className="flex items-center gap-3">
             <button
               onClick={() => setTab("dict")}
@@ -500,7 +500,7 @@ export default function App() {
               className="flex items-center gap-1.5 px-3.5 rounded-full bg-[#1877f2]/15 text-[#1877f2] hover:bg-[#1877f2]/25 border border-[#1877f2]/30 text-xs font-bold transition-all"
             >
               <span className="font-black text-sm leading-none">f</span>
-              <span>Facebook Community</span>
+              <span>Cộng đồng KMG Club</span>
             </a>
           </div>
 
@@ -637,7 +637,7 @@ export default function App() {
   );
 }
 
-/* Chữ hiệu (wordmark): Hiện đại, chuẩn trọng tâm Từ vựng & Đọc hiểu */
+/* Chữ hiệu (wordmark): Hiện đại, chuẩn trọng tâm Từ vựng, Tập viết & Đọc hiểu KMG Club */
 function Wordmark({ T, compact }) {
   return (
     <div className="flex items-center gap-3">
@@ -645,11 +645,11 @@ function Wordmark({ T, compact }) {
         <BookOpen size={20} />
       </div>
       <div className="leading-tight min-w-0">
-        <p className={"font-display tracking-wider font-bold " + (compact ? "text-base" : "text-lg")}>
-          TOEIC MASTER
+        <p className={"font-display tracking-wider font-extrabold " + (compact ? "text-base" : "text-lg")}>
+          KMG CLUB
         </p>
         <p className={"text-[10px] font-bold uppercase tracking-widest text-accent"}>
-          Vocab & Reading Hub
+          Vocab · Writing · Reading
         </p>
       </div>
     </div>

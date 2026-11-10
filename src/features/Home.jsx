@@ -435,7 +435,7 @@ export function HomeScreen({
             phase: "Phase 2",
             target: "Target 400 - 550",
             title: "Từ Vựng Thương Mại",
-            desc: "Tích lũy 50 chủ đề từ vựng TOEIC (Hợp đồng, Marketing, Tài chính) theo chuẩn Parroto.",
+            desc: "Tích lũy 50 chủ đề từ vựng TOEIC (Hợp đồng, Marketing, Tài chính) theo chuẩn KMG Club.",
             tag: "50 Chủ đề từ vựng",
             tagColor: "border-amber-500/30 text-amber-400 bg-amber-500/10",
             action: () => onGo("vocab"),

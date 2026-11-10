@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { Crown, Check, X, Sparkles, Zap, BookOpen, PenTool, FileText, ArrowRight } from "lucide-react";
-import { ParrotoMascot } from "./ParrotoMascot.jsx";
+import { KmgMascot } from "./KmgMascot.jsx";
 
 export function ProModal({ onClose, dark, T }) {
   const [selectedPlan, setSelectedPlan] = useState("6m");
@@ -48,7 +48,7 @@ export function ProModal({ onClose, dark, T }) {
     {
       Icon: BookOpen,
       color: "text-red-400 bg-red-500/10 border-red-500/20",
-      title: "Trọn bộ 4.568+ từ vựng & 64+ chủ đề Parroto",
+      title: "Trọn bộ 4.568+ từ vựng & 64+ chủ đề KMG Club",
       desc: "Học theo Spaced Repetition (SRS Leitner) kèm audio chuẩn bản ngữ và 5 chế độ tương tác.",
     },
     {
@@ -94,7 +94,7 @@ export function ProModal({ onClose, dark, T }) {
             : "bg-white border-gray-200 text-gray-900")
         }
       >
-        {/* Header với Gradient KMG Club & Linh vật Parroto */}
+        {/* Header với Gradient KMG Club & Biểu tượng Vinh danh */}
         <div className="relative p-6 sm:p-8 rounded-t-3xl overflow-hidden bg-gradient-to-br from-red-700 via-rose-700 to-red-950 text-white">
           <div className="absolute top-0 right-0 w-64 h-64 bg-amber-500/20 rounded-full blur-3xl pointer-events-none" />
           <button
@@ -107,7 +107,7 @@ export function ProModal({ onClose, dark, T }) {
 
           <div className="flex flex-col sm:flex-row items-center sm:items-start gap-5 relative z-10 text-center sm:text-left">
             <div className="shrink-0 p-2 bg-black/30 rounded-2xl border border-white/20 shadow-lg">
-              <ParrotoMascot size={80} />
+              <KmgMascot size={80} />
             </div>
             <div>
               <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-amber-400 text-black text-xs font-black uppercase tracking-wider mb-2 shadow-sm">

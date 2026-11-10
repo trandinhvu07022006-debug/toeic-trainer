@@ -521,7 +521,7 @@ export function VocabScreen({ T, dark, tts, srs, onGrade }) {
   const TOPICS = useMemo(() => VOCAB_TOPICS.map((t) => t.topic), []);
   const [deckKey, setDeckKey] = useState("__due");
   const [mode, setMode] = useState(null);
-  const [learnMode, setLearnMode] = useState("topic"); // Mặc định vào thẳng chế độ 2 cột Parroto
+  const [learnMode, setLearnMode] = useState("topic"); // Mặc định vào thẳng phân hệ Từ vựng KMG Club
 
   const parts = useMemo(() => partition(VOCAB, srs), [srs]);
   const dueList = parts.due;
@@ -557,7 +557,7 @@ export function VocabScreen({ T, dark, tts, srs, onGrade }) {
   /* Thanh chuyển đổi giữa hai chế độ học (KMG Club Red Theme Toggle) */
   const ModeToggle = () => (
     <div className={"flex gap-1.5 p-1 rounded-2xl border backdrop-blur-md mb-5 " + (dark ? "bg-[#101520] border-[#1f283a]" : "bg-gray-100 border-gray-200")}>
-      {[["topic", "📚 Học theo Chủ Đề (Parroto)"], ["srs", "⚡ Ôn luyện hàng ngày (SRS)"]].map(([k, label]) => (
+      {[["topic", "📚 Học theo Chủ Đề (KMG Lab)"], ["srs", "⚡ Ôn luyện hàng ngày (SRS)"]].map(([k, label]) => (
         <button key={k} onClick={() => setLearnMode(k)} style={{ minHeight: 40 }}
           className={"flex-1 font-bold text-xs uppercase tracking-wider transition-all rounded-xl " +
             (learnMode === k ? "bg-accent text-white shadow-md shadow-accent/30" : "bg-transparent text-gray-400 hover:text-white hover:bg-white/5")}>

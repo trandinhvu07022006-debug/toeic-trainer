@@ -24,7 +24,7 @@ import {
 import { VOCAB_TOPICS, VOCAB } from "../data/vocab.js";
 import { pct } from "../lib/scoring.js";
 import { VocabArt } from "../ui/art.jsx";
-import { ParrotoMascot } from "../ui/ParrotoMascot.jsx";
+import { KmgMascot } from "../ui/KmgMascot.jsx";
 
 /* ═══════════════════════════════════════════════════════════════════
    1. MODAL BẢNG XEM TOÀN BỘ TỪ VỰNG CỦA CHỦ ĐỀ
@@ -231,7 +231,7 @@ function TopicCard({
 
 /* ═══════════════════════════════════════════════════════════════════
    3. BẢNG HỌC TẬP & KẾT QUẢ BÊN PHẢI (RIGHT STUDY & CELEBRATION PANEL)
-   Tái hiện chính xác hình ảnh Parroto với Mascot + 3 Stat Boxes + 2 Nút
+   Bảng vinh danh KMG Club với Biểu tượng Khiên & Vương miện + 3 Hộp thống kê
    ═══════════════════════════════════════════════════════════════════ */
 function OverviewRightPanel({
   topic,
@@ -257,20 +257,20 @@ function OverviewRightPanel({
           : "bg-white border-gray-200 shadow-md")
       }
     >
-      {/* Vùng linh vật & Thông điệp chúc mừng */}
+      {/* Vùng linh vật & Thông điệp vinh danh KMG */}
       <div className="flex-1 flex flex-col items-center justify-center text-center my-4">
-        {/* Mascot chim xanh đeo kính thổi kèn chúc mừng */}
+        {/* Biểu tượng KMG vinh quang */}
         <div className="mb-4 transform hover:scale-105 transition-transform duration-300">
-          <ParrotoMascot size={160} />
+          <KmgMascot size={160} />
         </div>
 
-        {/* Tiêu đề chúc mừng */}
+        {/* Tiêu đề vinh danh */}
         <div className="flex items-center gap-2 mb-2">
-          <h2 className="text-2xl sm:text-3xl font-extrabold tracking-tight">Tuyệt vời!</h2>
+          <h2 className="text-2xl sm:text-3xl font-extrabold tracking-tight">Xuất Sắc!</h2>
         </div>
 
         <p className={"text-sm sm:text-base max-w-md mx-auto leading-relaxed mb-4 " + T.sub}>
-          Bạn đã hoàn thành các từ vựng trong nhóm <strong>{topic.topic}</strong>. Hãy duy trì ôn tập thường xuyên để ghi nhớ lâu dài!
+          Bạn đã hoàn thành các từ vựng trong chủ đề <strong>{topic.topic}</strong>. Hãy duy trì ôn tập mỗi ngày để khắc sâu vào trí nhớ dài hạn!
         </p>
 
         {/* Dòng đếm số từ */}
@@ -278,9 +278,9 @@ function OverviewRightPanel({
           Đã học <span className="text-accent">{mastered}</span> / {total} từ
         </p>
 
-        {/* 3 HỘP THỐNG KÊ (3 STAT BOXES - ĐẶC TRƯNG PARROTO) */}
+        {/* 3 HỘP THỐNG KÊ (3 STAT BOXES - KMG CLUB STYLE) */}
         <div className="grid grid-cols-3 gap-2.5 sm:gap-4 w-full max-w-md mx-auto mb-8">
-          {/* Hộp 1: Đang học (Cam / Amber) */}
+          {/* Hộp 1: Đang nạp (Cam / Amber) */}
           <div
             className={
               "rounded-2xl p-3 sm:p-4 border-2 text-center transition-transform hover:-translate-y-0.5 " +
@@ -292,10 +292,10 @@ function OverviewRightPanel({
             <p className="text-2xl sm:text-3xl font-black tnum mb-1 text-amber-400">
               {learning > 0 ? learning : total}
             </p>
-            <p className="text-xs font-bold uppercase tracking-wider opacity-85">Đang học</p>
+            <p className="text-xs font-bold uppercase tracking-wider opacity-85">Đang nạp</p>
           </div>
 
-          {/* Hộp 2: Đang ôn (KMG Red / Crimson) */}
+          {/* Hộp 2: Củng cố (KMG Red / Crimson) */}
           <div
             className={
               "rounded-2xl p-3 sm:p-4 border-2 text-center transition-transform hover:-translate-y-0.5 " +
@@ -307,10 +307,10 @@ function OverviewRightPanel({
             <p className="text-2xl sm:text-3xl font-black tnum mb-1 text-accent">
               {reviewing}
             </p>
-            <p className="text-xs font-bold uppercase tracking-wider opacity-85">Đang ôn</p>
+            <p className="text-xs font-bold uppercase tracking-wider opacity-85">Củng cố</p>
           </div>
 
-          {/* Hộp 3: Thành thạo (Lục / Emerald) */}
+          {/* Hộp 3: Làm chủ (Lục / Emerald) */}
           <div
             className={
               "rounded-2xl p-3 sm:p-4 border-2 text-center transition-transform hover:-translate-y-0.5 " +
@@ -322,12 +322,12 @@ function OverviewRightPanel({
             <p className="text-2xl sm:text-3xl font-black tnum mb-1 text-emerald-400">
               {mastered}
             </p>
-            <p className="text-xs font-bold uppercase tracking-wider opacity-85">Thành thạo</p>
+            <p className="text-xs font-bold uppercase tracking-wider opacity-85">Làm chủ</p>
           </div>
         </div>
       </div>
 
-      {/* 2 NÚT HÀNH ĐỘNG DƯỚI ĐÁY (EXACT PARROTO BUTTONS) */}
+      {/* 2 NÚT HÀNH ĐỘNG DƯỚI ĐÁY */}
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-3.5 pt-4 border-t border-white/10">
         <button
           onClick={onOpenWordList}
@@ -340,7 +340,7 @@ function OverviewRightPanel({
           }
         >
           <List size={18} />
-          <span>XEM TỪ VỰNG</span>
+          <span>XEM TOÀN BỘ TỪ</span>
         </button>
 
         <button
@@ -354,7 +354,7 @@ function OverviewRightPanel({
           style={{ minHeight: 52 }}
           className="w-full rounded-2xl font-bold text-sm sm:text-base flex items-center justify-center gap-2 bg-gradient-to-r from-red-600 via-rose-600 to-red-700 text-white shadow-lg shadow-red-600/30 hover:brightness-110 active:scale-[0.98] transition-all"
         >
-          <span>{hasNext && mastered >= total ? "HỌC NHÓM TIẾP THEO" : "BẮT ĐẦU LUYỆN TẬP"}</span>
+          <span>{hasNext && mastered >= total ? "CHỦ ĐỀ TIẾP THEO" : "BẮT ĐẦU LUYỆN TẬP"}</span>
           <ChevronRight size={19} />
         </button>
       </div>
@@ -997,7 +997,7 @@ function RepeatStudyPanel({ topic, dark, T, tts, onDone, onBack }) {
 }
 
 /* ═══════════════════════════════════════════════════════════════════
-   5. MÀN HÌNH CHÍNH TOPIC LEARN SCREEN (GIAO DIỆN 2 CỘT PARROTO)
+   5. MÀN HÌNH CHÍNH TOPIC LEARN SCREEN (GIAO DIỆN CHUYÊN BIỆT KMG CLUB)
    ═══════════════════════════════════════════════════════════════════ */
 export function TopicLearnScreen({ T, dark, tts, learnedSet, onGrade, onBackToHub }) {
   const [openKey, setOpenKey] = useState(() => VOCAB_TOPICS[0]?.key || "");
@@ -1045,7 +1045,7 @@ export function TopicLearnScreen({ T, dark, tts, learnedSet, onGrade, onBackToHu
           )}
           <div>
             <h1 className="text-xl sm:text-2xl font-bold tracking-tight">
-              4.500 từ tiếng Anh thông dụng
+              4.500 từ vựng cốt lõi TOEIC — KMG Club
             </h1>
             <p className={"text-xs " + T.sub}>
               Chủ đề hiện tại: <span className="font-bold text-accent">{topic?.topic}</span>
@@ -1053,7 +1053,7 @@ export function TopicLearnScreen({ T, dark, tts, learnedSet, onGrade, onBackToHu
           </div>
         </div>
 
-        {/* CỤM NÚT CHUYỂN CHẾ ĐỘ HỌC (PARROTO MODE SWITCHERS CHUẨN) */}
+        {/* CỤM NÚT CHUYỂN CHẾ ĐỘ HỌC CHUYÊN SÂU */}
         <div className="flex items-center gap-1.5 overflow-x-auto pb-1 sm:pb-0 scrollbar-none">
           {[
             { key: "guess", label: "Đoán", Icon: Lightbulb },
@@ -1131,7 +1131,7 @@ export function TopicLearnScreen({ T, dark, tts, learnedSet, onGrade, onBackToHu
         </button>
       </div>
 
-      {/* ===== BỐ CỤC 2 CỘT PARROTO CHUẨN ===== */}
+      {/* ===== BỐ CỤC 2 CỘT CHUYÊN BIỆT KMG CLUB ===== */}
       <div className="grid lg:grid-cols-12 gap-5 items-stretch min-h-[640px]">
         {/* CỘT TRÁI: DANH SÁCH CHỦ ĐỀ (~38% = 5/12 cols) */}
         <div className={"lg:col-span-5 flex flex-col " + (mobileTab === "study" ? "hidden lg:flex" : "flex")}>
